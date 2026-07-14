@@ -1,0 +1,322 @@
+[
+  {
+    "tu_id": "48",
+    "speaker": "PST125_trad",
+    "start": "77.970",
+    "end": "81.280",
+    "parent_tu_id": "47",
+    "text": "e fa ragazzo ragazzo ragazzo"
+  },
+  {
+    "tu_id": "164",
+    "speaker": "PST125_trad",
+    "start": "284.410",
+    "end": "286.500",
+    "parent_tu_id": "163",
+    "text": "cosa succede @migui"
+  },
+  {
+    "tu_id": "258",
+    "speaker": "PST125_trad",
+    "start": "457.730",
+    "end": "458.594",
+    "parent_tu_id": "257",
+    "text": "subito amore mio"
+  },
+  {
+    "tu_id": "262",
+    "speaker": "PST125_trad",
+    "start": "458.887",
+    "end": "460.861",
+    "parent_tu_id": "261",
+    "text": "dammi un piattino dammi un piattino"
+  },
+  {
+    "tu_id": "460",
+    "speaker": "PST125_trad",
+    "start": "690.160",
+    "end": "691.760",
+    "parent_tu_id": "459",
+    "text": "vuole questo, questo questo"
+  },
+  {
+    "tu_id": "463",
+    "speaker": "PST125_trad",
+    "start": "692.673",
+    "end": "693.200",
+    "parent_tu_id": "462",
+    "text": "questo"
+  },
+  {
+    "tu_id": "488",
+    "speaker": "PST122_trad",
+    "start": "735.190",
+    "end": "737.562",
+    "parent_tu_id": "487",
+    "text": "sul tavolo nel caso lo metta lì"
+  },
+  {
+    "tu_id": "519",
+    "speaker": "PST125_trad",
+    "start": "774.677",
+    "end": "775.626",
+    "parent_tu_id": "518",
+    "text": "@ana vuoi stare qua?"
+  },
+  {
+    "tu_id": "523",
+    "speaker": "PST125_trad",
+    "start": "778.081",
+    "end": "783.070",
+    "parent_tu_id": "522",
+    "text": "però tu alleni questi bimbi alla @nomesocietà lì dove c'è corso unione sovietica"
+  },
+  {
+    "tu_id": "592",
+    "speaker": "PST125_trad",
+    "start": "893.700",
+    "end": "894.860",
+    "parent_tu_id": "591",
+    "text": "fai attenzione"
+  },
+  {
+    "tu_id": "686",
+    "speaker": "PST122_trad",
+    "start": "1049.700",
+    "end": "1050.460",
+    "parent_tu_id": "685",
+    "text": "non vuole"
+  },
+  {
+    "tu_id": "758",
+    "speaker": "PST125_trad",
+    "start": "1169.250",
+    "end": "1171.820",
+    "parent_tu_id": "757",
+    "text": "però togligli... dammi che ti taglio questo pezzo dammi"
+  },
+  {
+    "tu_id": "822",
+    "speaker": "PST122_trad",
+    "start": "1293.638",
+    "end": "1294.990",
+    "parent_tu_id": "821",
+    "text": "#_mh non vuole (capire)"
+  },
+  {
+    "tu_id": "961",
+    "speaker": "PST125_trad",
+    "start": "1513.330",
+    "end": "1515.517",
+    "parent_tu_id": "960",
+    "text": "oh che vecchio"
+  },
+  {
+    "tu_id": "1041",
+    "speaker": "PST125_trad",
+    "start": "1645.536",
+    "end": "1648.746",
+    "parent_tu_id": "1040",
+    "text": "@a~ @do~ @vi~ @dora non disturbarla"
+  },
+  {
+    "tu_id": "1298",
+    "speaker": "PST122_trad",
+    "start": "2045.530",
+    "end": "2048.510",
+    "parent_tu_id": "1297",
+    "text": "oh che noioso"
+  },
+  {
+    "tu_id": "1650",
+    "speaker": "PST123_trad",
+    "start": "2543.162",
+    "end": "2545.039",
+    "parent_tu_id": "1649",
+    "text": "sì perché non ce n'erano altre"
+  },
+  {
+    "tu_id": "1718",
+    "speaker": "PST125_trad",
+    "start": "2659.987",
+    "end": "2661.915",
+    "parent_tu_id": "1717",
+    "text": "cosa stai facendo @migui"
+  },
+  {
+    "tu_id": "1724",
+    "speaker": "PST125_trad",
+    "start": "2666.793",
+    "end": "2669.706",
+    "parent_tu_id": "1723",
+    "text": "@migui dammi il bicchiere che ti ha dato prima papà"
+  },
+  {
+    "tu_id": "1764",
+    "speaker": "PST125_trad",
+    "start": "2718.260",
+    "end": "2719.550",
+    "parent_tu_id": "1763",
+    "text": "@miguel lascia"
+  },
+  {
+    "tu_id": "1773",
+    "speaker": "PST122_trad",
+    "start": "2734.899",
+    "end": "2738.300",
+    "parent_tu_id": "1772",
+    "text": "cioè o mi trovo un vecchietto, andando"
+  },
+  {
+    "tu_id": "1849",
+    "speaker": "PST122_trad",
+    "start": "2850.019",
+    "end": "2851.031",
+    "parent_tu_id": "1848",
+    "text": "ti tolgo"
+  },
+  {
+    "tu_id": "1853",
+    "speaker": "PST122_trad",
+    "start": "2861.156",
+    "end": "2863.091",
+    "parent_tu_id": "1852",
+    "text": "ba~ togliglielo togliglielo"
+  },
+  {
+    "tu_id": "2081",
+    "speaker": "PST122_trad",
+    "start": "3229.220",
+    "end": "3230.760",
+    "parent_tu_id": "2080",
+    "text": "lo rompi"
+  },
+  {
+    "tu_id": "2107",
+    "speaker": "PST122_trad",
+    "start": "3261.100",
+    "end": "3262.920",
+    "parent_tu_id": "2106",
+    "text": "così si rompe"
+  },
+  {
+    "tu_id": "2418",
+    "speaker": "PST122_trad",
+    "start": "3713.470",
+    "end": "3714.674",
+    "parent_tu_id": "2417",
+    "text": "noioso"
+  },
+  {
+    "tu_id": "2434",
+    "speaker": "PST122_trad",
+    "start": "3730.410",
+    "end": "3731.680",
+    "parent_tu_id": "2433",
+    "text": "no no no non voglio"
+  },
+  {
+    "tu_id": "2553",
+    "speaker": "PST125_trad",
+    "start": "3883.530",
+    "end": "3886.580",
+    "parent_tu_id": "2552",
+    "text": "lascia lì"
+  },
+  {
+    "tu_id": "2623",
+    "speaker": "PST124_trad",
+    "start": "3963.710",
+    "end": "3964.280",
+    "parent_tu_id": "2621",
+    "text": "giovedì"
+  },
+  {
+    "tu_id": "2871",
+    "speaker": "PST122_trad",
+    "start": "4354.880",
+    "end": "4356.640",
+    "parent_tu_id": "2870",
+    "text": "domani viene @xx a prenderti"
+  },
+  {
+    "tu_id": "2894",
+    "speaker": "PST122_trad",
+    "start": "4382.310",
+    "end": "4384.200",
+    "parent_tu_id": "2893",
+    "text": "mh (quella più pazza) sei tu #mammina"
+  },
+  {
+    "tu_id": "2983",
+    "speaker": "PST122_trad",
+    "start": "4515.260",
+    "end": "4517.110",
+    "parent_tu_id": "2982",
+    "text": "no no no lascia"
+  },
+  {
+    "tu_id": "3129",
+    "speaker": "PST124_trad",
+    "start": "4698.090",
+    "end": "4699.520",
+    "parent_tu_id": "3128",
+    "text": "(sorella tornerai)"
+  },
+  {
+    "tu_id": "3131",
+    "speaker": "PST122_trad",
+    "start": "4699.630",
+    "end": "4701.430",
+    "parent_tu_id": "3130",
+    "text": "(sì sorella tornerò)"
+  },
+  {
+    "tu_id": "3135",
+    "speaker": "PST122_trad",
+    "start": "4707.260",
+    "end": "4710.612",
+    "parent_tu_id": "3134",
+    "text": "xxx mangiare il piccione io gli ho detto no signore mi spiace"
+  },
+  {
+    "tu_id": "3210",
+    "speaker": "PST122_trad",
+    "start": "4811.330",
+    "end": "4813.650",
+    "parent_tu_id": "3209",
+    "text": "e lui mi fa no basta stai zitta io faccio no"
+  },
+  {
+    "tu_id": "3281",
+    "speaker": "PST122_trad",
+    "start": "4907.640",
+    "end": "4912.000",
+    "parent_tu_id": "3280",
+    "text": "l'altra volta c'era l'asse del water alzata e lui (stava per cadere dentro)"
+  },
+  {
+    "tu_id": "3293",
+    "speaker": "PST122_trad",
+    "start": "4925.049",
+    "end": "4928.192",
+    "parent_tu_id": "3292",
+    "text": "perché se no è circondato da tante donne e diventa"
+  },
+  {
+    "tu_id": "3296",
+    "speaker": "PST122_trad",
+    "start": "4929.610",
+    "end": "4930.170",
+    "parent_tu_id": "3295",
+    "text": "non so che cosa"
+  },
+  {
+    "tu_id": "3504",
+    "speaker": "PST122_trad",
+    "start": "5233.600",
+    "end": "5235.880",
+    "parent_tu_id": "3503",
+    "text": "quello di (impazzisci) lì sì"
+  }
+]

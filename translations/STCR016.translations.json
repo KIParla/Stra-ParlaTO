@@ -1,0 +1,634 @@
+[
+  {
+    "tu_id": "4",
+    "speaker": "PST086_trad",
+    "start": "5.220",
+    "end": "6.912",
+    "parent_tu_id": "3",
+    "text": "eh ma non li ha mandati al signor cosmin?"
+  },
+  {
+    "tu_id": "6",
+    "speaker": "PST203_trad",
+    "start": "7.340",
+    "end": "9.770",
+    "parent_tu_id": "5",
+    "text": "ah no se ce li ha il signor cosmin no~"
+  },
+  {
+    "tu_id": "11",
+    "speaker": "PST092_trad",
+    "start": "14.690",
+    "end": "16.930",
+    "parent_tu_id": "10",
+    "text": "col telefono del signor cosmin non è che sono"
+  },
+  {
+    "tu_id": "24",
+    "speaker": "PST092_trad",
+    "start": "32.970",
+    "end": "40.679",
+    "parent_tu_id": "23",
+    "text": "ma io tipo cioè inizierei proprio con la domanda perché mi ricordo che ho fatto la domanda: com'è nato il centro metterei proprio quella domanda con (chi è) l'equipe [del centro]"
+  },
+  {
+    "tu_id": "27",
+    "speaker": "PST211_trad",
+    "start": "40.679",
+    "end": "43.890",
+    "parent_tu_id": "26",
+    "text": "okay scrivilo qua sopra magari com'è nato il centro"
+  },
+  {
+    "tu_id": "39",
+    "speaker": "PST092_trad",
+    "start": "60.830",
+    "end": "61.890",
+    "parent_tu_id": "38",
+    "text": "com'è nato il centro"
+  },
+  {
+    "tu_id": "59",
+    "speaker": "PST092_trad",
+    "start": "99.860",
+    "end": "102.770",
+    "parent_tu_id": "58",
+    "text": "magari poi l'orchestra insieme all'intervista del signor popescu"
+  },
+  {
+    "tu_id": "75",
+    "speaker": "PST092_trad",
+    "start": "119.081",
+    "end": "121.793",
+    "parent_tu_id": "74",
+    "text": "no facciamo dei pezzi che riguardino di più il centro"
+  },
+  {
+    "tu_id": "80",
+    "speaker": "PST203_trad",
+    "start": "125.980",
+    "end": "126.660",
+    "parent_tu_id": "79",
+    "text": "signor"
+  },
+  {
+    "tu_id": "126",
+    "speaker": "PST092_trad",
+    "start": "189.690",
+    "end": "193.780",
+    "parent_tu_id": "125",
+    "text": "l'intervis~ cioè tipo l'intervista della signora ecaterina dura per un un bel pezzo di durata"
+  },
+  {
+    "tu_id": "130",
+    "speaker": "PST092_trad",
+    "start": "194.650",
+    "end": "199.512",
+    "parent_tu_id": "129",
+    "text": "magari riprendiamo delle domande dell'intervista alla signora ecaterina e tipo quando parla delle stanze che c'è sala dei nonni"
+  },
+  {
+    "tu_id": "141",
+    "speaker": "PST092_trad",
+    "start": "213.130",
+    "end": "219.650",
+    "parent_tu_id": "140",
+    "text": "e poi visto che la signora ecaterina se non ricordo male ha fatto la presentazione delle stanze"
+  },
+  {
+    "tu_id": "150",
+    "speaker": "PST092_trad",
+    "start": "228.080",
+    "end": "232.520",
+    "parent_tu_id": "149",
+    "text": "perché pensavo tipo di prendere tipo le domande chiavi della ecaterina e metterle dopo ogni cosa"
+  },
+  {
+    "tu_id": "162",
+    "speaker": "PST085_trad",
+    "start": "242.110",
+    "end": "243.500",
+    "parent_tu_id": "161",
+    "text": "dai che scrivo io"
+  },
+  {
+    "tu_id": "175",
+    "speaker": "PST092_trad",
+    "start": "261.030",
+    "end": "262.810",
+    "parent_tu_id": "174",
+    "text": "ma non puoi scrivere tipo solo sala dei nonni"
+  },
+  {
+    "tu_id": "214",
+    "speaker": "PST087_trad",
+    "start": "322.570",
+    "end": "328.731",
+    "parent_tu_id": "213",
+    "text": "metti solo tipo qualche domanda com'è nato il centro e poi facciamo sul montaggio e tipo unisci"
+  },
+  {
+    "tu_id": "225",
+    "speaker": "PST092_trad",
+    "start": "339.340",
+    "end": "342.241",
+    "parent_tu_id": "224",
+    "text": "cioè adesso mi è venuto in mente tipo quel collegamento di sala dei nonni"
+  },
+  {
+    "tu_id": "265",
+    "speaker": "PST086_trad",
+    "start": "410.470",
+    "end": "412.740",
+    "parent_tu_id": "264",
+    "text": "quando la signora ecaterina spiega i balli"
+  },
+  {
+    "tu_id": "325",
+    "speaker": "PST087_trad",
+    "start": "501.590",
+    "end": "505.030",
+    "parent_tu_id": "324",
+    "text": "si apriva tipo una porta e poi mettiamo l'intervista della signora ecaterina"
+  },
+  {
+    "tu_id": "382",
+    "speaker": "PST092_trad",
+    "start": "578.460",
+    "end": "581.037",
+    "parent_tu_id": "381",
+    "text": "non possiamo sfruttare quelle che ha fatto la signora madalina"
+  },
+  {
+    "tu_id": "386",
+    "speaker": "PST092_trad",
+    "start": "583.640",
+    "end": "589.690",
+    "parent_tu_id": "385",
+    "text": "che la signora marinela mi ricordo è venuta la signora marinela ha fatto almeno tipo tre volte le clip di noi che cantavamo la stessa strofa non possiamo suare quelle"
+  },
+  {
+    "tu_id": "391",
+    "speaker": "PST092_trad",
+    "start": "591.010",
+    "end": "594.120",
+    "parent_tu_id": "390",
+    "text": "possiamo chiedere alla si~ chiediamo alla signora ecaterina se possiamo usarle"
+  },
+  {
+    "tu_id": "423",
+    "speaker": "PST092_trad",
+    "start": "642.720",
+    "end": "644.220",
+    "parent_tu_id": "422",
+    "text": "#_negli anni passati"
+  },
+  {
+    "tu_id": "437",
+    "speaker": "PST092_trad",
+    "start": "662.480",
+    "end": "664.395",
+    "parent_tu_id": "436",
+    "text": "cosa dobbiamo chiedere alla signora ecaterina?"
+  },
+  {
+    "tu_id": "475",
+    "speaker": "PST203_trad",
+    "start": "711.240",
+    "end": "713.240",
+    "parent_tu_id": "474",
+    "text": "intervista alla signora ecaterina"
+  },
+  {
+    "tu_id": "492",
+    "speaker": "PST092_trad",
+    "start": "734.266",
+    "end": "735.496",
+    "parent_tu_id": "491",
+    "text": "e del centro"
+  },
+  {
+    "tu_id": "494",
+    "speaker": "PST092_trad",
+    "start": "735.710",
+    "end": "737.882",
+    "parent_tu_id": "493",
+    "text": "se non sbaglio abbiamo fatto anche una domanda sul centro"
+  },
+  {
+    "tu_id": "531",
+    "speaker": "PST092_trad",
+    "start": "774.790",
+    "end": "777.570",
+    "parent_tu_id": "530",
+    "text": "passione per la musica e collaborazione col centro"
+  },
+  {
+    "tu_id": "545",
+    "speaker": "PST085_trad",
+    "start": "793.270",
+    "end": "794.980",
+    "parent_tu_id": "544",
+    "text": "allora ilaria stammi a sentire un attimo"
+  },
+  {
+    "tu_id": "562",
+    "speaker": "PST085_trad",
+    "start": "815.860",
+    "end": "816.860",
+    "parent_tu_id": "561",
+    "text": "cosa mi tocchi"
+  },
+  {
+    "tu_id": "594",
+    "speaker": "PST092_trad",
+    "start": "861.730",
+    "end": "864.730",
+    "parent_tu_id": "593",
+    "text": "andrà tutto bene tipo pandemia covid"
+  },
+  {
+    "tu_id": "616",
+    "speaker": "PST092_trad",
+    "start": "896.370",
+    "end": "898.890",
+    "parent_tu_id": "615",
+    "text": "parlavi di quan~ di quando sei arrivata al centro"
+  },
+  {
+    "tu_id": "633",
+    "speaker": "PST092_trad",
+    "start": "927.660",
+    "end": "929.699",
+    "parent_tu_id": "632",
+    "text": "eh pensieri del centro"
+  },
+  {
+    "tu_id": "637",
+    "speaker": "PST092_trad",
+    "start": "929.756",
+    "end": "931.570",
+    "parent_tu_id": "636",
+    "text": "pensieri di anita del centro"
+  },
+  {
+    "tu_id": "645",
+    "speaker": "PST087_trad",
+    "start": "959.180",
+    "end": "962.141",
+    "parent_tu_id": "644",
+    "text": "eh come copertura mentre parla la signora ecaterina"
+  },
+  {
+    "tu_id": "651",
+    "speaker": "PST092_trad",
+    "start": "965.200",
+    "end": "971.838",
+    "parent_tu_id": "650",
+    "text": "quando la signora @ecaterina parla delle attività magari mettiamo tipo quando parla dei balli mettiamo le clip di dei balli e poi facciamo ritorno alla signora ecaterina"
+  },
+  {
+    "tu_id": "711",
+    "speaker": "PST085_trad",
+    "start": "1064.290",
+    "end": "1067.698",
+    "parent_tu_id": "710",
+    "text": "grazie"
+  },
+  {
+    "tu_id": "724",
+    "speaker": "PST087_trad",
+    "start": "1084.370",
+    "end": "1086.210",
+    "parent_tu_id": "723",
+    "text": "prima che inizi a parlare la signora ecaterina"
+  },
+  {
+    "tu_id": "733",
+    "speaker": "PST092_trad",
+    "start": "1094.650",
+    "end": "1101.535",
+    "parent_tu_id": "732",
+    "text": "non dipende in base alla signora ecate~ cioè non dipende in base a cosa dice leonardo perché non so se leonardo l'abbiamo intervistato prima o dopo"
+  },
+  {
+    "tu_id": "788",
+    "speaker": "PST203_trad",
+    "start": "1190.390",
+    "end": "1192.580",
+    "parent_tu_id": "787",
+    "text": "quindi partiamo con la signora ecaterina"
+  },
+  {
+    "tu_id": "855",
+    "speaker": "PST086_trad",
+    "start": "1317.030",
+    "end": "1319.630",
+    "parent_tu_id": "854",
+    "text": "e poi l'ha mandato alla signora ecaterina e al signor cosmin"
+  },
+  {
+    "tu_id": "866",
+    "speaker": "PST087_trad",
+    "start": "1336.227",
+    "end": "1337.817",
+    "parent_tu_id": "865",
+    "text": "cioè stanno facendo la con l'orchestra"
+  },
+  {
+    "tu_id": "961",
+    "speaker": "PST092_trad",
+    "start": "1528.944",
+    "end": "1532.376",
+    "parent_tu_id": "960",
+    "text": "se no mettiamo la clip di mh io che ti vesto con le robe di sala dei nonni"
+  },
+  {
+    "tu_id": "985",
+    "speaker": "PST087_trad",
+    "start": "1557.060",
+    "end": "1558.700",
+    "parent_tu_id": "984",
+    "text": "gli hai messo la bambola"
+  },
+  {
+    "tu_id": "1004",
+    "speaker": "PST087_trad",
+    "start": "1581.160",
+    "end": "1581.848",
+    "parent_tu_id": "1003",
+    "text": "centro"
+  },
+  {
+    "tu_id": "1066",
+    "speaker": "PST086_trad",
+    "start": "1677.540",
+    "end": "1679.420",
+    "parent_tu_id": "1065",
+    "text": "#_il futuro è in buone mani"
+  },
+  {
+    "tu_id": "1081",
+    "speaker": "PST092_trad",
+    "start": "1705.350",
+    "end": "1706.920",
+    "parent_tu_id": "1080",
+    "text": "#_le radici nel ballo"
+  },
+  {
+    "tu_id": "1088",
+    "speaker": "PST092_trad",
+    "start": "1715.980",
+    "end": "1719.670",
+    "parent_tu_id": "1087",
+    "text": "il cuore che balla dall'italia alla romania a ritmo di musica"
+  },
+  {
+    "tu_id": "1092",
+    "speaker": "PST083_trad",
+    "start": "1723.390",
+    "end": "1725.054",
+    "parent_tu_id": "1091",
+    "text": "la nostalgia di casa se no"
+  },
+  {
+    "tu_id": "1094",
+    "speaker": "PST086_trad",
+    "start": "1724.906",
+    "end": "1725.813",
+    "parent_tu_id": "1093",
+    "text": "la nostalgia di casa"
+  },
+  {
+    "tu_id": "1101",
+    "speaker": "PST092_trad",
+    "start": "1729.666",
+    "end": "1730.773",
+    "parent_tu_id": "1100",
+    "text": "casa romena"
+  },
+  {
+    "tu_id": "1106",
+    "speaker": "PST092_trad",
+    "start": "1735.230",
+    "end": "1737.120",
+    "parent_tu_id": "1105",
+    "text": "oppure anima romena"
+  },
+  {
+    "tu_id": "1114",
+    "speaker": "PST086_trad",
+    "start": "1744.320",
+    "end": "1745.880",
+    "parent_tu_id": "1113",
+    "text": "la nostalgia di casa"
+  },
+  {
+    "tu_id": "1116",
+    "speaker": "PST092_trad",
+    "start": "1746.027",
+    "end": "1751.707",
+    "parent_tu_id": "1115",
+    "text": "nostalgia di casa io mi sto sentendo troppo a casa mia in sto momento pe~ cioè potrei sdraiarmi e rimanere sdraiata per dire"
+  },
+  {
+    "tu_id": "1120",
+    "speaker": "PST086_trad",
+    "start": "1752.820",
+    "end": "1753.420",
+    "parent_tu_id": "1119",
+    "text": "casa"
+  },
+  {
+    "tu_id": "1150",
+    "speaker": "PST092_trad",
+    "start": "1797.040",
+    "end": "1798.660",
+    "parent_tu_id": "1149",
+    "text": "oh cavolo"
+  },
+  {
+    "tu_id": "1159",
+    "speaker": "PST092_trad",
+    "start": "1819.020",
+    "end": "1822.340",
+    "parent_tu_id": "1158",
+    "text": "no mi dà animo romeno con l'italiano"
+  },
+  {
+    "tu_id": "1213",
+    "speaker": "PST087_trad",
+    "start": "1914.190",
+    "end": "1915.350",
+    "parent_tu_id": "1212",
+    "text": "ciao"
+  },
+  {
+    "tu_id": "1215",
+    "speaker": "PST085_trad",
+    "start": "1915.330",
+    "end": "1915.930",
+    "parent_tu_id": "1214",
+    "text": "mamma mia"
+  },
+  {
+    "tu_id": "1217",
+    "speaker": "PST086_trad",
+    "start": "1917.380",
+    "end": "1918.900",
+    "parent_tu_id": "1216",
+    "text": "eh il signor cosmin è vecchio"
+  },
+  {
+    "tu_id": "1252",
+    "speaker": "PST083_trad",
+    "start": "1971.120",
+    "end": "1972.330",
+    "parent_tu_id": "1251",
+    "text": "nostalgia di casa"
+  },
+  {
+    "tu_id": "1292",
+    "speaker": "PST086_trad",
+    "start": "2038.110",
+    "end": "2040.080",
+    "parent_tu_id": "1291",
+    "text": "#_antenati antenati"
+  },
+  {
+    "tu_id": "1295",
+    "speaker": "PST092_trad",
+    "start": "2040.480",
+    "end": "2042.200",
+    "parent_tu_id": "1294",
+    "text": "antena~ cosa c'entra"
+  },
+  {
+    "tu_id": "1297",
+    "speaker": "PST085_trad",
+    "start": "2042.201",
+    "end": "2043.660",
+    "parent_tu_id": "1296",
+    "text": "dai antena~ da~"
+  },
+  {
+    "tu_id": "1300",
+    "speaker": "PST086_trad",
+    "start": "2043.770",
+    "end": "2044.880",
+    "parent_tu_id": "1299",
+    "text": "cosa che"
+  },
+  {
+    "tu_id": "1302",
+    "speaker": "PST086_trad",
+    "start": "2045.900",
+    "end": "2047.880",
+    "parent_tu_id": "1301",
+    "text": "che siamo anche noi vecchi ora"
+  },
+  {
+    "tu_id": "1307",
+    "speaker": "PST086_trad",
+    "start": "2052.214",
+    "end": "2055.053",
+    "parent_tu_id": "1306",
+    "text": "#_mettete qualcosa mettiamo la nostalgia di casa"
+  },
+  {
+    "tu_id": "1309",
+    "speaker": "PST086_trad",
+    "start": "2056.068",
+    "end": "2056.882",
+    "parent_tu_id": "1308",
+    "text": "#_e basta"
+  },
+  {
+    "tu_id": "1312",
+    "speaker": "PST086_trad",
+    "start": "2058.680",
+    "end": "2060.673",
+    "parent_tu_id": "1311",
+    "text": "eh la nostalgia di casa e basta"
+  },
+  {
+    "tu_id": "1316",
+    "speaker": "PST086_trad",
+    "start": "2065.439",
+    "end": "2068.773",
+    "parent_tu_id": "1315",
+    "text": "cioè noi quando siamo al centro ci sentiamo un pezzo della romania"
+  },
+  {
+    "tu_id": "1332",
+    "speaker": "PST083_trad",
+    "start": "2082.960",
+    "end": "2084.747",
+    "parent_tu_id": "1331",
+    "text": "quindi casa o nostalgia di casa"
+  },
+  {
+    "tu_id": "1335",
+    "speaker": "PST087_trad",
+    "start": "2084.759",
+    "end": "2085.666",
+    "parent_tu_id": "1334",
+    "text": "nostalgia di casa"
+  },
+  {
+    "tu_id": "1337",
+    "speaker": "PST092_trad",
+    "start": "2085.012",
+    "end": "2086.292",
+    "parent_tu_id": "1336",
+    "text": "nostalgia di casa"
+  },
+  {
+    "tu_id": "1349",
+    "speaker": "PST086_trad",
+    "start": "2115.840",
+    "end": "2117.260",
+    "parent_tu_id": "1348",
+    "text": "arriva la pioggia"
+  },
+  {
+    "tu_id": "1518",
+    "speaker": "PST085_trad",
+    "start": "2397.254",
+    "end": "2399.107",
+    "parent_tu_id": "1517",
+    "text": "ti rompi la testa adesso"
+  },
+  {
+    "tu_id": "1521",
+    "speaker": "PST092_trad",
+    "start": "2399.854",
+    "end": "2401.750",
+    "parent_tu_id": "1520",
+    "text": "rompiti la testa"
+  },
+  {
+    "tu_id": "1526",
+    "speaker": "PST092_trad",
+    "start": "2407.400",
+    "end": "2408.507",
+    "parent_tu_id": "1525",
+    "text": "tu vuoi morire"
+  },
+  {
+    "tu_id": "1528",
+    "speaker": "PST092_trad",
+    "start": "2408.880",
+    "end": "2409.860",
+    "parent_tu_id": "1527",
+    "text": "tu vuoi morire"
+  },
+  {
+    "tu_id": "1533",
+    "speaker": "PST092_trad",
+    "start": "2411.400",
+    "end": "2413.890",
+    "parent_tu_id": "1532",
+    "text": "xx xx ho ancora xx xx"
+  }
+]

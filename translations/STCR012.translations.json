@@ -1,0 +1,58 @@
+[
+  {
+    "tu_id": "109",
+    "speaker": "PST092_trad",
+    "start": "203.770",
+    "end": "206.070",
+    "parent_tu_id": "108",
+    "text": "oh che carino"
+  },
+  {
+    "tu_id": "111",
+    "speaker": "PST085_trad",
+    "start": "208.415",
+    "end": "210.325",
+    "parent_tu_id": "110",
+    "text": "#_no l'ho dimenticato qui"
+  },
+  {
+    "tu_id": "139",
+    "speaker": "PST085_trad",
+    "start": "264.420",
+    "end": "265.130",
+    "parent_tu_id": "138",
+    "text": "principessa"
+  },
+  {
+    "tu_id": "141",
+    "speaker": "PST085_trad",
+    "start": "266.670",
+    "end": "268.030",
+    "parent_tu_id": "140",
+    "text": "sai io sono la principessa"
+  },
+  {
+    "tu_id": "153",
+    "speaker": "PST085_trad",
+    "start": "297.240",
+    "end": "298.540",
+    "parent_tu_id": "152",
+    "text": "ma che hai fatto un video"
+  },
+  {
+    "tu_id": "155",
+    "speaker": "PST085_trad",
+    "start": "298.650",
+    "end": "299.370",
+    "parent_tu_id": "154",
+    "text": "seriamente?"
+  },
+  {
+    "tu_id": "157",
+    "speaker": "???_trad",
+    "start": "299.470",
+    "end": "299.950",
+    "parent_tu_id": "156",
+    "text": "seriamente"
+  }
+]

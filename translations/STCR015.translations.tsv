@@ -1,0 +1,453 @@
+tu_id	speaker	start	end	parent_tu_id	text
+1	PST119_trad	4.720	8.550	0	dai stasera mangiamo uova all'occhio di bue con
+3	PST120_trad	8.600	9.390	2	formaggio
+5	PST119_trad	9.400	10.450	4	porro?
+7	PST119_trad	10.950	12.340	6	che altro hai messo qui?
+9	PST120_trad	12.875	13.965	8	formaggio
+11	PST119_trad	13.975	16.105	10	sì hai messo il formaggio non è vero
+13	PST119_trad	19.590	21.920	12	aspetta che te lo passo io passami anche a me una
+15	PST119_trad	21.950	23.100	14	antonio tu mangi
+18	PST120_trad	24.700	27.490	17	come parlava romeno
+20	PST119_trad	27.490	28.840	19	lui sì lui no
+22	PST119_trad	29.405	31.215	21	no antonio non lo parla
+28	PST119_trad	37.620	40.320	27	dovevi mettere un po' di prosciutto sopra
+33	PST120_trad	44.770	45.710	32	vogliamo iniziare?
+35	??_trad	45.740	46.240	34	si
+37	PST120_trad	47.815	48.750	36	padre nostro
+39	PST119_trad	51.540	52.500	38	finiscila
+41	PST119_trad	55.990	57.680	40	e se lui ti chiede (traduci quello)
+43	PST120_trad	57.700	59.620	42	ehm ringraziamo il
+45	PST118_trad	59.140	61.450	44	ha detto che non conta chi chi xx
+49	PST119_trad	64.450	65.530	48	tu hai mangiato?
+52	PST119_trad	76.360	77.220	51	vuoi qualcos'altro?
+54	PST120_trad	77.225	79.525	53	questa sera hai un po bruciato questo (xxx)
+56	PST119_trad	80.640	81.840	55	l'hai fatto tu non io
+58	PST120_trad	81.700	84.250	57	ogni volta che ti faccio fare a te da mangiare
+60	PST120_trad	85.030	86.780	59	fai solo cazzate
+63	PST120_trad	88.790	91.420	62	io ti ho detto di stare là a guardare cosi
+65	PST120_trad	91.530	96.240	64	a volte impari ora come mangio questa cipolla fritta
+67	PST119_trad	96.390	97.060	66	non mangiare
+69	PST118_trad	97.080	98.660	68	ma non c-ă il sughetto
+72	PST120_trad	99.590	102.030	71	neanche il sughetto hai lasciato che si asciughi del tutto
+74	PST120_trad	103.470	105.580	73	non farai più d'ora in poi non farai più tu da mangiare
+78	PST119_trad	115.810	116.530	77	bevi qualcosa?
+80	PST118_trad	117.620	118.065	79	no
+82	PST119_trad	119.620	123.430	81	se hai fame fatti ancora dei
+90	PST120_trad	133.865	137.085	89	ho messo troppo poco sugo
+92	PST119_trad	137.420	138.720	91	e si è bruciato
+94	PST120_trad	138.770	140.260	93	e mi è scappato di mano quel (xxx)
+98	PST119_trad	144.020	144.870	97	lasciala un po'
+100	PST119_trad	146.210	146.950	99	è cosi
+102	PST120_trad	149.090	150.210	101	malox per questa sera
+108	PST119_trad	160.570	164.310	107	io domani mattina
+110	PST120_trad	160.580	163.800	109	ehm tu il tuo amico
+112	PST119_trad	164.380	166.361	111	se dormo lasciami dormire va bene ?
+115	PST120_trad	166.480	167.200	114	non massimo
+117	PST120_trad	167.765	168.715	116	questo
+121	PST120_trad	171.695	175.200	120	come si permette a mandarmi messaggi sul tuo telefono scusami
+124	PST120_trad	176.377	178.590	123	ti ha preso il telefono dalle mani e tu gliel'hai dato
+126	PST118_trad	177.917	178.567	125	si
+128	PST119_trad	180.810	182.010	127	sì ma io
+130	PST119_trad	182.255	183.195	129	che ha scritto
+132	PST118_trad	183.300	187.690	131	mi ha fatto un messaggio vocale ha detto che
+135	PST120_trad	188.450	190.030	134	che lei voleva venire a casa
+137	PST118_trad	190.060	190.580	136	si
+139	PST119_trad	191.515	192.290	138	che lui non lo lascia
+142	PST119_trad	194.835	196.325	141	ha preso la sua macchina?
+145	PST119_trad	197.320	197.840	144	di robi
+149	PST119_trad	204.750	206.350	148	ma rob è ora
+151	PST119_trad	206.745	208.670	150	ha la sessione di esami o cosa
+154	PST118_trad	210.090	211.190	153	verso
+156	PST118_trad	211.505	212.185	155	giugno
+158	PST119_trad	212.260	213.630	157	fino a giugno non ha nessun esame?
+160	PST118_trad	213.700	214.050	159	no
+165	PST118_trad	218.670	222.280	164	mh no no no non credo
+169	PST119_trad	227.190	229.920	168	come massimo praticamente no non hanno la stessa
+171	PST118_trad	230.610	234.150	170	si si adesso ho delle lezioni
+173	PST119_trad	234.835	235.595	172	separate
+175	PST118_trad	235.590	236.049	174	si
+177	PST119_trad	236.865	238.405	176	hanno lo stesso profilo?
+179	PST118_trad	238.850	239.030	178	no
+181	PST119_trad	239.035	239.905	180	indirizz~ ah no?
+185	PST118_trad	243.120	246.080	184	si fanno ingegneria ma robi fa
+192	PST120_trad	254.915	255.515	191	fa?
+205	PST120_trad	278.020	279.590	204	parla romeno
+207	PST119_trad	283.336	284.950	206	lo mettiamo da parte
+210	PST119_trad	290.310	292.490	209	speriamo che
+213	PST119_trad	298.650	301.300	212	secondo me anche la tua giacca non la indossi più da ora
+217	PST119_trad	306.140	309.210	216	a parte la giacca di jeans hai qualcos'altro?
+220	PST119_trad	309.787	310.410	219	no neanche io
+222	PST119_trad	313.050	314.910	221	quella giacca xx
+227	PST119_trad	330.810	331.560	226	non ti piace
+229	PST118_trad	331.570	331.840	228	no
+231	PST119_trad	333.110	334.080	230	perché?
+234	PST119_trad	335.990	337.870	233	è rimasto troppo sodo
+236	PST120_trad	337.890	338.525	235	è forte?
+239	PST118_trad	338.640	338.990	238	sì
+241	PST120_trad	339.490	341.492	240	queste sono devi mangiare (pesante)
+243	PST119_trad	341.490	344.390	242	si ma al gusto non era cosi forte
+247	PST119_trad	349.030	350.310	246	questa volta::
+249	PST119_trad	351.025	352.405	248	la cipolla è fritta
+251	PST119_trad	352.570	354.890	250	non c'è il sugo le uova sono dure
+253	PST119_trad	356.155	358.965	252	l'hai fatto secondo me anche troppo in fretta
+255	PST119_trad	359.865	360.805	254	hai parlato un po'
+257	PST119_trad	361.330	363.170	256	la volta scorsa hai detto di averla lasciata un'ora
+260	PST119_trad	364.625	367.275	259	lo hai cotto più piano a fuoco lento forse
+262	PST120_trad	365.327	366.180	261	l'ho fatta più
+264	PST120_trad	367.525	368.745	263	l'ho fatta più
+266	PST119_trad	369.270	370.190	265	l'hai fatta più lentamente
+268	PST120_trad	370.190	370.639	267	a fuoco lento
+273	PST119_trad	383.050	385.130	272	ma tu quando inizi questo giovedì?
+275	PST118_trad	385.375	385.835	274	sì
+277	PST119_trad	386.400	388.300	276	devi vedere cosa fare con l'abbonamento
+279	PST118_trad	388.310	389.340	278	ma non so
+281	PST119_trad	389.470	391.380	280	non so fatti due conti no?
+283	PST119_trad	393.328	395.530	282	vedi se ti conviene fare l'abbonamento
+285	PST119_trad	396.940	398.740	284	ma tutto il mese vai cosi?
+287	PST118_trad	398.740	399.240	286	si
+289	PST118_trad	400.635	401.375	288	fino
+291	PST118_trad	404.320	407.020	290	non so quindici marzo
+293	PST118_trad	407.390	408.290	292	a maggio
+297	PST119_trad	414.290	419.790	296	la verità è che è difficile fare tutti i giorni il biglietto eh cosi è devi fare anche il biglietto
+300	PST119_trad	420.300	424.590	299	sull'autobus ti fai anche il biglietto a questo sull'autobus non puoi
+302	PST118_trad	424.620	426.850	301	no sul telefono posso farmelo ma
+304	PST118_trad	428.803	429.910	303	per il treno
+306	PST118_trad	429.935	432.625	305	non so quando eh mh
+308	PST119_trad	433.645	435.555	307	a che ora sei di ritorno
+311	PST119_trad	438.405	443.090	310	secondo me un conto così a giornata quanto era circa dieci euro mi sembra
+313	PST118_trad	443.207	443.607	312	si
+315	PST118_trad	444.422	445.282	314	quando
+317	PST118_trad	446.240	447.550	316	vado lì
+319	PST118_trad	448.330	450.370	318	devo prendere la metro
+322	PST119_trad	451.405	454.145	321	metro e treno in tutto arrivi
+324	PST120_trad	455.090	456.040	323	dove vai
+326	PST120_trad	456.780	457.720	325	lì dove
+328	PST120_trad	458.135	459.484	327	dove vai lì
+330	PST120_trad	460.405	461.345	329	all'università?
+333	PST120_trad	462.390	464.110	332	all'università o dove
+335	PST119_trad	464.705	465.445	334	ad ogni modo
+337	PST120_trad	465.475	466.270	336	dove vai
+340	PST118_trad	466.541	466.869	339	sì
+342	PST119_trad	467.016	469.295	341	hai fatto un conto e arrivi a circa dieci euro
+344	PST118_trad	469.450	469.910	343	sì
+346	PST119_trad	471.190	472.160	345	al giorno
+348	PST118_trad	472.170	472.730	347	al giorno
+350	PST119_trad	472.755	473.785	349	quindi in una
+352	PST119_trad	474.075	481.190	351	in praticamente una settimana in due giorni venti euro e quanto costa l'abbonamento
+354	PST119_trad	483.230	486.400	353	se hai venti euro a settimana xxx
+356	PST119_trad	487.740	489.450	355	in un mese ottanta euro
+358	PST119_trad	489.640	491.920	357	l'abbonamento costa ottantasei
+360	PST119_trad	492.690	497.170	359	in più ogni giorno stai a fare il biglietto non ti conviene fai l'abbonamento
+362	PST118_trad	494.754	495.246	361	non conviene
+364	PST119_trad	497.950	501.745	363	capita devi andare in giro a torino che ne so vai a
+366	PST119_trad	503.060	505.400	365	vai con qualcuno (xxx) fai l'abbonamento
+369	PST119_trad	505.810	506.280	368	no?
+371	PST119_trad	509.830	513.050	370	antonio domani se ho tempo vado alla farmacia a comprare qualcosa vediamo
+373	PST120_trad	515.245	517.645	372	a me serve lo sciroppo di piantaggine
+375	PST119_trad	518.480	518.940	374	di?
+377	PST120_trad	518.990	520.010	376	di piantaggine
+379	PST119_trad	520.835	521.935	378	questo cos'è tosse secca?
+382	PST120_trad	526.238	528.279	381	quello che prendevi tu per la tosse
+384	PST119_trad	529.890	530.970	383	è una tosse secca
+386	PST119_trad	533.695	534.925	385	non fa male la gola
+390	PST119_trad	542.390	546.430	389	dai un sacco di soldi su questi sciroppi in farmacia e poi
+393	PST119_trad	548.304	549.522	392	cena
+395	PST119_trad	555.020	555.870	394	non mangi più?
+398	PST119_trad	557.190	558.260	397	fatti qualcos'altro
+400	PST119_trad	559.393	562.837	399	fatti un panino un sandwich un toast
+408	PST119_trad	566.540	569.520	407	c’è il brie poi c’è anche l'altra cosa poi c’è anche come si chiama la scamorza
+410	PST118_trad	569.750	571.030	409	ah ah #sì #sì
+412	PST119_trad	571.045	572.607	411	mi sembra di si c'è ancora no?
+417	PST119_trad	574.930	575.870	416	mi sembra che c'è
+419	PST119_trad	577.985	578.715	418	l'hai mangiata tu?
+422	PST120_trad	582.505	583.255	421	no
+424	PST120_trad	585.235	587.185	423	io mi sono fatto un sandwich
+427	PST119_trad	588.465	589.475	426	l'hai finita?
+429	PST120_trad	589.585	590.665	428	non l'ho finito
+434	PST119_trad	613.360	618.880	433	alla fine lei ha avuto un malore ma dice che ha mangiato un sandwich di quelli sai quei tramezzini no
+437	PST119_trad	620.670	624.310	436	autista di questi del pullman che si rovescia
+443	PST119_trad	638.220	640.180	442	è vero non è vero questo non saprei
+446	PST119_trad	645.920	648.470	445	dio mio fuori fa così caldo
+448	PST119_trad	648.930	654.739	447	devo togliere questi piumini che è tu hai ancora il piumino o ho tutte queste (cose) e quella verde e
+453	PST119_trad	656.780	660.660	452	a massimo l'ho gia tolto questo che lui già suda poverino che muore di caldo
+457	PST120_trad	664.620	666.250	456	tu non parli troppo bene il romeno
+460	PST120_trad	667.250	670.440	459	quando ti metterai a studiarlo studi arabo e romeno
+464	PST118_trad	676.901	677.999	463	non sapr~
+466	PST119_trad	678.760	679.850	465	cosa cerchi
+468	PST118_trad	680.880	681.480	467	il pane
+470	PST119_trad	681.555	682.075	469	non è fuori?
+474	PST119_trad	709.020	712.250	473	credo che aveva già perso i sensi quando sono andati con
+476	PST120_trad	712.235	713.765	475	renditi conto che xxx male
+478	PST120_trad	714.025	717.195	477	li ha lasciati andare proprio dietro
+481	PST119_trad	720.235	722.285	480	normale se non c'era neanche un segno
+483	PST119_trad	722.565	724.995	482	di fr~ che frenava niente
+485	PST119_trad	727.695	730.505	484	menomale che non era con i bambini in auto non c'erano bambini
+487	PST119_trad	730.650	733.510	486	adesso che gli lasciava
+490	PST119_trad	737.970	739.380	489	xxx questo no ?
+495	PST119_trad	746.620	748.070	494	
+497	PST119_trad	748.805	750.075	496	
+500	PST119_trad	752.550	753.070	499	aspetta
+505	PST119_trad	784.250	785.880	504	sì ma non ho capito
+507	PST119_trad	786.460	788.300	506	non l'hanno detto non
+509	PST119_trad	788.425	789.155	508	no no
+512	PST119_trad	792.150	794.130	511	xxx è morto un uomo
+514	PST119_trad	794.530	796.820	513	ha una famiglia non è questo
+518	PST118_trad	801.610	803.160	517	ha quattro bambini
+520	PST119_trad	802.640	803.100	519	sì
+522	PST119_trad	803.260	806.310	521	i suoi dal primo matrimonio che non era con quella
+524	PST119_trad	807.090	809.190	523	solo con la moglie xxx
+526	PST119_trad	809.540	812.180	525	esattamente era come te ma c'era ancora un'altra piu piccola e una dopo di te
+528	PST118_trad	812.080	812.460	527	[#sì]
+530	PST119_trad	812.235	812.825	529	era piu grande
+532	PST119_trad	813.475	815.400	531	tre tre ragazze e un ragazzo
+534	PST118_trad	813.477	814.271	533	e
+536	PST118_trad	815.380	816.380	535	#_sì quattro
+538	PST119_trad	816.965	818.785	537	giacomo che va in classe con alessandro
+541	PST119_trad	821.850	823.130	540	sì ha cinque bambini
+543	PST119_trad	824.285	825.945	542	questo che (vive da solo)
+545	PST120_trad	826.860	828.080	544	non so chi sia
+547	PST119_trad	828.140	832.011	546	speriamo che non è xxx ad ogni modo è un padre di famiglia
+549	PST120_trad	830.800	833.370	548	loro li conoscevano ma io no
+551	PST119_trad	833.615	835.395	550	
+553	PST120_trad	835.395	837.345	552	parlavano in tre
+560	PST120_trad	850.090	851.080	559	mica sono di ferro
+563	PST119_trad	852.500	855.880	562	ma non è riuscito a spostarsi non è riuscito a
+565	PST120_trad	854.720	855.870	564	non so
+568	PST120_trad	858.640	866.330	567	forse lo conosco di vista
+571	PST119_trad	866.940	874.330	570	cioè non ho avuto immagini non riesco a capire quale è perche lo riconosco dal viso
+573	PST119_trad	874.950	876.250	572	che aspetto ha
+575	PST119_trad	877.025	882.245	574	di più a scuola lo conosco se vedevo la foto me ne rendevo conto
+577	PST120_trad	880.960	882.220	576	è uno con gli occhiali
+580	PST120_trad	883.080	884.450	579	no:: no
+585	PST120_trad	888.680	889.800	584	prendo il telefono
+589	PST119_trad	892.250	896.170	588	lascia stare potrebbe avere xxx
+592	PST119_trad	896.722	900.928	591	anche tu hai gli occhiali non li usi sempre ma hai gli occhiali
+594	PST119_trad	902.745	904.887	593	no non ero attenta quando
+601	PST119_trad	912.525	914.015	600	sì se lo vedi sì
+603	PST119_trad	916.620	918.870	602	se lo vedi lo conosci
+606	PST119_trad	923.230	925.400	605	ma anche questo il ragazzo no
+609	PST119_trad	926.810	927.430	608	#sì ma
+611	PST119_trad	927.500	929.570	610	ma è molto più nella scuola con me a scuola
+620	PST119_trad	942.620	944.550	619	#_presenta troppa scuola
+622	PST119_trad	944.960	947.440	621	che sanno le ragazze
+626	PST119_trad	949.140	950.500	625	#sì davvero?
+628	PST118_trad	950.100	950.510	627	#sì
+630	PST120_trad	950.480	951.640	629	ma quale stai dicendo tu
+632	PST120_trad	953.075	956.381	631	che è quello che sta da quella parte li
+635	PST119_trad	955.985	956.392	634	sì
+638	PST120_trad	956.930	960.660	637	ah non è quello no no questo è quello più
+640	PST120_trad	960.730	967.100	639	con la faccia pienotta e con gli occhiali no io so lul lui non lavorava lì al
+642	PST119_trad	961.595	963.095	641	ah lui è xxx così
+645	PST120_trad	967.270	970.510	644	qui al petronas lavorava
+650	PST119_trad	971.520	972.690	649	ha cinque figli
+652	PST120_trad	972.690	974.160	651	no no no no no
+655	PST119_trad	974.330	976.260	654	sembrava
+659	PST118_trad	980.690	981.300	658	#no
+664	PST119_trad	989.870	992.260	663	ah allora non è questa del
+667	PST120_trad	994.570	995.780	666	no no no
+669	PST119_trad	996.320	998.120	668	lui lavora al petronas
+671	PST120_trad	998.100	1000.062	670	lui qui al petronas
+674	PST119_trad	1001.330	1004.290	673	comunque sai neanche il ragazzo non va tanto a scuola
+677	PST119_trad	1004.701	1008.701	676	neanche massimo che l'anno scorso ha detto che era da bocciatura perchă aveva troppe assenze
+682	PST119_trad	1014.110	1015.830	681	ah sì li hanno appena aperto?
+685	PST119_trad	1016.700	1017.310	684	casa
+687	PST118_trad	1017.285	1017.665	686	sì
+690	PST119_trad	1019.600	1020.750	689	quella più grande
+692	PST119_trad	1020.950	1023.010	691	benedetta o quello piccolo
+696	PST118_trad	1023.250	1024.730	695	più grande benedetta
+698	PST119_trad	1024.730	1025.790	697	e chi è xxx
+701	PST118_trad	1027.465	1027.915	700	sì
+703	PST119_trad	1027.920	1029.090	702	e poi ha un altra ancora
+707	PST118_trad	1030.730	1031.850	706	ma credo che mai
+709	PST119_trad	1036.370	1038.930	708	ah non so non sei più andata lì al
+712	PST119_trad	1040.940	1045.120	711	al non al sport
+716	PST119_trad	1050.160	1053.480	715	con il progetto che dicevi quando inizi
+718	PST118_trad	1052.875	1053.405	717	a maggio
+720	PST119_trad	1053.760	1054.170	719	quando?
+722	PST118_trad	1054.200	1054.630	721	maggio
+725	PST119_trad	1057.055	1060.540	724	ah ho capito ho capito mai cioè che non vai più
+730	PST119_trad	1067.783	1072.206	729	invece per il servizio civile quello non ti hanno mai non ti hanno mai
+733	PST120_trad	1071.230	1074.040	732	devo chiedere a costin
+735	PST119_trad	1076.030	1076.930	734	a chi chiami
+737	PST120_trad	1076.970	1078.550	736	a questo costin
+741	PST119_trad	1079.640	1080.990	740	quello dove lavoravi
+743	PST119_trad	1082.450	1083.910	742	ah perché è lì
+747	PST120_trad	1088.130	1089.950	746	eh che hai ti disturbo
+749	PST120_trad	1091.430	1095.980	748	ma che è successo (ho sentito) le notizie al telegiornale piemonte
+752	PST120_trad	1099.870	1104.540	751	stavo cenando e ho appena visto al notiziario che  trasmettevano immagini da li
+754	PST120_trad	1104.590	1105.930	753	da lì da voi
+756	PST120_trad	1106.075	1107.715	755	che è successo lì?
+758	PST120_trad	1109.140	1112.170	757	ma come ma lo conoscevi?
+761	PST118_trad	1113.010	1114.180	760	ancora dieci minuti
+763	PST120_trad	1115.980	1117.080	762	ma come mai
+765	PST120_trad	1118.495	1123.225	764	eh non mi ricordo perché non hanno messo foto non hanno messo foto
+767	PST120_trad	1124.635	1128.300	766	hanno trasmesso solo così la notizia sai e con foto di là da
+769	PST120_trad	1128.982	1130.402	768	ma cos'è successo?
+771	PST118_trad	1133.376	1133.871	770	sì
+775	PST120_trad	1134.722	1136.960	774	dove dove erano queste
+784	PST118_trad	1143.814	1144.381	783	sì
+790	PST118_trad	1149.412	1149.990	789	sì
+792	PST120_trad	1150.650	1154.830	791	ah lì dove depositavano loro in quella parte dietro li tutte
+795	PST118_trad	1157.135	1158.735	794	non vanno d'accordo
+797	PST119_trad	1158.950	1160.630	796	ma erano amici
+799	PST118_trad	1160.645	1161.216	798	sì sì
+802	PST118_trad	1164.480	1165.420	801	non so perché
+804	PST118_trad	1165.535	1168.015	803	cioè sì so perché ma
+808	PST118_trad	1172.051	1172.628	807	sì
+811	PST119_trad	1176.110	1177.710	810	ma secondo te è vero
+813	PST118_trad	1177.985	1178.454	812	sì
+815	PST120_trad	1178.470	1181.230	814	vi è successo qualcosa avete qualche colpa
+817	PST119_trad	1181.385	1185.785	816	ma è cambiata nel senso che è cambiata del tutto o è cambiata solo con
+821	PST118_trad	1189.440	1190.790	820	è stata più con lui
+823	PST120_trad	1190.790	1193.700	822	eravamo a tavola e ho visto questa sera alla
+826	PST118_trad	1194.530	1199.620	825	dice che non vuole socializzare con nessuno lì all'università
+829	PST118_trad	1200.170	1200.910	828	sì
+831	PST118_trad	1201.115	1201.595	830	con nessuno
+834	PST118_trad	1205.400	1211.210	833	con robi e con sandra e basta
+837	PST118_trad	1212.070	1214.773	836	sì ma normale ma non
+839	PST118_trad	1214.945	1215.615	838	non vuole
+842	PST118_trad	1216.670	1218.144	841	solo tra di loro
+847	PST118_trad	1226.320	1227.330	846	non so
+851	PST120_trad	1233.020	1237.010	850	ha detto che c'erano dietro lì dei container
+853	PST120_trad	1237.090	1241.090	852	dove loro depositano tutti i tipi di campioni di questo genere sai e
+855	PST120_trad	1241.185	1242.705	854	quegli armadi sono
+857	PST120_trad	1242.785	1246.620	856	scaffali di ferro sai e ha detto che
+859	PST120_trad	1247.397	1252.660	858	ehm cati mi ha detto che è andato venerdi e ha fatto li non so cosa doveva fare e
+861	PST120_trad	1252.843	1255.043	860	è rimasto da spostare quegli armadi
+863	PST120_trad	1255.288	1259.268	862	oggi domani o quelli ed è andato questo lì e sono caduti gli armadi su di lui
+867	PST120_trad	1261.243	1263.753	866	mi ha detto che stanno indagando per
+869	PST120_trad	1263.953	1265.813	868	vedere cos'è successo
+871	PST120_trad	1266.718	1268.278	870	vedi che lo sapevo ma
+873	PST120_trad	1268.753	1270.853	872	impossibile che
+875	PST119_trad	1270.208	1272.408	874	ah ma tu la conoscevi
+877	PST120_trad	1272.440	1277.520	876	ma vabbè quanto sto lì io non mi ricordo di
+880	PST119_trad	1284.470	1285.060	879	ma non lo è
+890	PST120_trad	1302.340	1304.980	889	gliel'ho chiesto a costi ha detto che non lo sa
+894	PST119_trad	1313.124	1316.880	893	è pesante quello che fa lì con lui
+896	PST120_trad	1316.885	1320.435	895	non ti ho detto quello che gli è successo a quello
+898	PST120_trad	1320.475	1322.465	897	gli è caduto quel sacco addosso
+900	PST120_trad	1323.145	1325.765	899	davanti a me sono rimasto pietrificato
+902	PST120_trad	1325.800	1327.530	901	si è rotto dai tre metri
+904	PST120_trad	1327.590	1332.440	903	con la gru ha preso i sacchi xx chili di pietra
+906	PST120_trad	1332.804	1334.590	905	per metterli in un filtro di quelli
+908	PST120_trad	1334.765	1338.315	907	e questo si è spostato dal xxx dalla fossa
+910	PST120_trad	1338.520	1342.660	909	in quel serbatoio si è spostato sulla scala ma penso che lo ha spostato qualcuno
+912	PST120_trad	1343.095	1345.735	911	ha avuto fortuna perchă se rimaneva lì
+914	PST120_trad	1345.830	1349.750	913	cadeva il sacco esattamente in testa lo faceva a pezzi
+916	PST120_trad	1349.965	1353.645	915	e non aveva da dire sai quei sacchi di
+918	PST120_trad	1353.710	1358.460	917	grandi che non che si sono rotti due perché hanno quattro
+920	PST119_trad	1354.740	1355.307	919	sì sì
+922	PST120_trad	1358.570	1360.290	921	quattro di questi hanno quattro agganci no?
+924	PST120_trad	1360.405	1363.205	923	metti che si sono rotte due o uno o tre
+926	PST120_trad	1363.370	1366.720	925	se rimaneva così non tutti
+928	PST118_trad	1364.401	1365.020	927	tutti
+930	PST120_trad	1367.920	1370.680	929	dopo lui scherzava
+932	PST120_trad	1370.715	1374.635	931	lì qualcuno gli ha messo la mano addosso che ha quattro bambini da
+934	PST120_trad	1374.860	1375.940	933	da crescere
+937	PST120_trad	1379.144	1383.990	936	e ci sono molte cose alle quali per esempio non devi sottostare
+939	PST120_trad	1384.067	1386.474	938	alle norme di sicurezza
+941	PST120_trad	1386.617	1387.727	940	non devi sottostare
+943	PST119_trad	1390.007	1391.867	942	penso che è ovvio che non puoi sottostare
+945	PST119_trad	1393.260	1397.402	944	sotto a un carico
+947	PST120_trad	1394.505	1403.480	946	no mai questi che xxx che li mandano li da noi hanno detto che anche se li vedi xxx di queste hanno detto che
+949	PST120_trad	1403.580	1408.600	948	non puoi sapere se puș cedere e non te ne accorgi che
+951	PST120_trad	1409.485	1413.740	950	ha detto non stare mai lascia stare se si rompe o si guasta
+953	PST120_trad	1414.186	1416.907	952	non puoi farci nulla si paga si fa un altro
+955	PST120_trad	1416.972	1418.532	954	ha detto che
+960	PST120_trad	1425.580	1427.940	959	forse lo conosco con gli occhiali
+963	PST119_trad	1434.720	1438.210	962	di vista forse se lo vedi
+965	PST119_trad	1440.190	1442.290	964	hai lavorato lì un anno di vista
+970	PST120_trad	1467.330	1469.907	969	#sì ti ho detto che mi volevano bene ma
+973	PST120_trad	1471.160	1472.280	972	no no no
+975	PST120_trad	1473.565	1476.855	974	penso che lavorava per greenthesis in quella parte
+977	PST119_trad	1475.556	1475.752	976	sì
+979	PST119_trad	1477.545	1481.705	978	no perche se ha lavorato anche qui
+982	PST119_trad	1485.670	1487.590	981	l'hanno buttato nell'altra parte
+984	PST119_trad	1488.755	1489.815	983	non c'entrava nulla
+987	PST120_trad	1497.490	1498.970	986	massimo non viene più
+993	PST120_trad	1504.390	1505.040	992	come?
+995	PST118_trad	1505.040	1505.860	994	meglio
+998	PST120_trad	1508.225	1508.905	997	che ha fatto
+1003	PST119_trad	1521.990	1522.800	1002	per me
+1005	PST119_trad	1523.130	1526.050	1004	sopratutto le cimici guarda penso che non piangerà nessuno per le cimici
+1007	PST118_trad	1526.045	1527.105	1006	ah no no non credo
+1011	PST119_trad	1528.670	1532.100	1010	mamma mia ma sappi che ancora non ho visto così tante quest'anno
+1014	PST119_trad	1532.510	1534.510	1013	che è venuto questo caldo imprevisto
+1016	PST119_trad	1534.635	1536.755	1015	e sai cos altro ho visto di rado
+1018	PST119_trad	1536.790	1537.520	1017	mosche
+1020	PST118_trad	1536.790	1537.520	1019	zanzare
+1022	PST119_trad	1537.690	1538.170	1021	non so
+1024	PST119_trad	1538.225	1539.655	1023	ma soprattutto #mosche
+1026	PST118_trad	1539.820	1540.450	1025	ah sì
+1028	PST119_trad	1540.470	1542.130	1027	hai preso queste mamma mia
+1031	PST119_trad	1544.215	1547.245	1030	soprattutto con questo caldo imprevisto così
+1033	PST119_trad	1547.629	1552.235	1032	c'erano un sacco di mosche si svegliavano al anche zanzare come dici tu ma
+1035	PST118_trad	1553.250	1555.420	1034	ma sai cos'ho visto fuori vespe
+1042	PST118_trad	1558.755	1559.095	1041	sì
+1047	PST119_trad	1566.020	1567.880	1046	no non le ho viste
+1049	PST119_trad	1567.975	1570.412	1048	strano che ho viste poche poche
+1051	PST119_trad	1571.450	1573.780	1050	poche mosche e zanzare
+1053	PST119_trad	1574.280	1576.110	1052	e cimici
+1055	PST119_trad	1576.140	1578.140	1054	ricordati che c'era un anno
+1057	PST119_trad	1578.395	1584.640	1056	quando queste cimici non
+1060	PST118_trad	1589.050	1589.490	1059	no
+1062	PST119_trad	1591.500	1592.250	1061	poco
+1065	PST119_trad	1593.935	1594.805	1064	sei uscito fuori?
+1069	PST119_trad	1601.670	1603.402	1068	mh ti fa male la gola?
+1071	PST118_trad	1603.880	1604.920	1070	prendi un po' di
+1073	PST118_trad	1605.505	1606.065	1072	miele
+1076	PST119_trad	1607.190	1610.490	1075	ha ragione aurora un cucchiaino di miele
+1079	PST119_trad	1613.405	1617.400	1078	se no c'è questo sciroppo di piantaggine che ho comprato quando avevo mal di gola
+1084	PST119_trad	1627.360	1630.110	1083	e li sopra? dov'è lo sciroppo di piantaggine che
+1086	PST120_trad	1630.090	1631.670	1085	non so da quella parte
+1088	PST120_trad	1631.890	1633.260	1087	tè o
+1090	PST119_trad	1633.990	1634.820	1089	tè?
+1092	PST118_trad	1633.990	1634.820	1091	tè?
+1095	PST120_trad	1640.240	1642.000	1094	e dietro di là
+1098	PST118_trad	1652.340	1654.910	1097	ma l'orologio qui non ă stato impostato in avanti no?
+1100	PST120_trad	1655.730	1657.320	1099	non so come sta li sotto
+1107	PST119_trad	1680.810	1682.080	1106	qui non c'è
+1117	PST119_trad	1703.480	1707.530	1116	io non so più lo sciroppo di piantaggine non so di piantaggine
+1121	PST119_trad	1716.530	1720.670	1120	no qui tutte sono cadute per terra tutte
+1125	PST119_trad	1725.820	1727.910	1124	chi ha messo la mano qui e si è messo
+1130	PST118_trad	1738.460	1740.320	1129	qua non c'è nulla
+1132	PST119_trad	1741.275	1743.135	1131	dove hai visto
+1134	PST120_trad	1745.412	1746.690	1133	lì da quella parte
+1136	PST118_trad	1747.480	1749.050	1135	non c'è nulla
+1138	PST119_trad	1749.160	1752.200	1137	nessuno sciroppo né di piantaggine né di altro
+1140	PST120_trad	1752.245	1753.745	1139	c'era quando l'hai comprato
+1146	PST120_trad	1757.711	1760.299	1145	che cazzo ne so io se e ancora buono o no
+1155	PST118_trad	1771.600	1772.390	1154	
+1157	PST119_trad	1773.430	1774.258	1156	
+1159	PST120_trad	1774.278	1776.887	1158	
+1161	PST119_trad	1776.948	1778.783	1160	
+1163	PST120_trad	1778.783	1780.247	1162	
+1165	PST120_trad	1780.470	1781.890	1164	a stomaco vuoto
+1167	PST120_trad	1785.180	1785.800	1166	
+1169	PST120_trad	1786.900	1788.640	1168	
+1172	PST119_trad	1791.510	1793.660	1171	
+1174	PST120_trad	1792.860	1795.549	1173	
+1177	PST119_trad	1797.420	1799.390	1176	xx per xx
+1179	PST119_trad	1799.690	1801.910	1178	eh gonfiore stomaco
+1181	PST119_trad	1802.300	1803.110	1180	
+1183	??_trad	1802.660	1803.120	1182	
+1185	PST120_trad	1803.423	1805.820	1184	
+1187	PST118_trad	1805.980	1807.410	1186	ma cos'è la piantaggine?
+1189	PST119_trad	1808.020	1809.830	1188	la piantaggine e una pianta
+1191	PST120_trad	1810.000	1811.270	1190	piantaggine
+1194	PST120_trad	1812.930	1814.720	1193	è il pomodoro verde aurora
+1201	PST120_trad	1821.570	1822.484	1200	o pianta
+1204	PST120_trad	1823.580	1825.830	1203	neanche sai cos'è la piantaggine
+1208	PST119_trad	1829.160	1831.270	1207	no io sapevo la piantaggine
+1212	PST120_trad	1834.090	1835.350	1211	guarda guarda questa
+1214	PST118_trad	1835.536	1836.588	1213	è camomilla
+1218	PST120_trad	1841.390	1847.140	1217	l'hai preso tu per te
+1220	PST119_trad	1842.550	1844.990	1219	ma dove l'hai trovato dove dove
+1224	PST119_trad	1849.546	1852.050	1223	io so che è finito di piantaggine
+1226	PST120_trad	1852.195	1853.435	1225	l'hai bevuto tu tutto
+1228	PST119_trad	1853.480	1855.440	1227	tu l'hai bevuto tutto non io
+1230	PST119_trad	1855.465	1857.785	1229	sapevo che è finito
+1232	PST120_trad	1858.080	1859.860	1231	l'ho visto da qualche parte l'ho visto
+1234	PST119_trad	1859.925	1862.825	1233	chissà quando l'hai visto tu
+1236	PST119_trad	1862.950	1864.300	1235	chissà quando l'hai visto
+1238	PST119_trad	1866.110	1867.348	1237	non  l'hai visto ora

@@ -1,0 +1,25 @@
+tu_id	speaker	start	end	parent_tu_id	text
+2	PST233_trad	6.000	7.790	1	inizio a parlare in
+4	PST233_trad	8.140	9.330	3	in italiano
+6	PST078_trad	9.660	10.200	5	ti capirò
+10	PST233_trad	15.540	16.070	9	capisci così?
+12	PST078_trad	16.720	18.990	11	sì, però con moderazione
+14	PST078_trad	19.460	23.230	13	il nostro italiano è da mercanti
+16	PST078_trad	24.340	25.460	15	eh non
+18	PST233_trad	26.590	27.400	17	va bene
+22	PST078_trad	34.590	36.000	21	parlami
+24	??_trad	36.140	37.330	23	nome
+32	??_trad	53.080	55.580	31	parla per stessa
+42	PST078_trad	77.980	79.280	41	vai vai (lit. affidati a dio)
+278	PST233_trad	698.880	699.800	277	vivere in italia è faticoso (lit. l'italia delle fatiche)
+280	PST078_trad	700.050	701.950	279	scrivi ciò che potrebbe andare bene
+452	??_trad	1194.180	1195.440	451	ma...
+457	??_trad	1209.620	1210.810	456	cioè se
+459	??_trad	1211.910	1212.640	458	ti sei integrata con
+461	PST078_trad	1216.430	1219.370	460	sì mi sono integrata con gli italiani
+465	PST078_trad	1225.520	1226.060	464	bene
+467	PST078_trad	1227.300	1229.230	466	bene, sono loro le persone brave
+469	PST233_trad	1229.220	1230.360	468	in italiano
+527	PST233_trad	1384.330	1385.145	526	basta
+529	PST233_trad	1385.710	1386.710	528	hai raccontato tutto
+531	PST078_trad	1386.890	1391.760	530	abbiamo raccontato tutto quelllo che ci è venuto in mente

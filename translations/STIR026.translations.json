@@ -1,0 +1,42 @@
+[
+  {
+    "tu_id": "3",
+    "speaker": "PST060_trad",
+    "start": "3.140",
+    "end": "3.590",
+    "parent_tu_id": "2",
+    "text": ""
+  },
+  {
+    "tu_id": "332",
+    "speaker": "PST060_trad",
+    "start": "719.520",
+    "end": "724.090",
+    "parent_tu_id": "331",
+    "text": "che so solo come si chiama in rumeno non so come si chiama in italiano che è fisarmonica"
+  },
+  {
+    "tu_id": "482",
+    "speaker": "PST060_trad",
+    "start": "1108.240",
+    "end": "1110.520",
+    "parent_tu_id": "481",
+    "text": "di cristo è risorto e è risorto veramente"
+  },
+  {
+    "tu_id": "487",
+    "speaker": "PST060_trad",
+    "start": "1116.480",
+    "end": "1117.860",
+    "parent_tu_id": "486",
+    "text": "e dici cristo è risorto"
+  },
+  {
+    "tu_id": "491",
+    "speaker": "PST060_trad",
+    "start": "1122.210",
+    "end": "1123.510",
+    "parent_tu_id": "490",
+    "text": "e lui dice è risorto veramente"
+  }
+]

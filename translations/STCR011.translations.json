@@ -1,0 +1,794 @@
+[
+  {
+    "tu_id": "43",
+    "speaker": "PST092_trad",
+    "start": "66.840",
+    "end": "67.600",
+    "parent_tu_id": "42",
+    "text": "si è ubriacata"
+  },
+  {
+    "tu_id": "45",
+    "speaker": "PST092_trad",
+    "start": "68.140",
+    "end": "69.340",
+    "parent_tu_id": "44",
+    "text": "oddio"
+  },
+  {
+    "tu_id": "47",
+    "speaker": "PST092_trad",
+    "start": "70.025",
+    "end": "73.502",
+    "parent_tu_id": "46",
+    "text": "dio tu ti lamentavi di me tu sei ancora più pa~ dammi faccio io"
+  },
+  {
+    "tu_id": "50",
+    "speaker": "PST092_trad",
+    "start": "73.965",
+    "end": "75.650",
+    "parent_tu_id": "49",
+    "text": "l'ha trovata l'ha trovata"
+  },
+  {
+    "tu_id": "53",
+    "speaker": "PST087_trad",
+    "start": "75.400",
+    "end": "75.975",
+    "parent_tu_id": "52",
+    "text": "sì"
+  },
+  {
+    "tu_id": "55",
+    "speaker": "PST092_trad",
+    "start": "76.165",
+    "end": "78.225",
+    "parent_tu_id": "54",
+    "text": "l'ha trovata dammi che l'ha"
+  },
+  {
+    "tu_id": "57",
+    "speaker": "PST092_trad",
+    "start": "78.980",
+    "end": "81.370",
+    "parent_tu_id": "56",
+    "text": "l'ha trovata l'ha trovata"
+  },
+  {
+    "tu_id": "59",
+    "speaker": "PST087_trad",
+    "start": "78.990",
+    "end": "80.340",
+    "parent_tu_id": "58",
+    "text": "anch'io l'ho trovata"
+  },
+  {
+    "tu_id": "62",
+    "speaker": "PST092_trad",
+    "start": "84.110",
+    "end": "84.950",
+    "parent_tu_id": "61",
+    "text": "l'ha trovata?"
+  },
+  {
+    "tu_id": "127",
+    "speaker": "PST092_trad",
+    "start": "212.450",
+    "end": "214.753",
+    "parent_tu_id": "126",
+    "text": "dio mi si sta impallando il cervello"
+  },
+  {
+    "tu_id": "156",
+    "speaker": "PST092_trad",
+    "start": "287.130",
+    "end": "288.790",
+    "parent_tu_id": "155",
+    "text": "eh dice la gioia delle ragazze"
+  },
+  {
+    "tu_id": "162",
+    "speaker": "PST092_trad",
+    "start": "301.401",
+    "end": "307.771",
+    "parent_tu_id": "161",
+    "text": "mh non so come lo intendesse la signora ecaterina però secondo me voleva fare sia la versione in rumeno che in italiano in più lingue"
+  },
+  {
+    "tu_id": "190",
+    "speaker": "PST092_trad",
+    "start": "387.780",
+    "end": "389.680",
+    "parent_tu_id": "189",
+    "text": "spingi più dentro quella sedia"
+  },
+  {
+    "tu_id": "217",
+    "speaker": "PST092_trad",
+    "start": "428.870",
+    "end": "431.500",
+    "parent_tu_id": "216",
+    "text": "sì sei un ragazzo ti ha cresciuto cosa vuoi"
+  },
+  {
+    "tu_id": "268",
+    "speaker": "PST092_trad",
+    "start": "509.470",
+    "end": "511.370",
+    "parent_tu_id": "267",
+    "text": "sono camicie per ragazzi"
+  },
+  {
+    "tu_id": "271",
+    "speaker": "PST092_trad",
+    "start": "512.515",
+    "end": "514.545",
+    "parent_tu_id": "270",
+    "text": "penso sia di bacau non so"
+  },
+  {
+    "tu_id": "273",
+    "speaker": "PST087_trad",
+    "start": "514.745",
+    "end": "515.475",
+    "parent_tu_id": "272",
+    "text": "credi"
+  },
+  {
+    "tu_id": "357",
+    "speaker": "PST087_trad",
+    "start": "691.330",
+    "end": "692.780",
+    "parent_tu_id": "356",
+    "text": "dell'avanzati"
+  },
+  {
+    "tu_id": "415",
+    "speaker": "PST092_trad",
+    "start": "819.170",
+    "end": "820.270",
+    "parent_tu_id": "414",
+    "text": "di' oh mamma mia"
+  },
+  {
+    "tu_id": "417",
+    "speaker": "PST092_trad",
+    "start": "821.075",
+    "end": "821.935",
+    "parent_tu_id": "416",
+    "text": "oh mamma mia"
+  },
+  {
+    "tu_id": "421",
+    "speaker": "PST092_trad",
+    "start": "823.050",
+    "end": "823.890",
+    "parent_tu_id": "420",
+    "text": "oh mamma mia"
+  },
+  {
+    "tu_id": "471",
+    "speaker": "PST092_trad",
+    "start": "878.108",
+    "end": "879.208",
+    "parent_tu_id": "470",
+    "text": "lui è un capo"
+  },
+  {
+    "tu_id": "604",
+    "speaker": "PST092_trad",
+    "start": "1063.930",
+    "end": "1068.090",
+    "parent_tu_id": "603",
+    "text": "adesso che ci penso se prendiamo il cappello che c'è del signor mihai quello di elfo"
+  },
+  {
+    "tu_id": "630",
+    "speaker": "PST092_trad",
+    "start": "1094.890",
+    "end": "1098.970",
+    "parent_tu_id": "629",
+    "text": "bugie non si dicono le bugie se dici le bugie"
+  },
+  {
+    "tu_id": "632",
+    "speaker": "PST092_trad",
+    "start": "1099.040",
+    "end": "1101.320",
+    "parent_tu_id": "631",
+    "text": "xx xx non le dire"
+  },
+  {
+    "tu_id": "701",
+    "speaker": "PST092_trad",
+    "start": "1209.770",
+    "end": "1214.370",
+    "parent_tu_id": "700",
+    "text": "la signora ecaterina se mi sente dire băi sai come mi uccide mi fa proprio mi taglia a fettine"
+  },
+  {
+    "tu_id": "738",
+    "speaker": "PST092_trad",
+    "start": "1267.870",
+    "end": "1268.440",
+    "parent_tu_id": "737",
+    "text": "scendi"
+  },
+  {
+    "tu_id": "829",
+    "speaker": "PST087_trad",
+    "start": "1410.390",
+    "end": "1411.950",
+    "parent_tu_id": "828",
+    "text": "il formaggio puzza"
+  },
+  {
+    "tu_id": "870",
+    "speaker": "PST092_trad",
+    "start": "1475.667",
+    "end": "1478.156",
+    "parent_tu_id": "869",
+    "text": "è andato dalle mamme con una graffetta come si dice graffetta"
+  },
+  {
+    "tu_id": "889",
+    "speaker": "PST092_trad",
+    "start": "1514.660",
+    "end": "1515.880",
+    "parent_tu_id": "888",
+    "text": "gli mettiamo il foulard tradizionale romeno"
+  },
+  {
+    "tu_id": "892",
+    "speaker": "PST092_trad",
+    "start": "1518.011",
+    "end": "1518.867",
+    "parent_tu_id": "891",
+    "text": "hai un foulard?"
+  },
+  {
+    "tu_id": "894",
+    "speaker": "PST087_trad",
+    "start": "1518.867",
+    "end": "1523.406",
+    "parent_tu_id": "893",
+    "text": "nel prossimo episodio metteremo un foulard a eugenio"
+  },
+  {
+    "tu_id": "896",
+    "speaker": "PST092_trad",
+    "start": "1520.456",
+    "end": "1521.678",
+    "parent_tu_id": "895",
+    "text": "[metteremo un foulard]"
+  },
+  {
+    "tu_id": "956",
+    "speaker": "PST092_trad",
+    "start": "1619.480",
+    "end": "1620.080",
+    "parent_tu_id": "955",
+    "text": "le prendi"
+  },
+  {
+    "tu_id": "959",
+    "speaker": "PST092_trad",
+    "start": "1621.715",
+    "end": "1622.485",
+    "parent_tu_id": "958",
+    "text": "le prendi"
+  },
+  {
+    "tu_id": "962",
+    "speaker": "PST092_trad",
+    "start": "1622.885",
+    "end": "1624.983",
+    "parent_tu_id": "961",
+    "text": "sai com'è dalla mamma pam pam"
+  },
+  {
+    "tu_id": "1030",
+    "speaker": "PST092_trad",
+    "start": "1740.021",
+    "end": "1742.050",
+    "parent_tu_id": "1029",
+    "text": "questo a caccia di ragazze"
+  },
+  {
+    "tu_id": "1034",
+    "speaker": "PST092_trad",
+    "start": "1742.466",
+    "end": "1743.566",
+    "parent_tu_id": "1033",
+    "text": "a caccia di ragazze"
+  },
+  {
+    "tu_id": "1057",
+    "speaker": "PST092_trad",
+    "start": "1780.060",
+    "end": "1781.600",
+    "parent_tu_id": "1056",
+    "text": "ti sei ubriacata?"
+  },
+  {
+    "tu_id": "1075",
+    "speaker": "PST092_trad",
+    "start": "1816.200",
+    "end": "1817.544",
+    "parent_tu_id": "1074",
+    "text": "la signora ecaterina mi uccide"
+  },
+  {
+    "tu_id": "1100",
+    "speaker": "PST092_trad",
+    "start": "1854.660",
+    "end": "1858.040",
+    "parent_tu_id": "1099",
+    "text": "è nulla in con~"
+  },
+  {
+    "tu_id": "1112",
+    "speaker": "PST092_trad",
+    "start": "1883.148",
+    "end": "1886.148",
+    "parent_tu_id": "1111",
+    "text": "montoya per favore montoya"
+  },
+  {
+    "tu_id": "1137",
+    "speaker": "PST092_trad",
+    "start": "1929.880",
+    "end": "1930.833",
+    "parent_tu_id": "1136",
+    "text": "così comico"
+  },
+  {
+    "tu_id": "1141",
+    "speaker": "PST092_trad",
+    "start": "1937.028",
+    "end": "1940.750",
+    "parent_tu_id": "1140",
+    "text": "e la tipa la tipa bella tranquilla cammina montoya per favore e poi"
+  },
+  {
+    "tu_id": "1168",
+    "speaker": "PST087_trad",
+    "start": "1985.730",
+    "end": "1987.933",
+    "parent_tu_id": "1167",
+    "text": "attenta che ti cade in testa l'icona"
+  },
+  {
+    "tu_id": "1171",
+    "speaker": "PST092_trad",
+    "start": "1992.170",
+    "end": "1994.560",
+    "parent_tu_id": "1170",
+    "text": "ehm la mamma di georgeta"
+  },
+  {
+    "tu_id": "1175",
+    "speaker": "PST087_trad",
+    "start": "1997.033",
+    "end": "1998.556",
+    "parent_tu_id": "1174",
+    "text": "la signora georgeta la mamma di anita"
+  },
+  {
+    "tu_id": "1195",
+    "speaker": "PST092_trad",
+    "start": "2031.680",
+    "end": "2035.160",
+    "parent_tu_id": "1194",
+    "text": "insomma ma adam si è sveglia~ si è svegliato"
+  },
+  {
+    "tu_id": "1200",
+    "speaker": "PST092_trad",
+    "start": "2040.411",
+    "end": "2042.466",
+    "parent_tu_id": "1199",
+    "text": "così gli dico adam andiamo da mamma"
+  },
+  {
+    "tu_id": "1203",
+    "speaker": "PST092_trad",
+    "start": "2045.099",
+    "end": "2046.780",
+    "parent_tu_id": "1202",
+    "text": "mamma mia mamma mia"
+  },
+  {
+    "tu_id": "1213",
+    "speaker": "PST092_trad",
+    "start": "2055.780",
+    "end": "2057.220",
+    "parent_tu_id": "1212",
+    "text": "lascia che mi baci in"
+  },
+  {
+    "tu_id": "1240",
+    "speaker": "PST087_trad",
+    "start": "2122.250",
+    "end": "2123.780",
+    "parent_tu_id": "1239",
+    "text": "stefano III il grande"
+  },
+  {
+    "tu_id": "1320",
+    "speaker": "PST092_trad",
+    "start": "2257.260",
+    "end": "2257.900",
+    "parent_tu_id": "1319",
+    "text": "bene"
+  },
+  {
+    "tu_id": "1324",
+    "speaker": "PST092_trad",
+    "start": "2262.350",
+    "end": "2263.867",
+    "parent_tu_id": "1323",
+    "text": "ehi il dialetto bene"
+  },
+  {
+    "tu_id": "1327",
+    "speaker": "PST092_trad",
+    "start": "2265.088",
+    "end": "2266.663",
+    "parent_tu_id": "1326",
+    "text": "bene sarebbe in diale:tto"
+  },
+  {
+    "tu_id": "1330",
+    "speaker": "PST092_trad",
+    "start": "2267.678",
+    "end": "2268.256",
+    "parent_tu_id": "1329",
+    "text": "bene"
+  },
+  {
+    "tu_id": "1332",
+    "speaker": "PST087_trad",
+    "start": "2268.495",
+    "end": "2270.867",
+    "parent_tu_id": "1331",
+    "text": "tipo un frutto sembrava"
+  },
+  {
+    "tu_id": "1336",
+    "speaker": "PST092_trad",
+    "start": "2273.745",
+    "end": "2274.468",
+    "parent_tu_id": "1335",
+    "text": "bene"
+  },
+  {
+    "tu_id": "1338",
+    "speaker": "PST087_trad",
+    "start": "2274.468",
+    "end": "2275.119",
+    "parent_tu_id": "1337",
+    "text": "bene"
+  },
+  {
+    "tu_id": "1342",
+    "speaker": "PST087_trad",
+    "start": "2277.145",
+    "end": "2279.345",
+    "parent_tu_id": "1341",
+    "text": "bene eh ti aiuta di più"
+  },
+  {
+    "tu_id": "1366",
+    "speaker": "PST087_trad",
+    "start": "2306.940",
+    "end": "2307.940",
+    "parent_tu_id": "1365",
+    "text": "#mamma"
+  },
+  {
+    "tu_id": "1369",
+    "speaker": "PST092_trad",
+    "start": "2310.022",
+    "end": "2313.670",
+    "parent_tu_id": "1368",
+    "text": "quel cinquino spaccato così con la ma~ aspe~"
+  },
+  {
+    "tu_id": "1372",
+    "speaker": "PST092_trad",
+    "start": "2313.734",
+    "end": "2316.078",
+    "parent_tu_id": "1371",
+    "text": "ih aspetta"
+  },
+  {
+    "tu_id": "1376",
+    "speaker": "PST092_trad",
+    "start": "2320.211",
+    "end": "2321.411",
+    "parent_tu_id": "1375",
+    "text": "mamma"
+  },
+  {
+    "tu_id": "1383",
+    "speaker": "PST087_trad",
+    "start": "2326.290",
+    "end": "2327.810",
+    "parent_tu_id": "1382",
+    "text": "ma è nonna o"
+  },
+  {
+    "tu_id": "1386",
+    "speaker": "PST092_trad",
+    "start": "2327.905",
+    "end": "2329.405",
+    "parent_tu_id": "1385",
+    "text": "măicuță può essere sia mamma che nonna"
+  },
+  {
+    "tu_id": "1388",
+    "speaker": "PST087_trad",
+    "start": "2329.430",
+    "end": "2330.920",
+    "parent_tu_id": "1387",
+    "text": "non lo devi dire!"
+  },
+  {
+    "tu_id": "1392",
+    "speaker": "PST087_trad",
+    "start": "2333.177",
+    "end": "2334.244",
+    "parent_tu_id": "1391",
+    "text": "mamma"
+  },
+  {
+    "tu_id": "1394",
+    "speaker": "PST092_trad",
+    "start": "2334.244",
+    "end": "2334.989",
+    "parent_tu_id": "1393",
+    "text": "mamma"
+  },
+  {
+    "tu_id": "1397",
+    "speaker": "PST092_trad",
+    "start": "2337.910",
+    "end": "2342.850",
+    "parent_tu_id": "1396",
+    "text": "tu parli xx icona sacra in testa ancora un po' e faccio xx"
+  },
+  {
+    "tu_id": "1411",
+    "speaker": "PST087_trad",
+    "start": "2358.922",
+    "end": "2361.345",
+    "parent_tu_id": "1410",
+    "text": "mammina tipo anche si dice"
+  },
+  {
+    "tu_id": "1414",
+    "speaker": "PST092_trad",
+    "start": "2363.263",
+    "end": "2365.790",
+    "parent_tu_id": "1413",
+    "text": "mammina mammina mammina"
+  },
+  {
+    "tu_id": "1435",
+    "speaker": "PST087_trad",
+    "start": "2392.745",
+    "end": "2393.878",
+    "parent_tu_id": "1434",
+    "text": "#scoiattolo"
+  },
+  {
+    "tu_id": "1443",
+    "speaker": "PST087_trad",
+    "start": "2409.577",
+    "end": "2410.411",
+    "parent_tu_id": "1442",
+    "text": "scoiattolo"
+  },
+  {
+    "tu_id": "1448",
+    "speaker": "PST092_trad",
+    "start": "2415.453",
+    "end": "2418.700",
+    "parent_tu_id": "1447",
+    "text": ""
+  },
+  {
+    "tu_id": "1465",
+    "speaker": "PST087_trad",
+    "start": "2444.476",
+    "end": "2445.921",
+    "parent_tu_id": "1464",
+    "text": "okay scoiattolo"
+  },
+  {
+    "tu_id": "1467",
+    "speaker": "PST092_trad",
+    "start": "2445.989",
+    "end": "2446.490",
+    "parent_tu_id": "1466",
+    "text": "scoiattolo"
+  },
+  {
+    "tu_id": "1481",
+    "speaker": "PST092_trad",
+    "start": "2458.620",
+    "end": "2460.160",
+    "parent_tu_id": "1480",
+    "text": "sei uno scoiattolo"
+  },
+  {
+    "tu_id": "1486",
+    "speaker": "PST087_trad",
+    "start": "2465.556",
+    "end": "2466.234",
+    "parent_tu_id": "1485",
+    "text": "ciliegie"
+  },
+  {
+    "tu_id": "1496",
+    "speaker": "PST092_trad",
+    "start": "2478.501",
+    "end": "2479.268",
+    "parent_tu_id": "1495",
+    "text": "ciliegie"
+  },
+  {
+    "tu_id": "1498",
+    "speaker": "PST092_trad",
+    "start": "2479.330",
+    "end": "2480.180",
+    "parent_tu_id": "1497",
+    "text": "riso"
+  },
+  {
+    "tu_id": "1500",
+    "speaker": "PST092_trad",
+    "start": "2481.310",
+    "end": "2481.910",
+    "parent_tu_id": "1499",
+    "text": "riso"
+  },
+  {
+    "tu_id": "1513",
+    "speaker": "PST092_trad",
+    "start": "2490.922",
+    "end": "2491.833",
+    "parent_tu_id": "1512",
+    "text": "riso"
+  },
+  {
+    "tu_id": "1519",
+    "speaker": "PST087_trad",
+    "start": "2499.830",
+    "end": "2500.450",
+    "parent_tu_id": "1518",
+    "text": "farfalla"
+  },
+  {
+    "tu_id": "1530",
+    "speaker": "PST092_trad",
+    "start": "2517.670",
+    "end": "2518.320",
+    "parent_tu_id": "1529",
+    "text": "albero"
+  },
+  {
+    "tu_id": "1534",
+    "speaker": "PST092_trad",
+    "start": "2521.050",
+    "end": "2521.710",
+    "parent_tu_id": "1533",
+    "text": "albero"
+  },
+  {
+    "tu_id": "1553",
+    "speaker": "PST087_trad",
+    "start": "2544.050",
+    "end": "2544.870",
+    "parent_tu_id": "1552",
+    "text": "#bambola"
+  },
+  {
+    "tu_id": "1555",
+    "speaker": "PST092_trad",
+    "start": "2546.177",
+    "end": "2547.599",
+    "parent_tu_id": "1554",
+    "text": "bambola barbie"
+  },
+  {
+    "tu_id": "1560",
+    "speaker": "PST087_trad",
+    "start": "2549.894",
+    "end": "2551.294",
+    "parent_tu_id": "1559",
+    "text": "bambola barbie"
+  },
+  {
+    "tu_id": "1565",
+    "speaker": "PST092_trad",
+    "start": "2554.400",
+    "end": "2557.156",
+    "parent_tu_id": "1564",
+    "text": "taglia questo pezzo perché è manele e la signora ecaterina mi sciupa male"
+  },
+  {
+    "tu_id": "1596",
+    "speaker": "PST092_trad",
+    "start": "2608.711",
+    "end": "2610.400",
+    "parent_tu_id": "1595",
+    "text": "no quella è più da zingari"
+  },
+  {
+    "tu_id": "1600",
+    "speaker": "PST092_trad",
+    "start": "2612.482",
+    "end": "2613.438",
+    "parent_tu_id": "1599",
+    "text": "zingari"
+  },
+  {
+    "tu_id": "1612",
+    "speaker": "PST092_trad",
+    "start": "2623.389",
+    "end": "2624.880",
+    "parent_tu_id": "1611",
+    "text": "eh romeo e giulietta"
+  },
+  {
+    "tu_id": "1614",
+    "speaker": "PST092_trad",
+    "start": "2625.070",
+    "end": "2626.680",
+    "parent_tu_id": "1613",
+    "text": "se erano xxx"
+  },
+  {
+    "tu_id": "1624",
+    "speaker": "PST087_trad",
+    "start": "2643.877",
+    "end": "2646.556",
+    "parent_tu_id": "1623",
+    "text": "abbassa che c'è la signora ecaterina e sente tutto"
+  },
+  {
+    "tu_id": "1627",
+    "speaker": "PST092_trad",
+    "start": "2649.510",
+    "end": "2652.740",
+    "parent_tu_id": "1626",
+    "text": "romeo e giulietta se fossero stati zingari"
+  },
+  {
+    "tu_id": "1638",
+    "speaker": "PST092_trad",
+    "start": "2669.320",
+    "end": "2671.911",
+    "parent_tu_id": "1637",
+    "text": "sempre muoviti mi batte il vento in faccia"
+  },
+  {
+    "tu_id": "1641",
+    "speaker": "PST092_trad",
+    "start": "2678.790",
+    "end": "2686.667",
+    "parent_tu_id": "1640",
+    "text": "il vento mi soffia sul viso io non ho voglia della vita, oh cuore che mondo ladro"
+  },
+  {
+    "tu_id": "1645",
+    "speaker": "PST092_trad",
+    "start": "2688.395",
+    "end": "2689.675",
+    "parent_tu_id": "1644",
+    "text": "tutte le foto con te"
+  }
+]

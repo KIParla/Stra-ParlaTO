@@ -1,0 +1,322 @@
+[
+  {
+    "tu_id": "162",
+    "speaker": "PST144_trad",
+    "start": "350.220",
+    "end": "351.387",
+    "parent_tu_id": "161",
+    "text": "eh il mio fidanzato"
+  },
+  {
+    "tu_id": "164",
+    "speaker": "PST222_trad",
+    "start": "351.920",
+    "end": "352.570",
+    "parent_tu_id": "163",
+    "text": "il tuo fidanzato"
+  },
+  {
+    "tu_id": "348",
+    "speaker": "??_trad",
+    "start": "619.628",
+    "end": "620.377",
+    "parent_tu_id": "347",
+    "text": "che la pace sia con voi"
+  },
+  {
+    "tu_id": "353",
+    "speaker": "PST222_trad",
+    "start": "623.730",
+    "end": "624.571",
+    "parent_tu_id": "352",
+    "text": "parli dialetto marocchino?"
+  },
+  {
+    "tu_id": "355",
+    "speaker": "??_trad",
+    "start": "624.757",
+    "end": "625.243",
+    "parent_tu_id": "354",
+    "text": "un po'"
+  },
+  {
+    "tu_id": "357",
+    "speaker": "PST222_trad",
+    "start": "625.707",
+    "end": "626.370",
+    "parent_tu_id": "356",
+    "text": "un po', un po'"
+  },
+  {
+    "tu_id": "359",
+    "speaker": "??_trad",
+    "start": "626.389",
+    "end": "626.883",
+    "parent_tu_id": "358",
+    "text": "un po'"
+  },
+  {
+    "tu_id": "543",
+    "speaker": "PST144_trad",
+    "start": "1006.585",
+    "end": "1012.331",
+    "parent_tu_id": "542",
+    "text": "noi quando eravamo piccoli per imparare il dialetto marocchino..."
+  },
+  {
+    "tu_id": "717",
+    "speaker": "PST144_trad",
+    "start": "1359.690",
+    "end": "1367.761",
+    "parent_tu_id": "716",
+    "text": "e dei libri invece perché facevamo due perché andavamo per quattro ore quindi due ore le facevamo di grammatica e due ore invece le facevamo di educazione islamica"
+  },
+  {
+    "tu_id": "1234",
+    "speaker": "PST144_trad",
+    "start": "2470.139",
+    "end": "2477.062",
+    "parent_tu_id": "1233",
+    "text": "ma a me manca poprio l'atmosfera / ambiente che proprio si crea, cioè capito, è tutta un'altra storia"
+  },
+  {
+    "tu_id": "1365",
+    "speaker": "PST222_trad",
+    "start": "2779.657",
+    "end": "2780.855",
+    "parent_tu_id": "1364",
+    "text": "sai la parola, la gente"
+  },
+  {
+    "tu_id": "1368",
+    "speaker": "PST222_trad",
+    "start": "2781.439",
+    "end": "2783.100",
+    "parent_tu_id": "1367",
+    "text": "okay, la gente viene da questa parola"
+  },
+  {
+    "tu_id": "1410",
+    "speaker": "PST222_trad",
+    "start": "2856.711",
+    "end": "2857.880",
+    "parent_tu_id": "1409",
+    "text": "e 'anis"
+  },
+  {
+    "tu_id": "1413",
+    "speaker": "PST222_trad",
+    "start": "2859.062",
+    "end": "2860.257",
+    "parent_tu_id": "1412",
+    "text": "e persona piacevole"
+  },
+  {
+    "tu_id": "1424",
+    "speaker": "PST222_trad",
+    "start": "2878.439",
+    "end": "2880.270",
+    "parent_tu_id": "1423",
+    "text": "(nome di un capitolo del corano)"
+  },
+  {
+    "tu_id": "1473",
+    "speaker": "PST144_trad",
+    "start": "2972.504",
+    "end": "2975.092",
+    "parent_tu_id": "1472",
+    "text": "si dice l'intenzione e la mancanza dell'intenzione non si incontreranno mai"
+  },
+  {
+    "tu_id": "1475",
+    "speaker": "PST144_trad",
+    "start": "2975.581",
+    "end": "2976.491",
+    "parent_tu_id": "1474",
+    "text": "intenzione"
+  },
+  {
+    "tu_id": "1478",
+    "speaker": "PST144_trad",
+    "start": "2977.400",
+    "end": "2978.231",
+    "parent_tu_id": "1477",
+    "text": "intenzione"
+  },
+  {
+    "tu_id": "1480",
+    "speaker": "PST222_trad",
+    "start": "2978.231",
+    "end": "2979.104",
+    "parent_tu_id": "1479",
+    "text": "uhm intenzione"
+  },
+  {
+    "tu_id": "1482",
+    "speaker": "PST144_trad",
+    "start": "2979.128",
+    "end": "2980.348",
+    "parent_tu_id": "1481",
+    "text": "e la mancanza dell'intenzione"
+  },
+  {
+    "tu_id": "1485",
+    "speaker": "PST144_trad",
+    "start": "2981.296",
+    "end": "2982.581",
+    "parent_tu_id": "1484",
+    "text": "non si incontreranno mai"
+  },
+  {
+    "tu_id": "1489",
+    "speaker": "PST144_trad",
+    "start": "2984.994",
+    "end": "2986.244",
+    "parent_tu_id": "1488",
+    "text": "sai cos'è l'intenzione, no?"
+  },
+  {
+    "tu_id": "1491",
+    "speaker": "PST222_trad",
+    "start": "2986.244",
+    "end": "2986.907",
+    "parent_tu_id": "1490",
+    "text": "l'intenzione?"
+  },
+  {
+    "tu_id": "1494",
+    "speaker": "PST144_trad",
+    "start": "2987.273",
+    "end": "2989.263",
+    "parent_tu_id": "1493",
+    "text": "l'intenzione quindi, sì l'intenzione"
+  },
+  {
+    "tu_id": "1497",
+    "speaker": "PST144_trad",
+    "start": "2994.593",
+    "end": "2995.683",
+    "parent_tu_id": "1496",
+    "text": "e l'intenzione"
+  },
+  {
+    "tu_id": "1512",
+    "speaker": "PST144_trad",
+    "start": "3029.036",
+    "end": "3031.028",
+    "parent_tu_id": "1511",
+    "text": "e la mancanza dell'intenzione"
+  },
+  {
+    "tu_id": "1523",
+    "speaker": "PST144_trad",
+    "start": "3060.477",
+    "end": "3063.932",
+    "parent_tu_id": "1522",
+    "text": "io mi ricordo semplicemente di questo che l'intenzione e la mancanza dell'intenzione non si incontreranno mai"
+  },
+  {
+    "tu_id": "1529",
+    "speaker": "PST222_trad",
+    "start": "3071.957",
+    "end": "3074.957",
+    "parent_tu_id": "1528",
+    "text": "diminuisci l'intenzione in eh arabo, in egiziano"
+  },
+  {
+    "tu_id": "1532",
+    "speaker": "PST222_trad",
+    "start": "3075.113",
+    "end": "3076.381",
+    "parent_tu_id": "1531",
+    "text": "si chiama diminuisci il tuo atteggiamento"
+  },
+  {
+    "tu_id": "1534",
+    "speaker": "PST144_trad",
+    "start": "3076.425",
+    "end": "3077.401",
+    "parent_tu_id": "1533",
+    "text": "diminuire l'atteggiamento"
+  },
+  {
+    "tu_id": "1558",
+    "speaker": "PST144_trad",
+    "start": "3119.231",
+    "end": "3126.062",
+    "parent_tu_id": "1557",
+    "text": "invece l'intenzione è diverso da noi, l'intenzione è l'intenzione okay, l'intenzione puoi anche essere una brava persona e avere morale / princìpi."
+  },
+  {
+    "tu_id": "1570",
+    "speaker": "PST144_trad",
+    "start": "3142.101",
+    "end": "3145.218",
+    "parent_tu_id": "1569",
+    "text": "per me la mancanza dell'intenzione anche solamente verso una persona"
+  },
+  {
+    "tu_id": "1572",
+    "speaker": "PST144_trad",
+    "start": "3145.529",
+    "end": "3148.744",
+    "parent_tu_id": "1571",
+    "text": "se mi metto a sparlare di quella persona, per me quella è mancanza d'intenzione"
+  },
+  {
+    "tu_id": "1593",
+    "speaker": "PST144_trad",
+    "start": "3178.868",
+    "end": "3179.893",
+    "parent_tu_id": "1592",
+    "text": "sì, ingannano"
+  },
+  {
+    "tu_id": "1595",
+    "speaker": "PST222_trad",
+    "start": "3179.438",
+    "end": "3180.296",
+    "parent_tu_id": "1594",
+    "text": "ingannatori"
+  },
+  {
+    "tu_id": "1597",
+    "speaker": "PST144_trad",
+    "start": "3180.296",
+    "end": "3180.925",
+    "parent_tu_id": "1596",
+    "text": "ingannatori"
+  },
+  {
+    "tu_id": "1608",
+    "speaker": "PST144_trad",
+    "start": "3196.749",
+    "end": "3198.614",
+    "parent_tu_id": "1607",
+    "text": "sì invece giocatori è più"
+  },
+  {
+    "tu_id": "1611",
+    "speaker": "PST144_trad",
+    "start": "3200.828",
+    "end": "3204.230",
+    "parent_tu_id": "1610",
+    "text": "\"quello che fai ti ritorna indietro\" quindi chi lo fa chi è proprio mh"
+  },
+  {
+    "tu_id": "1630",
+    "speaker": "PST222_trad",
+    "start": "3238.257",
+    "end": "3240.220",
+    "parent_tu_id": "1629",
+    "text": "quindi il giocatore gioca"
+  },
+  {
+    "tu_id": "1660",
+    "speaker": "PST222_trad",
+    "start": "3307.542",
+    "end": "3311.373",
+    "parent_tu_id": "1659",
+    "text": "per esempio questa parola, rapporto alto di amicizia, perché è nuova frasca, molto fresca: due giorni fa"
+  }
+]

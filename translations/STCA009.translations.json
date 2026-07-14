@@ -1,0 +1,594 @@
+[
+  {
+    "tu_id": "148",
+    "speaker": "PST145_trad",
+    "start": "287.930",
+    "end": "296.719",
+    "parent_tu_id": "147",
+    "text": "mi ricordo cioè ce l'ho in mente quando mi sono trasferita quando ho dovuto imparare una nuova lingua grazie a dio sono riuscita a impararla sin da subito"
+  },
+  {
+    "tu_id": "177",
+    "speaker": "PST145_trad",
+    "start": "361.430",
+    "end": "365.160",
+    "parent_tu_id": "176",
+    "text": "e io lì ho capito che questo okay significa disegno io disegno"
+  },
+  {
+    "tu_id": "231",
+    "speaker": "PST222_trad",
+    "start": "485.110",
+    "end": "485.781",
+    "parent_tu_id": "230",
+    "text": "auguri"
+  },
+  {
+    "tu_id": "233",
+    "speaker": "PST145_trad",
+    "start": "485.781",
+    "end": "486.451",
+    "parent_tu_id": "232",
+    "text": "grazie"
+  },
+  {
+    "tu_id": "293",
+    "speaker": "PST222_trad",
+    "start": "608.975",
+    "end": "610.398",
+    "parent_tu_id": "292",
+    "text": "più impari"
+  },
+  {
+    "tu_id": "296",
+    "speaker": "PST222_trad",
+    "start": "611.123",
+    "end": "612.648",
+    "parent_tu_id": "295",
+    "text": "eh più scopri di essere ignorante"
+  },
+  {
+    "tu_id": "349",
+    "speaker": "PST145_trad",
+    "start": "715.753",
+    "end": "717.264",
+    "parent_tu_id": "348",
+    "text": "piano piano piano piano"
+  },
+  {
+    "tu_id": "366",
+    "speaker": "PST145_trad",
+    "start": "755.386",
+    "end": "758.119",
+    "parent_tu_id": "365",
+    "text": "se allah se allah vuole, come diciamo noi"
+  },
+  {
+    "tu_id": "389",
+    "speaker": "PST145_trad",
+    "start": "806.286",
+    "end": "808.642",
+    "parent_tu_id": "388",
+    "text": "come in egitto anche in marocco fanno così"
+  },
+  {
+    "tu_id": "570",
+    "speaker": "PST145_trad",
+    "start": "1217.898",
+    "end": "1220.742",
+    "parent_tu_id": "569",
+    "text": "io vado mi siedo e che dio me la scampi"
+  },
+  {
+    "tu_id": "572",
+    "speaker": "PST222_trad",
+    "start": "1221.198",
+    "end": "1225.120",
+    "parent_tu_id": "571",
+    "text": "sì ma che dio me la scampi sì però, io mi fido tanto"
+  },
+  {
+    "tu_id": "599",
+    "speaker": "PST145_trad",
+    "start": "1274.720",
+    "end": "1276.487",
+    "parent_tu_id": "598",
+    "text": "Con un modo solare sì"
+  },
+  {
+    "tu_id": "602",
+    "speaker": "PST222_trad",
+    "start": "1276.609",
+    "end": "1277.820",
+    "parent_tu_id": "601",
+    "text": "eh se dio vuole"
+  },
+  {
+    "tu_id": "605",
+    "speaker": "PST222_trad",
+    "start": "1281.487",
+    "end": "1284.698",
+    "parent_tu_id": "603",
+    "text": "se dio vuole xx xx"
+  },
+  {
+    "tu_id": "608",
+    "speaker": "PST222_trad",
+    "start": "1284.710",
+    "end": "1285.440",
+    "parent_tu_id": "607",
+    "text": "xx"
+  },
+  {
+    "tu_id": "625",
+    "speaker": "PST145_trad",
+    "start": "1317.053",
+    "end": "1320.098",
+    "parent_tu_id": "624",
+    "text": "io se dio vuole che lo passo se no no"
+  },
+  {
+    "tu_id": "636",
+    "speaker": "PST145_trad",
+    "start": "1339.938",
+    "end": "1340.827",
+    "parent_tu_id": "635",
+    "text": "grazie a dio"
+  },
+  {
+    "tu_id": "638",
+    "speaker": "PST222_trad",
+    "start": "1341.219",
+    "end": "1341.997",
+    "parent_tu_id": "637",
+    "text": "grazie a dio"
+  },
+  {
+    "tu_id": "743",
+    "speaker": "PST145_trad",
+    "start": "1574.498",
+    "end": "1575.725",
+    "parent_tu_id": "742",
+    "text": "quello che dio ha voluto"
+  },
+  {
+    "tu_id": "802",
+    "speaker": "PST145_trad",
+    "start": "1712.253",
+    "end": "1713.964",
+    "parent_tu_id": "801",
+    "text": "è quello dove si mette pentola"
+  },
+  {
+    "tu_id": "811",
+    "speaker": "PST145_trad",
+    "start": "1727.542",
+    "end": "1730.988",
+    "parent_tu_id": "810",
+    "text": "il che significa pulisci dove metto le pentole"
+  },
+  {
+    "tu_id": "927",
+    "speaker": "PST145_trad",
+    "start": "1908.109",
+    "end": "1909.401",
+    "parent_tu_id": "926",
+    "text": "quello è il meglio"
+  },
+  {
+    "tu_id": "929",
+    "speaker": "PST145_trad",
+    "start": "1909.664",
+    "end": "1911.387",
+    "parent_tu_id": "928",
+    "text": "sicuro è il meglio xx"
+  },
+  {
+    "tu_id": "1166",
+    "speaker": "PST145_trad",
+    "start": "2359.776",
+    "end": "2361.253",
+    "parent_tu_id": "1165",
+    "text": "soldi soldi"
+  },
+  {
+    "tu_id": "1178",
+    "speaker": "PST222_trad",
+    "start": "2379.776",
+    "end": "2380.642",
+    "parent_tu_id": "1177",
+    "text": "sì meschino sì"
+  },
+  {
+    "tu_id": "1180",
+    "speaker": "PST145_trad",
+    "start": "2380.376",
+    "end": "2381.048",
+    "parent_tu_id": "1179",
+    "text": "meschino"
+  },
+  {
+    "tu_id": "1188",
+    "speaker": "PST145_trad",
+    "start": "2390.013",
+    "end": "2392.024",
+    "parent_tu_id": "1187",
+    "text": "beh è datt~ venditore di datteri"
+  },
+  {
+    "tu_id": "1191",
+    "speaker": "PST145_trad",
+    "start": "2393.239",
+    "end": "2394.087",
+    "parent_tu_id": "1190",
+    "text": "venditore di datteri"
+  },
+  {
+    "tu_id": "1195",
+    "speaker": "PST145_trad",
+    "start": "2395.286",
+    "end": "2399.098",
+    "parent_tu_id": "1194",
+    "text": "eh però in arabo è venditore di datteri vabbè è ca~"
+  },
+  {
+    "tu_id": "1205",
+    "speaker": "PST222_trad",
+    "start": "2410.186",
+    "end": "2410.930",
+    "parent_tu_id": "1204",
+    "text": "tamarro"
+  },
+  {
+    "tu_id": "1220",
+    "speaker": "PST222_trad",
+    "start": "2425.486",
+    "end": "2426.475",
+    "parent_tu_id": "1219",
+    "text": "tamarro"
+  },
+  {
+    "tu_id": "1222",
+    "speaker": "PST145_trad",
+    "start": "2426.475",
+    "end": "2427.151",
+    "parent_tu_id": "1221",
+    "text": "tamarro"
+  },
+  {
+    "tu_id": "1226",
+    "speaker": "PST222_trad",
+    "start": "2428.708",
+    "end": "2430.095",
+    "parent_tu_id": "1225",
+    "text": "tamarro, tamarra"
+  },
+  {
+    "tu_id": "1230",
+    "speaker": "PST146_trad",
+    "start": "2434.230",
+    "end": "2434.851",
+    "parent_tu_id": "1229",
+    "text": "uva secca"
+  },
+  {
+    "tu_id": "1232",
+    "speaker": "PST145_trad",
+    "start": "2434.851",
+    "end": "2436.559",
+    "parent_tu_id": "1231",
+    "text": "uva secca, uva secca"
+  },
+  {
+    "tu_id": "1234",
+    "speaker": "PST222_trad",
+    "start": "2436.559",
+    "end": "2437.647",
+    "parent_tu_id": "1233",
+    "text": "uva secca si"
+  },
+  {
+    "tu_id": "1262",
+    "speaker": "PST146_trad",
+    "start": "2475.820",
+    "end": "2476.420",
+    "parent_tu_id": "1261",
+    "text": "uva secca"
+  },
+  {
+    "tu_id": "1270",
+    "speaker": "PST222_trad",
+    "start": "2481.164",
+    "end": "2482.097",
+    "parent_tu_id": "1269",
+    "text": "si uva secca"
+  },
+  {
+    "tu_id": "1274",
+    "speaker": "PST146_trad",
+    "start": "2484.774",
+    "end": "2486.640",
+    "parent_tu_id": "1273",
+    "text": "si in sicilia zibibbū sì"
+  },
+  {
+    "tu_id": "1276",
+    "speaker": "PST222_trad",
+    "start": "2486.429",
+    "end": "2487.640",
+    "parent_tu_id": "1275",
+    "text": "si chiama (zibibu: uva secca)"
+  },
+  {
+    "tu_id": "1278",
+    "speaker": "PST222_trad",
+    "start": "2487.640",
+    "end": "2488.929",
+    "parent_tu_id": "1277",
+    "text": "si chiama (zibibbu o zibibbo: uva secca)"
+  },
+  {
+    "tu_id": "1281",
+    "speaker": "PST145_trad",
+    "start": "2488.929",
+    "end": "2489.915",
+    "parent_tu_id": "1280",
+    "text": "uva secca"
+  },
+  {
+    "tu_id": "1282",
+    "speaker": "PST146_trad",
+    "start": "2488.929",
+    "end": "2489.915",
+    "parent_tu_id": "1279",
+    "text": "uva secca"
+  },
+  {
+    "tu_id": "1284",
+    "speaker": "PST222_trad",
+    "start": "2490.170",
+    "end": "2491.026",
+    "parent_tu_id": "1283",
+    "text": "zibibbu o zibibbo"
+  },
+  {
+    "tu_id": "1286",
+    "speaker": "PST146_trad",
+    "start": "2490.222",
+    "end": "2492.122",
+    "parent_tu_id": "1285",
+    "text": "in dialetto (zibibbu zibibbu: uva secca)"
+  },
+  {
+    "tu_id": "1288",
+    "speaker": "PST145_trad",
+    "start": "2491.231",
+    "end": "2492.665",
+    "parent_tu_id": "1287",
+    "text": "uva secca, uva secca"
+  },
+  {
+    "tu_id": "1296",
+    "speaker": "PST222_trad",
+    "start": "2500.608",
+    "end": "2502.872",
+    "parent_tu_id": "1295",
+    "text": "a volte ci chiamiamo zbīb"
+  },
+  {
+    "tu_id": "1298",
+    "speaker": "PST145_trad",
+    "start": "2502.872",
+    "end": "2503.854",
+    "parent_tu_id": "1297",
+    "text": "uva secca"
+  },
+  {
+    "tu_id": "1318",
+    "speaker": "PST222_trad",
+    "start": "2531.875",
+    "end": "2532.742",
+    "parent_tu_id": "1317",
+    "text": "uva secca"
+  },
+  {
+    "tu_id": "1321",
+    "speaker": "PST222_trad",
+    "start": "2534.664",
+    "end": "2537.275",
+    "parent_tu_id": "1320",
+    "text": "ah un pezzo di uva secca"
+  },
+  {
+    "tu_id": "1331",
+    "speaker": "PST222_trad",
+    "start": "2544.409",
+    "end": "2545.820",
+    "parent_tu_id": "1330",
+    "text": "uva secca, uva secca"
+  },
+  {
+    "tu_id": "1337",
+    "speaker": "PST222_trad",
+    "start": "2557.764",
+    "end": "2558.608",
+    "parent_tu_id": "1336",
+    "text": "lentiggini sul viso"
+  },
+  {
+    "tu_id": "1362",
+    "speaker": "PST222_trad",
+    "start": "2589.076",
+    "end": "2590.642",
+    "parent_tu_id": "1361",
+    "text": "quel ragazzo qua ha delle lentiggini qua"
+  },
+  {
+    "tu_id": "1364",
+    "speaker": "PST222_trad",
+    "start": "2591.142",
+    "end": "2593.998",
+    "parent_tu_id": "1363",
+    "text": "oppure ha delle lentiggini sul naso"
+  },
+  {
+    "tu_id": "1369",
+    "speaker": "PST222_trad",
+    "start": "2596.498",
+    "end": "2597.120",
+    "parent_tu_id": "1368",
+    "text": "lentiggini"
+  },
+  {
+    "tu_id": "1403",
+    "speaker": "PST145_trad",
+    "start": "2652.810",
+    "end": "2658.020",
+    "parent_tu_id": "1402",
+    "text": "eh anche questa lingua è marocchina, dai giovani xx grazie a dio"
+  },
+  {
+    "tu_id": "1405",
+    "speaker": "PST145_trad",
+    "start": "2658.430",
+    "end": "2663.360",
+    "parent_tu_id": "1404",
+    "text": "a me non capiscono se io parlo con loro io mi sono abituata a parlare con voi"
+  },
+  {
+    "tu_id": "1476",
+    "speaker": "PST222_trad",
+    "start": "2784.786",
+    "end": "2786.431",
+    "parent_tu_id": "1475",
+    "text": "tipo stupido di natura"
+  },
+  {
+    "tu_id": "1479",
+    "speaker": "PST222_trad",
+    "start": "2788.053",
+    "end": "2789.231",
+    "parent_tu_id": "1478",
+    "text": "stupido di natura"
+  },
+  {
+    "tu_id": "1495",
+    "speaker": "PST222_trad",
+    "start": "2816.331",
+    "end": "2820.209",
+    "parent_tu_id": "1494",
+    "text": "stupido di natura eh xx xx būḥa xx"
+  },
+  {
+    "tu_id": "1508",
+    "speaker": "PST222_trad",
+    "start": "2851.309",
+    "end": "2853.064",
+    "parent_tu_id": "1507",
+    "text": "e scrivi commedia teatrale"
+  },
+  {
+    "tu_id": "1776",
+    "speaker": "PST145_trad",
+    "start": "3393.820",
+    "end": "3395.408",
+    "parent_tu_id": "1775",
+    "text": "hanno detto xx"
+  },
+  {
+    "tu_id": "1778",
+    "speaker": "PST145_trad",
+    "start": "3395.592",
+    "end": "3397.536",
+    "parent_tu_id": "1777",
+    "text": "ha detto xx"
+  },
+  {
+    "tu_id": "1879",
+    "speaker": "PST145_trad",
+    "start": "3643.231",
+    "end": "3644.287",
+    "parent_tu_id": "1878",
+    "text": "Davvero (letteralmente giuro su Dio)"
+  },
+  {
+    "tu_id": "1899",
+    "speaker": "PST222_trad",
+    "start": "3684.842",
+    "end": "3685.742",
+    "parent_tu_id": "1898",
+    "text": "tashkīl (è la vocalizzazione nell'arabo, l'aggiunta delle vocali )"
+  },
+  {
+    "tu_id": "1921",
+    "speaker": "PST222_trad",
+    "start": "3727.553",
+    "end": "3729.231",
+    "parent_tu_id": "1920",
+    "text": "eh questa si chiama macchina"
+  },
+  {
+    "tu_id": "1980",
+    "speaker": "PST145_trad",
+    "start": "3848.753",
+    "end": "3851.853",
+    "parent_tu_id": "1979",
+    "text": "grazie a dio perché se no sarebbe veramente un problema"
+  },
+  {
+    "tu_id": "1982",
+    "speaker": "PST145_trad",
+    "start": "3852.909",
+    "end": "3854.487",
+    "parent_tu_id": "1981",
+    "text": ""
+  },
+  {
+    "tu_id": "2166",
+    "speaker": "PST145_trad",
+    "start": "4230.386",
+    "end": "4231.242",
+    "parent_tu_id": "2165",
+    "text": "grazie a dio"
+  },
+  {
+    "tu_id": "2187",
+    "speaker": "PST145_trad",
+    "start": "4260.165",
+    "end": "4261.809",
+    "parent_tu_id": "2186",
+    "text": "davvero che sono tre notti"
+  },
+  {
+    "tu_id": "2740",
+    "speaker": "PST222_trad",
+    "start": "5265.297",
+    "end": "5267.010",
+    "parent_tu_id": "2739",
+    "text": "ma guarda che è bello"
+  },
+  {
+    "tu_id": "2742",
+    "speaker": "PST222_trad",
+    "start": "5267.300",
+    "end": "5268.080",
+    "parent_tu_id": "2741",
+    "text": "davvero è bello"
+  },
+  {
+    "tu_id": "2744",
+    "speaker": "PST222_trad",
+    "start": "5269.250",
+    "end": "5270.350",
+    "parent_tu_id": "2743",
+    "text": "è bello il posto dove vivi a torino"
+  },
+  {
+    "tu_id": "2746",
+    "speaker": "PST222_trad",
+    "start": "5270.620",
+    "end": "5271.080",
+    "parent_tu_id": "2745",
+    "text": "davvero è bello il posto dove vivi"
+  }
+]

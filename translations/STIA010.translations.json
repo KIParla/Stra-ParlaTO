@@ -1,0 +1,18 @@
+[
+  {
+    "tu_id": "321",
+    "speaker": "PST018_trad",
+    "start": "537.381",
+    "end": "541.530",
+    "parent_tu_id": "320",
+    "text": "e a un certo punto sento: eh isis dio è il più grande cose così"
+  },
+  {
+    "tu_id": "591",
+    "speaker": "PST018_trad",
+    "start": "1023.141",
+    "end": "1023.659",
+    "parent_tu_id": "590",
+    "text": "grazie a dio"
+  }
+]

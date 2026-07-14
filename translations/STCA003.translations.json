@@ -1,0 +1,34 @@
+[
+  {
+    "tu_id": "51",
+    "speaker": "PST108_trad",
+    "start": "66.161",
+    "end": "67.558",
+    "parent_tu_id": "50",
+    "text": ""
+  },
+  {
+    "tu_id": "53",
+    "speaker": "PST108_trad",
+    "start": "68.317",
+    "end": "69.127",
+    "parent_tu_id": "52",
+    "text": ""
+  },
+  {
+    "tu_id": "55",
+    "speaker": "PST108_trad",
+    "start": "69.937",
+    "end": "71.334",
+    "parent_tu_id": "54",
+    "text": ""
+  },
+  {
+    "tu_id": "433",
+    "speaker": "PST110_trad",
+    "start": "681.287",
+    "end": "683.377",
+    "parent_tu_id": "432",
+    "text": "vengo se dio vuole voi vede"
+  }
+]

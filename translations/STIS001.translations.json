@@ -1,0 +1,1890 @@
+[
+  {
+    "tu_id": "23",
+    "speaker": "PST001_trad",
+    "start": "38.840",
+    "end": "40.615",
+    "parent_tu_id": "22",
+    "text": "per la questione di"
+  },
+  {
+    "tu_id": "30",
+    "speaker": "PST001_trad",
+    "start": "49.970",
+    "end": "51.257",
+    "parent_tu_id": "29",
+    "text": "per questo siamo venuti qui"
+  },
+  {
+    "tu_id": "33",
+    "speaker": "PST001_trad",
+    "start": "51.951",
+    "end": "53.899",
+    "parent_tu_id": "32",
+    "text": "per la sua malattia"
+  },
+  {
+    "tu_id": "35",
+    "speaker": "PST001_trad",
+    "start": "54.614",
+    "end": "57.806",
+    "parent_tu_id": "34",
+    "text": "il trattamento in italia è stato"
+  },
+  {
+    "tu_id": "46",
+    "speaker": "PST001_trad",
+    "start": "72.768",
+    "end": "75.407",
+    "parent_tu_id": "45",
+    "text": "abbiamo fatto le pratiche per l'assistenza"
+  },
+  {
+    "tu_id": "48",
+    "speaker": "PST001_trad",
+    "start": "76.256",
+    "end": "78.486",
+    "parent_tu_id": "47",
+    "text": "ospedaliera di mio figlio"
+  },
+  {
+    "tu_id": "51",
+    "speaker": "PST001_trad",
+    "start": "79.402",
+    "end": "84.565",
+    "parent_tu_id": "50",
+    "text": "in novembre in che data?"
+  },
+  {
+    "tu_id": "54",
+    "speaker": "PST001_trad",
+    "start": "87.051",
+    "end": "93.407",
+    "parent_tu_id": "53",
+    "text": "non mi ricordo la data però ci hanno ricoverato mio figlio e io"
+  },
+  {
+    "tu_id": "57",
+    "speaker": "PST001_trad",
+    "start": "96.305",
+    "end": "100.064",
+    "parent_tu_id": "56",
+    "text": "siamo rimasti dieci giorni"
+  },
+  {
+    "tu_id": "60",
+    "speaker": "PST001_trad",
+    "start": "100.650",
+    "end": "103.560",
+    "parent_tu_id": "59",
+    "text": "gli hanno fatto tutti gli esami"
+  },
+  {
+    "tu_id": "63",
+    "speaker": "PST001_trad",
+    "start": "104.267",
+    "end": "108.903",
+    "parent_tu_id": "62",
+    "text": "in perù hanno impiegato circa due anni"
+  },
+  {
+    "tu_id": "67",
+    "speaker": "PST001_trad",
+    "start": "110.213",
+    "end": "111.870",
+    "parent_tu_id": "66",
+    "text": "qui è stato velocissimo"
+  },
+  {
+    "tu_id": "71",
+    "speaker": "PST001_trad",
+    "start": "112.842",
+    "end": "113.245",
+    "parent_tu_id": "70",
+    "text": "quindi"
+  },
+  {
+    "tu_id": "75",
+    "speaker": "PST001_trad",
+    "start": "121.579",
+    "end": "127.360",
+    "parent_tu_id": "74",
+    "text": "perché in perù era in lista per un trapianto di cuore"
+  },
+  {
+    "tu_id": "80",
+    "speaker": "PST001_trad",
+    "start": "128.225",
+    "end": "130.611",
+    "parent_tu_id": "79",
+    "text": "in perù non c'era altra"
+  },
+  {
+    "tu_id": "82",
+    "speaker": "PST001_trad",
+    "start": "131.320",
+    "end": "132.893",
+    "parent_tu_id": "81",
+    "text": "non mi davano alte opzioni"
+  },
+  {
+    "tu_id": "85",
+    "speaker": "PST001_trad",
+    "start": "133.391",
+    "end": "135.830",
+    "parent_tu_id": "84",
+    "text": "sì allora qui in italia sì"
+  },
+  {
+    "tu_id": "87",
+    "speaker": "PST001_trad",
+    "start": "136.147",
+    "end": "144.600",
+    "parent_tu_id": "86",
+    "text": "mi hanno dato un'altra opzione e quindi gli hanno fatto questo intervento in gennaio"
+  },
+  {
+    "tu_id": "89",
+    "speaker": "PST001_trad",
+    "start": "145.731",
+    "end": "150.661",
+    "parent_tu_id": "88",
+    "text": "c'è un'altra possibilità grazie a cui non ha bisogno del trapianto del cuore"
+  },
+  {
+    "tu_id": "94",
+    "speaker": "PST001_trad",
+    "start": "156.225",
+    "end": "157.919",
+    "parent_tu_id": "93",
+    "text": "è migliorato"
+  },
+  {
+    "tu_id": "96",
+    "speaker": "PST001_trad",
+    "start": "158.848",
+    "end": "162.094",
+    "parent_tu_id": "95",
+    "text": "ovviamente siamo felici per questo"
+  },
+  {
+    "tu_id": "99",
+    "speaker": "PST001_trad",
+    "start": "162.683",
+    "end": "164.500",
+    "parent_tu_id": "98",
+    "text": "riguardo a mio figlio"
+  },
+  {
+    "tu_id": "112",
+    "speaker": "PST001_trad",
+    "start": "196.604",
+    "end": "198.637",
+    "parent_tu_id": "111",
+    "text": "abbiamo visitato pochi posti"
+  },
+  {
+    "tu_id": "114",
+    "speaker": "PST001_trad",
+    "start": "198.831",
+    "end": "203.632",
+    "parent_tu_id": "113",
+    "text": "in realtà perché ci siamo occupati più di nostro figlio della salute di nostro figlio"
+  },
+  {
+    "tu_id": "117",
+    "speaker": "PST001_trad",
+    "start": "204.235",
+    "end": "209.741",
+    "parent_tu_id": "116",
+    "text": "siamo stati impegnati con questo in questi cinque mesi che sono stata qui"
+  },
+  {
+    "tu_id": "152",
+    "speaker": "PST002_trad",
+    "start": "263.169",
+    "end": "264.547",
+    "parent_tu_id": "151",
+    "text": "molto troppo tranquillo"
+  },
+  {
+    "tu_id": "165",
+    "speaker": "PST001_trad",
+    "start": "281.495",
+    "end": "281.778",
+    "parent_tu_id": "164",
+    "text": "allora"
+  },
+  {
+    "tu_id": "194",
+    "speaker": "PST002_trad",
+    "start": "315.325",
+    "end": "316.339",
+    "parent_tu_id": "193",
+    "text": "solo da fuori"
+  },
+  {
+    "tu_id": "199",
+    "speaker": "PST002_trad",
+    "start": "320.587",
+    "end": "322.227",
+    "parent_tu_id": "198",
+    "text": "qual è la chiesa in alto?"
+  },
+  {
+    "tu_id": "217",
+    "speaker": "PST001_trad",
+    "start": "342.315",
+    "end": "350.200",
+    "parent_tu_id": "216",
+    "text": "altri posti non siamo riusciti a visitarli"
+  },
+  {
+    "tu_id": "221",
+    "speaker": "PST002_trad",
+    "start": "350.707",
+    "end": "351.307",
+    "parent_tu_id": "220",
+    "text": "ci mancano"
+  },
+  {
+    "tu_id": "230",
+    "speaker": "PST001_trad",
+    "start": "363.760",
+    "end": "373.013",
+    "parent_tu_id": "229",
+    "text": "niente andiamo a scuola per imparare un po' di più la lingua per poter parlare"
+  },
+  {
+    "tu_id": "234",
+    "speaker": "PST001_trad",
+    "start": "373.760",
+    "end": "380.067",
+    "parent_tu_id": "233",
+    "text": "e interagire con gli italiani"
+  },
+  {
+    "tu_id": "237",
+    "speaker": "PST001_trad",
+    "start": "381.560",
+    "end": "389.333",
+    "parent_tu_id": "236",
+    "text": "perché la lingua è molto importante importantissimo perché se no è difficile"
+  },
+  {
+    "tu_id": "242",
+    "speaker": "PST001_trad",
+    "start": "392.930",
+    "end": "398.000",
+    "parent_tu_id": "241",
+    "text": "all'inizio come si dice ho fatto molta fatica"
+  },
+  {
+    "tu_id": "253",
+    "speaker": "PST001_trad",
+    "start": "408.240",
+    "end": "410.510",
+    "parent_tu_id": "252",
+    "text": "piangeva"
+  },
+  {
+    "tu_id": "266",
+    "speaker": "PST001_trad",
+    "start": "424.620",
+    "end": "430.435",
+    "parent_tu_id": "265",
+    "text": "ancora non va a scuola perché il non dottore non ha"
+  },
+  {
+    "tu_id": "273",
+    "speaker": "PST001_trad",
+    "start": "438.133",
+    "end": "442.973",
+    "parent_tu_id": "272",
+    "text": "ha l'appuntamento in ospedale e mi dirà se"
+  },
+  {
+    "tu_id": "276",
+    "speaker": "PST001_trad",
+    "start": "443.770",
+    "end": "446.530",
+    "parent_tu_id": "275",
+    "text": "può andare o no a scuola"
+  },
+  {
+    "tu_id": "284",
+    "speaker": "PST001_trad",
+    "start": "459.700",
+    "end": "463.656",
+    "parent_tu_id": "283",
+    "text": "perché la zona dove abitiamo diciamo"
+  },
+  {
+    "tu_id": "291",
+    "speaker": "PST001_trad",
+    "start": "467.100",
+    "end": "471.120",
+    "parent_tu_id": "290",
+    "text": "molto ogni giorno si può dire no?"
+  },
+  {
+    "tu_id": "294",
+    "speaker": "PST001_trad",
+    "start": "471.333",
+    "end": "473.173",
+    "parent_tu_id": "293",
+    "text": "è"
+  },
+  {
+    "tu_id": "296",
+    "speaker": "PST001_trad",
+    "start": "474.360",
+    "end": "478.903",
+    "parent_tu_id": "295",
+    "text": "e per mio figlio non va bene no quindi"
+  },
+  {
+    "tu_id": "300",
+    "speaker": "PST001_trad",
+    "start": "481.331",
+    "end": "487.126",
+    "parent_tu_id": "299",
+    "text": "non abbiamo un altro posto in cui abitare quindi dobbiamo aspettare"
+  },
+  {
+    "tu_id": "305",
+    "speaker": "PST001_trad",
+    "start": "487.844",
+    "end": "490.825",
+    "parent_tu_id": "304",
+    "text": "perché mio marito non lavora ancora"
+  },
+  {
+    "tu_id": "309",
+    "speaker": "PST001_trad",
+    "start": "491.961",
+    "end": "497.227",
+    "parent_tu_id": "308",
+    "text": "il permesso di soggiorno stiamo facendo le pratiche per i documenti"
+  },
+  {
+    "tu_id": "313",
+    "speaker": "PST001_trad",
+    "start": "498.710",
+    "end": "501.883",
+    "parent_tu_id": "312",
+    "text": "e quando avremo i documenti"
+  },
+  {
+    "tu_id": "321",
+    "speaker": "PST001_trad",
+    "start": "516.773",
+    "end": "519.190",
+    "parent_tu_id": "320",
+    "text": "un po' più tranquilla sì"
+  },
+  {
+    "tu_id": "349",
+    "speaker": "PST002_trad",
+    "start": "553.280",
+    "end": "555.860",
+    "parent_tu_id": "348",
+    "text": "non esiste la sanità"
+  },
+  {
+    "tu_id": "362",
+    "speaker": "PST001_trad",
+    "start": "573.090",
+    "end": "579.813",
+    "parent_tu_id": "361",
+    "text": "quindi bisogna pagare no e la questione del cuore è carissimo"
+  },
+  {
+    "tu_id": "365",
+    "speaker": "PST001_trad",
+    "start": "580.770",
+    "end": "587.680",
+    "parent_tu_id": "364",
+    "text": "quindi qui al conteario è gratis grazie a dio"
+  },
+  {
+    "tu_id": "368",
+    "speaker": "PST001_trad",
+    "start": "589.990",
+    "end": "591.890",
+    "parent_tu_id": "367",
+    "text": "per questo siamo felici"
+  },
+  {
+    "tu_id": "383",
+    "speaker": "PST002_trad",
+    "start": "607.770",
+    "end": "609.430",
+    "parent_tu_id": "382",
+    "text": "di volo"
+  },
+  {
+    "tu_id": "401",
+    "speaker": "PST002_trad",
+    "start": "625.100",
+    "end": "625.900",
+    "parent_tu_id": "400",
+    "text": "orribile"
+  },
+  {
+    "tu_id": "411",
+    "speaker": "PST001_trad",
+    "start": "632.800",
+    "end": "637.120",
+    "parent_tu_id": "410",
+    "text": "da madrid all'italia"
+  },
+  {
+    "tu_id": "439",
+    "speaker": "PST002_trad",
+    "start": "666.210",
+    "end": "672.220",
+    "parent_tu_id": "438",
+    "text": "sì e in giugno mio figlio un altro intervento"
+  },
+  {
+    "tu_id": "446",
+    "speaker": "PST001_trad",
+    "start": "677.500",
+    "end": "683.020",
+    "parent_tu_id": "445",
+    "text": "se la pressione è sotto controllo"
+  },
+  {
+    "tu_id": "451",
+    "speaker": "PST001_trad",
+    "start": "691.420",
+    "end": "694.434",
+    "parent_tu_id": "450",
+    "text": "ci diranno se"
+  },
+  {
+    "tu_id": "453",
+    "speaker": "PST001_trad",
+    "start": "694.780",
+    "end": "697.827",
+    "parent_tu_id": "452",
+    "text": "l'intervento è andato bene"
+  },
+  {
+    "tu_id": "456",
+    "speaker": "PST001_trad",
+    "start": "698.430",
+    "end": "701.790",
+    "parent_tu_id": "455",
+    "text": "allora ci daranno una risposta"
+  },
+  {
+    "tu_id": "466",
+    "speaker": "PST002_trad",
+    "start": "708.070",
+    "end": "710.810",
+    "parent_tu_id": "465",
+    "text": "quindi sì dipendeva se rimaniamo"
+  },
+  {
+    "tu_id": "470",
+    "speaker": "PST001_trad",
+    "start": "711.720",
+    "end": "716.320",
+    "parent_tu_id": "469",
+    "text": "si dipenderà da se"
+  },
+  {
+    "tu_id": "478",
+    "speaker": "PST001_trad",
+    "start": "733.200",
+    "end": "738.560",
+    "parent_tu_id": "477",
+    "text": "se sta bene gli faranno un altro intervento"
+  },
+  {
+    "tu_id": "482",
+    "speaker": "PST001_trad",
+    "start": "740.933",
+    "end": "744.314",
+    "parent_tu_id": "481",
+    "text": "dobbiamo aspettare un po'"
+  },
+  {
+    "tu_id": "485",
+    "speaker": "PST001_trad",
+    "start": "744.380",
+    "end": "751.790",
+    "parent_tu_id": "484",
+    "text": "perché rimanga sotto controllo e non so quanto tempo sarà"
+  },
+  {
+    "tu_id": "490",
+    "speaker": "PST001_trad",
+    "start": "752.760",
+    "end": "760.853",
+    "parent_tu_id": "489",
+    "text": "però se mio figlio si ambienta qui non lo so forse rimaniamo qui"
+  },
+  {
+    "tu_id": "494",
+    "speaker": "PST001_trad",
+    "start": "762.710",
+    "end": "768.300",
+    "parent_tu_id": "493",
+    "text": "e dipende se mio marito trova un lavoro dipende tutto"
+  },
+  {
+    "tu_id": "499",
+    "speaker": "PST001_trad",
+    "start": "768.940",
+    "end": "774.060",
+    "parent_tu_id": "498",
+    "text": "perché la casa in cui abitiamo è piccola"
+  },
+  {
+    "tu_id": "502",
+    "speaker": "PST001_trad",
+    "start": "774.570",
+    "end": "780.000",
+    "parent_tu_id": "501",
+    "text": "una stanza piccola mentre in perù era una casa grande"
+  },
+  {
+    "tu_id": "505",
+    "speaker": "PST001_trad",
+    "start": "782.210",
+    "end": "785.747",
+    "parent_tu_id": "504",
+    "text": "quindi dobbiamo vedere un attimo"
+  },
+  {
+    "tu_id": "555",
+    "speaker": "PST001_trad",
+    "start": "865.263",
+    "end": "871.187",
+    "parent_tu_id": "554",
+    "text": "neanche la mattina il formaggio per colazione o se no a cena"
+  },
+  {
+    "tu_id": "567",
+    "speaker": "PST001_trad",
+    "start": "892.921",
+    "end": "894.039",
+    "parent_tu_id": "566",
+    "text": "la zuppa"
+  },
+  {
+    "tu_id": "576",
+    "speaker": "PST002_trad",
+    "start": "905.197",
+    "end": "906.714",
+    "parent_tu_id": "575",
+    "text": "è molto forte"
+  },
+  {
+    "tu_id": "647",
+    "speaker": "PST001_trad",
+    "start": "998.829",
+    "end": "1003.370",
+    "parent_tu_id": "646",
+    "text": "e mi figlio sembra un dolce peruviano"
+  },
+  {
+    "tu_id": "675",
+    "speaker": "PST001_trad",
+    "start": "1047.382",
+    "end": "1052.205",
+    "parent_tu_id": "674",
+    "text": "sì è buono anche il pollo al forno"
+  },
+  {
+    "tu_id": "693",
+    "speaker": "PST001_trad",
+    "start": "1069.299",
+    "end": "1073.632",
+    "parent_tu_id": "692",
+    "text": "in perù fanno una pizza con ananas"
+  },
+  {
+    "tu_id": "706",
+    "speaker": "PST001_trad",
+    "start": "1082.632",
+    "end": "1084.286",
+    "parent_tu_id": "705",
+    "text": "a pezzi"
+  },
+  {
+    "tu_id": "712",
+    "speaker": "PST002_trad",
+    "start": "1086.118",
+    "end": "1087.658",
+    "parent_tu_id": "711",
+    "text": "la chiamano hawaiana"
+  },
+  {
+    "tu_id": "721",
+    "speaker": "PST001_trad",
+    "start": "1098.330",
+    "end": "1099.670",
+    "parent_tu_id": "720",
+    "text": "non mi piaceva però"
+  },
+  {
+    "tu_id": "739",
+    "speaker": "PST001_trad",
+    "start": "1117.424",
+    "end": "1120.785",
+    "parent_tu_id": "738",
+    "text": "in perù è piccola un trancio piccola"
+  },
+  {
+    "tu_id": "753",
+    "speaker": "PST001_trad",
+    "start": "1142.461",
+    "end": "1147.763",
+    "parent_tu_id": "752",
+    "text": "qualche cibo tipico?"
+  },
+  {
+    "tu_id": "755",
+    "speaker": "PST002_trad",
+    "start": "1145.013",
+    "end": "1146.592",
+    "parent_tu_id": "754",
+    "text": "ancora no"
+  },
+  {
+    "tu_id": "758",
+    "speaker": "PST001_trad",
+    "start": "1148.053",
+    "end": "1161.697",
+    "parent_tu_id": "757",
+    "text": "solo quando abbiamo visitato una famiglia italiana pasta con i broccoli"
+  },
+  {
+    "tu_id": "764",
+    "speaker": "PST002_trad",
+    "start": "1172.250",
+    "end": "1172.895",
+    "parent_tu_id": "763",
+    "text": "ancora no"
+  },
+  {
+    "tu_id": "766",
+    "speaker": "PST001_trad",
+    "start": "1173.053",
+    "end": "1173.753",
+    "parent_tu_id": "765",
+    "text": "ancora no"
+  },
+  {
+    "tu_id": "768",
+    "speaker": "PST002_trad",
+    "start": "1173.753",
+    "end": "1175.240",
+    "parent_tu_id": "767",
+    "text": "non importa"
+  },
+  {
+    "tu_id": "782",
+    "speaker": "PST001_trad",
+    "start": "1196.410",
+    "end": "1200.150",
+    "parent_tu_id": "781",
+    "text": "però a parlare faccio molta fatica"
+  },
+  {
+    "tu_id": "784",
+    "speaker": "PST002_trad",
+    "start": "1198.507",
+    "end": "1199.330",
+    "parent_tu_id": "783",
+    "text": "ancora no"
+  },
+  {
+    "tu_id": "787",
+    "speaker": "PST001_trad",
+    "start": "1202.187",
+    "end": "1209.494",
+    "parent_tu_id": "786",
+    "text": "mescolo italiano e castigliano"
+  },
+  {
+    "tu_id": "792",
+    "speaker": "PST001_trad",
+    "start": "1212.173",
+    "end": "1214.595",
+    "parent_tu_id": "791",
+    "text": "poco a poco ancora no"
+  },
+  {
+    "tu_id": "795",
+    "speaker": "PST001_trad",
+    "start": "1215.187",
+    "end": "1221.987",
+    "parent_tu_id": "794",
+    "text": "impareremo continueremo a imparare l'italiano per poter parlare"
+  },
+  {
+    "tu_id": "817",
+    "speaker": "PST001_trad",
+    "start": "1248.477",
+    "end": "1252.563",
+    "parent_tu_id": "816",
+    "text": "questa lingua in realtà è il castigliano in perù è castigliano"
+  },
+  {
+    "tu_id": "831",
+    "speaker": "PST001_trad",
+    "start": "1264.893",
+    "end": "1273.547",
+    "parent_tu_id": "829",
+    "text": "capisco anche i saluti e how are you poco poco"
+  },
+  {
+    "tu_id": "838",
+    "speaker": "PST001_trad",
+    "start": "1278.787",
+    "end": "1283.994",
+    "parent_tu_id": "837",
+    "text": "come parlate voi sì mi piace"
+  },
+  {
+    "tu_id": "845",
+    "speaker": "PST001_trad",
+    "start": "1290.893",
+    "end": "1302.290",
+    "parent_tu_id": "844",
+    "text": "una ragazza piccola e ha cominciato a leggere il foglio e aveva un bel suono"
+  },
+  {
+    "tu_id": "852",
+    "speaker": "PST001_trad",
+    "start": "1304.547",
+    "end": "1309.333",
+    "parent_tu_id": "851",
+    "text": "e io dico a mio marito che parleremo così"
+  },
+  {
+    "tu_id": "857",
+    "speaker": "PST001_trad",
+    "start": "1312.533",
+    "end": "1322.360",
+    "parent_tu_id": "856",
+    "text": "si sentono molte differenze fra come parliamo noi e voi"
+  },
+  {
+    "tu_id": "869",
+    "speaker": "PST001_trad",
+    "start": "1335.307",
+    "end": "1340.663",
+    "parent_tu_id": "868",
+    "text": "sì però impareremo piano piano"
+  },
+  {
+    "tu_id": "886",
+    "speaker": "PST001_trad",
+    "start": "1389.000",
+    "end": "1394.787",
+    "parent_tu_id": "885",
+    "text": "c'era un'infermiera dell'ecuador un'altra venezuelana"
+  },
+  {
+    "tu_id": "890",
+    "speaker": "PST001_trad",
+    "start": "1395.514",
+    "end": "1399.373",
+    "parent_tu_id": "889",
+    "text": "una peruviana e anche una tecnica"
+  },
+  {
+    "tu_id": "894",
+    "speaker": "PST001_trad",
+    "start": "1400.347",
+    "end": "1402.293",
+    "parent_tu_id": "893",
+    "text": "sì abbastanza"
+  },
+  {
+    "tu_id": "904",
+    "speaker": "PST001_trad",
+    "start": "1411.770",
+    "end": "1417.700",
+    "parent_tu_id": "903",
+    "text": "il dottore le spiegava e lei lo ripeteva diceva a me"
+  },
+  {
+    "tu_id": "907",
+    "speaker": "PST001_trad",
+    "start": "1418.840",
+    "end": "1428.787",
+    "parent_tu_id": "906",
+    "text": "se no con il cellulare qualsiasi domanda avessi la scrivevo qui nel traduttore"
+  },
+  {
+    "tu_id": "910",
+    "speaker": "PST001_trad",
+    "start": "1428.950",
+    "end": "1436.798",
+    "parent_tu_id": "909",
+    "text": "pronunciarlo dirlo o se no dicevo dottore"
+  },
+  {
+    "tu_id": "915",
+    "speaker": "PST001_trad",
+    "start": "1436.798",
+    "end": "1440.493",
+    "parent_tu_id": "914",
+    "text": "e così comunicavo"
+  },
+  {
+    "tu_id": "921",
+    "speaker": "PST001_trad",
+    "start": "1454.320",
+    "end": "1458.333",
+    "parent_tu_id": "920",
+    "text": "per il resto non molto"
+  },
+  {
+    "tu_id": "930",
+    "speaker": "PST001_trad",
+    "start": "1477.040",
+    "end": "1480.653",
+    "parent_tu_id": "929",
+    "text": "in italiano con i compagni"
+  },
+  {
+    "tu_id": "936",
+    "speaker": "PST001_trad",
+    "start": "1484.547",
+    "end": "1487.811",
+    "parent_tu_id": "935",
+    "text": "ci sono anche delle peruviane e dei peruviani"
+  },
+  {
+    "tu_id": "939",
+    "speaker": "PST001_trad",
+    "start": "1487.973",
+    "end": "1496.858",
+    "parent_tu_id": "938",
+    "text": "e con loro un po' così però italiano con persone di altri paesi che stanno studiando lì sì"
+  },
+  {
+    "tu_id": "953",
+    "speaker": "PST001_trad",
+    "start": "1518.500",
+    "end": "1519.453",
+    "parent_tu_id": "952",
+    "text": "neanche la erre"
+  },
+  {
+    "tu_id": "956",
+    "speaker": "PST001_trad",
+    "start": "1520.040",
+    "end": "1521.556",
+    "parent_tu_id": "955",
+    "text": "neanche la erre"
+  },
+  {
+    "tu_id": "959",
+    "speaker": "PST002_trad",
+    "start": "1522.213",
+    "end": "1523.027",
+    "parent_tu_id": "958",
+    "text": "gli africani"
+  },
+  {
+    "tu_id": "962",
+    "speaker": "PST001_trad",
+    "start": "1524.907",
+    "end": "1527.080",
+    "parent_tu_id": "961",
+    "text": "anche gli africani"
+  },
+  {
+    "tu_id": "964",
+    "speaker": "PST002_trad",
+    "start": "1525.733",
+    "end": "1527.093",
+    "parent_tu_id": "963",
+    "text": "anche gli africani"
+  },
+  {
+    "tu_id": "966",
+    "speaker": "PST001_trad",
+    "start": "1527.133",
+    "end": "1527.957",
+    "parent_tu_id": "965",
+    "text": "anche"
+  },
+  {
+    "tu_id": "968",
+    "speaker": "PST001_trad",
+    "start": "1528.667",
+    "end": "1532.800",
+    "parent_tu_id": "967",
+    "text": "però sì riusciamo a comunicare"
+  },
+  {
+    "tu_id": "971",
+    "speaker": "PST001_trad",
+    "start": "1533.960",
+    "end": "1540.040",
+    "parent_tu_id": "970",
+    "text": "la lingua è difficile ma proviamo a comunicare no?"
+  },
+  {
+    "tu_id": "982",
+    "speaker": "PST001_trad",
+    "start": "1557.360",
+    "end": "1560.290",
+    "parent_tu_id": "981",
+    "text": "sì anche film"
+  },
+  {
+    "tu_id": "984",
+    "speaker": "PST001_trad",
+    "start": "1560.520",
+    "end": "1563.280",
+    "parent_tu_id": "983",
+    "text": "che film abbiamo visto questa volta?"
+  },
+  {
+    "tu_id": "986",
+    "speaker": "PST002_trad",
+    "start": "1561.387",
+    "end": "1562.320",
+    "parent_tu_id": "985",
+    "text": "film?"
+  },
+  {
+    "tu_id": "994",
+    "speaker": "PST001_trad",
+    "start": "1575.060",
+    "end": "1578.120",
+    "parent_tu_id": "993",
+    "text": "ci sono frasi che riusciamo"
+  },
+  {
+    "tu_id": "998",
+    "speaker": "PST001_trad",
+    "start": "1582.844",
+    "end": "1587.560",
+    "parent_tu_id": "997",
+    "text": "perché non andavamo ancora a scuola"
+  },
+  {
+    "tu_id": "1000",
+    "speaker": "PST001_trad",
+    "start": "1587.947",
+    "end": "1595.919",
+    "parent_tu_id": "999",
+    "text": "quindi con i video i film su youtube imparavamo l'italiano"
+  },
+  {
+    "tu_id": "1005",
+    "speaker": "PST001_trad",
+    "start": "1596.893",
+    "end": "1601.730",
+    "parent_tu_id": "1004",
+    "text": "dopo un mio amico mi ha detto di venire qui"
+  },
+  {
+    "tu_id": "1007",
+    "speaker": "PST001_trad",
+    "start": "1602.250",
+    "end": "1604.290",
+    "parent_tu_id": "1006",
+    "text": "e da allora un po' di più"
+  },
+  {
+    "tu_id": "1010",
+    "speaker": "PST001_trad",
+    "start": "1605.773",
+    "end": "1608.053",
+    "parent_tu_id": "1009",
+    "text": "un po' di più per imparare"
+  },
+  {
+    "tu_id": "1016",
+    "speaker": "PST001_trad",
+    "start": "1619.704",
+    "end": "1626.980",
+    "parent_tu_id": "1015",
+    "text": "esce come fa? mi piace una ragazza questa canzone sì"
+  },
+  {
+    "tu_id": "1021",
+    "speaker": "PST001_trad",
+    "start": "1627.453",
+    "end": "1630.200",
+    "parent_tu_id": "1020",
+    "text": "questa esce sempre"
+  },
+  {
+    "tu_id": "1025",
+    "speaker": "PST001_trad",
+    "start": "1631.599",
+    "end": "1639.617",
+    "parent_tu_id": "1024",
+    "text": "altre canzoni non me le ricordo però questa canzone mi piace una ragazza di più"
+  },
+  {
+    "tu_id": "1035",
+    "speaker": "PST001_trad",
+    "start": "1648.612",
+    "end": "1652.780",
+    "parent_tu_id": "1034",
+    "text": "laura pausini tiziano ferro sì anche"
+  },
+  {
+    "tu_id": "1048",
+    "speaker": "PST001_trad",
+    "start": "1674.360",
+    "end": "1678.151",
+    "parent_tu_id": "1047",
+    "text": "eh lo svegliamo come si dice?"
+  },
+  {
+    "tu_id": "1051",
+    "speaker": "PST001_trad",
+    "start": "1678.800",
+    "end": "1681.200",
+    "parent_tu_id": "1049",
+    "text": "svegliamo mio figlio"
+  },
+  {
+    "tu_id": "1069",
+    "speaker": "PST001_trad",
+    "start": "1705.773",
+    "end": "1711.920",
+    "parent_tu_id": "1068",
+    "text": "è un bambino tranquillo quindi capisce"
+  },
+  {
+    "tu_id": "1072",
+    "speaker": "PST002_trad",
+    "start": "1713.400",
+    "end": "1718.813",
+    "parent_tu_id": "1071",
+    "text": "allo stesso modo quando usciamo"
+  },
+  {
+    "tu_id": "1085",
+    "speaker": "PST002_trad",
+    "start": "1728.307",
+    "end": "1729.667",
+    "parent_tu_id": "1084",
+    "text": "diventa viola"
+  },
+  {
+    "tu_id": "1089",
+    "speaker": "PST001_trad",
+    "start": "1730.187",
+    "end": "1732.580",
+    "parent_tu_id": "1087",
+    "text": "le labbra le dita"
+  },
+  {
+    "tu_id": "1094",
+    "speaker": "PST002_trad",
+    "start": "1734.107",
+    "end": "1735.773",
+    "parent_tu_id": "1093",
+    "text": "quindi devo"
+  },
+  {
+    "tu_id": "1096",
+    "speaker": "PST001_trad",
+    "start": "1735.773",
+    "end": "1736.987",
+    "parent_tu_id": "1095",
+    "text": "prenderlo in braccio"
+  },
+  {
+    "tu_id": "1098",
+    "speaker": "PST001_trad",
+    "start": "1736.987",
+    "end": "1738.613",
+    "parent_tu_id": "1097",
+    "text": "lo prendo in braccio"
+  },
+  {
+    "tu_id": "1103",
+    "speaker": "PST002_trad",
+    "start": "1741.227",
+    "end": "1743.560",
+    "parent_tu_id": "1102",
+    "text": "mi stanco un po'"
+  },
+  {
+    "tu_id": "1105",
+    "speaker": "PST001_trad",
+    "start": "1744.147",
+    "end": "1747.533",
+    "parent_tu_id": "1104",
+    "text": "alla fine si stanca"
+  },
+  {
+    "tu_id": "1108",
+    "speaker": "PST001_trad",
+    "start": "1747.533",
+    "end": "1753.213",
+    "parent_tu_id": "1107",
+    "text": "il giorno un po' come si dice stanco"
+  },
+  {
+    "tu_id": "1121",
+    "speaker": "PST001_trad",
+    "start": "1780.267",
+    "end": "1782.760",
+    "parent_tu_id": "1120",
+    "text": "perché non fa molto freddo"
+  },
+  {
+    "tu_id": "1124",
+    "speaker": "PST001_trad",
+    "start": "1783.200",
+    "end": "1786.770",
+    "parent_tu_id": "1122",
+    "text": "quando faceva molto freddo non potevamo"
+  },
+  {
+    "tu_id": "1132",
+    "speaker": "PST001_trad",
+    "start": "1789.987",
+    "end": "1794.667",
+    "parent_tu_id": "1130",
+    "text": "ah sì pioggia pioveva molto"
+  },
+  {
+    "tu_id": "1134",
+    "speaker": "PST001_trad",
+    "start": "1795.107",
+    "end": "1799.210",
+    "parent_tu_id": "1133",
+    "text": "sopratutto per mio figlio no? per mio figlio per questo che"
+  },
+  {
+    "tu_id": "1136",
+    "speaker": "PST001_trad",
+    "start": "1799.460",
+    "end": "1805.150",
+    "parent_tu_id": "1135",
+    "text": "abbiamo rinunciato a uscire no?"
+  },
+  {
+    "tu_id": "1139",
+    "speaker": "PST001_trad",
+    "start": "1805.893",
+    "end": "1815.293",
+    "parent_tu_id": "1138",
+    "text": "per stare attenti alla salute di mio figlio perché non prendesse la tosse"
+  },
+  {
+    "tu_id": "1142",
+    "speaker": "PST001_trad",
+    "start": "1816.080",
+    "end": "1824.138",
+    "parent_tu_id": "1141",
+    "text": "e l'influenza no? neanche il dottore sapeva ha detto di tenerlo a casa"
+  },
+  {
+    "tu_id": "1144",
+    "speaker": "PST001_trad",
+    "start": "1824.773",
+    "end": "1825.453",
+    "parent_tu_id": "1143",
+    "text": "e basta"
+  },
+  {
+    "tu_id": "1146",
+    "speaker": "PST001_trad",
+    "start": "1826.133",
+    "end": "1835.347",
+    "parent_tu_id": "1145",
+    "text": "allora il clima un po' di sole l'aria fresca non più tanto fredda"
+  },
+  {
+    "tu_id": "1149",
+    "speaker": "PST001_trad",
+    "start": "1836.688",
+    "end": "1840.696",
+    "parent_tu_id": "1148",
+    "text": "usciamo sì sì"
+  },
+  {
+    "tu_id": "1165",
+    "speaker": "PST002_trad",
+    "start": "1875.867",
+    "end": "1877.173",
+    "parent_tu_id": "1164",
+    "text": "in un'altra città"
+  },
+  {
+    "tu_id": "1167",
+    "speaker": "PST001_trad",
+    "start": "1876.440",
+    "end": "1879.400",
+    "parent_tu_id": "1166",
+    "text": "lontano in un'altra città"
+  },
+  {
+    "tu_id": "1170",
+    "speaker": "PST002_trad",
+    "start": "1878.627",
+    "end": "1880.360",
+    "parent_tu_id": "1169",
+    "text": "in un'altra città"
+  },
+  {
+    "tu_id": "1172",
+    "speaker": "PST002_trad",
+    "start": "1881.733",
+    "end": "1887.133",
+    "parent_tu_id": "1171",
+    "text": "tornavo a casa ogni ventotto giorni"
+  },
+  {
+    "tu_id": "1193",
+    "speaker": "PST002_trad",
+    "start": "1907.324",
+    "end": "1914.877",
+    "parent_tu_id": "1192",
+    "text": "otto anni con questo lavoro"
+  },
+  {
+    "tu_id": "1197",
+    "speaker": "PST002_trad",
+    "start": "1917.240",
+    "end": "1919.493",
+    "parent_tu_id": "1196",
+    "text": "quello di prima?"
+  },
+  {
+    "tu_id": "1201",
+    "speaker": "PST002_trad",
+    "start": "1922.187",
+    "end": "1927.627",
+    "parent_tu_id": "1200",
+    "text": "lavoravo in un'azienda di vestiti"
+  },
+  {
+    "tu_id": "1205",
+    "speaker": "PST001_trad",
+    "start": "1929.813",
+    "end": "1932.728",
+    "parent_tu_id": "1204",
+    "text": "come zara come acca e emme sì"
+  },
+  {
+    "tu_id": "1216",
+    "speaker": "PST001_trad",
+    "start": "1939.200",
+    "end": "1941.600",
+    "parent_tu_id": "1214",
+    "text": "qui non c'è"
+  },
+  {
+    "tu_id": "1225",
+    "speaker": "PST002_trad",
+    "start": "1950.500",
+    "end": "1954.000",
+    "parent_tu_id": "1224",
+    "text": "da quando sono arrivato qui un po' di"
+  },
+  {
+    "tu_id": "1230",
+    "speaker": "PST002_trad",
+    "start": "1960.933",
+    "end": "1964.140",
+    "parent_tu_id": "1229",
+    "text": "senza il permesso non posso lavorare"
+  },
+  {
+    "tu_id": "1242",
+    "speaker": "PST001_trad",
+    "start": "1975.147",
+    "end": "1981.000",
+    "parent_tu_id": "1241",
+    "text": "abbiamo già chiesto l'articolo trentuno?"
+  },
+  {
+    "tu_id": "1247",
+    "speaker": "PST001_trad",
+    "start": "1984.960",
+    "end": "1987.533",
+    "parent_tu_id": "1246",
+    "text": "ci hanno dato una risposta positiva"
+  },
+  {
+    "tu_id": "1249",
+    "speaker": "PST001_trad",
+    "start": "1988.693",
+    "end": "1996.068",
+    "parent_tu_id": "1248",
+    "text": "e ci consegnano il permesso di soggiorno fra un mese"
+  },
+  {
+    "tu_id": "1252",
+    "speaker": "PST001_trad",
+    "start": "1997.347",
+    "end": "2000.280",
+    "parent_tu_id": "1251",
+    "text": "e saremo un po' più tranquilli"
+  },
+  {
+    "tu_id": "1259",
+    "speaker": "PST001_trad",
+    "start": "2006.600",
+    "end": "2011.773",
+    "parent_tu_id": "1258",
+    "text": "qui è difficile anche trovare casa"
+  },
+  {
+    "tu_id": "1266",
+    "speaker": "PST001_trad",
+    "start": "2015.547",
+    "end": "2019.507",
+    "parent_tu_id": "1265",
+    "text": "devi avere un lavoro permanente no?"
+  },
+  {
+    "tu_id": "1269",
+    "speaker": "PST001_trad",
+    "start": "2020.213",
+    "end": "2026.480",
+    "parent_tu_id": "1268",
+    "text": "molto difficile invece in perù gli affitti"
+  },
+  {
+    "tu_id": "1272",
+    "speaker": "PST001_trad",
+    "start": "2027.467",
+    "end": "2031.960",
+    "parent_tu_id": "1271",
+    "text": "sono veloci paghi due mesi"
+  },
+  {
+    "tu_id": "1274",
+    "speaker": "PST002_trad",
+    "start": "2028.387",
+    "end": "2029.132",
+    "parent_tu_id": "1273",
+    "text": "a chiunque"
+  },
+  {
+    "tu_id": "1277",
+    "speaker": "PST001_trad",
+    "start": "2033.730",
+    "end": "2035.747",
+    "parent_tu_id": "1276",
+    "text": "del prezzo dell'affitto"
+  },
+  {
+    "tu_id": "1280",
+    "speaker": "PST001_trad",
+    "start": "2037.640",
+    "end": "2041.988",
+    "parent_tu_id": "1279",
+    "text": "si trova casa qui no"
+  },
+  {
+    "tu_id": "1297",
+    "speaker": "PST001_trad",
+    "start": "2071.213",
+    "end": "2075.307",
+    "parent_tu_id": "1296",
+    "text": "da allora lei aiuta molto"
+  },
+  {
+    "tu_id": "1301",
+    "speaker": "PST001_trad",
+    "start": "2076.947",
+    "end": "2081.853",
+    "parent_tu_id": "1300",
+    "text": "si interessa di mio figlio come sta va tutto bene"
+  },
+  {
+    "tu_id": "1315",
+    "speaker": "PST001_trad",
+    "start": "2097.760",
+    "end": "2100.840",
+    "parent_tu_id": "1314",
+    "text": "non è lontano è vicino"
+  },
+  {
+    "tu_id": "1330",
+    "speaker": "PST001_trad",
+    "start": "2115.749",
+    "end": "2123.035",
+    "parent_tu_id": "1329",
+    "text": "tramite mia suocera abbiamo conosciuto la signora paola si chiama paola la signora"
+  },
+  {
+    "tu_id": "1340",
+    "speaker": "PST001_trad",
+    "start": "2132.438",
+    "end": "2135.604",
+    "parent_tu_id": "1339",
+    "text": "infinitamente grati sì"
+  },
+  {
+    "tu_id": "1344",
+    "speaker": "PST001_trad",
+    "start": "2136.894",
+    "end": "2139.574",
+    "parent_tu_id": "1343",
+    "text": "non tutte le persone ti aiutano no?"
+  },
+  {
+    "tu_id": "1351",
+    "speaker": "PST001_trad",
+    "start": "2151.402",
+    "end": "2157.920",
+    "parent_tu_id": "1350",
+    "text": "lui prima non voleva venire"
+  },
+  {
+    "tu_id": "1354",
+    "speaker": "PST002_trad",
+    "start": "2157.920",
+    "end": "2158.560",
+    "parent_tu_id": "1353",
+    "text": "non volevo"
+  },
+  {
+    "tu_id": "1362",
+    "speaker": "PST001_trad",
+    "start": "2167.240",
+    "end": "2171.894",
+    "parent_tu_id": "1361",
+    "text": "è più parlare dialogare"
+  },
+  {
+    "tu_id": "1364",
+    "speaker": "PST001_trad",
+    "start": "2172.734",
+    "end": "2179.560",
+    "parent_tu_id": "1363",
+    "text": "lui un po' non capisce allora era per questo no?"
+  },
+  {
+    "tu_id": "1367",
+    "speaker": "PST002_trad",
+    "start": "2185.119",
+    "end": "2187.680",
+    "parent_tu_id": "1366",
+    "text": "più per il fatto di mio figlio"
+  },
+  {
+    "tu_id": "1369",
+    "speaker": "PST002_trad",
+    "start": "2187.920",
+    "end": "2190.307",
+    "parent_tu_id": "1368",
+    "text": "cioè lasciarlo da solo"
+  },
+  {
+    "tu_id": "1373",
+    "speaker": "PST002_trad",
+    "start": "2191.734",
+    "end": "2196.081",
+    "parent_tu_id": "1372",
+    "text": "dato che non sta bene gli può succedere qualsiasi cosa non per altro"
+  },
+  {
+    "tu_id": "1375",
+    "speaker": "PST002_trad",
+    "start": "2196.799",
+    "end": "2197.647",
+    "parent_tu_id": "1374",
+    "text": "però dopo"
+  },
+  {
+    "tu_id": "1378",
+    "speaker": "PST002_trad",
+    "start": "2200.622",
+    "end": "2201.379",
+    "parent_tu_id": "1377",
+    "text": "non c'è stato problema"
+  },
+  {
+    "tu_id": "1396",
+    "speaker": "PST001_trad",
+    "start": "2237.396",
+    "end": "2244.680",
+    "parent_tu_id": "1395",
+    "text": "però anche sua sorella è in italia"
+  },
+  {
+    "tu_id": "1403",
+    "speaker": "PST001_trad",
+    "start": "2249.120",
+    "end": "2254.187",
+    "parent_tu_id": "1402",
+    "text": "però amici peruviani con cui no"
+  },
+  {
+    "tu_id": "1447",
+    "speaker": "PST002_trad",
+    "start": "2323.814",
+    "end": "2324.743",
+    "parent_tu_id": "1446",
+    "text": "dopo ho smesso"
+  },
+  {
+    "tu_id": "1450",
+    "speaker": "PST002_trad",
+    "start": "2325.734",
+    "end": "2330.414",
+    "parent_tu_id": "1449",
+    "text": "e poi bartender"
+  },
+  {
+    "tu_id": "1469",
+    "speaker": "PST002_trad",
+    "start": "2342.374",
+    "end": "2344.720",
+    "parent_tu_id": "1468",
+    "text": "ma non ho finito neanche quello"
+  },
+  {
+    "tu_id": "1481",
+    "speaker": "PST002_trad",
+    "start": "2371.520",
+    "end": "2372.734",
+    "parent_tu_id": "1480",
+    "text": "social network?"
+  },
+  {
+    "tu_id": "1497",
+    "speaker": "PST001_trad",
+    "start": "2389.200",
+    "end": "2392.160",
+    "parent_tu_id": "1496",
+    "text": "però dovrebbe essere in italiano"
+  },
+  {
+    "tu_id": "1503",
+    "speaker": "PST001_trad",
+    "start": "2396.774",
+    "end": "2402.014",
+    "parent_tu_id": "1502",
+    "text": "in ogni caso io la tastiera l'ho messa in italiano"
+  },
+  {
+    "tu_id": "1514",
+    "speaker": "PST001_trad",
+    "start": "2414.800",
+    "end": "2416.667",
+    "parent_tu_id": "1513",
+    "text": "qui non c'è la eñe"
+  },
+  {
+    "tu_id": "1516",
+    "speaker": "PST001_trad",
+    "start": "2417.266",
+    "end": "2420.795",
+    "parent_tu_id": "1515",
+    "text": "la enne con sì qui non c'è la eñe"
+  },
+  {
+    "tu_id": "1519",
+    "speaker": "PST001_trad",
+    "start": "2420.795",
+    "end": "2424.574",
+    "parent_tu_id": "1518",
+    "text": "alcune parole lettere no? lettere"
+  },
+  {
+    "tu_id": "1530",
+    "speaker": "PST001_trad",
+    "start": "2436.040",
+    "end": "2441.053",
+    "parent_tu_id": "1529",
+    "text": "dato che mio figlio che è già un po' più grande andiamo"
+  },
+  {
+    "tu_id": "1543",
+    "speaker": "PST001_trad",
+    "start": "2465.974",
+    "end": "2468.005",
+    "parent_tu_id": "1541",
+    "text": "si non si abitua"
+  },
+  {
+    "tu_id": "1551",
+    "speaker": "PST001_trad",
+    "start": "2485.454",
+    "end": "2491.200",
+    "parent_tu_id": "1550",
+    "text": "tranquillo però ci sono posti che non gli piacciono allora"
+  },
+  {
+    "tu_id": "1560",
+    "speaker": "PST002_trad",
+    "start": "2501.360",
+    "end": "2510.111",
+    "parent_tu_id": "1559",
+    "text": "un poco difficile rimanere in un posto con amici con mio figlio"
+  },
+  {
+    "tu_id": "1565",
+    "speaker": "PST002_trad",
+    "start": "2511.094",
+    "end": "2512.800",
+    "parent_tu_id": "1564",
+    "text": "non riesce a stare solo molto tempo"
+  },
+  {
+    "tu_id": "1579",
+    "speaker": "PST002_trad",
+    "start": "2539.000",
+    "end": "2540.720",
+    "parent_tu_id": "1578",
+    "text": "no qui no ancora no"
+  },
+  {
+    "tu_id": "1581",
+    "speaker": "PST001_trad",
+    "start": "2540.720",
+    "end": "2542.320",
+    "parent_tu_id": "1580",
+    "text": "ancora no"
+  },
+  {
+    "tu_id": "1585",
+    "speaker": "PST002_trad",
+    "start": "2542.867",
+    "end": "2551.467",
+    "parent_tu_id": "1584",
+    "text": "cuando inizio a lavorare credo che con amici un sabato o una domenica"
+  },
+  {
+    "tu_id": "1589",
+    "speaker": "PST002_trad",
+    "start": "2553.107",
+    "end": "2554.267",
+    "parent_tu_id": "1588",
+    "text": "adesso non c'è tempo"
+  },
+  {
+    "tu_id": "1595",
+    "speaker": "PST002_trad",
+    "start": "2563.467",
+    "end": "2565.187",
+    "parent_tu_id": "1594",
+    "text": "sì gli parlerò"
+  },
+  {
+    "tu_id": "1630",
+    "speaker": "PST002_trad",
+    "start": "2613.947",
+    "end": "2618.640",
+    "parent_tu_id": "1629",
+    "text": "mio figlio cartoni animati paperi"
+  },
+  {
+    "tu_id": "1653",
+    "speaker": "PST001_trad",
+    "start": "2647.014",
+    "end": "2649.187",
+    "parent_tu_id": "1652",
+    "text": "lui vuole andare a scuola"
+  },
+  {
+    "tu_id": "1656",
+    "speaker": "PST001_trad",
+    "start": "2651.000",
+    "end": "2652.080",
+    "parent_tu_id": "1655",
+    "text": "vuole andarci"
+  },
+  {
+    "tu_id": "1659",
+    "speaker": "PST001_trad",
+    "start": "2653.347",
+    "end": "2655.360",
+    "parent_tu_id": "1658",
+    "text": "da quando siamo arrivati qui"
+  },
+  {
+    "tu_id": "1665",
+    "speaker": "PST002_trad",
+    "start": "2666.000",
+    "end": "2671.294",
+    "parent_tu_id": "1664",
+    "text": "chiedevano i documenti che non abbiamo"
+  },
+  {
+    "tu_id": "1671",
+    "speaker": "PST001_trad",
+    "start": "2671.294",
+    "end": "2679.520",
+    "parent_tu_id": "1669",
+    "text": "dove a scuola? no a scuola solamente i vaccini"
+  },
+  {
+    "tu_id": "1676",
+    "speaker": "PST001_trad",
+    "start": "2679.520",
+    "end": "2689.120",
+    "parent_tu_id": "1675",
+    "text": "il certificato dei vaccini il codice fiscale e il passaporto ma non c'era posto"
+  },
+  {
+    "tu_id": "1679",
+    "speaker": "PST002_trad",
+    "start": "2685.747",
+    "end": "2686.734",
+    "parent_tu_id": "1678",
+    "text": "non c'era posto"
+  },
+  {
+    "tu_id": "1682",
+    "speaker": "PST001_trad",
+    "start": "2689.680",
+    "end": "2693.880",
+    "parent_tu_id": "1681",
+    "text": "sono andata in varie scuole cercando"
+  },
+  {
+    "tu_id": "1685",
+    "speaker": "PST001_trad",
+    "start": "2695.200",
+    "end": "2703.499",
+    "parent_tu_id": "1684",
+    "text": "però ne ho trovata una vicino"
+  },
+  {
+    "tu_id": "1689",
+    "speaker": "PST001_trad",
+    "start": "2704.000",
+    "end": "2712.678",
+    "parent_tu_id": "1688",
+    "text": "lì il maestro giorgio si chiama è informato su mio figlio"
+  },
+  {
+    "tu_id": "1698",
+    "speaker": "PST001_trad",
+    "start": "2722.347",
+    "end": "2729.838",
+    "parent_tu_id": "1697",
+    "text": "non può andare finché non è più stabile il bambino"
+  },
+  {
+    "tu_id": "1708",
+    "speaker": "PST001_trad",
+    "start": "2746.080",
+    "end": "2755.911",
+    "parent_tu_id": "1707",
+    "text": "allora in perù è diversa la scuola in perù inizia a marzo la scuola"
+  },
+  {
+    "tu_id": "1717",
+    "speaker": "PST001_trad",
+    "start": "2757.667",
+    "end": "2765.410",
+    "parent_tu_id": "1715",
+    "text": "lunedì è iniziata la scuola in perù in dicembre"
+  },
+  {
+    "tu_id": "1740",
+    "speaker": "PST001_trad",
+    "start": "2784.224",
+    "end": "2791.800",
+    "parent_tu_id": "1739",
+    "text": "ma anche il clima è diverso sì in marzo"
+  },
+  {
+    "tu_id": "1747",
+    "speaker": "PST002_trad",
+    "start": "2792.947",
+    "end": "2793.454",
+    "parent_tu_id": "1746",
+    "text": "autunno"
+  },
+  {
+    "tu_id": "1749",
+    "speaker": "PST001_trad",
+    "start": "2794.387",
+    "end": "2796.027",
+    "parent_tu_id": "1748",
+    "text": "è estate ancora"
+  },
+  {
+    "tu_id": "1751",
+    "speaker": "PST002_trad",
+    "start": "2795.000",
+    "end": "2796.027",
+    "parent_tu_id": "1750",
+    "text": "l'estate finisce"
+  },
+  {
+    "tu_id": "1753",
+    "speaker": "PST001_trad",
+    "start": "2796.616",
+    "end": "2803.640",
+    "parent_tu_id": "1752",
+    "text": "aprile marzo inizia l'autonno"
+  },
+  {
+    "tu_id": "1759",
+    "speaker": "PST001_trad",
+    "start": "2803.960",
+    "end": "2814.040",
+    "parent_tu_id": "1758",
+    "text": "l'inverno inizia a luglio giugno luglio agosto l'inverno"
+  },
+  {
+    "tu_id": "1775",
+    "speaker": "PST001_trad",
+    "start": "2833.200",
+    "end": "2835.867",
+    "parent_tu_id": "1774",
+    "text": "un mese prima della fine della scuola"
+  },
+  {
+    "tu_id": "1782",
+    "speaker": "PST001_trad",
+    "start": "2847.480",
+    "end": "2852.547",
+    "parent_tu_id": "1781",
+    "text": "cercando la scuola"
+  },
+  {
+    "tu_id": "1786",
+    "speaker": "PST001_trad",
+    "start": "2852.547",
+    "end": "2863.694",
+    "parent_tu_id": "1785",
+    "text": "proprio quando il dottore mi chiama per l'intervento il maestro giorgio mi chiama dalla scuola dicendo che c'è vacanza"
+  },
+  {
+    "tu_id": "1790",
+    "speaker": "PST002_trad",
+    "start": "2863.840",
+    "end": "2866.440",
+    "parent_tu_id": "1788",
+    "text": "ti ha chiamato"
+  },
+  {
+    "tu_id": "1792",
+    "speaker": "PST001_trad",
+    "start": "2864.402",
+    "end": "2869.067",
+    "parent_tu_id": "1791",
+    "text": "lo stesso giorno"
+  },
+  {
+    "tu_id": "1794",
+    "speaker": "PST001_trad",
+    "start": "2869.067",
+    "end": "2882.187",
+    "parent_tu_id": "1793",
+    "text": "preferisco l'intervento no? quindi abbiamo detto al maestro giorgio che alonso non poteva andare"
+  }
+]

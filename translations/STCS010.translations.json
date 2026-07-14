@@ -1,0 +1,114 @@
+[
+  {
+    "tu_id": "208",
+    "speaker": "PST161_trad",
+    "start": "331.730",
+    "end": "332.990",
+    "parent_tu_id": "207",
+    "text": "vuoi il riso col pollo?"
+  },
+  {
+    "tu_id": "332",
+    "speaker": "PST072_trad",
+    "start": "516.780",
+    "end": "518.330",
+    "parent_tu_id": "331",
+    "text": "voi signore come fate il riso?"
+  },
+  {
+    "tu_id": "334",
+    "speaker": "PST072_trad",
+    "start": "520.220",
+    "end": "524.060",
+    "parent_tu_id": "333",
+    "text": "stavamo dicendo che ognuno ha la sua teoria"
+  },
+  {
+    "tu_id": "342",
+    "speaker": "PST162_trad",
+    "start": "529.180",
+    "end": "529.990",
+    "parent_tu_id": "341",
+    "text": "questa pentola"
+  },
+  {
+    "tu_id": "344",
+    "speaker": "PST162_trad",
+    "start": "530.650",
+    "end": "532.260",
+    "parent_tu_id": "343",
+    "text": "xx xx del nord"
+  },
+  {
+    "tu_id": "347",
+    "speaker": "PST072_trad",
+    "start": "533.610",
+    "end": "535.000",
+    "parent_tu_id": "346",
+    "text": "com'è quella pentola?"
+  },
+  {
+    "tu_id": "351",
+    "speaker": "PST161_trad",
+    "start": "536.575",
+    "end": "537.215",
+    "parent_tu_id": "350",
+    "text": "fessura?"
+  },
+  {
+    "tu_id": "357",
+    "speaker": "PST160_trad",
+    "start": "541.890",
+    "end": "542.590",
+    "parent_tu_id": "356",
+    "text": "di acciaio"
+  },
+  {
+    "tu_id": "359",
+    "speaker": "PST160_trad",
+    "start": "543.850",
+    "end": "545.130",
+    "parent_tu_id": "358",
+    "text": "acciaio inossidabile"
+  },
+  {
+    "tu_id": "700",
+    "speaker": "PST072_trad",
+    "start": "1005.020",
+    "end": "1008.890",
+    "parent_tu_id": "699",
+    "text": "e al lavoro quando dovete cucinare per le persone italiane come fate?"
+  },
+  {
+    "tu_id": "1094",
+    "speaker": "PST162_trad",
+    "start": "2113.288",
+    "end": "2116.738",
+    "parent_tu_id": "1093",
+    "text": "è un investimento, è un investimento di tanti soldi"
+  },
+  {
+    "tu_id": "1359",
+    "speaker": "PST160_trad",
+    "start": "2934.538",
+    "end": "2939.331",
+    "parent_tu_id": "1358",
+    "text": "mi piacerebbe che mi dessero la pensione però di quello che ho però di quello che ho versato"
+  },
+  {
+    "tu_id": "1361",
+    "speaker": "PST160_trad",
+    "start": "2939.378",
+    "end": "2941.328",
+    "parent_tu_id": "1360",
+    "text": "non per qualcosa che non ho messo"
+  },
+  {
+    "tu_id": "1363",
+    "speaker": "PST160_trad",
+    "start": "2941.375",
+    "end": "2944.170",
+    "parent_tu_id": "1362",
+    "text": "no? quindi uno (deve) guadagnarsela come si dice"
+  }
+]

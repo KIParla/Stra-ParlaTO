@@ -1,0 +1,12 @@
+tu_id	speaker	start	end	parent_tu_id	text
+1018	PST220_trad	1972.004	1972.831	1017	sì grazie
+1042	PST220_trad	2056.245	2057.010	1041	sì questo qua
+1226	PST219_trad	2513.631	2514.455	1225	macelleria
+1230	PST219_trad	2516.645	2518.091	1229	macelleria
+1232	PST121_trad	2517.637	2518.885	1231	macelleria macelleria
+1234	PST219_trad	2518.885	2522.273	1233	leggi macelleria dappertutto
+1236	PST121_trad	2522.273	2523.354	1235	macelleria macelleria
+1347	PST219_trad	2805.351	2806.805	1346	buongiorno
+1349	PST219_trad	2808.984	2810.093	1348	come stai?
+1482	PST220_trad	3071.686	3074.992	1481	non lo sapevo okay okay
+1570	PST220_trad	3275.472	3276.353	1569	va bene

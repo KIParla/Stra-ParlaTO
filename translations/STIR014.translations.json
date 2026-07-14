@@ -1,0 +1,18 @@
+[
+  {
+    "tu_id": "226",
+    "speaker": "PST041_trad",
+    "start": "394.076",
+    "end": "396.612",
+    "parent_tu_id": "225",
+    "text": "con fratelli io parlo allora sì in russo"
+  },
+  {
+    "tu_id": "285",
+    "speaker": "PST041_trad",
+    "start": "514.814",
+    "end": "516.399",
+    "parent_tu_id": "284",
+    "text": "in moldavo o russo"
+  }
+]

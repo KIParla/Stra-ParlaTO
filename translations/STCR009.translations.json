@@ -1,0 +1,290 @@
+[
+  {
+    "tu_id": "1",
+    "speaker": "PST085_trad",
+    "start": "0.660",
+    "end": "2.520",
+    "parent_tu_id": "0",
+    "text": "io non parlo italiano"
+  },
+  {
+    "tu_id": "24",
+    "speaker": "PST203_trad",
+    "start": "38.744",
+    "end": "42.520",
+    "parent_tu_id": "23",
+    "text": "dai bene, allora facciamo la:"
+  },
+  {
+    "tu_id": "32",
+    "speaker": "PST092_trad",
+    "start": "57.000",
+    "end": "57.968",
+    "parent_tu_id": "31",
+    "text": "com'è nato il centro"
+  },
+  {
+    "tu_id": "56",
+    "speaker": "PST092_trad",
+    "start": "104.050",
+    "end": "109.160",
+    "parent_tu_id": "55",
+    "text": "po~ all~ io pensavo perché sarebbe brutto perché che poi la signora @ecaterina c'ha la telecamera puntata davanti no"
+  },
+  {
+    "tu_id": "106",
+    "speaker": "PST085_trad",
+    "start": "193.690",
+    "end": "198.050",
+    "parent_tu_id": "105",
+    "text": "ah ma dite da qua eh tipo da dietro ah ok mi piace bene bene"
+  },
+  {
+    "tu_id": "111",
+    "speaker": "PST085_trad",
+    "start": "198.760",
+    "end": "199.210",
+    "parent_tu_id": "110",
+    "text": "mi piace"
+  },
+  {
+    "tu_id": "114",
+    "speaker": "PST085_trad",
+    "start": "201.860",
+    "end": "203.210",
+    "parent_tu_id": "113",
+    "text": "mi piace sì"
+  },
+  {
+    "tu_id": "127",
+    "speaker": "PST092_trad",
+    "start": "230.475",
+    "end": "234.250",
+    "parent_tu_id": "126",
+    "text": "cioè l'unica cosa che si sente sono quelli in sala dei nonni ma sala dei nonni è chiusa non c'è nessuno"
+  },
+  {
+    "tu_id": "142",
+    "speaker": "PST092_trad",
+    "start": "258.140",
+    "end": "260.059",
+    "parent_tu_id": "141",
+    "text": "io ho fatto com'è nato il centro"
+  },
+  {
+    "tu_id": "176",
+    "speaker": "PST085_trad",
+    "start": "342.140",
+    "end": "343.960",
+    "parent_tu_id": "175",
+    "text": "e vabbè il signor @cosmin più o meno"
+  },
+  {
+    "tu_id": "178",
+    "speaker": "PST087_trad",
+    "start": "344.160",
+    "end": "346.840",
+    "parent_tu_id": "177",
+    "text": "il signor @cosmin ha fatto prima faceva la signora @ecaterina"
+  },
+  {
+    "tu_id": "180",
+    "speaker": "PST092_trad",
+    "start": "345.350",
+    "end": "346.828",
+    "parent_tu_id": "179",
+    "text": "il signor @cosmin"
+  },
+  {
+    "tu_id": "182",
+    "speaker": "PST092_trad",
+    "start": "346.990",
+    "end": "349.100",
+    "parent_tu_id": "181",
+    "text": "e sì prima c'era la signora @ecaterina e"
+  },
+  {
+    "tu_id": "197",
+    "speaker": "PST092_trad",
+    "start": "380.230",
+    "end": "388.290",
+    "parent_tu_id": "196",
+    "text": "com'è nata il centro penso che lo sp~ cioè lo collegheremo anche tanto dal spostamento tra romania e italia, quindi penso che sarà proprio una cosa naturale che andrà"
+  },
+  {
+    "tu_id": "203",
+    "speaker": "PST092_trad",
+    "start": "399.360",
+    "end": "404.410",
+    "parent_tu_id": "202",
+    "text": "perché la signora @ecaterina se tu ci pensi ha sei figli tre femmine e tre maschi"
+  },
+  {
+    "tu_id": "220",
+    "speaker": "PST092_trad",
+    "start": "430.720",
+    "end": "436.760",
+    "parent_tu_id": "219",
+    "text": "no ma io son contenta di signora @ecaterina però comunque prima o poi la signora @ecaterina poverina dovrà andare in pensione cioè è stanca quanto tem~"
+  },
+  {
+    "tu_id": "223",
+    "speaker": "PST092_trad",
+    "start": "436.960",
+    "end": "438.940",
+    "parent_tu_id": "222",
+    "text": "quanto tempo dedica al centro"
+  },
+  {
+    "tu_id": "229",
+    "speaker": "PST092_trad",
+    "start": "440.820",
+    "end": "442.420",
+    "parent_tu_id": "228",
+    "text": "te lo giuro la signora @ecaterina"
+  },
+  {
+    "tu_id": "231",
+    "speaker": "PST092_trad",
+    "start": "442.620",
+    "end": "445.985",
+    "parent_tu_id": "230",
+    "text": "io certe volte la vedo che è proprio sfinita e dico xx"
+  },
+  {
+    "tu_id": "235",
+    "speaker": "PST092_trad",
+    "start": "451.856",
+    "end": "455.847",
+    "parent_tu_id": "234",
+    "text": "quanto tempo dedica al centro"
+  },
+  {
+    "tu_id": "250",
+    "speaker": "PST092_trad",
+    "start": "486.672",
+    "end": "491.276",
+    "parent_tu_id": "248",
+    "text": "collegato al com'è nato il centro"
+  },
+  {
+    "tu_id": "258",
+    "speaker": "PST085_trad",
+    "start": "499.307",
+    "end": "505.841",
+    "parent_tu_id": "257",
+    "text": "tra com'è nato il centro no, uniscila a com'è nato il centro, come ha iniziato a prendersi a prendere forma"
+  },
+  {
+    "tu_id": "281",
+    "speaker": "PST087_trad",
+    "start": "568.370",
+    "end": "574.510",
+    "parent_tu_id": "280",
+    "text": "ma tipo da dove chiederle semplicemente tipo signora @ecaterina tipo da dove è venuta la vostra passione per il folklore così"
+  },
+  {
+    "tu_id": "284",
+    "speaker": "PST085_trad",
+    "start": "574.670",
+    "end": "577.719",
+    "parent_tu_id": "283",
+    "text": "ma no non riferito a signora @ecaterina, è riferito ai figli"
+  },
+  {
+    "tu_id": "317",
+    "speaker": "PST092_trad",
+    "start": "628.570",
+    "end": "630.676",
+    "parent_tu_id": "316",
+    "text": "hai matematica con la signora @ecaterina?"
+  },
+  {
+    "tu_id": "322",
+    "speaker": "??_trad",
+    "start": "640.590",
+    "end": "641.530",
+    "parent_tu_id": "321",
+    "text": "la signora @ecaterina"
+  },
+  {
+    "tu_id": "343",
+    "speaker": "PST092_trad",
+    "start": "679.277",
+    "end": "681.781",
+    "parent_tu_id": "342",
+    "text": "oltre al centro si occupa di qualcos'altro"
+  },
+  {
+    "tu_id": "350",
+    "speaker": "PST087_trad",
+    "start": "694.294",
+    "end": "699.597",
+    "parent_tu_id": "349",
+    "text": "ma guarda che dopo un po' cioè la signora @ecaterina non è una di quelle persone che devi tirarle fuori le parole di bocca"
+  },
+  {
+    "tu_id": "357",
+    "speaker": "PST092_trad",
+    "start": "707.860",
+    "end": "710.200",
+    "parent_tu_id": "356",
+    "text": "madonna e la signora @ecaterina conti~ è vero"
+  },
+  {
+    "tu_id": "369",
+    "speaker": "PST092_trad",
+    "start": "729.376",
+    "end": "734.752",
+    "parent_tu_id": "368",
+    "text": "cioè come è nato il centro come ha vissuto lo spostamento tra romania e italia che sono collegate cioè penso lo dirà tutto insieme"
+  },
+  {
+    "tu_id": "372",
+    "speaker": "PST092_trad",
+    "start": "735.110",
+    "end": "737.563",
+    "parent_tu_id": "371",
+    "text": "poi come sono nate le attività del centro"
+  },
+  {
+    "tu_id": "377",
+    "speaker": "PST085_trad",
+    "start": "746.283",
+    "end": "749.830",
+    "parent_tu_id": "376",
+    "text": "poi com'è nato il centro come sono nate le attività del centro"
+  },
+  {
+    "tu_id": "391",
+    "speaker": "PST085_trad",
+    "start": "771.620",
+    "end": "773.920",
+    "parent_tu_id": "390",
+    "text": "x non me la ricordavo non sapevo che doveva essere"
+  },
+  {
+    "tu_id": "397",
+    "speaker": "PST085_trad",
+    "start": "780.150",
+    "end": "782.480",
+    "parent_tu_id": "396",
+    "text": "ma vai stai zitto stai zitto"
+  },
+  {
+    "tu_id": "400",
+    "speaker": "PST092_trad",
+    "start": "783.830",
+    "end": "786.320",
+    "parent_tu_id": "399",
+    "text": "com'è nata eh com'è nato il centro"
+  },
+  {
+    "tu_id": "403",
+    "speaker": "PST092_trad",
+    "start": "788.060",
+    "end": "791.420",
+    "parent_tu_id": "402",
+    "text": "che sensazioni ha avuto al primo spettacolo e quanto tempo dedica al centro"
+  }
+]

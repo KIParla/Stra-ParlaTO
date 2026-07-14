@@ -1,0 +1,194 @@
+[
+  {
+    "tu_id": "1",
+    "speaker": "PST210_trad",
+    "start": "0.337",
+    "end": "1.623",
+    "parent_tu_id": "0",
+    "text": "dai chiedi a xx"
+  },
+  {
+    "tu_id": "10",
+    "speaker": "PST210_trad",
+    "start": "10.260",
+    "end": "11.635",
+    "parent_tu_id": "9",
+    "text": "no perché io non devo venire nel video"
+  },
+  {
+    "tu_id": "13",
+    "speaker": "PST064_trad",
+    "start": "11.658",
+    "end": "12.665",
+    "parent_tu_id": "12",
+    "text": "ah non devi venire?"
+  },
+  {
+    "tu_id": "16",
+    "speaker": "PST203_trad",
+    "start": "13.621",
+    "end": "19.260",
+    "parent_tu_id": "15",
+    "text": "un attimo ancora per favore xx questo e metterne un altro se no non va"
+  },
+  {
+    "tu_id": "18",
+    "speaker": "PST065_trad",
+    "start": "19.306",
+    "end": "22.736",
+    "parent_tu_id": "17",
+    "text": "perché l'obiettivo è che si veda il nome del ristorante"
+  },
+  {
+    "tu_id": "21",
+    "speaker": "PST203_trad",
+    "start": "22.847",
+    "end": "28.126",
+    "parent_tu_id": "20",
+    "text": "perché se no non esce il nome del ristorante, perché stiamo facendo tutto questo se no"
+  },
+  {
+    "tu_id": "23",
+    "speaker": "PST064_trad",
+    "start": "29.270",
+    "end": "30.482",
+    "parent_tu_id": "22",
+    "text": "nell'intervista?"
+  },
+  {
+    "tu_id": "28",
+    "speaker": "PST210_trad",
+    "start": "33.630",
+    "end": "34.405",
+    "parent_tu_id": "27",
+    "text": "è un'intervista"
+  },
+  {
+    "tu_id": "30",
+    "speaker": "PST065_trad",
+    "start": "34.445",
+    "end": "38.727",
+    "parent_tu_id": "29",
+    "text": "chiaro perché? perché lo metti xxx e noi siamo xx"
+  },
+  {
+    "tu_id": "34",
+    "speaker": "PST065_trad",
+    "start": "38.980",
+    "end": "47.100",
+    "parent_tu_id": "33",
+    "text": "siamo stati intervistati per un progetto della regione piemonte che uscirà xx momento"
+  },
+  {
+    "tu_id": "42",
+    "speaker": "PST064_trad",
+    "start": "54.920",
+    "end": "56.903",
+    "parent_tu_id": "41",
+    "text": "ci si approfitta di tutto di tutto si approfitta"
+  },
+  {
+    "tu_id": "50",
+    "speaker": "PST065_trad",
+    "start": "74.013",
+    "end": "77.614",
+    "parent_tu_id": "49",
+    "text": "no solamente mi ha dato fastidio xxx"
+  },
+  {
+    "tu_id": "52",
+    "speaker": "PST203_trad",
+    "start": "75.916",
+    "end": "79.481",
+    "parent_tu_id": "51",
+    "text": "questo per terra, questo sempre per terra"
+  },
+  {
+    "tu_id": "60",
+    "speaker": "PST065_trad",
+    "start": "87.019",
+    "end": "88.034",
+    "parent_tu_id": "59",
+    "text": "perché ti chiamano?"
+  },
+  {
+    "tu_id": "62",
+    "speaker": "PST064_trad",
+    "start": "87.305",
+    "end": "90.747",
+    "parent_tu_id": "61",
+    "text": "io gli ho mandato un messaggio che non avrei chiesto xxx"
+  },
+  {
+    "tu_id": "66",
+    "speaker": "PST203_trad",
+    "start": "94.441",
+    "end": "98.537",
+    "parent_tu_id": "65",
+    "text": "@mary un pochino più a destra e io un pochino più x, così"
+  },
+  {
+    "tu_id": "70",
+    "speaker": "PST064_trad",
+    "start": "103.845",
+    "end": "106.010",
+    "parent_tu_id": "69",
+    "text": "sì sì ora spegniamo il telefono"
+  },
+  {
+    "tu_id": "73",
+    "speaker": "PST064_trad",
+    "start": "107.780",
+    "end": "108.460",
+    "parent_tu_id": "72",
+    "text": "toglila"
+  },
+  {
+    "tu_id": "81",
+    "speaker": "PST203_trad",
+    "start": "129.540",
+    "end": "134.169",
+    "parent_tu_id": "80",
+    "text": "facciamo un'altra con anche il nome così facciamo un'altra ripresa"
+  },
+  {
+    "tu_id": "89",
+    "speaker": "PST210_trad",
+    "start": "170.500",
+    "end": "171.240",
+    "parent_tu_id": "88",
+    "text": "cancellala"
+  },
+  {
+    "tu_id": "115",
+    "speaker": "PST203_trad",
+    "start": "217.728",
+    "end": "218.124",
+    "parent_tu_id": "114",
+    "text": "pronto"
+  },
+  {
+    "tu_id": "481",
+    "speaker": "PST064_trad",
+    "start": "1194.089",
+    "end": "1198.665",
+    "parent_tu_id": "480",
+    "text": "solo quello che era un accordo con tutta la comunità europea"
+  },
+  {
+    "tu_id": "605",
+    "speaker": "PST064_trad",
+    "start": "1466.760",
+    "end": "1472.986",
+    "parent_tu_id": "604",
+    "text": "ci sarà gastronomia diversa faremo anche la griglia perché non si può fare qua"
+  },
+  {
+    "tu_id": "649",
+    "speaker": "PST064_trad",
+    "start": "1545.471",
+    "end": "1548.638",
+    "parent_tu_id": "648",
+    "text": "questo vuol dire no? mangiare come se fossi a casa"
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "tu_id": "24",
+    "speaker": "PST086_trad",
+    "start": "48.520",
+    "end": "52.250",
+    "parent_tu_id": "23",
+    "text": "oh no la signora ecaterina tradisce il signor cosmin"
+  },
+  {
+    "tu_id": "27",
+    "speaker": "PST086_trad",
+    "start": "52.980",
+    "end": "54.550",
+    "parent_tu_id": "26",
+    "text": "no tradisce il signor cosmin"
+  },
+  {
+    "tu_id": "32",
+    "speaker": "PST087_trad",
+    "start": "57.720",
+    "end": "59.680",
+    "parent_tu_id": "31",
+    "text": "mo lo vado a dire al signor cosmin questo"
+  },
+  {
+    "tu_id": "35",
+    "speaker": "PST086_trad",
+    "start": "61.010",
+    "end": "62.600",
+    "parent_tu_id": "34",
+    "text": "no il signor cosmin che fa"
+  },
+  {
+    "tu_id": "84",
+    "speaker": "PST211_trad",
+    "start": "145.688",
+    "end": "150.550",
+    "parent_tu_id": "83",
+    "text": "perà un giorno vie~ andiamo veniamo noi viene o ecaterina o il signor cosmin"
+  },
+  {
+    "tu_id": "88",
+    "speaker": "PST092_trad",
+    "start": "151.114",
+    "end": "152.884",
+    "parent_tu_id": "86",
+    "text": "il signor cosmin sicuramente non ci sarà"
+  },
+  {
+    "tu_id": "162",
+    "speaker": "PST092_trad",
+    "start": "268.411",
+    "end": "275.467",
+    "parent_tu_id": "161",
+    "text": "è stato è stato bellissimo bullizzare e tra l'altro è arrivato in ritardo e si è pure messo a parlare con la signora ecaterina cioè lui sa che è in ritardo"
+  },
+  {
+    "tu_id": "208",
+    "speaker": "PST085_trad",
+    "start": "336.911",
+    "end": "338.110",
+    "parent_tu_id": "207",
+    "text": "beh mi è caduto"
+  },
+  {
+    "tu_id": "210",
+    "speaker": "PST087_trad",
+    "start": "338.160",
+    "end": "339.580",
+    "parent_tu_id": "209",
+    "text": "ha fatto cadere giù l'icona religiosa"
+  },
+  {
+    "tu_id": "214",
+    "speaker": "PST086_trad",
+    "start": "342.115",
+    "end": "343.845",
+    "parent_tu_id": "213",
+    "text": "se ti vede la signora ecaterina ti picchia"
+  },
+  {
+    "tu_id": "216",
+    "speaker": "PST092_trad",
+    "start": "343.845",
+    "end": "346.869",
+    "parent_tu_id": "215",
+    "text": "ma vai sai quante volte mi è caduta l'icona in testa madonna mia"
+  },
+  {
+    "tu_id": "225",
+    "speaker": "PST085_trad",
+    "start": "352.977",
+    "end": "354.733",
+    "parent_tu_id": "224",
+    "text": "ma in realtà stava parlando con la signora ecaterina"
+  },
+  {
+    "tu_id": "289",
+    "speaker": "PST086_trad",
+    "start": "451.690",
+    "end": "455.191",
+    "parent_tu_id": "288",
+    "text": "ehi siri chiama la signora ecaterina"
+  },
+  {
+    "tu_id": "291",
+    "speaker": "PST092_trad",
+    "start": "453.570",
+    "end": "455.190",
+    "parent_tu_id": "290",
+    "text": "la signora ecaterina tantissimo"
+  },
+  {
+    "tu_id": "388",
+    "speaker": "PST094_trad",
+    "start": "588.673",
+    "end": "591.212",
+    "parent_tu_id": "387",
+    "text": "sì così dicevo avete bisogno di luce?"
+  },
+  {
+    "tu_id": "416",
+    "speaker": "PST085_trad",
+    "start": "629.650",
+    "end": "633.785",
+    "parent_tu_id": "415",
+    "text": "cioè la signora ecaterina che parla in italiano e lui che parla in rumeno"
+  },
+  {
+    "tu_id": "429",
+    "speaker": "PST086_trad",
+    "start": "642.340",
+    "end": "644.164",
+    "parent_tu_id": "428",
+    "text": "niente signora ecaterina"
+  },
+  {
+    "tu_id": "439",
+    "speaker": "PST086_trad",
+    "start": "653.710",
+    "end": "654.285",
+    "parent_tu_id": "438",
+    "text": "sì"
+  },
+  {
+    "tu_id": "476",
+    "speaker": "PST085_trad",
+    "start": "706.610",
+    "end": "707.620",
+    "parent_tu_id": "475",
+    "text": "siete belle"
+  },
+  {
+    "tu_id": "488",
+    "speaker": "PST092_trad",
+    "start": "722.925",
+    "end": "724.295",
+    "parent_tu_id": "487",
+    "text": "il signor cosmin l'ha detto"
+  },
+  {
+    "tu_id": "490",
+    "speaker": "PST085_trad",
+    "start": "723.560",
+    "end": "725.160",
+    "parent_tu_id": "489",
+    "text": "ti deve insegnare che non sai ballare"
+  },
+  {
+    "tu_id": "495",
+    "speaker": "PST086_trad",
+    "start": "729.890",
+    "end": "731.889",
+    "parent_tu_id": "494",
+    "text": "vedi che vado a dire al signor cosmin"
+  },
+  {
+    "tu_id": "497",
+    "speaker": "PST085_trad",
+    "start": "731.952",
+    "end": "733.500",
+    "parent_tu_id": "496",
+    "text": "ih mamma mia"
+  },
+  {
+    "tu_id": "514",
+    "speaker": "PST086_trad",
+    "start": "753.606",
+    "end": "755.712",
+    "parent_tu_id": "513",
+    "text": "no chi ha chi ha il signor popescu"
+  },
+  {
+    "tu_id": "518",
+    "speaker": "PST086_trad",
+    "start": "757.340",
+    "end": "763.040",
+    "parent_tu_id": "517",
+    "text": "no so che lui rimane fino alle sei sette perché ha (lezione di) tamburello con eh"
+  },
+  {
+    "tu_id": "555",
+    "speaker": "PST211_trad",
+    "start": "815.595",
+    "end": "819.138",
+    "parent_tu_id": "554",
+    "text": "l'intervista a questo professo~ il signor popescu"
+  },
+  {
+    "tu_id": "557",
+    "speaker": "PST087_trad",
+    "start": "816.830",
+    "end": "818.370",
+    "parent_tu_id": "556",
+    "text": "al signor popescu"
+  },
+  {
+    "tu_id": "566",
+    "speaker": "PST086_trad",
+    "start": "829.570",
+    "end": "830.567",
+    "parent_tu_id": "565",
+    "text": "dici buongiorno"
+  },
+  {
+    "tu_id": "569",
+    "speaker": "PST086_trad",
+    "start": "831.595",
+    "end": "833.180",
+    "parent_tu_id": "568",
+    "text": "come vi siete ritrovati al centro"
+  },
+  {
+    "tu_id": "576",
+    "speaker": "PST092_trad",
+    "start": "841.231",
+    "end": "844.411",
+    "parent_tu_id": "575",
+    "text": "le stesse le ste~ sono le stesse domande che abbiamo fatto alla signora ecaterina"
+  },
+  {
+    "tu_id": "579",
+    "speaker": "PST086_trad",
+    "start": "847.998",
+    "end": "852.700",
+    "parent_tu_id": "578",
+    "text": "non è non si è spostato qui però lui ha conosciu~ cioè ha conosciuto la signora ecaterina dieci anni fa"
+  },
+  {
+    "tu_id": "582",
+    "speaker": "PST092_trad",
+    "start": "851.214",
+    "end": "854.894",
+    "parent_tu_id": "581",
+    "text": "come sei venuto a conosce~ come sei venuto a conoscenza del centro"
+  },
+  {
+    "tu_id": "628",
+    "speaker": "PST092_trad",
+    "start": "929.243",
+    "end": "935.058",
+    "parent_tu_id": "627",
+    "text": "domande per il signore popescu"
+  },
+  {
+    "tu_id": "635",
+    "speaker": "PST092_trad",
+    "start": "943.180",
+    "end": "945.420",
+    "parent_tu_id": "634",
+    "text": "qual era già come sei venuto a conoscenza del centro"
+  },
+  {
+    "tu_id": "644",
+    "speaker": "PST087_trad",
+    "start": "962.970",
+    "end": "967.890",
+    "parent_tu_id": "643",
+    "text": "secondo me sempre qualcuno che abbia la maglia del centro sarebbe l'ideale perché comunque magari dietro si"
+  },
+  {
+    "tu_id": "655",
+    "speaker": "PST211_trad",
+    "start": "975.570",
+    "end": "978.227",
+    "parent_tu_id": "654",
+    "text": "fai tu le domande al signor popescu?"
+  },
+  {
+    "tu_id": "661",
+    "speaker": "PST087_trad",
+    "start": "982.180",
+    "end": "984.310",
+    "parent_tu_id": "660",
+    "text": "perché non ha la maglia del centro"
+  },
+  {
+    "tu_id": "663",
+    "speaker": "PST211_trad",
+    "start": "982.600",
+    "end": "985.606",
+    "parent_tu_id": "662",
+    "text": "perché ilaria ha già fatto con la signora ecaterina"
+  },
+  {
+    "tu_id": "671",
+    "speaker": "PST092_trad",
+    "start": "995.840",
+    "end": "997.000",
+    "parent_tu_id": "670",
+    "text": "la signora ecaterina"
+  },
+  {
+    "tu_id": "673",
+    "speaker": "PST085_trad",
+    "start": "996.505",
+    "end": "999.675",
+    "parent_tu_id": "672",
+    "text": "alla signora ecaterina volevo fare delle domande anche a lei"
+  },
+  {
+    "tu_id": "706",
+    "speaker": "PST087_trad",
+    "start": "1050.640",
+    "end": "1053.880",
+    "parent_tu_id": "705",
+    "text": "nella sala di musica però non (.) in sala della signora lia"
+  },
+  {
+    "tu_id": "708",
+    "speaker": "PST087_trad",
+    "start": "1054.245",
+    "end": "1057.285",
+    "parent_tu_id": "707",
+    "text": "non quella in cui abbiamo fatto l'intervista alla signora ecaterina sì"
+  },
+  {
+    "tu_id": "774",
+    "speaker": "PST092_trad",
+    "start": "1140.510",
+    "end": "1144.918",
+    "parent_tu_id": "773",
+    "text": "come hai vissuto lo spost~ allora quelle che abbiamo fatto alla signora ecaterina che poi si sono moltiplicate"
+  },
+  {
+    "tu_id": "781",
+    "speaker": "PST092_trad",
+    "start": "1153.540",
+    "end": "1155.170",
+    "parent_tu_id": "779",
+    "text": "com'è nato il centro"
+  },
+  {
+    "tu_id": "786",
+    "speaker": "PST092_trad",
+    "start": "1158.220",
+    "end": "1161.120",
+    "parent_tu_id": "785",
+    "text": "come sono nate le attività del centro come hai"
+  },
+  {
+    "tu_id": "788",
+    "speaker": "PST092_trad",
+    "start": "1161.850",
+    "end": "1164.060",
+    "parent_tu_id": "787",
+    "text": "perché hai deciso di far parte delle attività del centro"
+  },
+  {
+    "tu_id": "791",
+    "speaker": "PST087_trad",
+    "start": "1167.980",
+    "end": "1169.490",
+    "parent_tu_id": "790",
+    "text": "perché il signor popescu di solito"
+  },
+  {
+    "tu_id": "794",
+    "speaker": "PST087_trad",
+    "start": "1171.300",
+    "end": "1174.530",
+    "parent_tu_id": "793",
+    "text": "il signor popescu di solito fa insegna strumento"
+  },
+  {
+    "tu_id": "832",
+    "speaker": "PST092_trad",
+    "start": "1237.010",
+    "end": "1240.067",
+    "parent_tu_id": "831",
+    "text": "altre domande eh come sono nate le attività del centro"
+  },
+  {
+    "tu_id": "864",
+    "speaker": "PST092_trad",
+    "start": "1280.846",
+    "end": "1283.665",
+    "parent_tu_id": "863",
+    "text": "come hai deciso di fare parte delle attività del centro"
+  },
+  {
+    "tu_id": "875",
+    "speaker": "PST092_trad",
+    "start": "1296.450",
+    "end": "1298.750",
+    "parent_tu_id": "874",
+    "text": "eh beh l'ho fatto con la signora ecaterina penso che"
+  },
+  {
+    "tu_id": "881",
+    "speaker": "PST087_trad",
+    "start": "1305.330",
+    "end": "1307.080",
+    "parent_tu_id": "880",
+    "text": "ila ila collabora ancora con il pastore?"
+  },
+  {
+    "tu_id": "883",
+    "speaker": "PST092_trad",
+    "start": "1307.067",
+    "end": "1308.250",
+    "parent_tu_id": "882",
+    "text": "boh non lo so"
+  },
+  {
+    "tu_id": "919",
+    "speaker": "PST092_trad",
+    "start": "1360.070",
+    "end": "1361.860",
+    "parent_tu_id": "918",
+    "text": "far parte delle attività del centro"
+  },
+  {
+    "tu_id": "922",
+    "speaker": "PST092_trad",
+    "start": "1368.620",
+    "end": "1370.526",
+    "parent_tu_id": "921",
+    "text": "del centro e delle sue attività"
+  },
+  {
+    "tu_id": "1071",
+    "speaker": "PST085_trad",
+    "start": "1599.970",
+    "end": "1601.280",
+    "parent_tu_id": "1070",
+    "text": "mirela vieni qui"
+  },
+  {
+    "tu_id": "1076",
+    "speaker": "PST092_trad",
+    "start": "1606.540",
+    "end": "1611.302",
+    "parent_tu_id": "1075",
+    "text": "quasi quasi ma se no scusa io dico al signor cosmin che oggi non la faccio e viene mendi si fa mendi"
+  },
+  {
+    "tu_id": "1087",
+    "speaker": "PST085_trad",
+    "start": "1627.920",
+    "end": "1635.102",
+    "parent_tu_id": "1086",
+    "text": "eh sei quella che boh non lo so se no metti lei o metti qualcuno del centro vuoi mettere me del centro che sono qua da qualche mese?"
+  }
+]

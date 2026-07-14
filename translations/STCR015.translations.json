@@ -1,0 +1,3618 @@
+[
+  {
+    "tu_id": "1",
+    "speaker": "PST119_trad",
+    "start": "4.720",
+    "end": "8.550",
+    "parent_tu_id": "0",
+    "text": "dai stasera mangiamo uova all'occhio di bue con"
+  },
+  {
+    "tu_id": "3",
+    "speaker": "PST120_trad",
+    "start": "8.600",
+    "end": "9.390",
+    "parent_tu_id": "2",
+    "text": "formaggio"
+  },
+  {
+    "tu_id": "5",
+    "speaker": "PST119_trad",
+    "start": "9.400",
+    "end": "10.450",
+    "parent_tu_id": "4",
+    "text": "porro?"
+  },
+  {
+    "tu_id": "7",
+    "speaker": "PST119_trad",
+    "start": "10.950",
+    "end": "12.340",
+    "parent_tu_id": "6",
+    "text": "che altro hai messo qui?"
+  },
+  {
+    "tu_id": "9",
+    "speaker": "PST120_trad",
+    "start": "12.875",
+    "end": "13.965",
+    "parent_tu_id": "8",
+    "text": "formaggio"
+  },
+  {
+    "tu_id": "11",
+    "speaker": "PST119_trad",
+    "start": "13.975",
+    "end": "16.105",
+    "parent_tu_id": "10",
+    "text": "sì hai messo il formaggio non è vero"
+  },
+  {
+    "tu_id": "13",
+    "speaker": "PST119_trad",
+    "start": "19.590",
+    "end": "21.920",
+    "parent_tu_id": "12",
+    "text": "aspetta che te lo passo io passami anche a me una"
+  },
+  {
+    "tu_id": "15",
+    "speaker": "PST119_trad",
+    "start": "21.950",
+    "end": "23.100",
+    "parent_tu_id": "14",
+    "text": "antonio tu mangi"
+  },
+  {
+    "tu_id": "18",
+    "speaker": "PST120_trad",
+    "start": "24.700",
+    "end": "27.490",
+    "parent_tu_id": "17",
+    "text": "come parlava romeno"
+  },
+  {
+    "tu_id": "20",
+    "speaker": "PST119_trad",
+    "start": "27.490",
+    "end": "28.840",
+    "parent_tu_id": "19",
+    "text": "lui sì lui no"
+  },
+  {
+    "tu_id": "22",
+    "speaker": "PST119_trad",
+    "start": "29.405",
+    "end": "31.215",
+    "parent_tu_id": "21",
+    "text": "no antonio non lo parla"
+  },
+  {
+    "tu_id": "28",
+    "speaker": "PST119_trad",
+    "start": "37.620",
+    "end": "40.320",
+    "parent_tu_id": "27",
+    "text": "dovevi mettere un po' di prosciutto sopra"
+  },
+  {
+    "tu_id": "33",
+    "speaker": "PST120_trad",
+    "start": "44.770",
+    "end": "45.710",
+    "parent_tu_id": "32",
+    "text": "vogliamo iniziare?"
+  },
+  {
+    "tu_id": "35",
+    "speaker": "??_trad",
+    "start": "45.740",
+    "end": "46.240",
+    "parent_tu_id": "34",
+    "text": "si"
+  },
+  {
+    "tu_id": "37",
+    "speaker": "PST120_trad",
+    "start": "47.815",
+    "end": "48.750",
+    "parent_tu_id": "36",
+    "text": "padre nostro"
+  },
+  {
+    "tu_id": "39",
+    "speaker": "PST119_trad",
+    "start": "51.540",
+    "end": "52.500",
+    "parent_tu_id": "38",
+    "text": "finiscila"
+  },
+  {
+    "tu_id": "41",
+    "speaker": "PST119_trad",
+    "start": "55.990",
+    "end": "57.680",
+    "parent_tu_id": "40",
+    "text": "e se lui ti chiede (traduci quello)"
+  },
+  {
+    "tu_id": "43",
+    "speaker": "PST120_trad",
+    "start": "57.700",
+    "end": "59.620",
+    "parent_tu_id": "42",
+    "text": "ehm ringraziamo il"
+  },
+  {
+    "tu_id": "45",
+    "speaker": "PST118_trad",
+    "start": "59.140",
+    "end": "61.450",
+    "parent_tu_id": "44",
+    "text": "ha detto che non conta chi chi xx"
+  },
+  {
+    "tu_id": "49",
+    "speaker": "PST119_trad",
+    "start": "64.450",
+    "end": "65.530",
+    "parent_tu_id": "48",
+    "text": "tu hai mangiato?"
+  },
+  {
+    "tu_id": "52",
+    "speaker": "PST119_trad",
+    "start": "76.360",
+    "end": "77.220",
+    "parent_tu_id": "51",
+    "text": "vuoi qualcos'altro?"
+  },
+  {
+    "tu_id": "54",
+    "speaker": "PST120_trad",
+    "start": "77.225",
+    "end": "79.525",
+    "parent_tu_id": "53",
+    "text": "questa sera hai un po bruciato questo (xxx)"
+  },
+  {
+    "tu_id": "56",
+    "speaker": "PST119_trad",
+    "start": "80.640",
+    "end": "81.840",
+    "parent_tu_id": "55",
+    "text": "l'hai fatto tu non io"
+  },
+  {
+    "tu_id": "58",
+    "speaker": "PST120_trad",
+    "start": "81.700",
+    "end": "84.250",
+    "parent_tu_id": "57",
+    "text": "ogni volta che ti faccio fare a te da mangiare"
+  },
+  {
+    "tu_id": "60",
+    "speaker": "PST120_trad",
+    "start": "85.030",
+    "end": "86.780",
+    "parent_tu_id": "59",
+    "text": "fai solo cazzate"
+  },
+  {
+    "tu_id": "63",
+    "speaker": "PST120_trad",
+    "start": "88.790",
+    "end": "91.420",
+    "parent_tu_id": "62",
+    "text": "io ti ho detto di stare là a guardare cosi"
+  },
+  {
+    "tu_id": "65",
+    "speaker": "PST120_trad",
+    "start": "91.530",
+    "end": "96.240",
+    "parent_tu_id": "64",
+    "text": "a volte impari ora come mangio questa cipolla fritta"
+  },
+  {
+    "tu_id": "67",
+    "speaker": "PST119_trad",
+    "start": "96.390",
+    "end": "97.060",
+    "parent_tu_id": "66",
+    "text": "non mangiare"
+  },
+  {
+    "tu_id": "69",
+    "speaker": "PST118_trad",
+    "start": "97.080",
+    "end": "98.660",
+    "parent_tu_id": "68",
+    "text": "ma non c-ă il sughetto"
+  },
+  {
+    "tu_id": "72",
+    "speaker": "PST120_trad",
+    "start": "99.590",
+    "end": "102.030",
+    "parent_tu_id": "71",
+    "text": "neanche il sughetto hai lasciato che si asciughi del tutto"
+  },
+  {
+    "tu_id": "74",
+    "speaker": "PST120_trad",
+    "start": "103.470",
+    "end": "105.580",
+    "parent_tu_id": "73",
+    "text": "non farai più d'ora in poi non farai più tu da mangiare"
+  },
+  {
+    "tu_id": "78",
+    "speaker": "PST119_trad",
+    "start": "115.810",
+    "end": "116.530",
+    "parent_tu_id": "77",
+    "text": "bevi qualcosa?"
+  },
+  {
+    "tu_id": "80",
+    "speaker": "PST118_trad",
+    "start": "117.620",
+    "end": "118.065",
+    "parent_tu_id": "79",
+    "text": "no"
+  },
+  {
+    "tu_id": "82",
+    "speaker": "PST119_trad",
+    "start": "119.620",
+    "end": "123.430",
+    "parent_tu_id": "81",
+    "text": "se hai fame fatti ancora dei"
+  },
+  {
+    "tu_id": "90",
+    "speaker": "PST120_trad",
+    "start": "133.865",
+    "end": "137.085",
+    "parent_tu_id": "89",
+    "text": "ho messo troppo poco sugo"
+  },
+  {
+    "tu_id": "92",
+    "speaker": "PST119_trad",
+    "start": "137.420",
+    "end": "138.720",
+    "parent_tu_id": "91",
+    "text": "e si è bruciato"
+  },
+  {
+    "tu_id": "94",
+    "speaker": "PST120_trad",
+    "start": "138.770",
+    "end": "140.260",
+    "parent_tu_id": "93",
+    "text": "e mi è scappato di mano quel (xxx)"
+  },
+  {
+    "tu_id": "98",
+    "speaker": "PST119_trad",
+    "start": "144.020",
+    "end": "144.870",
+    "parent_tu_id": "97",
+    "text": "lasciala un po'"
+  },
+  {
+    "tu_id": "100",
+    "speaker": "PST119_trad",
+    "start": "146.210",
+    "end": "146.950",
+    "parent_tu_id": "99",
+    "text": "è cosi"
+  },
+  {
+    "tu_id": "102",
+    "speaker": "PST120_trad",
+    "start": "149.090",
+    "end": "150.210",
+    "parent_tu_id": "101",
+    "text": "malox per questa sera"
+  },
+  {
+    "tu_id": "108",
+    "speaker": "PST119_trad",
+    "start": "160.570",
+    "end": "164.310",
+    "parent_tu_id": "107",
+    "text": "io domani mattina"
+  },
+  {
+    "tu_id": "110",
+    "speaker": "PST120_trad",
+    "start": "160.580",
+    "end": "163.800",
+    "parent_tu_id": "109",
+    "text": "ehm tu il tuo amico"
+  },
+  {
+    "tu_id": "112",
+    "speaker": "PST119_trad",
+    "start": "164.380",
+    "end": "166.361",
+    "parent_tu_id": "111",
+    "text": "se dormo lasciami dormire va bene ?"
+  },
+  {
+    "tu_id": "115",
+    "speaker": "PST120_trad",
+    "start": "166.480",
+    "end": "167.200",
+    "parent_tu_id": "114",
+    "text": "non massimo"
+  },
+  {
+    "tu_id": "117",
+    "speaker": "PST120_trad",
+    "start": "167.765",
+    "end": "168.715",
+    "parent_tu_id": "116",
+    "text": "questo"
+  },
+  {
+    "tu_id": "121",
+    "speaker": "PST120_trad",
+    "start": "171.695",
+    "end": "175.200",
+    "parent_tu_id": "120",
+    "text": "come si permette a mandarmi messaggi sul tuo telefono scusami"
+  },
+  {
+    "tu_id": "124",
+    "speaker": "PST120_trad",
+    "start": "176.377",
+    "end": "178.590",
+    "parent_tu_id": "123",
+    "text": "ti ha preso il telefono dalle mani e tu gliel'hai dato"
+  },
+  {
+    "tu_id": "126",
+    "speaker": "PST118_trad",
+    "start": "177.917",
+    "end": "178.567",
+    "parent_tu_id": "125",
+    "text": "si"
+  },
+  {
+    "tu_id": "128",
+    "speaker": "PST119_trad",
+    "start": "180.810",
+    "end": "182.010",
+    "parent_tu_id": "127",
+    "text": "sì ma io"
+  },
+  {
+    "tu_id": "130",
+    "speaker": "PST119_trad",
+    "start": "182.255",
+    "end": "183.195",
+    "parent_tu_id": "129",
+    "text": "che ha scritto"
+  },
+  {
+    "tu_id": "132",
+    "speaker": "PST118_trad",
+    "start": "183.300",
+    "end": "187.690",
+    "parent_tu_id": "131",
+    "text": "mi ha fatto un messaggio vocale ha detto che"
+  },
+  {
+    "tu_id": "135",
+    "speaker": "PST120_trad",
+    "start": "188.450",
+    "end": "190.030",
+    "parent_tu_id": "134",
+    "text": "che lei voleva venire a casa"
+  },
+  {
+    "tu_id": "137",
+    "speaker": "PST118_trad",
+    "start": "190.060",
+    "end": "190.580",
+    "parent_tu_id": "136",
+    "text": "si"
+  },
+  {
+    "tu_id": "139",
+    "speaker": "PST119_trad",
+    "start": "191.515",
+    "end": "192.290",
+    "parent_tu_id": "138",
+    "text": "che lui non lo lascia"
+  },
+  {
+    "tu_id": "142",
+    "speaker": "PST119_trad",
+    "start": "194.835",
+    "end": "196.325",
+    "parent_tu_id": "141",
+    "text": "ha preso la sua macchina?"
+  },
+  {
+    "tu_id": "145",
+    "speaker": "PST119_trad",
+    "start": "197.320",
+    "end": "197.840",
+    "parent_tu_id": "144",
+    "text": "di robi"
+  },
+  {
+    "tu_id": "149",
+    "speaker": "PST119_trad",
+    "start": "204.750",
+    "end": "206.350",
+    "parent_tu_id": "148",
+    "text": "ma rob è ora"
+  },
+  {
+    "tu_id": "151",
+    "speaker": "PST119_trad",
+    "start": "206.745",
+    "end": "208.670",
+    "parent_tu_id": "150",
+    "text": "ha la sessione di esami o cosa"
+  },
+  {
+    "tu_id": "154",
+    "speaker": "PST118_trad",
+    "start": "210.090",
+    "end": "211.190",
+    "parent_tu_id": "153",
+    "text": "verso"
+  },
+  {
+    "tu_id": "156",
+    "speaker": "PST118_trad",
+    "start": "211.505",
+    "end": "212.185",
+    "parent_tu_id": "155",
+    "text": "giugno"
+  },
+  {
+    "tu_id": "158",
+    "speaker": "PST119_trad",
+    "start": "212.260",
+    "end": "213.630",
+    "parent_tu_id": "157",
+    "text": "fino a giugno non ha nessun esame?"
+  },
+  {
+    "tu_id": "160",
+    "speaker": "PST118_trad",
+    "start": "213.700",
+    "end": "214.050",
+    "parent_tu_id": "159",
+    "text": "no"
+  },
+  {
+    "tu_id": "165",
+    "speaker": "PST118_trad",
+    "start": "218.670",
+    "end": "222.280",
+    "parent_tu_id": "164",
+    "text": "mh no no no non credo"
+  },
+  {
+    "tu_id": "169",
+    "speaker": "PST119_trad",
+    "start": "227.190",
+    "end": "229.920",
+    "parent_tu_id": "168",
+    "text": "come massimo praticamente no non hanno la stessa"
+  },
+  {
+    "tu_id": "171",
+    "speaker": "PST118_trad",
+    "start": "230.610",
+    "end": "234.150",
+    "parent_tu_id": "170",
+    "text": "si si adesso ho delle lezioni"
+  },
+  {
+    "tu_id": "173",
+    "speaker": "PST119_trad",
+    "start": "234.835",
+    "end": "235.595",
+    "parent_tu_id": "172",
+    "text": "separate"
+  },
+  {
+    "tu_id": "175",
+    "speaker": "PST118_trad",
+    "start": "235.590",
+    "end": "236.049",
+    "parent_tu_id": "174",
+    "text": "si"
+  },
+  {
+    "tu_id": "177",
+    "speaker": "PST119_trad",
+    "start": "236.865",
+    "end": "238.405",
+    "parent_tu_id": "176",
+    "text": "hanno lo stesso profilo?"
+  },
+  {
+    "tu_id": "179",
+    "speaker": "PST118_trad",
+    "start": "238.850",
+    "end": "239.030",
+    "parent_tu_id": "178",
+    "text": "no"
+  },
+  {
+    "tu_id": "181",
+    "speaker": "PST119_trad",
+    "start": "239.035",
+    "end": "239.905",
+    "parent_tu_id": "180",
+    "text": "indirizz~ ah no?"
+  },
+  {
+    "tu_id": "185",
+    "speaker": "PST118_trad",
+    "start": "243.120",
+    "end": "246.080",
+    "parent_tu_id": "184",
+    "text": "si fanno ingegneria ma robi fa"
+  },
+  {
+    "tu_id": "192",
+    "speaker": "PST120_trad",
+    "start": "254.915",
+    "end": "255.515",
+    "parent_tu_id": "191",
+    "text": "fa?"
+  },
+  {
+    "tu_id": "205",
+    "speaker": "PST120_trad",
+    "start": "278.020",
+    "end": "279.590",
+    "parent_tu_id": "204",
+    "text": "parla romeno"
+  },
+  {
+    "tu_id": "207",
+    "speaker": "PST119_trad",
+    "start": "283.336",
+    "end": "284.950",
+    "parent_tu_id": "206",
+    "text": "lo mettiamo da parte"
+  },
+  {
+    "tu_id": "210",
+    "speaker": "PST119_trad",
+    "start": "290.310",
+    "end": "292.490",
+    "parent_tu_id": "209",
+    "text": "speriamo che"
+  },
+  {
+    "tu_id": "213",
+    "speaker": "PST119_trad",
+    "start": "298.650",
+    "end": "301.300",
+    "parent_tu_id": "212",
+    "text": "secondo me anche la tua giacca non la indossi più da ora"
+  },
+  {
+    "tu_id": "217",
+    "speaker": "PST119_trad",
+    "start": "306.140",
+    "end": "309.210",
+    "parent_tu_id": "216",
+    "text": "a parte la giacca di jeans hai qualcos'altro?"
+  },
+  {
+    "tu_id": "220",
+    "speaker": "PST119_trad",
+    "start": "309.787",
+    "end": "310.410",
+    "parent_tu_id": "219",
+    "text": "no neanche io"
+  },
+  {
+    "tu_id": "222",
+    "speaker": "PST119_trad",
+    "start": "313.050",
+    "end": "314.910",
+    "parent_tu_id": "221",
+    "text": "quella giacca xx"
+  },
+  {
+    "tu_id": "227",
+    "speaker": "PST119_trad",
+    "start": "330.810",
+    "end": "331.560",
+    "parent_tu_id": "226",
+    "text": "non ti piace"
+  },
+  {
+    "tu_id": "229",
+    "speaker": "PST118_trad",
+    "start": "331.570",
+    "end": "331.840",
+    "parent_tu_id": "228",
+    "text": "no"
+  },
+  {
+    "tu_id": "231",
+    "speaker": "PST119_trad",
+    "start": "333.110",
+    "end": "334.080",
+    "parent_tu_id": "230",
+    "text": "perché?"
+  },
+  {
+    "tu_id": "234",
+    "speaker": "PST119_trad",
+    "start": "335.990",
+    "end": "337.870",
+    "parent_tu_id": "233",
+    "text": "è rimasto troppo sodo"
+  },
+  {
+    "tu_id": "236",
+    "speaker": "PST120_trad",
+    "start": "337.890",
+    "end": "338.525",
+    "parent_tu_id": "235",
+    "text": "è forte?"
+  },
+  {
+    "tu_id": "239",
+    "speaker": "PST118_trad",
+    "start": "338.640",
+    "end": "338.990",
+    "parent_tu_id": "238",
+    "text": "sì"
+  },
+  {
+    "tu_id": "241",
+    "speaker": "PST120_trad",
+    "start": "339.490",
+    "end": "341.492",
+    "parent_tu_id": "240",
+    "text": "queste sono devi mangiare (pesante)"
+  },
+  {
+    "tu_id": "243",
+    "speaker": "PST119_trad",
+    "start": "341.490",
+    "end": "344.390",
+    "parent_tu_id": "242",
+    "text": "si ma al gusto non era cosi forte"
+  },
+  {
+    "tu_id": "247",
+    "speaker": "PST119_trad",
+    "start": "349.030",
+    "end": "350.310",
+    "parent_tu_id": "246",
+    "text": "questa volta::"
+  },
+  {
+    "tu_id": "249",
+    "speaker": "PST119_trad",
+    "start": "351.025",
+    "end": "352.405",
+    "parent_tu_id": "248",
+    "text": "la cipolla è fritta"
+  },
+  {
+    "tu_id": "251",
+    "speaker": "PST119_trad",
+    "start": "352.570",
+    "end": "354.890",
+    "parent_tu_id": "250",
+    "text": "non c'è il sugo le uova sono dure"
+  },
+  {
+    "tu_id": "253",
+    "speaker": "PST119_trad",
+    "start": "356.155",
+    "end": "358.965",
+    "parent_tu_id": "252",
+    "text": "l'hai fatto secondo me anche troppo in fretta"
+  },
+  {
+    "tu_id": "255",
+    "speaker": "PST119_trad",
+    "start": "359.865",
+    "end": "360.805",
+    "parent_tu_id": "254",
+    "text": "hai parlato un po'"
+  },
+  {
+    "tu_id": "257",
+    "speaker": "PST119_trad",
+    "start": "361.330",
+    "end": "363.170",
+    "parent_tu_id": "256",
+    "text": "la volta scorsa hai detto di averla lasciata un'ora"
+  },
+  {
+    "tu_id": "260",
+    "speaker": "PST119_trad",
+    "start": "364.625",
+    "end": "367.275",
+    "parent_tu_id": "259",
+    "text": "lo hai cotto più piano a fuoco lento forse"
+  },
+  {
+    "tu_id": "262",
+    "speaker": "PST120_trad",
+    "start": "365.327",
+    "end": "366.180",
+    "parent_tu_id": "261",
+    "text": "l'ho fatta più"
+  },
+  {
+    "tu_id": "264",
+    "speaker": "PST120_trad",
+    "start": "367.525",
+    "end": "368.745",
+    "parent_tu_id": "263",
+    "text": "l'ho fatta più"
+  },
+  {
+    "tu_id": "266",
+    "speaker": "PST119_trad",
+    "start": "369.270",
+    "end": "370.190",
+    "parent_tu_id": "265",
+    "text": "l'hai fatta più lentamente"
+  },
+  {
+    "tu_id": "268",
+    "speaker": "PST120_trad",
+    "start": "370.190",
+    "end": "370.639",
+    "parent_tu_id": "267",
+    "text": "a fuoco lento"
+  },
+  {
+    "tu_id": "273",
+    "speaker": "PST119_trad",
+    "start": "383.050",
+    "end": "385.130",
+    "parent_tu_id": "272",
+    "text": "ma tu quando inizi questo giovedì?"
+  },
+  {
+    "tu_id": "275",
+    "speaker": "PST118_trad",
+    "start": "385.375",
+    "end": "385.835",
+    "parent_tu_id": "274",
+    "text": "sì"
+  },
+  {
+    "tu_id": "277",
+    "speaker": "PST119_trad",
+    "start": "386.400",
+    "end": "388.300",
+    "parent_tu_id": "276",
+    "text": "devi vedere cosa fare con l'abbonamento"
+  },
+  {
+    "tu_id": "279",
+    "speaker": "PST118_trad",
+    "start": "388.310",
+    "end": "389.340",
+    "parent_tu_id": "278",
+    "text": "ma non so"
+  },
+  {
+    "tu_id": "281",
+    "speaker": "PST119_trad",
+    "start": "389.470",
+    "end": "391.380",
+    "parent_tu_id": "280",
+    "text": "non so fatti due conti no?"
+  },
+  {
+    "tu_id": "283",
+    "speaker": "PST119_trad",
+    "start": "393.328",
+    "end": "395.530",
+    "parent_tu_id": "282",
+    "text": "vedi se ti conviene fare l'abbonamento"
+  },
+  {
+    "tu_id": "285",
+    "speaker": "PST119_trad",
+    "start": "396.940",
+    "end": "398.740",
+    "parent_tu_id": "284",
+    "text": "ma tutto il mese vai cosi?"
+  },
+  {
+    "tu_id": "287",
+    "speaker": "PST118_trad",
+    "start": "398.740",
+    "end": "399.240",
+    "parent_tu_id": "286",
+    "text": "si"
+  },
+  {
+    "tu_id": "289",
+    "speaker": "PST118_trad",
+    "start": "400.635",
+    "end": "401.375",
+    "parent_tu_id": "288",
+    "text": "fino"
+  },
+  {
+    "tu_id": "291",
+    "speaker": "PST118_trad",
+    "start": "404.320",
+    "end": "407.020",
+    "parent_tu_id": "290",
+    "text": "non so quindici marzo"
+  },
+  {
+    "tu_id": "293",
+    "speaker": "PST118_trad",
+    "start": "407.390",
+    "end": "408.290",
+    "parent_tu_id": "292",
+    "text": "a maggio"
+  },
+  {
+    "tu_id": "297",
+    "speaker": "PST119_trad",
+    "start": "414.290",
+    "end": "419.790",
+    "parent_tu_id": "296",
+    "text": "la verità è che è difficile fare tutti i giorni il biglietto eh cosi è devi fare anche il biglietto"
+  },
+  {
+    "tu_id": "300",
+    "speaker": "PST119_trad",
+    "start": "420.300",
+    "end": "424.590",
+    "parent_tu_id": "299",
+    "text": "sull'autobus ti fai anche il biglietto a questo sull'autobus non puoi"
+  },
+  {
+    "tu_id": "302",
+    "speaker": "PST118_trad",
+    "start": "424.620",
+    "end": "426.850",
+    "parent_tu_id": "301",
+    "text": "no sul telefono posso farmelo ma"
+  },
+  {
+    "tu_id": "304",
+    "speaker": "PST118_trad",
+    "start": "428.803",
+    "end": "429.910",
+    "parent_tu_id": "303",
+    "text": "per il treno"
+  },
+  {
+    "tu_id": "306",
+    "speaker": "PST118_trad",
+    "start": "429.935",
+    "end": "432.625",
+    "parent_tu_id": "305",
+    "text": "non so quando eh mh"
+  },
+  {
+    "tu_id": "308",
+    "speaker": "PST119_trad",
+    "start": "433.645",
+    "end": "435.555",
+    "parent_tu_id": "307",
+    "text": "a che ora sei di ritorno"
+  },
+  {
+    "tu_id": "311",
+    "speaker": "PST119_trad",
+    "start": "438.405",
+    "end": "443.090",
+    "parent_tu_id": "310",
+    "text": "secondo me un conto così a giornata quanto era circa dieci euro mi sembra"
+  },
+  {
+    "tu_id": "313",
+    "speaker": "PST118_trad",
+    "start": "443.207",
+    "end": "443.607",
+    "parent_tu_id": "312",
+    "text": "si"
+  },
+  {
+    "tu_id": "315",
+    "speaker": "PST118_trad",
+    "start": "444.422",
+    "end": "445.282",
+    "parent_tu_id": "314",
+    "text": "quando"
+  },
+  {
+    "tu_id": "317",
+    "speaker": "PST118_trad",
+    "start": "446.240",
+    "end": "447.550",
+    "parent_tu_id": "316",
+    "text": "vado lì"
+  },
+  {
+    "tu_id": "319",
+    "speaker": "PST118_trad",
+    "start": "448.330",
+    "end": "450.370",
+    "parent_tu_id": "318",
+    "text": "devo prendere la metro"
+  },
+  {
+    "tu_id": "322",
+    "speaker": "PST119_trad",
+    "start": "451.405",
+    "end": "454.145",
+    "parent_tu_id": "321",
+    "text": "metro e treno in tutto arrivi"
+  },
+  {
+    "tu_id": "324",
+    "speaker": "PST120_trad",
+    "start": "455.090",
+    "end": "456.040",
+    "parent_tu_id": "323",
+    "text": "dove vai"
+  },
+  {
+    "tu_id": "326",
+    "speaker": "PST120_trad",
+    "start": "456.780",
+    "end": "457.720",
+    "parent_tu_id": "325",
+    "text": "lì dove"
+  },
+  {
+    "tu_id": "328",
+    "speaker": "PST120_trad",
+    "start": "458.135",
+    "end": "459.484",
+    "parent_tu_id": "327",
+    "text": "dove vai lì"
+  },
+  {
+    "tu_id": "330",
+    "speaker": "PST120_trad",
+    "start": "460.405",
+    "end": "461.345",
+    "parent_tu_id": "329",
+    "text": "all'università?"
+  },
+  {
+    "tu_id": "333",
+    "speaker": "PST120_trad",
+    "start": "462.390",
+    "end": "464.110",
+    "parent_tu_id": "332",
+    "text": "all'università o dove"
+  },
+  {
+    "tu_id": "335",
+    "speaker": "PST119_trad",
+    "start": "464.705",
+    "end": "465.445",
+    "parent_tu_id": "334",
+    "text": "ad ogni modo"
+  },
+  {
+    "tu_id": "337",
+    "speaker": "PST120_trad",
+    "start": "465.475",
+    "end": "466.270",
+    "parent_tu_id": "336",
+    "text": "dove vai"
+  },
+  {
+    "tu_id": "340",
+    "speaker": "PST118_trad",
+    "start": "466.541",
+    "end": "466.869",
+    "parent_tu_id": "339",
+    "text": "sì"
+  },
+  {
+    "tu_id": "342",
+    "speaker": "PST119_trad",
+    "start": "467.016",
+    "end": "469.295",
+    "parent_tu_id": "341",
+    "text": "hai fatto un conto e arrivi a circa dieci euro"
+  },
+  {
+    "tu_id": "344",
+    "speaker": "PST118_trad",
+    "start": "469.450",
+    "end": "469.910",
+    "parent_tu_id": "343",
+    "text": "sì"
+  },
+  {
+    "tu_id": "346",
+    "speaker": "PST119_trad",
+    "start": "471.190",
+    "end": "472.160",
+    "parent_tu_id": "345",
+    "text": "al giorno"
+  },
+  {
+    "tu_id": "348",
+    "speaker": "PST118_trad",
+    "start": "472.170",
+    "end": "472.730",
+    "parent_tu_id": "347",
+    "text": "al giorno"
+  },
+  {
+    "tu_id": "350",
+    "speaker": "PST119_trad",
+    "start": "472.755",
+    "end": "473.785",
+    "parent_tu_id": "349",
+    "text": "quindi in una"
+  },
+  {
+    "tu_id": "352",
+    "speaker": "PST119_trad",
+    "start": "474.075",
+    "end": "481.190",
+    "parent_tu_id": "351",
+    "text": "in praticamente una settimana in due giorni venti euro e quanto costa l'abbonamento"
+  },
+  {
+    "tu_id": "354",
+    "speaker": "PST119_trad",
+    "start": "483.230",
+    "end": "486.400",
+    "parent_tu_id": "353",
+    "text": "se hai venti euro a settimana xxx"
+  },
+  {
+    "tu_id": "356",
+    "speaker": "PST119_trad",
+    "start": "487.740",
+    "end": "489.450",
+    "parent_tu_id": "355",
+    "text": "in un mese ottanta euro"
+  },
+  {
+    "tu_id": "358",
+    "speaker": "PST119_trad",
+    "start": "489.640",
+    "end": "491.920",
+    "parent_tu_id": "357",
+    "text": "l'abbonamento costa ottantasei"
+  },
+  {
+    "tu_id": "360",
+    "speaker": "PST119_trad",
+    "start": "492.690",
+    "end": "497.170",
+    "parent_tu_id": "359",
+    "text": "in più ogni giorno stai a fare il biglietto non ti conviene fai l'abbonamento"
+  },
+  {
+    "tu_id": "362",
+    "speaker": "PST118_trad",
+    "start": "494.754",
+    "end": "495.246",
+    "parent_tu_id": "361",
+    "text": "non conviene"
+  },
+  {
+    "tu_id": "364",
+    "speaker": "PST119_trad",
+    "start": "497.950",
+    "end": "501.745",
+    "parent_tu_id": "363",
+    "text": "capita devi andare in giro a torino che ne so vai a"
+  },
+  {
+    "tu_id": "366",
+    "speaker": "PST119_trad",
+    "start": "503.060",
+    "end": "505.400",
+    "parent_tu_id": "365",
+    "text": "vai con qualcuno (xxx) fai l'abbonamento"
+  },
+  {
+    "tu_id": "369",
+    "speaker": "PST119_trad",
+    "start": "505.810",
+    "end": "506.280",
+    "parent_tu_id": "368",
+    "text": "no?"
+  },
+  {
+    "tu_id": "371",
+    "speaker": "PST119_trad",
+    "start": "509.830",
+    "end": "513.050",
+    "parent_tu_id": "370",
+    "text": "antonio domani se ho tempo vado alla farmacia a comprare qualcosa vediamo"
+  },
+  {
+    "tu_id": "373",
+    "speaker": "PST120_trad",
+    "start": "515.245",
+    "end": "517.645",
+    "parent_tu_id": "372",
+    "text": "a me serve lo sciroppo di piantaggine"
+  },
+  {
+    "tu_id": "375",
+    "speaker": "PST119_trad",
+    "start": "518.480",
+    "end": "518.940",
+    "parent_tu_id": "374",
+    "text": "di?"
+  },
+  {
+    "tu_id": "377",
+    "speaker": "PST120_trad",
+    "start": "518.990",
+    "end": "520.010",
+    "parent_tu_id": "376",
+    "text": "di piantaggine"
+  },
+  {
+    "tu_id": "379",
+    "speaker": "PST119_trad",
+    "start": "520.835",
+    "end": "521.935",
+    "parent_tu_id": "378",
+    "text": "questo cos'è tosse secca?"
+  },
+  {
+    "tu_id": "382",
+    "speaker": "PST120_trad",
+    "start": "526.238",
+    "end": "528.279",
+    "parent_tu_id": "381",
+    "text": "quello che prendevi tu per la tosse"
+  },
+  {
+    "tu_id": "384",
+    "speaker": "PST119_trad",
+    "start": "529.890",
+    "end": "530.970",
+    "parent_tu_id": "383",
+    "text": "è una tosse secca"
+  },
+  {
+    "tu_id": "386",
+    "speaker": "PST119_trad",
+    "start": "533.695",
+    "end": "534.925",
+    "parent_tu_id": "385",
+    "text": "non fa male la gola"
+  },
+  {
+    "tu_id": "390",
+    "speaker": "PST119_trad",
+    "start": "542.390",
+    "end": "546.430",
+    "parent_tu_id": "389",
+    "text": "dai un sacco di soldi su questi sciroppi in farmacia e poi"
+  },
+  {
+    "tu_id": "393",
+    "speaker": "PST119_trad",
+    "start": "548.304",
+    "end": "549.522",
+    "parent_tu_id": "392",
+    "text": "cena"
+  },
+  {
+    "tu_id": "395",
+    "speaker": "PST119_trad",
+    "start": "555.020",
+    "end": "555.870",
+    "parent_tu_id": "394",
+    "text": "non mangi più?"
+  },
+  {
+    "tu_id": "398",
+    "speaker": "PST119_trad",
+    "start": "557.190",
+    "end": "558.260",
+    "parent_tu_id": "397",
+    "text": "fatti qualcos'altro"
+  },
+  {
+    "tu_id": "400",
+    "speaker": "PST119_trad",
+    "start": "559.393",
+    "end": "562.837",
+    "parent_tu_id": "399",
+    "text": "fatti un panino un sandwich un toast"
+  },
+  {
+    "tu_id": "408",
+    "speaker": "PST119_trad",
+    "start": "566.540",
+    "end": "569.520",
+    "parent_tu_id": "407",
+    "text": "c’è il brie poi c’è anche l'altra cosa poi c’è anche come si chiama la scamorza"
+  },
+  {
+    "tu_id": "410",
+    "speaker": "PST118_trad",
+    "start": "569.750",
+    "end": "571.030",
+    "parent_tu_id": "409",
+    "text": "ah ah #sì #sì"
+  },
+  {
+    "tu_id": "412",
+    "speaker": "PST119_trad",
+    "start": "571.045",
+    "end": "572.607",
+    "parent_tu_id": "411",
+    "text": "mi sembra di si c'è ancora no?"
+  },
+  {
+    "tu_id": "417",
+    "speaker": "PST119_trad",
+    "start": "574.930",
+    "end": "575.870",
+    "parent_tu_id": "416",
+    "text": "mi sembra che c'è"
+  },
+  {
+    "tu_id": "419",
+    "speaker": "PST119_trad",
+    "start": "577.985",
+    "end": "578.715",
+    "parent_tu_id": "418",
+    "text": "l'hai mangiata tu?"
+  },
+  {
+    "tu_id": "422",
+    "speaker": "PST120_trad",
+    "start": "582.505",
+    "end": "583.255",
+    "parent_tu_id": "421",
+    "text": "no"
+  },
+  {
+    "tu_id": "424",
+    "speaker": "PST120_trad",
+    "start": "585.235",
+    "end": "587.185",
+    "parent_tu_id": "423",
+    "text": "io mi sono fatto un sandwich"
+  },
+  {
+    "tu_id": "427",
+    "speaker": "PST119_trad",
+    "start": "588.465",
+    "end": "589.475",
+    "parent_tu_id": "426",
+    "text": "l'hai finita?"
+  },
+  {
+    "tu_id": "429",
+    "speaker": "PST120_trad",
+    "start": "589.585",
+    "end": "590.665",
+    "parent_tu_id": "428",
+    "text": "non l'ho finito"
+  },
+  {
+    "tu_id": "434",
+    "speaker": "PST119_trad",
+    "start": "613.360",
+    "end": "618.880",
+    "parent_tu_id": "433",
+    "text": "alla fine lei ha avuto un malore ma dice che ha mangiato un sandwich di quelli sai quei tramezzini no"
+  },
+  {
+    "tu_id": "437",
+    "speaker": "PST119_trad",
+    "start": "620.670",
+    "end": "624.310",
+    "parent_tu_id": "436",
+    "text": "autista di questi del pullman che si rovescia"
+  },
+  {
+    "tu_id": "443",
+    "speaker": "PST119_trad",
+    "start": "638.220",
+    "end": "640.180",
+    "parent_tu_id": "442",
+    "text": "è vero non è vero questo non saprei"
+  },
+  {
+    "tu_id": "446",
+    "speaker": "PST119_trad",
+    "start": "645.920",
+    "end": "648.470",
+    "parent_tu_id": "445",
+    "text": "dio mio fuori fa così caldo"
+  },
+  {
+    "tu_id": "448",
+    "speaker": "PST119_trad",
+    "start": "648.930",
+    "end": "654.739",
+    "parent_tu_id": "447",
+    "text": "devo togliere questi piumini che è tu hai ancora il piumino o ho tutte queste (cose) e quella verde e"
+  },
+  {
+    "tu_id": "453",
+    "speaker": "PST119_trad",
+    "start": "656.780",
+    "end": "660.660",
+    "parent_tu_id": "452",
+    "text": "a massimo l'ho gia tolto questo che lui già suda poverino che muore di caldo"
+  },
+  {
+    "tu_id": "457",
+    "speaker": "PST120_trad",
+    "start": "664.620",
+    "end": "666.250",
+    "parent_tu_id": "456",
+    "text": "tu non parli troppo bene il romeno"
+  },
+  {
+    "tu_id": "460",
+    "speaker": "PST120_trad",
+    "start": "667.250",
+    "end": "670.440",
+    "parent_tu_id": "459",
+    "text": "quando ti metterai a studiarlo studi arabo e romeno"
+  },
+  {
+    "tu_id": "464",
+    "speaker": "PST118_trad",
+    "start": "676.901",
+    "end": "677.999",
+    "parent_tu_id": "463",
+    "text": "non sapr~"
+  },
+  {
+    "tu_id": "466",
+    "speaker": "PST119_trad",
+    "start": "678.760",
+    "end": "679.850",
+    "parent_tu_id": "465",
+    "text": "cosa cerchi"
+  },
+  {
+    "tu_id": "468",
+    "speaker": "PST118_trad",
+    "start": "680.880",
+    "end": "681.480",
+    "parent_tu_id": "467",
+    "text": "il pane"
+  },
+  {
+    "tu_id": "470",
+    "speaker": "PST119_trad",
+    "start": "681.555",
+    "end": "682.075",
+    "parent_tu_id": "469",
+    "text": "non è fuori?"
+  },
+  {
+    "tu_id": "474",
+    "speaker": "PST119_trad",
+    "start": "709.020",
+    "end": "712.250",
+    "parent_tu_id": "473",
+    "text": "credo che aveva già perso i sensi quando sono andati con"
+  },
+  {
+    "tu_id": "476",
+    "speaker": "PST120_trad",
+    "start": "712.235",
+    "end": "713.765",
+    "parent_tu_id": "475",
+    "text": "renditi conto che xxx male"
+  },
+  {
+    "tu_id": "478",
+    "speaker": "PST120_trad",
+    "start": "714.025",
+    "end": "717.195",
+    "parent_tu_id": "477",
+    "text": "li ha lasciati andare proprio dietro"
+  },
+  {
+    "tu_id": "481",
+    "speaker": "PST119_trad",
+    "start": "720.235",
+    "end": "722.285",
+    "parent_tu_id": "480",
+    "text": "normale se non c'era neanche un segno"
+  },
+  {
+    "tu_id": "483",
+    "speaker": "PST119_trad",
+    "start": "722.565",
+    "end": "724.995",
+    "parent_tu_id": "482",
+    "text": "di fr~ che frenava niente"
+  },
+  {
+    "tu_id": "485",
+    "speaker": "PST119_trad",
+    "start": "727.695",
+    "end": "730.505",
+    "parent_tu_id": "484",
+    "text": "menomale che non era con i bambini in auto non c'erano bambini"
+  },
+  {
+    "tu_id": "487",
+    "speaker": "PST119_trad",
+    "start": "730.650",
+    "end": "733.510",
+    "parent_tu_id": "486",
+    "text": "adesso che gli lasciava"
+  },
+  {
+    "tu_id": "490",
+    "speaker": "PST119_trad",
+    "start": "737.970",
+    "end": "739.380",
+    "parent_tu_id": "489",
+    "text": "xxx questo no ?"
+  },
+  {
+    "tu_id": "495",
+    "speaker": "PST119_trad",
+    "start": "746.620",
+    "end": "748.070",
+    "parent_tu_id": "494",
+    "text": ""
+  },
+  {
+    "tu_id": "497",
+    "speaker": "PST119_trad",
+    "start": "748.805",
+    "end": "750.075",
+    "parent_tu_id": "496",
+    "text": ""
+  },
+  {
+    "tu_id": "500",
+    "speaker": "PST119_trad",
+    "start": "752.550",
+    "end": "753.070",
+    "parent_tu_id": "499",
+    "text": "aspetta"
+  },
+  {
+    "tu_id": "505",
+    "speaker": "PST119_trad",
+    "start": "784.250",
+    "end": "785.880",
+    "parent_tu_id": "504",
+    "text": "sì ma non ho capito"
+  },
+  {
+    "tu_id": "507",
+    "speaker": "PST119_trad",
+    "start": "786.460",
+    "end": "788.300",
+    "parent_tu_id": "506",
+    "text": "non l'hanno detto non"
+  },
+  {
+    "tu_id": "509",
+    "speaker": "PST119_trad",
+    "start": "788.425",
+    "end": "789.155",
+    "parent_tu_id": "508",
+    "text": "no no"
+  },
+  {
+    "tu_id": "512",
+    "speaker": "PST119_trad",
+    "start": "792.150",
+    "end": "794.130",
+    "parent_tu_id": "511",
+    "text": "xxx è morto un uomo"
+  },
+  {
+    "tu_id": "514",
+    "speaker": "PST119_trad",
+    "start": "794.530",
+    "end": "796.820",
+    "parent_tu_id": "513",
+    "text": "ha una famiglia non è questo"
+  },
+  {
+    "tu_id": "518",
+    "speaker": "PST118_trad",
+    "start": "801.610",
+    "end": "803.160",
+    "parent_tu_id": "517",
+    "text": "ha quattro bambini"
+  },
+  {
+    "tu_id": "520",
+    "speaker": "PST119_trad",
+    "start": "802.640",
+    "end": "803.100",
+    "parent_tu_id": "519",
+    "text": "sì"
+  },
+  {
+    "tu_id": "522",
+    "speaker": "PST119_trad",
+    "start": "803.260",
+    "end": "806.310",
+    "parent_tu_id": "521",
+    "text": "i suoi dal primo matrimonio che non era con quella"
+  },
+  {
+    "tu_id": "524",
+    "speaker": "PST119_trad",
+    "start": "807.090",
+    "end": "809.190",
+    "parent_tu_id": "523",
+    "text": "solo con la moglie xxx"
+  },
+  {
+    "tu_id": "526",
+    "speaker": "PST119_trad",
+    "start": "809.540",
+    "end": "812.180",
+    "parent_tu_id": "525",
+    "text": "esattamente era come te ma c'era ancora un'altra piu piccola e una dopo di te"
+  },
+  {
+    "tu_id": "528",
+    "speaker": "PST118_trad",
+    "start": "812.080",
+    "end": "812.460",
+    "parent_tu_id": "527",
+    "text": "[#sì]"
+  },
+  {
+    "tu_id": "530",
+    "speaker": "PST119_trad",
+    "start": "812.235",
+    "end": "812.825",
+    "parent_tu_id": "529",
+    "text": "era piu grande"
+  },
+  {
+    "tu_id": "532",
+    "speaker": "PST119_trad",
+    "start": "813.475",
+    "end": "815.400",
+    "parent_tu_id": "531",
+    "text": "tre tre ragazze e un ragazzo"
+  },
+  {
+    "tu_id": "534",
+    "speaker": "PST118_trad",
+    "start": "813.477",
+    "end": "814.271",
+    "parent_tu_id": "533",
+    "text": "e"
+  },
+  {
+    "tu_id": "536",
+    "speaker": "PST118_trad",
+    "start": "815.380",
+    "end": "816.380",
+    "parent_tu_id": "535",
+    "text": "#_sì quattro"
+  },
+  {
+    "tu_id": "538",
+    "speaker": "PST119_trad",
+    "start": "816.965",
+    "end": "818.785",
+    "parent_tu_id": "537",
+    "text": "giacomo che va in classe con alessandro"
+  },
+  {
+    "tu_id": "541",
+    "speaker": "PST119_trad",
+    "start": "821.850",
+    "end": "823.130",
+    "parent_tu_id": "540",
+    "text": "sì ha cinque bambini"
+  },
+  {
+    "tu_id": "543",
+    "speaker": "PST119_trad",
+    "start": "824.285",
+    "end": "825.945",
+    "parent_tu_id": "542",
+    "text": "questo che (vive da solo)"
+  },
+  {
+    "tu_id": "545",
+    "speaker": "PST120_trad",
+    "start": "826.860",
+    "end": "828.080",
+    "parent_tu_id": "544",
+    "text": "non so chi sia"
+  },
+  {
+    "tu_id": "547",
+    "speaker": "PST119_trad",
+    "start": "828.140",
+    "end": "832.011",
+    "parent_tu_id": "546",
+    "text": "speriamo che non è xxx ad ogni modo è un padre di famiglia"
+  },
+  {
+    "tu_id": "549",
+    "speaker": "PST120_trad",
+    "start": "830.800",
+    "end": "833.370",
+    "parent_tu_id": "548",
+    "text": "loro li conoscevano ma io no"
+  },
+  {
+    "tu_id": "551",
+    "speaker": "PST119_trad",
+    "start": "833.615",
+    "end": "835.395",
+    "parent_tu_id": "550",
+    "text": ""
+  },
+  {
+    "tu_id": "553",
+    "speaker": "PST120_trad",
+    "start": "835.395",
+    "end": "837.345",
+    "parent_tu_id": "552",
+    "text": "parlavano in tre"
+  },
+  {
+    "tu_id": "560",
+    "speaker": "PST120_trad",
+    "start": "850.090",
+    "end": "851.080",
+    "parent_tu_id": "559",
+    "text": "mica sono di ferro"
+  },
+  {
+    "tu_id": "563",
+    "speaker": "PST119_trad",
+    "start": "852.500",
+    "end": "855.880",
+    "parent_tu_id": "562",
+    "text": "ma non è riuscito a spostarsi non è riuscito a"
+  },
+  {
+    "tu_id": "565",
+    "speaker": "PST120_trad",
+    "start": "854.720",
+    "end": "855.870",
+    "parent_tu_id": "564",
+    "text": "non so"
+  },
+  {
+    "tu_id": "568",
+    "speaker": "PST120_trad",
+    "start": "858.640",
+    "end": "866.330",
+    "parent_tu_id": "567",
+    "text": "forse lo conosco di vista"
+  },
+  {
+    "tu_id": "571",
+    "speaker": "PST119_trad",
+    "start": "866.940",
+    "end": "874.330",
+    "parent_tu_id": "570",
+    "text": "cioè non ho avuto immagini non riesco a capire quale è perche lo riconosco dal viso"
+  },
+  {
+    "tu_id": "573",
+    "speaker": "PST119_trad",
+    "start": "874.950",
+    "end": "876.250",
+    "parent_tu_id": "572",
+    "text": "che aspetto ha"
+  },
+  {
+    "tu_id": "575",
+    "speaker": "PST119_trad",
+    "start": "877.025",
+    "end": "882.245",
+    "parent_tu_id": "574",
+    "text": "di più a scuola lo conosco se vedevo la foto me ne rendevo conto"
+  },
+  {
+    "tu_id": "577",
+    "speaker": "PST120_trad",
+    "start": "880.960",
+    "end": "882.220",
+    "parent_tu_id": "576",
+    "text": "è uno con gli occhiali"
+  },
+  {
+    "tu_id": "580",
+    "speaker": "PST120_trad",
+    "start": "883.080",
+    "end": "884.450",
+    "parent_tu_id": "579",
+    "text": "no:: no"
+  },
+  {
+    "tu_id": "585",
+    "speaker": "PST120_trad",
+    "start": "888.680",
+    "end": "889.800",
+    "parent_tu_id": "584",
+    "text": "prendo il telefono"
+  },
+  {
+    "tu_id": "589",
+    "speaker": "PST119_trad",
+    "start": "892.250",
+    "end": "896.170",
+    "parent_tu_id": "588",
+    "text": "lascia stare potrebbe avere xxx"
+  },
+  {
+    "tu_id": "592",
+    "speaker": "PST119_trad",
+    "start": "896.722",
+    "end": "900.928",
+    "parent_tu_id": "591",
+    "text": "anche tu hai gli occhiali non li usi sempre ma hai gli occhiali"
+  },
+  {
+    "tu_id": "594",
+    "speaker": "PST119_trad",
+    "start": "902.745",
+    "end": "904.887",
+    "parent_tu_id": "593",
+    "text": "no non ero attenta quando"
+  },
+  {
+    "tu_id": "601",
+    "speaker": "PST119_trad",
+    "start": "912.525",
+    "end": "914.015",
+    "parent_tu_id": "600",
+    "text": "sì se lo vedi sì"
+  },
+  {
+    "tu_id": "603",
+    "speaker": "PST119_trad",
+    "start": "916.620",
+    "end": "918.870",
+    "parent_tu_id": "602",
+    "text": "se lo vedi lo conosci"
+  },
+  {
+    "tu_id": "606",
+    "speaker": "PST119_trad",
+    "start": "923.230",
+    "end": "925.400",
+    "parent_tu_id": "605",
+    "text": "ma anche questo il ragazzo no"
+  },
+  {
+    "tu_id": "609",
+    "speaker": "PST119_trad",
+    "start": "926.810",
+    "end": "927.430",
+    "parent_tu_id": "608",
+    "text": "#sì ma"
+  },
+  {
+    "tu_id": "611",
+    "speaker": "PST119_trad",
+    "start": "927.500",
+    "end": "929.570",
+    "parent_tu_id": "610",
+    "text": "ma è molto più nella scuola con me a scuola"
+  },
+  {
+    "tu_id": "620",
+    "speaker": "PST119_trad",
+    "start": "942.620",
+    "end": "944.550",
+    "parent_tu_id": "619",
+    "text": "#_presenta troppa scuola"
+  },
+  {
+    "tu_id": "622",
+    "speaker": "PST119_trad",
+    "start": "944.960",
+    "end": "947.440",
+    "parent_tu_id": "621",
+    "text": "che sanno le ragazze"
+  },
+  {
+    "tu_id": "626",
+    "speaker": "PST119_trad",
+    "start": "949.140",
+    "end": "950.500",
+    "parent_tu_id": "625",
+    "text": "#sì davvero?"
+  },
+  {
+    "tu_id": "628",
+    "speaker": "PST118_trad",
+    "start": "950.100",
+    "end": "950.510",
+    "parent_tu_id": "627",
+    "text": "#sì"
+  },
+  {
+    "tu_id": "630",
+    "speaker": "PST120_trad",
+    "start": "950.480",
+    "end": "951.640",
+    "parent_tu_id": "629",
+    "text": "ma quale stai dicendo tu"
+  },
+  {
+    "tu_id": "632",
+    "speaker": "PST120_trad",
+    "start": "953.075",
+    "end": "956.381",
+    "parent_tu_id": "631",
+    "text": "che è quello che sta da quella parte li"
+  },
+  {
+    "tu_id": "635",
+    "speaker": "PST119_trad",
+    "start": "955.985",
+    "end": "956.392",
+    "parent_tu_id": "634",
+    "text": "sì"
+  },
+  {
+    "tu_id": "638",
+    "speaker": "PST120_trad",
+    "start": "956.930",
+    "end": "960.660",
+    "parent_tu_id": "637",
+    "text": "ah non è quello no no questo è quello più"
+  },
+  {
+    "tu_id": "640",
+    "speaker": "PST120_trad",
+    "start": "960.730",
+    "end": "967.100",
+    "parent_tu_id": "639",
+    "text": "con la faccia pienotta e con gli occhiali no io so lul lui non lavorava lì al"
+  },
+  {
+    "tu_id": "642",
+    "speaker": "PST119_trad",
+    "start": "961.595",
+    "end": "963.095",
+    "parent_tu_id": "641",
+    "text": "ah lui è xxx così"
+  },
+  {
+    "tu_id": "645",
+    "speaker": "PST120_trad",
+    "start": "967.270",
+    "end": "970.510",
+    "parent_tu_id": "644",
+    "text": "qui al petronas lavorava"
+  },
+  {
+    "tu_id": "650",
+    "speaker": "PST119_trad",
+    "start": "971.520",
+    "end": "972.690",
+    "parent_tu_id": "649",
+    "text": "ha cinque figli"
+  },
+  {
+    "tu_id": "652",
+    "speaker": "PST120_trad",
+    "start": "972.690",
+    "end": "974.160",
+    "parent_tu_id": "651",
+    "text": "no no no no no"
+  },
+  {
+    "tu_id": "655",
+    "speaker": "PST119_trad",
+    "start": "974.330",
+    "end": "976.260",
+    "parent_tu_id": "654",
+    "text": "sembrava"
+  },
+  {
+    "tu_id": "659",
+    "speaker": "PST118_trad",
+    "start": "980.690",
+    "end": "981.300",
+    "parent_tu_id": "658",
+    "text": "#no"
+  },
+  {
+    "tu_id": "664",
+    "speaker": "PST119_trad",
+    "start": "989.870",
+    "end": "992.260",
+    "parent_tu_id": "663",
+    "text": "ah allora non è questa del"
+  },
+  {
+    "tu_id": "667",
+    "speaker": "PST120_trad",
+    "start": "994.570",
+    "end": "995.780",
+    "parent_tu_id": "666",
+    "text": "no no no"
+  },
+  {
+    "tu_id": "669",
+    "speaker": "PST119_trad",
+    "start": "996.320",
+    "end": "998.120",
+    "parent_tu_id": "668",
+    "text": "lui lavora al petronas"
+  },
+  {
+    "tu_id": "671",
+    "speaker": "PST120_trad",
+    "start": "998.100",
+    "end": "1000.062",
+    "parent_tu_id": "670",
+    "text": "lui qui al petronas"
+  },
+  {
+    "tu_id": "674",
+    "speaker": "PST119_trad",
+    "start": "1001.330",
+    "end": "1004.290",
+    "parent_tu_id": "673",
+    "text": "comunque sai neanche il ragazzo non va tanto a scuola"
+  },
+  {
+    "tu_id": "677",
+    "speaker": "PST119_trad",
+    "start": "1004.701",
+    "end": "1008.701",
+    "parent_tu_id": "676",
+    "text": "neanche massimo che l'anno scorso ha detto che era da bocciatura perchă aveva troppe assenze"
+  },
+  {
+    "tu_id": "682",
+    "speaker": "PST119_trad",
+    "start": "1014.110",
+    "end": "1015.830",
+    "parent_tu_id": "681",
+    "text": "ah sì li hanno appena aperto?"
+  },
+  {
+    "tu_id": "685",
+    "speaker": "PST119_trad",
+    "start": "1016.700",
+    "end": "1017.310",
+    "parent_tu_id": "684",
+    "text": "casa"
+  },
+  {
+    "tu_id": "687",
+    "speaker": "PST118_trad",
+    "start": "1017.285",
+    "end": "1017.665",
+    "parent_tu_id": "686",
+    "text": "sì"
+  },
+  {
+    "tu_id": "690",
+    "speaker": "PST119_trad",
+    "start": "1019.600",
+    "end": "1020.750",
+    "parent_tu_id": "689",
+    "text": "quella più grande"
+  },
+  {
+    "tu_id": "692",
+    "speaker": "PST119_trad",
+    "start": "1020.950",
+    "end": "1023.010",
+    "parent_tu_id": "691",
+    "text": "benedetta o quello piccolo"
+  },
+  {
+    "tu_id": "696",
+    "speaker": "PST118_trad",
+    "start": "1023.250",
+    "end": "1024.730",
+    "parent_tu_id": "695",
+    "text": "più grande benedetta"
+  },
+  {
+    "tu_id": "698",
+    "speaker": "PST119_trad",
+    "start": "1024.730",
+    "end": "1025.790",
+    "parent_tu_id": "697",
+    "text": "e chi è xxx"
+  },
+  {
+    "tu_id": "701",
+    "speaker": "PST118_trad",
+    "start": "1027.465",
+    "end": "1027.915",
+    "parent_tu_id": "700",
+    "text": "sì"
+  },
+  {
+    "tu_id": "703",
+    "speaker": "PST119_trad",
+    "start": "1027.920",
+    "end": "1029.090",
+    "parent_tu_id": "702",
+    "text": "e poi ha un altra ancora"
+  },
+  {
+    "tu_id": "707",
+    "speaker": "PST118_trad",
+    "start": "1030.730",
+    "end": "1031.850",
+    "parent_tu_id": "706",
+    "text": "ma credo che mai"
+  },
+  {
+    "tu_id": "709",
+    "speaker": "PST119_trad",
+    "start": "1036.370",
+    "end": "1038.930",
+    "parent_tu_id": "708",
+    "text": "ah non so non sei più andata lì al"
+  },
+  {
+    "tu_id": "712",
+    "speaker": "PST119_trad",
+    "start": "1040.940",
+    "end": "1045.120",
+    "parent_tu_id": "711",
+    "text": "al non al sport"
+  },
+  {
+    "tu_id": "716",
+    "speaker": "PST119_trad",
+    "start": "1050.160",
+    "end": "1053.480",
+    "parent_tu_id": "715",
+    "text": "con il progetto che dicevi quando inizi"
+  },
+  {
+    "tu_id": "718",
+    "speaker": "PST118_trad",
+    "start": "1052.875",
+    "end": "1053.405",
+    "parent_tu_id": "717",
+    "text": "a maggio"
+  },
+  {
+    "tu_id": "720",
+    "speaker": "PST119_trad",
+    "start": "1053.760",
+    "end": "1054.170",
+    "parent_tu_id": "719",
+    "text": "quando?"
+  },
+  {
+    "tu_id": "722",
+    "speaker": "PST118_trad",
+    "start": "1054.200",
+    "end": "1054.630",
+    "parent_tu_id": "721",
+    "text": "maggio"
+  },
+  {
+    "tu_id": "725",
+    "speaker": "PST119_trad",
+    "start": "1057.055",
+    "end": "1060.540",
+    "parent_tu_id": "724",
+    "text": "ah ho capito ho capito mai cioè che non vai più"
+  },
+  {
+    "tu_id": "730",
+    "speaker": "PST119_trad",
+    "start": "1067.783",
+    "end": "1072.206",
+    "parent_tu_id": "729",
+    "text": "invece per il servizio civile quello non ti hanno mai non ti hanno mai"
+  },
+  {
+    "tu_id": "733",
+    "speaker": "PST120_trad",
+    "start": "1071.230",
+    "end": "1074.040",
+    "parent_tu_id": "732",
+    "text": "devo chiedere a costin"
+  },
+  {
+    "tu_id": "735",
+    "speaker": "PST119_trad",
+    "start": "1076.030",
+    "end": "1076.930",
+    "parent_tu_id": "734",
+    "text": "a chi chiami"
+  },
+  {
+    "tu_id": "737",
+    "speaker": "PST120_trad",
+    "start": "1076.970",
+    "end": "1078.550",
+    "parent_tu_id": "736",
+    "text": "a questo costin"
+  },
+  {
+    "tu_id": "741",
+    "speaker": "PST119_trad",
+    "start": "1079.640",
+    "end": "1080.990",
+    "parent_tu_id": "740",
+    "text": "quello dove lavoravi"
+  },
+  {
+    "tu_id": "743",
+    "speaker": "PST119_trad",
+    "start": "1082.450",
+    "end": "1083.910",
+    "parent_tu_id": "742",
+    "text": "ah perché è lì"
+  },
+  {
+    "tu_id": "747",
+    "speaker": "PST120_trad",
+    "start": "1088.130",
+    "end": "1089.950",
+    "parent_tu_id": "746",
+    "text": "eh che hai ti disturbo"
+  },
+  {
+    "tu_id": "749",
+    "speaker": "PST120_trad",
+    "start": "1091.430",
+    "end": "1095.980",
+    "parent_tu_id": "748",
+    "text": "ma che è successo (ho sentito) le notizie al telegiornale piemonte"
+  },
+  {
+    "tu_id": "752",
+    "speaker": "PST120_trad",
+    "start": "1099.870",
+    "end": "1104.540",
+    "parent_tu_id": "751",
+    "text": "stavo cenando e ho appena visto al notiziario che  trasmettevano immagini da li"
+  },
+  {
+    "tu_id": "754",
+    "speaker": "PST120_trad",
+    "start": "1104.590",
+    "end": "1105.930",
+    "parent_tu_id": "753",
+    "text": "da lì da voi"
+  },
+  {
+    "tu_id": "756",
+    "speaker": "PST120_trad",
+    "start": "1106.075",
+    "end": "1107.715",
+    "parent_tu_id": "755",
+    "text": "che è successo lì?"
+  },
+  {
+    "tu_id": "758",
+    "speaker": "PST120_trad",
+    "start": "1109.140",
+    "end": "1112.170",
+    "parent_tu_id": "757",
+    "text": "ma come ma lo conoscevi?"
+  },
+  {
+    "tu_id": "761",
+    "speaker": "PST118_trad",
+    "start": "1113.010",
+    "end": "1114.180",
+    "parent_tu_id": "760",
+    "text": "ancora dieci minuti"
+  },
+  {
+    "tu_id": "763",
+    "speaker": "PST120_trad",
+    "start": "1115.980",
+    "end": "1117.080",
+    "parent_tu_id": "762",
+    "text": "ma come mai"
+  },
+  {
+    "tu_id": "765",
+    "speaker": "PST120_trad",
+    "start": "1118.495",
+    "end": "1123.225",
+    "parent_tu_id": "764",
+    "text": "eh non mi ricordo perché non hanno messo foto non hanno messo foto"
+  },
+  {
+    "tu_id": "767",
+    "speaker": "PST120_trad",
+    "start": "1124.635",
+    "end": "1128.300",
+    "parent_tu_id": "766",
+    "text": "hanno trasmesso solo così la notizia sai e con foto di là da"
+  },
+  {
+    "tu_id": "769",
+    "speaker": "PST120_trad",
+    "start": "1128.982",
+    "end": "1130.402",
+    "parent_tu_id": "768",
+    "text": "ma cos'è successo?"
+  },
+  {
+    "tu_id": "771",
+    "speaker": "PST118_trad",
+    "start": "1133.376",
+    "end": "1133.871",
+    "parent_tu_id": "770",
+    "text": "sì"
+  },
+  {
+    "tu_id": "775",
+    "speaker": "PST120_trad",
+    "start": "1134.722",
+    "end": "1136.960",
+    "parent_tu_id": "774",
+    "text": "dove dove erano queste"
+  },
+  {
+    "tu_id": "784",
+    "speaker": "PST118_trad",
+    "start": "1143.814",
+    "end": "1144.381",
+    "parent_tu_id": "783",
+    "text": "sì"
+  },
+  {
+    "tu_id": "790",
+    "speaker": "PST118_trad",
+    "start": "1149.412",
+    "end": "1149.990",
+    "parent_tu_id": "789",
+    "text": "sì"
+  },
+  {
+    "tu_id": "792",
+    "speaker": "PST120_trad",
+    "start": "1150.650",
+    "end": "1154.830",
+    "parent_tu_id": "791",
+    "text": "ah lì dove depositavano loro in quella parte dietro li tutte"
+  },
+  {
+    "tu_id": "795",
+    "speaker": "PST118_trad",
+    "start": "1157.135",
+    "end": "1158.735",
+    "parent_tu_id": "794",
+    "text": "non vanno d'accordo"
+  },
+  {
+    "tu_id": "797",
+    "speaker": "PST119_trad",
+    "start": "1158.950",
+    "end": "1160.630",
+    "parent_tu_id": "796",
+    "text": "ma erano amici"
+  },
+  {
+    "tu_id": "799",
+    "speaker": "PST118_trad",
+    "start": "1160.645",
+    "end": "1161.216",
+    "parent_tu_id": "798",
+    "text": "sì sì"
+  },
+  {
+    "tu_id": "802",
+    "speaker": "PST118_trad",
+    "start": "1164.480",
+    "end": "1165.420",
+    "parent_tu_id": "801",
+    "text": "non so perché"
+  },
+  {
+    "tu_id": "804",
+    "speaker": "PST118_trad",
+    "start": "1165.535",
+    "end": "1168.015",
+    "parent_tu_id": "803",
+    "text": "cioè sì so perché ma"
+  },
+  {
+    "tu_id": "808",
+    "speaker": "PST118_trad",
+    "start": "1172.051",
+    "end": "1172.628",
+    "parent_tu_id": "807",
+    "text": "sì"
+  },
+  {
+    "tu_id": "811",
+    "speaker": "PST119_trad",
+    "start": "1176.110",
+    "end": "1177.710",
+    "parent_tu_id": "810",
+    "text": "ma secondo te è vero"
+  },
+  {
+    "tu_id": "813",
+    "speaker": "PST118_trad",
+    "start": "1177.985",
+    "end": "1178.454",
+    "parent_tu_id": "812",
+    "text": "sì"
+  },
+  {
+    "tu_id": "815",
+    "speaker": "PST120_trad",
+    "start": "1178.470",
+    "end": "1181.230",
+    "parent_tu_id": "814",
+    "text": "vi è successo qualcosa avete qualche colpa"
+  },
+  {
+    "tu_id": "817",
+    "speaker": "PST119_trad",
+    "start": "1181.385",
+    "end": "1185.785",
+    "parent_tu_id": "816",
+    "text": "ma è cambiata nel senso che è cambiata del tutto o è cambiata solo con"
+  },
+  {
+    "tu_id": "821",
+    "speaker": "PST118_trad",
+    "start": "1189.440",
+    "end": "1190.790",
+    "parent_tu_id": "820",
+    "text": "è stata più con lui"
+  },
+  {
+    "tu_id": "823",
+    "speaker": "PST120_trad",
+    "start": "1190.790",
+    "end": "1193.700",
+    "parent_tu_id": "822",
+    "text": "eravamo a tavola e ho visto questa sera alla"
+  },
+  {
+    "tu_id": "826",
+    "speaker": "PST118_trad",
+    "start": "1194.530",
+    "end": "1199.620",
+    "parent_tu_id": "825",
+    "text": "dice che non vuole socializzare con nessuno lì all'università"
+  },
+  {
+    "tu_id": "829",
+    "speaker": "PST118_trad",
+    "start": "1200.170",
+    "end": "1200.910",
+    "parent_tu_id": "828",
+    "text": "sì"
+  },
+  {
+    "tu_id": "831",
+    "speaker": "PST118_trad",
+    "start": "1201.115",
+    "end": "1201.595",
+    "parent_tu_id": "830",
+    "text": "con nessuno"
+  },
+  {
+    "tu_id": "834",
+    "speaker": "PST118_trad",
+    "start": "1205.400",
+    "end": "1211.210",
+    "parent_tu_id": "833",
+    "text": "con robi e con sandra e basta"
+  },
+  {
+    "tu_id": "837",
+    "speaker": "PST118_trad",
+    "start": "1212.070",
+    "end": "1214.773",
+    "parent_tu_id": "836",
+    "text": "sì ma normale ma non"
+  },
+  {
+    "tu_id": "839",
+    "speaker": "PST118_trad",
+    "start": "1214.945",
+    "end": "1215.615",
+    "parent_tu_id": "838",
+    "text": "non vuole"
+  },
+  {
+    "tu_id": "842",
+    "speaker": "PST118_trad",
+    "start": "1216.670",
+    "end": "1218.144",
+    "parent_tu_id": "841",
+    "text": "solo tra di loro"
+  },
+  {
+    "tu_id": "847",
+    "speaker": "PST118_trad",
+    "start": "1226.320",
+    "end": "1227.330",
+    "parent_tu_id": "846",
+    "text": "non so"
+  },
+  {
+    "tu_id": "851",
+    "speaker": "PST120_trad",
+    "start": "1233.020",
+    "end": "1237.010",
+    "parent_tu_id": "850",
+    "text": "ha detto che c'erano dietro lì dei container"
+  },
+  {
+    "tu_id": "853",
+    "speaker": "PST120_trad",
+    "start": "1237.090",
+    "end": "1241.090",
+    "parent_tu_id": "852",
+    "text": "dove loro depositano tutti i tipi di campioni di questo genere sai e"
+  },
+  {
+    "tu_id": "855",
+    "speaker": "PST120_trad",
+    "start": "1241.185",
+    "end": "1242.705",
+    "parent_tu_id": "854",
+    "text": "quegli armadi sono"
+  },
+  {
+    "tu_id": "857",
+    "speaker": "PST120_trad",
+    "start": "1242.785",
+    "end": "1246.620",
+    "parent_tu_id": "856",
+    "text": "scaffali di ferro sai e ha detto che"
+  },
+  {
+    "tu_id": "859",
+    "speaker": "PST120_trad",
+    "start": "1247.397",
+    "end": "1252.660",
+    "parent_tu_id": "858",
+    "text": "ehm cati mi ha detto che è andato venerdi e ha fatto li non so cosa doveva fare e"
+  },
+  {
+    "tu_id": "861",
+    "speaker": "PST120_trad",
+    "start": "1252.843",
+    "end": "1255.043",
+    "parent_tu_id": "860",
+    "text": "è rimasto da spostare quegli armadi"
+  },
+  {
+    "tu_id": "863",
+    "speaker": "PST120_trad",
+    "start": "1255.288",
+    "end": "1259.268",
+    "parent_tu_id": "862",
+    "text": "oggi domani o quelli ed è andato questo lì e sono caduti gli armadi su di lui"
+  },
+  {
+    "tu_id": "867",
+    "speaker": "PST120_trad",
+    "start": "1261.243",
+    "end": "1263.753",
+    "parent_tu_id": "866",
+    "text": "mi ha detto che stanno indagando per"
+  },
+  {
+    "tu_id": "869",
+    "speaker": "PST120_trad",
+    "start": "1263.953",
+    "end": "1265.813",
+    "parent_tu_id": "868",
+    "text": "vedere cos'è successo"
+  },
+  {
+    "tu_id": "871",
+    "speaker": "PST120_trad",
+    "start": "1266.718",
+    "end": "1268.278",
+    "parent_tu_id": "870",
+    "text": "vedi che lo sapevo ma"
+  },
+  {
+    "tu_id": "873",
+    "speaker": "PST120_trad",
+    "start": "1268.753",
+    "end": "1270.853",
+    "parent_tu_id": "872",
+    "text": "impossibile che"
+  },
+  {
+    "tu_id": "875",
+    "speaker": "PST119_trad",
+    "start": "1270.208",
+    "end": "1272.408",
+    "parent_tu_id": "874",
+    "text": "ah ma tu la conoscevi"
+  },
+  {
+    "tu_id": "877",
+    "speaker": "PST120_trad",
+    "start": "1272.440",
+    "end": "1277.520",
+    "parent_tu_id": "876",
+    "text": "ma vabbè quanto sto lì io non mi ricordo di"
+  },
+  {
+    "tu_id": "880",
+    "speaker": "PST119_trad",
+    "start": "1284.470",
+    "end": "1285.060",
+    "parent_tu_id": "879",
+    "text": "ma non lo è"
+  },
+  {
+    "tu_id": "890",
+    "speaker": "PST120_trad",
+    "start": "1302.340",
+    "end": "1304.980",
+    "parent_tu_id": "889",
+    "text": "gliel'ho chiesto a costi ha detto che non lo sa"
+  },
+  {
+    "tu_id": "894",
+    "speaker": "PST119_trad",
+    "start": "1313.124",
+    "end": "1316.880",
+    "parent_tu_id": "893",
+    "text": "è pesante quello che fa lì con lui"
+  },
+  {
+    "tu_id": "896",
+    "speaker": "PST120_trad",
+    "start": "1316.885",
+    "end": "1320.435",
+    "parent_tu_id": "895",
+    "text": "non ti ho detto quello che gli è successo a quello"
+  },
+  {
+    "tu_id": "898",
+    "speaker": "PST120_trad",
+    "start": "1320.475",
+    "end": "1322.465",
+    "parent_tu_id": "897",
+    "text": "gli è caduto quel sacco addosso"
+  },
+  {
+    "tu_id": "900",
+    "speaker": "PST120_trad",
+    "start": "1323.145",
+    "end": "1325.765",
+    "parent_tu_id": "899",
+    "text": "davanti a me sono rimasto pietrificato"
+  },
+  {
+    "tu_id": "902",
+    "speaker": "PST120_trad",
+    "start": "1325.800",
+    "end": "1327.530",
+    "parent_tu_id": "901",
+    "text": "si è rotto dai tre metri"
+  },
+  {
+    "tu_id": "904",
+    "speaker": "PST120_trad",
+    "start": "1327.590",
+    "end": "1332.440",
+    "parent_tu_id": "903",
+    "text": "con la gru ha preso i sacchi xx chili di pietra"
+  },
+  {
+    "tu_id": "906",
+    "speaker": "PST120_trad",
+    "start": "1332.804",
+    "end": "1334.590",
+    "parent_tu_id": "905",
+    "text": "per metterli in un filtro di quelli"
+  },
+  {
+    "tu_id": "908",
+    "speaker": "PST120_trad",
+    "start": "1334.765",
+    "end": "1338.315",
+    "parent_tu_id": "907",
+    "text": "e questo si è spostato dal xxx dalla fossa"
+  },
+  {
+    "tu_id": "910",
+    "speaker": "PST120_trad",
+    "start": "1338.520",
+    "end": "1342.660",
+    "parent_tu_id": "909",
+    "text": "in quel serbatoio si è spostato sulla scala ma penso che lo ha spostato qualcuno"
+  },
+  {
+    "tu_id": "912",
+    "speaker": "PST120_trad",
+    "start": "1343.095",
+    "end": "1345.735",
+    "parent_tu_id": "911",
+    "text": "ha avuto fortuna perchă se rimaneva lì"
+  },
+  {
+    "tu_id": "914",
+    "speaker": "PST120_trad",
+    "start": "1345.830",
+    "end": "1349.750",
+    "parent_tu_id": "913",
+    "text": "cadeva il sacco esattamente in testa lo faceva a pezzi"
+  },
+  {
+    "tu_id": "916",
+    "speaker": "PST120_trad",
+    "start": "1349.965",
+    "end": "1353.645",
+    "parent_tu_id": "915",
+    "text": "e non aveva da dire sai quei sacchi di"
+  },
+  {
+    "tu_id": "918",
+    "speaker": "PST120_trad",
+    "start": "1353.710",
+    "end": "1358.460",
+    "parent_tu_id": "917",
+    "text": "grandi che non che si sono rotti due perché hanno quattro"
+  },
+  {
+    "tu_id": "920",
+    "speaker": "PST119_trad",
+    "start": "1354.740",
+    "end": "1355.307",
+    "parent_tu_id": "919",
+    "text": "sì sì"
+  },
+  {
+    "tu_id": "922",
+    "speaker": "PST120_trad",
+    "start": "1358.570",
+    "end": "1360.290",
+    "parent_tu_id": "921",
+    "text": "quattro di questi hanno quattro agganci no?"
+  },
+  {
+    "tu_id": "924",
+    "speaker": "PST120_trad",
+    "start": "1360.405",
+    "end": "1363.205",
+    "parent_tu_id": "923",
+    "text": "metti che si sono rotte due o uno o tre"
+  },
+  {
+    "tu_id": "926",
+    "speaker": "PST120_trad",
+    "start": "1363.370",
+    "end": "1366.720",
+    "parent_tu_id": "925",
+    "text": "se rimaneva così non tutti"
+  },
+  {
+    "tu_id": "928",
+    "speaker": "PST118_trad",
+    "start": "1364.401",
+    "end": "1365.020",
+    "parent_tu_id": "927",
+    "text": "tutti"
+  },
+  {
+    "tu_id": "930",
+    "speaker": "PST120_trad",
+    "start": "1367.920",
+    "end": "1370.680",
+    "parent_tu_id": "929",
+    "text": "dopo lui scherzava"
+  },
+  {
+    "tu_id": "932",
+    "speaker": "PST120_trad",
+    "start": "1370.715",
+    "end": "1374.635",
+    "parent_tu_id": "931",
+    "text": "lì qualcuno gli ha messo la mano addosso che ha quattro bambini da"
+  },
+  {
+    "tu_id": "934",
+    "speaker": "PST120_trad",
+    "start": "1374.860",
+    "end": "1375.940",
+    "parent_tu_id": "933",
+    "text": "da crescere"
+  },
+  {
+    "tu_id": "937",
+    "speaker": "PST120_trad",
+    "start": "1379.144",
+    "end": "1383.990",
+    "parent_tu_id": "936",
+    "text": "e ci sono molte cose alle quali per esempio non devi sottostare"
+  },
+  {
+    "tu_id": "939",
+    "speaker": "PST120_trad",
+    "start": "1384.067",
+    "end": "1386.474",
+    "parent_tu_id": "938",
+    "text": "alle norme di sicurezza"
+  },
+  {
+    "tu_id": "941",
+    "speaker": "PST120_trad",
+    "start": "1386.617",
+    "end": "1387.727",
+    "parent_tu_id": "940",
+    "text": "non devi sottostare"
+  },
+  {
+    "tu_id": "943",
+    "speaker": "PST119_trad",
+    "start": "1390.007",
+    "end": "1391.867",
+    "parent_tu_id": "942",
+    "text": "penso che è ovvio che non puoi sottostare"
+  },
+  {
+    "tu_id": "945",
+    "speaker": "PST119_trad",
+    "start": "1393.260",
+    "end": "1397.402",
+    "parent_tu_id": "944",
+    "text": "sotto a un carico"
+  },
+  {
+    "tu_id": "947",
+    "speaker": "PST120_trad",
+    "start": "1394.505",
+    "end": "1403.480",
+    "parent_tu_id": "946",
+    "text": "no mai questi che xxx che li mandano li da noi hanno detto che anche se li vedi xxx di queste hanno detto che"
+  },
+  {
+    "tu_id": "949",
+    "speaker": "PST120_trad",
+    "start": "1403.580",
+    "end": "1408.600",
+    "parent_tu_id": "948",
+    "text": "non puoi sapere se puș cedere e non te ne accorgi che"
+  },
+  {
+    "tu_id": "951",
+    "speaker": "PST120_trad",
+    "start": "1409.485",
+    "end": "1413.740",
+    "parent_tu_id": "950",
+    "text": "ha detto non stare mai lascia stare se si rompe o si guasta"
+  },
+  {
+    "tu_id": "953",
+    "speaker": "PST120_trad",
+    "start": "1414.186",
+    "end": "1416.907",
+    "parent_tu_id": "952",
+    "text": "non puoi farci nulla si paga si fa un altro"
+  },
+  {
+    "tu_id": "955",
+    "speaker": "PST120_trad",
+    "start": "1416.972",
+    "end": "1418.532",
+    "parent_tu_id": "954",
+    "text": "ha detto che"
+  },
+  {
+    "tu_id": "960",
+    "speaker": "PST120_trad",
+    "start": "1425.580",
+    "end": "1427.940",
+    "parent_tu_id": "959",
+    "text": "forse lo conosco con gli occhiali"
+  },
+  {
+    "tu_id": "963",
+    "speaker": "PST119_trad",
+    "start": "1434.720",
+    "end": "1438.210",
+    "parent_tu_id": "962",
+    "text": "di vista forse se lo vedi"
+  },
+  {
+    "tu_id": "965",
+    "speaker": "PST119_trad",
+    "start": "1440.190",
+    "end": "1442.290",
+    "parent_tu_id": "964",
+    "text": "hai lavorato lì un anno di vista"
+  },
+  {
+    "tu_id": "970",
+    "speaker": "PST120_trad",
+    "start": "1467.330",
+    "end": "1469.907",
+    "parent_tu_id": "969",
+    "text": "#sì ti ho detto che mi volevano bene ma"
+  },
+  {
+    "tu_id": "973",
+    "speaker": "PST120_trad",
+    "start": "1471.160",
+    "end": "1472.280",
+    "parent_tu_id": "972",
+    "text": "no no no"
+  },
+  {
+    "tu_id": "975",
+    "speaker": "PST120_trad",
+    "start": "1473.565",
+    "end": "1476.855",
+    "parent_tu_id": "974",
+    "text": "penso che lavorava per greenthesis in quella parte"
+  },
+  {
+    "tu_id": "977",
+    "speaker": "PST119_trad",
+    "start": "1475.556",
+    "end": "1475.752",
+    "parent_tu_id": "976",
+    "text": "sì"
+  },
+  {
+    "tu_id": "979",
+    "speaker": "PST119_trad",
+    "start": "1477.545",
+    "end": "1481.705",
+    "parent_tu_id": "978",
+    "text": "no perche se ha lavorato anche qui"
+  },
+  {
+    "tu_id": "982",
+    "speaker": "PST119_trad",
+    "start": "1485.670",
+    "end": "1487.590",
+    "parent_tu_id": "981",
+    "text": "l'hanno buttato nell'altra parte"
+  },
+  {
+    "tu_id": "984",
+    "speaker": "PST119_trad",
+    "start": "1488.755",
+    "end": "1489.815",
+    "parent_tu_id": "983",
+    "text": "non c'entrava nulla"
+  },
+  {
+    "tu_id": "987",
+    "speaker": "PST120_trad",
+    "start": "1497.490",
+    "end": "1498.970",
+    "parent_tu_id": "986",
+    "text": "massimo non viene più"
+  },
+  {
+    "tu_id": "993",
+    "speaker": "PST120_trad",
+    "start": "1504.390",
+    "end": "1505.040",
+    "parent_tu_id": "992",
+    "text": "come?"
+  },
+  {
+    "tu_id": "995",
+    "speaker": "PST118_trad",
+    "start": "1505.040",
+    "end": "1505.860",
+    "parent_tu_id": "994",
+    "text": "meglio"
+  },
+  {
+    "tu_id": "998",
+    "speaker": "PST120_trad",
+    "start": "1508.225",
+    "end": "1508.905",
+    "parent_tu_id": "997",
+    "text": "che ha fatto"
+  },
+  {
+    "tu_id": "1003",
+    "speaker": "PST119_trad",
+    "start": "1521.990",
+    "end": "1522.800",
+    "parent_tu_id": "1002",
+    "text": "per me"
+  },
+  {
+    "tu_id": "1005",
+    "speaker": "PST119_trad",
+    "start": "1523.130",
+    "end": "1526.050",
+    "parent_tu_id": "1004",
+    "text": "sopratutto le cimici guarda penso che non piangerà nessuno per le cimici"
+  },
+  {
+    "tu_id": "1007",
+    "speaker": "PST118_trad",
+    "start": "1526.045",
+    "end": "1527.105",
+    "parent_tu_id": "1006",
+    "text": "ah no no non credo"
+  },
+  {
+    "tu_id": "1011",
+    "speaker": "PST119_trad",
+    "start": "1528.670",
+    "end": "1532.100",
+    "parent_tu_id": "1010",
+    "text": "mamma mia ma sappi che ancora non ho visto così tante quest'anno"
+  },
+  {
+    "tu_id": "1014",
+    "speaker": "PST119_trad",
+    "start": "1532.510",
+    "end": "1534.510",
+    "parent_tu_id": "1013",
+    "text": "che è venuto questo caldo imprevisto"
+  },
+  {
+    "tu_id": "1016",
+    "speaker": "PST119_trad",
+    "start": "1534.635",
+    "end": "1536.755",
+    "parent_tu_id": "1015",
+    "text": "e sai cos altro ho visto di rado"
+  },
+  {
+    "tu_id": "1018",
+    "speaker": "PST119_trad",
+    "start": "1536.790",
+    "end": "1537.520",
+    "parent_tu_id": "1017",
+    "text": "mosche"
+  },
+  {
+    "tu_id": "1020",
+    "speaker": "PST118_trad",
+    "start": "1536.790",
+    "end": "1537.520",
+    "parent_tu_id": "1019",
+    "text": "zanzare"
+  },
+  {
+    "tu_id": "1022",
+    "speaker": "PST119_trad",
+    "start": "1537.690",
+    "end": "1538.170",
+    "parent_tu_id": "1021",
+    "text": "non so"
+  },
+  {
+    "tu_id": "1024",
+    "speaker": "PST119_trad",
+    "start": "1538.225",
+    "end": "1539.655",
+    "parent_tu_id": "1023",
+    "text": "ma soprattutto #mosche"
+  },
+  {
+    "tu_id": "1026",
+    "speaker": "PST118_trad",
+    "start": "1539.820",
+    "end": "1540.450",
+    "parent_tu_id": "1025",
+    "text": "ah sì"
+  },
+  {
+    "tu_id": "1028",
+    "speaker": "PST119_trad",
+    "start": "1540.470",
+    "end": "1542.130",
+    "parent_tu_id": "1027",
+    "text": "hai preso queste mamma mia"
+  },
+  {
+    "tu_id": "1031",
+    "speaker": "PST119_trad",
+    "start": "1544.215",
+    "end": "1547.245",
+    "parent_tu_id": "1030",
+    "text": "soprattutto con questo caldo imprevisto così"
+  },
+  {
+    "tu_id": "1033",
+    "speaker": "PST119_trad",
+    "start": "1547.629",
+    "end": "1552.235",
+    "parent_tu_id": "1032",
+    "text": "c'erano un sacco di mosche si svegliavano al anche zanzare come dici tu ma"
+  },
+  {
+    "tu_id": "1035",
+    "speaker": "PST118_trad",
+    "start": "1553.250",
+    "end": "1555.420",
+    "parent_tu_id": "1034",
+    "text": "ma sai cos'ho visto fuori vespe"
+  },
+  {
+    "tu_id": "1042",
+    "speaker": "PST118_trad",
+    "start": "1558.755",
+    "end": "1559.095",
+    "parent_tu_id": "1041",
+    "text": "sì"
+  },
+  {
+    "tu_id": "1047",
+    "speaker": "PST119_trad",
+    "start": "1566.020",
+    "end": "1567.880",
+    "parent_tu_id": "1046",
+    "text": "no non le ho viste"
+  },
+  {
+    "tu_id": "1049",
+    "speaker": "PST119_trad",
+    "start": "1567.975",
+    "end": "1570.412",
+    "parent_tu_id": "1048",
+    "text": "strano che ho viste poche poche"
+  },
+  {
+    "tu_id": "1051",
+    "speaker": "PST119_trad",
+    "start": "1571.450",
+    "end": "1573.780",
+    "parent_tu_id": "1050",
+    "text": "poche mosche e zanzare"
+  },
+  {
+    "tu_id": "1053",
+    "speaker": "PST119_trad",
+    "start": "1574.280",
+    "end": "1576.110",
+    "parent_tu_id": "1052",
+    "text": "e cimici"
+  },
+  {
+    "tu_id": "1055",
+    "speaker": "PST119_trad",
+    "start": "1576.140",
+    "end": "1578.140",
+    "parent_tu_id": "1054",
+    "text": "ricordati che c'era un anno"
+  },
+  {
+    "tu_id": "1057",
+    "speaker": "PST119_trad",
+    "start": "1578.395",
+    "end": "1584.640",
+    "parent_tu_id": "1056",
+    "text": "quando queste cimici non"
+  },
+  {
+    "tu_id": "1060",
+    "speaker": "PST118_trad",
+    "start": "1589.050",
+    "end": "1589.490",
+    "parent_tu_id": "1059",
+    "text": "no"
+  },
+  {
+    "tu_id": "1062",
+    "speaker": "PST119_trad",
+    "start": "1591.500",
+    "end": "1592.250",
+    "parent_tu_id": "1061",
+    "text": "poco"
+  },
+  {
+    "tu_id": "1065",
+    "speaker": "PST119_trad",
+    "start": "1593.935",
+    "end": "1594.805",
+    "parent_tu_id": "1064",
+    "text": "sei uscito fuori?"
+  },
+  {
+    "tu_id": "1069",
+    "speaker": "PST119_trad",
+    "start": "1601.670",
+    "end": "1603.402",
+    "parent_tu_id": "1068",
+    "text": "mh ti fa male la gola?"
+  },
+  {
+    "tu_id": "1071",
+    "speaker": "PST118_trad",
+    "start": "1603.880",
+    "end": "1604.920",
+    "parent_tu_id": "1070",
+    "text": "prendi un po' di"
+  },
+  {
+    "tu_id": "1073",
+    "speaker": "PST118_trad",
+    "start": "1605.505",
+    "end": "1606.065",
+    "parent_tu_id": "1072",
+    "text": "miele"
+  },
+  {
+    "tu_id": "1076",
+    "speaker": "PST119_trad",
+    "start": "1607.190",
+    "end": "1610.490",
+    "parent_tu_id": "1075",
+    "text": "ha ragione aurora un cucchiaino di miele"
+  },
+  {
+    "tu_id": "1079",
+    "speaker": "PST119_trad",
+    "start": "1613.405",
+    "end": "1617.400",
+    "parent_tu_id": "1078",
+    "text": "se no c'è questo sciroppo di piantaggine che ho comprato quando avevo mal di gola"
+  },
+  {
+    "tu_id": "1084",
+    "speaker": "PST119_trad",
+    "start": "1627.360",
+    "end": "1630.110",
+    "parent_tu_id": "1083",
+    "text": "e li sopra? dov'è lo sciroppo di piantaggine che"
+  },
+  {
+    "tu_id": "1086",
+    "speaker": "PST120_trad",
+    "start": "1630.090",
+    "end": "1631.670",
+    "parent_tu_id": "1085",
+    "text": "non so da quella parte"
+  },
+  {
+    "tu_id": "1088",
+    "speaker": "PST120_trad",
+    "start": "1631.890",
+    "end": "1633.260",
+    "parent_tu_id": "1087",
+    "text": "tè o"
+  },
+  {
+    "tu_id": "1090",
+    "speaker": "PST119_trad",
+    "start": "1633.990",
+    "end": "1634.820",
+    "parent_tu_id": "1089",
+    "text": "tè?"
+  },
+  {
+    "tu_id": "1092",
+    "speaker": "PST118_trad",
+    "start": "1633.990",
+    "end": "1634.820",
+    "parent_tu_id": "1091",
+    "text": "tè?"
+  },
+  {
+    "tu_id": "1095",
+    "speaker": "PST120_trad",
+    "start": "1640.240",
+    "end": "1642.000",
+    "parent_tu_id": "1094",
+    "text": "e dietro di là"
+  },
+  {
+    "tu_id": "1098",
+    "speaker": "PST118_trad",
+    "start": "1652.340",
+    "end": "1654.910",
+    "parent_tu_id": "1097",
+    "text": "ma l'orologio qui non ă stato impostato in avanti no?"
+  },
+  {
+    "tu_id": "1100",
+    "speaker": "PST120_trad",
+    "start": "1655.730",
+    "end": "1657.320",
+    "parent_tu_id": "1099",
+    "text": "non so come sta li sotto"
+  },
+  {
+    "tu_id": "1107",
+    "speaker": "PST119_trad",
+    "start": "1680.810",
+    "end": "1682.080",
+    "parent_tu_id": "1106",
+    "text": "qui non c'è"
+  },
+  {
+    "tu_id": "1117",
+    "speaker": "PST119_trad",
+    "start": "1703.480",
+    "end": "1707.530",
+    "parent_tu_id": "1116",
+    "text": "io non so più lo sciroppo di piantaggine non so di piantaggine"
+  },
+  {
+    "tu_id": "1121",
+    "speaker": "PST119_trad",
+    "start": "1716.530",
+    "end": "1720.670",
+    "parent_tu_id": "1120",
+    "text": "no qui tutte sono cadute per terra tutte"
+  },
+  {
+    "tu_id": "1125",
+    "speaker": "PST119_trad",
+    "start": "1725.820",
+    "end": "1727.910",
+    "parent_tu_id": "1124",
+    "text": "chi ha messo la mano qui e si è messo"
+  },
+  {
+    "tu_id": "1130",
+    "speaker": "PST118_trad",
+    "start": "1738.460",
+    "end": "1740.320",
+    "parent_tu_id": "1129",
+    "text": "qua non c'è nulla"
+  },
+  {
+    "tu_id": "1132",
+    "speaker": "PST119_trad",
+    "start": "1741.275",
+    "end": "1743.135",
+    "parent_tu_id": "1131",
+    "text": "dove hai visto"
+  },
+  {
+    "tu_id": "1134",
+    "speaker": "PST120_trad",
+    "start": "1745.412",
+    "end": "1746.690",
+    "parent_tu_id": "1133",
+    "text": "lì da quella parte"
+  },
+  {
+    "tu_id": "1136",
+    "speaker": "PST118_trad",
+    "start": "1747.480",
+    "end": "1749.050",
+    "parent_tu_id": "1135",
+    "text": "non c'è nulla"
+  },
+  {
+    "tu_id": "1138",
+    "speaker": "PST119_trad",
+    "start": "1749.160",
+    "end": "1752.200",
+    "parent_tu_id": "1137",
+    "text": "nessuno sciroppo né di piantaggine né di altro"
+  },
+  {
+    "tu_id": "1140",
+    "speaker": "PST120_trad",
+    "start": "1752.245",
+    "end": "1753.745",
+    "parent_tu_id": "1139",
+    "text": "c'era quando l'hai comprato"
+  },
+  {
+    "tu_id": "1146",
+    "speaker": "PST120_trad",
+    "start": "1757.711",
+    "end": "1760.299",
+    "parent_tu_id": "1145",
+    "text": "che cazzo ne so io se e ancora buono o no"
+  },
+  {
+    "tu_id": "1155",
+    "speaker": "PST118_trad",
+    "start": "1771.600",
+    "end": "1772.390",
+    "parent_tu_id": "1154",
+    "text": ""
+  },
+  {
+    "tu_id": "1157",
+    "speaker": "PST119_trad",
+    "start": "1773.430",
+    "end": "1774.258",
+    "parent_tu_id": "1156",
+    "text": ""
+  },
+  {
+    "tu_id": "1159",
+    "speaker": "PST120_trad",
+    "start": "1774.278",
+    "end": "1776.887",
+    "parent_tu_id": "1158",
+    "text": ""
+  },
+  {
+    "tu_id": "1161",
+    "speaker": "PST119_trad",
+    "start": "1776.948",
+    "end": "1778.783",
+    "parent_tu_id": "1160",
+    "text": ""
+  },
+  {
+    "tu_id": "1163",
+    "speaker": "PST120_trad",
+    "start": "1778.783",
+    "end": "1780.247",
+    "parent_tu_id": "1162",
+    "text": ""
+  },
+  {
+    "tu_id": "1165",
+    "speaker": "PST120_trad",
+    "start": "1780.470",
+    "end": "1781.890",
+    "parent_tu_id": "1164",
+    "text": "a stomaco vuoto"
+  },
+  {
+    "tu_id": "1167",
+    "speaker": "PST120_trad",
+    "start": "1785.180",
+    "end": "1785.800",
+    "parent_tu_id": "1166",
+    "text": ""
+  },
+  {
+    "tu_id": "1169",
+    "speaker": "PST120_trad",
+    "start": "1786.900",
+    "end": "1788.640",
+    "parent_tu_id": "1168",
+    "text": ""
+  },
+  {
+    "tu_id": "1172",
+    "speaker": "PST119_trad",
+    "start": "1791.510",
+    "end": "1793.660",
+    "parent_tu_id": "1171",
+    "text": ""
+  },
+  {
+    "tu_id": "1174",
+    "speaker": "PST120_trad",
+    "start": "1792.860",
+    "end": "1795.549",
+    "parent_tu_id": "1173",
+    "text": ""
+  },
+  {
+    "tu_id": "1177",
+    "speaker": "PST119_trad",
+    "start": "1797.420",
+    "end": "1799.390",
+    "parent_tu_id": "1176",
+    "text": "xx per xx"
+  },
+  {
+    "tu_id": "1179",
+    "speaker": "PST119_trad",
+    "start": "1799.690",
+    "end": "1801.910",
+    "parent_tu_id": "1178",
+    "text": "eh gonfiore stomaco"
+  },
+  {
+    "tu_id": "1181",
+    "speaker": "PST119_trad",
+    "start": "1802.300",
+    "end": "1803.110",
+    "parent_tu_id": "1180",
+    "text": ""
+  },
+  {
+    "tu_id": "1183",
+    "speaker": "??_trad",
+    "start": "1802.660",
+    "end": "1803.120",
+    "parent_tu_id": "1182",
+    "text": ""
+  },
+  {
+    "tu_id": "1185",
+    "speaker": "PST120_trad",
+    "start": "1803.423",
+    "end": "1805.820",
+    "parent_tu_id": "1184",
+    "text": ""
+  },
+  {
+    "tu_id": "1187",
+    "speaker": "PST118_trad",
+    "start": "1805.980",
+    "end": "1807.410",
+    "parent_tu_id": "1186",
+    "text": "ma cos'è la piantaggine?"
+  },
+  {
+    "tu_id": "1189",
+    "speaker": "PST119_trad",
+    "start": "1808.020",
+    "end": "1809.830",
+    "parent_tu_id": "1188",
+    "text": "la piantaggine e una pianta"
+  },
+  {
+    "tu_id": "1191",
+    "speaker": "PST120_trad",
+    "start": "1810.000",
+    "end": "1811.270",
+    "parent_tu_id": "1190",
+    "text": "piantaggine"
+  },
+  {
+    "tu_id": "1194",
+    "speaker": "PST120_trad",
+    "start": "1812.930",
+    "end": "1814.720",
+    "parent_tu_id": "1193",
+    "text": "è il pomodoro verde aurora"
+  },
+  {
+    "tu_id": "1201",
+    "speaker": "PST120_trad",
+    "start": "1821.570",
+    "end": "1822.484",
+    "parent_tu_id": "1200",
+    "text": "o pianta"
+  },
+  {
+    "tu_id": "1204",
+    "speaker": "PST120_trad",
+    "start": "1823.580",
+    "end": "1825.830",
+    "parent_tu_id": "1203",
+    "text": "neanche sai cos'è la piantaggine"
+  },
+  {
+    "tu_id": "1208",
+    "speaker": "PST119_trad",
+    "start": "1829.160",
+    "end": "1831.270",
+    "parent_tu_id": "1207",
+    "text": "no io sapevo la piantaggine"
+  },
+  {
+    "tu_id": "1212",
+    "speaker": "PST120_trad",
+    "start": "1834.090",
+    "end": "1835.350",
+    "parent_tu_id": "1211",
+    "text": "guarda guarda questa"
+  },
+  {
+    "tu_id": "1214",
+    "speaker": "PST118_trad",
+    "start": "1835.536",
+    "end": "1836.588",
+    "parent_tu_id": "1213",
+    "text": "è camomilla"
+  },
+  {
+    "tu_id": "1218",
+    "speaker": "PST120_trad",
+    "start": "1841.390",
+    "end": "1847.140",
+    "parent_tu_id": "1217",
+    "text": "l'hai preso tu per te"
+  },
+  {
+    "tu_id": "1220",
+    "speaker": "PST119_trad",
+    "start": "1842.550",
+    "end": "1844.990",
+    "parent_tu_id": "1219",
+    "text": "ma dove l'hai trovato dove dove"
+  },
+  {
+    "tu_id": "1224",
+    "speaker": "PST119_trad",
+    "start": "1849.546",
+    "end": "1852.050",
+    "parent_tu_id": "1223",
+    "text": "io so che è finito di piantaggine"
+  },
+  {
+    "tu_id": "1226",
+    "speaker": "PST120_trad",
+    "start": "1852.195",
+    "end": "1853.435",
+    "parent_tu_id": "1225",
+    "text": "l'hai bevuto tu tutto"
+  },
+  {
+    "tu_id": "1228",
+    "speaker": "PST119_trad",
+    "start": "1853.480",
+    "end": "1855.440",
+    "parent_tu_id": "1227",
+    "text": "tu l'hai bevuto tutto non io"
+  },
+  {
+    "tu_id": "1230",
+    "speaker": "PST119_trad",
+    "start": "1855.465",
+    "end": "1857.785",
+    "parent_tu_id": "1229",
+    "text": "sapevo che è finito"
+  },
+  {
+    "tu_id": "1232",
+    "speaker": "PST120_trad",
+    "start": "1858.080",
+    "end": "1859.860",
+    "parent_tu_id": "1231",
+    "text": "l'ho visto da qualche parte l'ho visto"
+  },
+  {
+    "tu_id": "1234",
+    "speaker": "PST119_trad",
+    "start": "1859.925",
+    "end": "1862.825",
+    "parent_tu_id": "1233",
+    "text": "chissà quando l'hai visto tu"
+  },
+  {
+    "tu_id": "1236",
+    "speaker": "PST119_trad",
+    "start": "1862.950",
+    "end": "1864.300",
+    "parent_tu_id": "1235",
+    "text": "chissà quando l'hai visto"
+  },
+  {
+    "tu_id": "1238",
+    "speaker": "PST119_trad",
+    "start": "1866.110",
+    "end": "1867.348",
+    "parent_tu_id": "1237",
+    "text": "non  l'hai visto ora"
+  }
+]

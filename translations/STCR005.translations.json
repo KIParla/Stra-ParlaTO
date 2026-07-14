@@ -1,0 +1,82 @@
+[
+  {
+    "tu_id": "15",
+    "speaker": "PST083_trad",
+    "start": "63.070",
+    "end": "68.980",
+    "parent_tu_id": "14",
+    "text": "poi per esempio c'è mia mamma che nella stanza della nonna che c'è di là"
+  },
+  {
+    "tu_id": "329",
+    "speaker": "PST083_trad",
+    "start": "877.800",
+    "end": "878.890",
+    "parent_tu_id": "328",
+    "text": "sul tavolo"
+  },
+  {
+    "tu_id": "389",
+    "speaker": "PST100_trad",
+    "start": "1080.720",
+    "end": "1081.130",
+    "parent_tu_id": "388",
+    "text": "banco"
+  },
+  {
+    "tu_id": "433",
+    "speaker": "PST100_trad",
+    "start": "1208.210",
+    "end": "1210.490",
+    "parent_tu_id": "432",
+    "text": "@mirela dai"
+  },
+  {
+    "tu_id": "552",
+    "speaker": "PST092_trad",
+    "start": "1580.690",
+    "end": "1581.305",
+    "parent_tu_id": "551",
+    "text": "gli avanzati"
+  },
+  {
+    "tu_id": "554",
+    "speaker": "PST087_trad",
+    "start": "1581.850",
+    "end": "1586.740",
+    "parent_tu_id": "553",
+    "text": "sì non proprio gli avanzati perà tipo anche che ne so @iacob @anita la signora @ecaterina"
+  },
+  {
+    "tu_id": "587",
+    "speaker": "PST092_trad",
+    "start": "1673.930",
+    "end": "1681.310",
+    "parent_tu_id": "586",
+    "text": "e dopo danza magari andavano in sala di #nonni a vedere le mamme come cucivano e appunto c'è anche tipo quest'attività che sarebbe proprio cucire a mano"
+  },
+  {
+    "tu_id": "734",
+    "speaker": "PST092_trad",
+    "start": "2113.400",
+    "end": "2115.830",
+    "parent_tu_id": "733",
+    "text": "impazzire"
+  },
+  {
+    "tu_id": "769",
+    "speaker": "PST100_trad",
+    "start": "2213.450",
+    "end": "2217.390",
+    "parent_tu_id": "768",
+    "text": "se mai tornerò ovviamente se non muoio prima"
+  },
+  {
+    "tu_id": "919",
+    "speaker": "PST092_trad",
+    "start": "2681.370",
+    "end": "2683.070",
+    "parent_tu_id": "918",
+    "text": "san giorgio"
+  }
+]

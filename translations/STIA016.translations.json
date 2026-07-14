@@ -1,0 +1,194 @@
+[
+  {
+    "tu_id": "2",
+    "speaker": "PST233_trad",
+    "start": "6.000",
+    "end": "7.790",
+    "parent_tu_id": "1",
+    "text": "inizio a parlare in"
+  },
+  {
+    "tu_id": "4",
+    "speaker": "PST233_trad",
+    "start": "8.140",
+    "end": "9.330",
+    "parent_tu_id": "3",
+    "text": "in italiano"
+  },
+  {
+    "tu_id": "6",
+    "speaker": "PST078_trad",
+    "start": "9.660",
+    "end": "10.200",
+    "parent_tu_id": "5",
+    "text": "ti capirò"
+  },
+  {
+    "tu_id": "10",
+    "speaker": "PST233_trad",
+    "start": "15.540",
+    "end": "16.070",
+    "parent_tu_id": "9",
+    "text": "capisci così?"
+  },
+  {
+    "tu_id": "12",
+    "speaker": "PST078_trad",
+    "start": "16.720",
+    "end": "18.990",
+    "parent_tu_id": "11",
+    "text": "sì, però con moderazione"
+  },
+  {
+    "tu_id": "14",
+    "speaker": "PST078_trad",
+    "start": "19.460",
+    "end": "23.230",
+    "parent_tu_id": "13",
+    "text": "il nostro italiano è da mercanti"
+  },
+  {
+    "tu_id": "16",
+    "speaker": "PST078_trad",
+    "start": "24.340",
+    "end": "25.460",
+    "parent_tu_id": "15",
+    "text": "eh non"
+  },
+  {
+    "tu_id": "18",
+    "speaker": "PST233_trad",
+    "start": "26.590",
+    "end": "27.400",
+    "parent_tu_id": "17",
+    "text": "va bene"
+  },
+  {
+    "tu_id": "22",
+    "speaker": "PST078_trad",
+    "start": "34.590",
+    "end": "36.000",
+    "parent_tu_id": "21",
+    "text": "parlami"
+  },
+  {
+    "tu_id": "24",
+    "speaker": "??_trad",
+    "start": "36.140",
+    "end": "37.330",
+    "parent_tu_id": "23",
+    "text": "nome"
+  },
+  {
+    "tu_id": "32",
+    "speaker": "??_trad",
+    "start": "53.080",
+    "end": "55.580",
+    "parent_tu_id": "31",
+    "text": "parla per stessa"
+  },
+  {
+    "tu_id": "42",
+    "speaker": "PST078_trad",
+    "start": "77.980",
+    "end": "79.280",
+    "parent_tu_id": "41",
+    "text": "vai vai (lit. affidati a dio)"
+  },
+  {
+    "tu_id": "278",
+    "speaker": "PST233_trad",
+    "start": "698.880",
+    "end": "699.800",
+    "parent_tu_id": "277",
+    "text": "vivere in italia è faticoso (lit. l'italia delle fatiche)"
+  },
+  {
+    "tu_id": "280",
+    "speaker": "PST078_trad",
+    "start": "700.050",
+    "end": "701.950",
+    "parent_tu_id": "279",
+    "text": "scrivi ciò che potrebbe andare bene"
+  },
+  {
+    "tu_id": "452",
+    "speaker": "??_trad",
+    "start": "1194.180",
+    "end": "1195.440",
+    "parent_tu_id": "451",
+    "text": "ma..."
+  },
+  {
+    "tu_id": "457",
+    "speaker": "??_trad",
+    "start": "1209.620",
+    "end": "1210.810",
+    "parent_tu_id": "456",
+    "text": "cioè se"
+  },
+  {
+    "tu_id": "459",
+    "speaker": "??_trad",
+    "start": "1211.910",
+    "end": "1212.640",
+    "parent_tu_id": "458",
+    "text": "ti sei integrata con"
+  },
+  {
+    "tu_id": "461",
+    "speaker": "PST078_trad",
+    "start": "1216.430",
+    "end": "1219.370",
+    "parent_tu_id": "460",
+    "text": "sì mi sono integrata con gli italiani"
+  },
+  {
+    "tu_id": "465",
+    "speaker": "PST078_trad",
+    "start": "1225.520",
+    "end": "1226.060",
+    "parent_tu_id": "464",
+    "text": "bene"
+  },
+  {
+    "tu_id": "467",
+    "speaker": "PST078_trad",
+    "start": "1227.300",
+    "end": "1229.230",
+    "parent_tu_id": "466",
+    "text": "bene, sono loro le persone brave"
+  },
+  {
+    "tu_id": "469",
+    "speaker": "PST233_trad",
+    "start": "1229.220",
+    "end": "1230.360",
+    "parent_tu_id": "468",
+    "text": "in italiano"
+  },
+  {
+    "tu_id": "527",
+    "speaker": "PST233_trad",
+    "start": "1384.330",
+    "end": "1385.145",
+    "parent_tu_id": "526",
+    "text": "basta"
+  },
+  {
+    "tu_id": "529",
+    "speaker": "PST233_trad",
+    "start": "1385.710",
+    "end": "1386.710",
+    "parent_tu_id": "528",
+    "text": "hai raccontato tutto"
+  },
+  {
+    "tu_id": "531",
+    "speaker": "PST078_trad",
+    "start": "1386.890",
+    "end": "1391.760",
+    "parent_tu_id": "530",
+    "text": "abbiamo raccontato tutto quelllo che ci è venuto in mente"
+  }
+]

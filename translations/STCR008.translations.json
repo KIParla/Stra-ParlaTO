@@ -1,0 +1,690 @@
+[
+  {
+    "tu_id": "58",
+    "speaker": "??_trad",
+    "start": "159.220",
+    "end": "160.300",
+    "parent_tu_id": "57",
+    "text": "più sotto"
+  },
+  {
+    "tu_id": "111",
+    "speaker": "PST100_trad",
+    "start": "262.490",
+    "end": "271.410",
+    "parent_tu_id": "110",
+    "text": "solo che non so questo quanto è xxx si vede coerente xxx dopo che è avanti e indietro"
+  },
+  {
+    "tu_id": "156",
+    "speaker": "PST085_trad",
+    "start": "412.820",
+    "end": "415.390",
+    "parent_tu_id": "155",
+    "text": "appena le hai  detto basta le si è rotto il cuore secondo me"
+  },
+  {
+    "tu_id": "301",
+    "speaker": "PST092_trad",
+    "start": "790.650",
+    "end": "793.720",
+    "parent_tu_id": "300",
+    "text": "la cosa del signore sì"
+  },
+  {
+    "tu_id": "303",
+    "speaker": "PST211_trad",
+    "start": "792.700",
+    "end": "793.330",
+    "parent_tu_id": "302",
+    "text": "consolato"
+  },
+  {
+    "tu_id": "351",
+    "speaker": "PST083_trad",
+    "start": "903.650",
+    "end": "904.541",
+    "parent_tu_id": "350",
+    "text": "oddio"
+  },
+  {
+    "tu_id": "354",
+    "speaker": "PST085_trad",
+    "start": "905.670",
+    "end": "910.569",
+    "parent_tu_id": "353",
+    "text": "eh giovedì fino a che ora puoi fare che alle quattro e mezzo c'è danza"
+  },
+  {
+    "tu_id": "357",
+    "speaker": "PST083_trad",
+    "start": "913.540",
+    "end": "915.630",
+    "parent_tu_id": "356",
+    "text": "aspetta di cosa stiam parlando dell'intervista alla signora @ecaterina?"
+  },
+  {
+    "tu_id": "381",
+    "speaker": "PST092_trad",
+    "start": "952.450",
+    "end": "954.890",
+    "parent_tu_id": "380",
+    "text": "parlo io con signor @cosmin gli chiedo se potete balzare"
+  },
+  {
+    "tu_id": "386",
+    "speaker": "PST083_trad",
+    "start": "961.295",
+    "end": "965.990",
+    "parent_tu_id": "385",
+    "text": "ma cioè se è solo xxx secondo me cioè poi puoi dire anche alla signora @ecaterina di chiederglielo se glielo dice lei figurati"
+  },
+  {
+    "tu_id": "429",
+    "speaker": "PST092_trad",
+    "start": "1045.150",
+    "end": "1048.395",
+    "parent_tu_id": "428",
+    "text": "eh ma ha canto la signora @ecaterina mentre noi facciamo questa cosa"
+  },
+  {
+    "tu_id": "444",
+    "speaker": "PST092_trad",
+    "start": "1071.480",
+    "end": "1078.270",
+    "parent_tu_id": "443",
+    "text": "il sabato penso sia il giorno più occupato della signora @ecaterina cioè o glielo chiediamo"
+  },
+  {
+    "tu_id": "466",
+    "speaker": "PST092_trad",
+    "start": "1109.110",
+    "end": "1112.170",
+    "parent_tu_id": "465",
+    "text": "così che la signora @ecaterina fa tutto in una e non la occupiamo più giorni"
+  },
+  {
+    "tu_id": "553",
+    "speaker": "PST100_trad",
+    "start": "1275.365",
+    "end": "1276.355",
+    "parent_tu_id": "552",
+    "text": "che telecamere avete?"
+  },
+  {
+    "tu_id": "565",
+    "speaker": "PST085_trad",
+    "start": "1302.875",
+    "end": "1304.605",
+    "parent_tu_id": "564",
+    "text": "uh caro mio amore"
+  },
+  {
+    "tu_id": "575",
+    "speaker": "PST100_trad",
+    "start": "1321.830",
+    "end": "1327.400",
+    "parent_tu_id": "574",
+    "text": "quindi devi pensare che hai solo una xxx perchă una è fissa"
+  },
+  {
+    "tu_id": "577",
+    "speaker": "PST092_trad",
+    "start": "1327.430",
+    "end": "1331.870",
+    "parent_tu_id": "576",
+    "text": "una fissa penso telecamera quella quella mh sì quella buona"
+  },
+  {
+    "tu_id": "597",
+    "speaker": "PST100_trad",
+    "start": "1375.020",
+    "end": "1378.440",
+    "parent_tu_id": "596",
+    "text": "una volta insieme e dopo si fa"
+  },
+  {
+    "tu_id": "600",
+    "speaker": "PST100_trad",
+    "start": "1378.575",
+    "end": "1381.566",
+    "parent_tu_id": "599",
+    "text": "cambi tu e dopo @anita okay"
+  },
+  {
+    "tu_id": "603",
+    "speaker": "PST100_trad",
+    "start": "1381.945",
+    "end": "1383.785",
+    "parent_tu_id": "602",
+    "text": "o se no fa solo xx"
+  },
+  {
+    "tu_id": "613",
+    "speaker": "PST100_trad",
+    "start": "1397.106",
+    "end": "1397.601",
+    "parent_tu_id": "612",
+    "text": "tu sei"
+  },
+  {
+    "tu_id": "616",
+    "speaker": "PST100_trad",
+    "start": "1398.120",
+    "end": "1399.280",
+    "parent_tu_id": "615",
+    "text": "a destra"
+  },
+  {
+    "tu_id": "618",
+    "speaker": "PST100_trad",
+    "start": "1399.400",
+    "end": "1403.190",
+    "parent_tu_id": "617",
+    "text": "allora chi"
+  },
+  {
+    "tu_id": "621",
+    "speaker": "PST100_trad",
+    "start": "1404.789",
+    "end": "1408.237",
+    "parent_tu_id": "620",
+    "text": "prima riprende da sinistra e dopo riprende da destra"
+  },
+  {
+    "tu_id": "626",
+    "speaker": "PST100_trad",
+    "start": "1413.000",
+    "end": "1416.610",
+    "parent_tu_id": "625",
+    "text": "così riprende effettivamente @ecaterina"
+  },
+  {
+    "tu_id": "715",
+    "speaker": "PST092_trad",
+    "start": "1659.776",
+    "end": "1662.260",
+    "parent_tu_id": "714",
+    "text": "tipo in rumeno quella con il signore del consolato"
+  },
+  {
+    "tu_id": "718",
+    "speaker": "PST092_trad",
+    "start": "1663.570",
+    "end": "1664.870",
+    "parent_tu_id": "717",
+    "text": "il signore del consolato"
+  },
+  {
+    "tu_id": "771",
+    "speaker": "PST100_trad",
+    "start": "1796.171",
+    "end": "1799.566",
+    "parent_tu_id": "770",
+    "text": "e la signora @ecaterina risponde tranquillamente in rumeno"
+  },
+  {
+    "tu_id": "793",
+    "speaker": "PST100_trad",
+    "start": "1873.930",
+    "end": "1878.490",
+    "parent_tu_id": "792",
+    "text": "oppure di che zona sei come avete fatto con me da dove vieni vengo da"
+  },
+  {
+    "tu_id": "852",
+    "speaker": "PST092_trad",
+    "start": "2027.750",
+    "end": "2032.640",
+    "parent_tu_id": "851",
+    "text": "eh per la roba invece del signore del consolato ehm chiederò alla signora @ecaterina poi"
+  },
+  {
+    "tu_id": "871",
+    "speaker": "PST100_trad",
+    "start": "2074.450",
+    "end": "2075.370",
+    "parent_tu_id": "870",
+    "text": "dillo in romeno"
+  },
+  {
+    "tu_id": "873",
+    "speaker": "PST100_trad",
+    "start": "2075.435",
+    "end": "2076.045",
+    "parent_tu_id": "872",
+    "text": "che traduco"
+  },
+  {
+    "tu_id": "875",
+    "speaker": "PST092_trad",
+    "start": "2076.045",
+    "end": "2078.505",
+    "parent_tu_id": "874",
+    "text": ""
+  },
+  {
+    "tu_id": "877",
+    "speaker": "PST092_trad",
+    "start": "2078.550",
+    "end": "2082.363",
+    "parent_tu_id": "876",
+    "text": ""
+  },
+  {
+    "tu_id": "924",
+    "speaker": "PST211_trad",
+    "start": "2175.375",
+    "end": "2181.988",
+    "parent_tu_id": "923",
+    "text": "e poi passate queste tre cose la settimana successiva magari organizziamo la l'intervista al consolato"
+  },
+  {
+    "tu_id": "1011",
+    "speaker": "PST100_trad",
+    "start": "2385.530",
+    "end": "2387.200",
+    "parent_tu_id": "1010",
+    "text": "io mi sono tolta un dente da sola"
+  },
+  {
+    "tu_id": "1015",
+    "speaker": "PST100_trad",
+    "start": "2391.488",
+    "end": "2392.310",
+    "parent_tu_id": "1014",
+    "text": "qua"
+  },
+  {
+    "tu_id": "1020",
+    "speaker": "PST092_trad",
+    "start": "2402.513",
+    "end": "2405.570",
+    "parent_tu_id": "1019",
+    "text": "dove lo avet~ dal signor @cosmin?"
+  },
+  {
+    "tu_id": "1041",
+    "speaker": "PST100_trad",
+    "start": "2457.207",
+    "end": "2458.487",
+    "parent_tu_id": "1040",
+    "text": "@ilaria (.) sì?"
+  },
+  {
+    "tu_id": "1072",
+    "speaker": "PST100_trad",
+    "start": "2537.011",
+    "end": "2539.023",
+    "parent_tu_id": "1071",
+    "text": "sai che se ti becca"
+  },
+  {
+    "tu_id": "1074",
+    "speaker": "PST092_trad",
+    "start": "2539.022",
+    "end": "2540.270",
+    "parent_tu_id": "1073",
+    "text": "si ti mette la nota"
+  },
+  {
+    "tu_id": "1076",
+    "speaker": "PST100_trad",
+    "start": "2540.476",
+    "end": "2544.848",
+    "parent_tu_id": "1075",
+    "text": "non solo la nota ma può anche farti denuncia"
+  },
+  {
+    "tu_id": "1080",
+    "speaker": "PST100_trad",
+    "start": "2551.105",
+    "end": "2555.977",
+    "parent_tu_id": "1079",
+    "text": "zitta zitta non dire niente perché non si sa mai"
+  },
+  {
+    "tu_id": "1104",
+    "speaker": "PST100_trad",
+    "start": "2633.004",
+    "end": "2634.472",
+    "parent_tu_id": "1103",
+    "text": "si vede sul muso"
+  },
+  {
+    "tu_id": "1115",
+    "speaker": "PST100_trad",
+    "start": "2662.936",
+    "end": "2663.936",
+    "parent_tu_id": "1114",
+    "text": "buongiorno sì"
+  },
+  {
+    "tu_id": "1117",
+    "speaker": "PST100_trad",
+    "start": "2665.701",
+    "end": "2666.233",
+    "parent_tu_id": "1116",
+    "text": "ciao"
+  },
+  {
+    "tu_id": "1120",
+    "speaker": "PST092_trad",
+    "start": "2666.720",
+    "end": "2668.032",
+    "parent_tu_id": "1119",
+    "text": "ciao o ciao"
+  },
+  {
+    "tu_id": "1122",
+    "speaker": "PST100_trad",
+    "start": "2668.087",
+    "end": "2668.638",
+    "parent_tu_id": "1121",
+    "text": "ciao"
+  },
+  {
+    "tu_id": "1148",
+    "speaker": "PST100_trad",
+    "start": "2714.031",
+    "end": "2714.628",
+    "parent_tu_id": "1147",
+    "text": "ragazza"
+  },
+  {
+    "tu_id": "1150",
+    "speaker": "PST092_trad",
+    "start": "2714.756",
+    "end": "2715.196",
+    "parent_tu_id": "1149",
+    "text": "donna"
+  },
+  {
+    "tu_id": "1152",
+    "speaker": "PST100_trad",
+    "start": "2715.362",
+    "end": "2716.307",
+    "parent_tu_id": "1151",
+    "text": "o donna"
+  },
+  {
+    "tu_id": "1161",
+    "speaker": "PST100_trad",
+    "start": "2727.252",
+    "end": "2729.656",
+    "parent_tu_id": "1160",
+    "text": "aspetta un attimo"
+  },
+  {
+    "tu_id": "1215",
+    "speaker": "PST092_trad",
+    "start": "2827.375",
+    "end": "2831.656",
+    "parent_tu_id": "1214",
+    "text": "no ma i~ io e @anita abbiamo gli stessi padrini ci hanno battezzato le stesse persone (.) padrini"
+  },
+  {
+    "tu_id": "1234",
+    "speaker": "PST092_trad",
+    "start": "2857.509",
+    "end": "2858.307",
+    "parent_tu_id": "1233",
+    "text": "dei padrini"
+  },
+  {
+    "tu_id": "1279",
+    "speaker": "PST100_trad",
+    "start": "2962.160",
+    "end": "2964.766",
+    "parent_tu_id": "1278",
+    "text": "dio santo"
+  },
+  {
+    "tu_id": "1315",
+    "speaker": "PST100_trad",
+    "start": "3036.546",
+    "end": "3038.647",
+    "parent_tu_id": "1314",
+    "text": "sfântul gheorghe ci sono tanti magiari"
+  },
+  {
+    "tu_id": "1320",
+    "speaker": "PST100_trad",
+    "start": "3047.363",
+    "end": "3054.876",
+    "parent_tu_id": "1319",
+    "text": "ed è divertente magari entrare in un negozio di magiari che di di ti parla in ungherese e tu sei come?"
+  },
+  {
+    "tu_id": "1331",
+    "speaker": "??_trad",
+    "start": "3069.988",
+    "end": "3070.829",
+    "parent_tu_id": "1330",
+    "text": "ungherese"
+  },
+  {
+    "tu_id": "1343",
+    "speaker": "PST100_trad",
+    "start": "3101.757",
+    "end": "3109.316",
+    "parent_tu_id": "1342",
+    "text": "contate anche questa cosa che per noi che siamo cresciuti qui è divertente sentirlo ma sinceramente anche io sento che"
+  },
+  {
+    "tu_id": "1345",
+    "speaker": "PST100_trad",
+    "start": "3109.453",
+    "end": "3113.674",
+    "parent_tu_id": "1344",
+    "text": "sai sei in romania perché parli in ungherese parla in romeno se proprio"
+  },
+  {
+    "tu_id": "1347",
+    "speaker": "??_trad",
+    "start": "3114.077",
+    "end": "3117.921",
+    "parent_tu_id": "1346",
+    "text": "quando tu parli in romeno e loro rispondono in ungherese"
+  },
+  {
+    "tu_id": "1349",
+    "speaker": "PST100_trad",
+    "start": "3117.912",
+    "end": "3121.829",
+    "parent_tu_id": "1348",
+    "text": "no è brutto sì è:: ma quando"
+  },
+  {
+    "tu_id": "1352",
+    "speaker": "PST100_trad",
+    "start": "3121.954",
+    "end": "3129.958",
+    "parent_tu_id": "1351",
+    "text": "ma quando racconta mamma o papà è simpatico ridiamo insieme non sapete cosa significa effettivamente"
+  },
+  {
+    "tu_id": "1358",
+    "speaker": "PST092_trad",
+    "start": "3138.041",
+    "end": "3142.187",
+    "parent_tu_id": "1357",
+    "text": "come si dice in rumeno bellissimo"
+  },
+  {
+    "tu_id": "1363",
+    "speaker": "PST092_trad",
+    "start": "3149.031",
+    "end": "3154.940",
+    "parent_tu_id": "1362",
+    "text": "interrogazioni (.) l:a verifica di italiano un tema in italiano l'ho fatto sul centro l'ho scritto in rumeno"
+  },
+  {
+    "tu_id": "1373",
+    "speaker": "PST100_trad",
+    "start": "3180.766",
+    "end": "3186.636",
+    "parent_tu_id": "1372",
+    "text": "no io ho il problema che so parlare capisco quello che dicono so leggere ma non so scrivere"
+  },
+  {
+    "tu_id": "1375",
+    "speaker": "PST100_trad",
+    "start": "3188.435",
+    "end": "3191.151",
+    "parent_tu_id": "1374",
+    "text": "mi sta qui questa cosa"
+  },
+  {
+    "tu_id": "1389",
+    "speaker": "PST092_trad",
+    "start": "3227.215",
+    "end": "3230.142",
+    "parent_tu_id": "1388",
+    "text": "è arrivato @ilaria ma sai che mihai eminescu"
+  },
+  {
+    "tu_id": "1391",
+    "speaker": "PST092_trad",
+    "start": "3230.252",
+    "end": "3237.136",
+    "parent_tu_id": "1390",
+    "text": "ha scritto la più lunga poesia della storia la più lunga della storia vuoi che te la leggo"
+  },
+  {
+    "tu_id": "1394",
+    "speaker": "PST092_trad",
+    "start": "3240.517",
+    "end": "3244.976",
+    "parent_tu_id": "1393",
+    "text": "sì lucifero è così lunga vuoi che te la leggo NO"
+  },
+  {
+    "tu_id": "1397",
+    "speaker": "PST092_trad",
+    "start": "3247.087",
+    "end": "3249.840",
+    "parent_tu_id": "1396",
+    "text": "sai che è la più lunga della storia"
+  },
+  {
+    "tu_id": "1400",
+    "speaker": "PST092_trad",
+    "start": "3252.693",
+    "end": "3257.050",
+    "parent_tu_id": "1399",
+    "text": "uno ha scritto è la poesia migliore del mondo"
+  },
+  {
+    "tu_id": "1402",
+    "speaker": "PST100_trad",
+    "start": "3257.050",
+    "end": "3261.408",
+    "parent_tu_id": "1401",
+    "text": "no mamma ha partecipato ai campionati della letteratura romena"
+  },
+  {
+    "tu_id": "1404",
+    "speaker": "PST100_trad",
+    "start": "3261.743",
+    "end": "3263.527",
+    "parent_tu_id": "1403",
+    "text": "e quando è a tavola inizia a raccontare"
+  },
+  {
+    "tu_id": "1408",
+    "speaker": "PST100_trad",
+    "start": "3267.375",
+    "end": "3275.351",
+    "parent_tu_id": "1407",
+    "text": "quando io dopo un giorno di università sto lì che voglio dormire non capisco né il romeno né l'italiano e mamma mi dice"
+  },
+  {
+    "tu_id": "1410",
+    "speaker": "PST100_trad",
+    "start": "3276.234",
+    "end": "3279.151",
+    "parent_tu_id": "1409",
+    "text": "dai che ti parlo di eminescu"
+  },
+  {
+    "tu_id": "1413",
+    "speaker": "PST100_trad",
+    "start": "3280.307",
+    "end": "3283.005",
+    "parent_tu_id": "1412",
+    "text": "aspetta un attimo mamma ti voglio bene ma"
+  },
+  {
+    "tu_id": "1416",
+    "speaker": "PST092_trad",
+    "start": "3283.958",
+    "end": "3290.270",
+    "parent_tu_id": "1415",
+    "text": "no a me fa ridere perché poi lui se ne esce magari che ne so le sto chiedendo cosa mangiamo stasera sì mihai emine"
+  },
+  {
+    "tu_id": "1418",
+    "speaker": "PST100_trad",
+    "start": "3290.500",
+    "end": "3296.683",
+    "parent_tu_id": "1417",
+    "text": "è okay è simpatico ma prende in giro cioè mamma ti prego ti voglio bene ma"
+  },
+  {
+    "tu_id": "1420",
+    "speaker": "PST100_trad",
+    "start": "3296.794",
+    "end": "3298.766",
+    "parent_tu_id": "1419",
+    "text": "aspetta un attimo fammi"
+  },
+  {
+    "tu_id": "1425",
+    "speaker": "PST092_trad",
+    "start": "3315.683",
+    "end": "3319.181",
+    "parent_tu_id": "1424",
+    "text": "così e mihai eminescu il migliore"
+  },
+  {
+    "tu_id": "1435",
+    "speaker": "PST092_trad",
+    "start": "3342.270",
+    "end": "3346.681",
+    "parent_tu_id": "1434",
+    "text": "mio padre per scherzare mi ha detto xxx ma perché non fai lucifero"
+  },
+  {
+    "tu_id": "1437",
+    "speaker": "PST092_trad",
+    "start": "3346.885",
+    "end": "3350.921",
+    "parent_tu_id": "1436",
+    "text": "sì come no gli ho detto vuoi vedere quanto è lunga io pensavo boh fosse una roba così"
+  },
+  {
+    "tu_id": "1502",
+    "speaker": "PST100_trad",
+    "start": "3590.647",
+    "end": "3596.968",
+    "parent_tu_id": "1501",
+    "text": "e la mia tesi è sul costume tradizionale romeno (quindi) porto questa cosa e forse ah"
+  },
+  {
+    "tu_id": "1504",
+    "speaker": "PST100_trad",
+    "start": "3597.279",
+    "end": "3603.793",
+    "parent_tu_id": "1503",
+    "text": "e di nuovo ho parlato con lei (xxx)"
+  },
+  {
+    "tu_id": "1517",
+    "speaker": "PST100_trad",
+    "start": "3650.903",
+    "end": "3653.224",
+    "parent_tu_id": "1516",
+    "text": "dio aiutaci"
+  }
+]

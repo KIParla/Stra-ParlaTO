@@ -1,0 +1,178 @@
+[
+  {
+    "tu_id": "1",
+    "speaker": "PST209_trad",
+    "start": "0.000",
+    "end": "5.343",
+    "parent_tu_id": "0",
+    "text": "italiano però se non riesce a rispondere in italiano va bene anche in spagnolo okay?"
+  },
+  {
+    "tu_id": "3",
+    "speaker": "PST066_trad",
+    "start": "6.117",
+    "end": "10.510",
+    "parent_tu_id": "2",
+    "text": "solo che la gente viene qui a volte ti interromperò cosa fai"
+  },
+  {
+    "tu_id": "8",
+    "speaker": "PST066_trad",
+    "start": "16.711",
+    "end": "19.866",
+    "parent_tu_id": "7",
+    "text": "è finita giovane c'è solo quella piccola da mezzo litro"
+  },
+  {
+    "tu_id": "10",
+    "speaker": "PST066_trad",
+    "start": "21.743",
+    "end": "25.068",
+    "parent_tu_id": "9",
+    "text": "secondo frigorifero etichetta azzurra naturale"
+  },
+  {
+    "tu_id": "13",
+    "speaker": "??_trad",
+    "start": "29.094",
+    "end": "32.411",
+    "parent_tu_id": "12",
+    "text": "guarda c'è bianca rossa e blu"
+  },
+  {
+    "tu_id": "15",
+    "speaker": "PST066_trad",
+    "start": "34.012",
+    "end": "37.271",
+    "parent_tu_id": "14",
+    "text": "ma di che si tratta, di domande sull'america latina?"
+  },
+  {
+    "tu_id": "17",
+    "speaker": "PST209_trad",
+    "start": "37.271",
+    "end": "39.325",
+    "parent_tu_id": "16",
+    "text": "sì sull'indipendenza"
+  },
+  {
+    "tu_id": "19",
+    "speaker": "PST063_trad",
+    "start": "38.417",
+    "end": "40.265",
+    "parent_tu_id": "18",
+    "text": "sì in generale"
+  },
+  {
+    "tu_id": "23",
+    "speaker": "PST063_trad",
+    "start": "40.462",
+    "end": "47.612",
+    "parent_tu_id": "22",
+    "text": "sulla festa come la festeggiamo nel nostro paese e come la festeggiano a torino"
+  },
+  {
+    "tu_id": "26",
+    "speaker": "PST066_trad",
+    "start": "48.136",
+    "end": "50.088",
+    "parent_tu_id": "25",
+    "text": "eh due euro ragazzo"
+  },
+  {
+    "tu_id": "30",
+    "speaker": "PST066_trad",
+    "start": "57.364",
+    "end": "59.445",
+    "parent_tu_id": "29",
+    "text": "ditemi in fretta ragazzi"
+  },
+  {
+    "tu_id": "34",
+    "speaker": "PST209_trad",
+    "start": "60.636",
+    "end": "64.506",
+    "parent_tu_id": "33",
+    "text": "ah da dove cominciamo eh come ti come ti chiami"
+  },
+  {
+    "tu_id": "51",
+    "speaker": "PST066_trad",
+    "start": "107.375",
+    "end": "113.192",
+    "parent_tu_id": "50",
+    "text": "indescrivibile è la mia terra è parte della mia vita"
+  },
+  {
+    "tu_id": "54",
+    "speaker": "PST066_trad",
+    "start": "126.236",
+    "end": "129.289",
+    "parent_tu_id": "53",
+    "text": "cerchiamo di diffondere il nostro folclore"
+  },
+  {
+    "tu_id": "56",
+    "speaker": "PST063_trad",
+    "start": "130.730",
+    "end": "133.037",
+    "parent_tu_id": "55",
+    "text": "c'è qualcosa che ti xx del perù"
+  },
+  {
+    "tu_id": "58",
+    "speaker": "PST066_trad",
+    "start": "134.482",
+    "end": "137.576",
+    "parent_tu_id": "57",
+    "text": "eh in realtà sì"
+  },
+  {
+    "tu_id": "61",
+    "speaker": "PST066_trad",
+    "start": "155.991",
+    "end": "164.892",
+    "parent_tu_id": "60",
+    "text": "e infatti io tre anni fa ho aperto un negozio con la vendita dei prodotti peruviani proprio per quello"
+  },
+  {
+    "tu_id": "63",
+    "speaker": "PST066_trad",
+    "start": "165.626",
+    "end": "177.139",
+    "parent_tu_id": "62",
+    "text": "e poi mia figlia è nata qua ho una figlia diciannove anni e lei da piccola voleva ballare le nostre il nostro folclore"
+  },
+  {
+    "tu_id": "73",
+    "speaker": "PST209_trad",
+    "start": "222.254",
+    "end": "226.338",
+    "parent_tu_id": "72",
+    "text": "come si festeggia l'indipendenza in perù e come si festeggia qua a torino?"
+  },
+  {
+    "tu_id": "75",
+    "speaker": "PST066_trad",
+    "start": "227.457",
+    "end": "239.589",
+    "parent_tu_id": "74",
+    "text": "in perù festeggiamo con grande spirito di comunità è una data proprio che aspettiamo cioè è un punto di incontro"
+  },
+  {
+    "tu_id": "82",
+    "speaker": "PST066_trad",
+    "start": "271.211",
+    "end": "283.518",
+    "parent_tu_id": "81",
+    "text": "faranno due giorni con attività per i bambini il nostro ballo tradizionale gastronomia peruviana e i ragazzi faranno il calcetto che si fa in perù"
+  },
+  {
+    "tu_id": "89",
+    "speaker": "PST209_trad",
+    "start": "317.509",
+    "end": "318.094",
+    "parent_tu_id": "88",
+    "text": "la storia"
+  }
+]

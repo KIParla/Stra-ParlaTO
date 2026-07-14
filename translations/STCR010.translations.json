@@ -1,0 +1,386 @@
+[
+  {
+    "tu_id": "3",
+    "speaker": "PST085_trad",
+    "start": "3.430",
+    "end": "8.639",
+    "parent_tu_id": "2",
+    "text": "io dicevo tipo la signora @ecaterina di là cioè tipo con la sedia qua e rivolta verso di là"
+  },
+  {
+    "tu_id": "10",
+    "speaker": "PST094_trad",
+    "start": "13.920",
+    "end": "15.010",
+    "parent_tu_id": "9",
+    "text": "[del campeggio]"
+  },
+  {
+    "tu_id": "19",
+    "speaker": "PST087_trad",
+    "start": "26.540",
+    "end": "30.540",
+    "parent_tu_id": "18",
+    "text": "la signora @ecaterina lì e la riprendi mentre parla che c'è anche tutta la roba dietro"
+  },
+  {
+    "tu_id": "45",
+    "speaker": "PST085_trad",
+    "start": "58.260",
+    "end": "60.360",
+    "parent_tu_id": "44",
+    "text": "no io dicevo la signora @ecaterina là"
+  },
+  {
+    "tu_id": "51",
+    "speaker": "PST087_trad",
+    "start": "63.800",
+    "end": "66.940",
+    "parent_tu_id": "50",
+    "text": "no metti metti metti la signora @ecaterina qui"
+  },
+  {
+    "tu_id": "63",
+    "speaker": "PST092_trad",
+    "start": "87.210",
+    "end": "90.590",
+    "parent_tu_id": "62",
+    "text": "ma se io devo fare la signora @ecaterina non ((ride)) dammi il tuo cellulare"
+  },
+  {
+    "tu_id": "65",
+    "speaker": "PST092_trad",
+    "start": "90.590",
+    "end": "92.130",
+    "parent_tu_id": "64",
+    "text": "dio mi perdoni"
+  },
+  {
+    "tu_id": "76",
+    "speaker": "PST092_trad",
+    "start": "114.690",
+    "end": "116.650",
+    "parent_tu_id": "75",
+    "text": "e la signora @ecaterina la mettiamo qua"
+  },
+  {
+    "tu_id": "79",
+    "speaker": "PST092_trad",
+    "start": "119.640",
+    "end": "122.730",
+    "parent_tu_id": "78",
+    "text": "io dicevo invece spostiamo questo e mettiamo la signora @ecaterina proprio qua"
+  },
+  {
+    "tu_id": "96",
+    "speaker": "PST092_trad",
+    "start": "147.735",
+    "end": "151.815",
+    "parent_tu_id": "95",
+    "text": "sì perché @noemi sarà qua la signora @ecaterina sarà qua con le cose a fianco"
+  },
+  {
+    "tu_id": "111",
+    "speaker": "PST092_trad",
+    "start": "175.530",
+    "end": "179.180",
+    "parent_tu_id": "110",
+    "text": "sai cosa possiamo fare per coprire questo sacchetto"
+  },
+  {
+    "tu_id": "113",
+    "speaker": "PST092_trad",
+    "start": "179.705",
+    "end": "180.675",
+    "parent_tu_id": "112",
+    "text": "la spostiamo li"
+  },
+  {
+    "tu_id": "115",
+    "speaker": "PST085_trad",
+    "start": "180.700",
+    "end": "183.008",
+    "parent_tu_id": "114",
+    "text": "no se no la sposti più in qua la signora @ecaterina"
+  },
+  {
+    "tu_id": "161",
+    "speaker": "PST085_trad",
+    "start": "241.730",
+    "end": "242.460",
+    "parent_tu_id": "160",
+    "text": "fidati di me"
+  },
+  {
+    "tu_id": "163",
+    "speaker": "PST085_trad",
+    "start": "242.725",
+    "end": "243.515",
+    "parent_tu_id": "162",
+    "text": "fidati di me"
+  },
+  {
+    "tu_id": "170",
+    "speaker": "PST085_trad",
+    "start": "250.357",
+    "end": "250.910",
+    "parent_tu_id": "169",
+    "text": "sì"
+  },
+  {
+    "tu_id": "227",
+    "speaker": "PST085_trad",
+    "start": "322.803",
+    "end": "323.473",
+    "parent_tu_id": "226",
+    "text": "aspetta"
+  },
+  {
+    "tu_id": "240",
+    "speaker": "PST092_trad",
+    "start": "334.080",
+    "end": "337.440",
+    "parent_tu_id": "239",
+    "text": "immaginati due ore in piedi così muore la signora @ecaterina"
+  },
+  {
+    "tu_id": "253",
+    "speaker": "PST092_trad",
+    "start": "351.500",
+    "end": "352.670",
+    "parent_tu_id": "252",
+    "text": "eh ragazza"
+  },
+  {
+    "tu_id": "354",
+    "speaker": "PST092_trad",
+    "start": "497.130",
+    "end": "497.900",
+    "parent_tu_id": "353",
+    "text": "accidenti"
+  },
+  {
+    "tu_id": "357",
+    "speaker": "PST092_trad",
+    "start": "498.600",
+    "end": "499.370",
+    "parent_tu_id": "356",
+    "text": "accidenti"
+  },
+  {
+    "tu_id": "379",
+    "speaker": "PST092_trad",
+    "start": "526.208",
+    "end": "527.778",
+    "parent_tu_id": "378",
+    "text": "quindi tu dici la signora @ecaterina così?"
+  },
+  {
+    "tu_id": "388",
+    "speaker": "PST092_trad",
+    "start": "535.080",
+    "end": "536.910",
+    "parent_tu_id": "387",
+    "text": "eh se si sposta con la sedia"
+  },
+  {
+    "tu_id": "459",
+    "speaker": "PST087_trad",
+    "start": "657.400",
+    "end": "659.990",
+    "parent_tu_id": "458",
+    "text": "quindi non è tanto da inquadrare @ilaria ma più la signora @ecaterina"
+  },
+  {
+    "tu_id": "521",
+    "speaker": "PST087_trad",
+    "start": "780.095",
+    "end": "784.470",
+    "parent_tu_id": "520",
+    "text": "e poi man mano che la signora @ecaterina inizia a parlare inquadriamo solo su di lei"
+  },
+  {
+    "tu_id": "628",
+    "speaker": "PST085_trad",
+    "start": "926.310",
+    "end": "929.420",
+    "parent_tu_id": "627",
+    "text": "ancora lavora ancora lavora con"
+  },
+  {
+    "tu_id": "630",
+    "speaker": "PST092_trad",
+    "start": "926.320",
+    "end": "928.640",
+    "parent_tu_id": "629",
+    "text": "chie~ chiedo alla signora @ecaterina"
+  },
+  {
+    "tu_id": "634",
+    "speaker": "PST085_trad",
+    "start": "930.910",
+    "end": "933.570",
+    "parent_tu_id": "633",
+    "text": "devo venire a stare dalle nove fino alle sei devo stare qui"
+  },
+  {
+    "tu_id": "637",
+    "speaker": "PST092_trad",
+    "start": "933.570",
+    "end": "934.110",
+    "parent_tu_id": "636",
+    "text": "perché?"
+  },
+  {
+    "tu_id": "641",
+    "speaker": "PST085_trad",
+    "start": "934.730",
+    "end": "938.089",
+    "parent_tu_id": "640",
+    "text": "perché alle nove volevo fare matematica con la signora @ecaterina"
+  },
+  {
+    "tu_id": "645",
+    "speaker": "PST085_trad",
+    "start": "940.790",
+    "end": "942.500",
+    "parent_tu_id": "644",
+    "text": "perché le ho detto dalle cinque di oggi"
+  },
+  {
+    "tu_id": "650",
+    "speaker": "PST085_trad",
+    "start": "943.440",
+    "end": "944.020",
+    "parent_tu_id": "649",
+    "text": "perchè"
+  },
+  {
+    "tu_id": "652",
+    "speaker": "PST086_trad",
+    "start": "944.040",
+    "end": "947.810",
+    "parent_tu_id": "651",
+    "text": "eh sapevo che dovrebbe essere intervistata la signora @ecaterina"
+  },
+  {
+    "tu_id": "671",
+    "speaker": "PST203_trad",
+    "start": "962.380",
+    "end": "964.966",
+    "parent_tu_id": "670",
+    "text": "questa qua prende la signora @ecaterina"
+  },
+  {
+    "tu_id": "749",
+    "speaker": "PST092_trad",
+    "start": "1055.780",
+    "end": "1057.400",
+    "parent_tu_id": "748",
+    "text": "di fare le domande alla signora @ecaterina"
+  },
+  {
+    "tu_id": "768",
+    "speaker": "PST203_trad",
+    "start": "1080.995",
+    "end": "1083.374",
+    "parent_tu_id": "767",
+    "text": "ah bisogna dire signora @ecaterina"
+  },
+  {
+    "tu_id": "773",
+    "speaker": "PST092_trad",
+    "start": "1092.802",
+    "end": "1093.882",
+    "parent_tu_id": "772",
+    "text": "è da dire alla signora @ecaterina"
+  },
+  {
+    "tu_id": "825",
+    "speaker": "PST092_trad",
+    "start": "1173.800",
+    "end": "1179.000",
+    "parent_tu_id": "824",
+    "text": "no se è se no però cioè la signora @ecaterina ci uccide"
+  },
+  {
+    "tu_id": "880",
+    "speaker": "PST092_trad",
+    "start": "1322.780",
+    "end": "1324.040",
+    "parent_tu_id": "879",
+    "text": "oh mio dio"
+  },
+  {
+    "tu_id": "888",
+    "speaker": "PST092_trad",
+    "start": "1331.360",
+    "end": "1333.210",
+    "parent_tu_id": "887",
+    "text": "il principe di dubai come va con il principe di dubai"
+  },
+  {
+    "tu_id": "890",
+    "speaker": "PST085_trad",
+    "start": "1333.400",
+    "end": "1335.410",
+    "parent_tu_id": "889",
+    "text": "principe di dubai guarda qua mi sta"
+  },
+  {
+    "tu_id": "923",
+    "speaker": "PST085_trad",
+    "start": "1384.690",
+    "end": "1386.820",
+    "parent_tu_id": "922",
+    "text": "caspita sembra che sei scappata di casa"
+  },
+  {
+    "tu_id": "927",
+    "speaker": "PST085_trad",
+    "start": "1390.570",
+    "end": "1392.240",
+    "parent_tu_id": "926",
+    "text": "scappata di casa sembri"
+  },
+  {
+    "tu_id": "933",
+    "speaker": "PST092_trad",
+    "start": "1399.805",
+    "end": "1402.695",
+    "parent_tu_id": "932",
+    "text": "io ho detto alla signora @ecaterina che noi siamo a posto quando finisce di a"
+  },
+  {
+    "tu_id": "942",
+    "speaker": "PST092_trad",
+    "start": "1411.080",
+    "end": "1415.945",
+    "parent_tu_id": "941",
+    "text": "ah okay no no galleria è off limits ma tanto serve la password per la galleria"
+  },
+  {
+    "tu_id": "953",
+    "speaker": "PST085_trad",
+    "start": "1430.550",
+    "end": "1432.020",
+    "parent_tu_id": "952",
+    "text": "non giocare più a calcio"
+  },
+  {
+    "tu_id": "989",
+    "speaker": "PST085_trad",
+    "start": "1512.190",
+    "end": "1513.290",
+    "parent_tu_id": "988",
+    "text": "mamma mia"
+  },
+  {
+    "tu_id": "1007",
+    "speaker": "PST085_trad",
+    "start": "1542.190",
+    "end": "1542.480",
+    "parent_tu_id": "1006",
+    "text": "sì"
+  }
+]

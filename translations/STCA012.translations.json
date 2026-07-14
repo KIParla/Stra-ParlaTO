@@ -1,0 +1,50 @@
+[
+  {
+    "tu_id": "27",
+    "speaker": "PST158_trad",
+    "start": "53.495",
+    "end": "54.770",
+    "parent_tu_id": "26",
+    "text": "io solo oh no"
+  },
+  {
+    "tu_id": "216",
+    "speaker": "PST158_trad",
+    "start": "387.480",
+    "end": "388.549",
+    "parent_tu_id": "215",
+    "text": "il minimo indispensabile"
+  },
+  {
+    "tu_id": "1104",
+    "speaker": "PST214_trad",
+    "start": "1746.930",
+    "end": "1747.630",
+    "parent_tu_id": "1103",
+    "text": "è folle"
+  },
+  {
+    "tu_id": "1186",
+    "speaker": "PST158_trad",
+    "start": "1875.030",
+    "end": "1876.203",
+    "parent_tu_id": "1185",
+    "text": "io non potrei mai farlo"
+  },
+  {
+    "tu_id": "1609",
+    "speaker": "PST158_trad",
+    "start": "2538.589",
+    "end": "2540.153",
+    "parent_tu_id": "1608",
+    "text": "eh ma non sono d'accordo"
+  },
+  {
+    "tu_id": "1627",
+    "speaker": "PST158_trad",
+    "start": "2567.430",
+    "end": "2570.129",
+    "parent_tu_id": "1626",
+    "text": "è m~ com'è che si dice in italiano è più piacevole"
+  }
+]

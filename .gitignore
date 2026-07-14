@@ -1,0 +1,9 @@
+*.pfsx
+*.001
+*.bak
+.DS*
+*.py
+*.zip
+
+tmp/
+original/

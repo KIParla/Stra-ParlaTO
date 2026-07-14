@@ -1,0 +1,330 @@
+[
+  {
+    "tu_id": "60",
+    "speaker": "PST087_trad",
+    "start": "123.230",
+    "end": "125.270",
+    "parent_tu_id": "59",
+    "text": "e poi appunto ci sono i nonni"
+  },
+  {
+    "tu_id": "73",
+    "speaker": "PST087_trad",
+    "start": "150.230",
+    "end": "153.280",
+    "parent_tu_id": "72",
+    "text": "tipo ah ti ricordi com'era in romania quando c'era"
+  },
+  {
+    "tu_id": "81",
+    "speaker": "PST092_trad",
+    "start": "162.640",
+    "end": "168.330",
+    "parent_tu_id": "80",
+    "text": "sì eh la signora @lia valla a trovare la signora @lia che organizza tutti gli eventi ma vederla non la vede nessuno"
+  },
+  {
+    "tu_id": "100",
+    "speaker": "PST086_trad",
+    "start": "204.420",
+    "end": "205.440",
+    "parent_tu_id": "99",
+    "text": "metti danza"
+  },
+  {
+    "tu_id": "119",
+    "speaker": "PST092_trad",
+    "start": "242.090",
+    "end": "246.020",
+    "parent_tu_id": "118",
+    "text": "no aveva più senso @iacob a danza perché @iacob è il nostro istruttore"
+  },
+  {
+    "tu_id": "193",
+    "speaker": "PST087_trad",
+    "start": "446.040",
+    "end": "450.720",
+    "parent_tu_id": "192",
+    "text": "aspetta ma noi dobbiamo comunque abbiamo lo spettacolo no che hai detto abbiamo ancora spettacoli no?"
+  },
+  {
+    "tu_id": "209",
+    "speaker": "PST092_trad",
+    "start": "477.400",
+    "end": "478.590",
+    "parent_tu_id": "208",
+    "text": "il primo marzo"
+  },
+  {
+    "tu_id": "211",
+    "speaker": "PST092_trad",
+    "start": "479.410",
+    "end": "481.720",
+    "parent_tu_id": "210",
+    "text": "ehm nove marzo e ventidue febbraio"
+  },
+  {
+    "tu_id": "215",
+    "speaker": "PST086_trad",
+    "start": "482.660",
+    "end": "485.050",
+    "parent_tu_id": "214",
+    "text": "il primo parzo andiamo in montagna"
+  },
+  {
+    "tu_id": "230",
+    "speaker": "PST092_trad",
+    "start": "511.910",
+    "end": "518.720",
+    "parent_tu_id": "229",
+    "text": "io pensavo di usare i video vecchi che abbiamo fatto sai no quando abbiamo trascorso le feste lì dove c'è stato (tremarti)"
+  },
+  {
+    "tu_id": "237",
+    "speaker": "PST092_trad",
+    "start": "528.540",
+    "end": "531.290",
+    "parent_tu_id": "236",
+    "text": "ma non è canto è danza con i costumi"
+  },
+  {
+    "tu_id": "240",
+    "speaker": "PST092_trad",
+    "start": "532.250",
+    "end": "532.880",
+    "parent_tu_id": "239",
+    "text": "è questa"
+  },
+  {
+    "tu_id": "244",
+    "speaker": "PST092_trad",
+    "start": "534.275",
+    "end": "535.965",
+    "parent_tu_id": "243",
+    "text": "è danza con i costumi"
+  },
+  {
+    "tu_id": "282",
+    "speaker": "PST092_trad",
+    "start": "602.040",
+    "end": "603.480",
+    "parent_tu_id": "281",
+    "text": "tu no"
+  },
+  {
+    "tu_id": "284",
+    "speaker": "PST086_trad",
+    "start": "603.600",
+    "end": "605.440",
+    "parent_tu_id": "283",
+    "text": "mi registrano anche"
+  },
+  {
+    "tu_id": "306",
+    "speaker": "PST092_trad",
+    "start": "637.750",
+    "end": "639.350",
+    "parent_tu_id": "305",
+    "text": "eh gli avanzati più"
+  },
+  {
+    "tu_id": "311",
+    "speaker": "PST087_trad",
+    "start": "645.900",
+    "end": "650.000",
+    "parent_tu_id": "310",
+    "text": "perché @iacob serve una che però orchestra una scena con l'orchestra"
+  },
+  {
+    "tu_id": "317",
+    "speaker": "PST087_trad",
+    "start": "654.330",
+    "end": "655.620",
+    "parent_tu_id": "316",
+    "text": "se no la signora @ecaterina"
+  },
+  {
+    "tu_id": "319",
+    "speaker": "PST092_trad",
+    "start": "655.640",
+    "end": "658.120",
+    "parent_tu_id": "318",
+    "text": "no allora questa la facciamo tipo avanzati"
+  },
+  {
+    "tu_id": "325",
+    "speaker": "PST087_trad",
+    "start": "665.060",
+    "end": "667.360",
+    "parent_tu_id": "324",
+    "text": "eh però non so se hanno una canzone con l'orchestra"
+  },
+  {
+    "tu_id": "420",
+    "speaker": "PST092_trad",
+    "start": "849.580",
+    "end": "851.400",
+    "parent_tu_id": "419",
+    "text": "mh abbigliamento"
+  },
+  {
+    "tu_id": "459",
+    "speaker": "PST087_trad",
+    "start": "926.830",
+    "end": "931.270",
+    "parent_tu_id": "458",
+    "text": "sì però se vogliamo fare allora fai parlare @iacob se non trovi più xx perché è lui l'istruttore"
+  },
+  {
+    "tu_id": "461",
+    "speaker": "PST087_trad",
+    "start": "931.720",
+    "end": "933.480",
+    "parent_tu_id": "460",
+    "text": "o se no fai parlare il signor @cosmin"
+  },
+  {
+    "tu_id": "463",
+    "speaker": "PST086_trad",
+    "start": "933.780",
+    "end": "935.550",
+    "parent_tu_id": "462",
+    "text": "sì ma il signor @cosmin mica parla no"
+  },
+  {
+    "tu_id": "465",
+    "speaker": "PST092_trad",
+    "start": "935.040",
+    "end": "936.825",
+    "parent_tu_id": "464",
+    "text": "no no il signor bodgan non parla mai"
+  },
+  {
+    "tu_id": "514",
+    "speaker": "PST092_trad",
+    "start": "1040.150",
+    "end": "1043.892",
+    "parent_tu_id": "513",
+    "text": "facciamo @michi per taraf eh per taraf per i balli"
+  },
+  {
+    "tu_id": "516",
+    "speaker": "PST092_trad",
+    "start": "1044.266",
+    "end": "1047.932",
+    "parent_tu_id": "515",
+    "text": "@iacob per taraf e magari aggiungiamo delle soliste con taraful"
+  },
+  {
+    "tu_id": "527",
+    "speaker": "PST086_trad",
+    "start": "1072.258",
+    "end": "1074.091",
+    "parent_tu_id": "526",
+    "text": "musica non so"
+  },
+  {
+    "tu_id": "533",
+    "speaker": "PST092_trad",
+    "start": "1078.840",
+    "end": "1081.800",
+    "parent_tu_id": "532",
+    "text": "no taraful perché orchestra è di signor @popescu taraful"
+  },
+  {
+    "tu_id": "539",
+    "speaker": "PST092_trad",
+    "start": "1095.266",
+    "end": "1100.141",
+    "parent_tu_id": "538",
+    "text": "eh lo so ma il taraf mi sembra sia più da famiglia cosa vuoi che ti dica"
+  },
+  {
+    "tu_id": "547",
+    "speaker": "PST092_trad",
+    "start": "1123.524",
+    "end": "1126.391",
+    "parent_tu_id": "546",
+    "text": "@anita ha vinto il premio va bene @anita"
+  },
+  {
+    "tu_id": "552",
+    "speaker": "PST092_trad",
+    "start": "1136.133",
+    "end": "1138.425",
+    "parent_tu_id": "551",
+    "text": "magari tipo ora di canto di canzone di gruppo"
+  },
+  {
+    "tu_id": "555",
+    "speaker": "PST087_trad",
+    "start": "1139.116",
+    "end": "1142.333",
+    "parent_tu_id": "554",
+    "text": "sì o se no mettiamo tipo cinque ragazze che cantano la canzone di gruppo"
+  },
+  {
+    "tu_id": "558",
+    "speaker": "PST092_trad",
+    "start": "1144.375",
+    "end": "1149.183",
+    "parent_tu_id": "557",
+    "text": "sai quali possiamo mettere possiamo mettere quello che è stato a oradea"
+  },
+  {
+    "tu_id": "561",
+    "speaker": "PST092_trad",
+    "start": "1154.741",
+    "end": "1157.483",
+    "parent_tu_id": "560",
+    "text": "possiamo riprendere le ragazze di oradea che sono cinque"
+  },
+  {
+    "tu_id": "563",
+    "speaker": "PST087_trad",
+    "start": "1158.257",
+    "end": "1158.807",
+    "parent_tu_id": "562",
+    "text": "cinque"
+  },
+  {
+    "tu_id": "566",
+    "speaker": "PST092_trad",
+    "start": "1159.282",
+    "end": "1160.390",
+    "parent_tu_id": "564",
+    "text": "xx xx cinque"
+  },
+  {
+    "tu_id": "573",
+    "speaker": "PST092_trad",
+    "start": "1176.224",
+    "end": "1177.267",
+    "parent_tu_id": "572",
+    "text": "@romina se vuole"
+  },
+  {
+    "tu_id": "584",
+    "speaker": "PST092_trad",
+    "start": "1193.224",
+    "end": "1196.892",
+    "parent_tu_id": "583",
+    "text": "tanto possiamo magari chiedere i microfoni anche a signora @ecaterina ha due microfoni"
+  },
+  {
+    "tu_id": "592",
+    "speaker": "PST092_trad",
+    "start": "1208.324",
+    "end": "1208.866",
+    "parent_tu_id": "591",
+    "text": "canzone?"
+  },
+  {
+    "tu_id": "680",
+    "speaker": "PST092_trad",
+    "start": "1355.258",
+    "end": "1356.400",
+    "parent_tu_id": "679",
+    "text": "la festa della mamma"
+  }
+]

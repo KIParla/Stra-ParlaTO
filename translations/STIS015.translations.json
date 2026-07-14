@@ -1,0 +1,58 @@
+[
+  {
+    "tu_id": "14",
+    "speaker": "PST203_trad",
+    "start": "26.980",
+    "end": "28.930",
+    "parent_tu_id": "13",
+    "text": "ci siamo quando vuoi siamo a posto?"
+  },
+  {
+    "tu_id": "16",
+    "speaker": "PST203_trad",
+    "start": "30.771",
+    "end": "32.788",
+    "parent_tu_id": "15",
+    "text": "pulsantino rosso va bene"
+  },
+  {
+    "tu_id": "18",
+    "speaker": "PST203_trad",
+    "start": "35.646",
+    "end": "35.936",
+    "parent_tu_id": "17",
+    "text": "va bene"
+  },
+  {
+    "tu_id": "86",
+    "speaker": "PST074_trad",
+    "start": "294.912",
+    "end": "302.331",
+    "parent_tu_id": "85",
+    "text": "avevo il dubbio se scegliere cucina o sala perché già accoglienza turistica le ho detto no faccio cucina o sala"
+  },
+  {
+    "tu_id": "98",
+    "speaker": "PST203_trad",
+    "start": "324.970",
+    "end": "326.964",
+    "parent_tu_id": "97",
+    "text": "xx (cosa è successo)"
+  },
+  {
+    "tu_id": "197",
+    "speaker": "PST074_trad",
+    "start": "714.595",
+    "end": "722.372",
+    "parent_tu_id": "196",
+    "text": "lo puoi fare abbiamo trovato dei posti dove giocano non solo italiani ma anche sudamericani quindi"
+  },
+  {
+    "tu_id": "319",
+    "speaker": "PST074_trad",
+    "start": "1081.165",
+    "end": "1083.155",
+    "parent_tu_id": "318",
+    "text": "cioè a me sarebbe piaciuto impararlo"
+  }
+]

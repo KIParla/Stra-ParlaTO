@@ -1,0 +1,242 @@
+[
+  {
+    "tu_id": "265",
+    "speaker": "PST082_trad",
+    "start": "591.340",
+    "end": "595.570",
+    "parent_tu_id": "264",
+    "text": "sei andata a quello mh il monastero allegro o qualcosa del genere"
+  },
+  {
+    "tu_id": "267",
+    "speaker": "PST091_trad",
+    "start": "595.280",
+    "end": "596.220",
+    "parent_tu_id": "266",
+    "text": "il monastero allegro"
+  },
+  {
+    "tu_id": "273",
+    "speaker": "PST082_trad",
+    "start": "600.090",
+    "end": "602.130",
+    "parent_tu_id": "272",
+    "text": "eh non era il monastero alle~ era"
+  },
+  {
+    "tu_id": "275",
+    "speaker": "PST091_trad",
+    "start": "600.100",
+    "end": "601.070",
+    "parent_tu_id": "274",
+    "text": "non monastero"
+  },
+  {
+    "tu_id": "277",
+    "speaker": "PST091_trad",
+    "start": "602.300",
+    "end": "604.550",
+    "parent_tu_id": "276",
+    "text": "ehm mor~ mi~ eh il cimitero allegro"
+  },
+  {
+    "tu_id": "280",
+    "speaker": "PST091_trad",
+    "start": "604.840",
+    "end": "609.120",
+    "parent_tu_id": "278",
+    "text": "non sono stata a bucovina no non sono stata ma vorrei andarci"
+  },
+  {
+    "tu_id": "281",
+    "speaker": "PST082_trad",
+    "start": "604.840",
+    "end": "605.770",
+    "parent_tu_id": "279",
+    "text": "il cimitero allegro"
+  },
+  {
+    "tu_id": "283",
+    "speaker": "PST082_trad",
+    "start": "608.975",
+    "end": "612.040",
+    "parent_tu_id": "282",
+    "text": "eh ho sentito che era bello, anche io, anche io vorrei"
+  },
+  {
+    "tu_id": "286",
+    "speaker": "PST082_trad",
+    "start": "612.880",
+    "end": "613.810",
+    "parent_tu_id": "285",
+    "text": "anche io vorrei"
+  },
+  {
+    "tu_id": "288",
+    "speaker": "PST091_trad",
+    "start": "613.430",
+    "end": "614.500",
+    "parent_tu_id": "287",
+    "text": "anche io vorrei"
+  },
+  {
+    "tu_id": "526",
+    "speaker": "PST091_trad",
+    "start": "1186.620",
+    "end": "1188.590",
+    "parent_tu_id": "525",
+    "text": "mi piace"
+  },
+  {
+    "tu_id": "529",
+    "speaker": "PST091_trad",
+    "start": "1189.990",
+    "end": "1191.890",
+    "parent_tu_id": "528",
+    "text": "mi piace"
+  },
+  {
+    "tu_id": "531",
+    "speaker": "PST082_trad",
+    "start": "1191.030",
+    "end": "1192.240",
+    "parent_tu_id": "530",
+    "text": "pia~ mi piace"
+  },
+  {
+    "tu_id": "542",
+    "speaker": "PST091_trad",
+    "start": "1210.540",
+    "end": "1212.120",
+    "parent_tu_id": "541",
+    "text": "i contadini"
+  },
+  {
+    "tu_id": "544",
+    "speaker": "PST091_trad",
+    "start": "1212.225",
+    "end": "1216.645",
+    "parent_tu_id": "543",
+    "text": "li senti li senti quando parlano poveretti"
+  },
+  {
+    "tu_id": "546",
+    "speaker": "PST082_trad",
+    "start": "1212.245",
+    "end": "1213.195",
+    "parent_tu_id": "545",
+    "text": "i contadini"
+  },
+  {
+    "tu_id": "753",
+    "speaker": "PST091_trad",
+    "start": "1690.540",
+    "end": "1695.902",
+    "parent_tu_id": "752",
+    "text": "se facevi caso anche nei bar che ne so, dove siamo andati non avevano"
+  },
+  {
+    "tu_id": "757",
+    "speaker": "PST082_trad",
+    "start": "1696.540",
+    "end": "1697.390",
+    "parent_tu_id": "756",
+    "text": "sì sì"
+  },
+  {
+    "tu_id": "759",
+    "speaker": "PST082_trad",
+    "start": "1699.550",
+    "end": "1699.860",
+    "parent_tu_id": "758",
+    "text": "dai"
+  },
+  {
+    "tu_id": "761",
+    "speaker": "PST091_trad",
+    "start": "1700.010",
+    "end": "1705.546",
+    "parent_tu_id": "760",
+    "text": "eh dai, eh lì se vai al bar o, esatto"
+  },
+  {
+    "tu_id": "764",
+    "speaker": "PST082_trad",
+    "start": "1702.620",
+    "end": "1703.180",
+    "parent_tu_id": "763",
+    "text": "oddio"
+  },
+  {
+    "tu_id": "845",
+    "speaker": "PST082_trad",
+    "start": "1900.688",
+    "end": "1902.068",
+    "parent_tu_id": "844",
+    "text": "presa in giro"
+  },
+  {
+    "tu_id": "848",
+    "speaker": "PST082_trad",
+    "start": "1902.338",
+    "end": "1904.960",
+    "parent_tu_id": "847",
+    "text": "presa in giro"
+  },
+  {
+    "tu_id": "907",
+    "speaker": "PST091_trad",
+    "start": "2024.838",
+    "end": "2026.260",
+    "parent_tu_id": "906",
+    "text": "sono rimasti con"
+  },
+  {
+    "tu_id": "912",
+    "speaker": "PST091_trad",
+    "start": "2035.010",
+    "end": "2038.340",
+    "parent_tu_id": "911",
+    "text": "eh i pantaloni sono rimasti alle caviglie, i pantaloni sono rimasti alle caviglie"
+  },
+  {
+    "tu_id": "954",
+    "speaker": "PST082_trad",
+    "start": "2136.740",
+    "end": "2137.870",
+    "parent_tu_id": "953",
+    "text": "non vedevo l'orologio"
+  },
+  {
+    "tu_id": "956",
+    "speaker": "PST091_trad",
+    "start": "2137.970",
+    "end": "2138.500",
+    "parent_tu_id": "955",
+    "text": "l'orologio"
+  },
+  {
+    "tu_id": "960",
+    "speaker": "PST091_trad",
+    "start": "2140.555",
+    "end": "2141.920",
+    "parent_tu_id": "959",
+    "text": "non vedevo l orologio"
+  },
+  {
+    "tu_id": "966",
+    "speaker": "PST091_trad",
+    "start": "2147.489",
+    "end": "2150.849",
+    "parent_tu_id": "965",
+    "text": "non vedevo l'orologio"
+  },
+  {
+    "tu_id": "969",
+    "speaker": "PST091_trad",
+    "start": "2152.470",
+    "end": "2155.329",
+    "parent_tu_id": "968",
+    "text": "non vedevo l'orologio sì sì"
+  }
+]

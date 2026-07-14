@@ -1,0 +1,346 @@
+[
+  {
+    "tu_id": "55",
+    "speaker": "PST092_trad",
+    "start": "124.510",
+    "end": "125.800",
+    "parent_tu_id": "54",
+    "text": "più l'orchestra"
+  },
+  {
+    "tu_id": "57",
+    "speaker": "PST092_trad",
+    "start": "126.180",
+    "end": "127.760",
+    "parent_tu_id": "56",
+    "text": "cioè più l'orchestra più  canto"
+  },
+  {
+    "tu_id": "115",
+    "speaker": "PST083_trad",
+    "start": "307.390",
+    "end": "314.620",
+    "parent_tu_id": "114",
+    "text": "hai presente che ti dicevo che dobbiamo fare delle riprese tipo mentre tessi a cucire"
+  },
+  {
+    "tu_id": "194",
+    "speaker": "PST092_trad",
+    "start": "481.670",
+    "end": "486.550",
+    "parent_tu_id": "193",
+    "text": "oppure possiamo già chiedere tipo a qualcuno c'è la signora @gabriela che viene a portare @maria"
+  },
+  {
+    "tu_id": "266",
+    "speaker": "PST092_trad",
+    "start": "626.010",
+    "end": "628.300",
+    "parent_tu_id": "265",
+    "text": "orchestra è guidata dal signor @popescu taraful da @iacob"
+  },
+  {
+    "tu_id": "294",
+    "speaker": "PST092_trad",
+    "start": "716.880",
+    "end": "718.120",
+    "parent_tu_id": "293",
+    "text": "uh la signora @ecaterina"
+  },
+  {
+    "tu_id": "299",
+    "speaker": "PST092_trad",
+    "start": "725.600",
+    "end": "729.320",
+    "parent_tu_id": "298",
+    "text": "@michi @michi diceva se no il signor @cosmin"
+  },
+  {
+    "tu_id": "303",
+    "speaker": "PST083_trad",
+    "start": "735.660",
+    "end": "738.350",
+    "parent_tu_id": "302",
+    "text": "no io direi direi la signora @ecaterina sinceramente"
+  },
+  {
+    "tu_id": "320",
+    "speaker": "PST092_trad",
+    "start": "776.770",
+    "end": "777.600",
+    "parent_tu_id": "319",
+    "text": "il tour del centro"
+  },
+  {
+    "tu_id": "332",
+    "speaker": "PST092_trad",
+    "start": "804.920",
+    "end": "812.410",
+    "parent_tu_id": "331",
+    "text": "un giovedì non fa non ha senso farlo il giovedì ci sono solo i principianti io di pensavo a sabato che siamo un po' tutti sia piccoli"
+  },
+  {
+    "tu_id": "342",
+    "speaker": "PST092_trad",
+    "start": "824.860",
+    "end": "826.250",
+    "parent_tu_id": "341",
+    "text": "eh il tour del centro"
+  },
+  {
+    "tu_id": "370",
+    "speaker": "PST083_trad",
+    "start": "882.300",
+    "end": "885.490",
+    "parent_tu_id": "369",
+    "text": "sei che fai un tour con che ne so la signora @ecaterina che parla no"
+  },
+  {
+    "tu_id": "445",
+    "speaker": "PST083_trad",
+    "start": "1066.870",
+    "end": "1069.920",
+    "parent_tu_id": "444",
+    "text": "e là però mh bisogna chiedere alla signora @ecaterina"
+  },
+  {
+    "tu_id": "487",
+    "speaker": "PST087_trad",
+    "start": "1148.620",
+    "end": "1149.530",
+    "parent_tu_id": "486",
+    "text": "buona sera"
+  },
+  {
+    "tu_id": "489",
+    "speaker": "PST083_trad",
+    "start": "1149.515",
+    "end": "1150.115",
+    "parent_tu_id": "488",
+    "text": "buona sera"
+  },
+  {
+    "tu_id": "491",
+    "speaker": "PST092_trad",
+    "start": "1150.150",
+    "end": "1150.820",
+    "parent_tu_id": "490",
+    "text": "buona sera"
+  },
+  {
+    "tu_id": "523",
+    "speaker": "PST092_trad",
+    "start": "1226.220",
+    "end": "1227.050",
+    "parent_tu_id": "521",
+    "text": "buona sera"
+  },
+  {
+    "tu_id": "524",
+    "speaker": "PST083_trad",
+    "start": "1226.220",
+    "end": "1227.050",
+    "parent_tu_id": "522",
+    "text": "sera"
+  },
+  {
+    "tu_id": "543",
+    "speaker": "PST087_trad",
+    "start": "1246.860",
+    "end": "1248.960",
+    "parent_tu_id": "542",
+    "text": "ma se no anche tipo al transilvano"
+  },
+  {
+    "tu_id": "549",
+    "speaker": "PST087_trad",
+    "start": "1254.330",
+    "end": "1255.750",
+    "parent_tu_id": "548",
+    "text": "uh al transilvano"
+  },
+  {
+    "tu_id": "552",
+    "speaker": "PST092_trad",
+    "start": "1256.570",
+    "end": "1262.600",
+    "parent_tu_id": "551",
+    "text": "tu vai dal transilvano vai alla macelleria a parlare con il transilvano figuriamoci"
+  },
+  {
+    "tu_id": "579",
+    "speaker": "PST092_trad",
+    "start": "1306.450",
+    "end": "1307.080",
+    "parent_tu_id": "578",
+    "text": "di romeni"
+  },
+  {
+    "tu_id": "586",
+    "speaker": "PST092_trad",
+    "start": "1316.820",
+    "end": "1319.410",
+    "parent_tu_id": "584",
+    "text": "è tornata e non ritornerà più"
+  },
+  {
+    "tu_id": "606",
+    "speaker": "PST092_trad",
+    "start": "1354.550",
+    "end": "1357.270",
+    "parent_tu_id": "605",
+    "text": "ehm dove si fanno i documenti"
+  },
+  {
+    "tu_id": "608",
+    "speaker": "PST092_trad",
+    "start": "1357.690",
+    "end": "1359.900",
+    "parent_tu_id": "607",
+    "text": "e intervistare il signore al consolato"
+  },
+  {
+    "tu_id": "634",
+    "speaker": "PST083_trad",
+    "start": "1400.410",
+    "end": "1402.190",
+    "parent_tu_id": "633",
+    "text": "che è la figlia del capo del consolato"
+  },
+  {
+    "tu_id": "641",
+    "speaker": "PST092_trad",
+    "start": "1410.910",
+    "end": "1413.350",
+    "parent_tu_id": "640",
+    "text": "tema generale intervistare il signore del consolato"
+  },
+  {
+    "tu_id": "647",
+    "speaker": "PST092_trad",
+    "start": "1423.550",
+    "end": "1433.620",
+    "parent_tu_id": "646",
+    "text": "sì ma mi sa che ha da fare ancora con qualcuno ((scrivendo)) intervistare il signore del consolato"
+  },
+  {
+    "tu_id": "652",
+    "speaker": "PST092_trad",
+    "start": "1444.830",
+    "end": "1447.170",
+    "parent_tu_id": "651",
+    "text": "persone signore del consolato"
+  },
+  {
+    "tu_id": "657",
+    "speaker": "PST092_trad",
+    "start": "1452.300",
+    "end": "1456.020",
+    "parent_tu_id": "656",
+    "text": "location dove la facciamo al consolato o qua (.) consolato"
+  },
+  {
+    "tu_id": "660",
+    "speaker": "PST092_trad",
+    "start": "1459.740",
+    "end": "1463.060",
+    "parent_tu_id": "659",
+    "text": "consolato quando eh da vedere inquadrature primo piano?"
+  },
+  {
+    "tu_id": "670",
+    "speaker": "PST092_trad",
+    "start": "1491.860",
+    "end": "1492.850",
+    "parent_tu_id": "669",
+    "text": "sì mamma"
+  },
+  {
+    "tu_id": "675",
+    "speaker": "PST092_trad",
+    "start": "1507.700",
+    "end": "1508.570",
+    "parent_tu_id": "674",
+    "text": "ora?"
+  },
+  {
+    "tu_id": "677",
+    "speaker": "PST092_trad",
+    "start": "1512.490",
+    "end": "1515.040",
+    "parent_tu_id": "676",
+    "text": "glieli do domani perché glieli dai oggi"
+  },
+  {
+    "tu_id": "679",
+    "speaker": "PST092_trad",
+    "start": "1516.525",
+    "end": "1519.465",
+    "parent_tu_id": "678",
+    "text": "soldi per la canzone per cosa?"
+  },
+  {
+    "tu_id": "682",
+    "speaker": "PST092_trad",
+    "start": "1529.060",
+    "end": "1530.140",
+    "parent_tu_id": "681",
+    "text": "perché no?"
+  },
+  {
+    "tu_id": "685",
+    "speaker": "PST092_trad",
+    "start": "1539.220",
+    "end": "1542.360",
+    "parent_tu_id": "684",
+    "text": "eh glielo dico ma non so se può perché è occupata mamma"
+  },
+  {
+    "tu_id": "687",
+    "speaker": "PST092_trad",
+    "start": "1545.460",
+    "end": "1546.560",
+    "parent_tu_id": "686",
+    "text": "eh (hai) i canti"
+  },
+  {
+    "tu_id": "690",
+    "speaker": "PST092_trad",
+    "start": "1553.390",
+    "end": "1557.520",
+    "parent_tu_id": "689",
+    "text": "piuttosto esco io fuori e me li dai a me e io glieli do a lei cosi non"
+  },
+  {
+    "tu_id": "693",
+    "speaker": "PST092_trad",
+    "start": "1563.690",
+    "end": "1565.600",
+    "parent_tu_id": "692",
+    "text": "se è pieno non so se è pieno"
+  },
+  {
+    "tu_id": "695",
+    "speaker": "PST092_trad",
+    "start": "1568.770",
+    "end": "1569.740",
+    "parent_tu_id": "694",
+    "text": "probabilmente"
+  },
+  {
+    "tu_id": "698",
+    "speaker": "PST092_trad",
+    "start": "1571.450",
+    "end": "1573.070",
+    "parent_tu_id": "697",
+    "text": "dai mamma ti lascio"
+  },
+  {
+    "tu_id": "700",
+    "speaker": "PST092_trad",
+    "start": "1574.090",
+    "end": "1574.520",
+    "parent_tu_id": "699",
+    "text": "ciao"
+  }
+]

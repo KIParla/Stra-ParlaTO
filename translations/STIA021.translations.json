@@ -1,0 +1,506 @@
+[
+  {
+    "tu_id": "43",
+    "speaker": "PST140_trad",
+    "start": "69.450",
+    "end": "73.067",
+    "parent_tu_id": "42",
+    "text": "l'accento, accento in italiano, l'accento"
+  },
+  {
+    "tu_id": "45",
+    "speaker": "PST141_trad",
+    "start": "73.263",
+    "end": "74.063",
+    "parent_tu_id": "44",
+    "text": "l'accento"
+  },
+  {
+    "tu_id": "47",
+    "speaker": "PST140_trad",
+    "start": "74.063",
+    "end": "75.228",
+    "parent_tu_id": "46",
+    "text": "l'accento, l'accento"
+  },
+  {
+    "tu_id": "49",
+    "speaker": "PST141_trad",
+    "start": "75.310",
+    "end": "76.680",
+    "parent_tu_id": "48",
+    "text": "l'accento"
+  },
+  {
+    "tu_id": "87",
+    "speaker": "PST140_trad",
+    "start": "141.530",
+    "end": "143.683",
+    "parent_tu_id": "86",
+    "text": "berbero, berbero"
+  },
+  {
+    "tu_id": "93",
+    "speaker": "PST140_trad",
+    "start": "144.922",
+    "end": "146.130",
+    "parent_tu_id": "92",
+    "text": "berbero e arabo"
+  },
+  {
+    "tu_id": "95",
+    "speaker": "PST141_trad",
+    "start": "145.541",
+    "end": "146.541",
+    "parent_tu_id": "94",
+    "text": "berbero, berbero"
+  },
+  {
+    "tu_id": "99",
+    "speaker": "PST140_trad",
+    "start": "147.893",
+    "end": "151.790",
+    "parent_tu_id": "98",
+    "text": "berbero sì berbero, berbero berbero berbero, berbero e arabo"
+  },
+  {
+    "tu_id": "101",
+    "speaker": "PST141_trad",
+    "start": "148.380",
+    "end": "150.050",
+    "parent_tu_id": "100",
+    "text": "lingua berbera, sì"
+  },
+  {
+    "tu_id": "113",
+    "speaker": "PST141_trad",
+    "start": "160.900",
+    "end": "161.790",
+    "parent_tu_id": "112",
+    "text": "il berbero"
+  },
+  {
+    "tu_id": "116",
+    "speaker": "PST140_trad",
+    "start": "161.827",
+    "end": "162.467",
+    "parent_tu_id": "115",
+    "text": "berbero, sì"
+  },
+  {
+    "tu_id": "124",
+    "speaker": "PST140_trad",
+    "start": "166.204",
+    "end": "171.561",
+    "parent_tu_id": "123",
+    "text": "uguale, uguale uguale eh, eh eh, lingua berbera"
+  },
+  {
+    "tu_id": "127",
+    "speaker": "PST140_trad",
+    "start": "172.070",
+    "end": "172.930",
+    "parent_tu_id": "126",
+    "text": "lingua berbera"
+  },
+  {
+    "tu_id": "129",
+    "speaker": "PST140_trad",
+    "start": "173.345",
+    "end": "175.877",
+    "parent_tu_id": "128",
+    "text": "la lingua berbera amazigh"
+  },
+  {
+    "tu_id": "133",
+    "speaker": "PST141_trad",
+    "start": "178.146",
+    "end": "182.391",
+    "parent_tu_id": "132",
+    "text": "guarda che i berberi hanno il loro dialetto, hanno la loro lingua"
+  },
+  {
+    "tu_id": "136",
+    "speaker": "PST140_trad",
+    "start": "181.080",
+    "end": "181.700",
+    "parent_tu_id": "135",
+    "text": "berbero"
+  },
+  {
+    "tu_id": "140",
+    "speaker": "PST140_trad",
+    "start": "185.380",
+    "end": "187.250",
+    "parent_tu_id": "139",
+    "text": "un po' arabo e berbero"
+  },
+  {
+    "tu_id": "142",
+    "speaker": "PST141_trad",
+    "start": "186.480",
+    "end": "191.080",
+    "parent_tu_id": "141",
+    "text": "dai, confondi il signore dicendogli qualche parola in berbero, no no va bene, sì"
+  },
+  {
+    "tu_id": "144",
+    "speaker": "PST140_trad",
+    "start": "188.370",
+    "end": "191.082",
+    "parent_tu_id": "143",
+    "text": "dovrebbe sapere xxx marocchino, nel senso..."
+  },
+  {
+    "tu_id": "163",
+    "speaker": "PST141_trad",
+    "start": "211.641",
+    "end": "213.441",
+    "parent_tu_id": "162",
+    "text": "la lingua madre, l'arabo"
+  },
+  {
+    "tu_id": "169",
+    "speaker": "PST140_trad",
+    "start": "222.400",
+    "end": "224.680",
+    "parent_tu_id": "168",
+    "text": "anche il francese, anche il francese"
+  },
+  {
+    "tu_id": "173",
+    "speaker": "PST142_trad",
+    "start": "224.310",
+    "end": "225.200",
+    "parent_tu_id": "172",
+    "text": "francese"
+  },
+  {
+    "tu_id": "183",
+    "speaker": "PST141_trad",
+    "start": "239.425",
+    "end": "242.410",
+    "parent_tu_id": "182",
+    "text": "un po' lo spagnolo al nord, sì sì"
+  },
+  {
+    "tu_id": "188",
+    "speaker": "PST140_trad",
+    "start": "242.760",
+    "end": "243.800",
+    "parent_tu_id": "186",
+    "text": "si c'è lo spagnlo"
+  },
+  {
+    "tu_id": "189",
+    "speaker": "PST141_trad",
+    "start": "242.760",
+    "end": "244.570",
+    "parent_tu_id": "187",
+    "text": "al nord si parla lo spagnolo, sì"
+  },
+  {
+    "tu_id": "192",
+    "speaker": "PST141_trad",
+    "start": "244.690",
+    "end": "246.890",
+    "parent_tu_id": "191",
+    "text": "al nord si parla lo spagnolo, sì"
+  },
+  {
+    "tu_id": "197",
+    "speaker": "PST141_trad",
+    "start": "248.480",
+    "end": "250.020",
+    "parent_tu_id": "196",
+    "text": "al nord tutti lo parlano"
+  },
+  {
+    "tu_id": "205",
+    "speaker": "PST142_trad",
+    "start": "254.270",
+    "end": "256.707",
+    "parent_tu_id": "204",
+    "text": "per la scuola si deve sapere il francese"
+  },
+  {
+    "tu_id": "217",
+    "speaker": "PST141_trad",
+    "start": "269.046",
+    "end": "270.729",
+    "parent_tu_id": "216",
+    "text": "tedesco"
+  },
+  {
+    "tu_id": "219",
+    "speaker": "PST141_trad",
+    "start": "270.836",
+    "end": "273.053",
+    "parent_tu_id": "218",
+    "text": "vuol dire la lingua tedesca"
+  },
+  {
+    "tu_id": "228",
+    "speaker": "PST140_trad",
+    "start": "278.260",
+    "end": "280.259",
+    "parent_tu_id": "227",
+    "text": "però la prima lingua"
+  },
+  {
+    "tu_id": "231",
+    "speaker": "PST141_trad",
+    "start": "280.980",
+    "end": "282.620",
+    "parent_tu_id": "230",
+    "text": "la prima lingua francese"
+  },
+  {
+    "tu_id": "239",
+    "speaker": "PST141_trad",
+    "start": "286.900",
+    "end": "288.987",
+    "parent_tu_id": "238",
+    "text": "no, adesso noi al liceo xx"
+  },
+  {
+    "tu_id": "259",
+    "speaker": "PST141_trad",
+    "start": "308.160",
+    "end": "309.580",
+    "parent_tu_id": "258",
+    "text": "economico"
+  },
+  {
+    "tu_id": "328",
+    "speaker": "PST141_trad",
+    "start": "399.875",
+    "end": "402.225",
+    "parent_tu_id": "327",
+    "text": "ai marocchini piace l'italia per questo l'hanno riempita"
+  },
+  {
+    "tu_id": "330",
+    "speaker": "PST142_trad",
+    "start": "402.225",
+    "end": "406.471",
+    "parent_tu_id": "329",
+    "text": "giocava con loro al..."
+  },
+  {
+    "tu_id": "332",
+    "speaker": "PST141_trad",
+    "start": "403.990",
+    "end": "406.250",
+    "parent_tu_id": "331",
+    "text": "ti ha detto che giocava"
+  },
+  {
+    "tu_id": "339",
+    "speaker": "PST141_trad",
+    "start": "411.387",
+    "end": "414.410",
+    "parent_tu_id": "338",
+    "text": "ci sono rimasta male solo per gli sciampi"
+  },
+  {
+    "tu_id": "343",
+    "speaker": "PST141_trad",
+    "start": "415.290",
+    "end": "417.700",
+    "parent_tu_id": "342",
+    "text": "ve lo giuro @nada sta chiamando vergognatevi ragazzi"
+  },
+  {
+    "tu_id": "366",
+    "speaker": "PST141_trad",
+    "start": "452.092",
+    "end": "456.250",
+    "parent_tu_id": "365",
+    "text": "dai scusa amore mio, che dio ti aiuti, non ti dimenticare del lunedì, del lunedì"
+  },
+  {
+    "tu_id": "370",
+    "speaker": "PST141_trad",
+    "start": "456.290",
+    "end": "461.490",
+    "parent_tu_id": "369",
+    "text": "con la volontà di dio xx xx xx prenditi cura di te stessa, vai in pace amore"
+  },
+  {
+    "tu_id": "373",
+    "speaker": "PST141_trad",
+    "start": "463.900",
+    "end": "466.907",
+    "parent_tu_id": "372",
+    "text": "vergogna abbiamo lasciato la signora ad aspettarci, poi ve la vedrete con me"
+  },
+  {
+    "tu_id": "376",
+    "speaker": "PST141_trad",
+    "start": "467.970",
+    "end": "471.900",
+    "parent_tu_id": "375",
+    "text": "quello lì, quello lì, ci dobbiamo confrontare con quello lì"
+  },
+  {
+    "tu_id": "378",
+    "speaker": "PST140_trad",
+    "start": "471.030",
+    "end": "475.321",
+    "parent_tu_id": "377",
+    "text": "digli che lui mi ha detto: \"come fai a conoscere @nomeassociazione\", gli ho detto che un ragazzo con me al lavoro me l'ha detto, diglielo"
+  },
+  {
+    "tu_id": "387",
+    "speaker": "PST141_trad",
+    "start": "488.901",
+    "end": "490.407",
+    "parent_tu_id": "386",
+    "text": "il tuo amico è marocchino?"
+  },
+  {
+    "tu_id": "395",
+    "speaker": "PST141_trad",
+    "start": "496.050",
+    "end": "499.690",
+    "parent_tu_id": "394",
+    "text": "ci serve un video, ragazzi, con l'italiano avanzato"
+  },
+  {
+    "tu_id": "491",
+    "speaker": "PST141_trad",
+    "start": "638.910",
+    "end": "642.490",
+    "parent_tu_id": "490",
+    "text": "signore, non è che sei andato durante il ramadan e sei tornato da una settimana e mi hai detto presto xx"
+  },
+  {
+    "tu_id": "493",
+    "speaker": "PST142_trad",
+    "start": "642.490",
+    "end": "644.090",
+    "parent_tu_id": "492",
+    "text": "no, no, no, no, no"
+  },
+  {
+    "tu_id": "495",
+    "speaker": "PST141_trad",
+    "start": "644.090",
+    "end": "647.160",
+    "parent_tu_id": "494",
+    "text": "raccontagli di come hai passato il ramadan lì, e poi di quando sei tornato"
+  },
+  {
+    "tu_id": "497",
+    "speaker": "PST142_trad",
+    "start": "646.610",
+    "end": "649.200",
+    "parent_tu_id": "496",
+    "text": "no, hai detto che sei arrivata eh..."
+  },
+  {
+    "tu_id": "501",
+    "speaker": "PST142_trad",
+    "start": "651.030",
+    "end": "652.890",
+    "parent_tu_id": "500",
+    "text": "no, no questa è una settimana sì"
+  },
+  {
+    "tu_id": "525",
+    "speaker": "PST142_trad",
+    "start": "680.161",
+    "end": "681.945",
+    "parent_tu_id": "524",
+    "text": "per il digiuno"
+  },
+  {
+    "tu_id": "560",
+    "speaker": "PST142_trad",
+    "start": "733.180",
+    "end": "735.487",
+    "parent_tu_id": "559",
+    "text": "da quant'è che sei arrivata in questa scuola?"
+  },
+  {
+    "tu_id": "627",
+    "speaker": "PST140_trad",
+    "start": "845.297",
+    "end": "848.232",
+    "parent_tu_id": "626",
+    "text": "in africa sempre il verbo"
+  },
+  {
+    "tu_id": "630",
+    "speaker": "PST140_trad",
+    "start": "848.330",
+    "end": "850.029",
+    "parent_tu_id": "628",
+    "text": "nella grammatica c'è sempre il verbo"
+  },
+  {
+    "tu_id": "637",
+    "speaker": "PST140_trad",
+    "start": "855.990",
+    "end": "858.030",
+    "parent_tu_id": "636",
+    "text": "comunicare"
+  },
+  {
+    "tu_id": "639",
+    "speaker": "PST142_trad",
+    "start": "857.390",
+    "end": "858.490",
+    "parent_tu_id": "638",
+    "text": "conversare"
+  },
+  {
+    "tu_id": "696",
+    "speaker": "PST142_trad",
+    "start": "948.260",
+    "end": "952.419",
+    "parent_tu_id": "694",
+    "text": "xx xx xx tu hai passato il mese di ramadan, come l'hai passato qui?"
+  },
+  {
+    "tu_id": "722",
+    "speaker": "PST140_trad",
+    "start": "981.540",
+    "end": "983.725",
+    "parent_tu_id": "721",
+    "text": "le diverse tipologie di piatti, ad esempio"
+  },
+  {
+    "tu_id": "768",
+    "speaker": "PST142_trad",
+    "start": "1047.790",
+    "end": "1049.050",
+    "parent_tu_id": "767",
+    "text": "da solo, sei da solo?"
+  },
+  {
+    "tu_id": "776",
+    "speaker": "PST141_trad",
+    "start": "1054.130",
+    "end": "1055.600",
+    "parent_tu_id": "775",
+    "text": "con i tuoi amici, con gli amici"
+  },
+  {
+    "tu_id": "779",
+    "speaker": "PST142_trad",
+    "start": "1054.915",
+    "end": "1056.595",
+    "parent_tu_id": "778",
+    "text": "sta da sola e sta da sola con loro"
+  },
+  {
+    "tu_id": "782",
+    "speaker": "PST140_trad",
+    "start": "1056.550",
+    "end": "1057.340",
+    "parent_tu_id": "781",
+    "text": "da solo"
+  }
+]

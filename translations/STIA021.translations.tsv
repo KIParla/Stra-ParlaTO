@@ -1,0 +1,64 @@
+tu_id	speaker	start	end	parent_tu_id	text
+43	PST140_trad	69.450	73.067	42	l'accento, accento in italiano, l'accento
+45	PST141_trad	73.263	74.063	44	l'accento
+47	PST140_trad	74.063	75.228	46	l'accento, l'accento
+49	PST141_trad	75.310	76.680	48	l'accento
+87	PST140_trad	141.530	143.683	86	berbero, berbero
+93	PST140_trad	144.922	146.130	92	berbero e arabo
+95	PST141_trad	145.541	146.541	94	berbero, berbero
+99	PST140_trad	147.893	151.790	98	berbero sì berbero, berbero berbero berbero, berbero e arabo
+101	PST141_trad	148.380	150.050	100	lingua berbera, sì
+113	PST141_trad	160.900	161.790	112	il berbero
+116	PST140_trad	161.827	162.467	115	berbero, sì
+124	PST140_trad	166.204	171.561	123	uguale, uguale uguale eh, eh eh, lingua berbera
+127	PST140_trad	172.070	172.930	126	lingua berbera
+129	PST140_trad	173.345	175.877	128	la lingua berbera amazigh
+133	PST141_trad	178.146	182.391	132	guarda che i berberi hanno il loro dialetto, hanno la loro lingua
+136	PST140_trad	181.080	181.700	135	berbero
+140	PST140_trad	185.380	187.250	139	un po' arabo e berbero
+142	PST141_trad	186.480	191.080	141	dai, confondi il signore dicendogli qualche parola in berbero, no no va bene, sì
+144	PST140_trad	188.370	191.082	143	dovrebbe sapere xxx marocchino, nel senso...
+163	PST141_trad	211.641	213.441	162	la lingua madre, l'arabo
+169	PST140_trad	222.400	224.680	168	anche il francese, anche il francese
+173	PST142_trad	224.310	225.200	172	francese
+183	PST141_trad	239.425	242.410	182	un po' lo spagnolo al nord, sì sì
+188	PST140_trad	242.760	243.800	186	si c'è lo spagnlo
+189	PST141_trad	242.760	244.570	187	al nord si parla lo spagnolo, sì
+192	PST141_trad	244.690	246.890	191	al nord si parla lo spagnolo, sì
+197	PST141_trad	248.480	250.020	196	al nord tutti lo parlano
+205	PST142_trad	254.270	256.707	204	per la scuola si deve sapere il francese
+217	PST141_trad	269.046	270.729	216	tedesco
+219	PST141_trad	270.836	273.053	218	vuol dire la lingua tedesca
+228	PST140_trad	278.260	280.259	227	però la prima lingua
+231	PST141_trad	280.980	282.620	230	la prima lingua francese
+239	PST141_trad	286.900	288.987	238	no, adesso noi al liceo xx
+259	PST141_trad	308.160	309.580	258	economico
+328	PST141_trad	399.875	402.225	327	ai marocchini piace l'italia per questo l'hanno riempita
+330	PST142_trad	402.225	406.471	329	giocava con loro al...
+332	PST141_trad	403.990	406.250	331	ti ha detto che giocava
+339	PST141_trad	411.387	414.410	338	ci sono rimasta male solo per gli sciampi
+343	PST141_trad	415.290	417.700	342	ve lo giuro @nada sta chiamando vergognatevi ragazzi
+366	PST141_trad	452.092	456.250	365	dai scusa amore mio, che dio ti aiuti, non ti dimenticare del lunedì, del lunedì
+370	PST141_trad	456.290	461.490	369	con la volontà di dio xx xx xx prenditi cura di te stessa, vai in pace amore
+373	PST141_trad	463.900	466.907	372	vergogna abbiamo lasciato la signora ad aspettarci, poi ve la vedrete con me
+376	PST141_trad	467.970	471.900	375	quello lì, quello lì, ci dobbiamo confrontare con quello lì
+378	PST140_trad	471.030	475.321	377	"digli che lui mi ha detto: ""come fai a conoscere @nomeassociazione"", gli ho detto che un ragazzo con me al lavoro me l'ha detto, diglielo"
+387	PST141_trad	488.901	490.407	386	il tuo amico è marocchino?
+395	PST141_trad	496.050	499.690	394	ci serve un video, ragazzi, con l'italiano avanzato
+491	PST141_trad	638.910	642.490	490	signore, non è che sei andato durante il ramadan e sei tornato da una settimana e mi hai detto presto xx
+493	PST142_trad	642.490	644.090	492	no, no, no, no, no
+495	PST141_trad	644.090	647.160	494	raccontagli di come hai passato il ramadan lì, e poi di quando sei tornato
+497	PST142_trad	646.610	649.200	496	no, hai detto che sei arrivata eh...
+501	PST142_trad	651.030	652.890	500	no, no questa è una settimana sì
+525	PST142_trad	680.161	681.945	524	per il digiuno
+560	PST142_trad	733.180	735.487	559	da quant'è che sei arrivata in questa scuola?
+627	PST140_trad	845.297	848.232	626	in africa sempre il verbo
+630	PST140_trad	848.330	850.029	628	nella grammatica c'è sempre il verbo
+637	PST140_trad	855.990	858.030	636	comunicare
+639	PST142_trad	857.390	858.490	638	conversare
+696	PST142_trad	948.260	952.419	694	xx xx xx tu hai passato il mese di ramadan, come l'hai passato qui?
+722	PST140_trad	981.540	983.725	721	le diverse tipologie di piatti, ad esempio
+768	PST142_trad	1047.790	1049.050	767	da solo, sei da solo?
+776	PST141_trad	1054.130	1055.600	775	con i tuoi amici, con gli amici
+779	PST142_trad	1054.915	1056.595	778	sta da sola e sta da sola con loro
+782	PST140_trad	1056.550	1057.340	781	da solo

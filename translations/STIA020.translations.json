@@ -1,0 +1,90 @@
+[
+  {
+    "tu_id": "1018",
+    "speaker": "PST220_trad",
+    "start": "1972.004",
+    "end": "1972.831",
+    "parent_tu_id": "1017",
+    "text": "sì grazie"
+  },
+  {
+    "tu_id": "1042",
+    "speaker": "PST220_trad",
+    "start": "2056.245",
+    "end": "2057.010",
+    "parent_tu_id": "1041",
+    "text": "sì questo qua"
+  },
+  {
+    "tu_id": "1226",
+    "speaker": "PST219_trad",
+    "start": "2513.631",
+    "end": "2514.455",
+    "parent_tu_id": "1225",
+    "text": "macelleria"
+  },
+  {
+    "tu_id": "1230",
+    "speaker": "PST219_trad",
+    "start": "2516.645",
+    "end": "2518.091",
+    "parent_tu_id": "1229",
+    "text": "macelleria"
+  },
+  {
+    "tu_id": "1232",
+    "speaker": "PST121_trad",
+    "start": "2517.637",
+    "end": "2518.885",
+    "parent_tu_id": "1231",
+    "text": "macelleria macelleria"
+  },
+  {
+    "tu_id": "1234",
+    "speaker": "PST219_trad",
+    "start": "2518.885",
+    "end": "2522.273",
+    "parent_tu_id": "1233",
+    "text": "leggi macelleria dappertutto"
+  },
+  {
+    "tu_id": "1236",
+    "speaker": "PST121_trad",
+    "start": "2522.273",
+    "end": "2523.354",
+    "parent_tu_id": "1235",
+    "text": "macelleria macelleria"
+  },
+  {
+    "tu_id": "1347",
+    "speaker": "PST219_trad",
+    "start": "2805.351",
+    "end": "2806.805",
+    "parent_tu_id": "1346",
+    "text": "buongiorno"
+  },
+  {
+    "tu_id": "1349",
+    "speaker": "PST219_trad",
+    "start": "2808.984",
+    "end": "2810.093",
+    "parent_tu_id": "1348",
+    "text": "come stai?"
+  },
+  {
+    "tu_id": "1482",
+    "speaker": "PST220_trad",
+    "start": "3071.686",
+    "end": "3074.992",
+    "parent_tu_id": "1481",
+    "text": "non lo sapevo okay okay"
+  },
+  {
+    "tu_id": "1570",
+    "speaker": "PST220_trad",
+    "start": "3275.472",
+    "end": "3276.353",
+    "parent_tu_id": "1569",
+    "text": "va bene"
+  }
+]

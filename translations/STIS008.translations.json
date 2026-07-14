@@ -1,0 +1,34 @@
+[
+  {
+    "tu_id": "555",
+    "speaker": "PST049_trad",
+    "start": "1635.785",
+    "end": "1636.640",
+    "parent_tu_id": "554",
+    "text": "ha il suo perché"
+  },
+  {
+    "tu_id": "558",
+    "speaker": "PST049_trad",
+    "start": "1637.559",
+    "end": "1638.596",
+    "parent_tu_id": "557",
+    "text": "ha il suo no s~"
+  },
+  {
+    "tu_id": "564",
+    "speaker": "PST049_trad",
+    "start": "1657.951",
+    "end": "1662.474",
+    "parent_tu_id": "563",
+    "text": "e dici non tanto ma n~ non tanto però ha il suo perché tipo"
+  },
+  {
+    "tu_id": "574",
+    "speaker": "PST049_trad",
+    "start": "1678.123",
+    "end": "1682.163",
+    "parent_tu_id": "573",
+    "text": "o o non so tipo non mi va no?"
+  }
+]

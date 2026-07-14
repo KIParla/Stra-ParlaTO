@@ -1,0 +1,2730 @@
+[
+  {
+    "tu_id": "1",
+    "speaker": "PST136_trad",
+    "start": "2.260",
+    "end": "2.780",
+    "parent_tu_id": "0",
+    "text": "hai visto?"
+  },
+  {
+    "tu_id": "9",
+    "speaker": "PST138_trad",
+    "start": "14.983",
+    "end": "18.260",
+    "parent_tu_id": "8",
+    "text": "no, no veramente, la maturità del marocco è veramente difficile raga"
+  },
+  {
+    "tu_id": "12",
+    "speaker": "PST136_trad",
+    "start": "18.330",
+    "end": "23.833",
+    "parent_tu_id": "11",
+    "text": "ti dicono che fanno salire qualcuno al cielo e ti dicono che lo lanceranno dall'aereo e di calcolare la velocità."
+  },
+  {
+    "tu_id": "17",
+    "speaker": "PST137_trad",
+    "start": "26.463",
+    "end": "27.588",
+    "parent_tu_id": "16",
+    "text": "l'esame in francese"
+  },
+  {
+    "tu_id": "21",
+    "speaker": "PST138_trad",
+    "start": "33.122",
+    "end": "39.310",
+    "parent_tu_id": "20",
+    "text": "ho detto: \"il mio nome è\", non mi ricordo il nome, \"amo il marocco e dovreste visitarlo\""
+  },
+  {
+    "tu_id": "23",
+    "speaker": "PST136_trad",
+    "start": "37.744",
+    "end": "39.333",
+    "parent_tu_id": "22",
+    "text": "dovreste visitarlo"
+  },
+  {
+    "tu_id": "25",
+    "speaker": "PST136_trad",
+    "start": "39.778",
+    "end": "43.322",
+    "parent_tu_id": "24",
+    "text": "basta, questo è tutto"
+  },
+  {
+    "tu_id": "35",
+    "speaker": "PST138_trad",
+    "start": "52.255",
+    "end": "53.050",
+    "parent_tu_id": "34",
+    "text": "dai"
+  },
+  {
+    "tu_id": "37",
+    "speaker": "PST136_trad",
+    "start": "53.421",
+    "end": "56.222",
+    "parent_tu_id": "36",
+    "text": "e tu come ti fai chiamare @nada o @neda?"
+  },
+  {
+    "tu_id": "42",
+    "speaker": "PST137_trad",
+    "start": "61.288",
+    "end": "62.699",
+    "parent_tu_id": "41",
+    "text": "@neda ti fa sembrare vecchia"
+  },
+  {
+    "tu_id": "51",
+    "speaker": "PST136_trad",
+    "start": "70.355",
+    "end": "74.566",
+    "parent_tu_id": "50",
+    "text": "@nada ti fa sembrare più  giovane, @neda invece, ti immagino già una donna di trent'anni con due figli"
+  },
+  {
+    "tu_id": "59",
+    "speaker": "PST138_trad",
+    "start": "81.599",
+    "end": "83.432",
+    "parent_tu_id": "58",
+    "text": "@neda, ma in verità lo rendono più duro"
+  },
+  {
+    "tu_id": "64",
+    "speaker": "PST138_trad",
+    "start": "87.911",
+    "end": "89.289",
+    "parent_tu_id": "63",
+    "text": "bellezza, bel fisico"
+  },
+  {
+    "tu_id": "71",
+    "speaker": "PST138_trad",
+    "start": "94.311",
+    "end": "95.466",
+    "parent_tu_id": "70",
+    "text": "(zan)nuba, sì"
+  },
+  {
+    "tu_id": "76",
+    "speaker": "PST139_trad",
+    "start": "97.878",
+    "end": "99.200",
+    "parent_tu_id": "75",
+    "text": "noi diciamo @nadouda"
+  },
+  {
+    "tu_id": "80",
+    "speaker": "PST136_trad",
+    "start": "100.837",
+    "end": "102.193",
+    "parent_tu_id": "79",
+    "text": "io dico @nadouda"
+  },
+  {
+    "tu_id": "82",
+    "speaker": "PST136_trad",
+    "start": "102.349",
+    "end": "103.538",
+    "parent_tu_id": "81",
+    "text": "ti ci faccio divertire"
+  },
+  {
+    "tu_id": "105",
+    "speaker": "PST136_trad",
+    "start": "124.299",
+    "end": "127.855",
+    "parent_tu_id": "104",
+    "text": "loro è come se lo abbreviassero, noi lo allunghiamo, diciamo omar"
+  },
+  {
+    "tu_id": "119",
+    "speaker": "PST139_trad",
+    "start": "136.754",
+    "end": "139.522",
+    "parent_tu_id": "118",
+    "text": "è per le ragazze e i ragazzi questo (nome)"
+  },
+  {
+    "tu_id": "122",
+    "speaker": "PST139_trad",
+    "start": "140.566",
+    "end": "142.634",
+    "parent_tu_id": "121",
+    "text": "rayan è una ragazza e un ragazzo"
+  },
+  {
+    "tu_id": "124",
+    "speaker": "PST135_trad",
+    "start": "142.668",
+    "end": "143.065",
+    "parent_tu_id": "123",
+    "text": "cosa?"
+  },
+  {
+    "tu_id": "130",
+    "speaker": "PST136_trad",
+    "start": "146.011",
+    "end": "146.989",
+    "parent_tu_id": "129",
+    "text": "solo per ragazzi"
+  },
+  {
+    "tu_id": "132",
+    "speaker": "PST135_trad",
+    "start": "146.988",
+    "end": "147.743",
+    "parent_tu_id": "131",
+    "text": "solo ragazzi"
+  },
+  {
+    "tu_id": "153",
+    "speaker": "PST136_trad",
+    "start": "171.721",
+    "end": "174.119",
+    "parent_tu_id": "152",
+    "text": "in realtà sarebbe fatim zahra"
+  },
+  {
+    "tu_id": "158",
+    "speaker": "PST137_trad",
+    "start": "176.398",
+    "end": "178.944",
+    "parent_tu_id": "157",
+    "text": "in marocco dicono fatima zahra"
+  },
+  {
+    "tu_id": "161",
+    "speaker": "PST137_trad",
+    "start": "179.144",
+    "end": "179.922",
+    "parent_tu_id": "160",
+    "text": "non fatima"
+  },
+  {
+    "tu_id": "164",
+    "speaker": "PST136_trad",
+    "start": "180.432",
+    "end": "184.966",
+    "parent_tu_id": "163",
+    "text": "no perché in realtà è fatimat al-zahra, figlia del profeta che la pace e le benedizioni siano su di lui, fatimat al-zahra non fatima"
+  },
+  {
+    "tu_id": "172",
+    "speaker": "PST137_trad",
+    "start": "195.166",
+    "end": "197.221",
+    "parent_tu_id": "171",
+    "text": "musaiba, conosci il nome musaiba?"
+  },
+  {
+    "tu_id": "184",
+    "speaker": "PST136_trad",
+    "start": "207.421",
+    "end": "208.355",
+    "parent_tu_id": "183",
+    "text": "è un nome da ragazza?"
+  },
+  {
+    "tu_id": "186",
+    "speaker": "PST139_trad",
+    "start": "208.610",
+    "end": "209.466",
+    "parent_tu_id": "185",
+    "text": "il mio destino"
+  },
+  {
+    "tu_id": "190",
+    "speaker": "PST137_trad",
+    "start": "210.159",
+    "end": "210.903",
+    "parent_tu_id": "189",
+    "text": "è un nome da ragazza?"
+  },
+  {
+    "tu_id": "195",
+    "speaker": "PST137_trad",
+    "start": "214.310",
+    "end": "216.555",
+    "parent_tu_id": "194",
+    "text": "sei musaib?"
+  },
+  {
+    "tu_id": "206",
+    "speaker": "PST135_trad",
+    "start": "228.688",
+    "end": "229.588",
+    "parent_tu_id": "205",
+    "text": "rispondi fra"
+  },
+  {
+    "tu_id": "212",
+    "speaker": "PST139_trad",
+    "start": "232.766",
+    "end": "234.170",
+    "parent_tu_id": "211",
+    "text": "rispondi fra (imita il dialetto marocchino))"
+  },
+  {
+    "tu_id": "215",
+    "speaker": "PST139_trad",
+    "start": "236.077",
+    "end": "237.277",
+    "parent_tu_id": "214",
+    "text": "lo so"
+  },
+  {
+    "tu_id": "231",
+    "speaker": "PST138_trad",
+    "start": "253.409",
+    "end": "255.314",
+    "parent_tu_id": "230",
+    "text": "avete il nome xadija? okay"
+  },
+  {
+    "tu_id": "233",
+    "speaker": "PST135_trad",
+    "start": "255.755",
+    "end": "257.432",
+    "parent_tu_id": "232",
+    "text": "nome arabo"
+  },
+  {
+    "tu_id": "237",
+    "speaker": "PST137_trad",
+    "start": "259.458",
+    "end": "260.458",
+    "parent_tu_id": "236",
+    "text": "noi non diciamo xadija"
+  },
+  {
+    "tu_id": "244",
+    "speaker": "PST136_trad",
+    "start": "267.352",
+    "end": "269.686",
+    "parent_tu_id": "243",
+    "text": "chiamala addirittura l-batul, tamo tamo tamo"
+  },
+  {
+    "tu_id": "249",
+    "speaker": "PST139_trad",
+    "start": "273.893",
+    "end": "278.315",
+    "parent_tu_id": "248",
+    "text": "zuhur e i fiori non sono insieme"
+  },
+  {
+    "tu_id": "251",
+    "speaker": "PST135_trad",
+    "start": "276.687",
+    "end": "277.608",
+    "parent_tu_id": "250",
+    "text": "okay, ma zhur"
+  },
+  {
+    "tu_id": "254",
+    "speaker": "PST136_trad",
+    "start": "278.788",
+    "end": "293.366",
+    "parent_tu_id": "253",
+    "text": "rhimo rhimo, un ragazzo stava parlando con un suo amico che si sentiva con una ragazza, immagina come mi ha detto che si chiama la ragazza, rhimo"
+  },
+  {
+    "tu_id": "256",
+    "speaker": "PST135_trad",
+    "start": "293.389",
+    "end": "299.822",
+    "parent_tu_id": "255",
+    "text": "abbiamo nomi folli per le ragazze come rhimo e ijjo"
+  },
+  {
+    "tu_id": "258",
+    "speaker": "PST138_trad",
+    "start": "299.833",
+    "end": "302.077",
+    "parent_tu_id": "257",
+    "text": "oddio ijjo, ijjo è un nome berbero"
+  },
+  {
+    "tu_id": "261",
+    "speaker": "PST135_trad",
+    "start": "302.244",
+    "end": "303.588",
+    "parent_tu_id": "260",
+    "text": "berbero, berbero"
+  },
+  {
+    "tu_id": "299",
+    "speaker": "PST135_trad",
+    "start": "330.089",
+    "end": "330.700",
+    "parent_tu_id": "298",
+    "text": "che ha?"
+  },
+  {
+    "tu_id": "301",
+    "speaker": "PST139_trad",
+    "start": "330.721",
+    "end": "331.721",
+    "parent_tu_id": "300",
+    "text": "la maria vergine"
+  },
+  {
+    "tu_id": "305",
+    "speaker": "PST138_trad",
+    "start": "335.878",
+    "end": "336.533",
+    "parent_tu_id": "304",
+    "text": "avete il nome ghita?"
+  },
+  {
+    "tu_id": "316",
+    "speaker": "PST135_trad",
+    "start": "343.044",
+    "end": "346.087",
+    "parent_tu_id": "315",
+    "text": "ghita è il nome rita, ma noi diciamo rhita"
+  },
+  {
+    "tu_id": "318",
+    "speaker": "PST136_trad",
+    "start": "344.588",
+    "end": "345.344",
+    "parent_tu_id": "317",
+    "text": "più o meno"
+  },
+  {
+    "tu_id": "321",
+    "speaker": "PST137_trad",
+    "start": "347.410",
+    "end": "348.760",
+    "parent_tu_id": "320",
+    "text": "loro dicono rita"
+  },
+  {
+    "tu_id": "324",
+    "speaker": "PST138_trad",
+    "start": "349.981",
+    "end": "350.437",
+    "parent_tu_id": "323",
+    "text": "lubna (nome proprio di persona femminile)"
+  },
+  {
+    "tu_id": "331",
+    "speaker": "PST139_trad",
+    "start": "354.866",
+    "end": "355.511",
+    "parent_tu_id": "330",
+    "text": "avete il nome jubna?"
+  },
+  {
+    "tu_id": "333",
+    "speaker": "PST136_trad",
+    "start": "355.490",
+    "end": "361.479",
+    "parent_tu_id": "332",
+    "text": "formaggio e formaggi e latte e latti fermentati, no?"
+  },
+  {
+    "tu_id": "339",
+    "speaker": "PST139_trad",
+    "start": "364.735",
+    "end": "365.392",
+    "parent_tu_id": "338",
+    "text": "no, non sappiamo"
+  },
+  {
+    "tu_id": "341",
+    "speaker": "PST135_trad",
+    "start": "365.804",
+    "end": "371.671",
+    "parent_tu_id": "340",
+    "text": "le mie due cugine sono"
+  },
+  {
+    "tu_id": "348",
+    "speaker": "PST139_trad",
+    "start": "375.510",
+    "end": "376.866",
+    "parent_tu_id": "347",
+    "text": "per i ragazzi"
+  },
+  {
+    "tu_id": "350",
+    "speaker": "PST138_trad",
+    "start": "376.833",
+    "end": "378.377",
+    "parent_tu_id": "349",
+    "text": "no, per ragazze"
+  },
+  {
+    "tu_id": "352",
+    "speaker": "PST135_trad",
+    "start": "377.266",
+    "end": "378.599",
+    "parent_tu_id": "351",
+    "text": "@amina per ragazzi?"
+  },
+  {
+    "tu_id": "354",
+    "speaker": "PST139_trad",
+    "start": "378.755",
+    "end": "379.066",
+    "parent_tu_id": "353",
+    "text": "sì"
+  },
+  {
+    "tu_id": "356",
+    "speaker": "PST135_trad",
+    "start": "379.054",
+    "end": "380.943",
+    "parent_tu_id": "355",
+    "text": "@amina è per le ragazze"
+  },
+  {
+    "tu_id": "359",
+    "speaker": "PST137_trad",
+    "start": "382.214",
+    "end": "383.066",
+    "parent_tu_id": "358",
+    "text": "@amina per ragazzi?"
+  },
+  {
+    "tu_id": "361",
+    "speaker": "PST136_trad",
+    "start": "382.988",
+    "end": "384.366",
+    "parent_tu_id": "360",
+    "text": "e islam?"
+  },
+  {
+    "tu_id": "366",
+    "speaker": "PST135_trad",
+    "start": "387.033",
+    "end": "388.755",
+    "parent_tu_id": "365",
+    "text": "islam è  per ragazze?"
+  },
+  {
+    "tu_id": "369",
+    "speaker": "PST136_trad",
+    "start": "389.221",
+    "end": "391.221",
+    "parent_tu_id": "368",
+    "text": "è nome per ragazzi o ragazze?"
+  },
+  {
+    "tu_id": "371",
+    "speaker": "PST139_trad",
+    "start": "391.210",
+    "end": "391.599",
+    "parent_tu_id": "370",
+    "text": "ragazzo"
+  },
+  {
+    "tu_id": "373",
+    "speaker": "PST136_trad",
+    "start": "391.710",
+    "end": "392.166",
+    "parent_tu_id": "372",
+    "text": "tutte e due"
+  },
+  {
+    "tu_id": "375",
+    "speaker": "PST135_trad",
+    "start": "392.155",
+    "end": "392.622",
+    "parent_tu_id": "374",
+    "text": "ragazzo?"
+  },
+  {
+    "tu_id": "377",
+    "speaker": "PST139_trad",
+    "start": "392.644",
+    "end": "393.888",
+    "parent_tu_id": "376",
+    "text": "no no, non tutte e due"
+  },
+  {
+    "tu_id": "380",
+    "speaker": "PST136_trad",
+    "start": "394.688",
+    "end": "395.499",
+    "parent_tu_id": "378",
+    "text": "per noi tutte e due"
+  },
+  {
+    "tu_id": "381",
+    "speaker": "PST139_trad",
+    "start": "394.688",
+    "end": "395.658",
+    "parent_tu_id": "379",
+    "text": "ragazze, islam"
+  },
+  {
+    "tu_id": "386",
+    "speaker": "PST137_trad",
+    "start": "399.766",
+    "end": "401.510",
+    "parent_tu_id": "385",
+    "text": "islam è per ragazze e ragazzi"
+  },
+  {
+    "tu_id": "390",
+    "speaker": "PST136_trad",
+    "start": "403.410",
+    "end": "404.055",
+    "parent_tu_id": "389",
+    "text": "avete il nome bara'?"
+  },
+  {
+    "tu_id": "393",
+    "speaker": "PST136_trad",
+    "start": "405.710",
+    "end": "407.255",
+    "parent_tu_id": "392",
+    "text": "bara' ehm entrambi"
+  },
+  {
+    "tu_id": "395",
+    "speaker": "PST136_trad",
+    "start": "407.582",
+    "end": "408.367",
+    "parent_tu_id": "394",
+    "text": "fantastico"
+  },
+  {
+    "tu_id": "407",
+    "speaker": "PST135_trad",
+    "start": "417.599",
+    "end": "418.333",
+    "parent_tu_id": "406",
+    "text": "innocenza"
+  },
+  {
+    "tu_id": "410",
+    "speaker": "PST135_trad",
+    "start": "418.577",
+    "end": "421.611",
+    "parent_tu_id": "409",
+    "text": "bara' infatti deriva da bara'a"
+  },
+  {
+    "tu_id": "417",
+    "speaker": "PST136_trad",
+    "start": "427.359",
+    "end": "432.626",
+    "parent_tu_id": "416",
+    "text": "il nome ihsan ce lo avete per le ragazze oopure per i ragazzi?"
+  },
+  {
+    "tu_id": "419",
+    "speaker": "PST135_trad",
+    "start": "431.130",
+    "end": "432.064",
+    "parent_tu_id": "418",
+    "text": "e nur?"
+  },
+  {
+    "tu_id": "423",
+    "speaker": "PST139_trad",
+    "start": "433.354",
+    "end": "434.811",
+    "parent_tu_id": "422",
+    "text": "@nomepersona mia sorella"
+  },
+  {
+    "tu_id": "431",
+    "speaker": "PST136_trad",
+    "start": "438.166",
+    "end": "439.610",
+    "parent_tu_id": "430",
+    "text": "loro la chiamano nor"
+  },
+  {
+    "tu_id": "434",
+    "speaker": "PST139_trad",
+    "start": "439.158",
+    "end": "440.093",
+    "parent_tu_id": "433",
+    "text": "è una ragazza"
+  },
+  {
+    "tu_id": "437",
+    "speaker": "PST139_trad",
+    "start": "441.020",
+    "end": "442.797",
+    "parent_tu_id": "436",
+    "text": "nor non è per una ragazza"
+  },
+  {
+    "tu_id": "457",
+    "speaker": "PST137_trad",
+    "start": "461.255",
+    "end": "468.233",
+    "parent_tu_id": "456",
+    "text": "praticamente mia zia si è sposata con un uomo che fa di cognome @cognomepersona, e quindi lei"
+  },
+  {
+    "tu_id": "459",
+    "speaker": "PST137_trad",
+    "start": "468.410",
+    "end": "472.690",
+    "parent_tu_id": "458",
+    "text": "ha portato, cosa vuol dire, ha portato una ragazza"
+  },
+  {
+    "tu_id": "492",
+    "speaker": "PST138_trad",
+    "start": "510.255",
+    "end": "510.766",
+    "parent_tu_id": "491",
+    "text": "ce lo avete?"
+  },
+  {
+    "tu_id": "494",
+    "speaker": "PST136_trad",
+    "start": "510.766",
+    "end": "512.677",
+    "parent_tu_id": "493",
+    "text": "i vosti padri, tuo padre si chiama dris?"
+  },
+  {
+    "tu_id": "498",
+    "speaker": "PST138_trad",
+    "start": "513.499",
+    "end": "514.861",
+    "parent_tu_id": "497",
+    "text": "è iniziata la festa del papà"
+  },
+  {
+    "tu_id": "507",
+    "speaker": "PST135_trad",
+    "start": "523.565",
+    "end": "524.110",
+    "parent_tu_id": "506",
+    "text": "e"
+  },
+  {
+    "tu_id": "517",
+    "speaker": "PST139_trad",
+    "start": "533.894",
+    "end": "536.494",
+    "parent_tu_id": "516",
+    "text": "okay conosco il nome ma non conosco nessuno"
+  },
+  {
+    "tu_id": "524",
+    "speaker": "PST139_trad",
+    "start": "546.020",
+    "end": "546.477",
+    "parent_tu_id": "523",
+    "text": ""
+  },
+  {
+    "tu_id": "541",
+    "speaker": "PST136_trad",
+    "start": "559.577",
+    "end": "560.510",
+    "parent_tu_id": "539",
+    "text": "e ḥafeḍh"
+  },
+  {
+    "tu_id": "547",
+    "speaker": "PST139_trad",
+    "start": "565.477",
+    "end": "567.266",
+    "parent_tu_id": "546",
+    "text": "non conosci hafidu darraji?"
+  },
+  {
+    "tu_id": "552",
+    "speaker": "PST137_trad",
+    "start": "571.833",
+    "end": "572.924",
+    "parent_tu_id": "551",
+    "text": "chi è questo?"
+  },
+  {
+    "tu_id": "554",
+    "speaker": "PST139_trad",
+    "start": "572.944",
+    "end": "575.621",
+    "parent_tu_id": "553",
+    "text": "telecronisti molto famosi in tunisia"
+  },
+  {
+    "tu_id": "556",
+    "speaker": "PST135_trad",
+    "start": "576.599",
+    "end": "577.733",
+    "parent_tu_id": "555",
+    "text": "eh le notizie"
+  },
+  {
+    "tu_id": "559",
+    "speaker": "PST139_trad",
+    "start": "577.700",
+    "end": "579.255",
+    "parent_tu_id": "558",
+    "text": "telecronisti di calcio"
+  },
+  {
+    "tu_id": "562",
+    "speaker": "PST139_trad",
+    "start": "579.788",
+    "end": "581.511",
+    "parent_tu_id": "561",
+    "text": "sicuro hai sentito parlare di loro, sicuro, sicuro"
+  },
+  {
+    "tu_id": "564",
+    "speaker": "PST138_trad",
+    "start": "581.533",
+    "end": "581.766",
+    "parent_tu_id": "563",
+    "text": "no"
+  },
+  {
+    "tu_id": "566",
+    "speaker": "PST137_trad",
+    "start": "581.784",
+    "end": "582.422",
+    "parent_tu_id": "565",
+    "text": "non li conosco"
+  },
+  {
+    "tu_id": "569",
+    "speaker": "PST139_trad",
+    "start": "584.298",
+    "end": "585.741",
+    "parent_tu_id": "568",
+    "text": "asam shawali oppure ufki"
+  },
+  {
+    "tu_id": "573",
+    "speaker": "PST139_trad",
+    "start": "587.255",
+    "end": "588.988",
+    "parent_tu_id": "572",
+    "text": "tutti gli arabi li conoscono"
+  },
+  {
+    "tu_id": "575",
+    "speaker": "PST136_trad",
+    "start": "589.544",
+    "end": "592.589",
+    "parent_tu_id": "574",
+    "text": "shawali, sorella mia, è quello che fa il telecronista delle partite"
+  },
+  {
+    "tu_id": "577",
+    "speaker": "PST139_trad",
+    "start": "592.809",
+    "end": "595.655",
+    "parent_tu_id": "576",
+    "text": "se sentissi la sua voce, sicuramente ti renderesti conto di averla già sentita"
+  },
+  {
+    "tu_id": "585",
+    "speaker": "PST136_trad",
+    "start": "602.722",
+    "end": "603.777",
+    "parent_tu_id": "584",
+    "text": "qual è?"
+  },
+  {
+    "tu_id": "594",
+    "speaker": "PST138_trad",
+    "start": "609.689",
+    "end": "610.344",
+    "parent_tu_id": "592",
+    "text": "spalmare"
+  },
+  {
+    "tu_id": "596",
+    "speaker": "PST138_trad",
+    "start": "610.399",
+    "end": "611.688",
+    "parent_tu_id": "595",
+    "text": "spalma quello"
+  },
+  {
+    "tu_id": "598",
+    "speaker": "PST139_trad",
+    "start": "611.971",
+    "end": "615.095",
+    "parent_tu_id": "597",
+    "text": "noi diciamo dahan, la persona che..."
+  },
+  {
+    "tu_id": "601",
+    "speaker": "PST138_trad",
+    "start": "616.249",
+    "end": "617.582",
+    "parent_tu_id": "600",
+    "text": "ah, pittore"
+  },
+  {
+    "tu_id": "604",
+    "speaker": "PST135_trad",
+    "start": "618.329",
+    "end": "619.065",
+    "parent_tu_id": "603",
+    "text": "il tuo cognome?"
+  },
+  {
+    "tu_id": "624",
+    "speaker": "PST136_trad",
+    "start": "636.743",
+    "end": "638.099",
+    "parent_tu_id": "623",
+    "text": "il suo cognome è lungo quanto una riga"
+  },
+  {
+    "tu_id": "629",
+    "speaker": "PST139_trad",
+    "start": "642.644",
+    "end": "643.866",
+    "parent_tu_id": "628",
+    "text": "dillo, dillo"
+  },
+  {
+    "tu_id": "679",
+    "speaker": "PST135_trad",
+    "start": "695.210",
+    "end": "699.544",
+    "parent_tu_id": "678",
+    "text": "oh il cognome marocchino più strano che abbia mai sentito è bu debbena (il padre della mosca)"
+  },
+  {
+    "tu_id": "682",
+    "speaker": "PST136_trad",
+    "start": "700.348",
+    "end": "701.214",
+    "parent_tu_id": "681",
+    "text": "c'è bu ras (padre della testa)"
+  },
+  {
+    "tu_id": "687",
+    "speaker": "PST135_trad",
+    "start": "704.211",
+    "end": "705.678",
+    "parent_tu_id": "686",
+    "text": "hai capito? mosca sai cos'è mosca"
+  },
+  {
+    "tu_id": "689",
+    "speaker": "PST139_trad",
+    "start": "705.700",
+    "end": "706.400",
+    "parent_tu_id": "688",
+    "text": "mosca, mosca"
+  },
+  {
+    "tu_id": "708",
+    "speaker": "PST137_trad",
+    "start": "732.010",
+    "end": "736.965",
+    "parent_tu_id": "707",
+    "text": "abbiamo questo cognome in tunisia ma avete la pronuncia molto più dolce (voi marocchini)"
+  },
+  {
+    "tu_id": "710",
+    "speaker": "PST136_trad",
+    "start": "733.870",
+    "end": "736.970",
+    "parent_tu_id": "709",
+    "text": "hai visto quella serie tv, seguita anche dai marocchini"
+  },
+  {
+    "tu_id": "712",
+    "speaker": "PST137_trad",
+    "start": "737.200",
+    "end": "738.577",
+    "parent_tu_id": "711",
+    "text": "è molto bello"
+  },
+  {
+    "tu_id": "714",
+    "speaker": "PST136_trad",
+    "start": "738.910",
+    "end": "752.388",
+    "parent_tu_id": "713",
+    "text": "si chiama bu jama, però alcuni ragazzi del quartiere lo chiamavano il padre del venerdì spaventavano dicendomi che il padre del venerdì stava arrivando"
+  },
+  {
+    "tu_id": "720",
+    "speaker": "PST137_trad",
+    "start": "752.388",
+    "end": "754.108",
+    "parent_tu_id": "719",
+    "text": "le è piaciuta questa parola dolce"
+  },
+  {
+    "tu_id": "723",
+    "speaker": "PST139_trad",
+    "start": "754.366",
+    "end": "757.855",
+    "parent_tu_id": "722",
+    "text": "hey voi, lui si chiama ailtu sharmiti"
+  },
+  {
+    "tu_id": "727",
+    "speaker": "PST135_trad",
+    "start": "758.677",
+    "end": "759.543",
+    "parent_tu_id": "726",
+    "text": "cosa?"
+  },
+  {
+    "tu_id": "729",
+    "speaker": "PST137_trad",
+    "start": "759.560",
+    "end": "761.882",
+    "parent_tu_id": "728",
+    "text": "giuro su dio, sharmiti"
+  },
+  {
+    "tu_id": "732",
+    "speaker": "PST139_trad",
+    "start": "762.821",
+    "end": "763.666",
+    "parent_tu_id": "731",
+    "text": "nome di famiglia"
+  },
+  {
+    "tu_id": "809",
+    "speaker": "PST136_trad",
+    "start": "927.181",
+    "end": "934.332",
+    "parent_tu_id": "808",
+    "text": "oddio, la vecchietta morirà, sei tu che dovunque andrai rimarrai con una firma così"
+  },
+  {
+    "tu_id": "830",
+    "speaker": "PST139_trad",
+    "start": "964.743",
+    "end": "966.310",
+    "parent_tu_id": "829",
+    "text": "@hassan @hassan io sono @hassan"
+  },
+  {
+    "tu_id": "842",
+    "speaker": "PST139_trad",
+    "start": "980.837",
+    "end": "985.057",
+    "parent_tu_id": "841",
+    "text": "ma tutti mi chiamano @hassan, nessuno si sforza a dire @hussein"
+  },
+  {
+    "tu_id": "845",
+    "speaker": "PST137_trad",
+    "start": "986.113",
+    "end": "989.184",
+    "parent_tu_id": "844",
+    "text": "e tu cosa preferisci @hassan?"
+  },
+  {
+    "tu_id": "847",
+    "speaker": "PST139_trad",
+    "start": "987.788",
+    "end": "988.165",
+    "parent_tu_id": "846",
+    "text": "guarda"
+  },
+  {
+    "tu_id": "849",
+    "speaker": "PST139_trad",
+    "start": "988.388",
+    "end": "989.366",
+    "parent_tu_id": "848",
+    "text": "è la stessa cosa"
+  },
+  {
+    "tu_id": "851",
+    "speaker": "PST137_trad",
+    "start": "989.338",
+    "end": "990.227",
+    "parent_tu_id": "850",
+    "text": "stessa cosa/ uguale"
+  },
+  {
+    "tu_id": "853",
+    "speaker": "PST135_trad",
+    "start": "990.244",
+    "end": "991.055",
+    "parent_tu_id": "852",
+    "text": "stessa cosa"
+  },
+  {
+    "tu_id": "855",
+    "speaker": "PST135_trad",
+    "start": "992.677",
+    "end": "994.544",
+    "parent_tu_id": "854",
+    "text": "a me se qualcuno mi chiama hejar..."
+  },
+  {
+    "tu_id": "871",
+    "speaker": "PST135_trad",
+    "start": "1024.299",
+    "end": "1025.455",
+    "parent_tu_id": "870",
+    "text": "cosa vuole lei?"
+  },
+  {
+    "tu_id": "878",
+    "speaker": "PST139_trad",
+    "start": "1032.194",
+    "end": "1033.283",
+    "parent_tu_id": "877",
+    "text": "non c'è @hassan?"
+  },
+  {
+    "tu_id": "881",
+    "speaker": "PST136_trad",
+    "start": "1033.465",
+    "end": "1034.621",
+    "parent_tu_id": "879",
+    "text": "abbiamo haithem"
+  },
+  {
+    "tu_id": "882",
+    "speaker": "PST135_trad",
+    "start": "1033.465",
+    "end": "1034.621",
+    "parent_tu_id": "880",
+    "text": "è la prima volta"
+  },
+  {
+    "tu_id": "888",
+    "speaker": "PST139_trad",
+    "start": "1038.410",
+    "end": "1041.899",
+    "parent_tu_id": "887",
+    "text": "xx xx"
+  },
+  {
+    "tu_id": "890",
+    "speaker": "PST137_trad",
+    "start": "1041.368",
+    "end": "1044.196",
+    "parent_tu_id": "889",
+    "text": "@hassan e haitham figli del @hassan"
+  },
+  {
+    "tu_id": "893",
+    "speaker": "PST139_trad",
+    "start": "1044.176",
+    "end": "1045.299",
+    "parent_tu_id": "892",
+    "text": "il tuo amico haitham"
+  },
+  {
+    "tu_id": "895",
+    "speaker": "PST135_trad",
+    "start": "1045.454",
+    "end": "1046.576",
+    "parent_tu_id": "894",
+    "text": "cosa vuol dire sherfie?"
+  },
+  {
+    "tu_id": "897",
+    "speaker": "PST137_trad",
+    "start": "1046.804",
+    "end": "1047.888",
+    "parent_tu_id": "896",
+    "text": "il tuo amico"
+  },
+  {
+    "tu_id": "899",
+    "speaker": "PST139_trad",
+    "start": "1046.900",
+    "end": "1047.994",
+    "parent_tu_id": "898",
+    "text": "il tuo amico"
+  },
+  {
+    "tu_id": "901",
+    "speaker": "PST137_trad",
+    "start": "1047.943",
+    "end": "1048.910",
+    "parent_tu_id": "900",
+    "text": "il tuo amico"
+  },
+  {
+    "tu_id": "903",
+    "speaker": "PST135_trad",
+    "start": "1048.888",
+    "end": "1050.688",
+    "parent_tu_id": "902",
+    "text": "eh saltelliamo sulle montagne"
+  },
+  {
+    "tu_id": "906",
+    "speaker": "PST137_trad",
+    "start": "1051.019",
+    "end": "1052.466",
+    "parent_tu_id": "905",
+    "text": "ti ha detto che saltelliamo"
+  },
+  {
+    "tu_id": "909",
+    "speaker": "PST139_trad",
+    "start": "1052.411",
+    "end": "1054.055",
+    "parent_tu_id": "908",
+    "text": "andare sulle montagne"
+  },
+  {
+    "tu_id": "911",
+    "speaker": "PST135_trad",
+    "start": "1054.221",
+    "end": "1057.054",
+    "parent_tu_id": "910",
+    "text": "no, tipo correre sulle montagne, tipo heidi"
+  },
+  {
+    "tu_id": "914",
+    "speaker": "PST137_trad",
+    "start": "1058.232",
+    "end": "1059.188",
+    "parent_tu_id": "913",
+    "text": "corriamo quindi?"
+  },
+  {
+    "tu_id": "919",
+    "speaker": "PST137_trad",
+    "start": "1066.155",
+    "end": "1068.877",
+    "parent_tu_id": "918",
+    "text": "la preziosa, come la chiameresti se dovessi incontrare la preziosa"
+  },
+  {
+    "tu_id": "929",
+    "speaker": "PST137_trad",
+    "start": "1075.272",
+    "end": "1077.110",
+    "parent_tu_id": "928",
+    "text": "@tassnim grande e @tassnim piccola"
+  },
+  {
+    "tu_id": "932",
+    "speaker": "PST135_trad",
+    "start": "1079.310",
+    "end": "1084.232",
+    "parent_tu_id": "931",
+    "text": "però aspetta, com'è che si diceva in inglese, nessuno è meglio dell'originale"
+  },
+  {
+    "tu_id": "982",
+    "speaker": "PST135_trad",
+    "start": "1143.254",
+    "end": "1145.765",
+    "parent_tu_id": "981",
+    "text": "quella falsa, quella di temu"
+  },
+  {
+    "tu_id": "984",
+    "speaker": "PST134_trad",
+    "start": "1143.455",
+    "end": "1144.254",
+    "parent_tu_id": "983",
+    "text": "quella vera"
+  },
+  {
+    "tu_id": "993",
+    "speaker": "PST139_trad",
+    "start": "1157.733",
+    "end": "1158.555",
+    "parent_tu_id": "992",
+    "text": "questo come si chiama?"
+  },
+  {
+    "tu_id": "995",
+    "speaker": "PST135_trad",
+    "start": "1159.488",
+    "end": "1160.110",
+    "parent_tu_id": "994",
+    "text": "cosa?"
+  },
+  {
+    "tu_id": "997",
+    "speaker": "PST133_trad",
+    "start": "1160.077",
+    "end": "1160.655",
+    "parent_tu_id": "996",
+    "text": "tavolo"
+  },
+  {
+    "tu_id": "999",
+    "speaker": "PST137_trad",
+    "start": "1160.621",
+    "end": "1161.076",
+    "parent_tu_id": "998",
+    "text": "tavolo"
+  },
+  {
+    "tu_id": "1002",
+    "speaker": "PST139_trad",
+    "start": "1161.810",
+    "end": "1162.422",
+    "parent_tu_id": "1001",
+    "text": "tavolo"
+  },
+  {
+    "tu_id": "1004",
+    "speaker": "PST135_trad",
+    "start": "1162.433",
+    "end": "1162.823",
+    "parent_tu_id": "1003",
+    "text": "tavolo"
+  },
+  {
+    "tu_id": "1008",
+    "speaker": "PST139_trad",
+    "start": "1163.676",
+    "end": "1164.121",
+    "parent_tu_id": "1007",
+    "text": "tavolo?"
+  },
+  {
+    "tu_id": "1010",
+    "speaker": "PST135_trad",
+    "start": "1164.310",
+    "end": "1164.776",
+    "parent_tu_id": "1009",
+    "text": "tavolo"
+  },
+  {
+    "tu_id": "1012",
+    "speaker": "PST139_trad",
+    "start": "1164.825",
+    "end": "1165.581",
+    "parent_tu_id": "1011",
+    "text": "tavolo"
+  },
+  {
+    "tu_id": "1016",
+    "speaker": "PST135_trad",
+    "start": "1167.588",
+    "end": "1168.655",
+    "parent_tu_id": "1015",
+    "text": "allora sai"
+  },
+  {
+    "tu_id": "1021",
+    "speaker": "PST139_trad",
+    "start": "1173.006",
+    "end": "1173.466",
+    "parent_tu_id": "1020",
+    "text": "cosa?"
+  },
+  {
+    "tu_id": "1025",
+    "speaker": "PST135_trad",
+    "start": "1174.977",
+    "end": "1178.421",
+    "parent_tu_id": "1024",
+    "text": "le donne, le donne ballano nei matrimoni libanesi?"
+  },
+  {
+    "tu_id": "1027",
+    "speaker": "PST135_trad",
+    "start": "1179.344",
+    "end": "1180.466",
+    "parent_tu_id": "1026",
+    "text": "ballano?"
+  },
+  {
+    "tu_id": "1029",
+    "speaker": "PST139_trad",
+    "start": "1180.599",
+    "end": "1181.392",
+    "parent_tu_id": "1028",
+    "text": "eh ballano"
+  },
+  {
+    "tu_id": "1041",
+    "speaker": "PST135_trad",
+    "start": "1192.321",
+    "end": "1201.176",
+    "parent_tu_id": "1040",
+    "text": "se fanno dabka le donne sono sempre, cioè non ballano davanti agli uomini? è proibito e vergognoso?"
+  },
+  {
+    "tu_id": "1045",
+    "speaker": "PST137_trad",
+    "start": "1203.132",
+    "end": "1205.452",
+    "parent_tu_id": "1044",
+    "text": "gli ultimi ad avere vergogna sono i libanesi"
+  },
+  {
+    "tu_id": "1049",
+    "speaker": "PST135_trad",
+    "start": "1210.144",
+    "end": "1211.777",
+    "parent_tu_id": "1048",
+    "text": "da noi, da noi non è vergognoso"
+  },
+  {
+    "tu_id": "1052",
+    "speaker": "PST135_trad",
+    "start": "1211.955",
+    "end": "1215.444",
+    "parent_tu_id": "1051",
+    "text": "da noi è invidia, è proprio annoda un velo sui tuoi fianchi e balla"
+  },
+  {
+    "tu_id": "1055",
+    "speaker": "PST137_trad",
+    "start": "1215.543",
+    "end": "1216.518",
+    "parent_tu_id": "1054",
+    "text": "dipende"
+  },
+  {
+    "tu_id": "1057",
+    "speaker": "PST139_trad",
+    "start": "1216.688",
+    "end": "1218.088",
+    "parent_tu_id": "1056",
+    "text": "tra tutte le ragazze"
+  },
+  {
+    "tu_id": "1059",
+    "speaker": "PST139_trad",
+    "start": "1218.088",
+    "end": "1219.082",
+    "parent_tu_id": "1058",
+    "text": "cosa ti importa vedere?"
+  },
+  {
+    "tu_id": "1062",
+    "speaker": "PST139_trad",
+    "start": "1219.615",
+    "end": "1223.960",
+    "parent_tu_id": "1061",
+    "text": "chi balla e chi non balla, chi prega e chi non prega?"
+  },
+  {
+    "tu_id": "1064",
+    "speaker": "PST137_trad",
+    "start": "1224.066",
+    "end": "1225.144",
+    "parent_tu_id": "1063",
+    "text": "e i cristiani"
+  },
+  {
+    "tu_id": "1066",
+    "speaker": "PST139_trad",
+    "start": "1226.043",
+    "end": "1226.821",
+    "parent_tu_id": "1065",
+    "text": "tutti"
+  },
+  {
+    "tu_id": "1081",
+    "speaker": "PST135_trad",
+    "start": "1258.844",
+    "end": "1259.544",
+    "parent_tu_id": "1080",
+    "text": "vergognoso"
+  },
+  {
+    "tu_id": "1083",
+    "speaker": "PST138_trad",
+    "start": "1259.543",
+    "end": "1261.277",
+    "parent_tu_id": "1082",
+    "text": "non più che vergognoso cioè"
+  },
+  {
+    "tu_id": "1104",
+    "speaker": "PST139_trad",
+    "start": "1300.110",
+    "end": "1300.632",
+    "parent_tu_id": "1103",
+    "text": "è normale"
+  },
+  {
+    "tu_id": "1114",
+    "speaker": "PST137_trad",
+    "start": "1309.933",
+    "end": "1311.522",
+    "parent_tu_id": "1113",
+    "text": "non è lo stato che hai nella tua testa"
+  },
+  {
+    "tu_id": "1117",
+    "speaker": "PST136_trad",
+    "start": "1311.488",
+    "end": "1314.055",
+    "parent_tu_id": "1116",
+    "text": "e infatti mi sembrava strano che sapesse cos'è la qada"
+  },
+  {
+    "tu_id": "1119",
+    "speaker": "PST138_trad",
+    "start": "1314.288",
+    "end": "1316.476",
+    "parent_tu_id": "1118",
+    "text": "la qa3da dei matrimoni"
+  },
+  {
+    "tu_id": "1122",
+    "speaker": "PST135_trad",
+    "start": "1317.665",
+    "end": "1320.910",
+    "parent_tu_id": "1121",
+    "text": "è possibile, è come una palla"
+  },
+  {
+    "tu_id": "1128",
+    "speaker": "PST137_trad",
+    "start": "1328.120",
+    "end": "1329.348",
+    "parent_tu_id": "1127",
+    "text": "ci ballano sopra"
+  },
+  {
+    "tu_id": "1130",
+    "speaker": "PST138_trad",
+    "start": "1329.312",
+    "end": "1330.665",
+    "parent_tu_id": "1129",
+    "text": "ci salgono così"
+  },
+  {
+    "tu_id": "1136",
+    "speaker": "PST139_trad",
+    "start": "1335.412",
+    "end": "1340.532",
+    "parent_tu_id": "1135",
+    "text": "è normale, è il salotto"
+  },
+  {
+    "tu_id": "1139",
+    "speaker": "PST136_trad",
+    "start": "1340.633",
+    "end": "1342.355",
+    "parent_tu_id": "1138",
+    "text": "sì, voul dire così, per esempio"
+  },
+  {
+    "tu_id": "1141",
+    "speaker": "PST139_trad",
+    "start": "1342.366",
+    "end": "1344.944",
+    "parent_tu_id": "1140",
+    "text": "xxx"
+  },
+  {
+    "tu_id": "1145",
+    "speaker": "PST136_trad",
+    "start": "1348.510",
+    "end": "1350.743",
+    "parent_tu_id": "1144",
+    "text": "con questa ci fai il suono con i tuoi piedi"
+  },
+  {
+    "tu_id": "1147",
+    "speaker": "PST136_trad",
+    "start": "1351.122",
+    "end": "1353.133",
+    "parent_tu_id": "1146",
+    "text": "e balli con una specifica tecnica"
+  },
+  {
+    "tu_id": "1149",
+    "speaker": "PST139_trad",
+    "start": "1353.499",
+    "end": "1355.088",
+    "parent_tu_id": "1148",
+    "text": "intendi dire come i musicisti"
+  },
+  {
+    "tu_id": "1212",
+    "speaker": "PST138_trad",
+    "start": "1467.332",
+    "end": "1469.432",
+    "parent_tu_id": "1211",
+    "text": "impossibile perché io odio le prugne"
+  },
+  {
+    "tu_id": "1248",
+    "speaker": "PST139_trad",
+    "start": "1542.066",
+    "end": "1543.721",
+    "parent_tu_id": "1247",
+    "text": "avete il kusa maḥshi"
+  },
+  {
+    "tu_id": "1254",
+    "speaker": "PST136_trad",
+    "start": "1546.055",
+    "end": "1547.260",
+    "parent_tu_id": "1253",
+    "text": "allora qualcosa di ripieno"
+  },
+  {
+    "tu_id": "1258",
+    "speaker": "PST139_trad",
+    "start": "1548.566",
+    "end": "1550.110",
+    "parent_tu_id": "1257",
+    "text": "kusa zucchine"
+  },
+  {
+    "tu_id": "1264",
+    "speaker": "PST139_trad",
+    "start": "1553.643",
+    "end": "1557.510",
+    "parent_tu_id": "1263",
+    "text": "avete visto le zucchine con riso e carne come contorno?"
+  },
+  {
+    "tu_id": "1270",
+    "speaker": "PST137_trad",
+    "start": "1558.854",
+    "end": "1559.876",
+    "parent_tu_id": "1269",
+    "text": "no, non ce l'abbiamo"
+  },
+  {
+    "tu_id": "1272",
+    "speaker": "PST139_trad",
+    "start": "1559.921",
+    "end": "1560.932",
+    "parent_tu_id": "1271",
+    "text": "nemmeno io"
+  },
+  {
+    "tu_id": "1274",
+    "speaker": "PST137_trad",
+    "start": "1560.921",
+    "end": "1561.614",
+    "parent_tu_id": "1273",
+    "text": "non ce l'abbiamo"
+  },
+  {
+    "tu_id": "1276",
+    "speaker": "PST136_trad",
+    "start": "1561.407",
+    "end": "1563.932",
+    "parent_tu_id": "1275",
+    "text": "nemmeno io, non ce l'abbiamo"
+  },
+  {
+    "tu_id": "1278",
+    "speaker": "PST136_trad",
+    "start": "1563.932",
+    "end": "1566.310",
+    "parent_tu_id": "1277",
+    "text": "nel senso, nella vostra cultura"
+  },
+  {
+    "tu_id": "1282",
+    "speaker": "PST136_trad",
+    "start": "1568.755",
+    "end": "1569.788",
+    "parent_tu_id": "1281",
+    "text": "la prima"
+  },
+  {
+    "tu_id": "1287",
+    "speaker": "PST139_trad",
+    "start": "1570.354",
+    "end": "1572.132",
+    "parent_tu_id": "1286",
+    "text": "oppure con le melanzane ripiene"
+  },
+  {
+    "tu_id": "1289",
+    "speaker": "PST136_trad",
+    "start": "1572.088",
+    "end": "1573.380",
+    "parent_tu_id": "1288",
+    "text": "sì, le melanzane ci sono"
+  },
+  {
+    "tu_id": "1291",
+    "speaker": "PST139_trad",
+    "start": "1573.364",
+    "end": "1575.221",
+    "parent_tu_id": "1290",
+    "text": "con le melanzane, melanzane"
+  },
+  {
+    "tu_id": "1293",
+    "speaker": "PST135_trad",
+    "start": "1575.243",
+    "end": "1578.354",
+    "parent_tu_id": "1292",
+    "text": "oppure noi facciamo i peperoni ripieni"
+  },
+  {
+    "tu_id": "1295",
+    "speaker": "PST136_trad",
+    "start": "1575.343",
+    "end": "1576.336",
+    "parent_tu_id": "1294",
+    "text": "sì, melanzane"
+  },
+  {
+    "tu_id": "1298",
+    "speaker": "PST135_trad",
+    "start": "1578.577",
+    "end": "1581.343",
+    "parent_tu_id": "1297",
+    "text": "con il riso è ha al suo interno x"
+  },
+  {
+    "tu_id": "1303",
+    "speaker": "PST139_trad",
+    "start": "1582.498",
+    "end": "1585.082",
+    "parent_tu_id": "1302",
+    "text": "xx xx"
+  },
+  {
+    "tu_id": "1308",
+    "speaker": "PST139_trad",
+    "start": "1586.654",
+    "end": "1587.643",
+    "parent_tu_id": "1307",
+    "text": "questi peperoni"
+  },
+  {
+    "tu_id": "1312",
+    "speaker": "PST136_trad",
+    "start": "1591.021",
+    "end": "1592.418",
+    "parent_tu_id": "1311",
+    "text": "però non è un piatto tipico marocchino"
+  },
+  {
+    "tu_id": "1321",
+    "speaker": "PST139_trad",
+    "start": "1596.999",
+    "end": "1598.355",
+    "parent_tu_id": "1320",
+    "text": "molokayhia (è una pianta e zuppa tradizionale egiziana e tunisina)"
+  },
+  {
+    "tu_id": "1323",
+    "speaker": "PST138_trad",
+    "start": "1598.321",
+    "end": "1599.610",
+    "parent_tu_id": "1322",
+    "text": "ce l'abbiamo la molokayhia"
+  },
+  {
+    "tu_id": "1326",
+    "speaker": "PST139_trad",
+    "start": "1601.010",
+    "end": "1602.943",
+    "parent_tu_id": "1325",
+    "text": "la molokayhia viene trasformata in zuppa"
+  },
+  {
+    "tu_id": "1328",
+    "speaker": "PST136_trad",
+    "start": "1603.044",
+    "end": "1603.504",
+    "parent_tu_id": "1327",
+    "text": "no"
+  },
+  {
+    "tu_id": "1331",
+    "speaker": "PST136_trad",
+    "start": "1604.538",
+    "end": "1609.557",
+    "parent_tu_id": "1330",
+    "text": "voi credo intendiate la molokayhia come i tunisini, noi la intendiamo come verdura"
+  },
+  {
+    "tu_id": "1333",
+    "speaker": "PST138_trad",
+    "start": "1610.222",
+    "end": "1612.977",
+    "parent_tu_id": "1332",
+    "text": "è tipo marinata"
+  },
+  {
+    "tu_id": "1336",
+    "speaker": "PST139_trad",
+    "start": "1613.888",
+    "end": "1616.018",
+    "parent_tu_id": "1335",
+    "text": "zuppa, nel senso leggera"
+  },
+  {
+    "tu_id": "1338",
+    "speaker": "PST136_trad",
+    "start": "1615.710",
+    "end": "1617.643",
+    "parent_tu_id": "1337",
+    "text": "no, no, no, verdure, verdure"
+  },
+  {
+    "tu_id": "1340",
+    "speaker": "PST138_trad",
+    "start": "1617.062",
+    "end": "1617.554",
+    "parent_tu_id": "1339",
+    "text": "verdura"
+  },
+  {
+    "tu_id": "1342",
+    "speaker": "PST135_trad",
+    "start": "1617.655",
+    "end": "1618.188",
+    "parent_tu_id": "1341",
+    "text": "verdura"
+  },
+  {
+    "tu_id": "1344",
+    "speaker": "PST136_trad",
+    "start": "1618.177",
+    "end": "1619.677",
+    "parent_tu_id": "1343",
+    "text": "verdure, verdura"
+  },
+  {
+    "tu_id": "1346",
+    "speaker": "PST135_trad",
+    "start": "1619.732",
+    "end": "1622.599",
+    "parent_tu_id": "1345",
+    "text": "la tagli in mezzo e la rendi come una salsa"
+  },
+  {
+    "tu_id": "1349",
+    "speaker": "PST135_trad",
+    "start": "1622.610",
+    "end": "1625.465",
+    "parent_tu_id": "1348",
+    "text": "verdura con salsa, da magiare con il pane"
+  },
+  {
+    "tu_id": "1351",
+    "speaker": "PST139_trad",
+    "start": "1625.332",
+    "end": "1627.336",
+    "parent_tu_id": "1350",
+    "text": "quindi solo la molokayhia"
+  },
+  {
+    "tu_id": "1358",
+    "speaker": "PST139_trad",
+    "start": "1633.521",
+    "end": "1635.498",
+    "parent_tu_id": "1357",
+    "text": "pure in egitto la cucinano"
+  },
+  {
+    "tu_id": "1366",
+    "speaker": "PST135_trad",
+    "start": "1639.799",
+    "end": "1642.843",
+    "parent_tu_id": "1365",
+    "text": "con il piccante, con il peperoncino sudaniyya"
+  },
+  {
+    "tu_id": "1368",
+    "speaker": "PST138_trad",
+    "start": "1643.088",
+    "end": "1645.266",
+    "parent_tu_id": "1367",
+    "text": "io non riesco a mangiare il piccante"
+  },
+  {
+    "tu_id": "1374",
+    "speaker": "PST139_trad",
+    "start": "1647.276",
+    "end": "1648.232",
+    "parent_tu_id": "1373",
+    "text": "stiamo facendo casino"
+  },
+  {
+    "tu_id": "1379",
+    "speaker": "PST139_trad",
+    "start": "1651.610",
+    "end": "1652.943",
+    "parent_tu_id": "1378",
+    "text": "ah bamia (classico stufato libanese)"
+  },
+  {
+    "tu_id": "1383",
+    "speaker": "PST139_trad",
+    "start": "1653.855",
+    "end": "1655.021",
+    "parent_tu_id": "1382",
+    "text": "conosco questa"
+  },
+  {
+    "tu_id": "1385",
+    "speaker": "PST139_trad",
+    "start": "1655.177",
+    "end": "1656.699",
+    "parent_tu_id": "1384",
+    "text": "siamo uguali"
+  },
+  {
+    "tu_id": "1388",
+    "speaker": "PST136_trad",
+    "start": "1656.999",
+    "end": "1657.924",
+    "parent_tu_id": "1387",
+    "text": "è lo stesso, sì"
+  },
+  {
+    "tu_id": "1392",
+    "speaker": "PST139_trad",
+    "start": "1658.488",
+    "end": "1658.921",
+    "parent_tu_id": "1391",
+    "text": "molto buona"
+  },
+  {
+    "tu_id": "1398",
+    "speaker": "PST139_trad",
+    "start": "1661.076",
+    "end": "1663.487",
+    "parent_tu_id": "1397",
+    "text": "questa la friggiamo e anche bolliamo"
+  },
+  {
+    "tu_id": "1400",
+    "speaker": "PST136_trad",
+    "start": "1663.899",
+    "end": "1664.699",
+    "parent_tu_id": "1399",
+    "text": "verdura"
+  },
+  {
+    "tu_id": "1405",
+    "speaker": "PST139_trad",
+    "start": "1665.743",
+    "end": "1669.266",
+    "parent_tu_id": "1404",
+    "text": "la cuoci per tanto e poi ci metti del sale, molto buona"
+  },
+  {
+    "tu_id": "1410",
+    "speaker": "PST136_trad",
+    "start": "1670.344",
+    "end": "1673.077",
+    "parent_tu_id": "1409",
+    "text": "wow, no, noi la bolliamo"
+  },
+  {
+    "tu_id": "1412",
+    "speaker": "PST139_trad",
+    "start": "1672.065",
+    "end": "1675.610",
+    "parent_tu_id": "1411",
+    "text": "noi pure, nel senso, ci mettiamo la carne"
+  },
+  {
+    "tu_id": "1415",
+    "speaker": "PST139_trad",
+    "start": "1675.610",
+    "end": "1677.832",
+    "parent_tu_id": "1414",
+    "text": "la friggiamo tanto con carne e questo..."
+  },
+  {
+    "tu_id": "1422",
+    "speaker": "PST139_trad",
+    "start": "1679.999",
+    "end": "1685.555",
+    "parent_tu_id": "1421",
+    "text": "noi la prepariamo in questo modo ma, delle volte, la bolliamo prima di mangiarla"
+  },
+  {
+    "tu_id": "1426",
+    "speaker": "PST136_trad",
+    "start": "1685.599",
+    "end": "1689.199",
+    "parent_tu_id": "1425",
+    "text": "non l'ho mai provata, no ho capito il gusto"
+  },
+  {
+    "tu_id": "1430",
+    "speaker": "PST136_trad",
+    "start": "1690.659",
+    "end": "1692.171",
+    "parent_tu_id": "1429",
+    "text": "come avedete detto che si chiama questa?"
+  },
+  {
+    "tu_id": "1437",
+    "speaker": "PST138_trad",
+    "start": "1693.388",
+    "end": "1694.754",
+    "parent_tu_id": "1436",
+    "text": "la moloxiya è vostra?"
+  },
+  {
+    "tu_id": "1440",
+    "speaker": "PST139_trad",
+    "start": "1694.721",
+    "end": "1697.999",
+    "parent_tu_id": "1439",
+    "text": "non è la molokayhia classica, quella con le foglie verdi"
+  },
+  {
+    "tu_id": "1449",
+    "speaker": "PST139_trad",
+    "start": "1703.843",
+    "end": "1704.221",
+    "parent_tu_id": "1448",
+    "text": "questa"
+  },
+  {
+    "tu_id": "1453",
+    "speaker": "PST139_trad",
+    "start": "1707.865",
+    "end": "1709.165",
+    "parent_tu_id": "1452",
+    "text": "hai un bord / feed arabo?"
+  },
+  {
+    "tu_id": "1470",
+    "speaker": "PST136_trad",
+    "start": "1730.110",
+    "end": "1731.865",
+    "parent_tu_id": "1469",
+    "text": "ah ho capito, la mangiate con il riso?"
+  },
+  {
+    "tu_id": "1482",
+    "speaker": "PST139_trad",
+    "start": "1748.103",
+    "end": "1749.826",
+    "parent_tu_id": "1481",
+    "text": "stufato di spinaci, mangiate lo stufato di spinaci?"
+  },
+  {
+    "tu_id": "1487",
+    "speaker": "PST135_trad",
+    "start": "1752.576",
+    "end": "1753.276",
+    "parent_tu_id": "1486",
+    "text": "per forza"
+  },
+  {
+    "tu_id": "1489",
+    "speaker": "PST136_trad",
+    "start": "1753.488",
+    "end": "1755.977",
+    "parent_tu_id": "1488",
+    "text": "l'ho appena mangiata domenica, a casa"
+  },
+  {
+    "tu_id": "1492",
+    "speaker": "PST136_trad",
+    "start": "1758.199",
+    "end": "1762.132",
+    "parent_tu_id": "1491",
+    "text": "se avessi saputo che ti piaceva, ce se avessiamo parlato prima, te ne avrei portato"
+  },
+  {
+    "tu_id": "1494",
+    "speaker": "PST139_trad",
+    "start": "1761.678",
+    "end": "1762.312",
+    "parent_tu_id": "1493",
+    "text": "piccante?"
+  },
+  {
+    "tu_id": "1497",
+    "speaker": "PST137_trad",
+    "start": "1763.277",
+    "end": "1764.088",
+    "parent_tu_id": "1496",
+    "text": "ti piace il piccante?"
+  },
+  {
+    "tu_id": "1499",
+    "speaker": "PST139_trad",
+    "start": "1763.721",
+    "end": "1766.443",
+    "parent_tu_id": "1498",
+    "text": "il piccante che ha la molokayhia è molto buono"
+  },
+  {
+    "tu_id": "1504",
+    "speaker": "PST137_trad",
+    "start": "1767.254",
+    "end": "1768.487",
+    "parent_tu_id": "1503",
+    "text": "piccante, piccante, piccante"
+  },
+  {
+    "tu_id": "1507",
+    "speaker": "PST135_trad",
+    "start": "1771.644",
+    "end": "1773.817",
+    "parent_tu_id": "1506",
+    "text": "però non mi è piaciuta, non so perché"
+  },
+  {
+    "tu_id": "1515",
+    "speaker": "PST136_trad",
+    "start": "1790.132",
+    "end": "1792.743",
+    "parent_tu_id": "1514",
+    "text": "allora, al pollo è buono però, anche al pesce spacca"
+  },
+  {
+    "tu_id": "1517",
+    "speaker": "PST135_trad",
+    "start": "1792.921",
+    "end": "1795.921",
+    "parent_tu_id": "1516",
+    "text": "quando ti rimane in frigo la bastila col pesce"
+  },
+  {
+    "tu_id": "1520",
+    "speaker": "PST136_trad",
+    "start": "1797.365",
+    "end": "1797.865",
+    "parent_tu_id": "1519",
+    "text": "pesce"
+  },
+  {
+    "tu_id": "1522",
+    "speaker": "PST135_trad",
+    "start": "1798.321",
+    "end": "1798.854",
+    "parent_tu_id": "1521",
+    "text": "pesce"
+  },
+  {
+    "tu_id": "1529",
+    "speaker": "PST139_trad",
+    "start": "1807.421",
+    "end": "1808.165",
+    "parent_tu_id": "1528",
+    "text": "fagioli"
+  },
+  {
+    "tu_id": "1543",
+    "speaker": "PST135_trad",
+    "start": "1822.143",
+    "end": "1824.120",
+    "parent_tu_id": "1542",
+    "text": "io lo faccio, io la faccio io lo faccio"
+  },
+  {
+    "tu_id": "1551",
+    "speaker": "PST139_trad",
+    "start": "1829.046",
+    "end": "1830.144",
+    "parent_tu_id": "1550",
+    "text": "ho la fassolia (classico stufato libanese)"
+  },
+  {
+    "tu_id": "1555",
+    "speaker": "PST135_trad",
+    "start": "1831.388",
+    "end": "1832.070",
+    "parent_tu_id": "1554",
+    "text": "eh fagioli verdi"
+  },
+  {
+    "tu_id": "1559",
+    "speaker": "PST135_trad",
+    "start": "1833.577",
+    "end": "1834.962",
+    "parent_tu_id": "1558",
+    "text": "ah i fagioli verdi, i fagioli verdi"
+  },
+  {
+    "tu_id": "1563",
+    "speaker": "PST136_trad",
+    "start": "1835.449",
+    "end": "1836.139",
+    "parent_tu_id": "1562",
+    "text": "pistacchio"
+  },
+  {
+    "tu_id": "1566",
+    "speaker": "PST136_trad",
+    "start": "1836.599",
+    "end": "1836.880",
+    "parent_tu_id": "1565",
+    "text": "no?"
+  },
+  {
+    "tu_id": "1568",
+    "speaker": "PST135_trad",
+    "start": "1837.355",
+    "end": "1839.025",
+    "parent_tu_id": "1567",
+    "text": "non è pistacchio, è arachidi"
+  },
+  {
+    "tu_id": "1570",
+    "speaker": "PST139_trad",
+    "start": "1839.943",
+    "end": "1840.965",
+    "parent_tu_id": "1569",
+    "text": "pistacchio?"
+  },
+  {
+    "tu_id": "1573",
+    "speaker": "PST135_trad",
+    "start": "1840.910",
+    "end": "1841.987",
+    "parent_tu_id": "1572",
+    "text": "fustoq vuol dire arachidi"
+  },
+  {
+    "tu_id": "1575",
+    "speaker": "PST135_trad",
+    "start": "1842.399",
+    "end": "1843.260",
+    "parent_tu_id": "1574",
+    "text": "noi abbiamo le arachidi"
+  },
+  {
+    "tu_id": "1580",
+    "speaker": "PST139_trad",
+    "start": "1844.788",
+    "end": "1845.199",
+    "parent_tu_id": "1579",
+    "text": "questa"
+  },
+  {
+    "tu_id": "1586",
+    "speaker": "PST135_trad",
+    "start": "1849.610",
+    "end": "1850.799",
+    "parent_tu_id": "1585",
+    "text": "sì, le fave"
+  },
+  {
+    "tu_id": "1588",
+    "speaker": "PST139_trad",
+    "start": "1851.055",
+    "end": "1853.743",
+    "parent_tu_id": "1587",
+    "text": "no, non sono le fave, è diverso"
+  },
+  {
+    "tu_id": "1590",
+    "speaker": "PST136_trad",
+    "start": "1852.371",
+    "end": "1853.171",
+    "parent_tu_id": "1589",
+    "text": "fave"
+  },
+  {
+    "tu_id": "1592",
+    "speaker": "PST136_trad",
+    "start": "1853.787",
+    "end": "1855.843",
+    "parent_tu_id": "1591",
+    "text": "ma che pisellini sorella mia?"
+  },
+  {
+    "tu_id": "1594",
+    "speaker": "PST135_trad",
+    "start": "1854.788",
+    "end": "1856.063",
+    "parent_tu_id": "1593",
+    "text": "noi abbiamo che sono queste le fave"
+  },
+  {
+    "tu_id": "1597",
+    "speaker": "PST139_trad",
+    "start": "1856.510",
+    "end": "1859.732",
+    "parent_tu_id": "1596",
+    "text": "no, le fave sono un qualcosa di grande, queste non lo sono..."
+  },
+  {
+    "tu_id": "1601",
+    "speaker": "PST135_trad",
+    "start": "1859.377",
+    "end": "1860.336",
+    "parent_tu_id": "1600",
+    "text": "questa è tutta classica"
+  },
+  {
+    "tu_id": "1604",
+    "speaker": "PST134_trad",
+    "start": "1860.361",
+    "end": "1861.475",
+    "parent_tu_id": "1603",
+    "text": "è vero hai fatto un miglioramento"
+  },
+  {
+    "tu_id": "1606",
+    "speaker": "PST136_trad",
+    "start": "1861.466",
+    "end": "1864.032",
+    "parent_tu_id": "1605",
+    "text": "raga ci sono i fagioli verdi effettivamente"
+  },
+  {
+    "tu_id": "1612",
+    "speaker": "PST136_trad",
+    "start": "1866.468",
+    "end": "1868.481",
+    "parent_tu_id": "1611",
+    "text": "eh ma i fagioli non sono le fave, le fave sono le fave"
+  },
+  {
+    "tu_id": "1614",
+    "speaker": "PST135_trad",
+    "start": "1868.954",
+    "end": "1871.810",
+    "parent_tu_id": "1613",
+    "text": "ah non è quello tutto impastato, ho capito sì"
+  },
+  {
+    "tu_id": "1616",
+    "speaker": "PST136_trad",
+    "start": "1871.210",
+    "end": "1872.772",
+    "parent_tu_id": "1615",
+    "text": "no, non esce a cubetti"
+  },
+  {
+    "tu_id": "1618",
+    "speaker": "PST138_trad",
+    "start": "1872.176",
+    "end": "1874.587",
+    "parent_tu_id": "1617",
+    "text": "si taglia dalla robina sulla testa"
+  },
+  {
+    "tu_id": "1620",
+    "speaker": "PST135_trad",
+    "start": "1874.751",
+    "end": "1875.401",
+    "parent_tu_id": "1619",
+    "text": "carote"
+  },
+  {
+    "tu_id": "1624",
+    "speaker": "PST135_trad",
+    "start": "1877.821",
+    "end": "1879.432",
+    "parent_tu_id": "1623",
+    "text": "e ci fai la marqa"
+  },
+  {
+    "tu_id": "1629",
+    "speaker": "PST135_trad",
+    "start": "1881.698",
+    "end": "1882.176",
+    "parent_tu_id": "1628",
+    "text": "col pollo"
+  },
+  {
+    "tu_id": "1631",
+    "speaker": "PST139_trad",
+    "start": "1882.343",
+    "end": "1882.837",
+    "parent_tu_id": "1630",
+    "text": "carote"
+  },
+  {
+    "tu_id": "1633",
+    "speaker": "PST135_trad",
+    "start": "1882.932",
+    "end": "1883.348",
+    "parent_tu_id": "1632",
+    "text": "carote"
+  },
+  {
+    "tu_id": "1635",
+    "speaker": "PST136_trad",
+    "start": "1883.332",
+    "end": "1884.076",
+    "parent_tu_id": "1634",
+    "text": "sì, carote"
+  },
+  {
+    "tu_id": "1638",
+    "speaker": "PST136_trad",
+    "start": "1884.076",
+    "end": "1885.076",
+    "parent_tu_id": "1636",
+    "text": "in arabo classico"
+  },
+  {
+    "tu_id": "1641",
+    "speaker": "PST138_trad",
+    "start": "1885.950",
+    "end": "1886.577",
+    "parent_tu_id": "1640",
+    "text": "carote"
+  },
+  {
+    "tu_id": "1643",
+    "speaker": "PST136_trad",
+    "start": "1886.654",
+    "end": "1888.021",
+    "parent_tu_id": "1642",
+    "text": "e non ci sono gli spinaci"
+  },
+  {
+    "tu_id": "1646",
+    "speaker": "PST136_trad",
+    "start": "1889.999",
+    "end": "1890.877",
+    "parent_tu_id": "1645",
+    "text": "spinaci"
+  },
+  {
+    "tu_id": "1648",
+    "speaker": "PST135_trad",
+    "start": "1890.876",
+    "end": "1892.614",
+    "parent_tu_id": "1647",
+    "text": "le uova, voi dite le uova?"
+  },
+  {
+    "tu_id": "1650",
+    "speaker": "PST136_trad",
+    "start": "1892.609",
+    "end": "1892.832",
+    "parent_tu_id": "1649",
+    "text": "uova"
+  },
+  {
+    "tu_id": "1652",
+    "speaker": "PST136_trad",
+    "start": "1893.409",
+    "end": "1894.009",
+    "parent_tu_id": "1651",
+    "text": "osso"
+  },
+  {
+    "tu_id": "1654",
+    "speaker": "PST135_trad",
+    "start": "1894.009",
+    "end": "1894.543",
+    "parent_tu_id": "1653",
+    "text": "osso"
+  },
+  {
+    "tu_id": "1656",
+    "speaker": "PST139_trad",
+    "start": "1894.877",
+    "end": "1895.399",
+    "parent_tu_id": "1655",
+    "text": "osso / nocciolo"
+  },
+  {
+    "tu_id": "1660",
+    "speaker": "PST136_trad",
+    "start": "1895.343",
+    "end": "1896.199",
+    "parent_tu_id": "1657",
+    "text": "osso"
+  },
+  {
+    "tu_id": "1661",
+    "speaker": "PST135_trad",
+    "start": "1895.343",
+    "end": "1896.199",
+    "parent_tu_id": "1658",
+    "text": "osso"
+  },
+  {
+    "tu_id": "1662",
+    "speaker": "PST138_trad",
+    "start": "1895.343",
+    "end": "1896.199",
+    "parent_tu_id": "1659",
+    "text": "osso"
+  },
+  {
+    "tu_id": "1666",
+    "speaker": "PST135_trad",
+    "start": "1897.397",
+    "end": "1898.476",
+    "parent_tu_id": "1665",
+    "text": "osso"
+  },
+  {
+    "tu_id": "1670",
+    "speaker": "PST137_trad",
+    "start": "1901.721",
+    "end": "1903.443",
+    "parent_tu_id": "1669",
+    "text": "per fare colazione in modo fantastico"
+  },
+  {
+    "tu_id": "1691",
+    "speaker": "PST137_trad",
+    "start": "1924.400",
+    "end": "1925.587",
+    "parent_tu_id": "1690",
+    "text": "ti stupisci per l'osso?"
+  },
+  {
+    "tu_id": "1695",
+    "speaker": "PST138_trad",
+    "start": "1928.753",
+    "end": "1929.829",
+    "parent_tu_id": "1694",
+    "text": "eh cosa intendi"
+  },
+  {
+    "tu_id": "1697",
+    "speaker": "PST137_trad",
+    "start": "1929.854",
+    "end": "1930.700",
+    "parent_tu_id": "1696",
+    "text": "le salsicce"
+  },
+  {
+    "tu_id": "1700",
+    "speaker": "PST135_trad",
+    "start": "1931.332",
+    "end": "1931.943",
+    "parent_tu_id": "1699",
+    "text": "salsicce"
+  },
+  {
+    "tu_id": "1702",
+    "speaker": "PST135_trad",
+    "start": "1932.865",
+    "end": "1934.317",
+    "parent_tu_id": "1701",
+    "text": "le salsicce per noi è come"
+  },
+  {
+    "tu_id": "1704",
+    "speaker": "PST137_trad",
+    "start": "1934.728",
+    "end": "1935.650",
+    "parent_tu_id": "1703",
+    "text": "fate la salsiccia"
+  },
+  {
+    "tu_id": "1706",
+    "speaker": "PST136_trad",
+    "start": "1935.888",
+    "end": "1937.272",
+    "parent_tu_id": "1705",
+    "text": "quello è l'utensile da cucina"
+  },
+  {
+    "tu_id": "1709",
+    "speaker": "PST137_trad",
+    "start": "1937.732",
+    "end": "1938.554",
+    "parent_tu_id": "1708",
+    "text": "salsiccia"
+  },
+  {
+    "tu_id": "1714",
+    "speaker": "PST136_trad",
+    "start": "1942.310",
+    "end": "1942.976",
+    "parent_tu_id": "1713",
+    "text": "salsicce"
+  },
+  {
+    "tu_id": "1716",
+    "speaker": "PST135_trad",
+    "start": "1943.376",
+    "end": "1944.165",
+    "parent_tu_id": "1715",
+    "text": "salsicce"
+  },
+  {
+    "tu_id": "1718",
+    "speaker": "PST136_trad",
+    "start": "1944.461",
+    "end": "1944.848",
+    "parent_tu_id": "1717",
+    "text": "salsicce"
+  },
+  {
+    "tu_id": "1722",
+    "speaker": "PST138_trad",
+    "start": "1948.499",
+    "end": "1949.117",
+    "parent_tu_id": "1721",
+    "text": "mi è venuta fame"
+  },
+  {
+    "tu_id": "1724",
+    "speaker": "PST135_trad",
+    "start": "1948.898",
+    "end": "1949.873",
+    "parent_tu_id": "1723",
+    "text": "cosa?"
+  },
+  {
+    "tu_id": "1727",
+    "speaker": "PST136_trad",
+    "start": "1949.874",
+    "end": "1950.658",
+    "parent_tu_id": "1726",
+    "text": "te lo giuro ci servirebbe"
+  },
+  {
+    "tu_id": "1731",
+    "speaker": "PST136_trad",
+    "start": "1950.824",
+    "end": "1952.741",
+    "parent_tu_id": "1730",
+    "text": "ci servirebbe una grigliata"
+  },
+  {
+    "tu_id": "1736",
+    "speaker": "PST139_trad",
+    "start": "1954.199",
+    "end": "1955.574",
+    "parent_tu_id": "1735",
+    "text": "è da poco che l'hai mangiata"
+  },
+  {
+    "tu_id": "1738",
+    "speaker": "PST135_trad",
+    "start": "1955.536",
+    "end": "1956.523",
+    "parent_tu_id": "1737",
+    "text": "salsicce"
+  },
+  {
+    "tu_id": "1741",
+    "speaker": "PST136_trad",
+    "start": "1956.961",
+    "end": "1957.549",
+    "parent_tu_id": "1740",
+    "text": "salsicce"
+  },
+  {
+    "tu_id": "1743",
+    "speaker": "PST137_trad",
+    "start": "1957.336",
+    "end": "1957.987",
+    "parent_tu_id": "1742",
+    "text": "puliti, puliti"
+  },
+  {
+    "tu_id": "1747",
+    "speaker": "PST135_trad",
+    "start": "1960.804",
+    "end": "1961.355",
+    "parent_tu_id": "1746",
+    "text": "io"
+  },
+  {
+    "tu_id": "1749",
+    "speaker": "PST139_trad",
+    "start": "1961.523",
+    "end": "1962.211",
+    "parent_tu_id": "1748",
+    "text": "è importante"
+  },
+  {
+    "tu_id": "1751",
+    "speaker": "PST135_trad",
+    "start": "1962.223",
+    "end": "1963.436",
+    "parent_tu_id": "1750",
+    "text": "importante"
+  },
+  {
+    "tu_id": "1753",
+    "speaker": "PST137_trad",
+    "start": "1964.961",
+    "end": "1965.418",
+    "parent_tu_id": "1752",
+    "text": "non io"
+  },
+  {
+    "tu_id": "1755",
+    "speaker": "PST139_trad",
+    "start": "1965.411",
+    "end": "1966.598",
+    "parent_tu_id": "1754",
+    "text": "siamo di classe, sai?"
+  },
+  {
+    "tu_id": "1760",
+    "speaker": "PST135_trad",
+    "start": "1969.124",
+    "end": "1969.836",
+    "parent_tu_id": "1759",
+    "text": "sì, sono di classe"
+  },
+  {
+    "tu_id": "1762",
+    "speaker": "PST135_trad",
+    "start": "1970.961",
+    "end": "1975.074",
+    "parent_tu_id": "1761",
+    "text": "sì, noi siamo un po' di classe"
+  },
+  {
+    "tu_id": "1765",
+    "speaker": "PST135_trad",
+    "start": "1975.920",
+    "end": "1976.367",
+    "parent_tu_id": "1764",
+    "text": "folle"
+  },
+  {
+    "tu_id": "1767",
+    "speaker": "PST136_trad",
+    "start": "1976.374",
+    "end": "1977.024",
+    "parent_tu_id": "1766",
+    "text": "un po'"
+  },
+  {
+    "tu_id": "1769",
+    "speaker": "PST135_trad",
+    "start": "1977.349",
+    "end": "1978.936",
+    "parent_tu_id": "1768",
+    "text": "un po', un po' maranza"
+  },
+  {
+    "tu_id": "1774",
+    "speaker": "PST135_trad",
+    "start": "1983.987",
+    "end": "1985.551",
+    "parent_tu_id": "1773",
+    "text": "sono una falsa marocchina"
+  },
+  {
+    "tu_id": "1776",
+    "speaker": "PST136_trad",
+    "start": "1984.573",
+    "end": "1986.023",
+    "parent_tu_id": "1775",
+    "text": "fa un po' maranza"
+  },
+  {
+    "tu_id": "1785",
+    "speaker": "PST135_trad",
+    "start": "1998.386",
+    "end": "2001.511",
+    "parent_tu_id": "1784",
+    "text": "che la pace sia con te, come stai, tutto bene?"
+  }
+]
