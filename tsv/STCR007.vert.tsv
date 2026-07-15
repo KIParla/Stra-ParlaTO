@@ -309,10 +309,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 52-9	PST092	52	52	9	detto::	detto	_	_	_	_	_	linguistic	_	none	_	End=123.185	4x2	_	_	_
 53-0	PST092	53	53	0	#taraful	taraful	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	Begin=123.33|End=124.49	_	_	_	_
 54-0	PST092	54	54	0	#plus	plus	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	Begin=124.51	_	_	_	_
-54-1	PST092	54	54	1	#orchestra	orchestra	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	End=125.8	_	_	_	_
+54-1	PST092	54	54	1	#*orchestra	orchestra	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Doubtful	End=125.8	_	_	_	_
 56-0	PST092	56	56	0	cioè	cioè	_	_	_	_	_	linguistic	_	some	_	Begin=126.18	_	_	_	_
 56-1	PST092	56	56	1	#plus	plus	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-56-2	PST092	56	56	2	#orchestra	orchestra	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+56-2	PST092	56	56	2	#*orchestra	orchestra	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 56-3	PST092	56	56	3	più	più	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 56-4	PST092	56	56	4	canto	canto	_	_	_	_	_	linguistic	_	some	_	End=127.76	_	_	_	_
 58-0	PST092	58	58	0	[facciamo	facciamo	_	_	_	_	_	linguistic	_	none	_	Begin=127.98	_	_	_	0-8(18)
@@ -3109,8 +3109,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 517-2	PST083	517	517	2	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 517-3	PST083	517	517	3	quando	quando	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 517-4	PST083	517	517	4	giochiamo	giochiamo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-517-5	PST083	517	517	5	#la::	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	1x2	_	_	_
-517-6	PST083	517	517	6	#la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+517-5	PST083	517	517	5	#*la::	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	1x2	_	_	_
+517-6	PST083	517	517	6	#*la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 517-7	PST083	517	517	7	#rațele	rațele	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 517-8	PST083	517	517	8	#și	și	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 517-9	PST083	517	517	9	#vânătorii	vânătorii	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=1215.55	_	_	_	_

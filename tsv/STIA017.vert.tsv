@@ -727,8 +727,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 197-0	PST088	197	197	0	[avevo]	avevo	_	_	_	_	_	linguistic	_	some	_	Begin=319.683	_	_	_	0-5(21)
 197-1	PST088	197	197	1	una	una	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 197-2	PST088	197	197	2	ditta	ditta	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-197-3	PST088	197	197	3	#dil	dil	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-197-4	PST088	197	197	4	#dil	dil	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=321.65	_	_	_	_
+197-3	PST088	197	197	3	#*dil	dil	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+197-4	PST088	197	197	4	#*dil	dil	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	End=321.65	_	_	_	_
 199-0	PST088	199	199	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=322.12	_	_	_	_
 199-1	PST088	199	199	1	qua	qua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 199-2	PST088	199	199	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -847,7 +847,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 226-1	PST088	226	226	1	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 226-2	PST088	226	226	2	la~	la~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 226-3	PST088	226	226	3	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-226-4	PST088	226	226	4	dialetta	dialetta	_	_	_	_	_	linguistic	_	none	_	End=369.11	_	_	_	_
+226-4	PST088	226	226	4	*dialetta	*dialetta	_	_	_	_	_	error	_	none	_	End=369.11	_	_	_	_
 227-0	PST088	227	227	0	dei	dei	_	_	_	_	_	linguistic	_	none	_	Begin=369.57	_	_	_	_
 227-1	PST088	227	227	1	nostri	nostri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 227-2	PST088	227	227	2	genitori	genitori	_	_	_	_	_	linguistic	_	none	_	End=371.51	_	_	_	_
@@ -1192,7 +1192,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 324-9	PST088	324	324	9	araba	araba	_	_	_	_	_	linguistic	_	none	_	End=500.49	_	_	_	_
 325-0	PST211	325	325	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=499.33|End=500.04	_	_	_	0-2(39)
 326-0	PST088	326	326	0	e:::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=500.91	0x3	_	_	_
-326-1	PST088	326	326	1	gruppa	gruppa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+326-1	PST088	326	326	1	*gruppa	*gruppa	_	_	_	_	_	error	_	none	_	_	_	_	_	_
 326-2	PST088	326	326	2	tutte	tutte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 326-3	PST088	326	326	3	le::	le	_	_	_	_	_	linguistic	_	none	_	_	1x2	_	_	_
 326-4	PST088	326	326	4	le::	le	_	_	_	_	_	linguistic	_	none	_	End=503.38	1x2	_	_	_
@@ -1741,7 +1741,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 461-0	PST088	461	461	0	[più	più	_	_	_	_	_	linguistic	_	none	_	Begin=727.47	_	_	_	0-3(54)
 461-1	PST088	461	461	1	importante]	importante	_	_	_	_	_	linguistic	_	none	_	End=728.31	_	_	_	0-10(54)
 462-0	PST088	462	462	0	me~	me~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=728.52	_	_	_	_
-462-1	PST088	462	462	1	de	de	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+462-1	PST088	462	462	1	*de	*de	_	_	_	_	_	error	_	none	_	_	_	_	_	_
 462-2	PST088	462	462	2	mezzo	mezzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 462-3	PST088	462	462	3	giorno	giorno	_	_	_	_	_	linguistic	_	none	_	End=729.67	_	_	_	_
 463-0	PST088	463	463	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=729.9	_	_	_	_
@@ -3271,7 +3271,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 815-2	PST088	815	815	2	della:::	della	_	_	_	_	_	linguistic	_	none	_	End=1410.5	4x3	_	_	_
 816-0	PST088	816	816	0	le	le	_	_	_	_	_	linguistic	_	none	_	Begin=1410.74	_	_	_	_
 816-1	PST088	816	816	1	regole	regole	_	_	_	_	_	linguistic	_	none	_	End=1411.68	_	_	_	_
-817-0	PST088	817	817	0	#le	le	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	Begin=1411.86	_	_	_	_
+817-0	PST088	817	817	0	#*le	le	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Doubtful	Begin=1411.86	_	_	_	_
 817-1	PST088	817	817	1	#regle	regle	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	End=1412.64	_	_	_	_
 818-0	PST088	818	818	0	delle	delle	_	_	_	_	_	linguistic	_	none	_	Begin=1412.75	_	_	_	_
 818-1	PST088	818	818	1	mestrua[zioni]	mestruazioni	_	_	_	_	_	linguistic	_	none	_	End=1413.83	_	_	_	7-12(104)
@@ -3308,7 +3308,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 828-0	PST088	828	828	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=1427.43	_	_	_	_
 828-1	PST088	828	828	1	così	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 828-2	PST088	828	828	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-828-3	PST088	828	828	3	de	de	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+828-3	PST088	828	828	3	*de	*de	_	_	_	_	_	error	_	none	_	_	_	_	_	_
 828-4	PST088	828	828	4	regole	regole	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 828-5	PST088	828	828	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 828-6	PST088	828	828	6	noi	noi	_	_	_	_	_	linguistic	_	none	_	End=1429.27	_	_	_	_
@@ -3594,7 +3594,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 892-0	PST088	892	892	0	parlano	parlano	_	_	_	_	_	linguistic	_	none	_	Begin=1554.32	_	_	_	_
 892-1	PST088	892	892	1	bene.	bene	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1555.2	_	_	_	_
 893-0	PST088	893	893	0	diciamo	diciamo	_	_	_	_	_	linguistic	_	none	_	Begin=1555.63|End=1556.37	_	_	_	_
-894-0	PST088	894	894	0	curamente	curamente	_	_	_	_	_	linguistic	_	none	_	Begin=1556.49|End=1557.14	_	_	_	_
+894-0	PST088	894	894	0	*curamente	*curamente	_	_	_	_	_	error	_	none	_	Begin=1556.49|End=1557.14	_	_	_	_
 895-0	PST088	895	895	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=1557.58	_	_	_	_
 895-1	PST088	895	895	1	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 895-2	PST088	895	895	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3607,7 +3607,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 895-9	PST088	895	895	9	ancora	ancora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 895-10	PST088	895	895	10	meglio.	meglio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1560.69	_	_	_	_
 896-0	PST088	896	896	0	parlano	parlano	_	_	_	_	_	linguistic	_	none	_	Begin=1561.27	_	_	_	_
-896-1	PST088	896	896	1	curamente	curamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+896-1	PST088	896	896	1	*curamente	*curamente	_	_	_	_	_	error	_	none	_	_	_	_	_	_
 896-2	PST088	896	896	2	ma,	ma	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1562.36	_	_	_	_
 897-0	PST088	897	897	0	di:	di	_	_	_	_	_	linguistic	_	none	_	Begin=1562.85	1x1	_	_	_
 897-1	PST088	897	897	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

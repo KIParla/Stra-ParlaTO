@@ -1663,7 +1663,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 458-0	PST121	458	458	0	sono	sono	_	_	_	_	_	linguistic	_	none	_	Begin=820.91	_	_	_	_
 458-1	PST121	458	458	1	tagliati	tagliati	_	_	_	_	_	linguistic	_	none	_	End=821.913	_	_	_	_
 459-0	PST121	459	459	0	e::::hm	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=822.41|End=823.723	0x4	_	_	_
-460-0	PST121	460	460	0	#e:::l::	el	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	Begin=824.12|End=825.016	0x3,1x2	_	_	_
+460-0	PST121	460	460	0	#*e:::l::	el	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Doubtful	Begin=824.12|End=825.016	0x3,1x2	_	_	_
 461-0	PST121	461	461	0	prezzemolo	prezzemolo	_	_	_	_	_	linguistic	_	none	_	Begin=825.62|End=826.321	_	_	_	_
 462-0	PST121	462	462	0	però	però	_	_	_	_	_	linguistic	_	none	_	Begin=826.55	_	_	_	_
 462-1	PST121	462	462	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1711,7 +1711,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 470-0	PST121	470	470	0	prima	prima	_	_	_	_	_	linguistic	_	some	_	Begin=845.37	_	_	_	_
 470-1	PST121	470	470	1	si	si	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 470-2	PST121	470	470	2	mette	mette	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-470-3	PST121	470	470	3	#el:::	el	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=847.094	1x3	_	_	_
+470-3	PST121	470	470	3	#*el:::	el	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	End=847.094	1x3	_	_	_
 471-0	PST121	471	471	0	le	le	_	_	_	_	_	linguistic	_	none	_	Begin=848.565	_	_	_	_
 471-1	PST121	471	471	1	carote	carote	_	_	_	_	_	linguistic	_	none	_	End=849.365	_	_	_	_
 472-0	PST121	472	472	0	poi::	poi	_	_	_	_	_	linguistic	_	none	_	Begin=850.12	2x2	_	_	_
@@ -1774,7 +1774,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 485-2	PST220	485	485	2	cous	cous	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 485-3	PST220	485	485	3	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 485-4	PST220	485	485	4	s[olo]	solo	_	_	_	_	_	linguistic	_	none	_	End=871.709	_	_	_	1-4(119)
-486-0	PST121	486	486	0	[#el	el	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=871.417	_	_	_	0-3(119)
+486-0	PST121	486	486	0	[#*el	el	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=871.417	_	_	_	0-4(119)
 486-1	PST121	486	486	1	kuskus]	kuskus	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	_	_	_	0-6(119)
 486-2	PST121	486	486	2	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 486-3	PST121	486	486	3	anche	anche	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -4499,7 +4499,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1078-2	PST121	1078	1078	2	però	però	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1078-3	PST121	1078	1078	3	c'	c'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
 1078-4	PST121	1078	1078	4	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-1078-5	PST121	1078	1078	5	#el	el	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+1078-5	PST121	1078	1078	5	#*el	el	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 1078-6	PST121	1078	1078	6	eh::m	ehm	_	_	_	_	_	linguistic	_	some	_	End=2144.085	1x2	_	_	_
 1079-0	PST121	1079	1079	0	come	come	_	_	_	_	_	linguistic	_	none	_	Begin=2144.645	_	_	_	_
 1079-1	PST121	1079	1079	1	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5049,7 +5049,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1163-2	PST220	1163	1163	2	°poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1163-3	PST220	1163	1163	3	tra	tra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1163-4	PST220	1163	1163	4	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
-1163-5	PST220	1163	1163	5	altro	altro	_	_	_	_	_	linguistic	_	none	_	End=2373.046	_	_	_	_
+1163-5	PST220	1163	1163	5	altro*	altro*	_	_	_	_	_	error	_	none	_	End=2373.046	_	_	_	_
 1164-0	PST219	1164	1164	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2373.046	_	_	_	_
 1164-1	PST219	1164	1164	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1164-2	PST219	1164	1164	2	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	End=2373.69	_	_	_	_

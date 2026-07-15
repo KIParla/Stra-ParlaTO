@@ -498,7 +498,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 79-12	PST074	79	79	12	e	e	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 79-13	PST074	79	79	13	mio	mio	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 79-14	PST074	79	79	14	padre	padre	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-79-15	PST074	79	79	15	#me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+79-15	PST074	79	79	15	#*me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 79-16	PST074	79	79	16	ha	ha	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 79-17	PST074	79	79	17	fatto	fatto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 79-18	PST074	79	79	18	imparare:	imparare	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	7x1	_	_	_
@@ -703,7 +703,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 104-3	PST074	104	104	3	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=344.01	_	_	_	_
 105-0	PST074	105	105	0	sì	sì	_	_	_	_	_	linguistic	_	some	_	Begin=344.925	_	_	_	_
 105-1	PST074	105	105	1	come	come	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-105-2	PST074	105	105	2	#te	te	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+105-2	PST074	105	105	2	#*te	te	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 105-3	PST074	105	105	3	dicevo	dicevo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 105-4	PST074	105	105	4	con	con	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 105-5	PST074	105	105	5	mia	mia	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -715,7 +715,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 105-11	PST074	105	105	11	imparare	imparare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 105-12	PST074	105	105	12	un	un	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 105-13	PST074	105	105	13	po'	po'	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-105-14	PST074	105	105	14	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+105-14	PST074	105	105	14	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 105-15	PST074	105	105	15	parole	parole	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 105-16	PST074	105	105	16	tipo	tipo	_	_	_	_	_	linguistic	_	some	_	End=349.151	_	_	_	_
 106-0	PST074	106	106	0	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	Begin=349.957	_	_	_	_
@@ -822,7 +822,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 112-20	PST074	112	112	20	a	a	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 112-21	PST074	112	112	21	lavoro	lavoro	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 112-22	PST074	112	112	22	quindi	quindi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-112-23	PST074	112	112	23	#te	te	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+112-23	PST074	112	112	23	#*te	te	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 112-24	PST074	112	112	24	vai	vai	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 112-25	PST074	112	112	25	da	da	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 112-26	PST074	112	112	26	sola	sola	_	_	_	_	_	linguistic	_	some	_	End=386.96	_	_	_	_
@@ -2692,7 +2692,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 338-11	PST074	338	338	11	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 338-12	PST074	338	338	12	io	io	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 338-13	PST074	338	338	13	sono	sono	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-338-14	PST074	338	338	14	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+338-14	PST074	338	338	14	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 338-15	PST074	338	338	15	chancay	chancay	_	_	_	_	_	linguistic	_	some	_	End=1155.3	_	_	_	_
 339-0	PST074	339	339	0	#provincia	provincia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=1156.492	_	_	_	_
 339-1	PST074	339	339	1	guaral	guaral	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	_	_	_	_

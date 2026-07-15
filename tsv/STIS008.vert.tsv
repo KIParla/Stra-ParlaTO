@@ -4155,7 +4155,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 519-2	PST049	519	519	2	un	un	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 519-3	PST049	519	519	3	accento	accento	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 519-4	PST049	519	519	4	di:	di	_	_	_	_	_	linguistic	_	some	_	_	1x1	_	_	_
-519-5	PST049	519	519	5	#limeño	limeño	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+519-5	PST049	519	519	5	#*limeño	limeño	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 519-6	PST049	519	519	6	di	di	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 519-7	PST049	519	519	7	classe	classe	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 519-8	PST049	519	519	8	media:	media	_	_	_	_	_	linguistic	_	some	_	_	4x1	_	_	_
@@ -4463,9 +4463,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 563-4	PST049	563	563	4	ma	ma	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	_	_	_	_
 563-5	PST049	563	563	5	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 563-6	PST049	563	563	6	n~	n~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
-563-7	PST049	563	563	7	#no	no	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+563-7	PST049	563	563	7	#*no	no	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 563-8	PST049	563	563	8	tanto	tanto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-563-9	PST049	563	563	9	#pero	pero	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+563-9	PST049	563	563	9	#*pero	pero	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 563-10	PST049	563	563	10	#tiene	tiene	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 563-11	PST049	563	563	11	#lo	lo	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 563-12	PST049	563	563	12	#suyo	suyo	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
@@ -4531,7 +4531,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 573-6	PST049	573	573	6	#me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 573-7	PST049	573	573	7	#da	da	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 573-8	PST049	573	573	8	#flojera	flojera	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-573-9	PST049	573	573	9	#no?	no	_	_	_	_	_	linguistic	_	some	Intonation=Rising|Language=NO_ISO_CODE|Variation=Token	End=1682.163	_	_	_	_
+573-9	PST049	573	573	9	#*no?	no	_	_	_	_	_	linguistic	_	some	Intonation=Rising|Language=NO_ISO_CODE|Variation=Doubtful	End=1682.163	_	_	_	_
 575-0	PST211	575	575	0	mh	mh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=1682.281	_	_	_	_
 575-1	PST211	575	575	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=1682.602	_	_	_	_
 576-0	PST049	576	576	0	e:::::hm	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=1682.732|End=1683.746	0x5	_	_	_
@@ -5236,7 +5236,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 661-5	PST049	661	661	5	spagnolo	spagnolo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 661-6	PST049	661	661	6	invece	invece	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 661-7	PST049	661	661	7	di	di	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-661-8	PST049	661	661	8	#dirte	dirte	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+661-8	PST049	661	661	8	#*dirte	dirte	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 661-9	PST049	661	661	9	#PERO	pero	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Volume=high|Variation=Token	_	_	_	_	_
 661-10	PST049	661	661	10	ti	ti	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 661-11	PST049	661	661	11	dic~	dic~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
@@ -5751,7 +5751,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 736-3	PST049	736	736	3	difficile	difficile	_	_	_	_	_	linguistic	_	none	_	End=2092.481	_	_	_	_
 737-0	PST049	737	737	0	come	come	_	_	_	_	_	linguistic	_	some	_	Begin=2093.308	_	_	_	_
 737-1	PST049	737	737	1	se	se	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-737-2	PST049	737	737	2	#me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+737-2	PST049	737	737	2	#*me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 737-3	PST049	737	737	3	scappasse	scappasse	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	_	_	_	_
 737-4	PST049	737	737	4	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 737-5	PST049	737	737	5	no	no	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -6156,7 +6156,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 790-19	PST049	790	790	19	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 790-20	PST049	790	790	20	il	il	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 790-21	PST049	790	790	21	libro	libro	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-790-22	PST049	790	790	22	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+790-22	PST049	790	790	22	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 790-23	PST049	790	790	23	autore	autore	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 790-24	PST049	790	790	24	tedesco	tedesco	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 790-25	PST049	790	790	25	al	al	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_

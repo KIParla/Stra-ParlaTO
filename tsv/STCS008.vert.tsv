@@ -14224,7 +14224,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 3280-5	PST122	3280	3280	5	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 3280-6	PST122	3280	3280	6	#tapa	tapa	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 3280-7	PST122	3280	3280	7	#del	del	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-3280-8	PST122	3280	3280	8	#water	water	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+3280-8	PST122	3280	3280	8	#*water	water	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 3280-9	PST122	3280	3280	9	#arriba	arriba	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 3280-10	PST122	3280	3280	10	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	some	_	_	_	_	_	_
 3280-11	PST122	3280	3280	11	#y	y	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	1-2(0)	_
@@ -14277,11 +14277,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 3292-1	PST122	3292	3292	1	perché	perché	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 3292-2	PST122	3292	3292	2	se	se	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 3292-3	PST122	3292	3292	3	no::	no	_	_	_	_	_	linguistic	_	some	_	_	1x2	_	_	_
-3292-4	PST122	3292	3292	4	#lo	lo	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+3292-4	PST122	3292	3292	4	#*lo	lo	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 3292-5	PST122	3292	3292	5	#rodean	rodean	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 3292-6	PST122	3292	3292	6	#muchas	muchas	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 3292-7	PST122	3292	3292	7	#mujeres	mujeres	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-3292-8	PST122	3292	3292	8	#se	se	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+3292-8	PST122	3292	3292	8	#*se	se	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 3292-9	PST122	3292	3292	9	#vuelve:	vuelve	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=4928.192	5x1	_	_	_
 3294-0	PST127	3294	3294	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=4928.58|End=4929.62	_	_	_	_
 3295-0	PST122	3295	3295	0	no	no	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	Begin=4929.61	_	_	_	_
@@ -15159,7 +15159,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 3502-2	PST122	3502	3502	2	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 3502-3	PST122	3502	3502	3	me:no:	meno	_	_	_	_	_	linguistic	_	none	_	End=5232.047	1x1,3x1	_	_	_
 3503-0	PST122	3503	3503	0	quello	quello	_	_	_	_	_	linguistic	_	some	_	Begin=5233.6	_	_	_	_
-3503-1	PST122	3503	3503	1	#de	de	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+3503-1	PST122	3503	3503	1	#*de	de	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 3503-2	PST122	3503	3503	2	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 3503-3	PST122	3503	3503	3	(#te	te	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	0-3(0)	_
 3503-4	PST122	3503	3503	4	#enloqueas)	enloqueas	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	0-10(0)	_

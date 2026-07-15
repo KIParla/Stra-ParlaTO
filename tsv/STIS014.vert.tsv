@@ -40,7 +40,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 4-3	PST073	4	4	3	s~	s~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
 4-4	PST073	4	4	4	da:	da	_	_	_	_	_	linguistic	_	some	_	_	1x1	_	_	_
 4-5	PST073	4	4	5	#siempre	siempre	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-4-6	PST073	4	4	6	#me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+4-6	PST073	4	4	6	#*me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 4-7	PST073	4	4	7	ricordo	ricordo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 4-8	PST073	4	4	8	ventitré	ventitré	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 4-9	PST073	4	4	9	agosto	agosto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -102,7 +102,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 14-5	PST073	14	14	5	destino	destino	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 14-6	PST073	14	14	6	io	io	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 14-7	PST073	14	14	7	credo	credo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-14-8	PST073	14	14	8	#porque	porque	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+14-8	PST073	14	14	8	#*porque	porque	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 14-9	PST073	14	14	9	in	in	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 14-10	PST073	14	14	10	realtà	realtà	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 14-11	PST073	14	14	11	non	non	_	_	_	_	_	linguistic	_	some	_	End=37.53	_	_	_	_
@@ -114,7 +114,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 15-5	PST073	15	15	5	studiare	studiare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 15-6	PST073	15	15	6	all'	all'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
 15-7	PST073	15	15	7	estero	estero	_	_	_	_	_	linguistic	_	some	_	_	_	Fast=5-6(0)	_	_
-15-8	PST073	15	15	8	>#porque<	porque	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	Fast=0-6(0)	_	_
+15-8	PST073	15	15	8	>#*porque<	porque	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	Fast=0-7(0)	_	_
 15-9	PST073	15	15	9	era	era	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 15-10	PST073	15	15	10	quello	quello	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 15-11	PST073	15	15	11	che	che	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -184,9 +184,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 24-6	PST073	24	24	6	perché	perché	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 24-7	PST073	24	24	7	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 24-8	PST073	24	24	8	come	come	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-24-9	PST073	24	24	9	#una	una	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+24-9	PST073	24	24	9	#*una	una	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 24-10	PST073	24	24	10	#historia	historia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-24-11	PST073	24	24	11	#parallela	parallela	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+24-11	PST073	24	24	11	#*parallela	parallela	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 24-12	PST073	24	24	12	°#no°,	no	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|PauseAfter=Yes|Language=NO_ISO_CODE|Volume=low|Variation=Token	_	_	_	_	_
 24-13	PST073	24	24	13	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 24-14	PST073	24	24	14	io	io	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -215,7 +215,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 28-2	PST073	28	28	2	mio	mio	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 28-3	PST073	28	28	3	obiettivo	obiettivo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 28-4	PST073	28	28	4	era	era	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-28-5	PST073	28	28	5	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+28-5	PST073	28	28	5	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 28-6	PST073	28	28	6	diventare:	diventare	_	_	_	_	_	linguistic	_	some	_	_	8x1	_	_	_
 28-7	PST073	28	28	7	diplomatic[o]	diplomatico	_	_	_	_	_	linguistic	_	some	_	End=79.47	_	_	_	10-11(7)
 29-0	PST211	29	29	0	[mhm]h,	mhmh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=78.99|End=79.54	_	_	_	0-3(7)
@@ -577,7 +577,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 75-4	PST073	75	75	4	imparato	imparato	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 75-5	PST073	75	75	5	#en	en	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 75-6	PST073	75	75	6	#el	el	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-75-7	PST073	75	75	7	#perù,	perù	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Language=NO_ISO_CODE|Variation=Token	End=206.46	_	_	_	_
+75-7	PST073	75	75	7	#*perù,	perù	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Language=NO_ISO_CODE|Variation=Doubtful	End=206.46	_	_	_	_
 76-0	PST073	76	76	0	e:::h.	eh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=207.06	0x3	_	_	_
 76-1	PST073	76	76	1	arrivo	arrivo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 76-2	PST073	76	76	2	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -717,8 +717,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 93-10	PST073	93	93	10	che	che	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 93-11	PST073	93	93	11	perché	perché	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 93-12	PST073	93	93	12	no:	no	_	_	_	_	_	linguistic	_	some	_	_	1x1	_	_	_
-93-13	PST073	93	93	13	#porque	porque	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-93-14	PST073	93	93	14	#yo	yo	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+93-13	PST073	93	93	13	#*porque	porque	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+93-14	PST073	93	93	14	#*yo	yo	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 93-15	PST073	93	93	15	ero	ero	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 93-16	PST073	93	93	16	disperato	disperato	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 93-17	PST073	93	93	17	per	per	_	_	_	_	_	linguistic	_	some	_	End=257.46	_	_	_	_
@@ -782,7 +782,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 100-6	PST073	100	100	6	ero	ero	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 100-7	PST073	100	100	7	#en	en	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 100-8	PST073	100	100	8	#el	el	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-100-9	PST073	100	100	9	#perù	perù	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+100-9	PST073	100	100	9	#*perù	perù	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 100-10	PST073	100	100	10	>cioè<	cioè	_	_	_	_	_	linguistic	_	some	_	_	_	Fast=0-4(0)	_	_
 100-11	PST073	100	100	11	io	io	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 100-12	PST073	100	100	12	volevo	volevo	_	_	_	_	_	linguistic	_	some	ProsodicLink=Yes	_	_	_	_	_
@@ -873,8 +873,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 114-11	PST073	114	114	11	ti	ti	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 114-12	PST073	114	114	12	candidi	candidi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 114-13	PST073	114	114	13	a	a	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-114-14	PST073	114	114	14	#una	una	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-114-15	PST073	114	114	15	#bo:rs[a:],	borsa	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Token	_	1x1,4x1	_	_	5-6(37)
+114-14	PST073	114	114	14	#*una	una	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+114-15	PST073	114	114	15	#*bo:rs[a:],	borsa	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Doubtful	_	1x1,4x1	_	_	6-7(37)
 114-16	PST073	114	114	16	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 114-17	PST073	114	114	17	e:h.	eh	_	_	_	_	_	linguistic	_	some	Intonation=Falling	_	0x1	_	_	_
 114-18	PST073	114	114	18	per	per	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -1151,10 +1151,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 148-4	PST073	148	148	4	parlare	parlare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 148-5	PST073	148	148	5	due	due	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 148-6	PST073	148	148	6	ore::	ore	_	_	_	_	_	linguistic	_	some	_	_	2x2	_	_	_
-148-7	PST073	148	148	7	#in	in	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+148-7	PST073	148	148	7	#*in	in	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 148-8	PST073	148	148	8	una	una	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 148-9	PST073	148	148	9	cena	cena	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-148-10	PST073	148	148	10	#in	in	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+148-10	PST073	148	148	10	#*in	in	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 148-11	PST073	148	148	11	un	un	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 148-12	PST073	148	148	12	co:rso,	corso	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	_	1x1	_	_	_
 148-13	PST073	148	148	13	un'	un'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
@@ -1759,7 +1759,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 217-6	PST073	217	217	6	cultura,	cultura	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	_	_	_	_	_
 217-7	PST073	217	217	7	ma	ma	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 217-8	PST073	217	217	8	in	in	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-217-9	PST073	217	217	9	#maniera	maniera	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+217-9	PST073	217	217	9	#*maniera	maniera	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 217-10	PST073	217	217	10	molto	molto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 217-11	PST073	217	217	11	più:	più	_	_	_	_	_	linguistic	_	some	_	_	2x1	_	_	_
 217-12	PST073	217	217	12	indigena	indigena	_	_	_	_	_	linguistic	_	some	ProsodicLink=Yes	_	_	_	_	_
@@ -5074,7 +5074,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 600-16	PST073	600	600	16	loro,	loro	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1754.75	_	_	_	_
 601-0	PST211	601	601	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1751.11	_	_	_	0-2(179)
 601-1	PST211	601	601	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=1751.83	_	_	_	0-2(179)
-602-0	PST073	602	602	0	#escapando	escapando	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=1755.19	_	_	_	_
+602-0	PST073	602	602	0	#*escapando	escapando	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=1755.19	_	_	_	_
 602-1	PST073	602	602	1	dal	dal	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 602-2	PST073	602	602	2	marito	marito	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 602-3	PST073	602	602	3	#porque	porque	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
@@ -5438,7 +5438,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 648-8	PST073	648	648	8	quindi	quindi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	0-6(192)
 648-9	PST073	648	648	9	già]	già	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	0-3(192)
 648-10	PST073	648	648	10	#como	como	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-648-11	PST073	648	648	11	#que	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+648-11	PST073	648	648	11	#*que	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 648-12	PST073	648	648	12	un	un	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 648-13	PST073	648	648	13	po':	po'	_	_	_	_	_	linguistic	_	some	_	_	1x1	_	_	_
 648-14	PST073	648	648	14	visto	visto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -6938,8 +6938,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 831-3	PST073	831	831	3	che	che	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 831-4	PST073	831	831	4	sta	sta	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 831-5	PST073	831	831	5	andando	andando	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-831-6	PST073	831	831	6	#a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-831-7	PST073	831	831	7	#la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+831-6	PST073	831	831	6	#*a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+831-7	PST073	831	831	7	#*la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 831-8	PST073	831	831	8	$escuo:la	escuola	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Orthography=Yes|Variation=Emerging	_	4x1	_	_	_
 831-9	PST073	831	831	9	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 831-10	PST073	831	831	10	[qui:nd]i:	quindi	_	_	_	_	_	linguistic	_	some	_	_	2x1,5x1	_	_	0-5(237)
@@ -9236,8 +9236,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1140-6	PST073	1140	1140	6	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 1140-7	PST073	1140	1140	7	perché	perché	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1140-8	PST073	1140	1140	8	#en	en	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-1140-9	PST073	1140	1140	9	#la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-1140-10	PST073	1140	1140	10	#epoca	epoca	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+1140-9	PST073	1140	1140	9	#*la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+1140-10	PST073	1140	1140	10	#*epoca	epoca	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 1140-11	PST073	1140	1140	11	della	della	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1140-12	PST073	1140	1140	12	colonia,	colonia	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 1140-13	PST073	1140	1140	13	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_

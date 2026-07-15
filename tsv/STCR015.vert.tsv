@@ -30,9 +30,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 12-4	PST119	12	12	4	#dă	dă	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 12-5	PST119	12	12	5	#și	și	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 12-6	PST119	12	12	6	#mie	mie	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-12-7	PST119	12	12	7	#una	una	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=21.92	_	_	_	_
+12-7	PST119	12	12	7	#*una	una	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	End=21.92	_	_	_	_
 14-0	PST119	14	14	0	@antonio	@antonio	_	_	_	_	_	anonymized	_	some	_	Begin=21.95	_	_	_	_
-14-1	PST119	14	14	1	#tu	tu	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+14-1	PST119	14	14	1	#*tu	tu	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 14-2	PST119	14	14	2	#mănânci?	mănânci	_	_	_	_	_	linguistic	_	some	Intonation=Rising|Language=NO_ISO_CODE|Variation=Token	End=23.1	_	_	_	_
 16-0	PST119	16	16	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=23.235	_	_	_	_
 16-1	PST119	16	16	1	vuoi?	vuoi	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=23.895	_	_	_	_
@@ -316,7 +316,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 129-1	PST119	129	129	1	scris	scris	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	End=183.195	_	_	_	_
 131-0	PST118	131	131	0	#mi-a	mi-a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=183.3	_	_	_	_
 131-1	PST118	131	131	1	#făcut	făcut	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-131-2	PST118	131	131	2	#un::	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	1x2	_	_	_
+131-2	PST118	131	131	2	#*un::	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	1x2	_	_	_
 131-3	PST118	131	131	3	messaggio	messaggio	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 131-4	PST118	131	131	4	vocale	vocale	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	_	_	_	_
 131-5	PST118	131	131	5	[{P}]	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	0-3(32)
@@ -403,7 +403,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 170-5	PST118	170	170	5	niște:	niște	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	_	4x1	_	_	_
 170-6	PST118	170	170	6	(.)	.	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	_	_	_	_	_
 170-7	PST118	170	170	7	lecție	lecție	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	End=234.15	_	_	_	_
-172-0	PST119	172	172	0	#separate?	separate	_	_	_	_	_	linguistic	_	all	Intonation=Rising|Language=NO_ISO_CODE|Variation=Token	Begin=234.835|End=235.5925	_	_	_	_
+172-0	PST119	172	172	0	#*separate?	separate	_	_	_	_	_	linguistic	_	all	Intonation=Rising|Language=NO_ISO_CODE|Variation=Doubtful	Begin=234.835|End=235.5925	_	_	_	_
 174-0	PST118	174	174	0	#da	da	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	Begin=235.5925|End=236.049	_	_	_	_
 176-0	PST119	176	176	0	#au	au	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=236.865	_	_	_	_
 176-1	PST119	176	176	1	același	același	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -838,7 +838,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 355-3	PST119	355	355	3	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 355-4	PST119	355	355	4	#euro	euro	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=489.45	_	_	_	_
 357-0	PST119	357	357	0	#abonamentul	abonamentul	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=489.64	_	_	_	_
-357-1	PST119	357	357	1	#costă	costă	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+357-1	PST119	357	357	1	#*costă	costă	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 357-2	PST119	357	357	2	ottantasei	ottantasei	_	_	_	_	_	linguistic	_	some	_	End=491.92	_	_	_	_
 359-0	PST119	359	359	0	plus	plus	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	Begin=492.69	_	_	_	_
 359-1	PST119	359	359	1	că	că	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	_	_	_	_	_
@@ -959,13 +959,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 397-1	PST119	397	397	1	alt	alt	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	_	_	_	_	_
 397-2	PST119	397	397	2	ceva	ceva	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	End=558.26	_	_	_	_
 399-0	PST119	399	399	0	#fă-ți	fă-ți	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=559.393	_	_	_	_
-399-1	PST119	399	399	1	#un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+399-1	PST119	399	399	1	#*un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 399-2	PST119	399	399	2	panino	panino	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-399-3	PST119	399	399	3	#un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+399-3	PST119	399	399	3	#*un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 399-4	PST119	399	399	4	#sandvici	sandvici	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-399-5	PST119	399	399	5	#un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+399-5	PST119	399	399	5	#*un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 399-6	PST119	399	399	6	#sadvici	sadvici	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-399-7	PST119	399	399	7	#un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+399-7	PST119	399	399	7	#*un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 399-8	PST119	399	399	8	toast	toast	_	_	_	_	_	linguistic	_	some	_	End=562.837	_	_	_	_
 401-0	PST118	401	401	0	un	un	_	_	_	_	_	linguistic	_	none	_	Begin=563.67	_	_	_	_
 401-1	PST118	401	401	1	toast	toast	_	_	_	_	_	linguistic	_	none	_	End=564.3605	_	_	_	_
@@ -1409,7 +1409,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 558-1	PST119	558	558	1	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 558-2	PST119	558	558	2	#		_	_	_	_	_	warning	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 558-3	PST119	558	558	3	[#]		_	_	_	_	_	warning	_	some	Language=NO_ISO_CODE|Variation=Token	End=850.65	_	_	_	0-1(10)
-559-0	PST120	559	559	0	[#mica-s]	mica-s	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	Begin=850.09	_	_	_	0-7(10)
+559-0	PST120	559	559	0	[#*mica-s]	mica-s	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Doubtful	Begin=850.09	_	_	_	0-8(10)
 559-1	PST120	559	559	1	#din	din	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 559-2	PST120	559	559	2	#fier	fier	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE|Variation=Token	End=851.08	_	_	_	_
 561-0	PST119	561	561	0	a:h	ah	_	_	_	_	_	linguistic	_	none	_	Begin=851.095|End=851.535	0x1	_	_	_
@@ -1910,7 +1910,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 728-0	PST118	728	728	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1066.04|End=1066.68	0x1	_	_	_
 729-0	PST119	729	729	0	invece	invece	_	_	_	_	_	linguistic	_	some	_	Begin=1067.783	_	_	_	_
 729-1	PST119	729	729	1	#pentru	pentru	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-729-2	PST119	729	729	2	#serviciu	serviciu	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+729-2	PST119	729	729	2	#*serviciu	serviciu	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 729-3	PST119	729	729	3	civile	civile	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 729-4	PST119	729	729	4	quello	quello	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 729-5	PST119	729	729	5	non	non	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -2632,7 +2632,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 950-5	PST120	950	950	5	stare	stare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 950-6	PST120	950	950	6	mai	mai	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 950-7	PST120	950	950	7	lascia	lascia	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-950-8	PST120	950	950	8	#se	se	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+950-8	PST120	950	950	8	#*se	se	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 950-9	PST120	950	950	9	#rupe	rupe	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 950-10	PST120	950	950	10	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 950-11	PST120	950	950	11	#se	se	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_

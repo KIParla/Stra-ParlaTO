@@ -4315,7 +4315,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 865-2	PST087	865	865	2	facendo	facendo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 865-3	PST087	865	865	3	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 865-4	PST087	865	865	4	#cu	cu	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-865-5	PST087	865	865	5	#orchestra	orchestra	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=1337.817	_	_	_	_
+865-5	PST087	865	865	5	#*orchestra	orchestra	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	End=1337.817	_	_	_	_
 867-0	PST087	867	867	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1338.09	_	_	_	_
 867-1	PST087	867	867	1	magari	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 867-2	PST087	867	867	2	inizia	inizia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

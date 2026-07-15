@@ -65,7 +65,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 6-3	PST212	6	6	3	pullman]?	pullman	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=26.035	_	_	_	0-7(1)
 7-0	PST212	7	7	0	[okay]	okay	_	_	_	_	_	linguistic	_	none	_	Begin=26.361|End=26.808	_	_	_	0-4(2)
 8-0	PST063	8	8	0	e::::hm	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=27.453|End=28.49	0x4	_	_	_
-9-0	PST063	9	9	0	#con	con	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=29.174	_	_	_	_
+9-0	PST063	9	9	0	#*con	con	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=29.174	_	_	_	_
 9-1	PST063	9	9	1	#respecto	respecto	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 9-2	PST063	9	9	2	anche:::::	anche	_	_	_	_	_	linguistic	_	some	_	End=31.377	4x5	_	_	_
 11-0	PST063	11	11	0	di	di	_	_	_	_	_	linguistic	_	some	_	Begin=33.004	_	_	_	_
@@ -370,7 +370,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 52-0	PST212	52	52	0	[eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=143.21	_	_	_	0-2(16)
 52-1	PST212	52	52	1	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=143.848	_	_	_	0-2(16)
 53-0	PST063	53	53	0	o:	o	_	_	_	_	_	linguistic	_	some	_	Begin=144.583	0x1	_	_	_
-53-1	PST063	53	53	1	#si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+53-1	PST063	53	53	1	#*si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 53-2	PST063	53	53	2	vado	vado	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 53-3	PST063	53	53	3	alla	alla	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 53-4	PST063	53	53	4	montagna	montagna	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -835,7 +835,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 108-3	PST063	108	108	3	molto	molto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 108-4	PST063	108	108	4	bello	bello	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 108-5	PST063	108	108	5	(quell'	quell'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	0-6(0)	_
-108-6	PST063	108	108	6	#i[dioma])	idioma	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=322.929	_	_	0-7(0)	1-7(32)
+108-6	PST063	108	108	6	#*i[dioma])	idioma	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	End=322.929	_	_	0-8(0)	2-8(32)
 109-0	PST212	109	109	0	[eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=322.409	_	_	_	0-2(32)
 109-1	PST212	109	109	1	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(32)
 109-2	PST212	109	109	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(32)
@@ -1625,8 +1625,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 207-0	PST063	207	207	0	e::h	eh	_	_	_	_	_	linguistic	_	some	_	Begin=606.425	0x2	_	_	_
 207-1	PST063	207	207	1	quello	quello	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	_	_	_	_
 207-2	PST063	207	207	2	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
-207-3	PST063	207	207	3	#no	no	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-207-4	PST063	207	207	4	#me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+207-3	PST063	207	207	3	#*no	no	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+207-4	PST063	207	207	4	#*me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 207-5	PST063	207	207	5	aiutava	aiutava	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 207-6	PST063	207	207	6	di	di	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 207-7	PST063	207	207	7	più	più	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -1660,7 +1660,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 210-18	PST063	210	210	18	tante	tante	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 210-19	PST063	210	210	19	volte	volte	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 210-20	PST063	210	210	20	quello	quello	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-210-21	PST063	210	210	21	#me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+210-21	PST063	210	210	21	#*me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 210-22	PST063	210	210	22	aiuta	aiuta	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 210-23	PST063	210	210	23	di	di	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 210-24	PST063	210	210	24	più	più	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	_	_	_	_
@@ -2127,7 +2127,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 270-6	PST063	270	270	6	avevo	avevo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 270-7	PST063	270	270	7	paura	paura	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 270-8	PST063	270	270	8	che	che	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-270-9	PST063	270	270	9	#me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+270-9	PST063	270	270	9	#*me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 270-10	PST063	270	270	10	succedeva	succedeva	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 270-11	PST063	270	270	11	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 270-12	PST063	270	270	12	in	in	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -2198,7 +2198,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 279-4	PST063	279	279	4	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-5	PST063	279	279	5	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-6	PST063	279	279	6	n::	n	_	_	_	_	_	linguistic	_	none	_	End=836.134	0x2	_	_	_
-280-0	PST063	280	280	0	#me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=836.91	_	_	_	_
+280-0	PST063	280	280	0	#*me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=836.91	_	_	_	_
 280-1	PST063	280	280	1	xx	xx	_	_	_	_	_	unknown	_	some	Syllables=2	_	_	_	_	_
 280-2	PST063	280	280	2	che	che	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 280-3	PST063	280	280	3	que~	que~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
@@ -2266,9 +2266,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 290-4	PST063	290	290	4	l~	l~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
 290-5	PST063	290	290	5	l'	l'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
 290-6	PST063	290	290	6	amica	amica	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-290-7	PST063	290	290	7	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+290-7	PST063	290	290	7	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 290-8	PST063	290	290	8	o~	o~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
-290-9	PST063	290	290	9	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+290-9	PST063	290	290	9	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 290-10	PST063	290	290	10	mia	mia	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 290-11	PST063	290	290	11	mamma	mamma	_	_	_	_	_	linguistic	_	some	_	End=867.024	_	_	_	_
 291-0	PST212	291	291	0	okay	okay	_	_	_	_	_	linguistic	_	none	_	Begin=867.766|End=868.228	_	_	_	_
@@ -2310,7 +2310,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 294-5	PST063	294	294	5	una	una	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 294-6	PST063	294	294	6	un	un	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 294-7	PST063	294	294	7	giorno	giorno	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-294-8	PST063	294	294	8	#se	se	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+294-8	PST063	294	294	8	#*se	se	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 294-9	PST063	294	294	9	ha	ha	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 294-10	PST063	294	294	10	trovato	trovato	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 294-11	PST063	294	294	11	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -2444,7 +2444,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 308-3	PST063	308	308	3	mio	mio	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 308-4	PST063	308	308	4	capo	capo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 308-5	PST063	308	308	5	($dicevo:ndolo)	dicevondolo	_	_	_	_	_	linguistic	_	some	Orthography=Yes|Variation=Emerging	_	5x1	_	0-12(0)	_
-308-6	PST063	308	308	6	#si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+308-6	PST063	308	308	6	#*si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 308-7	PST063	308	308	7	potevo:	potevo	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	5x1	_	_	_
 308-8	PST063	308	308	8	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 308-9	PST063	308	308	9	riposare	riposare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -2900,9 +2900,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 367-0	PST063	367	367	0	per	per	_	_	_	_	_	linguistic	_	none	_	Begin=1091.897	_	_	_	_
 367-1	PST063	367	367	1	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 367-2	PST063	367	367	2	orario	orario	_	_	_	_	_	linguistic	_	none	_	End=1092.689	_	_	_	_
-368-0	PST063	368	368	0	#si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=1093.603	_	_	_	_
+368-0	PST063	368	368	0	#*si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=1093.603	_	_	_	_
 368-1	PST063	368	368	1	pote[vo	potevo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	4-6(105)
-368-2	PST063	368	368	2	#si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	0-3(105)
+368-2	PST063	368	368	2	#*si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	0-4(105)
 368-3	PST063	368	368	3	potevo]	potevo	_	_	_	_	_	linguistic	_	some	_	End=1094.824	_	_	_	0-6(105)
 369-0	PST212	369	369	0	[perché	perché	_	_	_	_	_	linguistic	_	none	_	Begin=1094.047	_	_	_	0-6(105)
 369-1	PST212	369	369	1	(se)	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(0)	0-2(105)
@@ -2934,7 +2934,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 371-7	PST063	371	371	7	le	le	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 371-8	PST063	371	371	8	vacanze	vacanze	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 371-9	PST063	371	371	9	vedrò::	vedrò	_	_	_	_	_	linguistic	_	some	_	_	4x2	_	_	_
-371-10	PST063	371	371	10	#si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+371-10	PST063	371	371	10	#*si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 371-11	PST063	371	371	11	c'	c'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
 371-12	PST063	371	371	12	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 371-13	PST063	371	371	13	qualche	qualche	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -2994,7 +2994,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 378-0	PST212	378	378	0	[°mh°]	mh	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=1119.505|End=1119.895	_	_	_	0-2(107)
 379-0	PST212	379	379	0	okay	okay	_	_	_	_	_	linguistic	_	none	_	Begin=1125.469|End=1125.973	_	_	_	_
 380-0	PST063	380	380	0	così	così	_	_	_	_	_	linguistic	_	some	_	Begin=1126.685	_	_	_	_
-380-1	PST063	380	380	1	#me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+380-1	PST063	380	380	1	#*me	me	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 380-2	PST063	380	380	2	sistemo	sistemo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 380-3	PST063	380	380	3	bene	bene	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 380-4	PST063	380	380	4	qua	qua	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -3302,8 +3302,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 417-11	PST063	417	417	11	ca:ldo	caldo	_	_	_	_	_	linguistic	_	some	_	_	1x1	_	_	_
 417-12	PST063	417	417	12	>°tutto	tutto	_	_	_	_	_	linguistic	_	some	Volume=low	_	_	Fast=0-5(0)	_	_
 417-13	PST063	417	417	13	tranquillo°<	tranquillo	_	_	_	_	_	linguistic	_	some	Volume=low	_	_	Fast=0-10(0)	_	_
-417-14	PST063	417	417	14	#però	però	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-417-15	PST063	417	417	15	#no	no	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+417-14	PST063	417	417	14	#*però	però	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+417-15	PST063	417	417	15	#*no	no	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 417-16	PST063	417	417	16	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 417-17	PST063	417	417	17	stato	stato	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 417-18	PST063	417	417	18	un	un	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -3417,7 +3417,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 430-2	PST063	430	430	2	po~	po~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
 430-3	PST063	430	430	3	che:	che	_	_	_	_	_	linguistic	_	some	_	_	2x1	_	_	_
 430-4	PST063	430	430	4	vedrò	vedrò	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-430-5	PST063	430	430	5	#si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+430-5	PST063	430	430	5	#*si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 430-6	PST063	430	430	6	lo	lo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 430-7	PST063	430	430	7	potrò	potrò	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 430-8	PST063	430	430	8	mangiare	mangiare	_	_	_	_	_	linguistic	_	some	_	End=1291.462	_	_	_	_
@@ -3457,7 +3457,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 435-4	PST063	435	435	4	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 435-5	PST063	435	435	5	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 435-6	PST063	435	435	6	ma::::	ma	_	_	_	_	_	linguistic	_	none	_	End=1310.457	1x4	_	_	_
-436-0	PST063	436	436	0	#no:	no	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=1311.284	1x1	_	_	_
+436-0	PST063	436	436	0	#*no:	no	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=1311.284	1x1	_	_	_
 436-1	PST063	436	436	1	uguale	uguale	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 436-2	PST063	436	436	2	qua	qua	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 436-3	PST063	436	436	3	a	a	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -3474,7 +3474,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 437-9	PST212	437	437	9	ma:	ma	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
 437-10	PST212	437	437	10	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 437-11	PST212	437	437	11	piacerebbe	piacerebbe	_	_	_	_	_	linguistic	_	none	_	End=1318.013	_	_	_	_
-438-0	PST063	438	438	0	#si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=1320.066	_	_	_	_
+438-0	PST063	438	438	0	#*si	si	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=1320.066	_	_	_	_
 438-1	PST063	438	438	1	lei	lei	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 438-2	PST063	438	438	2	vuole	vuole	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 438-3	PST063	438	438	3	andare	andare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
