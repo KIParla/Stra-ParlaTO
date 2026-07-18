@@ -1467,7 +1467,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 279-6	PST123	279	279	6	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-7	PST123	279	279	7	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-8	PST123	279	279	8	presidente	presidente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-279-9	PST123	279	279	9	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+279-9	PST123	279	279	9	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 279-10	PST123	279	279	10	associazione:	associazione	_	_	_	_	_	linguistic	_	none	_	End=479.674	11x1	_	_	_
 280-0	PST123	280	280	0	[allenatori	allenatori	_	_	_	_	_	linguistic	_	none	_	Begin=479.81	_	_	_	0-10(91)
 280-1	PST123	280	280	1	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(91)
@@ -8375,7 +8375,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1967-1	PST125	1967	1967	1	quando	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(537)
 1967-2	PST125	1967	1967	2	sei	sei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(537)
 1967-3	PST125	1967	1967	3	arriva:ta:	arrivata	_	_	_	_	_	linguistic	_	none	_	_	5x1,7x1	_	_	0-8(537)
-1967-4	PST125	1967	1967	4	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	0-4(537)
+1967-4	PST125	1967	1967	4	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-4(537)
 1967-5	PST125	1967	1967	5	esame	esame	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(537)
 1967-6	PST125	1967	1967	6	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(537)
 1967-7	PST125	1967	1967	7	terza]	terza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(537)
@@ -8387,7 +8387,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1967-13	PST125	1967	1967	13	logicamente	logicamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1967-14	PST125	1967	1967	14	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1967-15	PST125	1967	1967	15	quell'	quell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
-1967-16	PST125	1967	1967	16	et[à:]	età	_	_	_	_	_	linguistic	_	none	_	End=3047.498	2x1	_	_	1-3(1040)
+1967-16	PST125	1967	1967	16	et[à:]	età	_	_	_	_	_	linguistic	_	none	_	End=3047.498	2x1	_	_	0-3(1040)
 1968-0	PST122	1968	1968	0	[e	e	_	_	_	_	_	linguistic	_	none	_	Begin=3041.471	_	_	_	0-1(537)
 1968-1	PST122	1968	1968	1	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(537)
 1968-2	PST122	1968	1968	2	vado	vado	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(537)

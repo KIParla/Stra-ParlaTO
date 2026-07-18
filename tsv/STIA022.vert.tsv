@@ -2273,7 +2273,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 473-17	PST144	473	473	17	ottenere	ottenere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 473-18	PST144	473	473	18	dei	dei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 473-19	PST144	473	473	19	risultati	risultati	_	_	_	_	_	linguistic	_	none	_	End=850.94	_	_	_	_
-474-0	PST144	474	474	0	dall'	dall'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=851.85	_	_	_	_
+474-0	PST144	474	474	0	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=851.85	_	_	_	_
 474-1	PST144	474	474	1	oggi	oggi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 474-2	PST144	474	474	2	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 474-3	PST144	474	474	3	domani	domani	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

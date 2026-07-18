@@ -5086,7 +5086,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 706-15	PST072	706	706	15	avuto	avuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 706-16	PST072	706	706	16	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 706-17	PST072	706	706	17	crisi	crisi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-706-18	PST072	706	706	18	d'	d'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+706-18	PST072	706	706	18	d'	d'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 706-19	PST072	706	706	19	identità:	identità	_	_	_	_	_	linguistic	_	none	_	_	7x1	_	_	_
 706-20	PST072	706	706	20	[proprio].	proprio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1696.63	_	_	_	0-7(378)
 707-0	PST213	707	707	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1696.1	_	_	_	0-2(378)

@@ -2059,7 +2059,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 360-7	PST206	360	360	7	tuoi	tuoi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 360-8	PST206	360	360	8	studi:	studi	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 360-9	PST206	360	360	9	di:	di	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
-360-10	PST206	360	360	10	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+360-10	PST206	360	360	10	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 360-11	PST206	360	360	11	arabo,	arabo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
 360-12	PST206	360	360	12	dopo:	dopo	_	_	_	_	_	linguistic	_	none	_	End=913.92	3x1	_	_	_
 361-0	PST206	361	361	0	dopo	dopo	_	_	_	_	_	linguistic	_	none	_	Begin=914.07	_	_	_	_

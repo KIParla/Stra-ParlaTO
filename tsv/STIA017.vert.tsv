@@ -710,7 +710,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 192-0	PST088	192	192	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=313.38	_	_	_	_
 192-1	PST088	192	192	1	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 192-2	PST088	192	192	2	anno	anno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-192-3	PST088	192	192	3	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+192-3	PST088	192	192	3	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 192-4	PST088	192	192	4	economia,	economia	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=314.75	_	_	_	_
 193-0	PST088	193	193	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=314.81	_	_	_	_
 193-1	PST088	193	193	1	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

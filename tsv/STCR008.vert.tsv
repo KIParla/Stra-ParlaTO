@@ -4731,7 +4731,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 667-13	PST211	667	667	13	vuoi	vuoi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 667-14	PST211	667	667	14	farla	farla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 667-15	PST211	667	667	15	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-667-16	PST211	667	667	16	quest'	quest'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+667-16	PST211	667	667	16	quest'	quest'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 667-17	PST211	667	667	17	intervista	intervista	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 667-18	PST211	667	667	18	@anita	@anita	_	_	_	_	_	anonymized	_	none	_	_	_	_	_	_
 667-19	PST211	667	667	19	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -11120,7 +11120,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1512-8	PST100	1512	1512	8	sto	sto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1512-9	PST100	1512	1512	9	pensando	pensando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1512-10	PST100	1512	1512	10	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1512-11	PST100	1512	1512	11	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+1512-11	PST100	1512	1512	11	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 1512-12	PST100	1512	1512	12	inizio	inizio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1512-13	PST100	1512	1512	13	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1512-14	PST100	1512	1512	14	aprile	aprile	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

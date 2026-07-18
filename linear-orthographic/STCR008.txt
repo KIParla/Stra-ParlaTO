@@ -626,7 +626,7 @@ PST100	e poi sbuca un'altra di colpo e prende il posto dell'altra d~ d~ d~ dov'�
 PST211	sì no beh chiaro che a quel punto bisogna pensarci un attimo sì sì
 PST100	era quello più che altro
 PST092	se no facciamo che intervista cioè sta seduta intervista poi nel caso se vengono anche a me o a voi le domande mentre che registriamo le facciamo da fuori
-PST211	sì esatto cioè potrebbe essere così a meno che tu no~ cioè se vuoi farla tu quest' intervista ha già fatto una cosa se vuoi ti puoi mettere tu dipende
+PST211	sì esatto cioè potrebbe essere così a meno che tu no~ cioè se vuoi farla tu quest'intervista ha già fatto una cosa se vuoi ti puoi mettere tu dipende
 PST092	devo sempre vedere con perché
 PST211	sì certo sì sì
 PST203	no beh ma cioè
@@ -1374,7 +1374,7 @@ PST092	la devi insegnare
 PST100	vediamo se prendiamo un giorno libero perché da quel che vedo non ne avete
 PST092	in estate
 PST092	quando tu pensavi
-PST100	io ho la sessione estiva io già sto pensando che all' inizio di aprile io devo dare un minimo tre di esami in una settimana
+PST100	io ho la sessione estiva io già sto pensando che all'inizio di aprile io devo dare un minimo tre di esami in una settimana
 PST092	infatti per quello xx xx esami
 PST100	io ho ancora questo venerdì qui poi devo tirare il più possibile per finire il più in fretta possibile
 PST092	nel caso

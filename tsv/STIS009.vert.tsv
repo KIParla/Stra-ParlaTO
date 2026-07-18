@@ -5148,7 +5148,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 983-0	PST061	983	983	0	#con	con	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=1815.649	_	_	_	_
 983-1	PST061	983	983	1	#vestimenta	vestimenta	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 983-2	PST061	983	983	2	di	di	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-983-3	PST061	983	983	3	com'	com'	_	_	_	_	_	linguistic	_	some	Truncated=Yes	_	_	_	_	_
+983-3	PST061	983	983	3	com'	com'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
 983-4	PST061	983	983	4	era	era	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 983-5	PST061	983	983	5	prima	prima	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 983-6	PST061	983	983	6	no?	no	_	_	_	_	_	linguistic	_	some	Intonation=Rising	End=1818.4	_	_	_	_
@@ -5343,7 +5343,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1027-2	PST061	1027	1027	2	parco	parco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1027-3	PST061	1027	1027	3	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=1880.77	_	_	_	_
 1028-0	PST061	1028	1028	0	sì	sì	_	_	_	_	_	linguistic	_	some	_	Begin=1880.79	_	_	_	_
-1028-1	PST061	1028	1028	1	quest'	quest'	_	_	_	_	_	linguistic	_	some	Truncated=Yes	_	_	_	_	_
+1028-1	PST061	1028	1028	1	quest'	quest'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
 1028-2	PST061	1028	1028	2	anno	anno	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1028-3	PST061	1028	1028	3	#ha	ha	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 1028-4	PST061	1028	1028	4	#estado	estado	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
