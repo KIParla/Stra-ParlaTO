@@ -194,7 +194,7 @@ PST108	dar al hikma sì lo forniamo adesso noi
 PST211	ah
 PST211	è molto bello sotto
 PST108	sì dar al hikma sì tranquillo
-PST107	cosa ha mangiato piatto
+PST107	cosa ha mangiato
 PST211	ho mangiato
 PST107	bissara
 PST211	eh
@@ -998,7 +998,7 @@ PST108	arabo
 PST108	arabo
 PST108	arabo
 PST107	arabo
-PST107	arabo ride
+PST107	arabo ((ride))
 PST108	metti ancora se vuoi insieme
 PST107	anche lui
 PST107	lui è vendri verdura tutti eh

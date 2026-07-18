@@ -8,17 +8,17 @@ PST210	no porque yo no tengo que salir en la cámara
 PST065	que se vea el nombre del restaurante
 PST064	no tienes salir
 PST210	solamente xxx
-PST203	un momentito más porfa . xx ese y poner otro . si no no va
-PST065	porque el objetivo es que se vea . el nombre del restaurante
+PST203	un momentito más porfa (.) xx ese y poner otro (.) si no no va
+PST065	porque el objetivo es que se vea (.) el nombre del restaurante
 PST064	ah ah
-PST203	eh se no no sale el nombre del restaurante . porque estamos haciendo todo eso si no ride
+PST203	eh se no no sale el nombre del restaurante (.) porque estamos haciendo todo eso si no ((ride))
 PST064	en la entrevista
 PST210	xxxx
 PST210	es una entrevista
 PST065	claro porqué porque lo pones tu seguida nosotros estamos xx
 PST203	video a xxxx
 PST064	claro
-PST065	he~ hemos sido entrevistado por un proyecto de . del cu~ del de la región del piemonte que va a salir en xx momento
+PST065	he~ hemos sido entrevistado por un proyecto de (.) del cu~ del de la región del piemonte que va a salir en xx momento
 PST065	qué es
 PST210	xxx
 PST065	había xxx ya
@@ -30,7 +30,7 @@ PST210	xx yo tutta tua
 PST065	no
 PST210	no
 PST065	no solamente me molestó acá como se ve este peñiscado pero después
-PST203	xx . eso al suelo . eso es siempre al suelo
+PST203	xx (.) eso al suelo (.) eso es siempre al suelo
 PST210	es un dragón
 PST065	es un dragón asiático
 PST203	xx xxx
@@ -41,10 +41,10 @@ PST065	porqué lo llaman a usted x
 PST064	ah xx yo le mandé el mensaje que no iba pedir xxx
 PST065	ah
 PST203	x de rotura
-PST203	@mary un poquito más a la derecha y yo un poquito más a x . asì
+PST203	@mary un poquito más a la derecha y yo un poquito más a x (.) asì
 PST064	mh
 PST203	scusate ci mettiamo
-PST064	sí sí . ya que apaga xx teléfono
+PST064	sí sí (.) ya que apaga xx teléfono
 PST203	ci mettiamo un po'
 PST064	quítala
 PST203	ci mettiamo un po' di più perché
@@ -58,12 +58,12 @@ PST064	ha llamado
 PST210	ah okay
 PST210	zero
 PST210	a posto
-PST203	@mary . mira xxx
+PST203	@mary (.) mira xxx
 PST203	xxxxx
 PST210	bórrala
 PST203	xx xxxx
 PST210	okay
-PST210	me llaman . siempre xxx
+PST210	me llaman (.) siempre xxx
 PST065	de qué parte x
 PST210	xxx
 PST064	xxx yo de cañete

@@ -4,7 +4,7 @@ PST211	[okay]
 PST092	[(xxx)]
 PST087	okay
 PST087	eh:m
-PST211	potete partire da quelli e ricordarvi un po' le idee che avete avuto l'altra volta {P} confrontarvi se vi sono venute altre idee,
+PST211	potete partire da quelli e ricordarvi un po' le idee che avete avuto l'altra volta (.) confrontarvi se vi sono venute altre idee,
 PST087	[(sì oggi) sono venuta]
 PST211	[e scrivere altre scene]
 PST092	[(se non sappiamo)] cosa scrivere,
@@ -13,21 +13,21 @@ PST211	allora iniziate a pensare a <quando> fare che cosa
 PST087	ma poi bisognerebbe parlare anche con gli altri
 PST211	o[kay]
 PST092	aiuta:
-PST087	{ride}
-PST092	{ride}
+PST087	((ride))
+PST092	((ride))
 PST211	lei è piena lei è piena di idee [quindi qualcosa (viene)]
 PST092	[madonna ragazzi]
 PST092	io guardo i game play,
 PST211	[brava]
 PST092	[arrivo]
-PST092	{ride}
+PST092	((ride))
 PST211	se poi avete finito portate tutto di la e: va bene
 PST092	va bene così [grazie]
 PST211	[se riuscite a:] parlare un dieci minuti di questa cosa
-PST092	grazie {P} allora
+PST092	grazie (.) allora
 PST092	ti metto un attimo in vivavoce così sarai partecipe
 PST087	ciao::
-??	{al_telefono} ciao {ride}
+??	((al_telefono)) ciao ((ride))
 PST092	quindi non puoi darci
 ??	xx
 ??	non sto capendo che progetto?
@@ -42,35 +42,35 @@ PST087	cioè quando parla #doamna magari lei si muove,
 PST087	sai cosa sarebbe fico?
 PST092	tour del centro ma tipo quando arrivano le pers~ facciamo tipo una persona che arriva [da fuori:]
 PST087	[s::ì::]
-PST092	entra dentro va in sala [di danza poi va va a canto {P} sarebbe fighissimo]
-PST087	[sai cosa sarebbe fico {P} eh esatto perché {P} poi] il tour #doamna parla poi tipo
+PST092	entra dentro va in sala [di danza poi va va a canto (.) sarebbe fighissimo]
+PST087	[sai cosa sarebbe fico (.) eh esatto perché (.) poi] il tour #doamna parla poi tipo
 PST087	e tipo che ne so in una scena facciamo tipo il carrello e riprendiamo
 PST087	poi la porta magari si apre [ed entra la::]
 PST092	[io avevo un'idea]
-PST092	io avevo un'idea tipo sai no {P} xxx tipo
-PST092	{P} che tra i tubi tu inquadri tipo cammina
+PST092	io avevo un'idea tipo sai no (.) xxx tipo
+PST092	(.) che tra i tubi tu inquadri tipo cammina
 PST087	[t=t=t=t]
-PST092	[xx xxx] e e mentre cammina noi tiriamo indietro con il carrello {P} e cammina verso avanti come se noi la stessimo
+PST092	[xx xxx] e e mentre cammina noi tiriamo indietro con il carrello (.) e cammina verso avanti come se noi la stessimo
 PST092	<portando all'interno> del centro non so se hai capito
 PST092	tipo [da fuori] la inquadriamo che entra dentro e scende le scale (tipo) la inquadriamo qua
 PST087	[c(io)è]
 PST092	okay inquadriamo che scende le scald
-PST092	poi {P} magari la inquadriamo tipo: quando va verso sala di canto,
+PST092	poi (.) magari la inquadriamo tipo: quando va verso sala di canto,
 PST092	no sala di danza,
 PST092	noi siamo col carello,
 PST092	qualcuno tira indietro e le altre persone inquadrarla mentre [viene]
 PST087	[troppo lungo::] cioè bisognerebbe fare anche tipo dei ciak
 PST092	eh sono ciak
-PST087	ah okay perché xx [tutto unico {P} un carrello così]
-PST092	[no no no tutto unico ti viene una roba di {P} sei ore]
-PST092	facciamo i ciak {P} un ciak quando entra uno [scende le scale]
+PST087	ah okay perché xx [tutto unico (.) un carrello così]
+PST092	[no no no tutto unico ti viene una roba di (.) sei ore]
+PST092	facciamo i ciak (.) un ciak quando entra uno [scende le scale]
 PST087	[però è un po' bruttina] questa sca°la sinceramente°
-PST087	{ride}
-PST092	{ride}
-PST092	capita {P} vabbè
+PST087	((ride))
+PST092	((ride))
+PST092	capita (.) vabbè
 PST092	[xxx anche la sua] idea
 ?????	[è interes~ però ci sta]
-PST087	sì però cioè {P} ci sono i (cavi) ci sono:
+PST087	sì però cioè (.) ci sono i (cavi) ci sono:
 ?????	ma state registrando?
 PST087	mh mh
 PST092	stanno regi[strando]
@@ -78,11 +78,11 @@ PST092	stanno regi[strando]
 ?????	vabbè ci[ao]
 PST092	[ti]tolo scena?
 PST092	titolo scena e::h ballerina,
-PST092	ballerina {P} usiamo
+PST092	ballerina (.) usiamo
 PST087	ballerino
 PST092	ballerino all'interno del centro
 PST087	persona
-PST092	perso~ per~ no [{P}] persona all'interno del centro
+PST092	perso~ per~ no [(.)] persona all'interno del centro
 PST087	[persona]
 PST087	[titolo della scena è il tito]lo
 PST092	cosa ne pensi]?
@@ -94,20 +94,20 @@ PST087	eh
 PST092	attività
 PST087	x xx xx [fine]
 ??	xxine ci sentiamo poi dopo anche perché adesso sto per entrare in casa.
-PST092	okay tata ci sentiamo dopo {P} ciao ciao
+PST092	okay tata ci sentiamo dopo (.) ciao ciao
 PST092	[pa pa nebună::]
 ??	[xx xx quindi boh]
 ??	ciao ciao
-PST092	ciao nebună: {schiocca_due_baci}
+PST092	ciao nebună: ((schiocca_due_baci))
 PST087	xx xx
 PST092	sì io le voglio un botto di bene a ormai boh ci sentiamo a vicenda come xx
 PST092	no scherzo
 PST092	[ciao]
 PST086	[eccole]
 PST087	ciao il registratore xx xx xx
-PST092	correte {P} correte che hanno già iniziato
+PST092	correte (.) correte che hanno già iniziato
 PST092	perché sei qua tu?
-PST092	in teoria no {P} perché xx
+PST092	in teoria no (.) perché xx
 PST086	sta piangendo cosa faccio?
 PST087	chi? sh::
 PST086	xx cosa faccio?
@@ -127,20 +127,20 @@ PST092	è da quando sono arrivate che non c'hanno voglia di fare l'attività piu
 PST092	non è uscito
 PST087	tema generale
 PST092	tema generale persona che svolge [l'attività]
-PST087	ma tour se lo mettevi tipo qua attività e qua mettevi tour o solo anche tour {P} del ci ci tir
+PST087	ma tour se lo mettevi tipo qua attività e qua mettevi tour o solo anche tour (.) del ci ci tir
 PST092	facciamo tema generale tour
 PST087	ma tour sembra tipo che ne so tipo
 PST087	[tour xxx]
 PST092	[tour attività]
 PST092	tour attività.
 ???	e che dovete fa'?
-PST087	eh no stiamo aveva pensato a una scena {P} tipo un tour
+PST087	eh no stiamo aveva pensato a una scena (.) tipo un tour
 PST092	vita mia:
 PST087	tipo che ne [so]
 PST092	ha chiamato:: la tua fanciulla poi ti dico
-PST092	e:::h descrizione {P} che succede in questa scena
-PST087	[due] {ride}
-PST092	[eh] {P} no {P} xxx
+PST092	e:::h descrizione (.) che succede in questa scena
+PST087	[due] ((ride))
+PST092	[eh] (.) no (.) xxx
 PST092	m::h descrizione delle attività che si svolgono
 PST087	ora abbiamo fatto questa roba qui:
 PST092	con con esempio di persona
@@ -149,38 +149,38 @@ PST087	[però a sto] punto togliamo queste perché [il tour]
 PST092	[perché]?
 PST087	[xx facciamo qualche tipo di attività]
 PST092	no [perché queste sono specifiche]
-PST087	cos'abbiamo fatto #taraful il gruppo [{P}] danza e costumi?
+PST087	cos'abbiamo fatto #taraful il gruppo [(.)] danza e costumi?
 PST092	[gruppo canto],
-PST087	[xx manca {P} manca una],
-PST092	[decorazioni {P} decorazioni di pasqua]
-PST087	boh vabbè hanno loro il foglio {P} con l'xxx del nome di
+PST087	[xx manca (.) manca una],
+PST092	[decorazioni (.) decorazioni di pasqua]
+PST087	boh vabbè hanno loro il foglio (.) con l'xxx del nome di
 PST092	[lo andia]mo a recuperare?
 PST087	e no perché t~ eh però cavolo
 PST092	no no decorazioni è qua [decorazioni durante] le uova di [pasqua]
 PST087	[no no]
 PST087	[sì questo] questo però è un problema perché se noi facciamo questo in sala #bunicii
 PST092	la mamma di lo farà in sala #bunicii
-PST092	ma facciamo in due giorni diversi oppure lei lo fa la [m~ {P} oppure lei lo fa]
+PST092	ma facciamo in due giorni diversi oppure lei lo fa la [m~ (.) oppure lei lo fa]
 PST087	[no ma il problema è (come) lo fa]
 PST092	lei lo fa alla mattina e noi la sera (non è)
-PST087	sì xx al montaggio {P} c(io)è tipo non è che puoi fare tipo in un c'è c'è la [mamma di
+PST087	sì xx al montaggio (.) c(io)è tipo non è che puoi fare tipo in un c'è c'è la [mamma di
 ????	zi]ua eh
 PST092	ciao zi'
 PST092	no non è vero non posso dirlo::
 PST092	sărumana sărumana
 PST087	ciao:: xxx
-PST092	allora [{P} dicevamo]
+PST092	allora [(.) dicevamo]
 PST087	perché xx se li facciamo nella stessa sala,
 PST087	si capirà qualcosa del tipo
-PST092	ma sì ma che te ne frega {P} [quella è la sta]nza
+PST092	ma sì ma che te ne frega (.) [quella è la sta]nza
 PST087	[(ci inquadriamo)]
-PST092	tanto poi conta che {P} e:h per eh le uova,
-PST092	conta che {P} per le uov~,
+PST092	tanto poi conta che (.) e:h per eh le uova,
+PST092	conta che (.) per le uov~,
 PST092	conta che per le uova poi dopo noi,
-PST092	sistemiamo facciamo le decorazioni cioè {P} mettiamo qualcosa sul tavolo comunque copriamo indietro qualcosa perché [mentre facciam~]
+PST092	sistemiamo facciamo le decorazioni cioè (.) mettiamo qualcosa sul tavolo comunque copriamo indietro qualcosa perché [mentre facciam~]
 PST087	[però si vede::]
 PST092	eh ho capito ma comunque [mentre facciamo]
-PST092	{a_qualcun_altro} in sala bunicii
+PST092	((a_qualcun_altro)) in sala bunicii
 PST086	più vicino che cadi
 PST086	no:
 PST211	come sei stata abbandonata:
@@ -188,7 +188,7 @@ PST087	e::h sì è scappata via,
 PST211	ah okay
 PST087	e:: si è presa con sé le idee
 PST211	le idee [e:h]
-PST087	[no] perché stavamo pensando {P} di fare tipo un tour
+PST087	[no] perché stavamo pensando (.) di fare tipo un tour
 PST211	[mh mh]
 PST087	[che ne so] magari c'è una persona che entra
 PST087	c'è una persona che entra e noi prendiamo proprio tutto il percorso che fa per arrivare fino a qua
@@ -208,12 +208,12 @@ PST092	[per le uova pensavo]
 PST087	[però c'è un problema]
 PST087	perché:
 PST211	hai ragio~
-PST087	xx noi siamo un problema {P} [ma se nella stanza] invece facciamo le uova le decorazioni per le [uova],
+PST087	xx noi siamo un problema (.) [ma se nella stanza] invece facciamo le uova le decorazioni per le [uova],
 PST092	[lei lei invece]
 PST211	[e:h],
 PST087	c'è anche il telaio
 PST211	si
-PST087	e {P} il telaio noi pensavamo tipo
+PST087	e (.) il telaio noi pensavamo tipo
 PST092	non so se anche voi però io poi m:h me la immagino più che c'era solo lì la::
 PST211	[certo vabbè possiamo farlo in due momenti separati]
 PST087	[io eh però non]
@@ -229,41 +229,41 @@ PST092	pensavo al: magari la macchina da cucito la copriamo perché comunque se 
 PST211	[mh mh]
 PST092	ma c'è sempre quel momento che comunque anche se tipo una mama organizza le cose l'altra cuce,
 PST092	comunicano tra di loro anche se fanno due cose differenti quindi io nella mia mente pensavo,
-PST092	sarebbe bellissimo se tipo loro fanno le uova e nel mentre comunicano anche con {P} le due signore che {P} [saxxx]
+PST092	sarebbe bellissimo se tipo loro fanno le uova e nel mentre comunicano anche con (.) le due signore che (.) [saxxx]
 PST211	[cucio]no
 PST087	[perché due]?
 PST092	eh perché ne abbiamo due potremmo farne due però:: facciamo [solo] uno
 PST087	[due]
 PST092	perché abbiamo due telai
-PST087	sì ma {P} chi VA a [fare] due telai {ride}
+PST087	sì ma (.) chi VA a [fare] due telai ((ride))
 PST092	[eh]
 PST092	chi va chi sa
 PST092	se no prendiamo solamente #doamna che appunto (presenta) lì in fondo,
 PST092	ed è bello perché io me lo immagino tipo questo riquadro,
 PST092	con
 PST087	però mi sa tipo da un disparte
-PST092	con loro l'armadio {P} dietro con tutte le decorazioni queste sono le decorazioni tipo
-PST087	{ride}
+PST092	con loro l'armadio (.) dietro con tutte le decorazioni queste sono le decorazioni tipo
+PST087	((ride))
 PST092	xxx un po' il minilavabo si vede,
 PST211	sì
-PST092	qua l'armadio con le robe {P} poi qua c'è #doamna seduta e qui {P} (luce [passa)]
+PST092	qua l'armadio con le robe (.) poi qua c'è #doamna seduta e qui (.) (luce [passa)]
 PST087	[ma sembra] un po' in disparte:
-PST092	eh [ma no] perché non è che sta girata così sta girata un po' così {P} e cuce,
+PST092	eh [ma no] perché non è che sta girata così sta girata un po' così (.) e cuce,
 PST087	[perché]
 PST211	beh e tu puoi anche in q~ [c(io)è spostare l'inquadratu:ra] però
 PST087	[come lo sposti il telaio]
 PST211	[no: ti sposti tu:]
 PST092	[ma non spostiamo il telaio] si siede lei
-PST092	si siede lei un po' più così {P} e magari facciamo avvicinare [le::]
+PST092	si siede lei un po' più così (.) e magari facciamo avvicinare [le::]
 PST087	[eh però dipe]nde anche tipo che se al tavolo ci sono
 PST087	meno persone va bene però se è pieno magari poi non si vede lei che:
 PST092	no ma mettiamo quattro persone così siamo in [cinque in stanza]
 PST087	[°qua:ttro°],
-PST092	sì due (per lato) {P} una due una due
-PST087	[sei {P} cioè quattro mi sembra un po' poco]
-PST092	[xx c'è #doamna {P} eh xx non si vede] #doamna
+PST092	sì due (per lato) (.) una due una due
+PST087	[sei (.) cioè quattro mi sembra un po' poco]
+PST092	[xx c'è #doamna (.) eh xx non si vede] #doamna
 PST087	n[o:],
-PST092	[se no face]vi due sul divano {P} no sì due sul divano due due due due e #doamna
+PST092	[se no face]vi due sul divano (.) no sì due sul divano due due due due e #doamna
 PST087	però [sul divano chi si mette]
 PST092	[xx xx xx
 PST092	a #doamna a #doamna facciamo fare un'altra cosa.
@@ -276,20 +276,20 @@ PST092	loro fanno:
 PST092	#doamna che cuce al telaio
 PST092	#doamna xx xx xx xx xx
 PST087	a::h sì ho capito
-PST092	la mettiamo in mezzo così in primo piano abbiamo #doamna che cuce {P} quattro persone che: fanno le uova e le altre due che fanno le cose,
-PST087	perché [quattro cioè] quattro sa più da [seduta di] gossip non da scexxx {ride}
+PST092	la mettiamo in mezzo così in primo piano abbiamo #doamna che cuce (.) quattro persone che: fanno le uova e le altre due che fanno le cose,
+PST087	perché [quattro cioè] quattro sa più da [seduta di] gossip non da scexxx ((ride))
 PST211	[io poi::]
 PST092	[no]
 PST211	beh ma perché di solito quante persone [sono]
 PST087	[e::h di sol]ito sono ta::nte perché a volte si uniscono anche i bambi:ni cioè siamo in tanti:
-PST092	eh ma [mettiamo (i bambini) {P} possiamo mettere i bam]bini di teatro
+PST092	eh ma [mettiamo (i bambini) (.) possiamo mettere i bam]bini di teatro
 PST087	[non siamo in quattro]
 PST092	(piutt[osto metti anche
 PST087	[ma perché]
-PST087	magari xx xx {P} tre persone così xx xx siamo un po' più
+PST087	magari xx xx (.) tre persone così xx xx siamo un po' più
 PST092	posso dire una cosa fuori luogo,
-PST092	un'altra cosa che è un po' forte devi descriverlo {ride}
-PST092	allora {P} io dico allo~ fai due persone qua due persone qua due sul {P} divano,
+PST092	un'altra cosa che è un po' forte devi descriverlo ((ride))
+PST092	allora (.) io dico allo~ fai due persone qua due persone qua due sul (.) divano,
 PST092	e poi non so metti un bambino qua un bambino qua un bambino là un bambino là
 PST211	però i bambini no i bambini nelle riprese no
 PST087	e invece sì
@@ -299,28 +299,28 @@ PST087	[BRAva] il permesso xx xx xx
 PST087	xx quello x sopra a loro [xxx]
 PST092	[xx] xx xx
 PST087	xxx°
-PST087	o se no ho capito {P} ho capito
+PST087	o se no ho capito (.) ho capito
 PST087	mettiamo quattro che decorano coi bambini poi quelle due che stanno sul divanetto
-PST087	mettiamo le xx {P} mettiamo le xx xx colorare
+PST087	mettiamo le xx (.) mettiamo le xx xx colorare
 PST092	che fi:go
 PST087	xx xx [xx]
-PST092	[xx] devi stare attenta {P} perché se cadono le pentole
+PST092	[xx] devi stare attenta (.) perché se cadono le pentole
 PST087	(e poi neanche quindi non è vero)
 PST092	mi è venuto in mente adesso che xx xx xx xx
 PST087	sh::
-PST092	(due mamme) sedute {P} che controllino le uova e le sistemano a posto
-PST092	c(io)è le sistemano e le mettono dentro il cesto {P} da sedute così le persone che le disegnano disegnano e le persone che stanno fuori,
+PST092	(due mamme) sedute (.) che controllino le uova e le sistemano a posto
+PST092	c(io)è le sistemano e le mettono dentro il cesto (.) da sedute così le persone che le disegnano disegnano e le persone che stanno fuori,
 PST092	[xx xx xx xx]
 ?	[queste fanno teatro: fanno cinema fanno televisione:]
-?	xx xx xx [{P}] abbiamo l'ultimo xx
+?	xx xx xx [(.)] abbiamo l'ultimo xx
 PST211	[sì sì]
 PST211	grazie
 ?	giri tutto il materiale giri xx xx xx [xx xx]
 PST211	[sì sì sì]
-PST211	grazie a voi è stato un piacere [{P}] ciao buona serata
+PST211	grazie a voi è stato un piacere [(.)] ciao buona serata
 ?	[ciao]
 ?	quanta musica
-?	mozart {P} eseguono mozart bach e::: {P} xx
+?	mozart (.) eseguono mozart bach e::: (.) xx
 PST211	bello
 ?	al conservatorio metto due camere,
 PST092	dove scappate?
@@ -328,10 +328,10 @@ PST092	dove scappate?
 PST087	e non torna[te],
 ?	[che] filmiamo
 PST211	settimana prossim[a]
-?	[però] {P} se il martedi pomeriggio non avete cose da fare qua e volete passare,
+?	[però] (.) se il martedi pomeriggio non avete cose da fare qua e volete passare,
 PST087	a che ora
 ?	in realtà è dalle dieci del mattino ma siete a scuola poi quando uscite,
-PST087	alle quattro {ride}
+PST087	alle quattro ((ride))
 ?	alle quattro io vado fino alle sei
 PST092	[xx xx magari io mi balzo scuola] per venire
 ?	non penso
@@ -342,10 +342,10 @@ PST087	[quello sì che sarebbe bello]
 PST092	[quel~ quello è comodo] quello è comodo perché [con un permesso la scuola] lo prende come punti [per chi:: va alle xxx]
 ?	[oppure]
 ?	[appunto quelle tre quattro che sono interessate]
-PST211	i crediti {P} mh
+PST211	i crediti (.) mh
 PST211	ma [non so se xx]
 PST087	[eh da te: io non faccio] le superi[ori]
-?	[al mar]tedi {P} è tutto di rag[azze {P} c(io)è possono entrare] solo rag[azze {P} non entrano maschi]
+?	[al mar]tedi (.) è tutto di rag[azze (.) c(io)è possono entrare] solo rag[azze (.) non entrano maschi]
 PST092	[se la scuola accetta sì]
 PST092	[magari non te la non te lo prendono come]:: c(io)è dato che conta la xxxenza xx xx xx
 ?	[ed è la scuola di cinema al femminile]
@@ -354,11 +354,11 @@ PST092	[ah]
 ?	[io sono xx]
 PST092	[eh xx ma comunque]
 PST087	ah
-PST092	tipo xxx che:: avevamo chiesto un permesso {P} alcune scuole l'hanno rifiutato ma hanno detto piuttosto che {P} darti l'asse~ noi ti diamo l'assenza ma ti prendiamo i crediti cioè ti diamo tanti crediti per avere fatto questa attività
+PST092	tipo xxx che:: avevamo chiesto un permesso (.) alcune scuole l'hanno rifiutato ma hanno detto piuttosto che (.) darti l'asse~ noi ti diamo l'assenza ma ti prendiamo i crediti cioè ti diamo tanti crediti per avere fatto questa attività
 ?	non tanto da questa zona ma è da questa parte della città
 PST087	xx?
-?	sì sì prendete il due e poi il tredici e si arriva {P} non è (lontano)
-?	puoi prendere il cinque o il sei però {P} dove abiti tu.
+?	sì sì prendete il due e poi il tredici e si arriva (.) non è (lontano)
+?	puoi prendere il cinque o il sei però (.) dove abiti tu.
 PST087	fermata di
 PST092	ah io finisco alle due
 ?	tu dove sei?
@@ -366,39 +366,39 @@ PST092	eh io finisco alle due però xx xx
 ?	non non per sapere esattamente ma di casa (xxx)
 PST092	spezia devo prendere la metro mezz'ora però se parto da scuola,
 ?	(ammetto che) vicino a me in nove minuti sei a porta susa
-PST092	io a porta susa finisco {P} cioè io a porta susa vado a scuola quindi::
+PST092	io a porta susa finisco (.) cioè io a porta susa vado a scuola quindi::
 ?	voi avete (xxx)
 PST211	sì sì [ci sentiamo]
-?	[con i numeri è un po' de]licato perché sono [minori] {P} °li tenete [voi° {P} se] ti chiedono ancora
+?	[con i numeri è un po' de]licato perché sono [minori] (.) °li tenete [voi° (.) se] ti chiedono ancora
 PST211	[mh mh]
 PST211	[teniamo noi sì sì]
-?	e senza impegno venerdì va dalle dieci {P} alle diciannove e trenta
+?	e senza impegno venerdì va dalle dieci (.) alle diciannove e trenta
 PST211	il martedì
-?	il martedì bra~ sono sono sono morto {P} venerdì è qua {P} e::: potete venire a vedere i costumi le cose.
+?	il martedì bra~ sono sono sono morto (.) venerdì è qua (.) e::: potete venire a vedere i costumi le cose.
 ?	[s:enza],
 PST087	[al massimo] mica mettete:: un:: e::hm
 PST092	però dobbiamo chiedere a #doamna
 PST087	[su] google map
-?	[sì:: sanno tutto] loro {P} chiedete l'indirizzo a loro {P} c'è tutta una pappardellina di come trovarmi e::
+?	[sì:: sanno tutto] loro (.) chiedete l'indirizzo a loro (.) c'è tutta una pappardellina di come trovarmi e::
 PST087	[xx xx]
 ?	e al limite dai il mio nu[mero]
 PST211	[ma sì:] [ci sentiamo poi:]
 PST092	[proviamo x xx a #doamna chiediamo se si può fare]
 ?	[le famiglie::] devono xx xx xx
-PST087	ma perché l'ideale sarebbe partire in gruppo partire in gruppo {P} partire a un'ora tutte
+PST087	ma perché l'ideale sarebbe partire in gruppo partire in gruppo (.) partire a un'ora tutte
 ?	no ma quella la organizziamo dopo
 PST087	no se no tipo un gruppo anche solo noi cioè voi
 ?	eh [x xx xxxx]
 PST092	eh [ci incontriamo a porta susa]
-?	Una volta la facciamo tutti insieme che possono e [probabilmente il venerdi] {P} però ci si vede là giusto
+?	Una volta la facciamo tutti insieme che possono e [probabilmente il venerdi] (.) però ci si vede là giusto
 PST087	[andiamo da andiamo da xx più vicino]
 PST211	sì sì giusto
-?	a me fa piacere parallelamente {P} prometto che non saranno né privilegiate né
-?	né particolarmente più avanti cioè quello che: che insegno xxono o lo riinsegno qua, [o comu]nque {P} xx xx nessuno
+?	a me fa piacere parallelamente (.) prometto che non saranno né privilegiate né
+?	né particolarmente più avanti cioè quello che: che insegno xxono o lo riinsegno qua, [o comu]nque (.) xx xx nessuno
 PST211	[mh mh]
 PST211	certo
 PST092	questo telefono [xx xx]
-PST087	[va bene] {P} gr[azie]
+PST087	[va bene] (.) gr[azie]
 ?	[dolore fisico]
 PST211	ciao
 PST087	(xxx) scale della metro non so come fare (xxx)
@@ -422,20 +422,20 @@ PST092	[e::h] descrizione,
 PST211	[okay]
 PST087	eh tour e:h
 PST211	fate che poi io torno
-PST087	tour delle attività del ci ci ti [{P}] ci ci ti i erre
+PST087	tour delle attività del ci ci ti [(.)] ci ci ti i erre
 PST092	[mh]?
 PST092	svol~
 PST087	svolt[e]
 PST092	[non] svolte
 PST092	s~ e:h seguendo come esempio un personaggio
-PST087	no {P} più: persona che spiega
+PST087	no (.) più: persona che spiega
 PST092	no persona che spiega no più personaggio seguito
 PST087	seguito,
 PST092	sì perché lo seguiamo con la telecamera non lo facciamo [xx xx xx]
 PST087	[però seguito sembra tipo che] rincorri tipo tu vai
 PST092	no
 PST087	da telecamera metti da te~ personaggio [seguito da telecamera]
-PST092	[no {P} facciamo] personaggio {P} inquadrato
+PST092	[no (.) facciamo] personaggio (.) inquadrato
 PST092	abbiamo finito ormai
 PST087	adesso cade e si fa male vedi
 PST087	che bell'anello
@@ -445,25 +445,25 @@ PST087	dipende da che ora è
 PST092	bo è pomeriggio
 PST087	ah allora si
 PST087	ma non questa di sicuro no
-PST092	e:::h domenica lascio un punto per il giorno perché non lo so {P} location ci ci ti {P} [ti e::rre o] {P} ci ci ti i erre
+PST092	e:::h domenica lascio un punto per il giorno perché non lo so (.) location ci ci ti (.) [ti e::rre o] (.) ci ci ti i erre
 PST087	[ti i i:]
-PST092	persone:::: eh eh [{P}]
+PST092	persone:::: eh eh [(.)]
 PST087	[e:::h]
 PST087	pensavo in generale perché il fatto è che
-PST087	no {P} domenica no domenica no
-PST087	serve sabato {P} perché sabato si fan delle attività,
+PST087	no (.) domenica no domenica no
+PST087	serve sabato (.) perché sabato si fan delle attività,
 PST092	saba~
 PST087	meglio pomeriggio
-PST092	sabato [{P}] sabato
+PST092	sabato [(.)] sabato
 PST087	[in generale]
-PST087	e mettilo qua {ride}
+PST087	e mettilo qua ((ride))
 PST086	non c'ho voglia
 PST087	faccio io
-PST086	{ride} non c'ho voglia no
+PST086	((ride)) non c'ho voglia no
 PST087	sabato
 PST092	e::h persone::
-PST087	ci ci ti erre {ride}
-PST092	no {P} punto di domanda vedremo poi
+PST087	ci ci ti erre ((ride))
+PST092	no (.) punto di domanda vedremo poi
 PST092	andiamo
 PST092	andiamo
 PST087	io l(o) voglio portare

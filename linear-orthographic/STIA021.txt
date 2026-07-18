@@ -40,7 +40,7 @@ PST141	marrakech marrakech marrakech marrakech
 PST142	marrakech marrakech
 PST215	ah ho capito capito no io sapevo che si diceva marrakech
 PST142	no marrakech
-PST140	the a~ a~ accent accent bi-l-iṭaliya: . l-accent
+PST140	the a~ a~ accent accent bi-l-iṭaliya: (.) l-accent
 PST141	l'accent
 PST140	l'accent l'accent
 PST141	eh la le~ l'accent
@@ -121,7 +121,7 @@ PST140	no parl~
 PST140	parlare no parlare eh arabi
 PST140	arabi eh
 PST140	un poco arabic e amazigh
-PST141	yallāh duwwex l-s-siyyed gul-lih shi kelma b-l-shlḥa . lā lā ma-zyen ah
+PST141	yallāh duwwex l-s-siyyed gul-lih shi kelma b-l-shlḥa (.) lā lā ma-zyen ah
 PST140	xassu i xxx marocchino
 PST215	va bene
 PST215	cioè quindi la lingua che avete imparato quando eravate bambini
@@ -292,9 +292,9 @@ PST141	piace molto italia sì
 PST141	mgharba ki bghiw ṭ-ṭalien 3la m3ammrin xx
 PST142	ken ki l3ab m3a-hum f-xxx l3ab m3a-hum fī-fī
 PST141	gal-lik ra ken ki l3eb
-PST215	un'altra persona ciao s~ s~ s~ sì sì ma non sapevo
-PST143	un'altra persona ma hai beccato anche lui eh
-PST142	un'altra persona eh ah ciao
+PST215	aunaltrapersona ciao s~ s~ s~ sì sì ma non sapevo
+PST143	aunaltrapersona ma hai beccato anche lui eh
+PST142	aunaltrapersona eh ah ciao
 PST141	anche lui di u~ x
 PST215	se vuoi prendere una sedia e metterti
 PST141	bqaw fiya ana i shampwanat xx xx
@@ -329,7 +329,7 @@ PST141	insh-allah yallah xx xx xx thellay tre-lik fe ra-sek be-slama tre-lik a h
 PST140	sì eh amico in lav~ in lavoro
 PST141	ḥshuma xellina l-mera ket tsnna bellati 3li-kum bellati
 PST140	eh
-PST141	hadak hadak huwa . hadak huwa li-ntfahmu m3ah xx xx
+PST141	hadak hadak huwa (.) hadak huwa li-ntfahmu m3ah xx xx
 PST140	gul-lih gul-lih huwa gal-liya kifash 3rfti @nomeassociazione gelt-lih ra derri li m3a-ya fl-xadma gul-lih
 PST142	ah
 PST142	eh lui lui amico per eh di venuto di per la la

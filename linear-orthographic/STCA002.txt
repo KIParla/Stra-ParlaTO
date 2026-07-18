@@ -518,7 +518,7 @@ PST108	tipo vicino agadir
 PST107	fare solo aghrum
 PST108	ci sono x che parlano
 PST107	aghrum
-PST107	aghrum ride
+PST107	aghrum ((ride))
 PST217	agra è il pa~
 PST108	aghrum
 PST107	aghrum
@@ -1003,7 +1003,7 @@ PST108	xx
 ??	qraī-tī hādī fīnā-hīyā
 ??	io ho un divedo x cinque secondi
 PST107	quanto devi pagare
-??	hādā shhar hādī zā'id hādī poi hādī zā'id wāḥd-uxrā taḥt-hā ride
+??	hādā shhar hādī zā'id hādī poi hādī zā'id wāḥd-uxrā taḥt-hā ((ride))
 PST108	seicento ti bastano
 ??	mn l-ḥmal-līya
 ??	sì mi bastano mi bastano
@@ -1081,8 +1081,8 @@ PST110	xx
 PST107	shū 3aynīn shaḥal ṭayḥin l-3aynīn ṭayhin mrā lā y-jihā l-nǝfs 3la dǝm l-had
 ??	sì sì sì
 PST217	sì anche qua
-PST107	kāyna wǝlla mā-kāynāsh wu-shūf 3aynīn xx ride
-PST107	shū 3aynīn xx ride
+PST107	kāyna wǝlla mā-kāynāsh wu-shūf 3aynīn xx ((ride))
+PST107	shū 3aynīn xx ((ride))
 PST107	gǝlt gǝlt 3aynīn ṭāyḥīn l-ḥāl walakin ma shad-hum l-ḥād
 ??	dice dolore di ciclo
 PST108	xx
@@ -1092,7 +1092,7 @@ PST107	ā-shǎffār jāynā līk ā-msīkīnā
 ????	wālīdī wa-līl l taq wīlī llāh yǝl-hag
 PST108	xx
 PST107	lā wlādǝk tiḥī
-????	3ā-ṭī lī-mā-3atīāsh kat-shūf 'ash t-ḥǎyidī ride
+????	3ā-ṭī lī-mā-3atīāsh kat-shūf 'ash t-ḥǎyidī ((ride))
 PST110	xx
 ??	nǝrī msha y-sǝjjǝl 3ā ḍaw
 PST108	xx
@@ -1134,7 +1134,7 @@ PST107	xx
 PST110	eh xx
 PST107	dawlǎ dǎwlǎ kī-bqāw y-ḥaṭṭū xx wū 'ash kā-dīr
 PST217	sì le scarico adesso
-PST107	'aw 3āt-mshīw 3ā-tǝltmīya kīlū diyāl ḥshīsh ride
+PST107	'aw 3āt-mshīw 3ā-tǝltmīya kīlū diyāl ḥshīsh ((ride))
 PST108	hādīkǝ
 PST108	ta-tla3 flūt milions tlāta dīyāll xx
 ?	xx wullā hādī

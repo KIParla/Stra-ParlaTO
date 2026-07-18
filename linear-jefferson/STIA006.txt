@@ -82,7 +82,7 @@ PST205	eh
 PST205	in quali posti parli le tue lingue di origine?
 PST014	mh con gli amici, a casa,
 PST205	okay
-PST205	e:h {P} hai amici del tuo stesso paese di origine?
+PST205	e:h (.) hai amici del tuo stesso paese di origine?
 PST014	mh sì
 PST205	eh
 PST205	più di quelli italiani?
@@ -93,7 +93,7 @@ PST205	in che lingua parli con loro?
 PST014	m:h dipende allora si parla arabo qualche volta non si si riesce a esprimere
 PST014	sì per eh utilizzare magari meno parole
 PST014	magari c'è la parola giusta in italiano che risparmi tanti parole allore glie~ gliela dici anche in italiano anche se stai facendo un discorso in arabo
-PST014	{schiocca_le_dita}
+PST014	((schiocca_le_dita))
 PST014	salta la parola in italiano così ti esprimi meglio
 PST014	per farti capire diciamo via
 PST205	certo
@@ -105,7 +105,7 @@ PST014	sì
 PST205	e:h
 PST205	in quali posti
 PST205	e::hm
-PST205	parlavi le altre lingue {P} quindi per esempio
+PST205	parlavi le altre lingue (.) quindi per esempio
 PST205	mi hai parl[ato del francese],
 PST014	[e:h francese] francese soprattutto a scuola
 PST014	considerando l'età che avevo all'epoca m:h quando
@@ -132,8 +132,8 @@ PST205	torneresti a vivere nel tuo paese?
 PST014	sì
 PST014	mi piacerebbe un sacco
 PST205	okay
-PST205	e: {P} dove altro ti piacerebbe vivere
-PST205	oltre {P} all'italia
+PST205	e: (.) dove altro ti piacerebbe vivere
+PST205	oltre (.) all'italia
 PST205	o il tuo paese di origine
 PST014	mah tutto
 PST014	io considero tutto il mondo casa mia cioè non non ho:: [non ho mete] posso vivere dappertutto
@@ -241,7 +241,7 @@ PST205	okay
 PST205	e:hmù
 PST205	come pensi che sia cambiata
 PST205	eh l'italia e in realtà
-PST205	torino negli anni {P} come pensi che sia cambiata
+PST205	torino negli anni (.) come pensi che sia cambiata
 PST014	ma cambiata in=m:h in che [senso]
 PST205	[nel senso è] migliorata, è peggiorata,
 PST014	penso che sia migliorata perché::
@@ -323,7 +323,7 @@ PST205	e: quindi
 PST205	nel~
 PST205	nella doman~ alla domanda fai sport=eh
 PST014	no
-??	{ride}
+??	((ride))
 PST014	non fa~ non sono uno sportivo [no]
 PST205	[neanch]e calcett[o:], °o[kay]°
 PST014	[no]
@@ -334,7 +334,7 @@ PST205	[che tip~]
 PST014	[lo sp~]
 PST014	lo sport che mi piace è guidare bas[ta]
 PST205	[o]kay
-PST014	{ride}
+PST014	((ride))
 PST205	quindi motorsport
 PST014	sì
 PST205	okay
@@ -350,7 +350,7 @@ PST014	e: mi piacciono film d'azioni
 PST205	sì
 PST014	e: i too fast too furious li ho guardati tutti
 PST205	okay
-PST014	{ride}
+PST014	((ride))
 PST014	e:::
 ??	ci stanno motori potenti capito
 PST014	e:: le serie ho guardato quella
@@ -376,7 +376,7 @@ PST205	quindi mh
 PST205	non lo so
 PST014	sì sì che m:h
 ??	made in s[ud]
-PST014	[ze]lig made in sud {ride} [sì sì sì sì]
+PST014	[ze]lig made in sud ((ride)) [sì sì sì sì]
 PST205	okay okay quindi questi programmi [va bene]
 ??	[sì, questi] °pro[grammi qua°]
 PST014	[rob]a che fa ridere diciamo via
@@ -428,7 +428,7 @@ PST205	eh ti piace la cucina italiana?
 PST014	sì
 PST014	avevo detto che si mangiava bene in italia
 PST205	bravo
-PST014	{ride}
+PST014	((ride))
 PST205	e: m:h
 PST205	quali piatti ti piacciono di più della cucina italiana?
 PST014	tutti i piatti di pesce
@@ -442,7 +442,7 @@ PST205	ehm
 PST205	cucini piatti italiani a casa?
 PST014	sì anche
 PST205	preferisci la cucina italiana o la cucina del tuo paese di origine?
-PST014	diciamo che la cucina italiana: eh ci so~ {P} non puoi decidere se mi piace ques~ mi piacciono tutte e due
+PST014	diciamo che la cucina italiana: eh ci so~ (.) non puoi decidere se mi piace ques~ mi piacciono tutte e due
 PST014	e:h la cucina italiana ci son tanti sapori: poi: l'italia dal meridione x l~ l~ l~ al l~
 PST014	dal sud al nord hanno tanti piatti, tante cucine, la qua~ la sc~ la scelta è [vasta]
 ??	[vasta sc]elta
@@ -457,7 +457,7 @@ PST014	[e:h]
 ??	[come la spieghi]amo #rfissa in italiano
 PST014	e::h allora boh il cuscus l'abbiamo detto
 PST014	poi::
-??	la gammella {ride}
+??	la gammella ((ride))
 PST014	eh come si: come si può dire
 PST014	eh?
 PST205	il

@@ -565,7 +565,7 @@ PST211	non si sa
 PST087	si chiama signore
 PST092	si chiama signore mercoledì prossimo se vuoi glielo chiedo
 PST211	signore
-PST092	eh domande per domnu
+PST092	scrivendo eh domande per domnu
 PST092	perché mi scrivi non mi devi scrivere
 PST092	allora
 PST092	qual era già come sei venuto a conoscenza del centru

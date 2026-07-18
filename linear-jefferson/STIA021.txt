@@ -5,11 +5,11 @@ PST215	allora
 PST215	cominciamo eh cominciamo da te tu ti chiami giusto?
 PST140	[sì]
 PST215	[no] ecco una cosa che ti volevo chiedere subito cioè tu ti chiami:
-PST215	come {P}
+PST215	come (.)
 PST215	cioè sono la stessa cosa?
 PST140	sì sì
 PST215	ah capito ma quanti anni hai
-PST140	ah ventise~ {P} ventisette
+PST140	ah ventise~ (.) ventisette
 PST215	ventisette sei nato in marocco?
 PST140	sì
 PST215	siete tutti nati in maroc[co]?
@@ -21,14 +21,14 @@ PST215	in quale:: mh in quale città
 PST140	io e:::h a casablanca
 PST215	casabla~ a:h bello
 PST215	capito
-PST215	casabla~ no casa~ io: {P} ti dicevo sono stato solamente a rabat
+PST215	casabla~ no casa~ io: (.) ti dicevo sono stato solamente a rabat
 PST215	tanti anni fa però:=non [mi ricordo] quasi nulla
 PST140	[ah]
-PST215	perché [c'erano dei miei amici {P} dei miei amici] italiani che vivevano lì
+PST215	perché [c'erano dei miei amici (.) dei miei amici] italiani che vivevano lì
 PST140	[xxx casablanca]
 PST215	adesso però sono tornati in italia
 PST215	tu invece?
-PST142	eh {P} e::h abito: a marrakech
+PST142	eh (.) e::h abito: a marrakech
 PST215	ah sì hai detto prima no a marrakech (°no [non sapevo]°)
 PST142	[ah abito] a torino sì?
 PST215	no sì sì però la città in marocco
@@ -37,8 +37,8 @@ PST141	[marrakech] sud
 PST140	marrakech
 PST215	marra~ a:h [marrakech]
 PST141	[marra:kech] [marrakech marrakech marrakech]
-PST142	[marra:kech {P} marrakech]
-PST215	ah ho {P} capito {P} capito [no io: sapevo che si] diceva marrakech
+PST142	[marra:kech (.) marrakech]
+PST215	ah ho (.) capito (.) capito [no io: sapevo che si] diceva marrakech
 PST142	[no: marrakech]
 PST140	the a~ a~ accent accent bi-l-iṭaliya: (.) l-accent
 PST141	l'accent
@@ -59,8 +59,8 @@ PST215	ah a:nche tu ah [capito]
 PST141	[e:h sì] [sì]
 PST142	[mh]
 PST215	e::h okay no allora ritorniamo un attimo: a te quanti anni hai?
-PST142	io ho:: {P} e:::h cinquanta anni
-PST215	cinquanta {P} precisi
+PST142	io ho:: (.) e:::h cinquanta anni
+PST215	cinquanta (.) precisi
 PST142	sì
 PST215	capito
 PST215	tu invece?
@@ -69,12 +69,12 @@ PST141	[cosa e:h le:]
 PST141	e:h trentuno trentadue al e::h
 PST141	[xxx]
 PST215	[ne devi fare trentadue]
-PST215	hai trentun anni {P} [capito]
+PST215	hai trentun anni (.) [capito]
 PST141	[e:h sì]
-PST215	va bene {P} allora e voi: tutti quanti quindi siete tutti nati in marocco e
+PST215	va bene (.) allora e voi: tutti quanti quindi siete tutti nati in marocco e
 PST215	a un certo punto siete venuti in italia,
 PST142	mh
-PST215	una: {P} a una certa età un certo: un certo tempo,
+PST215	una: (.) a una certa età un certo: un certo tempo,
 PST215	e in marocco parlavate: tutti: arabo?
 PST141	arabo [sì:]
 PST140	[sì tutto arabo]
@@ -89,10 +89,10 @@ PST140	#amazigh [e arabo]
 PST141	[berbèr] berbèr
 PST140	berbero
 PST215	ah [berber~ dici berbero]?
-PST140	[#berbè~ sì ama~ #berber #amazigh #amazi]gh [(#berbèr) {P} e arabo]
+PST140	[#berbè~ sì ama~ #berber #amazigh #amazi]gh [(#berbèr) (.) e arabo]
 PST141	[eh lingua] [berbèr~ sì:]
 PST215	[però non sono la stessa co]sa
-PST142	arabo sì {P} arabo
+PST142	arabo sì (.) arabo
 PST215	okay voi [voi parla~]
 PST141	[è li~ è lin][gua marocco:] arabo
 PST142	[°be:rbero°]
@@ -105,15 +105,15 @@ PST141	[eh: #l-be]rbèr
 PST140	[sì]
 PST140	#berbèr sì
 PST141	[sì: berbero]
-PST215	[berbero {P} che però] s~ sono diverse
+PST215	[berbero (.) che però] s~ sono diverse
 PST141	no:
 PST142	[sì diverso]
 PST215	no: [è (diverso)]
 PST141	[non dive:~] [non è diversi è uguali]
-PST140	[uguale {P} uguale] uguale e:h {P} eh eh {P} lunga #amazigh
+PST140	[uguale (.) uguale] uguale e:h (.) eh eh (.) lunga #amazigh
 PST215	[come]?
 PST140	[lunga #ama]zigh
-PST140	la lingua: {P} [il #ber]ber #amazigh
+PST140	la lingua: (.) [il #ber]ber #amazigh
 PST215	[sì],
 PST215	capito
 PST141	wa-ra ama[zigh b-darij]-tna berbèr bi-l-lugha [bi-l-lugha] xxx
@@ -124,48 +124,48 @@ PST140	un poco #arabic e #amazigh
 PST141	yallāh duwwex l-s-siyyed gul-lih shi kelma [b-l-shlḥa (.) lā lā ma-zyen ah]
 PST140	[#xassu #i xxx marocchino
 PST215	va bene,
-PST215	[cioè quindi la lingua che avete imparato] {P} quando eravate bambini
-PST142	[(parla {P} parlo)]
+PST215	[cioè quindi la lingua che avete imparato] (.) quando eravate bambini
+PST142	[(parla (.) parlo)]
 PST215	>bene< [è è l~ l'ara]bo [è l'arabo]
 PST141	[l'arabo]
-PST142	[è {P} no:]
+PST142	[è (.) no:]
 PST140	[sì sì l'arabo]
 PST141	[l'a:rabo]
 PST142	para~ pa~: parlo arabo,
 PST215	sì
-PST142	eh l'altra:: fran~ per=eh i francesi {P} [e ingle]si
+PST142	eh l'altra:: fran~ per=eh i francesi (.) [e ingle]si
 PST215	[°s~]
 PST141	sì
 PST215	ah capito
 PST142	sì
 PST215	capi:~ [sì sì sì è (vero) eh infatti l'altra cosa: che:]
-PST142	[sì {P} e::h e::h arabo]?
+PST142	[sì (.) e::h e::h arabo]?
 PST141	la langue [maternelle l'arabe]
-PST142	[e:h l'al~ l'altra::] fra[se per=eh] {P} per eh {P} per francesi,
+PST142	[e:h l'al~ l'altra::] fra[se per=eh] (.) per eh (.) per francesi,
 PST215	[quello]
 PST141	[eh leggo in arabo]
 PST142	e l'altra parte per e:::h inglesi
 PST140	(anche [anche il #française anche] [il #française)]
-PST142	[italiano {P} no]
+PST142	[italiano (.) no]
 PST215	[no sì lo so]
 PST140	fran~ [francese]?
 PST215	[ah no ma a proposi]to: a proposito di questo infatti
-PST215	a parte l'arabo cioè: abbiamo ca[pito {P} che {ride} in maro[cco parlavate [arabo giustamente come] {P} in ita~ [in italia si parla l'italiano]
+PST215	a parte l'arabo cioè: abbiamo ca[pito (.) che ((ride)) in maro[cco parlavate [arabo giustamente come] (.) in ita~ [in italia si parla l'italiano]
 PST142	[xx parla a:rabo sì]
 PST142	[in a:rabo sì]
 PST142	[mh arabo sì]
 PST215	però ci sono anche::
 PST215	francese e lo spagnolo no voi [conoscevate anche (queste)]
-PST141	[un po' >spa][gnolo< sì sì {P} #le #nord]
+PST141	[un po' >spa][gnolo< sì sì (.) #le #nord]
 PST142	[no]
 PST140	[sì spagno~ sì po~ eh no:]
 PST140	[sì c'è #español]
 PST141	[#le #nord parla] #español sì:
-PST215	[perché sono: {P} sono subito lì c'è po]chissima [distanza]
+PST215	[perché sono: (.) sono subito lì c'è po]chissima [distanza]
 PST141	[#le #nord parla #español sì:]
 PST140	[sì sì]
 PST141	[sì sì]
-PST215	[e quindi {P} voi parlate] {P} parlate anche un po' di spagnolo?
+PST215	[e quindi (.) voi parlate] (.) parlate anche un po' di spagnolo?
 PST141	[#le #nord tutti #parlent]
 PST142	[per la:]
 PST141	[un po']
@@ -173,16 +173,16 @@ PST215	un po'
 PST142	[no per la scuo]la
 PST141	[un po' sì]
 PST141	un [po']
-PST142	[per la] scuola [dove: #franç~ {P} e franc]ese]
+PST142	[per la] scuola [dove: #franç~ (.) e franc]ese]
 PST141	[francese e inglese]
 PST141	[no no]
 PST142	[(e basta)]
-PST141	scusa {P} al=e::h come si chiama #lycée
+PST141	scusa (.) al=e::h come si chiama #lycée
 PST140	[scuo:la]
 PST141	[alle] eh superiori,
-PST215	sì {P} [liceo è liceo li~ {P} #lycée]
+PST215	sì (.) [liceo è liceo li~ (.) #lycée]
 PST143	sì il liceo
-PST141	[e::h sì {P} ingle:si] france:si
+PST141	[e::h sì (.) ingle:si] france:si
 PST141	$espagnolo
 PST141	a~ a::~ #allemand
 PST141	#ça #veut [#dire e::h lingua] germani(a)
@@ -199,11 +199,11 @@ PST141	[#lugha #l]-l-awla fran[cese]
 PST140	[è francese]
 PST142	[a:h basta a:h]
 PST141	francese
-PST140	francese {P} [pi~ prima france]se
+PST140	francese (.) [pi~ prima france]se
 PST141	[prima francesi seco]nda
-PST140	[arabo {P} francese]
+PST140	[arabo (.) francese]
 PST141	[#lā #daba #f-lycée ḥna xx]
-PST215	[ah cioè {P} le lin]gue che si fan[no nella s]cuola
+PST215	[ah cioè (.) le lin]gue che si fan[no nella s]cuola
 PST140	[dopo]
 PST140	[sì]
 PST140	sì
@@ -218,35 +218,35 @@ PST140	[(sì sì)]
 PST215	perché quindi tu sei sta~ hai fatto anche le scuole superiori,
 PST141	sì:
 PST215	in marocco [e hai studiato anche queste: °lingue°]
-PST141	[eh sì {P} anche l'università]
+PST141	[eh sì (.) anche l'università]
 PST215	anche l'universi~ e [cosa hai studia]to all'universi[tà]?
 PST141	[sì:]
-PST141	[eh] #économique {ridendo}
+PST141	[eh] #économique ((ridendo))
 PST215	ah econo~ economia a:h
 PST141	[e:h]
 PST215	no io invece faccio: scienze linguistiche
-PST141	a:h [perché io matemati]c[a: io lo so be][ne a me piace] {ride}
+PST141	a:h [perché io matemati]c[a: io lo so be][ne a me piace] ((ride))
 PST215	[fatto lettere e]
 PST140	[a:h la sì]
-PST215	[ah okay] {ridendo}
+PST215	[ah okay] ((ridendo))
 PST215	e e tu invece hai fatto: la: anche la scuola superiore
-PST140	eh [sì e::h {P} s]ì
+PST140	eh [sì e::h (.) s]ì
 PST215	[in marocco]
 PST215	ah okay in [che anno sei a]rrivato: in italia?
 PST140	[e dopo]
 PST140	e::h quattro mesi
 PST215	ah sei arrivato quattro mesi fa
 PST140	sì
-PST215	a:h capi~ [quindi] {P} quindi da pochissimo
+PST215	a:h capi~ [quindi] (.) quindi da pochissimo
 PST140	[sì]
 PST140	°sì°
 PST215	da: poco tempo ma sapevi già un po' d'italiano: prima?
 PST140	ah no,
-PST215	no e:h quindi sei arrivato qui e sapevi: {P} [zero italiano]
-PST140	[sì {P} sì ze]ro
+PST215	no e:h quindi sei arrivato qui e sapevi: (.) [zero italiano]
+PST140	[sì (.) sì ze]ro
 PST215	capito
 PST215	e:hm:
-PST215	invece in marocco tu parlavi anche un po':: francese spagnolo {P} inglese
+PST215	invece in marocco tu parlavi anche un po':: francese spagnolo (.) inglese
 PST140	e::h
 PST140	inglese
 PST215	parlavi inglese
@@ -255,33 +255,33 @@ PST140	e:h francese
 PST215	e francese
 PST215	[ma:]
 PST140	[spagnolo]
-PST215	più o meno cioè {P} [a: a che] livello
+PST215	più o meno cioè (.) [a: a che] livello
 PST140	[°m:h sì°]
 PST215	cioè bene:,
 PST215	molto bene,
 PST140	in inglese?
 PST215	sì
-PST140	sì eh {P} be~ {P} bene (in) inglese sì francese e::h
+PST140	sì eh (.) be~ (.) bene (in) inglese sì francese e::h
 PST140	c(io)è:
-PST141	x {ride}
+PST141	x ((ride))
 PST140	m:h
-PST141	lascia tutti: {ridendo}
+PST141	lascia tutti: ((ridendo))
 PST140	sì la~ lascia [francese]
 PST215	[ah capi:]to la[sciamo sta~]
 PST141	[adesso] italiano [adesso italiano]
 PST140	[sì (studiando)] [italiano]
 PST215	[sì e:h sì]
-PST215	giustamente {P} [giustamente adesso]
+PST215	giustamente (.) [giustamente adesso]
 PST141	[e::h adesso italiano]
 PST140	[sì: (studian]do:)]
 PST142	[io: (studia]to) de:l marocco ($tie xxx)
 PST215	come?
 PST142	xx arabo
 PST141	[va be:ne x][x] va bene
-PST142	[parlo arabo] {ride}
+PST142	[parlo arabo] ((ride))
 PST215	[sì]
-PST215	[sì sì sì capito] {ridendo}
-PST142	{ride} [maro]cco sì:
+PST215	[sì sì sì capito] ((ridendo))
+PST142	((ride)) [maro]cco sì:
 PST215	beh certo [certo]
 PST142	[e::h]
 PST142	[m:h]
@@ -292,9 +292,9 @@ PST141	piace molto italia sì
 PST141	mgharba ki bghiw ṭ-ṭalien 3la m3ammrin xx
 PST142	ken ki l3ab m3a-hum f-xxx l3ab m3a-hum fī-fī
 PST141	gal-lik ra ken ki l3eb
-PST215	{a un'altra persona} [ciao s~ s~ s~ sì sì: ma non sapevo]
-PST143	{a un'altra persona} [ma hai beccato anche lu:i (e:h)]
-PST142	{a un'altra persona} [e::h (ah ciao)] {ride}
+PST215	((a_un'altra_persona)) [ciao s~ s~ s~ sì sì: ma non sapevo]
+PST143	((a_un'altra_persona)) [ma hai beccato anche lu:i (e:h)]
+PST142	((a_un'altra_persona)) [e::h (ah ciao)] ((ride))
 PST141	anche lu:i [di u~ x]
 PST215	[se vuoi prendere una se]dia e metterti
 PST141	[(bqaw fiya ana i shampwanat)] xx xx
@@ -309,24 +309,24 @@ PST140	sì: sì
 PST215	bene
 PST215	sei arrivato quattro mesi fa,
 PST140	sì quattro
-PST215	ma: com'è che hai conosciuto: il per e:h {P} per imparare l'italiano?
+PST215	ma: com'è che hai conosciuto: il per e:h (.) per imparare l'italiano?
 PST140	am~ e:h
 PST140	amico: amico:
 PST140	lavoro,
 PST215	beh che lavoro fai
 PST140	e:h ristorante
-PST215	ah ristoran~ sì mi avevi detto: [{P} che:]
+PST215	ah ristoran~ sì mi avevi detto: [(.) che:]
 PST140	[sì adesso è ristorant]e
 PST215	sì ristorante mi avevi detto che: lavoravi anche in in un bar hai turni: [in un bar]
 PST140	[no bar] e:h ristorante
 PST215	no solo [in ristorante]
-PST140	[cucina cucina] ari~ [(araba) sì: {P} xxx]
+PST140	[cucina cucina] ari~ [(araba) sì: (.) xxx]
 PST215	[ah cuci~ sei u:n cuoco]
 PST141	[siri sam]ḥi-liya ḥebiba dyeli allah-i-3awen met nsai[sh nhar tnin] me tnsaish nhar tnin
 PST215	[oka:y]
-PST215	[e:::h hai conosciuto il attraverso: {P} un amico {P} hai detto]?
+PST215	[e:::h hai conosciuto il attraverso: (.) un amico (.) hai detto]?
 PST141	insh-allah yallah xx xx xx thellay tre-lik fe ra-sek be-slama tre-lik a ḥbiba]
-PST140	sì {P} e:h amico [in lav~ in lavoro]
+PST140	sì (.) e:h amico [in lav~ in lavoro]
 PST141	[ḥshuma xellina] l-mera ket tsnna bellati [3li-kum] bellati
 PST140	[e:h]
 PST141	hadak hadak >huwa< (.) hadak huwa li-ntfahmu m3ah [xx xx]
@@ -336,7 +336,7 @@ PST142	[e::h lui lui a]mico: per e::h di: (venuto) di per la: la
 PST141	[l~ eh l'amico]
 PST215	sì eh è sempre:
 PST141	[lui ha amico a lavoro]
-PST215	[è sempre uno del ma~ del] marocco [è sempre viene sempre dal marocco a:h e frequen]ta [anche lui:: {P} qui]?
+PST215	[è sempre uno del ma~ del] marocco [è sempre viene sempre dal marocco a:h e frequen]ta [anche lui:: (.) qui]?
 PST142	[a:h sì ah sì a:h sì]
 PST141	maghribi]?
 PST143	mh
@@ -360,7 +360,7 @@ PST140	[due due]
 PST215	quindi più o meno a metà
 PST140	sì prima::
 PST143	ha cominciato con:: [no::i ha] cominciato in oc~ in oc~ in oceania e poi è passato ad africa
-PST140	[maestro] {ride}
+PST140	[maestro] ((ride))
 PST143	io mi son messo qui perché se no sembriamo la commissione d'esa:[me]
 PST215	[a:h sì] tran[quillo]
 PST143	[cercavo] di farla
@@ -374,9 +374,9 @@ PST143	quella lì è a proprio ze:ro
 PST215	[mh]
 PST143	[eh] diciamo a u:no
 PST143	più o [me:no cioè::]
-PST215	[a:h capito] {P} capito
+PST215	[a:h capito] (.) capito
 PST143	ma lui: s~ vabbè adesso (devi) chiederglielo tu: (no)
-PST143	comunque: {P} scrive: abbastanza bene (solitamente)
+PST143	comunque: (.) scrive: abbastanza bene (solitamente)
 PST143	quando deve parla:re in[vece:]
 PST140	[parlare]
 PST140	capi:to (eh) parla[re::]
@@ -386,17 +386,17 @@ PST141	[sì:]
 PST142	piano piano
 PST215	no tu [tu invece e::h] sei sei arrivato:
 PST142	[eh e:h eh]?
-PST215	mh {P} sei arrivato pri:ma {P} da quanto tempo sei in italia
+PST215	mh (.) sei arrivato pri:ma (.) da quanto tempo sei in italia
 PST142	eh due a:nni
 PST215	da due anni ecco e: il lo hai conosciuto subito?
 PST142	no: no
-PST215	no {P} (okay)
+PST215	no (.) (okay)
 PST142	no
 PST215	che lavoro fai
 PST142	[e::h]
 PST142	lavoro per e:::h
 PST142	faccio pe:r di la ma~ m~: meccanico
-PST215	meccanico {P} capito
+PST215	meccanico (.) capito
 PST142	faccio per la macchina
 PST215	sì meccanico °come° automeccanico sì
 PST142	e::h [automobile]
@@ -414,7 +414,7 @@ PST142	[e:h due:] due giorni africa
 PST215	okay [e hai co]minciato:: hai cominciato su~ cioè
 PST142	[e:h]
 PST215	in quale classe avevi cominciato
-PST142	con sem[pre:: il: mae]stro:: {ride}
+PST142	con sem[pre:: il: mae]stro:: ((ride))
 PST141	[con:: il maestro]
 PST215	[ah e poi sei] andato ava:nti:
 PST142	(lui ha:) du:~ due: gio:rni:
@@ -427,7 +427,7 @@ PST142	[ramadan]
 PST215	[ah sei tornato in marocco]?
 PST143	[quindi è appena tornato]
 PST142	[sì: tornato: in maro]cco
-PST215	[a:h vuoi {P} vuoi parlare un] po' di que[sta cosa: de~] del ramadan [cioè] cioè quando: quando sei tornato
+PST215	[a:h vuoi (.) vuoi parlare un] po' di que[sta cosa: de~] del ramadan [cioè] cioè quando: quando sei tornato
 PST143	[quindi è appena torna:to]
 PST142	[eh sì:]
 PST142	[eh sì:]
@@ -451,8 +451,8 @@ PST141	una settimana
 PST140	a::h [(sì è vero)]
 PST142	[due da] t~ [tre gio:r]ni tre giorni tre giorni
 PST141	[io: mai]
-PST143	sì <[da: {P} da tre giorni> sei tornato <tre giorni] fa>
-PST142	[e:h {P} mh da tre tre giorni sì {P} e:h]
+PST143	sì <[da: (.) da tre giorni> sei tornato <tre giorni] fa>
+PST142	[e:h (.) mh da tre tre giorni sì (.) e:h]
 PST215	[a:h capi]to
 PST142	[tornato]
 PST141	[s:ì:]
@@ -462,7 +462,7 @@ PST215	[sei tornato tre giorni fa]
 PST141	[s:ì:]
 PST142	[e::h fa]
 PST215	tre giorni fa capito
-PST215	ma quin~ cioè: sei tornato per fa~ per fare il ramadan {P} in [marocco]?
+PST215	ma quin~ cioè: sei tornato per fa~ per fare il ramadan (.) in [marocco]?
 PST142	[e:h sì:]
 PST215	[ah okay]
 PST141	[sì::]
@@ -472,9 +472,9 @@ PST142	e:h fatto::=a::h ramadan
 PST142	per e::h
 PST142	[per e::h]
 PST141	[per digiuno]
-PST142	n[on {P} eh]
+PST142	n[on (.) eh]
 PST215	[il digiuno eh]
-PST141	[digiuno {P} i]:l °digiuno°
+PST141	[digiuno (.) i]:l °digiuno°
 PST142	la fa:miglia e:h però
 PST215	okay e::
 PST215	vabbè a parte questo avrai anche::
@@ -492,7 +492,7 @@ PST141	[m:h] sì:
 PST215	a:h ok quindi anche tu da poco però,
 PST215	parli: parli bene
 PST141	no::
-PST143	{ride}
+PST143	((ride))
 PST215	[a: a me sembra] [di sì a me se]mbra che parli be:ne (°mi sembra°)
 PST141	[u:n poco]
 PST141	(u:n po')
@@ -510,7 +510,7 @@ PST141	[la:: eh fini]to gennaio
 PST215	alla fine [di genna~ a::h bello]
 PST141	[a::h alla fine di ge]nnaio sì
 PST215	e: in quale classe sei adesso?
-PST141	eh come si chiama {P} scusa(mi)
+PST141	eh come si chiama (.) scusa(mi)
 PST141	[classe] classe
 PST143	[eh]?
 PST143	ah [oceania è sempre la mia]
@@ -522,10 +522,10 @@ PST143	[perché c'è ocea]no atla~ io: mi son confuso per tre mesi di seguito
 PST143	oceano atlantico che è proprio quella livello più [basso] che an~ anche magari non (scolarizzati)
 PST215	[sì]
 PST215	sì [sì sì]
-PST143	[poi c'è] oceania {P} che è grossomodo un a uno {P} da mettere a posto,
+PST143	[poi c'è] oceania (.) che è grossomodo un a uno (.) da mettere a posto,
 PST143	e poi c'è: mi pare africa
 PST215	mh mh
-PST215	e tu in quale: {P} qual è stata la prima classe in cui: sei stata
+PST215	e tu in quale: (.) qual è stata la prima classe in cui: sei stata
 PST141	prima classa co:l maestro
 PST215	[>okay< oceano atla]ntico
 PST143	[oceania]
@@ -533,7 +533,7 @@ PST215	[o oceania] o[ceania a:h va bene]
 PST143	[oceania]
 PST141	[ocea:(nia) a:h sì] adesso africa
 PST215	>adesso< quindi sei e::h sei avanzata cioè sei andata nella classe dopo
-PST141	sì sì: eh {P} eh perché prima io no parlav(a)
+PST141	sì sì: eh (.) eh perché prima io no parlav(a)
 PST141	io no parla io fatto così (segni segni)
 PST215	non parla~ a:h ho capito
 PST215	però adesso va meglio
@@ -542,24 +542,24 @@ PST215	mh
 PST141	sì [perché le maestre mol]to:
 PST215	[e questo è importante]
 PST141	molto brave
-PST215	beh {P} meno male [meno male no]?
+PST215	beh (.) meno male [meno male no]?
 PST141	[e:h sì] sì
-PST215	ma:: okay cioè {P} ultima cosa per oggi,
+PST215	ma:: okay cioè (.) ultima cosa per oggi,
 PST215	ma cosa::
 PST215	nelle classi,
-PST215	in cui che avete fatto {P} le classi che avete fatto la classe in cui siete ora cioè
+PST215	in cui che avete fatto (.) le classi che avete fatto la classe in cui siete ora cioè
 PST215	tu: oceani[a: e voi due] a[frica]
 PST140	[oceania]
-PST143	[no no:] adesso sono tutti e [tre: {P} africa]
+PST143	[no no:] adesso sono tutti e [tre: (.) africa]
 PST141	[e:h]
 PST141	[tutti africa]
 PST215	tutti e tre in africa okay che cosa::
-PST215	che cosa facevate durante le lezioni a parte {P} vabbè parlare
-PST215	cioè cosa: [cosa fa~] {P} [cioè se arri~] arriva: adesso una persona e vi chiede
+PST215	che cosa facevate durante le lezioni a parte (.) vabbè parlare
+PST215	cioè cosa: [cosa fa~] (.) [cioè se arri~] arriva: adesso una persona e vi chiede
 PST142	[m::h]
 PST141	[oggi]
 PST215	che cosa fate a scuola di italiano voi cosa rispondete
-PST141	oggi o: {P} oggi?
+PST141	oggi o: (.) oggi?
 PST215	sì oggi per esempio cosa [avete]
 PST141	[de]ttato,
 PST215	a:h oggi dettato
@@ -569,7 +569,7 @@ PST141	sì:
 PST141	pres[enti:]
 PST140	[no:]
 PST141	il e:h [verbo]
-PST140	[in africa] {P} sempre sempre: {P} #verbe
+PST140	[in africa] (.) sempre sempre: (.) #verbe
 PST140	[grammatica #verbe sempre]
 PST141	[e:h sempre grammatica]
 PST215	ve:rbi gramma:[tica]
@@ -584,25 +584,25 @@ PST141	[e:h comunicare sì:]
 PST215	ok[ay]
 PST143	[sì] è: è normale perché prima si impara a usare [la lingua]
 PST141	[mh sì sì:]
-PST143	[<più o me:no> le {P} e poi] <quando conosciamo un po' la lingua cominciamo {P} a fare or[dine come in cass]etti>
+PST143	[<più o me:no> le (.) e poi] <quando conosciamo un po' la lingua cominciamo (.) a fare or[dine come in cass]etti>
 PST141	[le parole e le frasi eh sì adesso:]
 PST140	[sì più o meno]
 PST142	[m::h]
 PST141	[mh sì:]
-PST143	anziché buttare [dentro] {P} si comincia a [fare {P} per capi:]re qual[co:sa]
+PST143	anziché buttare [dentro] (.) si comincia a [fare (.) per capi:]re qual[co:sa]
 PST142	[a:h sì]
 PST140	[sì sì]
-PST141	[s:ì an]che adesso le: le maestre che: {P} correggiamo il e:h
-PST141	il detta:[to non è al] {ride}
+PST141	[s:ì an]che adesso le: le maestre che: (.) correggiamo il e:h
+PST141	il detta:[to non è al] ((ride))
 PST143	[s:ì]
 PST141	a e:hm: lavagna così
 PST143	ma anche quando lo faccio [io]
 PST141	[e:h] sì: sì:
-PST143	quand~ le altre maestre sono [più buo:ne lo fanno] alla lava::gna io inve[ce sono più::] {P} [mili]taresco
+PST143	quand~ le altre maestre sono [più buo:ne lo fanno] alla lava::gna io inve[ce sono più::] (.) [mili]taresco
 PST141	[penna ro:ss(o):]
 PST141	[sì: e:h sì:]
 PST215	[e:h sì sì]
-PST141	[no: adesso penna ro:ssa:] così così {ride}
+PST141	[no: adesso penna ro:ssa:] così così ((ride))
 PST215	no: capito no perché io: no sono nella classe america non li faccio mai i dettati perché facciamo sempre cose [diverse]
 PST143	[(addirittura)]
 PST141	[a::h]
@@ -617,8 +617,8 @@ PST140	ah l'ultima?
 PST215	sì
 PST142	xxx
 PST141	ultima?
-PST215	[sì l'ultima {P} l'ultima]
-PST140	[(no no ame:rica)] {ridendo}
+PST215	[sì l'ultima (.) l'ultima]
+PST140	[(no no ame:rica)] ((ridendo))
 PST215	>quella in cui ma poi< ma poi ci arriverete anche voi tranquilli sì
 PST215	ma: quindi allora tu tu hai detto cioè hai fatto: sei stato come:=ehm:
 PST215	hai detto che sei tornato per e:h un po' di tempo in marocco per il ramadan
@@ -629,12 +629,12 @@ PST215	mh [lo fai in italia a]nche lui [sì]
 PST141	[anche lu:i]
 PST141	[sì]
 PST215	sì [infatti: è appena finito no]?
-PST140	[è diffe:~ {P} è diffe]rente è differen~
+PST140	[è diffe:~ (.) è diffe]rente è differen~
 PST140	differen[za]
 PST141	[e:h]
 PST142	[xx xx xx dewwesti ki dewwesti] hna rumdān
-PST141	[differente ramadan {P} in europa]
-PST140	sì è fatto: ramadan qui {P} in italia
+PST141	[differente ramadan (.) in europa]
+PST140	sì è fatto: ramadan qui (.) in italia
 PST215	sì sì [(qua:)]
 PST140	[mi e:h] ah
 PST140	differenza in marocco ramadan in marocco e: [e altro: pe:~] pe:~
@@ -656,35 +656,35 @@ PST141	[da so:lo]
 PST140	[famiglia famiglia]
 PST140	famiglia [no e:h]
 PST141	[famiglia:]
-PST142	diver[so sì:] {P} diver[so]
+PST142	diver[so sì:] (.) diver[so]
 PST141	[sì:]
 PST140	[xx] l-makla l-makla 'anwā3 [matalan]
 PST141	[le le:] cibo
 PST215	sì
 PST140	[sì differente ci:bo marocchino]
 PST141	[sì il e:h sì]
-PST215	[ah beh beh sì {P} e:h]
+PST215	[ah beh beh sì (.) e:h]
 PST141	[tutti fa la spesa tu]tti i gior[ni:] eh le: tanti: $personi
 PST140	[°sì°]
-PST215	capito [però {P} ma ma voi] siete qui: quando siete arrivati in italia siete qui:,
+PST215	capito [però (.) ma ma voi] siete qui: quando siete arrivati in italia siete qui:,
 PST141	[al e:h merca:to eh]
 PST215	soltanto voi o avete anche:: dei: non so fratelli sorelle
 PST141	eh no:
 PST142	mh [no no: solo sì]
 PST215	[no tu sei qui da solo]
 PST141	[no: (a:h sì)]
-PST215	[però] hai {P} tuoi parenti
+PST215	[però] hai (.) tuoi parenti
 PST215	in marocco
-PST141	adesso [sì: e:h] vanno per e:h ramadan {ride}
+PST141	adesso [sì: e:h] vanno per e:h ramadan ((ride))
 PST215	[ah ecco]
 PST215	[ah a:h anche loro an~]
-PST141	[(anche) loro] {ride}
+PST141	[(anche) loro] ((ride))
 PST143	[tu s]ei all' no qui al
-PST141	non è al {P} no: no:]
+PST141	non è al (.) no: no:]
 PST143	[no a::h ero convinto che tu fossi] al
 PST215	[mh mh]
 PST141	[no] ma io: eh io viene al
-PST215	>okay< e [tu invece hai:] {P} hai fratelli o sorelle qua a torino?
+PST215	>okay< e [tu invece hai:] (.) hai fratelli o sorelle qua a torino?
 PST141	[io ve:ngo al
 PST140	no zio
 PST215	[hai uno]
@@ -696,7 +696,7 @@ PST140	[b~ bra]
 PST215	a bra:?
 PST143	[bra]
 PST140	[bra sì]
-PST215	[ah] be:llo: {P} bello
+PST215	[ah] be:llo: (.) bello
 PST143	ma qui vivi:
 PST143	vivi: da solo no?
 PST140	e::h lavoro qui
@@ -723,15 +723,15 @@ PST142	e io e io da solo da: da italia:
 PST142	i[talia] sì
 PST215	[sì]
 PST215	c(io)è tu tu [vivi da solo non hai: non hai parenti]
-PST142	[e::h {P} e::h mio mio fra]tello di:: francia
+PST142	[e::h (.) e::h mio mio fra]tello di:: francia
 PST215	ah [vive in francia]?
 PST142	[e:h in francia] [sì]
 PST215	[a:h]
 PST215	[>capito< e vi vi sentite]?
-PST142	[e:h viene so~ viene solo di:] {ride}
+PST142	[e:h viene so~ viene solo di:] ((ride))
 PST215	[ma vi] sentite vi:: al tele[fono:]
 PST142	[sì]
 PST142	[sì sì]
 PST215	[a:h bene bene me]no male
 PST141	[eh sì sì:]
-PST215	dai direi che {P} per oggi può bastare
+PST215	dai direi che (.) per oggi può bastare

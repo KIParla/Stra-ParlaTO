@@ -1,11 +1,11 @@
-PST119	dai #în #seara #asta #mâncăm {P} #ochiuri {P} #cu,
+PST119	dai #în #seara #asta #mâncăm (.) #ochiuri (.) #cu,
 PST120	#cașcaval
 PST119	#praz?
 PST119	ce-ai mai pus aicea?
 PST120	#cașcaval
 PST119	#ce #ai #pus #tu #cașcaval non è vero
-PST119	aspetta dau #eu #dă #și #mie #una
-PST119	#tu #mănânci?
+PST119	aspetta dau #eu #dă #și #mie #*una
+PST119	#*tu #mănânci?
 PST119	la vuoi?
 PST120	(xxx) vorbea românește
 PST119	el da el nu
@@ -15,7 +15,7 @@ PST119	eh?
 PST119	togli
 PST118	ha la tipa s~
 PST119	trebuia să pui niște || prosciutto sopra
-PST119	c'era l'a:l[tra {P} no]rmale
+PST119	c'era l'a:l[tra (.) no]rmale
 PST120	[va bene]
 PST119	pizza: regina
 PST120	vrei să începem?
@@ -38,7 +38,7 @@ PST119	bru:cio la cipolla?
 PST120	eu ți-am zis să stai acolo să te uiți să mai ge~
 PST120	inveți din când în când cum mănânc eu acuma ceapă prajită deasta
 PST119	nu mânca
-PST118	dar nu este {P} sos
+PST118	dar nu este (.) sos
 PST120	mh
 PST120	nici sos ai lăsat-o până s-a $asciugat de tot
 PST120	nu mai faci deacum nu mai faci tu de mâncare
@@ -61,8 +61,8 @@ PST119	e:h
 PST119	las-o unpic
 PST119	asta e
 PST120	malox în seara asta
-PST119	{ride} malox e:h
-sottofondo	{televisione}
+PST119	((ride)) malox e:h
+sottofondo	((televisione))
 PST118	lo porto fuori?
 PST120	oh ma:
 PST119	eu mâine dimineață (xxx)]
@@ -76,7 +76,7 @@ PST120	ți-o ți-o: luat telefonul din mână și tu i [l-ai dat]
 PST118	[da]
 PST119	da dar eu
 PST119	ce-o scris
-PST118	#mi-a #făcut #un:: messaggio vocale [{P}] #a #spus #că:
+PST118	#mi-a #făcut #*un:: messaggio vocale [(.)] #a #spus #că:
 PST119	[mh]
 PST120	că ea vroia să vină acasă (xxx)
 PST118	#da
@@ -99,15 +99,15 @@ PST118	ah ah
 PST119	ah ti vedi?
 PST118	mh nu nu nu (.) nu cred
 PST119	mh
-sottofondo	{televisione}
+sottofondo	((televisione))
 PST119	#ca praticamente #nu #nu #au #aceași
 PST118	da da acum am ni~ niște: (.) lecție
-PST119	#separate?
+PST119	#*separate?
 PST118	#da
 PST119	#au același profil?
 PST118	nu
 PST119	indirizz~ ah #nu?
-PST119	ah no {P} ah
+PST119	ah no (.) ah
 PST119	pensavo che erano uguali
 PST118	da fac $îngenerie dar @robi face
 PST118	e:hm elettrica
@@ -141,19 +141,19 @@ PST119	nu nici eu
 PST119	geaca aia xx
 PST119	non è una xx
 PST118	mh mh
-sottofondo	{televisione}
+sottofondo	((televisione))
 PST119	nu-ți place?
 PST118	#nu
 PST119	de ce?
 PST118	niente rimasto:
-PST119	#o #ămas eh {P} troppo: sodo
+PST119	#o #ămas eh (.) troppo: sodo
 PST120	îi tare?
 PST119	[eh] eh
 PST118	#[da]
 PST120	astea sunt trebuie să mănânci tare
 PST119	#da dar la (gust) nu era așa de tare
 PST119	(xxx)
-PST118	{ride}
+PST118	((ride))
 PST119	data asta::
 PST119	ceapa e prajită
 PST119	nu ai sugo ouăle sunt tari,
@@ -168,8 +168,8 @@ PST119	ai făcut-o mai lent
 PST120	la focul mic
 PST119	eh
 PST118	grazie
-sottofondo	{televisione}
-PST119	ma când începi ăsta {P} joi?
+sottofondo	((televisione))
+PST119	ma când începi ăsta (.) joi?
 PST118	#da
 PST119	trebuie să vezi ce faci cu abonamentul
 PST118	da nu nu știu
@@ -180,7 +180,7 @@ PST118	#da
 PST118	până
 PST118	nu știu cinșpe martie xx
 PST118	în: mai
-PST119	ah {P} a::h
+PST119	ah (.) a::h
 PST119	fai un conto
 PST119	adevărat că e dificil să faci în fiecare zi bil[et e::h] eh e asta e trebuie să faci si bilet
 PST118	[eh ma]
@@ -189,7 +189,7 @@ PST118	nu pe telefon pot să-mi fac dar
 PST118	pentru tren,
 PST118	nu știu când e::::h mh
 PST119	la ce ora îl ai [tu înapoi]
-PST118	[eh {P} #da]
+PST118	[eh (.) #da]
 PST119	pe părerea mea un cont așa pe zi cât era vreo zece euro mi se pare
 PST118	#da
 PST118	#când
@@ -215,7 +215,7 @@ PST119	deci într-o:
 PST119	#în:: praticamente #într-o #săptămână #în #două #zile #douăzeci #de #euro #păi #și #cât #e #abonamentul xx
 PST119	dacă ai două zeci de euro pe săptămână xxx
 PST119	#într-un mese #optzeci #de #euro
-PST119	#abonamentul #costă ottantasei
+PST119	#abonamentul #*costă ottantasei
 PST119	plus că în fiecare zi să stai tu să faci bilet [(.)] nu-ți convine fă abonamentul
 PST118	[nu convine]
 PST119	#și #dupaia #dacă capita devi andare in giro a torino che ne so vai a
@@ -238,7 +238,7 @@ PST118	eh
 PST119	nu mai mănânci?
 PST118	no
 PST119	fă-ți alt ceva
-PST119	#fă-ți #un panino #un #sandvici #un #sadvici #un toast
+PST119	#fă-ți #*un panino #*un #sandvici #*un #sadvici #*un toast
 PST118	un toast
 PST119	e:h
 PST119	[metti]
@@ -260,36 +260,36 @@ PST119	eh però=hai
 PST119	ai terminat-o?
 PST120	nu l-am terminat
 PST119	metti brie
-PST118	{sospira}
-sottofondo	{telegiornale_in_tivù}
+PST118	((sospira))
+sottofondo	((telegiornale_in_tivù))
 PST119	alla fine #a::sta a avut un malore ma #zice #că #a #mâncat #un #sendviș #din #ăla #știi #dinalea tramezzini #din #alea #nu
 PST119	prima
 PST119	$autist #șo~ #dinăsta #de #la $pullmanul #ăla #care #se $rovesciază
 PST118	no?
 PST119	e::::h c'è
 PST119	c'era qualcosa #în #sandvici che gli ha provocato una reazione così
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST119	e adevărat nu e adevărat asta nu știu
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST119	doamne iartă-mă afară-i așa de cald
 PST119	trebuie să scot plapumile astea că e tu mai ai încă plapuma am toate astea și aia verde și::
 PST118	[m:h m:h]
 PST119	xxx
 PST118	no: xxx
 PST119	@massimo am scos ăsta că el deja transpiră săracu că moare de cald
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST119	xxx
 PST120	tu nu prea vorbești bine românește
 PST118	e::h
 PST120	când eh (.) te pui să înveți ce înveți arabă și română,
 PST120	eh eh e:h
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST118	nu ma iș~
 PST119	ce cauți
 PST118	pâinea
 PST119	nu-i afară?
 PST119	ho comprato due pacchi
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST119	cred că deja s-o simțit rău nu mai era conștient când s-o dus cu::
 PST120	iți dai seama că xxx rău
 PST120	le-o lăsat ăsta să se ducă chiar în:: spate
@@ -303,10 +303,10 @@ PST118	mh mh
 PST119	sì
 PST119	mamma mia
 PST119	era una [strada #odată:]
-PST119	>domani c'è< {P} (#mai #tare)
+PST119	>domani c'è< (.) (#mai #tare)
 PST120	la greenthesis
 PST119	#s:tai
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST120	dove ho: dove ho:
 PST120	[sono anda~ sono andato io]
 PST119	dar n-am înțeles]
@@ -327,7 +327,7 @@ PST119	[trei (.)] trei fete și un băiat
 PST118	[#și::]
 PST118	da patru
 PST119	@giacomo care-i în clasă cu @massimo
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST119	da cinci copii are
 PST119	ăsta care (vive da solo)
 PST120	non lo so ăla
@@ -337,10 +337,10 @@ PST119	dar nu crezi că xxx
 PST120	xxx vorbeau în trei
 PST119	mamma mia
 PST120	minchia:=a greenthesis eh
-PST118	{ride}
+PST118	((ride))
 PST120	un armadio: blindato
 PST119	ma è
-PST120	[#mica-s] #din #fier
+PST120	[#*mica-s] #din #fier
 PST119	a:h
 PST119	xx ma nu o reușit să se dea de-o parte nu o [reușit să]
 PST120	[nu știu]
@@ -360,23 +360,23 @@ PST120	telefonul]
 PST119	lascia s~ m::h
 PST118	xxx
 PST119	lascia stare::: #putea #să #aibe o xxx
-PST118	[ma co::] {ridendo}
-PST119	#și #tu #ai #ochelari {P} #nu-i #porți #tot #timpul ma #ai #ochelari
+PST118	[ma co::] ((ridendo))
+PST119	#și #tu #ai #ochelari (.) #nu-i #porți #tot #timpul ma #ai #ochelari
 PST119	nu n-am fost atentă când e::h când xx
 PST118	[°non conosco non conosco°]
-PST119	[immagini {P} lo] conosci?
+PST119	[immagini (.) lo] conosci?
 PST118	°no:°
 PST119	no io co~ ma:: sì:: tu lo co[nosci di vedere]
 PST118	[no:: non cono]sco
 PST119	sì:: #dacă-l #vezi sì
 PST119	dacă-l vezi (.) îl cunoști
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST119	ma #și #ăsta #băiatul #nu
 PST118	m:h
 PST119	#da:: ma
 PST119	ma è molto più nella #școală #cu #mine #la #școală xxx
 PST118	indovina?
-PST119	no: [{P} no:]
+PST119	no: [(.) no:]
 PST118	[e:h]
 PST119	ah oppure anche un po' di salmone
 PST119	me lo dai me lo passi per favo~
@@ -386,7 +386,7 @@ PST119	prezentează prea multă școală
 PST119	știe fe]tele xxx
 PST120	[eh]?
 PST118	(quest'anno::) in teatro
-PST119	#da {P} davve[ro]?
+PST119	#da (.) davve[ro]?
 PST118	[#da]
 PST120	dar care zici tu mă
 PST120	care-i ăla care stă e:::h din [partea aia acolo]
@@ -427,7 +427,7 @@ PST119	casă
 PST118	#da
 PST119	a:h (caspita) ah ah
 PST119	aia mai mare
-PST119	{P} o [#acela] #mic?
+PST119	(.) o [#acela] #mic?
 PST118	[e:h]
 PST118	[#da]
 PST118	mai mare (.) @benedetta
@@ -449,10 +449,10 @@ PST119	#când?
 PST118	#mai
 PST118	în mai xxx in mai?
 PST119	ah ho capito #am #înțeles #în #mai #adică #nu #te #mai #duci
-PST118	{ride}
-sottofondo	{telegiornale}
+PST118	((ride))
+sottofondo	((telegiornale))
 PST118	e:h
-PST119	invece #pentru #serviciu civile quello non ti han[no mai] xx [non ti hanno mai xx]
+PST119	invece #pentru #*serviciu civile quello non ti han[no mai] xx [non ti hanno mai xx]
 PST118	[no:]
 PST120	[trebuie să-l întreb] pe ăsta pe pe
 PST119	pe cine chemi
@@ -460,18 +460,18 @@ PST120	pe (.) @costin ăsta
 PST119	xx @costin
 PST119	ăla la care lucrai tu
 PST119	a pentru că e acolo
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST118	gossip
-PST120	{al_telefono} ce ai te deranjez xxx
+PST120	((al_telefono)) ce ai te deranjez xxx
 PST120	ah #bă #dar #ce #s-o #întâmplat (#am #auzit) #la #știri #la te::~ te::~ telegiornale piemonte
-PST120	la greenthesis {P} xxx
+PST120	la greenthesis (.) xxx
 PST120	acum am văzut că stăteam la masă la știri și am văzut că o dat imagini deacolo
 PST120	#de la:: de la voi
 PST120	ce s-a întâmplat acolo
 PST120	da cum să dar (.) [îl cunoșteai?]
 PST119	[xxx]
 PST118	încă zece minute
-PST120	{al_telefono} cum de xxx
+PST120	((al_telefono)) cum de xxx
 PST120	eh nu-mi aduc aminte că nu nu o dat imagini nu o dat imagini
 PST120	o dat numa așa știrea știi și cu imagini de acolo de la
 PST120	dar ce s-o întâmplat xxx
@@ -493,7 +493,7 @@ PST118	#rom
 PST119	di
 PST118	[#d]a::
 PST120	ah unde depozitau ei în partea aia în spate acolo toate
-PST119	{P} perché?
+PST119	(.) perché?
 PST118	nu se înțelege cu el
 PST119	dar erau amici
 PST118	#da #da
@@ -523,7 +523,7 @@ PST119	mh
 PST118	numai intre ei
 PST118	nu știu
 PST119	xxx
-PST119	{con_la_bocca_piena}
+PST119	((con_la_bocca_piena))
 PST120	o zis că erau ehm în spate acolo niște containere
 PST120	#unde #depozitează #ei #tot #felul #de campioni #de #astea #știi #și
 PST120	$armadile #alea #sunt
@@ -539,7 +539,7 @@ PST120	imposibil să xx [xx]
 PST119	[a că tu] o cuno cunoșteai
 PST120	dar bine cât sunt eu acolo nu-mi aduc aminte de xxx
 PST119	dar nu e
-PST119	ma {P} indagano: c(io)è la ditta indaga.
+PST119	ma (.) indagano: c(io)è la ditta indaga.
 PST119	xx
 PST119	[che non era magari xxx]
 PST120	[andava cara~ carabinieri] poli~ polizia non lo so: magistratura
@@ -549,7 +549,7 @@ PST119	sono indagati: cioè la ditta #romeno
 PST120	xx
 PST120	l-am întrebat pe a zis că nu știe
 PST119	mamma mia
-sottofondo	{televisione}
+sottofondo	((televisione))
 PST119	è pesante #ce #lucreaza #cu #el #acolo xxx
 PST120	tu nu ți-am zis că ce-o pățit ăsta xx ăla
 PST120	o căzut sacul ăla pe el
@@ -568,7 +568,7 @@ PST120	#deastea #au #patru agganci #nu?
 PST120	vrei că s-o rupt două sau unu sau trei
 PST120	să mai rămână așa [nu to]ți xx xxx
 PST118	[#toți]
-PST120	#după #aia #el scherza {P} #glumea
+PST120	#după #aia #el scherza (.) #glumea
 PST120	acolo cineva ii o pus mâna pe el că are pa~ patru copii de
 PST120	de crescut
 PST119	>mamma mia<
@@ -579,16 +579,16 @@ PST119	penso che è ovvio che #nu #poți #să #stai
 PST119	dedesupt la un carico [ ]
 PST120	[nu mai ăștia care xxx] care-i trimit acolo la noi o zis că chiar dacă îi vezi că-s ancorate cu xxx deastea o zis că
 PST120	nu poți să știi dacă poate să cedeze și nici nu-ți dai seama că
-PST120	xxx #o #zis #că non stare mai lascia #se #rupe {P} #se #strică
+PST120	xxx #o #zis #că non stare mai lascia #*se #rupe (.) #se #strică
 PST120	asta e se plătește se face alte
 PST120	o zis c[ă::]
 PST119	[penso che xx ormai] e::h non è possibile
-sottofondo	{televisione}
+sottofondo	((televisione))
 PST120	poate poate îl știu cu ochelari
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST119	din vedere poate dacă îl vezi xxx
 PST119	ai lucrat un an acolo din vedere
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST119	ma alla
 PST120	bă ți-am zis că ăștia [mă iubeau da::r]
 PST119	[ ] pentru
@@ -599,16 +599,16 @@ PST119	nu pentru că dacă o lucrat și aicea xxx
 PST119	xx xx
 PST119	l-o $butat în partea ailaltă
 PST119	n-avea nici o treabă
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST120	xxx @massimo nu mai vine
 PST120	cazzo fa?
 PST120	eh?
-PST119	{ride}
+PST119	((ride))
 PST120	#cum?
 PST118	mai bine
 PST119	l'insetto
 PST120	ce-o făcut?
-sottofondo	{telegiornale}
+sottofondo	((telegiornale))
 PST119	questo insetto
 PST119	sta per scomparire
 PST119	pentru mine
@@ -655,12 +655,12 @@ PST119	mh (.) te doare gâtul
 PST118	ia o leacă de
 PST118	miere
 PST119	ah
-PST119	#are #are #dreptate {P} un cucchiaino di miele
+PST119	#are #are #dreptate (.) un cucchiaino di miele
 PST119	aiuta eh
 PST119	dacă nu este siropul ăsta de patlagină care l-am cumpărat eu când mă durea gâtul
 PST119	prendi un cucchiaino
 PST119	xx xx
-sottofondo	{televisione}
+sottofondo	((televisione))
 PST119	îi sus acolo? unde-i siropul de patlagină care xx
 PST120	non lo so #în #partea #aia
 PST120	#ceai #sau xx
@@ -668,17 +668,17 @@ PST119	[#ceai]?
 PST118	[#ceai]?
 PST119	no:::
 PST120	îi prin spate pe acolo
-sottofondo	{televisione}
-PST118	ma {P} aici nu a fost dat înainte nu?
+sottofondo	((televisione))
+PST118	ma (.) aici nu a fost dat înainte nu?
 PST120	nu știu cum stă jos acolo
 PST118	a:h quello?
 PST118	eh?
-sottofondo	{televisione}
+sottofondo	((televisione))
 PST119	xxx siropul
 PST119	xxx caffettiera xxx
 PST119	aici nu-i
 PST118	e:h (oddio)
-sottofondo	{televisione}
+sottofondo	((televisione))
 PST120	cinquantasette anni aveva
 PST118	eh allora magari non è lui
 PST119	no: no
@@ -687,13 +687,13 @@ PST118	a:h no: allora
 PST120	ma non è quello che lo dicevi tu
 PST119	eu nu mai știu sirop de patlagină nu știu xx sirop de patlagină
 PST118	eh?
-sottofondo	{televisione}
+sottofondo	((televisione))
 PST119	nu aici toate-s cadute pe jos toate xxx
 PST119	ma::mma mia
 PST119	cine a umblat aici și și-o pus
-sottofondo	{televisione}
+sottofondo	((televisione))
 PST119	xx
-PST118	{ride}
+PST118	((ride))
 PST118	qua: #este #nimic
 PST119	unde ai văzut xxx
 PST120	acolo în partea aia
@@ -738,17 +738,17 @@ PST118	sì
 PST120	quello: si chiama #patlagină
 PST118	a::h okay
 PST120	o o #plantă
-PST118	o #pla:ntă {ridendo}
+PST118	o #pla:ntă ((ridendo))
 PST120	nici nu știi ce-i aia patlagină
 PST120	ma va::
 PST120	dove cazzo sei cresciuta
 PST119	nu eu știam patla[gină]
 PST120	[in africa]?
-PST118	{ride}
+PST118	((ride))
 PST120	uite uite asta
 PST118	ie camomilla
 PST120	xx
-PST118	{ridendo}
+PST118	((ridendo))
 PST120	x l-ai luat tu pentru tine
 PST119	unde l-ai găsit unde unde]
 PST119	știu că: xx

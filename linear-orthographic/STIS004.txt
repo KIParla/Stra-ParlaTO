@@ -279,7 +279,7 @@ PST008	mi dimentico qualche parole en la mia lingua che è el spagnolo
 PST201	certo
 PST008	anche con el inglese
 PST008	e
-PST008	for example ride
+PST008	for example ((ride))
 PST008	quando eh ieri
 PST008	è arrivato una famiglia di francese
 PST008	al mio ristorante
@@ -777,13 +777,13 @@ PST007	eh sì
 PST201	cuoco
 PST007	sì xxx adesso
 PST007	y algo così algo facile no no molto difficile
-PST007	no me piace el numero así che la matematica xxx
+PST007	no me piace el numero así che la matematica xxx ride
 PST201	okay
 PST008	è troppo bello
 PST007	no no no
 PST008	sì sì numeri troppo bella
 PST007	primo che che mi porte
-PST007	dios x ride los numeros
+PST007	dios x ((ride)) los numeros
 PST008	dio
 PST201	tu vuoi continuare informatica inv~
 PST008	sì
@@ -1181,6 +1181,7 @@ PST008	nudare
 PST007	nuotare nuotare
 PST008	nodare
 PST008	e il rugby
+PST007	ride
 PST008	che non so cómo si dice in italiano
 PST201	eh rimane così rugby
 PST008	rugby
@@ -1231,7 +1232,7 @@ PST007	xx te te digo ahorita lo que está tu
 PST007	andato e
 PST007	alla marina e
 PST007	date tres he vueltas eh
-PST007	he . pensado
+PST007	he (.) pensado
 PST008	io posso io posso
 PST007	io posso e
 PST008	no la marina la forza aerea
@@ -1326,7 +1327,7 @@ PST008	no io porque vorrei sapere se
 PST008	ce l'hai altri argentina qua
 PST201	sì sì ah sì due una coppia
 PST008	ah sì lo so chi è so lo so chi è
-PST007	no es cómo el desierto . no estoy solo . non ride
+PST007	no es cómo el desierto (.) no estoy solo (.) non ((ride))
 PST008	eh
 PST008	no estoy solo i'm not alone
 PST007	i'm not alone

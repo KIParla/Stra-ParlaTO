@@ -20,7 +20,7 @@ PST001	ehm
 PST001	arrivamo in italia con mio figlio
 PST200	mh mh
 PST001	e mio marito
-PST001	por . por tema de
+PST001	por (.) por tema de
 PST001	la malattia al cuora di mio figlio
 PST200	ah
 PST001	mio figlio ho sei anni
@@ -42,7 +42,7 @@ PST001	eh
 PST001	hicimos los tramites para la atención
 PST001	e de mi hijo no
 PST200	mh
-PST001	y en . noviembre noviembre el que fecha
+PST001	y en (.) noviembre noviembre el que fecha
 PST002	mh
 PST001	non lo recuerdo la fecha pero mh hospitalizamos nos hospitalizamos mio figlio y yo
 PST001	eh
@@ -197,7 +197,7 @@ PST002	sì
 PST001	y nada et~ andiamo a la scuola per aprender un poco más el idioma no per poder parlare
 PST002	poco el italiano
 PST200	mhmh
-PST001	y interactuar así con . con los con con los italianos no
+PST001	y interactuar así con (.) con los con con los italianos no
 PST200	mh mhmhmh
 PST001	porque el idioma es molto importante importantissimo porque si no è difficil
 PST200	eh sì sì sì
@@ -355,7 +355,7 @@ PST200	eh
 PST200	eh non ti piace non ti piace l'aereo
 PST200	eh
 PST002	altura
-PST200	ah l' altezza anch'io
+PST200	ah l'altezza anch'io
 PST001	xxx sì
 PST001	ehm ahm io no mio figlio durmiendo así
 PST001	tranquillos
@@ -382,7 +382,7 @@ PST001	y dopo el cateterismo l~ li dottori i dottori
 PST001	eh van a decir si
 PST001	si ha estado bene el intervento
 PST200	okay
-PST001	s~ ahí nos van a . dar una . respuesta
+PST001	s~ ahí nos van a (.) dar una (.) respuesta
 PST200	mh mhmhmhmh
 PST001	mh
 PST001	in giugno
@@ -403,7 +403,7 @@ PST002	mhmh
 PST001	e si sta bene eh qui eh le van hacer otro intervento
 PST200	okay
 PST001	y
-PST001	tenemos que esperar . un tiempo
+PST001	tenemos que esperar (.) un tiempo
 PST200	mh mh
 PST001	para que siga controllato sì y non so non so quanto quanto tiempo serà
 PST002	xxx
@@ -459,7 +459,7 @@ PST001	aquì il pranzo eh~ eh il pane el el queso como se dice
 PST200	eh
 PST001	formaggio
 PST002	ah formaggio
-PST001	y la pasta es . siempre no siempre
+PST001	y la pasta es (.) siempre no siempre
 PST200	mh
 PST200	sì sì sì sì sì
 PST201	sì
@@ -607,7 +607,7 @@ PST200	p~ perché c'è l'ananas
 PST001	eh a mi tan~ de piccola no~ no me
 PST200	mh
 PST001	no me gustaba pero
-PST001	ya de . de grande si
+PST001	ya de (.) de grande si
 PST200	mh
 PST001	mi piace la pizza con
 PST200	è più buona è più buona la pizza con l'ananas o la pizza margherita
@@ -629,7 +629,7 @@ PST002	sì
 PST200	quella dell'ospedale no ma non piace non piace neanche a noi quella dell'ospedale okay
 PST001	no
 PST201	e c'è qualche cibo tipico di torino che avete assaggiato che vi è piaciuto
-PST001	alguna comida tipica . no . eh . no no
+PST001	alguna comida tipica (.) no (.) eh (.) no no
 PST002	mh no xxno aùn
 PST200	mh mh
 PST001	solo eh quando hemos visitado a u~ una famiglia italiana era como la pasta insieme con broccoli
@@ -681,7 +681,7 @@ PST200	mh mh
 PST201	sì
 PST002	a española
 PST200	mh mhmh
-PST001	este idioma en sí es el castellano . en perù es el castellano
+PST001	este idioma en sí es el castellano (.) en perù es el castellano
 PST200	okay
 PST002	mh
 PST200	mh
@@ -732,7 +732,7 @@ PST200	tra di voi penso usate lo spagnolo il castigliano giusto eh con chi lo us
 PST001	poco eh a qui in scuola sì ehm quando andiamo al supermercado
 PST200	al
 PST002	ospedale
-PST001	en l' ospedale
+PST001	en l'ospedale
 PST200	in ospedale è riuscite riuscite a capire i dottori i medici in ospedale
 PST001	sì
 PST001	a~ a este un po' il dottore l'infermiera parlavan a~ algunas n~ no no tutta pero algunas infermiera parlavan spagnolo
@@ -763,7 +763,7 @@ PST001	pronunciarlo no decirlo o si no le decía dottore
 PST200	mh
 PST200	eh sì sì sì
 PST002	xxx
-PST001	y ya sì este . me comunicaba
+PST001	y ya sì este (.) me comunicaba
 PST200	mh mhmh
 PST001	impresión
 PST001	y como eh como le digo y aquí hab~ parlamos
@@ -776,14 +776,14 @@ PST200	mh mh mh mhmh mh mh mh
 PST200	e e qui alla scuola no ci sono persone che vengono da posti diversi con lingue diverse
 PST001	mh mh sì
 PST200	e usate l'italiano o come come comunicate
-PST001	en italiano con . con los compañeros
+PST001	en italiano con (.) con los compañeros
 PST002	italiano
 PST002	mh mh
 PST001	in italiano un po'
 PST200	mh
 PST001	eh también hay peruanas pues peruanos
 PST200	mh sì sì
-PST001	y con ellos . un poco así pero . el italiano con otros países que están ahí estudiando . sì
+PST001	y con ellos (.) un poco así pero (.) el italiano con otros países que están ahí estudiando (.) sì
 PST200	mh
 PST200	e sentite differenza tra il vostro italiano e l'italiano magari di una persona marocchina
 PST001	sì
@@ -805,7 +805,7 @@ PST002	no
 PST001	africanos también xxx no
 PST002	los africanos también
 PST001	también
-PST001	pero sì ahí . en~ nos comunicamos
+PST001	pero sì ahí (.) en~ nos comunicamos
 PST200	mh mhmhmh
 PST001	la lengua più difficile pero tratamos de de poder comunicarnos no
 PST200	mh mhmh poi voi potete anche dire qualche parola in spagnolo perché è simile mentre gli arabi
@@ -814,11 +814,11 @@ PST002	mh
 PST001	mh mh
 PST001	sì no no
 PST200	non possono
-PST001	ya . así
+PST001	ya (.) así
 PST200	mh mhmhmh
 PST201	e vi capita mai di guardare qualche film in italiano
 PST001	ah sì también eh film
-PST001	que película hemos visto esta vez ride
+PST001	que película hemos visto esta vez ((ride))
 PST002	película
 PST002	pinocho
 PST001	pino~ pinoccio
@@ -845,7 +845,7 @@ PST201	okay
 PST001	sale ay mi piace una ragazza esa musica sì
 PST002	xxx
 PST200	sì sì
-PST001	esa esa sale siempre ride
+PST001	esa esa sale siempre ((ride))
 PST201	sì
 PST001	y otra q~ otra altra musica no lo recuerdo pero más esa esa musica eh mi piace una ragazza
 PST200	mh mhmhmhmh
@@ -889,7 +889,7 @@ PST001	no no es no es un bambino hiperactivo
 PST200	okay
 PST001	es un bambino tranquillo entonces y entiende eh
 PST002	mh
-PST002	igual este cuándo . vamos a~ al~ a~ a la calle . mh . eh
+PST002	igual este cuándo (.) vamos a~ al~ a~ a la calle (.) mh (.) eh
 PST001	dopo
 PST001	andiamo alla via
 PST002	andiamo alla via no n~ no puede caminar~ camminare molto
@@ -915,7 +915,7 @@ PST200	ah sì sì lo mette lo mette sulle spalle
 PST002	eh
 PST001	sì sì
 PST002	io un poco cansao
-PST001	fatigado él termina ride
+PST001	fatigado él termina ((ride))
 PST200	mh
 PST001	el giorno un poco como se dice cansado
 PST002	mh mh
@@ -1023,7 +1023,7 @@ PST200	mh ci vuole tempo per i documenti
 PST002	mh eh ecco
 PST001	sì
 PST200	mh mhmh
-PST001	ya hemos eh . hecho el artículo treinta y uno
+PST001	ya hemos eh (.) hecho el artículo treinta y uno
 PST200	okay
 PST002	trentuno
 PST001	trentuno sì y
@@ -1096,7 +1096,7 @@ PST001	la mamma de lui
 PST001	sì suocera
 PST201	suocera
 PST002	mh
-PST001	un' amica de mia y
+PST001	un'amica de mia y
 PST001	por mi suocera conocemos a la signora si chiama la s~ la signora
 PST200	mh
 PST200	mh mh
@@ -1125,8 +1125,8 @@ PST201	sì
 PST001	e es más parlare no parlare dialogar ehm
 PST001	e lui un poco no no n~ no capisce no capisce eh eh entonces por eso era no
 PST002	no este u~ un po' un po' ehm eh
-PST002	más . más era este por por lo de mi hijo
-PST002	o sea eh . dejarlo solo
+PST002	más (.) más era este por por lo de mi hijo
+PST002	o sea eh (.) dejarlo solo
 PST001	ah
 PST200	mhmh
 PST002	eh que él está mal no qualquier cosa le puede pasar no más
@@ -1242,7 +1242,7 @@ PST002	xxx en italiano
 PST200	pensate che p~ p~ può aiutarvi però in italiano
 PST001	sì sì sì
 PST002	xxx que sì sì
-PST001	aunque yo el teclado . eh teclado lo he cambiado a italiano
+PST001	aunque yo el teclado (.) eh teclado lo he cambiado a italiano
 PST200	mhmh
 PST200	ah la tastiera
 PST001	sì sì la tastiera
@@ -1308,7 +1308,7 @@ PST001	ah ah football
 PST201	mh
 PST200	e qui non non riesci
 PST002	aquí no aún no
-PST001	aún no ride
+PST001	aún no ((ride))
 PST200	mh
 PST200	e ma perché
 PST002	ya cuando empiezo a lavorare m~ m me imagino que con amici un sabato o un domenica
@@ -1341,7 +1341,7 @@ PST201	sì
 PST002	xxx fa cristiano
 PST200	passa a juve okay capito
 PST200	eh e non so guardate anche la tivù in italiano la televisione in italiano oppure no
-PST001	no no no mucho . no mucho
+PST001	no no no mucho (.) no mucho
 PST200	mh
 PST002	eh
 PST001	la televisione no no no no

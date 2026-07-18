@@ -315,7 +315,7 @@ PST162	spagnolo
 PST160	spagnolo
 PST165	sì mh mh glielo dico
 PST072	ustedes señoras cómo hacen el arroz
-PST072	estába~ estábamos hablando cada uno tiene su . su teoria
+PST072	estába~ estábamos hablando cada uno tiene su (.) su teoria
 PST160	peru
 PST160	xx muchas variedad de del riso
 PST072	mh
@@ -324,7 +324,7 @@ PST160	tante varietà di
 PST162	esta olla
 PST162	xx de del norte
 PST072	ya
-PST072	cómo es . aquella olla
+PST072	cómo es (.) aquella olla
 PST160	una pentola
 PST162	olla es una un xx xx
 PST161	desgarro
@@ -871,7 +871,7 @@ PST160	mi mi mi vas mi mi not mi
 PST160	come se voto basso
 PST160	seis
 PST160	spagnolo
-PST160	e e no pensava
+PST160	e e no pensava ride
 PST164	è una secchiona signora
 PST165	sì eh
 PST160	io no pensava che era così
@@ -967,7 +967,7 @@ PST160	io ello che è la mobilità che era pagar el bus
 PST160	e da pagar che coma e la xx porque xx xx tutto il jorne
 PST160	andava en la caje
 PST160	y eso era per io
-PST160	trabajava solo per eh per per lo mi dos figlio che estaban con migo
+PST160	trabajava solo per eh per per lo mi dos figlio che estaban migo
 PST160	acá es un poco mas
 PST160	un poco un poco ma~ cómodo la cosas podea xx estudiar
 PST160	porque en peru el sol~ el sole el sol es un poco basso
@@ -1004,20 +1004,20 @@ PST160	mi es un poco mah più facile
 PST160	sì
 PST072	si digamos que no un poco que muchas familias nos dicen no
 PST072	s que seguramente sobre el tema de la educación en peru
-PST072	es . un poco mas complicado tener un a~ acceso xx xx mas que todo . xx es una
+PST072	es (.) un poco mas complicado tener un a~ acceso xx xx mas que todo (.) xx es una
 PST072	una preparación educación en general no
-PST072	no se . digan ustedes no un poco yo digo lo que un poco nos cuentan las familias no
+PST072	no se (.) digan ustedes no un poco yo digo lo que un poco nos cuentan las familias no
 PST072	es que tienes que teneba
 PST072	mh una posición económica que te permita no frequentar l'escuela particular
 PST072	prepararte para el ingreso a la universidad
 PST072	o sea es que como
-PST072	que la escuela . estatal publica no funcionan mucho no xx una buena preparación educación no
+PST072	que la escuela (.) estatal publica no funcionan mucho no xx una buena preparación educación no
 PST165	mh mh
 PST072	pero
 PST162	yo creo que mi tampoco
 PST162	eh xxx muchos muchos colegios eh particulares
 PST162	spagnolo
-PST162	no . no se presta para que en peru la educación siga adelante no
+PST162	no (.) no se presta para que en peru la educación siga adelante no
 PST162	porque mucha~ yo he visto muchas personas
 PST162	que xx hijos xx un puesto en particulare por ejemplo
 PST162	para que terminar la segundaria
@@ -1029,7 +1029,7 @@ PST162	eh ingreso a la universidad no
 PST162	spagnolo
 PST162	en el colegio estatal
 PST162	mh mis hijos han estudiado sempre en el statal
-PST162	entonces . es como que
+PST162	entonces (.) es como que
 PST162	spagnolo
 PST162	si tu estudias
 PST162	e in muchas veces hoy depende yo pienso de cada niño
@@ -1039,10 +1039,10 @@ PST162	spagnolo
 PST162	spagnolo
 PST162	pero en mayoría es que tanta gente en peru está acostumbrada
 PST162	spagnolo
-PST162	a pagar con un estudio . no
+PST162	a pagar con un estudio (.) no
 PST162	persona que tiene plata
 PST162	tiene hijos que han estudiado
-PST162	persona que no tiene plata praticamente . no
+PST162	persona que no tiene plata praticamente (.) no
 PST162	si estudias en xx a una universidad statal
 PST162	spagnolo
 PST162	studiare in perù
@@ -1054,8 +1054,8 @@ PST162	trabajamos tanto lu
 PST162	spagnolo
 PST162	bien esto o xx cosa porque preferimos que nos hijos xx esten bien todo eso no
 PST162	en cambio acá es diferente
-PST162	es como que . xx xx mi caso
-PST162	yo lo siento un poquito mas . mas relajado se puede decir
+PST162	es como que (.) xx xx mi caso
+PST162	yo lo siento un poquito mas (.) mas relajado se puede decir
 PST162	claro al principio xxx fui muy dificil encontrar un colegio
 PST162	a @roberto xx xx
 PST162	spagnolo
@@ -1065,7 +1065,7 @@ PST162	spagnolo
 PST162	spagnolo
 PST162	spagnolo
 PST162	spagnolo
-PST162	o sea todo eso . como que a uno le da esperanza
+PST162	o sea todo eso (.) como que a uno le da esperanza
 PST162	esperanza que que no solamente xxx xx estudio xx xx él va a poder acceder a este estudio
 PST162	va a poder acceder a un a un a una universidad o a un istituto
 PST162	xx todo eso
@@ -1099,7 +1099,7 @@ PST166	è terribile no
 PST162	spagnolo
 PST162	es una cosa che
 PST162	spagnolo
-PST162	gracias a todos ride
+PST162	gracias a todos ((ride))
 PST072	xx
 PST165	grazie a lei
 PST162	sì
@@ -1208,9 +1208,9 @@ PST160	per vedere mia famiglia solo per me perché io là c'ho mio papà mi herm
 PST160	spagnolo
 PST160	nada mas
 PST162	anche a me
-PST162	por ahora . no
+PST162	por ahora (.) no
 PST162	spagnolo
-PST162	estoy bien aquí . no
+PST162	estoy bien aquí (.) no
 PST160	bien
 PST162	si yo me siento tranquila
 PST160	xx bien acá
@@ -1228,7 +1228,7 @@ PST162	para @roberto no pero para él si
 PST162	y pensando que yo me xx xx con una escuela para @roberto cosa que lo lo ponía bien y todo
 PST162	spagnolo
 PST162	spagnolo
-PST162	hasta que . después que se pasó x xx una semana
+PST162	hasta que (.) después que se pasó x xx una semana
 PST162	que se encuentre el colegio
 PST162	spagnolo
 PST162	spagnolo
@@ -1238,7 +1238,7 @@ PST162	spagnolo
 PST162	spagnolo
 PST162	estamos felices aquí por ahora
 PST162	spagnolo
-PST162	ride
+PST162	((ride))
 PST162	finché todo se sisteme no que todo se sisteme los documentos
 PST160	sì sì sì sì sì sì
 PST160	sì xx xx xx documentos
@@ -1246,11 +1246,11 @@ PST162	anche piano piano perché se commuove
 PST162	queremos xx fare un regla
 PST072	certo
 PST160	eso si si
-PST162	queremos tener . una vida qua ordinada no
+PST162	queremos tener (.) una vida qua ordinada no
 PST162	no somos personas
 PST162	ehm malas en en he sentido de de
-PST162	de lo que es estem~ mh . la delincuencia no
-PST162	no somos personas malas somos personas . humilde y tranquilas no
+PST162	de lo que es estem~ mh (.) la delincuencia no
+PST162	no somos personas malas somos personas (.) humilde y tranquilas no
 PST162	queremos trabajar lavorar
 PST160	sì x
 PST162	spagnolo
@@ -1273,7 +1273,7 @@ PST160	lo xx pagado ahora
 PST160	spagnolo
 PST162	spagnolo
 PST160	era sábado
-PST160	y pues que esto era para a partir de lunes ride
+PST160	y pues que esto era para a partir de lunes ((ride))
 PST162	ah
 PST160	no era desde el sábado
 PST160	spagnolo
@@ -1289,12 +1289,12 @@ PST160	spagnolo
 PST160	trabajar estare xx aquí
 PST160	eh contribuire algo aquí
 PST160	io son la primera che che contribuisce
-PST160	es . lo justo
+PST160	es (.) lo justo
 PST160	xx xxxx en mi caso tengo un documento
 PST160	o trabaja xx xx
 PST160	me gustaría que me dé el pensión pero de algo que yo he aportado
 PST160	no por algo que yo no ech~
-PST160	no . entonces uno que ganársela como se dice
+PST160	no (.) entonces uno que ganársela como se dice
 PST160	eh para poder proseguir
 PST160	eso es lo que yo siempre digo
 PST160	vero

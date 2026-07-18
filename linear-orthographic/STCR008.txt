@@ -31,7 +31,7 @@ PST092	eh
 ?	te la ricordi
 ?	l'abbiamo fatto
 PST092	ehm
-PST203	poi questa cosa facciamola dire ai professionisti una volta che hai fatto un' inquadratura che avrà la camera la prendete e la tenete per boh
+PST203	poi questa cosa facciamola dire ai professionisti una volta che hai fatto un'inquadratura che avrà la camera la prendete e la tenete per boh
 PST203	dieci quindici secondi se hai un taglio così non tre o quattro perché boh è poco giusto
 ?	se no non serve
 ?	dissolvenza incrociata ottica
@@ -543,7 +543,7 @@ PST211	del tour riprese qua
 PST203	ma di che cosa
 PST211	di qua tour la cosa che dicevano del tour con loro i visitatori che entrano
 PST203	okay
-PST100	deci trebuie să te gândești că ai doar una xxx . pentru că una ie fixă
+PST100	deci trebuie să te gândești că ai doar una xxx (.) pentru că una ie fixă
 PST092	una fixă penso telecamera quella quella mh sì quella buona
 PST092	e poi telefono quello che si muove perché è più comoda da tenere
 PST085	eh
@@ -565,7 +565,7 @@ PST203	ma se no non c'è nessuna di loro che ti può dare un passaggio
 PST092	no ma non ci facciamo vedere
 PST100	ehm împreună și după se face
 PST203	no che magari son di zona tua
-PST100	schimbi tu și după @anita . okay
+PST100	schimbi tu și după @anita (.) okay
 PST092	mh mh
 PST100	dacă nu face doar xx
 PST085	sì però io devo cambiar pullman xx veni~ da di là
@@ -585,7 +585,7 @@ PST100	prima din stânga si după prinde din dreapta
 PST092	scusa
 PST085	mi hai ucciso
 PST100	okay perché perché dev'essere ad altezza occhio
-PST100	așa prinde efectiv . @ecaterina
+PST100	așa prinde efectiv (.) @ecaterina
 PST092	che ne so perché se facciamo anche mh cambio di persona avvisiamo cioè poi mentre registriamo avvisiamo che facciamo cambio
 PST100	sì o vi se~ presentate tutt'e due quindi si vedono mh voi due
 PST100	e poi appunto fate xx xx
@@ -912,7 +912,7 @@ PST092	il prossimo non ci sono quindi tra due venerdì non ci sono sono in roman
 PST203	vabbè ma oh brava
 PST092	non posso farci niente
 PST092	tutta la settimana sto là
-PST203	beh ma tanto a ciao
+PST203	beh ma tanto ciao
 ???	ciao
 PST211	ciao
 PST092	il quindici sera quando facciamo le registrazioni poi io il quindici sera vado via
@@ -1012,7 +1012,7 @@ PST100	știi că dacă te prinde
 PST092	notă de casă
 PST100	nu doar notă de casă dar poate să-ți facă denunță
 PST092	non è successo poi finché lo faccio una volta ogni tre mesi
-PST100	taci . taci nu spune nimic că ride . nu se știe
+PST100	taci (.) taci nu spune nimic că ((ride)) (.) nu se știe
 PST092	finché lo faccio una volta ogni tre mesi
 PST092	e non mi vedono
 PST100	okay
@@ -1033,7 +1033,7 @@ PST092	non è vero non posso sta cantando
 PST100	eh
 PST092	c'ho provato
 PST092	glielo chiederò dopo
-PST100	se vede . pe moacă
+PST100	se vede (.) pe moacă
 PST100	ehm moacă vuol dire mh
 PST100	faccia è un termine usato un po' di tempo frivolo
 PST203	cioè come hai detto
@@ -1245,10 +1245,10 @@ PST092	ero con papà sono andata in un negozio
 PST092	e ave~ ero con una delle mie amiche che stavano là ma capivano anche l'ungherese e quando sono andata ero tipo eh
 PST092	e c'eran loro che facevano il traduttore perché non si capisce bene comunque
 PST092	c'è il questo dialetto che
-PST100	contați și chestia asta pentru noi care am crescut aici e un pic funny să auzi dar . sincer și eu simt că
+PST100	contați și chestia asta pentru noi care am crescut aici e un pic funny să auzi dar (.) sincer și eu simt că
 PST100	știi ești în românia de ce vorbești în unghereză vorbește în română dacă e
 ??	xxx tu vorbești în română și ei să răspundă în ungurește
-PST100	nu e urât da e . dar când
+PST100	nu e urât da e (.) dar când
 PST100	povestește mama sau tata e acolo da e simpatic haide să râdem împreună că nu știți efectiv ce înseamnă
 PST092	bellissimo sai xx xx
 PST092	tipo
@@ -1281,21 +1281,21 @@ PST100	eh sono arrivata a dov'ero l~ l~ letteralmente farmi tre secoli di letter
 PST100	d'italiano antico
 PST092	si è svegliato papà qualche sera
 PST092	è arrivato dar știi că mihai eminescu
-PST092	a facut o poezie cea mai lungă din istorie . cea mai lungă din istorie vrei să-ți citesc
+PST092	a facut o poezie cea mai lungă din istorie (.) cea mai lungă din istorie vrei să-ți citesc
 PST092	non me lo ricordo manco più
 PST092	sì luceafărul ie așa lungă vrei să-ți citesc nu xxx
 PST092	ma così da un momento all'altro
 PST092	știi că-i aia mai lunga din istorie
 PST092	ha tutta una storia dietro
-PST092	unul a scris . ie cea mai bună poezie făcută din lume ride
+PST092	unul a scris (.) ie cea mai bună poezie făcută din lume ((ride))
 PST100	no mama a fost eh a fost la campionatele de literatură română
 PST100	și la masă o apucă
-PST100	când eu după o zi de facultate sunt acolo că . vreau să dorm nu înțeleg nimic nici româna nici italiana și mama îmi spune
-PST100	xxx haide să îți vorbesc de eminescu ride
+PST100	când eu după o zi de facultate sunt acolo că (.) vreau să dorm nu înțeleg nimic nici româna nici italiana și mama îmi spune
+PST100	xxx haide să îți vorbesc de eminescu ((ride))
 PST100	stai puțin mama te iubesc dar
 PST092	no per carità è bello ma cioè
 PST092	no a me fa ridere perché poi lui se ne esce magari che ne so le sto chiedendo cosa mangiamo stasera da mihai emine~
-PST100	ie okay este simpatic dar . o apucă la mișto adică . mama te rog te iubesc dar
+PST100	ie okay este simpatic dar (.) o apucă la mișto adică (.) mama te rog te iubesc dar
 PST100	stai puțin lasă-mă să mă
 PST092	anche ieri ero condomnul stavo facendo canto non mi sente okay stavo facen~ stavo facendo canto con
 PST092	arriva no ma sapete che c'è una persona che le~ basta che legge il libro una secon~ una volta e la seconda te la sa gire te la sa già dire tutta a memoria

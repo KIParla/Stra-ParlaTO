@@ -15,26 +15,26 @@ PST078	ahdar m3a-ya anta
 ??	#smiyya
 PST078	mio nome?
 PST223	sì
-PST078	mi chiamo {P}
+PST078	mi chiamo (.)
 PST223	°va bene°
 PST223	m:::h
 PST223	vuoi raccontare qualcosa che:: qualcosa di te
 ??	ahdar li-ya ḥsab 3la ḥsab-k
 PST078	e::hm
-PST078	e:::h {P} volevo dirti::: eh di tanti anni fa? oppure e::h questa
+PST078	e:::h (.) volevo dirti::: eh di tanti anni fa? oppure e::h questa
 PST078	[adesso]
 PST223	quello [che vuoi] quello che vuoi
 PST078	dico per mia vita quando iniziata?
 PST223	sì sì
 PST223	puoi dire quello che vuoi
-PST078	a:::h ecco {_ride}
+PST078	a:::h ecco ((_ride))
 PST078	e:::hm sir 3la l-allah
 PST078	e:::h è iniziata a lavorare
 PST078	ho:::
 PST078	dic~ ehm dodici anni
 PST078	e:::h iniziato come lavoro che:: faccio e:::h
-PST078	#el contadino
-PST078	e poi #l con animali
+PST078	#*el contadino
+PST078	e poi #*l con animali
 PST078	mi è andata la vita così
 PST078	fino:::
 PST078	fino:::
@@ -53,8 +53,8 @@ PST078	e::h mia amica è stata qui italia ma adesso andata:
 PST078	andata germania
 PST078	e:::h
 PST078	lei era stata qui italia: con suo marito suo marito che le fa:
-PST078	#el:
-PST078	#el posto per::
+PST078	#*el:
+PST078	#*el posto per::
 PST078	per venire
 PST078	gente qui e:h italia
 PST078	e:h poi: e:::h io ero stata lavorare con loro
@@ -66,7 +66,7 @@ PST078	con la chiavi a casa di loro
 PST078	e::h poi:
 PST078	ogni giorni che parlato con me mia amica,
 PST078	mi ha detto che::
-PST078	se vuoi: li darmi #əl fotocopia del passaporto,
+PST078	se vuoi: li darmi #*əl fotocopia del passaporto,
 PST078	e:::h
 PST078	li facciamo prova
 PST078	perché io:::
@@ -78,7 +78,7 @@ PST078	e:h
 PST078	sta qui:: italia,
 PST078	e poi lei andata
 PST078	e::h
-PST078	le le dato #əl~ e:h
+PST078	le le dato #*əl~ e:h
 PST078	fotocopia del passaporto,
 PST078	e:h lei ha fatto:
 PST078	fatto una:::
@@ -89,7 +89,7 @@ PST078	solo co::~ come: scherzo: non: non non mi credo che::
 PST078	arriva questa una bella sorpresa
 PST078	però è venuta
 PST078	e:::h uscito l~ e:h la domanda
-PST078	e:::h poi quando andata al=e::h #əl consolato di: di: di: ita~ di i~ i::~ italia,
+PST078	e:::h poi quando andata al=e::h #*əl consolato di: di: di: ita~ di i~ i::~ italia,
 PST078	io pensavo che:
 PST078	forse sì forse no
 PST078	però::
@@ -107,7 +107,7 @@ PST078	(e ho) fatto la pratica,
 PST078	e:::h la pratica di:::
 PST078	e:::h come si chiama::
 PST078	e:::h
-PST078	#dil
+PST078	#*dil
 PST078	per::
 PST078	per bada::nti: e:: che lavorano badanti e::h
 PST078	colf
@@ -130,11 +130,11 @@ PST078	~bastanza bene
 PST223	quando sei poi venuta in italia hai trovato difficoltà?
 PST078	e::hm
 PST078	e quali?
-PST078	e quale:: {P} qualche problema?
-PST223	difficoltà::: {P} visto che la cultura è completamente differente visto [che sei cresciuta],
+PST078	e quale:: (.) qualche problema?
+PST223	difficoltà::: (.) visto che la cultura è completamente differente visto [che sei cresciuta],
 PST078	[e:::h]
 PST078	ec~ eh sì sì sì assolutamente sì
-PST078	e:::h perché #el:: e::h come
+PST078	e:::h perché #*el:: e::h come
 PST078	lì::
 PST078	a marocco una cosa
 PST078	e::h italia un'altra e::h sai che io:: mai studiato anche
@@ -155,14 +155,14 @@ PST078	bene adesso: parlo: non hai tanto non ma:
 PST078	andava bene
 PST078	così
 PST223	e quando hai iniziato a imparare litaliano?
-PST078	e:::h {P} iniziato parlo italiano::,
+PST078	e:::h (.) iniziato parlo italiano::,
 PST078	perché:: e:hm
 PST078	io studiato come::
 PST078	qualche cosa francese
 PST078	quando stata a marocco,
-PST078	come::: scrivo:: {P} mio nome: cognome::
+PST078	come::: scrivo:: (.) mio nome: cognome::
 PST078	arabo:: francese
-PST078	e:h poi come:: {P} a:::
+PST078	e:h poi come:: (.) a:::
 PST078	bé::: sé:: dé:::
 PST078	eh
 PST078	e:::h e studiato lì
@@ -180,13 +180,13 @@ PST223	m:::h
 PST223	come ti sei trovata a relazione con gli italiani.
 PST078	e:::hm
 PST078	con italiani:::
-PST078	era prima io:: parlo::: uso solo #əl:: google
+PST078	era prima io:: parlo::: uso solo #*əl:: google
 PST078	su:: su:: internet
 PST078	come
 PST078	e:::h
 PST078	manca lingua però io uso l'=e::h l'internet
 PST078	sul google
-PST078	e:::h io:: le faccio #əl-voci
+PST078	e:::h io:: le faccio #*əl-voci
 PST078	google
 PST078	vicino la signora lei e:h l~ eh li fa,
 PST078	tutte le cose c~ che voleva,
@@ -206,7 +206,7 @@ PST078	per sempre:
 PST078	che parli sempre sempre sempre qualcosa
 PST078	mi capisco ma non hai tanto
 PST078	°così°
-PST223	e come ti sei {P} trovata quando hai poi iniziato a im~ imparare litaliano le difficoltà che trovato nella lingua,
+PST223	e come ti sei (.) trovata quando hai poi iniziato a im~ imparare litaliano le difficoltà che trovato nella lingua,
 PST078	e:::h come trovato lingua::: eh
 PST078	ma iniziata parlo italiano ma:
 PST078	non hai tanto perché mi sbaglio
@@ -215,7 +215,7 @@ PST078	non::
 PST078	non::: una parola esista ma
 PST078	tira avanti
 PST223	e:::hm
-PST223	e come hai trovato la:: {P} come ti sei {P} come hai reagito al:: {P} al cambiamento da:: {P} dal marocco all'italia?
+PST223	e come hai trovato la:: (.) come ti sei (.) come hai reagito al:: (.) al cambiamento da:: (.) dal marocco all'italia?
 PST078	e:[::h]
 PST223	[è stato] difficile?
 PST078	no no
@@ -225,18 +225,18 @@ PST078	perché io eh
 PST078	abituata per: l:=e::h lavorare: abituata per,
 PST078	per tutti.
 PST078	perché non:
-PST078	non è arrivata qualcosa {P} qualcosa sì {P} è nuova
+PST078	non è arrivata qualcosa (.) qualcosa sì (.) è nuova
 PST078	però solo: m:h
 PST078	m:h un po di tempo e:: andava bene
 PST223	invece la cultura?
 PST078	[e:::h]
 PST223	[che è diff]erente?
 PST078	ma sì
-PST078	perché lì {P} marocco non è uguale qua
+PST078	perché lì (.) marocco non è uguale qua
 PST223	e [ti è:: [stato difficile]?
 PST078	[a:h ah ah]
 PST078	però io dico per
-PST078	era una periodo {P} che è passato,
+PST078	era una periodo (.) che è passato,
 PST078	anni fa,
 PST078	e::h
 PST078	per adesso andare anche a marocco trovi:: di:: molto di:: dif~ differenza non e:h non uguali
@@ -257,12 +257,12 @@ PST078	loro che vengono tutti
 PST078	eh per saluta::rti li portano::
 PST078	e:::h
 PST078	merenda: oppure:: colazioni::,
-PST078	eh che stanno con te: come passata #el
-PST078	#el viaggio come:: stata con la fami:~ tua famiglia
+PST078	eh che stanno con te: come passata #*el
+PST078	#*el viaggio come:: stata con la fami:~ tua famiglia
 PST078	e adesso no
 PST078	è vero sì
 PST223	e:::hm
-PST078	{ride}
+PST078	((ride))
 PST223	ṭaliyen diyel mḥens
 PST078	ktb 3al li-li duz ((ride))
 PST223	sì sì adesso poi taglio
@@ -308,15 +308,15 @@ PST078	e la:: la bombola è venuta adesso::
 PST078	venti venticinque::: euro eh cosa vuoi fare?
 PST078	devi:::
 PST078	(ag)giustare per lavorare::
-PST078	per la spesa:: {P} per {P} è venuto tutto caro
-PST078	alzata #əl: #əl prezzo per la spesa per tutti.
+PST078	per la spesa:: (.) per (.) è venuto tutto caro
+PST078	alzata #*əl: #*əl prezzo per la spesa per tutti.
 PST223	vabbè anche qua in italia si è alzato
 PST078	e::h però:
-PST078	quando #əl persona lavorare non non c'ha problemi di niente
+PST078	quando #*əl persona lavorare non non c'ha problemi di niente
 PST078	lì::: anche lavori con:
-PST078	dieci euro {P} a giorni
+PST078	dieci euro (.) a giorni
 PST078	a giorni quando: le spesa che le fai,
-PST078	lì {P} in marocco
+PST078	lì (.) in marocco
 PST078	cè::
 PST078	giorni io dico giorni che:: tu compri
 PST078	cè la bombola,
@@ -324,7 +324,7 @@ PST078	e:::h
 PST078	forse
 PST078	venti
 PST078	per dire e:h venti:: euro,
-PST078	venti gi~ e:h per {tossisce} stai
+PST078	venti gi~ e:h per ((tossisce)) stai
 PST078	con la questa bombola forse a casa se c'è
 PST078	eh le fai mangia::re scaldare lacqua lì perché l~ lacqua da scaldare
 PST078	forse
@@ -332,17 +332,17 @@ PST078	quindici giorni
 PST078	perché l:::
 PST078	tolgono l~ l:: chili
 PST078	quando le fanno::
-PST078	quando le caricano l~ e::h #əl bombola
-PST078	non si fanno tutti #əl kili che cè
-PST078	adesso meno::: tre chili o quattro chili che tolgono #del bombola grande
+PST078	quando le caricano l~ e::h #*əl bombola
+PST078	non si fanno tutti #*əl kili che cè
+PST078	adesso meno::: tre chili o quattro chili che tolgono #*del bombola grande
 PST078	e poi
 PST078	più:
 PST078	la spesa: verdura:: la carne::
 PST078	è tanti
 PST078	a parti: la luce:
 PST078	adesso venuto:: un altro prezzo che: pagare: il pagamento di:::
-PST078	delle #tass
-PST078	le #tass e:h
+PST078	delle #*tass
+PST078	le #*tass e:h
 PST078	per lanno: per sei di mesi no:: non lo so fanno
 PST223	ma: da quando sei venuta in italia non sei più andata in marocco,
 PST078	non ancora
@@ -353,14 +353,14 @@ PST223	[però ti manca]?
 PST078	deci anni e:h certo sì
 PST078	per vedere sì
 PST078	per stare lì no
-PST223	e come {P} cosa ne pensi {P} come ti sembrano poi i marocchini {P} qua in italia qua a torino come li::
+PST223	e come (.) cosa ne pensi (.) come ti sembrano poi i marocchini (.) qua in italia qua a torino come li::
 PST078	e::h come::
 PST078	mio persiero [lì] a marocco?
 PST223	[sì]
 PST223	no no qua in italia
-PST078	e:::h italia per adesso {P} io sto qui,
+PST078	e:::h italia per adesso (.) io sto qui,
 PST078	però dopo non lo so
-PST223	no però i {P} marocchini che sono venuti poi qua in italia come te
+PST223	no però i (.) marocchini che sono venuti poi qua in italia come te
 PST078	e:h
 PST223	c(io)è ti trovi bene qua:: con loro oppure::
 PST078	no no io non:: non con marocchini mai fatto d'accordo
@@ -374,7 +374,7 @@ PST223	te ne stai alla larga,
 PST078	m:::h
 PST223	e:::
 PST223	invece poi::
-PST223	con la famiglia è molto più facile visto che:: la maggior parte dei tuoi fratelli e sorelle sono:: {P} vicini oppure,
+PST223	con la famiglia è molto più facile visto che:: la maggior parte dei tuoi fratelli e sorelle sono:: (.) vicini oppure,
 PST078	miei?
 PST223	sì
 PST078	e miei fratelli vicino
@@ -386,8 +386,8 @@ PST078	c'è mia sorella
 PST078	e::h in spagna,
 PST078	e::h siamo qui
 PST223	e:::hm
-PST223	cosa {P} vorresti fare nel futuro.
-PST078	e: futuro:: {P} sa solo dio.
+PST223	cosa (.) vorresti fare nel futuro.
+PST078	e: futuro:: (.) sa solo dio.
 PST078	parliamo per adesso
 PST078	domani è un altro giorno
 PST223	ma vorresti: fare qualche: cosa in specifico o qualche::
@@ -397,25 +397,25 @@ PST078	no::
 PST078	per adesso no
 PST078	non penso niente
 PST223	vivi al giorno
-PST078	sì {P} certo
+PST078	sì (.) certo
 PST223	e:::hm
 PST223	invece la lingua italiana è difficile da imparare?
 PST078	e:::h per me:::
-PST078	prima sì {P} ho °trovato difficile per parlo italiano°
+PST078	prima sì (.) ho °trovato difficile per parlo italiano°
 PST223	come ti stai trovando adesso stai studia::ndo in qualche [posto],
 PST078	[e:::hm]
 PST078	sì
 PST078	°sì°
 PST078	inziata solo::
-PST078	forse adesso: {P} °mesi così°
+PST078	forse adesso: (.) °mesi così°
 PST078	[non è tanto]:: io::
 PST223	[xx xx]
 PST078	e::hm
 PST078	non il problema di di
 PST078	come parlo ma:: il problema di:::
 PST078	di:: scrivere
-PST078	quando mi scrivo:: {P} mi sbaglio
-PST078	mi sbaglio:: {P} $qualchi punti
+PST078	quando mi scrivo:: (.) mi sbaglio
+PST078	mi sbaglio:: (.) $qualchi punti
 PST078	però::
 PST078	°andava bene°
 PST078	e::h piano piano
@@ -424,9 +424,9 @@ PST223	invece ti sei adattata poi:::
 PST078	m::h?
 PST223	ti sei adattata?
 PST078	non ho capito
-PST223	ti sei adattata in italia con la cultura:: {P} o è °molto distante:::°
+PST223	ti sei adattata in italia con la cultura:: (.) o è °molto distante:::°
 PST078	°e::h°
-PST223	ti sei adattata {P} alla cultura che cè in italia?
+PST223	ti sei adattata (.) alla cultura che cè in italia?
 PST078	non:: non ho:: capito questa parola
 PST223	e:::h
 PST078	fammi capire
@@ -465,8 +465,8 @@ PST078	°sto bene°
 PST078	cè $qualchi::
 PST078	colleghi che:
 PST078	dicono::
-PST078	sai che parlano male dietro di l~ {P} persona?
-PST078	anche {P} lì:: stata una::
+PST078	sai che parlano male dietro di l~ (.) persona?
+PST078	anche (.) lì:: stata una::
 PST078	con una:: una signora
 PST078	era stata con me::
 PST078	lavora con::
@@ -484,23 +484,23 @@ PST078	e lasciato telefono lì::
 PST078	e andata e fatto:: una::: lavoro,
 PST078	$escoltato tutto cosa::
 PST078	m::h cosa detto
-PST078	lei parlato con:: con: #əl padrone di lavoro
+PST078	lei parlato con:: con: #*əl padrone di lavoro
 PST078	e:: poi:: e::
 PST078	dopo io ascoltato tutto,
 PST078	e:::
 PST078	poi: ha: cambiato l~ la parola e front~ di l~ e::h
 PST078	la signora
 PST078	padrone di lavoro
-PST078	chi lei {P} è stata le fatto l:: e:hm
+PST078	chi lei (.) è stata le fatto l:: e:hm
 PST078	fotocamera
 PST078	al posto dove::: lavoriamo tutti insieme
 PST078	e:h però:: lei ha stata:: una bugiarda
 PST078	e::h,
 PST078	ha detto tutto:: bugia non cè $nienta
 PST078	$nienta::: s~ qualcosa: da:: m::h
-PST078	come diciamo:: giusti #el la parola sembra
+PST078	come diciamo:: giusti #*el la parola sembra
 PST078	xxx
-PST078	tutti chi detto {P} non: non c'è niente
+PST078	tutti chi detto (.) non: non c'è niente
 PST078	al contrario
 PST078	°m::h°
 PST223	#safi

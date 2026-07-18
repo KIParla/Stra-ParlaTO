@@ -19,7 +19,7 @@ PST018	e i miei genitori.
 PST206	conosci l'arabo?
 PST018	sì
 PST206	qual è la tua lingua madre?
-PST018	e:h italiano {ride}
+PST018	e:h italiano ((ride))
 PST206	italiano
 PST018	sì
 PST206	e:h quanto ritieni di essere bilingue?
@@ -29,7 +29,7 @@ PST206	sì
 PST018	m:h
 PST018	dieci
 PST206	ok[ay]
-PST018	[ce]nto per cento {ride}
+PST018	[ce]nto per cento ((ride))
 PST206	come giudichi il fatto di sapere più lingue?
 PST018	eh è una cosa positiva perché::
 PST018	grazie alle lingue conosci:
@@ -43,7 +43,7 @@ PST018	[otto nove]
 PST018	anch'essi
 PST206	°anch'essi°
 PST206	qual è la lingua che ti piace di più?
-PST018	e:h {ride}
+PST018	e:h ((ride))
 PST018	oddio
 PST018	ma: se~ è uguale
 PST018	m:h
@@ -61,14 +61,14 @@ PST018	>per esempio< quando ho una conversazione con i miei genitori
 PST018	faccio un mix
 PST018	tra
 PST018	arabo e italiano perché alcune parole in arabo non le conosco
-PST018	le sostituisco in italiano {ride}
+PST018	le sostituisco in italiano ((ride))
 PST206	e:h quale lingua usi quando sei nervosa o arrabbiata?
 PST018	l'arabo
-PST018	{ride}
-PST018	{ride} perché è più tosto
-PST018	{ride}
-PST206	ti puoi esprimere di più {ride}
-PST018	{ride}
+PST018	((ride))
+PST018	((ride)) perché è più tosto
+PST018	((ride))
+PST206	ti puoi esprimere di più ((ride))
+PST018	((ride))
 PST206	questo soprattutto quando sei a casa o comunque in generale?
 PST018	quando sono a casa.
 PST018	soprattutto
@@ -98,7 +98,7 @@ PST206	è sempre stato così?
 PST018	s:ì
 PST018	sì
 PST206	ti senti più italiana o araba?
-PST018	{ride}
+PST018	((ride))
 PST018	forse:
 PST018	più italiana
 PST018	forse
@@ -134,7 +134,7 @@ PST018	sì
 PST206	quale lingua o dialetti si parlano di solito nella tua famiglia?
 PST018	vabbè si parla il dialetto marocchino
 PST206	m:h
-PST018	e l'italiano {ride}
+PST018	e l'italiano ((ride))
 PST206	e l'italiano.
 PST018	e:hm però più
 PST206	qual è: che:
@@ -148,7 +148,7 @@ PST018	abbastanza
 PST206	e:hm
 PST206	anche a casa?
 PST018	alcune parole
-PST018	quando ti ho detto che facevamo il mix {ride}
+PST018	quando ti ho detto che facevamo il mix ((ride))
 PST206	okay
 PST018	italiano e a~
 PST206	tuo padre invece?
@@ -161,7 +161,7 @@ PST018	ci facciamo sempre un mix dipende alcune parole
 PST018	eh non vengono subito in arabo le diciamo in italiano
 PST018	e boh
 PST206	e:h in che lingua o dialetti
-PST206	m:h parlano con {P} con voi lo sti~ cioè:
+PST206	m:h parlano con (.) con voi lo sti~ cioè:
 PST206	i vostri genitori
 PST206	si rivolgono
 PST206	diversamente:
@@ -201,17 +201,17 @@ PST018	alle medie
 PST018	avevo due compagni marocchini
 PST206	m:h
 PST206	e con loro: che lingua parlavi?
-PST018	e:hm {sospira}
+PST018	e:hm ((sospira))
 PST018	soprattutto italiano
 PST206	soprattu[tto] italiano
 PST018	[sì]
 PST206	e quand'è che parlavate in marocchino?
-PST018	ah non mi ricordo {ride}
+PST018	ah non mi ricordo ((ride))
 PST018	ogni tanto:
 PST018	durante l'intervallo
 PST018	una o due parol(ine)
 PST018	una o due parole: in arabo
-PST018	e tutto il resto in italiano {ride}
+PST018	e tutto il resto in italiano ((ride))
 PST018	sì
 PST206	che lavoro fanno i tuoi gentori?
 PST018	allora mio padre è un operaio
@@ -232,7 +232,7 @@ PST018	all'interno del gruppo
 PST206	e:
 PST206	quali erano i problemi che trovavi alle medie?
 PST018	alle medie?
-PST018	n~ {P} non sapevo come:
+PST018	n~ (.) non sapevo come:
 PST018	approcciare >non sapevo< come:
 PST018	boh
 PST018	mi sentivo:
@@ -241,7 +241,7 @@ PST018	sai com'è:
 PST018	però boh
 PST018	andando avanti nel tempo ho imparato come: interagire
 PST018	xxx
-PST018	ce l'ho fatta {ride}
+PST018	ce l'ho fatta ((ride))
 PST206	l'aspetto stetico:
 PST206	m:h magari anche
 PST206	°il fatto che°
@@ -272,7 +272,7 @@ PST018	no no
 PST018	o terzo o quarto
 PST018	no terzo anno
 PST018	terzo anno
-PST018	duemilaquindici sì {P} non mi ricordo {ride}
+PST018	duemilaquindici sì (.) non mi ricordo ((ride))
 PST206	xxx
 PST018	mi ricordo che era il terzo anno
 PST018	e: nulla:
@@ -289,13 +289,13 @@ PST018	non so neanche come spiegarlo in realtà.
 PST018	niente: mi dice ah. okay
 PST018	sì ma anche io sono cristiana però non porto il crocifisso.
 PST018	io lì sono rimasta ho detto
-PST018	vabbè però {ride}
+PST018	vabbè però ((ride))
 PST206	ognuno
 PST206	[è libero]
-PST018	[cioè] {ride}
+PST018	[cioè] ((ride))
 PST206	cosa vuole dire?
 PST206	cioè ognuno è libero di fare ciò che vuole
-PST018	eh qua {P} ci avevano un po' schifato
+PST018	eh qua (.) ci avevano un po' schifato
 PST018	non lo so.
 PST018	e fa okay va bene
 PST018	e se ne è andata
@@ -320,13 +320,13 @@ PST018	e:h stavo andando: al bar
 PST018	se non sbaglio,
 PST018	e a un certo punto sento: eh isis #allāhu #akbar cose così
 PST018	io l'ho presa un po' sul ridere cioè non è che oddio cioè mi sono messa a pia~ no
-PST206	{ride}
+PST206	((ride))
 PST018	sul se ne frega
 PST018	anzi già: subito dopo:
 PST206	xxx erano gli studenti?
 PST206	xx[x]
 PST018	[sì] gli studenti
-PST206	e boh {ride}
+PST206	e boh ((ride))
 PST206	fuo~(ri) fuori: dalla scuola invece?
 PST018	fuori dalla scuola m:h
 PST018	no
@@ -342,7 +342,7 @@ PST018	in italia?
 PST018	ma bene sinceramente cioè non è che trovo chissà quale difficoltà
 PST018	del tipo:
 PST018	episodi di razzismo: >cose così< non:
-PST018	a me non è mai successo oltre alla cosa {ride} della professoressa e dei:
+PST018	a me non è mai successo oltre alla cosa ((ride)) della professoressa e dei:
 PST018	di quei studenti no.
 PST206	ti piacerebbe comunque continuare a vivere qui?
 PST018	sì
@@ -362,7 +362,7 @@ PST018	mi sento più italiana sinceramente.
 PST206	e:hm
 PST206	hai studiato l'arabo tu?
 PST018	s:ì
-PST018	qua in italia {ride}
+PST018	qua in italia ((ride))
 PST206	dove?
 PST206	e qua[ndo]?
 PST018	[una] volta a settimana
@@ -373,8 +373,8 @@ PST018	varie moschee
 PST018	poi una scuola vicino:
 PST018	scuola
 PST018	era un cascinotto
-PST018	e: {ride}
-PST206	{ride}
+PST018	e: ((ride))
+PST206	((ride))
 PST018	a mirafiori
 PST018	e poi:
 PST018	in una scuola che non mi ricordo xx
@@ -400,7 +400,7 @@ PST018	sedici diciassette anni più o meno
 PST206	pensi di avere imparato: l'arabo?
 PST018	sì
 PST018	c(io)è qualcosa sì
-PST018	riesco a leggere: scrivere più o meno {ride}
+PST018	riesco a leggere: scrivere più o meno ((ride))
 PST018	nonostante abbia una calligrafia: da
 PST018	prima elementare però
 PST018	le scri~ cioè le (de)scrivo
@@ -408,7 +408,7 @@ PST018	qualcosa so fare
 PST206	ti piace il marocco?
 PST018	s:ì
 PST018	sì
-PST018	però per viverci no {ride}
+PST018	però per viverci no ((ride))
 PST018	ma in realtà è bello
 PST018	cioè: boh
 PST018	hanno un modo di fare bello e tutto però non riesco a:
@@ -421,7 +421,7 @@ PST206	non ti senti a tuo agio in marocco?
 PST018	cioè: passo un mese:
 PST018	un mese e mezzo lì cioè io dopo non ce la faccio più vorrei solo tornare qui
 PST206	quali sono i problemi che affronti in marocco?
-PST018	il modo di pensare diverso {ride}
+PST018	il modo di pensare diverso ((ride))
 PST018	del tipo non so
 PST018	ho una mia idea
 PST018	e: i tuoi parenti ti dicono ma:
@@ -432,11 +432,11 @@ PST206	oltre alla modalità di pensare?
 PST206	qualche altro pro~ problema forse?
 PST018	m:h
 PST018	sai che non mi viene in mente niente,
-PST018	boh se mi verrà in mente te lo dico {ride}
-PST206	{ride} okay
+PST018	boh se mi verrà in mente te lo dico ((ride))
+PST206	((ride)) okay
 PST206	hai amici in marocco?
 PST018	no
-PST206	qui in italia hai ami~(ci) {P} più amici italiani o stranieri?
+PST206	qui in italia hai ami~(ci) (.) più amici italiani o stranieri?
 PST018	m:h stranieri
 PST206	e:hm
 PST206	sono di prevalenza araba?
@@ -454,11 +454,11 @@ PST018	[no no]
 PST206	ti piace leggere?
 PST018	sì
 PST206	e in quale lingua?
-PST018	italiano {ride}
+PST018	italiano ((ride))
 PST206	che=e:hm
 PST206	che genere ti piace leggere?
 PST018	non ho un genere particolare cioè
-PST018	il libro mi deve prendere e basta {ride}
+PST018	il libro mi deve prendere e basta ((ride))
 PST206	hai mai letto un libro in arabo?
 PST018	no
 PST206	ti piacerebbe leggerlo?
@@ -466,7 +466,7 @@ PST018	sì
 PST018	tantissimo
 PST018	però: non lo capisco cioè so una parola su mille
 PST018	purtroppo
-PST018	mi tocca leggere solo in italiano {ride}
+PST018	mi tocca leggere solo in italiano ((ride))
 PST206	dunque se hai davanti un: un testo scritto in arabo standard non lo capisci?
 PST018	capisco pochissimo
 PST206	mentre se è scritto in marocchino?
@@ -484,7 +484,7 @@ PST206	scrivi~ utilizzi di più la lingua italiana o quella araba?
 PST018	ma dipende per esempio con i parenti:
 PST018	ah beh
 PST018	in ita~ in: in arabo
-PST018	quello con le lettere {ride}
+PST018	quello con le lettere ((ride))
 PST018	[e:h]
 PST206	[mentre] in italiano?
 PST018	sì
@@ -522,20 +522,20 @@ PST206	raramente
 PST018	navigo molto raramente
 PST206	come trascorri il tuo tempo libero?
 PST018	stando con gli amici,
-PST018	chattando sui social, {ride}
+PST018	chattando sui social, ((ride))
 PST018	con i miei genitori,
-PST018	eccetera eccetera. {ride}
+PST018	eccetera eccetera. ((ride))
 PST206	hai qualche hobby?
 PST018	no
 PST206	niente di particolare
-PST018	{schiocca_la_lingua}
+PST018	((schiocca_la_lingua))
 PST206	tu sei musulmana,
 PST018	sì
 PST206	ovviamente
 PST206	e:h ti ritieni praticante?
 PST018	s:ì
 PST206	che ne pensi della religione?
-PST018	{ride} è un argomento molto un po' complesso {ride}
+PST018	((ride)) è un argomento molto un po' complesso ((ride))
 PST018	allora secondo me la religione se:
 PST018	se la capisci ti aiuta davvero tanto tanto tanto
 PST018	a superare:
@@ -550,7 +550,7 @@ PST018	per avere molte risposte
 PST018	che s~
 PST018	purtroppo in italiano non puoi avere
 PST018	a mone~ a meno che non:
-PST018	non ti porti qualcuno {ride} che ti legga le cose in arabo e te le traduca
+PST018	non ti porti qualcuno ((ride)) che ti legga le cose in arabo e te le traduca
 PST018	e [nulla]
 PST206	[e ti è] successo di fare proprio questo?
 PST018	purtroppo sì guarda ti dico
@@ -597,10 +597,10 @@ PST018	leggerlo e di ascoltarlo il più possibile
 PST206	dunque sei:
 PST206	da quello che ho capito sembri comunque molto legata alla religione
 PST018	sì
-PST018	mi piacerebbe scoprire tantissime cose {P} a riguardo
+PST018	mi piacerebbe scoprire tantissime cose (.) a riguardo
 PST206	e questo non ti: m:h
 PST206	non ti incentiva:
-PST206	a sapere di più la lingua {P} [araba]?
+PST206	a sapere di più la lingua (.) [araba]?
 PST018	[sì] quello sì
 PST018	p[erò purtroppo:]
 PST206	[andare a fare qualche] corso: di lingua
@@ -633,12 +633,12 @@ PST206	[o] comunque:
 PST018	sì sì
 PST206	nella tua identificazione:
 PST018	m:h
-PST018	sì °più o meno° {ride}
+PST018	sì °più o meno° ((ride))
 PST206	°più o meno°.
-PST018	{ride}
+PST018	((ride))
 PST206	cosa ne pensi della cultura araba?
-PST018	la cultura araba {P} e:h
-PST018	{ride} domanda difficile cioè >non è una domanda difficile< anzi però:
+PST018	la cultura araba (.) e:h
+PST018	((ride)) domanda difficile cioè >non è una domanda difficile< anzi però:
 PST018	è una cultura:
 PST018	non dico chiusa
 PST018	però:
@@ -671,7 +671,7 @@ PST018	del tipo?
 PST206	del tipo
 PST206	cioè anche a livello artistico
 PST018	m:h
-PST018	{ride}
+PST018	((ride))
 PST018	boh non mi viene in mente niente sinceramente
 PST206	dei libri, m:h
 PST018	libri come ho detto purtroppo non ho letto libri in arabo
@@ -683,7 +683,7 @@ PST206	mi hai detto prima che ti piace comunque come paese il [marocco]
 PST018	[sì sì] è bello come paese
 PST206	e quali sono le cose che ti piacciono?
 PST018	per esempio: non so:
-PST018	cioè ti senti proprio: che sono vivi {ride}
+PST018	cioè ti senti proprio: che sono vivi ((ride))
 PST018	del tipo
 PST018	tu esci all'una di notte
 PST018	trovi ancora gente fuori che
@@ -718,7 +718,7 @@ PST018	cioè devi proprio essere
 PST018	perfet[ta]
 PST206	[ita]liano doc
 PST018	italiana doc
-PST206	{ride}
+PST206	((ride))
 PST018	mentre in marocco boh ti xxx
 PST018	cioè puoi uscire ad esempio in pigiama che chi se ne frega
 PST018	qua invece no
@@ -733,9 +733,9 @@ PST018	no non è questione di non accettare la diversità
 PST018	è che=e:hm
 PST018	non so come spiegartelo sineramente
 PST018	è come fare bella figura
-PST018	non so come si cioè {P} capito?
+PST018	non so come si cioè (.) capito?
 PST206	sì
-PST018	{ride}
+PST018	((ride))
 PST018	c(io)è per esempio se tu
 PST018	per esempio in marocco
 PST018	se devi prendere qualcosa sotto casa
@@ -743,7 +743,7 @@ PST018	puoi uscire anche
 PST018	in pigiama cioè non è un problema se non è il pigiama quello xxx che devi prendere no
 PST018	esci in pigiama prendi quello che ti pare e poi torni a casa
 PST018	qua no in italia ti devi proprio vestire bene solo per buttare la spazzatura e per andare a casa
-PST206	ma {ride} [sì sì] sì
+PST206	ma ((ride)) [sì sì] sì
 PST018	capito [come]?
 PST018	c(io)è que[sto] per per rendere l'idea
 PST206	[sì]
@@ -751,14 +751,14 @@ PST206	mh
 PST018	e nulla
 PST018	boh per il resto boh
 PST206	qualche aspetto particolare che ti piace della cultura italiana?
-PST018	{ride} non mi viene in mente nulla
+PST018	((ride)) non mi viene in mente nulla
 PST018	aspetto particolare
 PST206	°la cucina italiana°
 PST018	vabbè la cucina ah beh quello
-PST206	{ride}
-PST018	{ride}
-PST018	quello {ride}
-PST206	{ride}
+PST206	((ride))
+PST018	((ride))
+PST018	quello ((ride))
+PST206	((ride))
 PST018	è ovvio
 PST018	e:hm
 PST018	non so magari i paesaggi
@@ -775,5 +775,5 @@ PST018	otto
 PST018	un otto abbondante
 PST018	forse anche nove
 PST206	l'intervista è finita vuoi aggiungere altro?
-PST018	m:h {ride}
+PST018	m:h ((ride))
 PST206	grazie per la tua collaborazione

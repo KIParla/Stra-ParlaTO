@@ -22,12 +22,12 @@ PST220	a::h
 PST121	sì
 PST220	sei venuta in vacanza a latina::?
 PST121	sì
-PST220	e {P} dal marocco facev[i:] latina marocco.
+PST220	e (.) dal marocco facev[i:] latina marocco.
 PST121	[sì]
 PST220	ma va
-PST121	sì {ride}
+PST121	sì ((ride))
 PST220	ma latina vicino a Ro:ma,
-PST121	sì {P} vicino a roma.
+PST121	sì (.) vicino a roma.
 PST220	ma conoscevi delle persone: a latina,
 PST121	e::h sì
 PST121	c'è la mia famiglia di là
@@ -45,14 +45,14 @@ PST219	[bello],
 PST220	eh [roma],
 PST121	roma è bella
 PST220	e::h
-PST220	{ride}
-PST121	sì {ride}
+PST220	((ride))
+PST121	sì ((ride))
 PST220	meglio roma o torino
 PST121	e:::h
-PST220	o settimo {ride}
+PST220	o settimo ((ride))
 PST121	no:
 PST121	roma e torino: non::
-PST121	non sono uguali [capito] {P} ogni luogo ha il suo::
+PST121	non sono uguali [capito] (.) ogni luogo ha il suo::
 PST220	[°m::h°]
 PST121	>torino< bello e:
 PST121	torino è bella e::
@@ -61,7 +61,7 @@ PST220	°è vero°
 PST220	°ognuno ha il suo°
 PST121	sì:
 PST219	e quindi::
-PST219	quindi è: {P} da: un anno e mezzo che sei in italia,
+PST219	quindi è: (.) da: un anno e mezzo che sei in italia,
 PST121	sì
 PST219	che vivi in I[talia]
 PST121	[sì]
@@ -76,10 +76,10 @@ PST121	sì
 PST220	>quindi avevi già< sentito un po' italiano:
 PST121	sì
 PST121	però è
-PST121	l'italiano di {P} di là {P} non è lo stesso di qui {ride}
+PST121	l'italiano di (.) di là (.) non è lo stesso di qui ((ride))
 PST121	è vero
 PST220	questo è vero proprio
-PST121	{ride}
+PST121	((ride))
 PST121	non è la stessa pronuncia: non è::
 PST121	però:di là non avevo: amici: o e: che parlano italiano
 PST121	di là parlo solo con:
@@ -94,12 +94,12 @@ PST220	ah tutte e due [okay]
 PST121	[°sì°]
 PST220	e tu come mai sei finita a settimo: e non a latina,
 PST121	e::h
-PST121	è così {ride}
+PST121	è così ((ride))
 PST121	è così mio padre è arrivato di qua poi:
 PST121	siamo arrivati anche noi
-PST220	a:h okay {P} quindi c'è tuo papà [qui °anche°]
+PST220	a:h okay (.) quindi c'è tuo papà [qui °anche°]
 PST121	[sì:]
-PST121	mio padre ha: scelto torino poi: {P} siamo venuti anche noi
+PST121	mio padre ha: scelto torino poi: (.) siamo venuti anche noi
 PST220	°okay°
 PST121	io e i miei fratelli
 PST121	però: eh torino è bella settimo è bello
@@ -108,31 +108,31 @@ PST121	bella città
 PST220	ti trovi bene.
 PST121	sì
 PST220	e a to~ e a settimo
-PST220	>cioè< lavori in pizzeria con {ride}
+PST220	>cioè< lavori in pizzeria con ((ride))
 PST121	sì:
 PST121	mia collega
-PST121	{ride}
-PST220	{ride} °collega°
-PST220	da:: {P} da quanto tempo lavori in pizzeria,
+PST121	((ride))
+PST220	((ride)) °collega°
+PST220	da:: (.) da quanto tempo lavori in pizzeria,
 PST121	e:h
 PST121	°quasi° quasi un anno e mezzo
-PST220	ah su[bito::] [{P} cavoli]
+PST220	ah su[bito::] [(.) cavoli]
 PST121	sì
 PST121	[perché quando sono] arrivata sono rimasta solo:
 PST219	[(brava)]
 PST121	solo qualche giorni: e::
 PST121	ho iniziato lavoro con loro
-PST219	e come hai trovato lavoro:: {P} in pizzeria,
+PST219	e come hai trovato lavoro:: (.) in pizzeria,
 PST121	e:::h
 PST121	sono andati di là e::
 PST121	io mi~ mio: padre
 PST121	abbiamo detto a che:
-PST121	stiamo:: {P} cercando lavoro,
+PST121	stiamo:: (.) cercando lavoro,
 PST121	e poi siamo arrivati.
 PST219	ah
 PST219	x così
 PST121	a lavorare con loro
-PST220	tu cos'è che fai già:: {P} in pizzeria,
+PST220	tu cos'è che fai già:: (.) in pizzeria,
 PST220	me l'ha detto io non mi ricordo
 PST121	io faccio lavapiatti,
 PST220	okay
@@ -141,11 +141,11 @@ PST220	ah
 PST220	tutti i giorni
 PST121	sì tutti i giorni
 PST121	martedì riposo
-PST220	{ride} oggi riposo
-PST121	{ride}
-PST121	sì {ride}
-PST220	{ride} °aspetta°
-PST121	{ride} una pausa
+PST220	((ride)) oggi riposo
+PST121	((ride))
+PST121	sì ((ride))
+PST220	((ride)) °aspetta°
+PST121	((ride)) una pausa
 PST219	e il resto del tempo::
 PST219	cosa fai >cioè< hai:
 PST219	altri impegni: non so
@@ -169,16 +169,16 @@ PST121	ho fatto e::h
 PST121	tre mesi di cpia
 PST220	ah okay
 PST121	e poi mi ha aiutato un po' il francese
-PST121	perché: {P} ci sono
+PST121	perché: (.) ci sono
 PST121	tanti parole che sono simile,
-PST121	perché {P} sai che
+PST121	perché (.) sai che
 PST121	il francese e italiano sono arrivati dal greco latino
 PST121	allora ci sono tanti parole:
 PST121	simile
 PST121	e::h
 PST121	>faccio sempre<
 PST121	questa parola: eh vuol dire questa
-PST121	a volte: faccio: un sbaglio però {ride}
+PST121	a volte: faccio: un sbaglio però ((ride))
 PST219	okay
 PST219	è normale
 PST121	sì
@@ -191,14 +191,14 @@ PST220	che lingua?
 PST121	mh?
 PST220	in casa::
 PST220	>cioè< [quando sei cresciuta che lin~]
-PST121	[no: {P} in casa l'arabo]
+PST121	[no: (.) in casa l'arabo]
 PST121	dialetto marocchino
 PST121	[non è l'a]rabo
 PST220	[okay]
 PST220	>dialetto marocchino<
 PST220	e poi?
 PST220	hai imparato anche arabo: il
-PST121	sì a: arabo e:: {P} francesce in:
+PST121	sì a: arabo e:: (.) francesce in:
 PST121	nella scuola?
 PST121	e po[i:::]?
 PST220	[°okay°]
@@ -206,12 +206,12 @@ PST121	anche inglese
 PST220	ah $mizzigu
 PST121	sì
 PST219	un bel po' di lingue sai.
-PST220	[e] {P} che:::
+PST220	[e] (.) che:::
 PST121	[°sì°]
 PST220	>dialetto marocchino<?
 PST220	darija
-PST121	sì darija {ride}
-PST121	brava {ride}
+PST121	sì darija ((ride))
+PST121	brava ((ride))
 PST220	#fusha?
 PST220	francese inglese e italiano.
 PST121	sì
@@ -221,7 +221,7 @@ PST121	ah?
 PST220	è più difficile imparare francese o italiano.
 PST220	per te
 PST121	e::h
-PST121	no e {P} il francese::,
+PST121	no e (.) il francese::,
 PST121	per me:
 PST121	è è facile
 PST121	la pronuncia è facile
@@ -229,17 +229,17 @@ PST121	italiano un po' la pronuncia: è un po' difficile
 PST121	ci sono parole che sono difficile da:
 PST121	°pronunciare°
 PST219	°eh sì°
-PST220	noi con a:rabo °anche° {ride}
-PST121	{ride}
+PST220	noi con a:rabo °anche° ((ride))
+PST121	((ride))
 PST121	allora così mi:: capite bene
-PST219	sì sì {ride}
-PST219	ah forse il francese l'hai imparato:: {P} anche da piccola,
+PST219	sì sì ((ride))
+PST219	ah forse il francese l'hai imparato:: (.) anche da piccola,
 PST121	sì anche da piccola::
 PST219	(ah okay)
 PST220	e dove vivevi in marocco?
 PST121	e::h
 PST121	témara
-PST121	e::::h {P} vicino a rabat
+PST121	e::::h (.) vicino a rabat
 PST220	ah
 PST121	°rabat vuol dire°
 PST220	e[:::]
@@ -254,7 +254,7 @@ PST121	[è] capitale del marocco.
 PST220	[ah]
 PST220	rabat
 PST121	sì
-PST220	okay {P} invece tu dove vivevi tu?
+PST220	okay (.) invece tu dove vivevi tu?
 PST121	e:h
 PST121	così sono una città::,
 PST220	a::h
@@ -266,12 +266,12 @@ PST220	a:::h okay ok[ay]
 PST219	[un] quartiere.
 PST121	sì
 PST219	ah okay okay
-PST220	a:h $mizzigu {P} allora:,
+PST220	a:h $mizzigu (.) allora:,
 PST219	ah
-PST219	>vivevi< {P} nella capitale proprio,
+PST219	>vivevi< (.) nella capitale proprio,
 PST121	sì
 PST219	°ah°
-PST219	°quindi sì {P} bella grande°
+PST219	°quindi sì (.) bella grande°
 PST219	ti manca
 PST219	il ma[ro]cco
 PST121	[sì]
@@ -283,13 +283,13 @@ PST121	e:::h
 PST121	sono andata l'estate
 PST121	l'estate scorsa
 PST220	°aspetta eh°
-PST121	s~ sono finite {ride}
-PST220	no {ride}
+PST121	s~ sono finite ((ride))
+PST220	no ((ride))
 PST219	e:h
 PST219	invece sempre: riguardo all'italiano quanto:: quanto lo usi.
 PST219	in rapporto all'arabo cioè quan~
 PST219	quanto usi l'italiano e quanto usi l'arabo
-PST121	e::h {P} [l'italia]no lo uso a lavoro,
+PST121	e::h (.) [l'italia]no lo uso a lavoro,
 PST219	[°adesso°]
 PST121	io lo uso quando vado al supermercato::.
 PST121	quando::
@@ -298,13 +298,13 @@ PST121	quando faccio spe:sa quando:
 PST121	vado al bar
 PST121	e l'arabo lo uso a casa.
 PST220	>quindi< con:
-PST220	con tuo papà {P} che dicevi:
-PST121	sì {P} e miei fratelli
+PST220	con tuo papà (.) che dicevi:
+PST121	sì (.) e miei fratelli
 PST220	°okay°
 PST219	quanti fratelli hai
 PST121	ho
 PST121	ho quattro,
-PST121	no {P} ho tre fratelli e una sorella.
+PST121	no (.) ho tre fratelli e una sorella.
 PST219	ah,
 PST121	e mia sorella è in marocco
 PST219	è più grande o più piccola tua sor[ella].
@@ -313,7 +313,7 @@ PST220	e e tua mamma è::: ancora in marocco con [tua sorella].
 PST121	[sì è ancora] lì:
 PST220	okay
 PST220	tu quanti anni hai.
-PST220	se posso chie[derti] {ride}
+PST220	se posso chie[derti] ((ride))
 PST121	[ho:]
 PST121	e:: ho ventotto
 PST220	ah okay
@@ -339,32 +339,32 @@ PST121	cinque anni
 PST220	okay
 PST121	sì
 PST220	e prima,
-PST220	le scuole {P} sono più o meno come in ital~ >cioè<
-PST121	sì {P} prima come [sono come] in italia
+PST220	le scuole (.) sono più o meno come in ital~ >cioè<
+PST121	sì (.) prima come [sono come] in italia
 PST220	[da piccola],
 PST220	okay
 PST220	quindi hai studiato
 PST220	°tanto°
-PST121	abbastanza {ride}
-PST219	poi hai {P} anche lavorato,
+PST121	abbastanza ((ride))
+PST219	poi hai (.) anche lavorato,
 PST219	hai hai anche lavorato come infermiera
 PST121	sì ho lavorato due anni
-PST220	{ride}
+PST220	((ride))
 PST220	tutto bene
 PST220	e::h
-PST220	{ride} no perché {P} adesso poi
+PST220	((ride)) no perché (.) adesso poi
 PST220	vabbè ehm:::
 PST219	hai la[vorato:::]
 PST220	[sì hai lavorato come infermiera].
 PST121	[sì]
 PST220	in [marocco] okay
 PST219	ti piacerebbe:: riprendere anche qua,
-PST219	però dovresti studiare:: {P} ristudiare tutto giusto?
-PST121	°sì sì non ho voglia {P} ba[sta°]
+PST219	però dovresti studiare:: (.) ristudiare tutto giusto?
+PST121	°sì sì non ho voglia (.) ba[sta°]
 PST219	eh no hai ragione
-PST121	basta {ride}
+PST121	basta ((ride))
 PST220	ma neanche s~ c'è::: no non si può fare
-PST220	questa cosa {P} >cioè< non puoi essere infermiera qua.
+PST220	questa cosa (.) >cioè< non puoi essere infermiera qua.
 PST220	non ti riconoscono il titolo:::
 PST121	no
 PST219	che peccato
@@ -372,37 +372,37 @@ PST220	quindi adesso ti butti sulla pasticceria
 PST121	sì
 PST121	la pasticceria mi piace
 PST220	ti piace cucinare quindi.
-PST220	a proposito di cucina {ride}
+PST220	a proposito di cucina ((ride))
 PST121	mh=mh
-PST220	no {P} e:h a casa: fate::
+PST220	no (.) e:h a casa: fate::
 PST220	fate piatti::::
 PST220	del marocco? o piatti italiani
 PST121	facciamo misto
 PST121	ogni eh giorno: e:h si
 PST220	qual è il tuo piatto preferito:: del marocco e qual è il tuo piatto preferito dell'italia.
 PST121	e:h
-PST121	dell'italia {P} pizza
-PST220	sì {P} eh beh perché
-PST220	perché [giustam~] {ride}
+PST121	dell'italia (.) pizza
+PST220	sì (.) eh beh perché
+PST220	perché [giustam~] ((ride))
 PST121	[ovvio]
-PST220	ovvio {ride}
+PST220	ovvio ((ride))
 PST121	e:: in >marocco< ci sono ta:nti
 PST121	c'è: c'è #rfissa
-PST121	in marocco {P} quella che mi piace tanto
+PST121	in marocco (.) quella che mi piace tanto
 PST219	cos'è?
 PST220	°infatti cos'è°
 PST121	eh si fa con::::
-PST121	°come:: {P} come posso° spiegare
+PST121	°come:: (.) come posso° spiegare
 PST121	si fa come impasto,
 PST121	°ti faccio [vede]re la foto°
 PST219	[vai]
 PST121	che è difficile da spiegare
 PST220	°oggi xx xxx°
-PST220	°bellissimo° {ride}
+PST220	°bellissimo° ((ride))
 PST121	è questa
 PST219	che bell'aspetto
 PST219	cos'è ti[po::] pollo]?
-PST220	ah ma [aspetta {P} eh infatti]
+PST220	ah ma [aspetta (.) eh infatti]
 PST219	o tacchino?
 PST121	no pollo
 PST219	è pollo
@@ -413,14 +413,14 @@ PST219	°bello°
 PST121	questo è lenticchie
 PST121	e:::hm
 PST121	e sotto c'è un::
-PST121	un impasto {P} che::
+PST121	un impasto (.) che::
 PST121	>come posso spiegare<
 PST121	che troppo fino
 PST121	si chiama #msamen
 PST121	e:: si taglia e poi::
 PST219	sembra buono ma,
-PST219	>cioè< tu lo fai a casa {P} anche questo,
-PST121	no tanto perché non sono brava a farlo {ride}
+PST219	>cioè< tu lo fai a casa (.) anche questo,
+PST121	no tanto perché non sono brava a farlo ((ride))
 PST219	immagino sia anche difficile
 PST121	sì sì è difficile
 PST121	i piatti marocchini sono difficili non sono come: i pia~
@@ -437,16 +437,16 @@ PST220	(#rfissa).
 PST121	sì sì
 PST220	e prima ho detto a che
 PST220	dovevo chiederti come tu fai il cous cous
-PST220	perché {P} ho chiesto {P} a un po' di persone
+PST220	perché (.) ho chiesto (.) a un po' di persone
 PST220	e tutti mi dicono una cosa diversa,
-PST220	e quindi {ride}
-PST220	volevo chiedere anche a te come fai il cous cous {ride}
+PST220	e quindi ((ride))
+PST220	volevo chiedere anche a te come fai il cous cous ((ride))
 PST121	io non sono brava a farlo
 PST220	se lo fai se ti piace
 PST121	non >sono< brava a farlo ma
 PST121	come si fa,
 PST121	come si fa
-PST121	{ride}
+PST121	((ride))
 PST220	no non lo so okay >cioè< se non lo fai::, [però ho detto boh] magari lei
 PST121	[°allora°]
 PST121	in una pentola,
@@ -458,20 +458,20 @@ PST121	e:: l~ la cipolla
 PST121	pomodoro
 PST121	sono tagliati
 PST121	e::::hm
-PST121	#e:::l::
+PST121	#*e:::l::
 PST121	prezzemolo
-PST121	però non taglialo {P} tu lasci::: e::h
-PST121	tu lasci così un una di {P} $prinzemolo
+PST121	però non taglialo (.) tu lasci::: e::h
+PST121	tu lasci così un una di (.) $prinzemolo
 PST121	la chiudi e la metti dentro non tagliato
 PST121	perché dopo la toglie
 PST121	e:::hm
 PST121	e basta quando il carne:::
 PST121	è cotto o mezza cottura,
 PST121	si mettono le altre verdure
-PST121	prima si mette #el:::
+PST121	prima si mette #*el:::
 PST121	le carote
 PST121	poi:: e::h
-PST121	puoi mettere {P} ogni verdura vuoi
+PST121	puoi mettere (.) ogni verdura vuoi
 PST121	poi le altre verdure
 PST121	che vuoi mettere
 PST121	la zucca anche,
@@ -480,14 +480,14 @@ PST121	e:h
 PST121	e basta
 PST121	e poi tu puoi fare cous cous da solo,
 PST220	ecco è il cous cous da solo che mi: frega
-PST121	{ride}
-PST220	{ride}
-PST220	che {P} che che sbaglio {ride}
+PST121	((ride))
+PST220	((ride))
+PST220	che (.) che che sbaglio ((ride))
 PST220	il cous cous da s[olo]
-PST121	[#el kuskus] {P} anche io non sono brava [a farlo eh]
-PST220	[ecco] {ride}
-PST121	allora {P} stai tranquilla {ride}
-PST121	[se non {P} se non] riesci
+PST121	[#*el kuskus] (.) anche io non sono brava [a farlo eh]
+PST220	[ecco] ((ride))
+PST121	allora (.) stai tranquilla ((ride))
+PST121	[se non (.) se non] riesci
 PST220	[°okay bene°]
 PST121	tu prendi il cous cous ci sono tanti tipi c'è quello che è già pronto
 PST121	che c~
@@ -501,16 +501,16 @@ PST121	di::
 PST121	no prima di::
 PST121	che devi farlo di::
 PST121	ch[e non è pronto]
-PST220	[per dire {P} eh]
+PST220	[per dire (.) eh]
 PST220	più tempo ci vuole più [tempo]
 PST121	[sì]
 PST121	°un po' difficile°
-PST220	piano piano imparerò {ride}
+PST220	piano piano imparerò ((ride))
 PST219	e chi è che:: chi è quello bravo a cucinare a casa,
 PST121	eh:: mia madre
 PST121	e::h qua e::h
-PST121	sono io però non sono bra[va] {ride}
-PST219	[ok]ay {ride}
+PST121	sono io però non sono bra[va] ((ride))
+PST219	[ok]ay ((ride))
 PST219	però fai dolci buoni.
 PST219	>cioè< fai tanti [dolci]
 PST121	ehm
@@ -526,10 +526,10 @@ PST121	sì
 PST220	e:h qua a torino:: °a settimo°
 PST220	ma l'hai già trovato e:::
 PST121	no no [no ancora]
-PST220	[stai {P} ah okay]
+PST220	[stai (.) ah okay]
 PST220	°adesso che c'è silenzio°
 PST220	(poi) tornando alla lingua
-PST220	ma {P} quando:::
+PST220	ma (.) quando:::
 PST220	tu ti capita di:: mischiare italiano:: e arabo o arabo:
 PST220	#dārija e
 PST220	non lo so
@@ -543,7 +543,7 @@ PST121	allora:
 PST121	con l'italiano e l'arabo,
 PST121	mh:
 PST121	no
-PST121	°m:h {P} no°
+PST121	°m:h (.) no°
 PST219	forse sono così diverse che
 PST219	è un po' difficile mischiarle
 PST121	sì:
@@ -551,7 +551,7 @@ PST220	eh
 PST121	ma ci sono persone che fanno mischiare:
 PST121	il darija con: l'italiano
 PST121	però a me:
-PST121	fino adesso non ancora {ride}
+PST121	fino adesso non ancora ((ride))
 PST121	lascio l'arabo da solo e italiano da solo
 PST121	lascio in pace
 PST220	anche coi tuoi amici o con le tue amiche:
@@ -571,7 +571,7 @@ PST219	e c'è un egiziano
 PST121	ah sì=sì c'è un egiziano
 PST220	[a:::::::h]
 PST121	[no: >me l'ero< dimenticata]
-PST220	ahiahiahi:: {ride}
+PST220	ahiahiahi:: ((ride))
 PST220	cosa f~ cosa fa l'egiziano,
 PST219	e::h il pizzaiolo
 PST220	ah il pizzaiolo okay
@@ -581,12 +581,12 @@ PST121	sì è un pizzaiolo bravo
 PST220	bra[vo]
 PST219	>[bravo]<
 PST121	sì
-PST219	lui: {P} ci ha fatto vedere: la foto:
+PST219	lui: (.) ci ha fatto vedere: la foto:
 PST219	lo sfondo del telefono che ha messo le piramidi d'egitto
 PST220	a::h
-PST219	attenzione {ride}
+PST219	attenzione ((ride))
 PST121	egiziano vero
-PST220	egiziano vero {ride}
+PST220	egiziano vero ((ride))
 PST220	ma quindi non conosci neanche tanto bene: la comunità marocchina: che c'è qui::
 PST121	no no qua puoi dire che
 PST121	°nessuno°
@@ -597,7 +597,7 @@ PST220	che era: due settimane fa no?
 PST121	con i miei [fratelli]
 PST220	[no la scor]sa settimana
 PST121	però eh qua non è come in marocco e::h
-PST121	possiamo dire che abbiamo (fest)eggiato però {ride}
+PST121	possiamo dire che abbiamo (fest)eggiato però ((ride))
 PST121	è solo una parola
 PST220	perché in marocco com'è,
 PST121	sì è diverso
@@ -625,25 +625,25 @@ PST121	°cosa ho fatto anche°
 PST121	ho fatto il #baghrīr
 PST121	una cosa:: marocchina
 PST121	però sono tutti fatti di impasti
-PST220	°ah okay {P} sempre::°
+PST220	°ah okay (.) sempre::°
 PST219	e invece di piatti italiani tipo::
 PST219	cucini la pasta:
 PST121	sì cucino la pasta
 PST220	la pizza la fai anche,
 PST121	e: non sono brava: a fare la pizza:
 PST220	e ma perché secondo me,
-PST220	pensi che la pizza è quella {ride}
-PST220	{ride} >cioè<
+PST220	pensi che la pizza è quella ((ride))
+PST220	((ride)) >cioè<
 PST220	è impar~ paragonata: alla pizza:
 PST220	della vostra pizzeria,
 PST219	ma in realtà neanche io la so [fare la pizza]
-PST220	[mi sa nessuno] è capace a fare la pizza {ride}
+PST220	[mi sa nessuno] è capace a fare la pizza ((ride))
 PST220	la vera pizza
 PST220	qual è la vera pizza
 PST220	io non lo so
 PST219	vai a na:poli
 PST219	°(che) loro ce l'hanno°
-PST220	dicono che hanno la pizza vera a napoli {ride}
+PST220	dicono che hanno la pizza vera a napoli ((ride))
 PST220	e in che città:: italiane:: hai visitato.
 PST121	ho visitato:
 PST121	tolto latina:?
@@ -671,7 +671,7 @@ PST121	sì firenze
 PST219	poi: venezia
 PST121	venezia anche
 PST219	io non ci sono mai stata
-PST219	però {P} mi piacerebbe
+PST219	però (.) mi piacerebbe
 PST121	anche io l'ho vista solo nei:: foto:: e
 PST219	anch'io
 PST220	e io son stata una volta e mi è piaciuto tanto tanto
@@ -687,15 +687,15 @@ PST219	anche quella bellissima
 PST121	ci sono tante città:
 PST121	belli: e: italiane
 PST219	°sì sì sì sì°
-PST220	e tu scendi spesso adesso lo~ che sei in italia. scendi spesso a latina {P} o:::
+PST220	e tu scendi spesso adesso lo~ che sei in italia. scendi spesso a latina (.) o:::
 PST121	no
 PST220	°quasi mai°
 PST121	no quando sono arrivata qua non ho mai:
 PST220	ah non sei and~ okay
 PST121	°sono mai andata lì°
 PST220	ma abiti,
-PST220	no settimo {P} io non è che lo conosco bene ma abiti vicino a lavoro,
-PST220	cioè riesci: {P} tranquillamente [andare a lavoro].
+PST220	no settimo (.) io non è che lo conosco bene ma abiti vicino a lavoro,
+PST220	cioè riesci: (.) tranquillamente [andare a lavoro].
 PST121	[quasi: sì sì]
 PST121	quasi:: e::h
 PST121	quasi venticinque minuti a piedi,
@@ -714,7 +714,7 @@ PST220	se arrivano
 PST219	se passano
 PST220	ma scusa ma per curiosità
 PST220	gli esami
-PST220	del: o o è {P} sì boh
+PST220	del: o o è (.) sì boh
 PST220	gli esami::: dell'università: che hai detto prima::
 PST220	scientifica
 PST121	m:[h],
@@ -724,7 +724,7 @@ PST220	in
 PST121	no in francese
 PST220	ah sono in [°france~°]
 PST121	[sì:]
-PST220	quindi tu hai studiato fran~ {P} IN francese.
+PST220	quindi tu hai studiato fran~ (.) IN francese.
 PST121	sì sì in francese
 PST220	e quando hai studiato
 PST121	l'abbiamo studiato al::
@@ -743,9 +743,9 @@ PST121	giusta la parola economia?
 PST220	economia sì
 PST121	economia sempre in francese
 PST121	e::h la <letteratura>,
-PST121	c'è {P} il francese e c'è l'arabo
+PST121	c'è (.) il francese e c'è l'arabo
 PST220	ah
-PST121	e così va {P} [vanno le cose]
+PST121	e così va (.) [vanno le cose]
 PST220	[°incredibile° quindi ci s]ono delle
 PST220	uni~ università SOLO in francese
 PST220	[e non] in arabo.
@@ -758,7 +758,7 @@ PST121	sì sì
 PST220	sei cont~ >cioè< ti
 PST220	ti piace o vorresti: solo arabo.
 PST220	°oppure°
-PST220	°chi se ne frega° {ride}
+PST220	°chi se ne frega° ((ride))
 PST121	per me questa cosa è una cosa strana
 PST220	ah:
 PST121	per essere:
@@ -770,8 +770,8 @@ PST219	[sì]
 PST121	da noi no
 PST121	da noi:: la cosa è un po'::
 PST121	forse è colpa del::
-PST121	della: {P} come si chiama,
-PST121	perché il francese c'era un {P} un tempo c'era in marocco
+PST121	della: (.) come si chiama,
+PST121	perché il francese c'era un (.) un tempo c'era in marocco
 PST121	lo sai?
 PST220	il colonialismo
 PST121	la coloni::~
@@ -782,7 +782,7 @@ PST219	co~
 PST220	colonialismo?
 PST121	[°ah okay°]
 PST220	[e: coloni]zzazione
-PST121	sì è quella {P} quella parola che è un po' difficile {ride}
+PST121	sì è quella (.) quella parola che è un po' difficile ((ride))
 PST220	eh sì
 PST220	eh sì mannaggia è rimasta ancora tanto
 PST121	eh sì
@@ -790,7 +790,7 @@ PST121	eh perché c'è un:
 PST121	volevano così
 PST220	>però< mi dicevi il francese
 PST220	non lo senti::
-PST220	lo senti {P} una lingua distante:,
+PST220	lo senti (.) una lingua distante:,
 PST220	o no:.
 PST121	e:h non ho capito bene
 PST220	cioè lo senti una lingua tanto::
@@ -817,10 +817,10 @@ PST220	mh mh
 PST121	°non è come:: francese°
 PST219	è vero
 PST220	talmente usiamo inglese
-PST220	che io anche adesso {P} °basta ingle~°
+PST220	che io anche adesso (.) °basta ingle~°
 PST220	basta:::
-PST220	vabbè però {P} è vero
-PST220	eh {P} si può usare per tante cose
+PST220	vabbè però (.) è vero
+PST220	eh (.) si può usare per tante cose
 PST219	sì:
 PST220	e l'inglese l'hai imparato da sola,
 PST121	no l'abbiamo imparato a scuola
@@ -835,7 +835,7 @@ PST121	[quattro] anni però
 PST121	due tre ore a settimana
 PST220	okay
 PST220	come:
-PST219	boh sì un po' sì un po' come: {P} da noi
+PST219	boh sì un po' sì un po' come: (.) da noi
 PST219	poi dipende
 PST219	e invece::
 PST219	>cioè< ti capita di viaggare,
@@ -866,28 +866,28 @@ PST220	ti piace andare in montagna, ti [piace:]
 PST121	[sì:]
 PST220	camm[inare in montagna]
 PST121	[la natura]
-PST121	sì {ride}
+PST121	sì ((ride))
 PST220	ah sì:?
 PST220	grande anche a me tantissimo
 PST121	°anch'io°
 PST220	qua a torino poi ce ne sono:
 PST220	ogni tanto cammini::
-PST220	qua: {P} qua intorno
+PST220	qua: (.) qua intorno
 PST121	e:::h
 PST121	qua a torino no
 PST220	che col treno da torino:
-PST220	ci sono:: è facile arrivare in paesini:: {P} che poi: si~ ci son delle camminate::
+PST220	ci sono:: è facile arrivare in paesini:: (.) che poi: si~ ci son delle camminate::
 PST121	ah non sono mai an[data]
 PST220	[verso] verso la francia appunto verso tipo oulx e:h bardonecchia °verso di là:° ci sono un po' di camminate
-PST121	ah non sono mai andata {P} non sapevo
+PST121	ah non sono mai andata (.) non sapevo
 PST220	°va be° se vorrai andarci son~ ci sono delle belle monta[gne]
 PST121	[ah] okay,
 PST220	sì sì
 PST219	ah invece l'altro giorno ho scoperto che::: in val d'aosta però
 PST219	c'è un paese
-PST219	che::: ci arrivi solo in funivia, sai {P} eh: quelle:: non so se le hai mai viste
-PST219	ci son tipo~ {P} come la descrivi no~ sai cos'è una funivia,
-PST219	[tipo quella per] salire in montagna quando vai a sciare {P} non so se sei mai andata
+PST219	che::: ci arrivi solo in funivia, sai (.) eh: quelle:: non so se le hai mai viste
+PST219	ci son tipo~ (.) come la descrivi no~ sai cos'è una funivia,
+PST219	[tipo quella per] salire in montagna quando vai a sciare (.) non so se sei mai andata
 PST220	[eh::]
 PST121	mh:::
 PST220	sono:: dell~ mh:::
@@ -898,7 +898,7 @@ PST220	[per sali]re:: per salire su
 PST121	ci arrivano a aosta?
 PST219	eh:: no~ eh eh::: non so bene dove sia. è~ è in val d'aosta::
 PST121	ah.
-PST219	eh c'è un paesino in cui arrivi solo in funivia {P} e lì non girano macchine
+PST219	eh c'è un paesino in cui arrivi solo in funivia (.) e lì non girano macchine
 PST121	[ah okay]
 PST219	[neanche pullman] cioè non: non ci sono mezzi
 PST121	ah:::
@@ -908,11 +908,11 @@ PST219	una bella cosa
 PST121	sì
 PST219	bella bella
 PST121	sì
-PST220	eh {P} in città manca un po' la natura
+PST220	eh (.) in città manca un po' la natura
 PST219	non mi piace la città
 PST220	però la natura qua è diversa dalla natura:: in ma[rocco]
 PST121	[sì la] natura qua è bellissima c'è un natura:::
-PST121	c'è {P} il verde il bosco e
+PST121	c'è (.) il verde il bosco e
 PST220	m::h
 PST121	sì
 PST220	e in marocco invece che tipo di natur[a:::]
@@ -921,23 +921,23 @@ PST121	qua è:::
 PST121	eh qua la campagna:: la campagna in italia è b~ è bellissima
 PST220	mh
 PST121	è più bella del marocco
-PST220	hai girato~ oh santa madre {P} no no no no porca la vacca
+PST220	hai girato~ oh santa madre (.) no no no no porca la vacca
 PST121	carino
-PST220	{ride} trascriviamo {ride}
-PST219	{ride}
+PST220	((ride)) trascriviamo ((ride))
+PST219	((ride))
 PST220	no eh vabbè i cani proprio no (amici)
 PST220	c'ho un po' un problema coi cani non mi piacciono ta::nto
 PST219	poi si vedono anche: le montagne
 PST121	eh?
 PST219	si vedono anche le montagne [quando fa bello]
 PST121	[sì:::]
-PST220	sì torino {P} bella per quello
-PST220	a genova sei mai stata al mare:: in~ {P} al mare in [italia],
+PST220	sì torino (.) bella per quello
+PST220	a genova sei mai stata al mare:: in~ (.) al mare in [italia],
 PST121	[no:]
 PST220	no?
 PST121	°mai°
 PST220	però al mare in marocco sì.
-PST121	sì in ma~ al mare in marocco sì {P} anche in latina sì ho~ [sono {P}] sono andata al mare (a) latina
+PST121	sì in ma~ al mare in marocco sì (.) anche in latina sì ho~ [sono (.)] sono andata al mare (a) latina
 PST220	[ah okay]
 PST220	bello il mare di latina,
 PST121	sì
@@ -945,7 +945,7 @@ PST220	sì::?
 PST121	sì: bello.
 PST121	ma non è di latina lì: eh:::
 PST220	eh no eh inf~ [mh]
-PST121	[le] città che sono vicino a: {P} sto parlando del~ la [zona]
+PST121	[le] città che sono vicino a: (.) sto parlando del~ la [zona]
 PST220	[la zona] brava sì no è che infatti
 PST220	come si chiama tra l'altro c'è~ è famoso il p~
 PST219	non lo so:
@@ -956,10 +956,10 @@ PST220	vabbè non mi viene
 PST219	non lo so,
 PST220	°aspetta eh adesso vediamo°
 PST220	mh vai vai
-PST220	vai pure io {P} cerco per[ché]
+PST220	vai pure io (.) cerco per[ché]
 PST219	mh
 PST219	e::h non so perché in quella zona non sono mai sta[ta]
-PST220	[o]stia ecco non mi veniva {P} ostia
+PST220	[o]stia ecco non mi veniva (.) ostia
 PST219	ostia lido.
 PST219	[ostia hanno fatto pure una canzone]
 PST220	[ostia li:do infatti] eh infatti
@@ -970,31 +970,31 @@ PST220	che mu~ che musica ascolti,
 PST220	di italiana che [conosci]
 PST121	[eh::::::]
 PST121	però eh::
-PST121	no~ non eh {P} non mi ricordo bene il eh {P} i nome
+PST121	no~ non eh (.) non mi ricordo bene il eh (.) i nome
 PST121	però ci sono ci sono belle canzone
 PST121	io non le ascolto tanto ecco perché non mi ricordo bene
-PST220	e se dovessi: consigliarci invece un cantante:: del marocco {P} che ti piace,
+PST220	e se dovessi: consigliarci invece un cantante:: del marocco (.) che ti piace,
 PST121	mh::::::::::
 PST220	noi lo ascoltiamo
 PST121	quale tipo eh::
 PST121	perché ci sono tanti
-PST220	boh quello che piace a te {P} quello che~ il tuo aritista preferito
-PST121	eh::: {P} la mia artist~ la mia artista preferita non te la posso consigliare
-PST220	perch[é? {ride)]
-PST121	[allora] {ride}
-PST219	perché? {ride}
-PST220	perché? {ride}
-PST121	{ride} eh non lo so (eh io non so niente io non sono) allora {P} ti consiglio un altro
-PST220	ma come? {ride}
-PST220	cosa c'ha quest'artista {ride}
-PST121	non è un artista che: {P} che te lo posso consigliare hai capito,
-PST121	non {P} è bravo però per me:: però non non te lo posso consigliare perché non è bravo {ride}
+PST220	boh quello che piace a te (.) quello che~ il tuo aritista preferito
+PST121	eh::: (.) la mia artist~ la mia artista preferita non te la posso consigliare
+PST220	perch[é? ((ride)]
+PST121	[allora] ((ride))
+PST219	perché? ((ride))
+PST220	perché? ((ride))
+PST121	((ride)) eh non lo so (eh io non so niente io non sono) allora (.) ti consiglio un altro
+PST220	ma come? ((ride))
+PST220	cosa c'ha quest'artista ((ride))
+PST121	non è un artista che: (.) che te lo posso consigliare hai capito,
+PST121	non (.) è bravo però per me:: però non non te lo posso consigliare perché non è bravo ((ride))
 PST219	perché non di solito non piace?
 PST121	no perché ha (uno) storia non è e:h non è e:h
 PST121	non è buona hai capito
 PST219	ah::.
 PST121	allor~ non ti l~
-PST121	hai [canzoni belli] però è la sua storia non è bella {P} °perché°
+PST121	hai [canzoni belli] però è la sua storia non è bella (.) °perché°
 PST220	[è un po'::]
 PST220	ma perché è difficile o perché è bru~ un po'::
 PST121	eh:::
@@ -1002,13 +1002,13 @@ PST121	è uno che::
 PST121	chi fuma e che:: [eh] marijuana che usa::
 PST220	[ah:::]
 PST220	okay
-PST121	mh mh allora {P} dice [parole che non {P}] te lo posso [consigliare] {ride}
+PST121	mh mh allora (.) dice [parole che non (.)] te lo posso [consigliare] ((ride))
 PST220	[vabbè ma io lo ascol~]
-PST220	[vabbè non as~ tanto eh::] probabilmente non le capiamo °quindi° {ride}
-PST121	ti consiglio altro {P} c'è e::hm c'è (saad lamjarred)
+PST220	[vabbè non as~ tanto eh::] probabilmente non le capiamo °quindi° ((ride))
+PST121	ti consiglio altro (.) c'è e::hm c'è (saad lamjarred)
 PST121	saad lamjarred
 PST220	ecco allora calma perché me lo scrivo °che ho scritto delle°
-PST121	okay {P} {ride} l'altro no
+PST121	okay (.) ((ride)) l'altro no
 PST219	come si chiama?
 PST121	che?
 PST219	non ho capito il nome
@@ -1023,7 +1023,7 @@ PST220	ascolti podcast anche?
 PST220	ogni tanto no,
 PST121	mh?
 PST220	ascolti podcast tipo:::
-PST121	eh:: {P} sì ogni tanto
+PST121	eh:: (.) sì ogni tanto
 PST220	perché a un corso ci avevano consigliato un podcast ehm
 PST219	ah sì,
 PST220	cioè consigliato.
@@ -1037,11 +1037,11 @@ PST220	magi ma~ ma~ magi #rojola ma~ ma~ [eh: #machi #machi #rojola]
 PST219	[ma~ eh:: rojola]
 PST220	°forse°
 PST219	in pratica un ragazzo che
-PST219	eh::m intervistava persone {P} ed era in pratica il suo obiettivo era quello di:: [parlare di]
+PST219	eh::m intervistava persone (.) ed era in pratica il suo obiettivo era quello di:: [parlare di]
 PST220	[#yes questo qua]
 PST121	eh fammi vedere la [foto] forse
 PST220	[eh sì sì]
-PST219	di: un altro modo di essere uomo cioè non non eh {P} non il solito:::
+PST219	di: un altro modo di essere uomo cioè non non eh (.) non il solito:::
 PST121	eh machi rojola
 PST220	mh mh
 PST219	forte
@@ -1051,30 +1051,30 @@ PST121	questo è femminism~
 PST220	mh mh
 PST220	ha fatto tutta una parte su::::
 PST220	essere: uomo: arabo: cosa significa il marocco così, e poi adesso tutta una parte su::
-PST121	[non non ho mai guardato] i suoi podcast però il suo nome (io ho) già: ho già {P} sa~ eh ho [già sentito] persone che stanno parlando di queste:: {P} di questa: persona
+PST121	[non non ho mai guardato] i suoi podcast però il suo nome (io ho) già: ho già (.) sa~ eh ho [già sentito] persone che stanno parlando di queste:: (.) di questa: persona
 PST220	[sulle donne invece]
 PST220	[già sentito]
 PST220	mh,
 PST220	questo è interessante
 PST219	è che ne avevamo parlato perché::
-PST219	tipo racconta {P} non {P} non il solito modo di essere uomo cioè però racconta
+PST219	tipo racconta (.) non (.) non il solito modo di essere uomo cioè però racconta
 PST219	anche altri lati della:: maschilità
 PST219	giusto?
-PST220	mh=mh {P} sì
+PST220	mh=mh (.) sì
 PST219	cioè tipo che un uomo può anche essere fragile non deve essere sempre quello forte::
 PST121	ho capito
 PST219	ad esempio.
 PST220	sì tutti i contrasti con eh:: la religone [anche:]
 PST121	[mh=mh]
 PST220	sì vabbè
-PST220	interessante {P} solo che fa anche~ fa un po' francese un po' arabo anche lui
+PST220	interessante (.) solo che fa anche~ fa un po' francese un po' arabo anche lui
 PST219	sì mi sa di sì
-PST220	vabbè la tv, tipo? {P} com'~ è in francese o:::
+PST220	vabbè la tv, tipo? (.) com'~ è in francese o:::
 PST121	no in arabo
 PST220	in arabo [okay]
 PST121	[sì]
 PST219	marocchino?
-PST121	in arabo però c'è #el eh::m
+PST121	in arabo però c'è #*el eh::m
 PST121	come si chiama
 PST121	news
 PST220	°mh, [le:: notizie]°
@@ -1091,105 +1091,105 @@ PST220	tu i social come li usi in che lingua li usi,
 PST220	cioè tipo il telefono ce l'hai impostato in italiano [o],
 PST121	[il telefono] ce l'ho in francese
 PST220	in francese
-PST121	no non sono ancora {ride} non sono ancora arrivata al livello di {P} cambiare il
+PST121	no non sono ancora ((ride)) non sono ancora arrivata al livello di (.) cambiare il
 PST220	[e in maroc~]
 PST121	[la lin]gua in italiano. non ancora.
-PST220	in marocco però ce l'avevi in arabo, {P} o ce l'avevi se~ ce l'hai sempre in fran[cese]
+PST220	in marocco però ce l'avevi in arabo, (.) o ce l'avevi se~ ce l'hai sempre in fran[cese]
 PST121	no ce l'ho sempre in francese
 PST220	°sempre in francese°
 PST220	sto francese domina::
-PST220	io studio francese un po' ma cioè un po' in toeria {P} {ride} in teoria davvero [studio fran~]
+PST220	io studio francese un po' ma cioè un po' in toeria (.) ((ride)) in teoria davvero [studio fran~]
 PST121	[la trovi difficile]?
 PST220	ma:: la trovo un po'::
 PST220	un po':: una lingua::
 PST121	[pesante]?
 PST220	[un po' sfor]tuna~ eh?
 PST121	pesante?
-PST220	un po' sfortunata {P} come lingua {ride}
+PST220	un po' sfortunata (.) come lingua ((ride))
 PST219	all'università sì
-PST220	all'univers~ cioè alle scuole perché ho studiato francese {P} anche alle superiori {P} [cioè il lice]o,
+PST220	all'univers~ cioè alle scuole perché ho studiato francese (.) anche alle superiori (.) [cioè il lice]o,
 PST121	[ah ah]
-PST220	ho studiato:: quanti an~ qui~ in teoria, {P} cinque anni {P} in pratica, {P} un anno.
+PST220	ho studiato:: quanti an~ qui~ in teoria, (.) cinque anni (.) in pratica, (.) un anno.
 PST121	mh mh
-PST220	perché ho cambiato professore {P} insegnante {P} s[empre]
+PST220	perché ho cambiato professore (.) insegnante (.) s[empre]
 PST121	[mh].
 PST220	eh::m
-PST220	e solo uno insegnante era [buona {P} tutti gli altri pro]prio::
+PST220	e solo uno insegnante era [buona (.) tutti gli altri pro]prio::
 PST121	[ah ho capito]
-PST220	cioè {P} addormentati completamente
+PST220	cioè (.) addormentati completamente
 PST121	ah ho capito
 PST220	e all'università:::
-PST220	boh non lo so è un po' difficile studiare le lingue all'università in realtà secondo me {P} cioè uno deve un po' più::: {battito_ritmico_con_le_mani}
+PST220	boh non lo so è un po' difficile studiare le lingue all'università in realtà secondo me (.) cioè uno deve un po' più::: ((battito_ritmico_con_le_mani))
 PST219	poi se hai gli orari che non te li fanno seguire i [corsi]
 PST220	[sì infatti],
-PST220	va bene: {ride}
-PST220	ma il corso di pasticceria che stavi {P} cioè hai già guardato qualcosa o è tipo un sogno che adesso::
+PST220	va bene: ((ride))
+PST220	ma il corso di pasticceria che stavi (.) cioè hai già guardato qualcosa o è tipo un sogno che adesso::
 PST121	no no ho già guard[ato]
 PST220	°[hai guardato] okay° [e quanto du]rano più o meno secondo (te)
 PST121	[sì]
 PST121	eh:::m
-PST121	ci sono quelle che durano {P} sei mese ci sono (anche) quelle che durano di più,
-PST220	quindi comunque {P} faresti abbastanza:: {P} in fretta
+PST121	ci sono quelle che durano (.) sei mese ci sono (anche) quelle che durano di più,
+PST220	quindi comunque (.) faresti abbastanza:: (.) in fretta
 PST121	sì:
 PST220	così poi puoi lavorare
 PST219	vabbè
 PST219	ma::: se dovessi dire no.
-PST219	qui in italia [{P}] usi di più {P} il:: l'arabo o l'italiano. {P} oppure: è uguale:::
+PST219	qui in italia [(.)] usi di più (.) il:: l'arabo o l'italiano. (.) oppure: è uguale:::
 PST121	[mh mh]
-PST121	in italia {P} l'arabo lo uso a casa.
-PST121	l'italiano lo uso: {P} al lavoro,
-PST121	e lo uso quando: {P} esco al ba:r supermercato a fare spesa
+PST121	in italia (.) l'arabo lo uso a casa.
+PST121	l'italiano lo uso: (.) al lavoro,
+PST121	e lo uso quando: (.) esco al ba:r supermercato a fare spesa
 PST121	e:: allora::
-PST219	quindi:: {P} forse un po' usi un po' più l'arabo {P} forse?
+PST219	quindi:: (.) forse un po' usi un po' più l'arabo (.) forse?
 PST121	a casa a casa uso l'arabo
 PST121	e fuori casa italiano
 PST220	mh
-PST219	quindi:: {P} cioè [non non c'è un]
+PST219	quindi:: (.) cioè [non non c'è un]
 PST121	[puoi dire mezzo] mezzo
 PST220	mh °mezzo°
 PST121	sì
-PST220	e all'inizio {P} hai:::
-PST220	hai odiato l'italiano {ride} [perché non lo so l'hai trovato difficile] {P} s::ta lingua del
-PST121	no no l'ho trovato difficile però [non l'ha odiato {P} è una bella lingua]
-PST220	[ah {P} okay]
-PST121	eh::m {P} è difficile.
+PST220	e all'inizio (.) hai:::
+PST220	hai odiato l'italiano ((ride)) [perché non lo so l'hai trovato difficile] (.) s::ta lingua del
+PST121	no no l'ho trovato difficile però [non l'ha odiato (.) è una bella lingua]
+PST220	[ah (.) okay]
+PST121	eh::m (.) è difficile.
 PST121	è difficile la pronuncia
 PST219	la pronuncia
-PST121	la pronunc~ la pronuncia è veramente difficile {P} ci sono parole che io dico sb~
-PST121	dico:: {P} {ride} sbagliati e
-PST121	e però l'importante è che la gente mi capiscono {ride} non importa se la {P} se li dico sbagliati
+PST121	la pronunc~ la pronuncia è veramente difficile (.) ci sono parole che io dico sb~
+PST121	dico:: (.) ((ride)) sbagliati e
+PST121	e però l'importante è che la gente mi capiscono ((ride)) non importa se la (.) se li dico sbagliati
 PST220	[sì infatti]
-PST220	no infatti °poi tra l'altro
+PST220	no infatti °poi tra l'altro*
 PST219	sì sì tanto
 PST219	le imparerai anche quelle
-PST121	sì {ride} [[piano pia]no eh
+PST121	sì ((ride)) [[piano pia]no eh
 PST220	[tanto]
 PST219	esatto
-PST220	e come hai detto tu ci sono mille pronunce anche {P} in giro per l'ita[lia quindi]
+PST220	e come hai detto tu ci sono mille pronunce anche (.) in giro per l'ita[lia quindi]
 PST219	[esatto]
-PST121	mh:: sì {ride}
-PST220	e hai fatto diffco~ hai fatto più difficoltà {P} a
-PST220	eh:: {P} capire gli altri,
-PST220	o:: cioè capi~ {P} o farti capire tu.
-PST121	eh {P} ho fatto diffi~ faccio difficoltà a capirmi io ai {P} io a:: spiegare alle altre
+PST121	mh:: sì ((ride))
+PST220	e hai fatto diffco~ hai fatto più difficoltà (.) a
+PST220	eh:: (.) capire gli altri,
+PST220	o:: cioè capi~ (.) o farti capire tu.
+PST121	eh (.) ho fatto diffi~ faccio difficoltà a capirmi io ai (.) io a:: spiegare alle altre
 PST121	riesco a capire gli altri però per spiegare io parlare io: mi trovo diffi~ difficoltà
 PST219	eh sì
 PST220	quindi ti sei abituata abbastanza:: in fretta agli altri che parlavano italiano
-PST121	sì {P} puoi dire che sono mi sono abituata a ascoltare più di parlare
+PST121	sì (.) puoi dire che sono mi sono abituata a ascoltare più di parlare
 PST220	mh,
-PST220	beh che comunque {P} cioè complimenti voglio [dire]
+PST220	beh che comunque (.) cioè complimenti voglio [dire]
 PST219	[esatto]
 PST220	cioè un anno e mezzo:
-PST220	capire uno dove: {P} cioè
+PST220	capire uno dove: (.) cioè
 PST219	penso sia abbastanza normale in realtà
 PST220	mh=mh
-PST219	perché comunque anche parlare: {P} in un'altra lingua non è facile
+PST219	perché comunque anche parlare: (.) in un'altra lingua non è facile
 PST121	sì:: non è facile
 PST219	mh
-PST220	e a lavoro anche all'inizio:: {P} hai fatto un po' fatica::: o ti sei sentita tranquilla comunque
+PST220	e a lavoro anche all'inizio:: (.) hai fatto un po' fatica::: o ti sei sentita tranquilla comunque
 PST121	eh:::,
 PST121	quando sono entrata a lavorare ero
-PST121	il (la) mia italiano era veramente: {P} troppo basso.
+PST121	il (la) mia italiano era veramente: (.) troppo basso.
 PST220	mh
 PST121	adesso è: migliorato
 PST220	ti hanno un po' aiuta~ cioè ti son venuti un po' incontro[:::]
@@ -1198,7 +1198,7 @@ PST220	okay
 PST121	mi hanno aiutato tanto
 PST220	okay
 PST219	anche stare lì ti ha aiutato a imparare::
-PST121	sì sì ma aiu~ {P} il lavoro mi ha aiutato tanto a imparare::
+PST121	sì sì ma aiu~ (.) il lavoro mi ha aiutato tanto a imparare::
 PST121	tanti parole
 PST220	vorresti cambiare lavoro
 PST121	mh?
@@ -1206,34 +1206,34 @@ PST220	vorresti cambiare lavoro
 PST121	eh:: no fino a adesso sono::
 PST121	eh::?
 PST121	(mh.)
-PST121	no sto bene {P} per adesso sto [bene]
+PST121	no sto bene (.) per adesso sto [bene]
 PST219	[mh].
-PST220	okay {ride}
+PST220	okay ((ride))
 PST219	meno male
-PST220	e a settimo {P} qua c'è tutto quello di cui hai bisogno o spesso vieni a torino.
+PST220	e a settimo (.) qua c'è tutto quello di cui hai bisogno o spesso vieni a torino.
 PST121	mh::,
 PST121	eh:: la cosa che manca è la macell~ è la <macelleria>
 PST220	mh:::
 PST121	c'è in a to~ a torino
-PST220	dov'è {P} la macelleria a torino.
+PST220	dov'è (.) la macelleria a torino.
 PST121	a torino ci sono tanti
 PST219	se prendi il quattro vedi <solo> macellerie
 PST220	[eh:: verso::: verso barriera]
 PST219	[<solo> macellerie]
 PST121	sì::
 PST219	ma~ #majzara
-PST121	un:: casino di:: {ride}
+PST121	un:: casino di:: ((ride))
 PST220	eh?
 PST219	maj~ maj[zara]
 PST121	[majzara] majzara
-PST219	le~ leggi #majzara {P} <dappertutto> {ride}
+PST219	le~ leggi #majzara (.) <dappertutto> ((ride))
 PST121	majzara majzara
-PST219	quella parola l'ho imparata usa~ prendendo il quattro {ride}
-PST220	non prendo abbastanza il quattro allora {ride}
+PST219	quella parola l'ho imparata usa~ prendendo il quattro ((ride))
+PST220	non prendo abbastanza il quattro allora ((ride))
 PST220	a settimo non ce n'è neanche una?
 PST121	no no a (settimo:::)
 PST220	ma a settimo però
-PST220	c'è una:: {P} ci sono {P} c'è una bella comunità di marocchini o::::
+PST220	c'è una:: (.) ci sono (.) c'è una bella comunità di marocchini o::::
 PST121	eh:: sì ci sono
 PST220	e infatti [okay]
 PST121	[ci sono] ma non è:: come:: torino
@@ -1247,9 +1247,9 @@ PST121	sì sì forse sì.
 PST220	okay
 PST121	io non sono mai andata però:: penso che sì
 PST219	anch'o avevo sentito:: o qua a settimo o comunque qua vicino
-PST121	sì sì: {P} anch'io l'ha vista una volta una volta su google maps {P} che:: c'è
+PST121	sì sì: (.) anch'io l'ha vista una volta una volta su google maps (.) che:: c'è
 PST219	sì
-PST220	tu preghi a::: casa::: {P} a casa tua?
+PST220	tu preghi a::: casa::: (.) a casa tua?
 PST121	sì
 PST220	capito capito
 PST220	non sei mai andata in nessuna sala di preghiera qua:: anche solo per vedere.
@@ -1273,7 +1273,7 @@ PST219	da qua è un po' lontana
 PST220	eh beh [sì::]
 PST121	[ah::],
 PST219	però bella poi fanno anche: tante attività
-PST219	per:: i ragazzi giovani {P} per le regazze: donne:::
+PST219	per:: i ragazzi giovani (.) per le regazze: donne:::
 PST219	tipo lett~ lettura del cos'è leggono il corano mi sembra
 PST220	sì poi:: in realtà dicevano anche tipo:: a livello:: politico social[e:::]
 PST219	[mh: discussioni::]
@@ -1287,25 +1287,25 @@ PST219	cos'era [il proge~] l'associazi[one]
 PST220	[l'assiociazione:: sì]
 PST219	#yalla aurora
 PST121	ah.
-PST219	però bella {P} c'era un tappe~ cioè era tutto coperto di tap~ cioè di tap~ [tappeto]
+PST219	però bella (.) c'era un tappe~ cioè era tutto coperto di tap~ cioè di tap~ [tappeto]
 PST121	[sì il tappeto],
 PST219	era morbidissimo [cioè::] ci hanno fatto togliere
 PST121	[a::h]
-PST220	[eh sì {P} eh sì sì sì]
+PST220	[eh sì (.) eh sì sì sì]
 PST219	[eh io a me è rimasto impresso quello]
 PST219	ma perché
 PST219	cioè
-PST219	qua non è che si usano tanto i tappeti:: {P} quelli belli:: morbidi:
+PST219	qua non è che si usano tanto i tappeti:: (.) quelli belli:: morbidi:
 PST121	sì
-PST219	e io ho camminato su quel tappeto [{P} bellissimo]
-PST121	[ah,] {ride}
-PST121	e meno male {ride}
+PST219	e io ho camminato su quel tappeto [(.) bellissimo]
+PST121	[ah,] ((ride))
+PST121	e meno male ((ride))
 PST219	boh
 PST220	°di cosa (parliamo°
-PST220	io ho scritto cous cous così ma io non so {ride} è giusto? a caso propri[o]
+PST220	io ho scritto cous cous così ma io non so ((ride)) è giusto? a caso propri[o]
 PST121	[eh] no
-PST220	{ride} immaginavo figurati:: figurati
-PST220	come si scrive con la #qaf q q? {ride}
+PST220	((ride)) immaginavo figurati:: figurati
+PST220	come si scrive con la #qaf q q? ((ride))
 PST220	prego
 PST121	si scrive così
 PST220	ah:: vabbè dai senza:::
@@ -1313,25 +1313,25 @@ PST219	no xx
 PST220	senza la #waw [giusto]?
 PST121	[eh sì] senza la #waw
 PST220	vabbè dai non faceva così pietà allora
-PST220	ecco per noi {P} è difficilissimo capire {P} quando ci sono le vocali lunghe::,
+PST220	ecco per noi (.) è difficilissimo capire (.) quando ci sono le vocali lunghe::,
 PST220	o se cioè se è [solo una #dam]ma o se solo o se invece è una #waw
 PST121	[sì:]
-PST220	bo::h {P} [bo::h]
+PST220	bo::h (.) [bo::h]
 PST121	[sì sì] è difficile
 PST219	sì
 PST220	cosa ci consigli tu per imparare l'arabo
-PST121	come:: {P} come cosa:?
-PST220	boh [non lo s]o {ride}
+PST121	come:: (.) come cosa:?
+PST220	boh [non lo s]o ((ride))
 PST121	tipo
-PST220	non lo so {ride}
+PST220	non lo so ((ride))
 PST220	cosa dobbiamo fare?
-PST121	ma cosa vuoi imparare vuoi imparare il dialetto {P} o l'arabo l'arabo.
+PST121	ma cosa vuoi imparare vuoi imparare il dialetto (.) o l'arabo l'arabo.
 PST220	mah xxx
 PST219	arabo:::#fusha
 PST220	>vabbè< noi stia~ all'università studiamo:: arabo
 PST220	anche se adesso
 PST220	attenzione
-PST220	abbiamo {ride} abbiamo un corso di:: eh::
+PST220	abbiamo ((ride)) abbiamo un corso di:: eh::
 PST219	mh
 PST220	abbiamo un corso di dialetto egiziano
 PST121	ah:::
@@ -1341,19 +1341,19 @@ PST219	eh:: el-xir
 PST219	3āmil eh?
 PST121	brava
 PST219	ma tu capisci se: ti dico: queste cose
-PST121	eh:: sì qualche parola sì {P} adesso ti ho capita
+PST121	eh:: sì qualche parola sì (.) adesso ti ho capita
 PST220	ah sei mai s[tata in altri paes]i arabi.
 PST219	[ah sì]?
 PST121	[no mai]
 PST220	[oltre il marocco],
 PST220	°no okay°
 PST220	ci consigli il marocco
-PST220	dobbiamo venire in marocco {P} cioè [venire] andare
+PST220	dobbiamo venire in marocco (.) cioè [venire] andare
 PST121	[sì]
 PST219	eh
 PST121	sì ci sono::
 PST121	sono belle città da: visitare
-PST220	una mia amica è stata {P} e si è innamorata {P} cioè le è piaciuto tantissimo
+PST220	una mia amica è stata (.) e si è innamorata (.) cioè le è piaciuto tantissimo
 PST121	ah
 PST220	il marocco eh:::m
 PST220	lei cioè è tornata dicendo per il profumo e il colore
@@ -1380,7 +1380,7 @@ PST220	mh=mh,
 PST121	c'è:
 PST220	mhmh,
 PST121	se se ci piace il mare
-PST121	non è che se ci piace il mare {P} se ci piace fare surf o quelle cose
+PST121	non è che se ci piace il mare (.) se ci piace fare surf o quelle cose
 PST220	[ah::],
 PST121	e c'è::
 PST121	°cosa c'è anche°
@@ -1394,7 +1394,7 @@ PST121	e sì in marocco sì
 PST220	okay
 PST121	qua no
 PST220	qua no,
-PST219	ma:: {P} la patente del marocco:: {P} [la puoi usare] qua
+PST219	ma:: (.) la patente del marocco:: (.) [la puoi usare] qua
 PST121	[sì::]
 PST121	no
 PST219	ah
@@ -1411,7 +1411,7 @@ PST121	di farla
 PST220	sì poi qua è collegato abba[stanza]
 PST121	[sì:::]
 PST219	sì
-PST220	cioè {P} rispetto a dove
+PST220	cioè (.) rispetto a dove
 PST219	ah sì [sì rispetto a dove vivi tu sì]
 PST220	[dove vivo io]
 PST220	[perché:]
@@ -1422,7 +1422,7 @@ PST121	ah.
 PST219	il quarantanove immagin[o]
 PST220	[eh] quello che: quello che ho preso adesso
 PST121	sì::
-PST219	perché io abito a mappano {P} a mappano è uguale c'è il quarantasei,
+PST219	perché io abito a mappano (.) a mappano è uguale c'è il quarantasei,
 PST121	ah ah,
 PST219	però ci mette una vita ad arrivare a torino cioè ci mette:::
 PST219	io per andare all'università che è in centro a torino,
@@ -1442,26 +1442,26 @@ PST220	[lei alle] cinque
 PST220	all'alba
 PST219	ma neanche mi svegliavo prima che prima che uscisse il sole
 PST219	però poi e mi lamentavo poi mi lamento:
-PST219	cioè poi quest'anno abbiamo:: i corsi:: all'ora di pranzo più o meno e mi lamento lo stesso perché {P} forse è ancora peggio {ride}
-PST220	ma scusa eh allora mi dice che quando:: viene:: ah: {P} in pizzeria poi mangia la pizza
+PST219	cioè poi quest'anno abbiamo:: i corsi:: all'ora di pranzo più o meno e mi lamento lo stesso perché (.) forse è ancora peggio ((ride))
+PST220	ma scusa eh allora mi dice che quando:: viene:: ah: (.) in pizzeria poi mangia la pizza
 PST121	[sì]
 PST220	[xxx]
 PST219	mh
-PST220	ma mica tutti i giorni tu la mangia la pizza {ride} la pizza
+PST220	ma mica tutti i giorni tu la mangia la pizza ((ride)) la pizza
 PST121	eh:, no [non tutti i giorni]
 PST220	[eh infatti okay] se no uno
 PST220	[diventa una pizza]
 PST121	[no:: non tutti i giorni]
-PST219	ma perché dopo il [servizio] no {P} tirano fuori le pizze solo che {P} è tardi quindi::
+PST219	ma perché dopo il [servizio] no (.) tirano fuori le pizze solo che (.) è tardi quindi::
 PST220	[eh]
 PST219	lei sp~ tu spesso vai via
 PST121	sì a volt[e:]::
 PST219	[prima]
-PST121	a volte rimango {P} giusta la parola rimango?
+PST121	a volte rimango (.) giusta la parola rimango?
 PST219	mh=mh
-PST121	a volte no {P} dipende
-PST219	poi in realtà penso che::: quello lo facciano solo il venerdì e il sabato {P} non so se lo fanno anche in settimana
-PST121	no tutta la settimana {P} anche loro dipende dipend~ dipende se abbiamo finito presto se abbiamo finito:::
+PST121	a volte no (.) dipende
+PST219	poi in realtà penso che::: quello lo facciano solo il venerdì e il sabato (.) non so se lo fanno anche in settimana
+PST121	no tutta la settimana (.) anche loro dipende dipend~ dipende se abbiamo finito presto se abbiamo finito:::
 PST121	come ieri no.
 PST220	ma tu lavori tutti i giorni pranzo e cena pranzo e [cena]
 PST121	[no no] solo cena
@@ -1470,21 +1470,21 @@ PST219	[sì sì]
 PST219	[è aperto solo la sera]
 PST220	[ah:::::]
 PST121	[perché la pizzeria] lavora solo:: la sera
-PST220	eh ne savais pas {P} okay okay
+PST220	eh ne savais pas (.) okay okay
 PST121	sì sì sì
 PST219	ma curiosità que~
-PST219	non se {P} quali pizze hai assaggiato lì ma qual è la tua prefeirta,
+PST219	non se (.) quali pizze hai assaggiato lì ma qual è la tua prefeirta,
 PST121	io~ la mia preferita è la normale la margherita
 PST219	ah sì
 PST121	è la mia preferita
 PST219	giusto
 PST220	la tua?
 PST219	vabbè a parte la margherita che la fa veramente buona
-PST219	ce n'è una {P} che a leggere gli ingredienti {P} diresti [non non la mangio] mai
+PST219	ce n'è una (.) che a leggere gli ingredienti (.) diresti [non non la mangio] mai
 PST220	[ti sciogli]
 PST220	ah
 PST219	perché ha tipo::
-PST219	eh::: la mortadella il pistacchio {P} poi una roba tipo::
+PST219	eh::: la mortadella il pistacchio (.) poi una roba tipo::
 PST219	come si chiama m~ m~ mascorpone mi s[embra]
 PST220	[oh m]adosca
 PST219	ma dici
@@ -1492,13 +1492,13 @@ PST220	una mazzata però
 PST219	però è buonissima
 PST219	cioè io l'ho assaggaiata è buonissima
 PST219	poi ce n'è anche una
-PST219	che però ha::: {P} tipo:::
+PST219	che però ha::: (.) tipo:::
 PST219	il salame
 PST219	no il quello piccante
 PST219	[poi] ha:::
 PST220	[sa~]
 PST220	ma quello::: boh
-PST219	vabbè eh::m {P} tipo un salame piccante {P} gorgonzola e cipolla caramellata
+PST219	vabbè eh::m (.) tipo un salame piccante (.) gorgonzola e cipolla caramellata
 PST220	che
 PST121	buonissima?
 PST219	però anche quella è bella pesante
@@ -1514,19 +1514,19 @@ PST121	nean[ch'io lo so]
 PST220	[tornera]nno::: vittoriosi
 PST121	speriamo
 PST220	fatemi sapere
-PST121	okay {ride}
-PST219	se vincono viene un sacco di gente poi in pizzeria {ride}
+PST121	okay ((ride))
+PST219	se vincono viene un sacco di gente poi in pizzeria ((ride))
 PST121	sì::
-PST220	se vincono {P} lavorare lavorare
+PST220	se vincono (.) lavorare lavorare
 PST220	dai prima o poi verrò a mangiare 'sta piz[za]
 PST219	[sì] si devi venire
 PST220	sta famosa pizza
 PST121	sì:
 PST219	ma eh cioè è proprio buona
-PST219	chissà se ha una ricetta segreta {P} tipo un ingrediente segreto
-PST220	cosa fai di solito nel tuo giorno di riposo oggi ti abbiamo disturbato con {ride}
+PST219	chissà se ha una ricetta segreta (.) tipo un ingrediente segreto
+PST220	cosa fai di solito nel tuo giorno di riposo oggi ti abbiamo disturbato con ((ride))
 PST220	la tua quie[te]
-PST121	[eh] no no: {P} figurati
+PST121	[eh] no no: (.) figurati
 PST121	eh:: non (faccio)
 PST121	non ho una cosa speciale un eh:::
 PST121	una settimana::
@@ -1535,7 +1535,7 @@ PST121	che:::
 PST219	ci sta
 PST121	sì
 PST220	giorno di riposo
-PST121	si non si non mi riposo:: eh:: non posso {ride}
+PST121	si non si non mi riposo:: eh:: non posso ((ride))
 PST121	non posso:: lavorare la:: settimana:
 PST220	hai ragione
 PST220	ma qua sta dipingendo?
@@ -1552,8 +1552,8 @@ PST219	vedremo
 PST121	vai a vedere
 PST219	vai alzati un attimo che non (c'è)
 PST220	scusa un attimo::
-PST219	vai alla toeletta e [torni indietro {P} così ci dici]
-PST220	{ride} [alla <toeletta>]
+PST219	vai alla toeletta e [torni indietro (.) così ci dici]
+PST220	((ride)) [alla <toeletta>]
 PST219	[toeletta]
 PST220	questo è interessante eh veramente
 PST220	da scoprire

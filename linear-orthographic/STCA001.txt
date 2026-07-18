@@ -14,8 +14,8 @@ PST137	l'esame bi-l-français
 PST136	eh la pareh in inglese devono scddevono fare tipo la produzione scritta
 PST138	ah
 PST138	i said my name is non mi ricordo il nome i love morocco you should visit it
-PST136	you should visit it ride
-PST136	ride safi hadshi li kayin ride
+PST136	you should visit it ((ride))
+PST136	((ride)) safi hadshi li kayin ((ride))
 PST138	madonna
 PST135	dai continuiamo con i nomi
 PST136	okay
@@ -115,7 +115,7 @@ PST135	no perché~
 PST136	no perché hiya aslan al-zahra' bent rasul salla al-l-alla-hu wa sallam hiya al-zahra' mashi
 PST135	sì però puoi scegliere o uno o l'altro se vuoi
 PST136	ah
-PST136	sì sì sì però quello giusto è al-zahra' completo
+PST136	sì sì sì però quello giusto è al-zahra' quello completo
 PST135	ah okay
 PST135	eh cos'altro possiamo dire
 PST137	musaiba ta3rif ism musaiba
@@ -137,7 +137,7 @@ PST137	ism bent
 PST136	nasibe
 PST139	nasib eh
 PST135	aspe io devo cercarne altri che qua è imballato
-PST137	hal anta musaib ride
+PST137	hal anta musaib ((ride))
 PST138	nasib non è marito cos'è
 PST136	non ricordo
 PST137	musaiba
@@ -164,7 +164,7 @@ PST138	xadija
 PST135	xadija
 PST137	xayal
 PST139	xadija
-PST138	do you have xadija . okay
+PST138	do you have xadija (.) okay
 PST135	arab name
 PST138	xadduj
 PST136	xadija
@@ -174,14 +174,14 @@ PST138	zhor
 PST138	zhor
 PST137	zuhur
 PST139	zehur
-PST136	eh l-betul ride guli-lih nti-ya ga3
+PST136	eh l-betul ((ride)) guli-lih nti-ya ga3
 PST135	l-betul
 PST136	l-betul tamo tamo tamo
-PST139	zuhur and like flowers are not . are not together
+PST139	zuhur and like flowers are not (.) are not together
 PST135	okay but zhur
 PST135	zuhur zohra
 PST136	rḥimo rḥimo waḥd derri kayhedar m3a saḥbo gal-lih tsawwer a sat kayhedar m3a waḥd l-bent labas l-gharad u dakshi tsawwer ashnu galet-liya smi-tu rḥimo tsawri saḥbi msaeb m3a rḥimo
-PST135	we are names so c~we have a crazy name about girls like rḥimo . ijjo
+PST135	we are names so c~we have a crazy name about girls like rḥimo (.) ijjo
 PST138	awili ijjo ijjo shelḥa
 PST134	nawal
 PST135	amazigh amazigh
@@ -245,12 +245,12 @@ PST134	eh la mia amica si chiama così
 PST138	io sto dicendo nomi dei miei familiari
 PST139	lubna
 PST139	3and-kum jubna
-PST136	jubna wa ajbān wa ḥaleb ride wa al-bān la ride
+PST136	jubna wa ajbān wa ḥaleb ((ride)) wa al-bān la ((ride))
 PST135	lubna
 PST138	ha detto
 PST136	eh xx xx brother
 PST139	no we don't know
-PST135	we eh eh my two cousin . cousins are xx @amina and @fatima
+PST135	we eh eh my two cousin (.) cousins are xx @amina and @fatima
 PST138	vero
 PST135	and
 PST139	eh for boy
@@ -315,7 +315,7 @@ PST136	hu-ma i semmiw-ha nor
 PST138	abbiamo nor
 PST139	she is a girl
 PST135	nor
-PST139	nor ride not for a girl
+PST139	nor ((ride)) not for a girl
 PST134	c'è un ragazzo egiziano che si chiama nur
 PST138	ma abbiamo nor
 PST135	sì però io tipo
@@ -367,7 +367,7 @@ PST135	io ho mio padre è
 PST138	dris
 PST139	dris
 PST138	you have
-PST136	bawat-kom ride bak smi-to dris
+PST136	bawat-kom ((ride)) bak smi-to dris
 PST138	it started father's day
 PST135	esatto
 PST135	no
@@ -438,7 +438,7 @@ PST135	ma per me vuol dire tipo spalmare
 PST134	ninna nanna
 PST138	dehni
 PST138	dehni hadi-k
-PST139	xx nahn nagul dahan . the person who
+PST139	xx nahn nagul dahan (.) the person who
 PST135	ah okay
 PST138	ah painter
 PST139	dahan
@@ -448,7 +448,7 @@ PST138	no
 PST136	mi asapettavo un
 PST135	voi
 PST135	io sparo una roba
-PST136	knit-ha fi-ha sṭar ride
+PST136	knit-ha fi-ha sṭar ((ride))
 PST135	sono tre cognomi inscioé un cognome diviso tre
 PST139	say it say it
 PST136	il suo cognome fa una frase si scrive tutto da capo
@@ -507,7 +507,7 @@ PST134	okay
 PST137	we have it fi tunes bas 3end-kum l-kelma mu ḥelwa
 PST136	tferrej-ti fi hadak l-musalsal seguito anche dai marocchini
 PST137	bas jemila ktir
-PST136	smi-tu bu jam3a walakin waḥd derri msemmih welad derb 3aqduni kaybqaw i gulu-li le père de vendredi jay ride
+PST136	smi-tu bu jam3a walakin waḥd derri msemmih welad derb 3aqduni kaybqaw i gulu-li le père de vendredi jay ((ride))
 PST139	el-muan
 PST137	sharmiki
 PST139	sharmiti
@@ -933,7 +933,7 @@ PST133	e lui non mi ha risposto
 PST139	l-mloxiya ta3malo shorba
 PST136	lā
 PST138	la machi charaba
-PST136	ntuma 3and-kom mloxiya taqriben kif twansa . ḥna 3and-na mloxiya xudar
+PST136	ntuma 3and-kom mloxiya taqriben kif twansa (.) ḥna 3and-na mloxiya xudar
 PST138	kat-kun like marinated
 PST136	ve lo faccio vedere
 PST139	shorba ya3ni light
@@ -1206,7 +1206,7 @@ PST133	non vedo l'ora
 PST136	ullahila xas-na
 PST133	non vedo l'ora
 PST133	te lo giuro non vedo l'ora
-PST136	xas-na shi shuwwaya ride
+PST136	xas-na shi shuwwaya ((ride))
 PST139	shwiyya li b-kelti-ha
 PST135	sausages
 PST136	sausages

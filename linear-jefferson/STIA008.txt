@@ -19,7 +19,7 @@ PST016	ho dato parafrasi, l'analisi poi le autore quasi quarantuno autore,
 PST016	è un po' difficile per memorizzare quarantuno qu~ quel
 PST016	le opere, la storia, tutto di quarantuno
 PST016	poi c'è un romanzo:
-PST016	per l'orale c'è un romanzo {ride}
+PST016	per l'orale c'è un romanzo ((ride))
 PST016	pesante pesante
 PST016	ma alla fine ho superato l'esame
 PST016	e::
@@ -79,7 +79,7 @@ PST205	eh qua[le li~]
 PST016	[ling]ue e letterature moderne
 PST205	lingue e letterature moderne
 PST016	perché c'è c~ c'è corruculum di ci sono per lingue e letterature perché
-PST016	prima {P} era mediazione linguistica poi $lingui
+PST016	prima (.) era mediazione linguistica poi $lingui
 PST016	$lingui e letterature moderne $lingui e letterature straniere poi
 PST016	$lingui
 PST016	eh e l'asia e l'africa trovi::
@@ -101,8 +101,8 @@ PST016	e:h nel nord del marocco e nel sud parlano spagnolo
 PST016	e:: nel capitale rabat, le le periferie di rabat, di casablanca
 PST016	è francese è la seconda lingua
 PST016	perché eh
-PST016	obbligatorio {ride}
-PST016	c'è l'influenza francese {ride}
+PST016	obbligatorio ((ride))
+PST016	c'è l'influenza francese ((ride))
 PST205	invece per quanto riguarda le lingue che possono essere definite locali?
 PST016	fran~ eh arabo
 PST016	e poi francese
@@ -270,7 +270,7 @@ PST205	e:h hai amici italiani?
 PST016	sì sì c'è amici e amiche sì
 PST205	eh
 PST205	in che lingua parli con
-PST205	amici {P} né italiani né del tuo stesso paese di origine
+PST205	amici (.) né italiani né del tuo stesso paese di origine
 PST016	per gli italiani è obbligatorio di parlare l'italiano
 PST016	perché la maggior parte d'italia parlano l'italiano anche lingua l'inglese non parlano i:taliani inglese raramente trovi uno che parla inglese
 PST016	ci sono i miei amic~ ci italiani che parlano arabo
@@ -362,7 +362,7 @@ PST205	gli amici che sono del del tuo stesso paese di origine
 PST016	arabo l'arabo sempre arabo
 PST205	quali lingue parlavi nel tuo paese di origine
 PST016	arabo
-PST016	obbligatorio {ride}
+PST016	obbligatorio ((ride))
 PST205	e
 PST205	e oltre all'arabo altre lingue o dialetti?
 PST016	no parlano non arabo parliamo d~ e:h
@@ -382,7 +382,7 @@ PST016	poi: a lugano
 PST016	in svizzera
 PST205	e:h
 PST205	torneresti a vivere nel tuo paese di origine?
-PST016	eh alla fine: dopo la vecchiaia {ride} sì obbligatorio
+PST016	eh alla fine: dopo la vecchiaia ((ride)) sì obbligatorio
 PST016	perché: per la clima, c'è un sacco di vantaggi, d~ obbligatorio di
 PST016	torna torno un giorno
 PST016	perché qui:
@@ -493,7 +493,7 @@ PST016	per chiedere solo
 PST016	l'invalidità civile uno con documento
 PST016	c~ c~ lo danno quaranta percento u~ uno non ha anche il piede
 PST016	ha tolta ha fatto un incidente
-PST016	non >han do< neanche quaranta {P} percento
+PST016	non >han do< neanche quaranta (.) percento
 PST016	$normante serve
 PST016	eh settantacinque percento per darti due~
 PST016	duecentosessanta euro cosa paghi l'affitto, compri la medicina, cosa fa?
@@ -518,7 +518,7 @@ PST016	e::h le ristoranti arabi ci sono qui
 PST016	ma quando vai al~ a un'altra città vai a trento, bolzano, milano,
 PST016	pavia, parma,
 PST016	eh mi sento:
-PST016	vero vero un straniero {ride} un straniero
+PST016	vero vero un straniero ((ride)) un straniero
 PST205	ehm
 PST205	lavoravi nel tuo paese di origine?
 PST016	sì prima sì
@@ -566,7 +566,7 @@ PST016	e poi spaccio
 PST016	e quello lo vedo adesso ogni giorno vedo questi cose
 PST205	quindi dici che: la disoccupazione
 PST205	e:h
-PST205	ha ha: mh {P} come dire
+PST205	ha ha: mh (.) come dire
 PST205	è in relazione con
 PST205	eh l'aumento della criminalità anche?
 PST016	sì sì sì sì sì poi anche lo stato non gioca il suo ruolo
@@ -577,9 +577,9 @@ PST016	in francia quando vince un presidente
 PST016	l'elezione dopo
 PST016	cinque giorni dieci giorni
 PST016	fa in viaggio va al medio $orianto cerca nuovi mercato
-PST016	per {P} rimuovi il mercato
+PST016	per (.) rimuovi il mercato
 PST016	i~ francese
-PST016	in italia {P} dopo le elezioni vedi solo
+PST016	in italia (.) dopo le elezioni vedi solo
 PST016	eh il presidente in italia poi va a bruxelles al parlamento lì al europeo
 PST016	non mai visto il presidente della f~ dell'italia va in marocco cerca di collaborare col marocco in algeria come fanno francesi
 PST016	sì cercano nuovi mercato sì in africa
@@ -608,7 +608,7 @@ PST016	non c'è xxx
 PST016	conosco un sacco di ragazzi marocchino hanno un permesso
 PST016	non sono illegali
 PST016	col permesso oppure con la carte illimitata
-PST016	hanno quaranta o cinquanta percento per l' eh per l'invalidità
+PST016	hanno quaranta o cinquanta percento per l'eh per l'invalidità
 PST016	non hanno il diritto di prendere neanche un centisimo
 PST016	cosa prendo il pullman?
 PST016	gratis?
@@ -619,7 +619,7 @@ PST016	berlusconi poi tutta l=e:h
 PST016	i nuovi presidenti non hanno fatto niente sempre in crisi
 PST016	e l'italia non si v~ non si cambia se non diminuiscono le tasse,
 PST016	così
-PST016	per {P} rimuovere l~ l~ l~
+PST016	per (.) rimuovere l~ l~ l~
 PST016	l~ l'economia italiana
 PST205	ehm
 PST205	ti trasferiresti all'estero per lavorare?
@@ -646,7 +646,7 @@ PST205	e:h è una: è una città che a livello ins~ infrastrutturale è ben forn
 PST016	sì sì sai?
 PST016	per la rete
 PST016	vado con cellulare italiano sim italiana
-PST016	meno {P} ottocento metri
+PST016	meno (.) ottocento metri
 PST016	sotto
 PST016	e prende la rete
 PST016	vado a genova
@@ -710,7 +710,7 @@ PST016	fai s~ tramite o una chiamata al telefono devi chiamare il comune
 PST016	fanno il passaggio ti chiudono nome cognome tutto tutto registrato
 PST205	e:hm
 PST205	come pensi che sia cambiata torino negli anni è migliorata?
-PST016	ti dico: {ride}
+PST016	ti dico: ((ride))
 PST016	la verità
 PST016	ci
 PST016	sì ci sono
@@ -816,7 +816,7 @@ PST016	quelli che hanno un potere
 PST016	se uno: generale o uno che
 PST016	membro del parlamento perché un si~ impossibile controllare uno
 PST016	membro del parlamento
-PST016	lui porta {P} poi
+PST016	lui porta (.) poi
 PST016	cerca quelli stranieri sia marocchini, sia senegalesi, sia tunisini,
 PST016	sia qualsiasi stranier~
 PST016	lo danno la roba quando lo fermano
@@ -859,7 +859,7 @@ PST016	prima sì faccio: la corsa la mattina
 PST016	prima normalmente faccio la corsa
 PST016	ogni gior~
 PST016	adesso due volte:: qualche volta una volta alla settimana
-PST016	diventato un po' pigro {ride}
+PST016	diventato un po' pigro ((ride))
 PST016	poi: leggo qualche volta: un li:bro sia in arabo, sia in italiano, sia in francese, qualche volta
 PST016	non c'è la voglia come prima
 PST016	quando: sono arrivato all'inizio quandi
@@ -868,7 +868,7 @@ PST205	e m:h
 PST205	quindi alla domanda fai sport diresti corsa
 PST016	sì sì sì faccio corsa
 PST205	e:h che tipo di musica ti piace ascoltare
-PST016	ti dico: la verità non ascolto la musica {ride}
+PST016	ti dico: la verità non ascolto la musica ((ride))
 PST016	cosa mi piace vado il mare non ma anche:: nuoto
 PST016	rimango davanti il mare oppure vado vicino il fiume soprattutto
 PST016	qui a torino se vado: al po
@@ -879,7 +879,7 @@ PST016	a via po prendo: una pizza acqua naturale poi mangio lo mangio il pizza
 PST016	vicino il fiume tranquillo se c'è un amico se no
 PST016	rimango so:lo
 PST016	è meglio mi piaci:: zona calma non casino
-PST205	e:hm quali tipi di film {P} o serie tivù ti piace guardare
+PST205	e:hm quali tipi di film (.) o serie tivù ti piace guardare
 PST016	per i film ti dico:
 PST016	tanti anni non guardo non guardo tivù sia
 PST016	film xx
@@ -907,7 +907,7 @@ PST016	ero viziato
 PST016	in marocco sì vado quando c'è una gara vado
 PST016	a rabat casablanca qualsiasi posto
 PST016	ma adesso no no non come prima
-PST205	quindi alla domanda {P} alla televisione che programmi ti piace guardare:
+PST205	quindi alla domanda (.) alla televisione che programmi ti piace guardare:
 PST205	sarebbe:
 PST016	telegiornale adesso:
 PST016	per i film
@@ -924,8 +924,8 @@ PST016	è una città
 PST016	si puoi sapere in trenta secondi tutto che succede in tutto il mondo
 PST205	e:hm
 PST205	quindi
-PST205	e:hm {P} alla domanda guardi
-PST205	telegiornali italiani {P} o del tuo paese di origine cosa diresti?
+PST205	e:hm (.) alla domanda guardi
+PST205	telegiornali italiani (.) o del tuo paese di origine cosa diresti?
 PST016	no di tutto il mondo xxx è obbligatorio devi sapere cosa succede in mio paese, in italia,
 PST016	se e::h in qualsiasi campi
 PST016	anche: in europa perché c'è un legame tra
@@ -1016,7 +1016,7 @@ PST016	per me sì: riesco
 PST016	m:h per il gusto se io preparo la pasta
 PST016	preparo eh meglio degli italiani
 PST016	ma come un piatto per me la pasta come insalata mangio poco un piattino
-PST205	e: {P} cucini piatti italiani a casa?
+PST205	e: (.) cucini piatti italiani a casa?
 PST016	per la pasta ma qualche volta a me piace la cuz~ la la cucina marocchina
 PST016	sì: soprattutto il pesce
 PST016	e per gli altri piatti come sì
@@ -1093,7 +1093,7 @@ PST016	che mangiano
 PST016	da noi non c'è
 PST016	trovi uno che mangia in bidone
 PST016	c'è
-PST016	il i~ il pane da noi {P} non si mangia pa~ il pane freddo
+PST016	il i~ il pane da noi (.) non si mangia pa~ il pane freddo
 PST016	mang~ mangiamo
 PST016	il pane eh caldo
 PST016	quando rimane pane lo buttiamo da
@@ -1116,6 +1116,6 @@ PST016	prazzi anche per il prezzo prima vendono il pane con quattro euro sì
 PST016	sono andato a milano
 PST016	stato con un'amica
 PST016	qualche giorni
-PST016	quattro euro il chilo {P} pane
+PST016	quattro euro il chilo (.) pane
 PST016	a torino compri otto pane adesso hanno diminuito
 PST016	ti danno sei panini

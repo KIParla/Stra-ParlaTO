@@ -196,7 +196,7 @@ PST092	per col no dai
 PST087	lui
 PST087	lui però
 PST092	lei
-PST092	da ești un băiat . te-a crescut ce vrei
+PST092	da ești un băiat (.) te-a crescut ce vrei
 PST092	eh
 PST087	però non mi piace quella levetta perché poi dopo si vede proprio l'effetto che si allontana
 PST092	tipo tu
@@ -563,7 +563,7 @@ PST092	giù le mani giù le mani
 PST211	che cibo è
 PST092	non lo so
 PST087	bugie
-PST092	minciunele . nu se spun minciunele dacă spui minciuni nu minciune
+PST092	minciunele (.) nu se spun minciunele dacă spui minciuni nu minciune
 PST092	xx xx nu le spune
 PST087	allora tu non devi proprio toccarle proprio lontana un chilometro
 PST092	tu non le dici non le puoi mangiare chi le dice le può mangiare
@@ -724,6 +724,7 @@ PST092	facci una bella posa metti le manine qua
 PST092	manine qua no
 PST203	una bella posa così
 PST092	no così
+PST211	battelemani
 PST092	così le mani qua
 PST092	eh qua
 PST203	xxx
@@ -1425,7 +1426,7 @@ PST087	sì da maranzini
 PST092	da da da da è brutto da dire però da zingari sarebbe
 PST087	i maranzini
 PST087	sì
-PST092	eh romeo și julieta cantando
+PST092	eh romeo și julieta ((cantando))
 PST092	dacă erau xxx
 PST087	eh
 PST092	romeo

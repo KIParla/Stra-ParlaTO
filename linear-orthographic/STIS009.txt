@@ -621,7 +621,7 @@ PST062	di nuovo eh grazie xx
 PST061	grazie
 PST211	buongiorno
 PST061	allora
-PST061	video haciendo un video con cámaras cámara escondida se dice en español ride
+PST061	video haciendo un video con cámaras cámara escondida se dice en español ((ride))
 PST061	xxx como se dicen los videos acá
 PST061	e di qua
 PST203	eh camera nascosta
@@ -667,7 +667,7 @@ PST061	perché perché eh io ce l'ho la famiglia qua tutto
 PST061	ce l'ho mi sorella mi s~ fratello mia mamma
 PST211	mhmh
 PST203	ahah
-PST061	eh mi figlia mi nipotine
+PST061	eh figlia mi nipotine
 PST211	mhmh
 PST061	mi nipotine sono nate da qua
 PST211	ah okay
@@ -712,7 +712,7 @@ PST061	sì
 PST211	quindi il nipotino l'italiano l'ha imparato all'asilo l'ha imparato fuori
 PST061	eh
 PST211	o
-PST061	no co~ mi nipote
+PST061	no co~ nipote
 PST211	eh
 PST061	no l' han emparado bueno adesso esta en scuola scuola y en casa
 PST211	sì
@@ -1188,7 +1188,7 @@ PST062	io sono andata lì durante appunto a lugl~ tra luglio e agosto
 PST062	durante le feste
 PST062	eh io invece sono di huánuco
 PST062	è una città verso i~ montagne verso nord
-PST061	sì huánuco . una montagna con la selva porque por~
+PST061	sì huánuco (.) una montagna con la selva porque por~
 PST062	mh è proprio in mezzo tra montagne e la selva
 PST062	g~
 PST062	inizia a far parte un po' dell'amazzonia
@@ -1334,7 +1334,7 @@ PST061	no agradecer anche no
 PST061	agradecer a dios agr~ eg agradecer que estamos acá e b~
 PST061	y que nos ha dado una oportunidad
 PST061	no ha dado una oportunidad veramente de seguir con la vida
-PST061	seguir . eh adelante
+PST061	seguir (.) eh adelante
 PST061	eh agradecer que tengo una familia acá
 PST211	mhmh
 PST061	famiglia xx

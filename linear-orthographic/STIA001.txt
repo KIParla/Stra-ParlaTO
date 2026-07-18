@@ -127,7 +127,7 @@ PST200	dove
 PST003	venezia
 PST200	dov'è
 PST200	io non sono brava in geografia
-PST003	está abierta y está abi~ ride
+PST003	está abierta y está abi~ ((ride))
 PST200	okay allora mi sono persa e quindi
 PST200	ah mh
 PST200	la vostra però la vostra lingua madre è
@@ -620,7 +620,7 @@ PST004	siempre parliamo el español
 PST200	mh
 PST004	entonces
 PST200	eh sì tu hai la famiglia qui quindi parlate sempre spagnolo
-PST004	español español siempre ride
+PST004	español español siempre ((ride))
 PST200	mh mhmh mh
 PST200	e
 PST004	anche mia figlia no parla italiano es eh
@@ -1556,7 +1556,7 @@ PST004	mh
 PST004	non
 PST004	mh
 PST200	neanche a me
-PST004	ni lo penso ride
+PST004	ni lo penso ((ride))
 PST200	okay okay
 PST200	ehm
 PST200	e e c'è ci sono invece delle passioni che
@@ -1767,7 +1767,7 @@ PST003	va bene
 PST200	in cerca
 PST200	mentre
 PST200	mh
-PST004	contabilidad . commercial
+PST004	contabilidad (.) commercial
 PST200	okay quello però è il tuo studio no gli studi che hai fatto
 PST200	mentre il l~ il lavoro che tu fai adesso qua è
 PST200	mh tipo la badante è una cosa simile sì
