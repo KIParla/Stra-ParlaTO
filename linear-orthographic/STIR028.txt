@@ -775,7 +775,7 @@ PST082	sì
 PST082	scusa
 PST091	no no vai è solo per ricordarti
 PST082	quando tu traduci
-PST082	che cosa pensi che è più difficile tradurre dall' ehá romeno all'italiano e dall'italiano al romeno
+PST082	che cosa pensi che è più difficile tradurre dall~ eh romeno all'italiano e dall'italiano al romeno
 PST091	eh eh
 PST091	bella domanda
 PST091	eh dipende cosa traduci
