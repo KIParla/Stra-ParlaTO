@@ -1,6 +1,6 @@
 PST203	fate in modo che sia carino
 PST092	ma sì
-PST085	io dicevo tipo doamna di là cioè tipo con la sedia qua e rivolta verso di là
+PST085	io dicevo tipo #doamna di là cioè tipo con la sedia qua e rivolta verso di là
 PST092	e io pensavo di metterla qua
 PST085	ma cos'è ma eh
 PST092	perché ci sono le foto del
@@ -14,7 +14,7 @@ PST087	ti immagini qua
 PST085	no no qui
 PST092	con la roba in mezzo eh
 PST087	due persone lì
-PST087	doamna lì e la riprendi mentre parla che c'è anche tutta la roba dietro
+PST087	#doamna lì e la riprendi mentre parla che c'è anche tutta la roba dietro
 PST203	posso dire una cosa
 PST092	di
 PST203	provatele
@@ -38,12 +38,12 @@ PST092	una
 PST087	una con cosa sono
 PST085	fondente cioccolato
 PST092	xx mamma mia
-PST085	no io dicevo doamna là
+PST085	no io dicevo #doamna là
 PST087	no
 PST085	qua
 PST203	il pianoforte s~
 PST085	anco' ma che è sta cosa brutta a ca' tutte le sedie
-PST087	no metti metti metti doamna qui
+PST087	no metti metti metti #doamna qui
 PST087	qui
 PST092	ma scusate un'idea miglio~ un'idea migliore non è spostare il piano di qualche millimetro e metterlo là e le persone le mettiamo qua
 PST087	e fai così e xxx
@@ -52,8 +52,8 @@ PST085	eh
 PST092	sposti questo lo sposti
 PST203	raga scusate provare vuol dire che prendete il cellulare e provate a fare l'inquadratura se no non la capirete mai
 PST085	tu
-PST092	ma se io devo fare doamna non dammi il tuo cellula~
-PST092	doamne iartămă
+PST092	ma se io devo fare #doamna non dammi il tuo cellula~
+PST092	#_ doamne iartămă
 PST085	eh tutti poi usiamo il tuo
 PST092	comunque
 PST087	la butti tu io non ho le tasche la butti tu non ho le tasche
@@ -63,9 +63,9 @@ PST087	lì
 PST087	e poi qua ci sta
 PST087	sì spostiamo il microfono la pianola e tutti i cosi sulla pianola
 PST092	eh ma io dico appunto spostiamo queste
-PST092	e doamna la mettiamo qua
+PST092	e #doamna la mettiamo qua
 PST087	però vedi che si vede meglio magari non prendiamo lì però
-PST092	io dicevo invece spostiamo questo e mettiamo doamna porprio qua
+PST092	io dicevo invece spostiamo questo e mettiamo #doamna porprio qua
 PST092	con qua
 PST092	la pianola la spostiamo là
 PST087	ma perché qui
@@ -81,7 +81,7 @@ PST092	qua
 PST092	lo spostiamo facciamo uh uh
 PST092	ah no quello non lo spostiamo quello lo
 PST085	poi l'angolazione sarà tipo qualcosa del genere con io qua
-PST092	sì perché sarà qua doamna sarà qua con le cose a fianco
+PST092	sì perché sarà qua #doamna sarà qua con le cose a fianco
 PST087	eh
 PST087	tu perché parlavi di
 PST085	sarà qualcosa del genere
@@ -95,9 +95,9 @@ PST085	sarà qualcosa del genere vedi
 PST092	sì
 PST092	però direi queste spostiamole magari
 PST087	ti immagini che mentre parla guarda lì
-PST092	sai cosa possiamo fare per coprire questo trăistuța
-PST092	o mutăm acolo
-PST085	no se no la sposti più in qua doamna
+PST092	sai cosa possiamo fare per coprire questo #trăistuța
+PST092	#_ o mutăm acolo
+PST085	no se no la sposti più in qua #doamna
 PST085	la metti qua in mezzo
 PST092	sì però questo comunque lo devi togliere
 PST087	no sì quello a prescindere
@@ -141,15 +141,15 @@ PST092	ti ho visto
 PST087	l'inquadratura è quella
 PST092	io dico più che altro perché tanto la metti qua poi la luce viene e semmai fa un pochino d'ombra
 PST085	me
-PST085	trust me
+PST085	#_ trust me
 PST085	così dev'essere
 PST087	però tu usi le penne
 PST087	quindi iniziamo a spostare
 PST092	hai
 PST092	applaudi
-PST085	yes
+PST085	#_ yes
 PST092	ci sta
-PST085	vai guys
+PST085	vai #guys
 PST092	piano con i cavi
 PST087	non l'ho visto
 PST085	no regà ho paura di sto computer
@@ -203,7 +203,7 @@ PST092	cioè xx xx
 PST087	noi abbiamo parlato fino ad adesso di sta roba
 PST092	non lo so ragazze io stavo spostando il computer non vi stavo ascoltando
 PST087	voi ve la immagi~ voi ve la immaginate in piedi
-PST085	wait
+PST085	#_ wait
 PST087	chiariamo ve la immaginate in piedi o seduta
 PST085	mi state
 PST092	seduta
@@ -215,7 +215,7 @@ PST085	in piedi
 PST087	no
 PST092	tu vuoi farla
 PST087	io me la immaginavo seduta alla pianola
-PST092	immaginati due ore in piedi così muore doamna
+PST092	immaginati due ore in piedi così muore #doamna
 PST087	io me la immagino tipo seduta alla pianola lì mentre parla tutta bella così
 PST085	no eh
 PST092	però angolarla un po' più ih
@@ -227,7 +227,7 @@ PST211	sì la pianola è appoggiata sopra il tavolo quindi
 PST092	eh
 PST087	quindi o spostiamo anche x
 PST211	cioè è un cavalletto apposta
-PST092	eh girl
+PST092	eh #girl
 PST092	eh x non devi
 PST087	c'è sto tavolo che si sta piegando
 PST211	quindi io e vi solleviamo la pianola e qualcuno sposta sotto il tavolo e poi no la riappoggiamo
@@ -324,9 +324,9 @@ PST203	o anche una monetina se ce l'hai
 PST092	ah questo è da togliere ~spettate
 PST087	tanto qui dietro non si vede si spera
 PST092	eh
-PST092	valeleu
+PST092	#_ valeleu
 PST087	lasciamo i libri lì
-PST092	valeleu
+PST092	#_ valeleu
 PST092	~spetta che io questi li metto
 PST211	questi dici
 PST087	sì
@@ -347,7 +347,7 @@ PST087	sì però magari
 PST087	metti che si vede lo spazio sotto xxx
 PST092	ah perché io pensavo no
 PST203	eh tanto se non mettiamo su la camera non non si vede
-PST092	quindi tu dici doamna così
+PST092	quindi tu dici #doamna così
 PST203	no ci vuole
 PST087	sì eh e qua e io sto qua
 PST092	a sto punto la chitarra la sposto qua
@@ -421,7 +421,7 @@ PST087	no giusto solo per far vedere che c'è una persona che gli fa le domande
 PST203	mh mh
 PST087	e non
 PST211	vuoi
-PST087	quindi non è tanto da inquadrare ma più doamna
+PST087	quindi non è tanto da inquadrare ma più #doamna
 PST203	okay
 PST203	allora facciamo
 PST211	vuoi mettere il mio telefono anche
@@ -481,7 +481,7 @@ PST203	cioè hai capito perché no
 PST087	ma al massimo possiamo fare possiamo magari
 PST087	che ne so iniziare con un'inquadratura di tutt'e due
 PST203	mh mh
-PST087	e poi man mano che doamna inizia a parlare inquadriamo solo su di lei
+PST087	e poi man mano che #doamna inizia a parlare inquadriamo solo su di lei
 PST203	allora quella c'è la questa starà fissa su e non si ferma mai
 PST087	sì
 PST087	okay
@@ -578,7 +578,7 @@ PST086	di hit ball
 PST085	anc~ sta facendo
 PST203	ah
 PST085	lucreaza încă lucreaza cu
-PST092	chie~ chiedo a doamna xxx
+PST092	chie~ chiedo a #doamna xxx
 PST085	vene~ d~ sabato
 PST203	cosa vuoi fare oggi
 PST085	trebuie să vin de la nouă până la șase să stau aici
@@ -586,14 +586,14 @@ PST087	oggi c'è xx no
 PST092	ce
 PST086	cosa c'entra
 PST087	non lo so magari arriva prima
-PST085	perché alle nove volevo fare matematica con doamna
+PST085	perché alle nove volevo fare matematica con #doamna
 PST203	cosa vuoi fare oggi
-PST085	pentru că i-am spus de la cinci azi
+PST085	#_ pentru că i-am spus de la cinci azi
 PST086	non lo so
 PST092	sfigata
 PST203	sai cosa stiamo facendo
 PST085	ce
-PST086	eh sapevo che dovrebbe essere intervistata doamna
+PST086	eh sapevo che dovrebbe essere intervistata #doamna
 PST092	ti svegli presto
 PST203	okay perfetto
 PST203	le basi ci sono
@@ -611,7 +611,7 @@ PST203	allora ce l'hai un cellulare
 PST086	sì
 PST203	allora le regole sono
 PST092	no zoom
-PST203	questa qua prende doamna
+PST203	questa qua prende #doamna
 PST086	sì
 PST203	quindi non si passa mai davanti e sta fissa e prende solo guarda cosa filma
 PST086	e si passa dietro sì
@@ -688,7 +688,7 @@ PST092	che me ne frega a me della tua galleria
 PST087	e io che ne so
 PST087	cosa ti passa per la testa
 PST211	dicevamo dall'altra volta di dieci secondi almeno
-PST092	di fare le domande a doamna
+PST092	di fare le domande a #doamna
 PST203	sì
 PST086	va bene
 PST211	perché se sono di due tre non ci si fa niente
@@ -705,11 +705,11 @@ PST092	bello ora continuamo
 PST085	yes
 PST211	eh che dici le domande le possono fare anche loro o solo
 PST203	allora le domande
-PST203	ah bisogna dire doamna
+PST203	ah bisogna dire #doamna
 PST203	chiunque faccia la domanda tu guarda sempre
 PST203	perché è importante questo
 PST203	chiunque faccia la domanda lei deve guardare sempre
-PST092	è da dire a doamna
+PST092	è da dire a #doamna
 PST203	perché se no c'hai lo sguardo che guarda i santi
 PST087	in giro
 PST086	okay
@@ -758,7 +758,7 @@ PST087	ormai io ti rubo il telefono irene lo sai
 PST092	se è qualcosa delle domande
 PST092	mandate cioè magari
 PST087	vedi che non si spenga il telefono
-PST092	no se è se è no però cioè doamna ci uccide
+PST092	no se è se è no però cioè #doamna ci uccide
 PST092	se avete delle domande
 PST092	per delle domande me le scrivi
 PST092	me le scrivi qua
@@ -809,15 +809,15 @@ PST092	è meglio romania o italia
 PST085	italia
 PST092	perché
 PST085	ho conosciuto mio marito
-PST092	oh my god
+PST092	#_ oh my god
 PST092	momento gossip
 PST092	come si chiama dove abita
 PST085	eh non penso non penso proprio
 PST085	mh
 PST085	c'è qualcosa chiamata privacy
 PST092	ah così
-PST092	prinț de dubai come va con prinț de dubai
-PST085	prinț de dubai guarda qua mi sta
+PST092	#prinț #de dubai come va con #prinț #de dubai
+PST085	#prinț #de dubai guarda qua mi sta
 PST085	qua mi sta
 PST092	me lo dai dopo perché continua a spegnersi
 PST087	oddio
@@ -847,15 +847,15 @@ PST085	no le vallette
 PST203	eh quale
 PST092	santa rita
 PST085	no
-PST085	aoleu parcă ești scappata di casă
+PST085	#aoleu #parcă #ești scappata di #casă
 PST092	domanda ma questo
 PST086	non sembro scappata di casa eh ma è l'unico
-PST085	scappata di casă sembri
+PST085	scappata di #casă sembri
 PST086	pazienza
 PST086	ci vuole pazienza
 PST203	dai che prima la finiamo prima facciamo un'altra cosa
 PST085	eh ma
-PST092	io ho detto a doamna che noi siamo a posto quando finisce di a~
+PST092	io ho detto a #doamna che noi siamo a posto quando finisce di a~
 PST085	allora ascoltami devi smetterla di fare le mie foto okay
 PST087	non ti ho fatto l'ho eliminata guarda che l'ho eliminata
 PST092	guarda che è piena la galleria
@@ -863,7 +863,7 @@ PST085	ascoltami io non ho autori~ non ho fir~
 PST092	sei rientrata in galleria
 PST087	no ho solo fatto così
 PST085	hhh
-PST092	ah okay no no no galleria is off li~ ah ma tanto serve la password per la galleria
+PST092	ah okay no no no galleria #is off li~ ah ma tanto serve la password per la galleria
 PST087	eh xx
 PST085	ma ti rendi conto
 PST085	ti rendi con~
@@ -873,7 +873,7 @@ PST203	l'hanno vista tutti
 PST092	xx ovvio ragazze
 PST092	il mio drive è pieno non ci sta più niente
 PST092	è il terzo account di drive che faccio per le foto è ancora pieno
-PST085	nu mai juca fotbal
+PST085	#_ nu mai juca fotbal
 PST203	no ma io avevo delle riprese di un progetto di roba di lavoro
 PST203	e le ho buttate nel drive dell'università il problema è che le ho buttate insieme a roba mia
 PST203	quindi c'eran tipo le mie foto di cosa avevo fatto domenica
@@ -903,7 +903,7 @@ PST092	fatto sta che a un certo punto x fa
 PST085	ah
 PST092	x
 PST092	bellissimo
-PST085	mamă
+PST085	#_ mamă
 PST086	cosa fai
 PST092	è bellissimo
 PST087	tutto bene
@@ -919,7 +919,7 @@ PST086	comunque oggi mi sono fatta le sopracciglia benissimo
 PST092	ieri stavo parlando con e non so perché ma sono scoppiata a ridere no perché mi ha fatto una domanda e le ho detto ma tu sai se questa persona è arrabiata e mi è partito da ridere
 PST092	e non ho più smesso quindi l'ho riempita di vocali di risate e rideva sia lei che io
 PST086	sembro un maschio però
-PST085	da
+PST085	#_ da
 PST092	fatto sta che poi ieri sera era~ erano le dieci passate arriva xxx si sveglia e mi dice xxx
 PST086	xxx xxx
 PST092	eh

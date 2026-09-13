@@ -123,7 +123,7 @@ PST082	la lingua è la lin[gua]
 PST091	[eh sì] eh sì
 PST082	quindi tu quale (.) pensi che (è) la tua lingua madre
 PST091	e:::h [bella domanda ques]ta:::
-PST082	[e:h] ((ride))
+PST082	[e:h ((ride))]
 PST082	[vorrest(i)]
 PST091	[mh anche la an~] v~ vogliamo fare la domanda anche sull'identità?
 PST091	cosa ti senti di più:: non lo [so::::]
@@ -158,10 +158,10 @@ PST091	infatti a me hanno messo in terza
 PST082	mh
 PST091	hanno messo direttamente mi hanno fatto $skippare due classi praticamente.
 PST082	wow ((ride))
-PST091	eh sì:: [genio del male] ((ride))
-PST082	[anche a me comunque] ((ride))
+PST091	eh sì:: [genio del male ((ride))]
+PST082	[anche a me comunque ((ride))]
 PST091	la preparazione rumena
-PST082	hai vis[to] ((ride))
+PST082	hai vis[to ((ride))]
 PST091	[anche] solo un anno di elementari
 PST091	((ride))
 PST082	((ride))
@@ -217,8 +217,8 @@ PST082	ti è mai capitato tipo::=m::h di::: andare::: mh fuori,
 PST082	e magari::: non so
 PST082	dover spiegare il tuo nome.
 PST091	sì::,
-PST082	sì? [anche a me] ((ride))
-PST091	[sì::] ((ride))
+PST082	sì? [anche a me ((ride))]
+PST091	[sì:: ((ride))]
 PST091	ma anche qui tante volte
 PST091	tante volte per gli esami cambridge,
 PST091	scrivevo #double #e e loro continuavano a mettere con una a sola
@@ -241,7 +241,7 @@ PST082	stai scher~
 PST091	sì sì italiana italiana [c(io)è senza nessun'origine di nessun tipo]
 PST082	[non ci credo (.) bellissimo::]
 PST091	sì sì con una e [sola ovviamente]
-PST082	[dai (.) si sta]:: (.) l'italia si sta ((ride))
+PST082	[dai (.) si sta]:: (.) l'italia si sta ((ride))]
 PST091	[sì:: sì:: sì sì]
 PST091	sì
 PST082	e::hm
@@ -261,7 +261,7 @@ PST091	m::::h vabbè
 PST091	io ho un legame molto::
 PST091	sentito con i monaste::ri anche se
 PST082	sei andata a quello::: mh $monasterul #vesel o qualcosa del [genere]
-PST091	[#mănăs]tirea #veselă?
+PST091	#_ [#mănăs]tirea #veselă?
 PST091	[sì]
 PST082	[sì]
 PST082	sei andata
@@ -270,11 +270,11 @@ PST082	[eh non era #mănăs]tirea #vese~ era::
 PST091	[non #mănăstirea]
 PST091	e::hm:: mor~ mi~ eh #cimitirul #vesel,
 PST091	fost bucovi]na (.) nu n-am fost n-am fost (.) dar vreau să merg
-PST082	[#cimitirul #vesel]
+PST082	#_ [#cimitirul #vesel]
 PST082	[e::h] ho sentito che era [bello #și #eu] (.) #și #eu #vreau
 PST091	[sì (.) molto bello]
 PST082	((ridendo)) eu [vreau]
-PST091	((ridendo)) și eu] vreau]
+PST091	[((ridendo)) și eu] vreau]
 PST091	sì (.) no quello:: sì i monasteri sono molto belli
 PST091	io poi ho passato:: due tre:: estati quando ero piccina perché nonna aveva::: una zia che era monaca,
 PST091	[e quindi] sì
@@ -287,7 +287,7 @@ PST091	e::h e poi vabbè fa[cevano le monache]
 PST082	[tipo come quella] m::h come la casa dell'insegnante di::
 PST091	[mh SÌ:: SÌ::] SÌ:: esatto (.) esatto.
 PST091	[esatto]
-PST082	che era:: a vo' ((ride)) [che ansia però l'insegnante] ((ride))
+PST082	che era:: a vo' ((ride)) [che ansia però l'insegnante ((ride))]
 PST091	[vabbè dentro la scuola oh mio dio no questo ti faccio vedere] aspetta perché è meno:: (.) meno inquietante
 PST091	no era proprio casetta::
 PST091	e::hm
@@ -306,7 +306,7 @@ PST091	e:::hm
 PST091	non lo so da~ la trovo un po'::: dicono:: (.) la parigi:: la piccola parigi.
 PST082	ah [sì]
 PST091	[però::] di piccola parigi non c'ha un [granché]
-PST082	[xx] ((ride))
+PST082	[xx ((ride))]
 PST091	[>°purtroppo°<]
 PST082	((ride))
 PST091	purtroppo
@@ -482,7 +482,7 @@ PST091	(perché) casi
 PST082	no è vero [i casi],
 PST091	[ricordati] tutto quanto,
 PST082	i casi veramente quando li ho visti ma [in romeno ci sono i casi]?
-PST091	((ride)) [io] ho fatto cinque anni di latino basta::: ((ride)) e meno male che li ho fatti ((ride))
+PST091	[((ride)) io] ho fatto cinque anni di latino basta::: ((ride)) e meno male che li ho fatti ((ride))
 PST091	[al liceo (.) perché d~] hanno aiutato poi in realtà
 PST082	[mh (.) mh mh]
 PST091	e::::::::h
@@ -526,7 +526,7 @@ PST091	più vai fuori ovviamente più:: senti di più marcato.
 PST091	chi arriva da fuori
 PST091	#țăranii, ((ride))
 PST091	auzi] ((ride)) când vorbesc (.) săracii
-PST082	[#țăranii] ((ride))
+PST082	[#țăranii ((ride))]
 PST082	((ride))
 PST082	e::hm:
 PST082	m::h
@@ -584,7 +584,7 @@ PST091	guarda non la incontravo dal primo anno di triennale: l'ho incontrata il 
 PST091	e::h io la odio quella ((ride)) quella donna non la sopporto secondo me non non dovrebbe avere quel ruolo lì.
 PST091	secondo me.
 PST082	sì soltanto perché ha scritto un libro.
-PST082	che fa pure schifo c(io)è nel [senso] ((ride))
+PST082	che fa pure schifo c(io)è nel [senso ((ride))]
 PST091	[fa cagare vabbè comunque]
 PST091	infatti a noi di co::rpora lei ci ha fatto usare sketchengine c(io)è parli di tutta sta roba che per comunicazione internazionale,
 PST091	a cosa serve?
@@ -594,7 +594,7 @@ PST082	[ma non era::] mh per traduzione.
 PST091	ma io non sono di t~ eh [eh es]atto.
 PST082	[eh]
 PST091	[infatti].
-PST082	[eh da] ((ride))
+PST082	[eh da ((ride))]
 PST091	non ho capito (.) infatti dopo le prime due settimane (.) test (.) a:: crocette.
 PST082	ah ah
 PST091	sul pi ci poi e::h dopo due settimane presentazione in gruppo
@@ -736,10 +736,10 @@ PST091	se facevi caso anche::: ne~ #cofetărie >che ne so dove siamo andati<, [n
 PST082	[eh sì:]
 PST091	cose che ne so a cluj dicono tanto::
 PST082	da::]
-PST082	#no
+PST082	#_ #no
 PST091	eh (.) #no (.) e::h lì e::h se [vai al bar] o i~ #ex esat~ #exact.
 PST082	((ride))
-PST082	[#ioi]
+PST082	#_ [#ioi]
 PST091	invece a timișoara non ci sono queste ca[denze::]
 PST082	[sì è ve]ro
 PST082	è più pulito
@@ -782,7 +782,7 @@ PST091	è stata carinissima mi ha insegnato come si usa (.) un'applicazione per 
 PST082	(quale)
 PST091	non mi ricordo più, ce l'ho sul computer.
 PST091	[te lo dico poi dopo ((ride)) ti mando poi dopo lo screen e: come si chiama e::h]
-PST082	((ride)) [va bene] ((ride))
+PST082	[((ride)) va bene ((ride))]
 PST091	dopodomani perché vado da mamma e non c'ho il computer
 PST082	[sì sì sì sì (.) sì sì]
 PST091	e::::hm:::
@@ -799,7 +799,7 @@ PST082	[sì]
 PST082	scusa
 PST091	no no vai è solo per ricor[dar(ti)]
 PST082	[quan]do tu traduci.
-PST082	che cosa pensi che: è più difficile tradurre dall~ eh romeno all'italiano e dall'italiano al romeno.
+PST082	che cosa pensi che: è più difficile tradurre dall'=ehÁ romeno all'italiano e dall'italiano al romeno.
 PST091	eh eh
 PST082	((ride))
 PST091	bella domanda.
@@ -817,9 +817,9 @@ PST082	[sì]
 PST091	e quindi quello sì trovare le equivalenze sull'umorismo?
 PST091	sull'ironia,
 PST082	s::ì ma ave[vo visto:]
-PST091	[l'ironia che c'è in] rume~] ((ride))
+PST091	[l'ironia che c'è in] rume~ ((ride))]
 PST091	davvero non ce n'è c~ #caterincă ecco [#caterincă]
-PST082	[#caterincă]
+PST082	#_ [#caterincă]
 PST091	ecco traduci #caterincă
 PST082	[non esiste (.)] non si può
 PST082	((ride))
@@ -877,15 +877,15 @@ PST091	questa roba qui perché tante cose neanche io sapevo,
 PST091	com'era: già quella roba lì di calarsi le le::: braghe
 PST082	sì:: [calarsi le braghe],
 PST091	[okay e::::h] e c'era in rumeno,
-PST091	au rămas cu,
+PST091	#_ au rămas cu,
 PST091	m:h,
 PST091	non mi ricordo più.
 PST091	poi guardo sulla tesi e te lo dico,
-PST091	e:h au rămas pantalonii în vine (.) au rămas pantalonii în vine
+PST091	#_ e:h au rămas pantalonii în vine (.) au rămas pantalonii în vine
 PST091	che vuol dire ((ride))
 PST082	[che: significa]
 PST091	son rimasti con le con le:: cale::=m:h
-PST082	co~ [con coi pantaloni::] ((ride))
+PST082	co~ [con coi pantaloni:: ((ride))]
 PST091	[con: i pantaloni:: mh calati] come cazzo abbiamo [usato esatto vedi m::h],
 PST082	[vabbè abbiamo detto xx] ((ride))
 PST082	((ride))
@@ -922,16 +922,16 @@ PST082	xx e::hm non so:: siamo arrivati da due giorni
 PST082	e voleva dire non vedevo l'[ora di: arrivare]
 PST091	[m::::h],
 PST091	((ride)) vediamo ora
-PST082	nu vedeam ceasul
-PST091	#ceasul
+PST082	#_ nu vedeam ceasul
+PST091	#_ #ceasul
 PST091	((ride))
 PST082	((ride))
-PST091	nu vedeam casul ((ride))
+PST091	#_ nu vedeam casul ((ride))
 PST082	[allora],
 PST091	((ride))
 PST082	tipo i miei parenti,
 PST082	si sono guardati tutti tipo ma
-PST091	((ridendo)) n:~ n~ nu xx vedeam ceasul
+PST091	#_ ((ridendo)) n:~ n~ nu xx vedeam ceasul
 PST082	((ride))
 PST091	((ridendo)) #nu #vedeam [#ceasul] sì sì
 PST082	[sì::]

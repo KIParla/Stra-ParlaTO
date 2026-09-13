@@ -56,7 +56,7 @@ PST203	[raga scusate] (.) provare vuol dire che prendete il cellulare e provate 
 PST085	tu
 PST085	((ride))
 PST092	ma se io devo fare #doamna non ((ride)) da:mmi il tuo cellula:~
-PST092	doamne iartămă
+PST092	#_ doamne iartămă
 PST085	e:h tutti poi usiamo il tuo
 PST092	[comunque]
 PST087	la butti tu: (.) io non ho le ta:sche la butti tu: non ho le t[a:sche]
@@ -99,7 +99,7 @@ PST092	[s:ì]
 PST092	però direi queste spostiamole magari
 PST087	ti immagini che mentre parla guarda lì.
 PST092	sai cosa possiamo fare per (.) coprire questo #trăistuța
-PST092	o mutăm acolo
+PST092	#_ o mutăm acolo
 PST085	no: se no la sposti più in qua (.) #doamna
 PST085	la metti qua in mezzo.
 PST092	sì però questo comunque lo devi togliere
@@ -130,7 +130,7 @@ PST211	no: avevi bisogno?
 ???	no no no: ho lasciato qua le chiavi [in caso che dove]ste andare bagno [eh ho fatto: semplicemen]te la battuta: [questo sembra il registra: spettri: xx]
 PST211	[a:h]
 PST211	[ah sì grazie]
-PST211	[a:h no no] ((ride))
+PST211	[a:h no no ((ride))]
 PST092	grazie
 PST211	grazie
 ???	sono un po' [ironica con loro]
@@ -146,13 +146,13 @@ PST087	l'inquadratura è quella
 PST092	((ride))
 PST092	io dico più che altro perché (.) tanto la metti qua poi: la luce vie:ne: e: semmai fa un pochino [d'ombra:]
 PST085	me]
-PST085	trust me
+PST085	#_ trust me
 PST085	così dev'essere
 PST087	però (tu usi le penne)]
 PST087	quindi [iniziamo] a spostare,
 PST092	[hai]
 PST092	applaudi
-PST085	#ye:[s:]
+PST085	#_ #ye:[s:]
 PST092	[ci] sta
 PST085	vai #guy:s]
 PST092	[pia:no] con i [ca:vi:]
@@ -208,7 +208,7 @@ PST092	cioè [xx xx]
 PST087	[noi abbiamo parla]to fino ad adesso di sta roba,
 PST092	non lo so ragazze io stavo spo[stando il computer non vi stavo ascoltando]
 PST087	[voi ve la immagi~ voi ve la immaginate] in pie:di?
-PST085	#wa:i:t
+PST085	#_ #wa:i:t
 PST087	chiariamo [ve la immagina]te (.) in pie:di o seduta?
 PST085	[mi state:]
 PST092	sedu:ta
@@ -332,9 +332,9 @@ PST203	[o anche una] [moneti:na se ce l'hai]
 PST092	[ah questo è da togli]ere ~spettate
 PST087	tanto qui dietro non si ve:de si spera
 PST092	eh?
-PST092	#valeleu
+PST092	#_ #valeleu
 PST087	lasciamo i [libri lì:]?
-PST092	[#valele:u],
+PST092	#_ [#valele:u],
 PST092	~spetta che io questi li me(tto)°
 PST211	questi dici?
 PST087	sì
@@ -410,7 +410,7 @@ PST087	tre:~
 PST203	cavalletto?
 PST087	sì
 PST085	io arrivo subito
-PST085	((al_telefono)) [mamma:]?
+PST085	[((al_telefono)) mamma:]?
 PST203	[a:llora]
 PST203	ti siedi per favore,
 PST087	[°s:ì°]
@@ -450,7 +450,7 @@ PST211	far ca[pire che c'è lì una persona]
 PST087	[sì che c'è una pers~] sì [tipo]=°pupa~ cioè sembra:
 PST203	[mh mh]
 PST087	[(>come dire<) tipo:]
-PST203	[tipo pupazzo] ((ride))
+PST203	[tipo pupazzo ((ride))]
 PST087	[(cioè) sì:]
 PST211	((ride))
 PST087	solo per=e::h (.) eh sì anch'io stavo pensando di toglierlo °però:°
@@ -553,7 +553,7 @@ PST085	risolvili
 PST092	vai via allora
 PST085	((schiocca_le_dita))
 PST092	((ride))
-PST085	[senti un po' ((ride)) scacco matto ho vinto io] ((ridendo))
+PST085	[senti un po' ((ride)) scacco matto ho vinto io ((ridendo))]
 PST092	((ride))
 PST092	((ride))
 PST092	mi ricordi [(thunderman)]
@@ -608,7 +608,7 @@ PST087	[non lo so magari arriva prima],
 PST085	[perché alle nove volevo fare] (.) <matematica con #doamna
 PST092	((ride))
 PST203	[cosa vuoi fare oggi
-PST085	pentru că i-am spus de la [cinci azi]
+PST085	#_ pentru că i-am spus de la [cinci azi]
 PST086	[non lo so]
 PST092	[sfi]g[a:ta:]
 PST203	[sai cosa stiamo facendo]
@@ -691,8 +691,8 @@ PST203	[allora]
 PST092	°molto intelli[(gente)°]
 PST203	[ti dico questa era un'inquadratu:ra]
 PST211	[come:: i boomer che fanno le] foto:: [a~ alle] al foglio [xx xxx poi]
-PST092	[foto alla foto] ((ride))
-PST087	[io lo faccio sempre] ((ride))
+PST092	[foto alla foto ((ride))]
+PST087	[io lo faccio sempre ((ride))]
 PST092	[io con foto della] foto della foto della foto
 PST203	[questa è una]
 PST203	questa è una
@@ -723,7 +723,7 @@ PST086	va [bene]
 PST203	[ok]?
 PST092	be:llo ora continua[mo]
 PST085	[yes]
-PST203	((batte_le_mani))
+PST203	[((batte_le_mani))]
 PST211	e::h che dici le domande le possono fare anche loro o solo
 PST203	allora le domande,
 PST203	ah bisogna dire (.) #doamna
@@ -817,9 +817,9 @@ PST211	poi chiediamo:=a [se può]
 PST203	[ma tanto non è in campo può anche [restare (.) con la maglietta dell'atle]tico ((ridendo))
 PST211	[e:h vabbè magari preferisce:]
 PST203	((ride))
-PST211	[boh] ((ride))
+PST211	[boh ((ride))]
 PST211	no voleva cambiare i pantaloni cos'è che voleva cambiare
-PST203	[per me può fare quello che vuole] ((ridendo))
+PST203	[per me può fare quello che vuole ((ridendo))]
 PST085	[stai facendo la foto a me]?
 PST092	nel mentre (.) mi faccio [delle domande]
 PST085	[che ore sono]
@@ -835,7 +835,7 @@ PST085	italia
 PST092	perché
 PST085	ho conosciuto mio marito
 PST087	((ride))
-PST092	oh my go:d
+PST092	#_ oh my go:d
 PST092	momento gossip
 PST092	[come si chiama dove abita]?
 PST085	[e::h non penso non penso] proprio
@@ -895,13 +895,13 @@ PST092	[A:H OKAY no no] no galleria #is off li~ a:h ma tanto serve la password p
 PST087	[e::h xx
 PST085	[ma ti rendi conto]
 PST085	ti rendi con~
-PST203	[io la mia galleria l'ho messa sul drive (.) dell'università:] ((ridendo))
+PST203	[io la mia galleria l'ho messa sul drive (.) dell'università: ((ridendo))]
 PST086	cosa vuoi tu dalla mia vita]
 PST203	[l'hanno vista tutti]
 PST092	[xx ovvio ragazze]
 PST092	il mio drive: è pieno non ci sta più nie:nte:
 PST092	è il terzo account di drive [che faccio per le fo:to è ancora] [pieno]
-PST085	nu mai juca fotbal
+PST085	#_ nu mai juca fotbal
 PST203	[no ma io avevo] delle riprese (.) di un proge:tto di roba di lavoro
 PST203	e le ho buttate: nel drive dell'università >il problema< è che le ho buttate insieme a roba mia
 PST092	((ride))
@@ -933,11 +933,11 @@ PST092	è partita la chat
 PST092	fatto sta che a un certo punto [x fa]
 PST085	[ah]
 PST087	((ride))
-PST092	((ride)) [x]
-PST092	[belli:ssimo:] ((ride))
-PST085	#mamă:
+PST092	[((ride)) x]
+PST092	[belli:ssimo: ((ride))]
+PST085	#_ #mamă:
 PST092	((ride))
-PST086	[cosa fa:i:] ((ridendo))
+PST086	[cosa fa:i: ((ridendo))]
 PST092	[è bellissimo]
 PST087	tutto bene ((ridendo))
 PST085	e:h alcune volte è indemoniata non è colpa sua
@@ -952,7 +952,7 @@ PST086	[comunque oggi mi sono fatta le sopracci]glia benissimo
 PST092	ieri stavo parlando con e non so perché (ma) sono scoppiata a ridere no perché mi ha fatto una domanda e le ho detto (.) >ma tu sai se questa persona è arrabiata< e mi è partito da ridere
 PST092	e non ho più smesso quindi l'ho riempita di vocali di risate [e rideva sia lei che io]
 PST086	[sembro un maschio però]
-PST085	#da
+PST085	#_ #da
 PST092	fatto sta che poi [ieri sera era~ erano le dieci passate arriva xxx si sveglia e mi dice xxx
 PST086	[xxx xxx]
 PST092	°eh°

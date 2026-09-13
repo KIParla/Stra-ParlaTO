@@ -51,8 +51,8 @@ PST092	non questo facciamo tra (.) due sabati
 PST087	non so [se ci sono]
 PST083	[ma cosa]
 PST092	te che (.) ci sono tipo ehm noi avevamo detto::
-PST092	#taraful
-PST092	#plus #*orchestra
+PST092	#_ #taraful
+PST092	#_ #plus #*orchestra
 PST092	cioè #plus #*orchestra più canto
 PST092	[facciamo sabato]
 PST083	[ehm (.) mag]ari
@@ -111,7 +111,7 @@ PST092	[sì] che lo abbiamo [fatto]
 PST092	l'abbiamo fatto ma non so dove sia
 PST083	((al_telefono)) mamma (.) senti ti devo chiedere una cosa
 PST083	hai presente che ti dicevo <che dobbiamo [fare delle [riprese tipo (tu) mentre te]ssi:> #să #coși
-PST082	[ah eccolo (.) era qua l'avevo perso] ((ride))
+PST082	[ah eccolo (.) era qua l'avevo perso ((ride))]
 PST083	insomma fai qualcosa [(.) eh]
 PST092	[abbiamo anche questa]
 PST083	tu quand'è che sei libera?
@@ -472,8 +472,8 @@ PST092	di pubblicare le foto e robe [varie]
 PST083	[sì] ma è comunque devi comunque chiederlo cioè non è che lo chiedi una volta e poi:
 PST092	e::[:h]
 PST087	seara
-PST083	bună sear
-PST092	bună [seara]
+PST083	#_ bună sear
+PST092	#_ bună [seara]
 PST083	[non è che vale per] sempre sta cosa eh
 PST083	non lo so
 PST083	non so non mi viene nient'altro in mente.
@@ -504,7 +504,7 @@ PST092	tutti i bambini stanno sempre girati da un [lato]
 PST083	[sì] ma c'è un un da una parte i bambini che guardano di fronte comunque ((ride)) sono due linee
 PST092	e:::h
 PST092	seara]
-PST083	[#seara]
+PST083	#_ [#seara]
 PST092	che ore sono
 PST087	[le sette e quaran~]
 PST083	[sono:: e quarantotto]
@@ -529,7 +529,7 @@ PST087	[non so magari]
 PST083	sì c(io)è okay vai a ca~ ma cosa fai c(io)è con chi parli cosa: chi intervisti
 PST087	uh #la #ardeleanu
 PST092	[mi è ve~] mi è venuta
-PST092	la ardeleanu tu [te duci] la (.) [te duci la] macelerie să vorbești [da cu ardeleanul] (.) hai și tu
+PST092	#_ la ardeleanu tu [te duci] la (.) [te duci la] macelerie să vorbești [da cu ardeleanul] (.) hai și tu
 PST083	[dai]
 PST087	[non lo so::]
 PST083	[per favore]
@@ -560,7 +560,7 @@ PST083	sì ma anche la venivano due giorni e se ne andavano,
 PST092	e::h
 PST092	non so
 PST087	va(bb)è sarebbe (.) c(io)è sai cosa sarebbe stato bello se fosse venuta anda suman ma anda suman
-PST092	[s-a întors și nu se mai intoarce]
+PST092	#_ [s-a întors și nu se mai intoarce]
 PST083	[e:::h (.) non torna più]
 PST083	c(io)è nel senso perché c(io)è questa
 PST083	m::h
@@ -638,21 +638,21 @@ PST092	((al_telefono)) #da #mam
 PST092	e::h ho da fare
 PST092	mh mh
 PST092	ma quando
-PST092	#acuma?
-PST092	da le dau eu mâine ce îi dai tu azi
-PST092	da bani bani de cântec pentru?
+PST092	#_ #acuma?
+PST092	#_ da le dau eu mâine ce îi dai tu azi
+PST092	#_ da bani bani de cântec pentru?
 PST092	a:h (.) ma scusa ma a sto punto glieli do domani
-PST092	de ce nu?
+PST092	#_ de ce nu?
 PST092	se vuoi uscire tu va bene
 PST092	eh (che) lo dico ma non so se può perché è occupata #mam
-PST092	eh (ai) cântec
+PST092	#_ eh (ai) cântec
 PST092	e poi viene raggiunto con orchestra,
 PST092	piuttosto #ies #eu #afară #și #imi #mie #și #îi #dau #ei #așa #să #nu
 PST092	chiamami quando se fuori che vengo io
 PST092	#dacă e plin nu știu dacă este plin
-PST092	#probabil
+PST092	#_ #probabil
 PST092	((ride))
-PST092	hai ma te las:
+PST092	#_ hai ma te las:
 PST092	pa
 PST092	mh mh ti dico già che non la vedo però va bene
 PST092	ciao

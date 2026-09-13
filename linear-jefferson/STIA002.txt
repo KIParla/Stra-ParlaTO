@@ -88,14 +88,14 @@ PST054	mh:
 PST009	°bella domanda°
 PST202	((ride))
 PST054	[trasporti. ((ride)) e:hm]
-PST202	[trasporti, per esempio,] ((ride))
+PST202	[trasporti, per esempio, ((ride))]
 PST203	((ride))
 PST202	cove: come vi muovete di solito in città, con i mezzi?
 PST054	sì ma poi alla fine: mi son rotto dei mezzi quindi=ho usato la bici [°uso sempre la bici°]
 PST202	[mh]
 PST203	hai fatto bene
 PST202	((ride))
-PST203	[anch'io] ((ride))
+PST203	[anch'io ((ride))]
 PST009	sì mezzi: un po' tutto mezzi bici e piedi.
 PST202	okay.
 PST009	okay. [sì].
@@ -119,7 +119,7 @@ PST203	((ride))
 PST009	abbastanza [sì].
 PST054	[sì e:hm::] pochissimo io pochissimo
 PST202	ti sei convertito alla biciclet[ta:],
-PST054	[sì] perché alcune volte: mezzi di trasporto si fermano: in~ m mezz'ora una fila lunga quindi:
+PST054	[sì] perché alcune volte: mezzi di trasporto si fermano: in~ mh mezz'ora una fila lunga quindi:
 PST202	mh mh mh mh mh mh
 PST203	anche a scuola vai in bici,
 PST054	eh scuola e vicino a c~ cioè: ottocento metri da casa mia quindi: [vado a piedi]
@@ -165,7 +165,7 @@ PST009	è un pae~ sì è un paese vivibile (.) [nel senso:]
 PST202	[okay],
 PST202	d'accordo. come mai gli stati uniti, come primo paese?
 PST009	ma in realtà avrei messo giappone ((ride))
-PST202	[ah okay] ((ride)) d'accordo allora come mai il giappone?
+PST202	[ah okay ((ride))] d'accordo allora come mai il giappone?
 PST009	[non lo so la cul] la cultura è: (.) è fantastica anche come costruiscono le case e:h ormai son tutte case tecnologiche >però comunque ci sono dei quartieri con case< [antiche e] (.) particolari.
 PST202	[ti affascina]?
 PST202	[mh mh],
@@ -192,15 +192,15 @@ PST202	wow,
 PST203	[in kenya]?
 PST054	[in kenya sì].
 PST202	wow. ((ride))
-PST054	[e::] ((ride)) vorrei andare a vivere lì: (.) perché c'è un gruppo::: sportivo che:: uno al~ altri
+PST054	[e:: ((ride))] vorrei andare a vivere lì: (.) perché c'è un gruppo::: sportivo che:: uno al~ altri
 PST054	altri miei amici del:~ della nostra società (.) sono andati a viver lì perché si sta in altura, si sta:
 PST054	in un posto dove: si allenano [i migliori atleti]
 PST202	[aspetta che sport fai],
 PST203	[maratona scommetto]
 PST054	[faccio atletica] (.) no atletica.
-PST202	[quasi] ((ride))
+PST202	[quasi ((ride))]
 PST203	((ride))
-PST054	[no a maratona non ci sono ancora arrivato] ((ride))
+PST054	[no a maratona non ci sono ancora arrivato ((ride))]
 PST202	okay,
 PST054	e comunque: >non proprio per< non solo per quello ma perché lì si vive: di basso profilo, si: vive:
 PST054	cioè si vive in un posto dove (.) dove non ti interessa niente tranne che vivere (.) e esserne f~ e: andare felice cioè: di quello che fai.
@@ -223,7 +223,7 @@ PST203	[mh mh]
 PST203	lui si allena solo lì [perché c'è l'impianto],
 PST054	[sì sì]
 PST202	beh bello.
-PST203	è molto bello ((ride)) [quando è così] ((ride))
+PST203	è molto bello [((ride)) quando è così ((ride))]
 PST202	((ride)) non male.
 PST202	okay. e quindi tu invece, non solo però per vacanza o per viaggio, [ma ti sposteresti proprio:] okay. e in altri posti invece? perché sei andato diretto sul kenya per un motivo: [preciso no]?
 PST054	[°andrei a vivere°]
@@ -244,7 +244,7 @@ PST009	[anche] brasile
 PST054	>brasi~< anche:: (.) anche arizona,
 PST202	mh mh
 PST054	ehm groenladia [dicono che ci sia il più alto tasso di suicidio però: e beh ovviamente perché: un paese così: dove ci sono un mi~ un milione di abitanti]
-PST202	[wow] ((ride))
+PST202	[wow ((ride))]
 PST203	((ride))
 PST202	okay,
 PST203	cioè torino [praticamente]
@@ -307,9 +307,9 @@ PST202	okay,
 PST009	e: programmazio[ne].
 PST202	[ah] che bello.
 PST203	e tu che scuola fai?
-PST009	informatica [programmazione] ((ride))
-PST202	((ride)) [sei già: indirizzato].
-PST203	((ride)) [stai già imparando a programmare].
+PST009	informatica [programmazione ((ride))]
+PST202	[((ride)) sei già: indirizzato].
+PST203	[((ride)) stai già imparando a programmare].
 PST202	e ti piace?
 PST009	e::h sì nel senso: ehm: non è che ehm non mi dispiace però e::hm
 PST009	è probabilmente il percorso che avrei scelto: di più cioè che avrei preferito.
@@ -364,10 +364,10 @@ PST009	non su strada preferisco sentieri: e:h sentieri. sentieri in mezzo ai bos
 PST054	[sì] comunque anche il trail. sì anche a me piace il trail.
 PST009	°è fan è fantastico°.
 PST202	quindi siete entrambi appassionati [di:]
-PST009	[fa]cciamo lo stesso sport [per la stessa associazione] ((ride))
+PST009	[fa]cciamo lo stesso sport [per la stessa associazione ((ride))]
 PST202	[ah ecco:]
 PST203	[ah]
-PST054	[per la stessa associazione] ((ride))
+PST054	[per la stessa associazione ((ride))]
 PST202	((ride)) questo mi mancava okay d'accordo. mi sembrava un caso ma in effetti no,
 PST203	ma tu anche fai millecinque?
 PST009	sì preferisco millecinque e:: cinquemila.
@@ -434,7 +434,7 @@ PST009	quale,
 PST054	il [centro].
 PST203	[quella] parte lì di corso giulio: quella un po' più verso porta palazzo verso il centro:
 PST203	comincia a diventare di moda come zona
-PST009	comincia a diventare l'africa [più che altro] ((ride))
+PST009	comincia a diventare l'africa [più che altro ((ride))]
 PST054	[il punto il punto cioè]
 PST203	[no:]
 PST202	dipende [vabbè da xxx]
@@ -528,7 +528,7 @@ PST202	ah okay [okay]
 PST009	[è un un:] sì è un (.) corso di ri[ciclo].
 PST202	°[ah] che bello° ma con i bambini quindi [restate a pulire],
 PST054	[no no con noi con noi superiori].
-PST009	[no no qui in questo caso siamo noi i bambini] ((ride))
+PST009	[no no qui in questo caso siamo noi i bambini ((ride))]
 PST202	((ride))
 PST203	((ride))
 PST009	[in questo caso siamo noi=i bambini dai].
@@ -543,7 +543,7 @@ PST009	ping pong anche se o: ora si è rotto e:h
 PST202	((ride)) okay. e e però e e invece appunto quando fai riciclo in cosa consiste l'attività,
 PST009	allo[ra],
 PST202	[cioè] in pratica cosa fate,
-PST009	e:h facciamo cose [ehm faccia~] ((ride)) l'ultima volta abbiamo progettato e:::h (.) uno zaino,
+PST009	e:h facciamo cose [ehm faccia~ ((ride))] l'ultima volta abbiamo progettato e:::h (.) uno zaino,
 PST202	((ride))
 PST202	wow.
 PST009	proprio uno [zainetto] (.) che possa essere adattato e: applicato a una: a una bicicletta.
@@ -669,8 +669,8 @@ PST202	[è bel]lo
 PST054	°sì°
 PST202	ma perché dici intellettuale?
 PST054	e: no
-PST202	((ride)) [u:h oddio]
-PST009	[e questo non l'ho capito sì nemmeno xxx] ((ride))
+PST202	[((ride)) u:h oddio]
+PST009	[e questo non l'ho capito sì nemmeno xxx ((ride))]
 PST054	[no ehm >nel senso che<]
 PST054	[no no solo l'am] cioè l'ambiente da fuori come lo vedo mi sembra così (.) cioè mi sembra un po' come: e:hm i caffè quelli: francesi: [dei vecchi tempi dove ci sono tanti:] ritrovamenti tra intellettuali
 PST202	((ride))
@@ -710,7 +710,7 @@ PST054	[si] sta po~ e: si infatti [si sta bene].
 PST009	[si sta bene].
 PST202	in che senso si sta bene nel senso che sono pochi?
 PST009	nel senso che c'è stato un sabato in cui c'erano centocinquanta bambini [provenienti da diversi centri],
-PST202	((inspira)) [a::::h]
+PST202	[((inspira)) a::::h]
 PST054	[da tutti: da tutti] i cen~
 PST009	e quindi da da quel momento in poi quando ci sono venti bambini io: io son con[tento]
 PST202	[è il para]diso
@@ -771,7 +771,7 @@ PST009	[definisci quella cosa che hai fatto con i fogli].
 PST054	quella roba giapponese o cinese [non lo so].
 PST009	[ori]gami?
 PST054	origami [esatto ((ride)) e:::h]
-PST202	[okay] ((ride))
+PST202	[okay ((ride))]
 PST054	no ora non mi ricordo.
 PST202	[e ogni sabato cambia] ((ride))
 PST054	[parlane tu]
@@ -840,7 +840,7 @@ PST009	cosa,
 PST054	sì alcuni di quelli:
 PST203	i professori [che vengono ogni tanto].
 PST054	[al]cuni di quelli cioè erano proprio ex professori da me nella scuola ((ride))
-PST202	((ride)) [aiuto] ((ride))
+PST202	[((ride)) aiuto ((ride))]
 PST054	però non insegnavano a me insegnavano a altre:: a altri ragazzi cioè a generazioni prima di noi.
 PST009	tu parli di via:
 PST054	di via baltea.
@@ -909,12 +909,12 @@ PST202	e::h che cosa fate nel tempo libero, cioè mi avete detto di asai che vi 
 PST009	[sì].
 PST009	allora io nel tempo libero e:h (.) faccio parecchie [cose e:] che c~ cioè che tutto tranne lo studio [faccio. allora (.)] comincia~ cominciando da pianoforte. videogames. ehm fumetti. ehm anime. e:hm
 PST202	[okay]
-PST202	[bene.] ((ride))
+PST202	[bene. ((ride))]
 PST009	sai s~ sai di cosa sto parlando.
 PST202	sì,
-PST009	okay. netflix tanto netflix [parecchio netflix] ((ride))
-PST202	[cosa guardi su netflix.] ((ride))
-PST009	è è una droga [netflix praticamente] ((ride))
+PST009	okay. netflix tanto netflix [parecchio netflix ((ride))]
+PST202	[cosa guardi su netflix. ((ride))]
+PST009	è è una droga [netflix praticamente ((ride))]
 PST202	((ride))
 PST009	ehm (.) cos'altro? ehm sì e::hm esco a giocare a calcio, magari ehm non mi piace giocare a calcio ci gioco solo per per giocare con qualcun altro.
 PST203	[lo guardi anche il calcio la serie a]?
@@ -923,8 +923,8 @@ PST202	[sì].
 PST009	okay (.) eh?
 PST203	guardi anche: la serie a?
 PST009	non mi piace. no ma non mi piace il calcio ci ci gioco solo per giocare con qualcu~ cioè per giocare con qualcuno. sinceramente non mi piace non lo guardo.
-PST009	sì s~ in realtà, (.) lo guardo quando gioca gioca: la juve per prendere in giro: [un paio di persone che conosco] ((ride))
-PST202	[giusto questo è giusto] ((ride))
+PST009	sì s~ in realtà, (.) lo guardo quando gioca gioca: la juve per prendere in giro: [un paio di persone che conosco ((ride))]
+PST202	[giusto questo è giusto ((ride))]
 PST203	((ride))
 PST009	e:hm quando so che qualcuno è appassionato di calcio io guardo~ guardo quella partita per prenderlo in giro poi il giorno dopo e: è una cosa fantastica e:: mah
 PST203	a te neanche piace il calcio,
@@ -962,7 +962,7 @@ PST202	non ti piace. e non tifi neanche niente neanche simpatizzare.
 PST054	no
 PST202	fantastico.
 PST054	guardo solo la juve solo perché c'è ronaldo lì [che se n'è andato dal re~]
-PST009	[okay perfetto buono a sapersi] ((ride))
+PST009	[okay perfetto buono a sapersi ((ride))]
 PST054	dal real madrid però basta cioè non mi piace il calcio: [(.)] italiano
 PST202	[okay]
 PST202	hai altri hobby?
@@ -989,7 +989,7 @@ PST054	prima c'era però.
 PST009	e: altri classici (.) aggiungerei.
 PST202	d'accordo. (.) tu hai altre attività da aggiungere?
 PST054	oltre a: all'altletica cioè mi piace solo ehm vabè in ambito di: di: cioè di cultura mi piace: leggere tanti libri di filoso[fia: specie:] quelli dei maestri del sospetto mi piacciono tantissimo.
-PST202	[wow] ((ride))]
+PST202	[wow ((ride))]]
 PST202	okay. (.) fate un sacco di cose.
 PST203	sì.
 PST202	okay va bene [vi lascio: vi lascio andare direi]
@@ -1019,7 +1019,7 @@ PST009	[però comunque:]
 PST054	ehm da studiare no.
 PST202	[per i fatti tuoi. cioè nel senso se il programma è: no (.) okay. (.) okay va bene].
 PST054	[ma: si >per i fatti miei sì< leggere quello che piace a me non quello che mi impongono di fare].
-PST202	[che mi sembra il modo più xxx] ((ride))
+PST202	[che mi sembra il modo più xxx ((ride))]
 PST203	[vabbè è sempre così]
 PST203	pensa che io ho un sacco di libri che ci davano: a scuola da leggere (.) >allora< quando ce~ ci dicevano loro di leggerli li guardavo e mi facevano sempre schifo non non li fini:vo,
 PST054	[è vero? oppure in vacanza quando tipo]

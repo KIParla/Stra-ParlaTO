@@ -17,7 +17,7 @@ PST007	ho ventiquattro, anni:
 PST201	anche tu,
 PST008	((ride))
 PST007	((ride)) sì:: ventiquattro anni,
-PST008	en serio:,
+PST008	#_ en serio:,
 PST008	sul serio? ((ride))
 PST007	(ah) xxx
 PST201	e:: [di dove siete:]?
@@ -95,7 +95,7 @@ PST008	((ride))
 PST007	io prima #en #*un: (.) lavoravo #en #*un ristorante peruviano: e:: poi e::
 PST007	fino #el mio lavoro e::
 PST007	an:~
-PST007	como es ahora
+PST007	#_ como es ahora
 PST007	ancora
 PST008	adesso:,
 PST007	adesso[: #estoy la]vorando #e::n #*u:n ristorante,
@@ -283,7 +283,7 @@ PST008	e la posta:: italiana:, [(.) #siem]pre #en inglese:,
 PST201	[m:h=mh]
 PST201	mh=[m:h]
 PST008	[anche] per la tessera sanitaria #siempre:,
-PST008	siempre en inglés
+PST008	#_ siempre en inglés
 PST201	quindi preferisci l'inglese:, m:h [(anzi) che l'italia~]
 PST008	[sì: perché lo parl~] (.) parlo meglio: (.) [meglio che l'ita]liano:,
 PST201	[okay]
@@ -298,13 +298,13 @@ PST201	vi [capita] mai, di mescolare: le lingue::
 PST007	[xx]
 PST201	in una stessa frase[::],
 PST008	[m:]:h
-PST007	ah como te digo
+PST007	#_ ah como te digo
 PST008	quasi sempre: se::
 PST008	mi dimentico:: qualche parole: (.) #en #*la mia lingua:, che è #[el spagnolo:]
 PST201	[ce:rto]
 PST008	anche con #el inglese:
 PST008	e::
-PST008	for example ((ride))
+PST008	#_ for example ((ride))
 PST008	<quando> e:h ieri:,
 PST008	è arrivato una: famiglia di:: francese:
 PST008	al mio ristorante:,
@@ -318,8 +318,8 @@ PST008	((ride))
 PST007	xxxx
 PST007	lui lavora en un ristorante buonissimo è: u:n (.) una cucina peru~ peruviana e:: un #nivel
 PST007	[xx]
-PST008	[#gourmet]
-PST008	ni[vel gourmet]
+PST008	#_ [#gourmet]
+PST008	#_ ni[vel gourmet]
 PST007	#[nivel #gourmet] (.) alto:
 PST008	mh
 PST201	è da tanto che lavori lì?
@@ -347,7 +347,7 @@ PST007	un mese: (.) sì::
 PST201	e:: (.) mi volete raccontare qualche tradizione: del vostro paese:,
 PST008	m::h
 PST008	nel mio paese::
-PST008	#soccer
+PST008	#_ #soccer
 PST008	football,
 PST201	((ride))
 PST201	ok[ay:]
@@ -359,13 +359,13 @@ PST008	[ferne:t]
 PST008	che qua el fernet eh branca, se:: si chiama amaro:,
 PST008	noi: l:a bevanda, (.) quella bevanda:,
 PST008	per noi #es::
-PST008	no lo sé:: u:n
+PST008	#_ no lo sé:: u:n
 PST008	è: acqua,
 PST007	((ride))
 PST008	fernet (.) lo: lo::
 PST008	be:vuto:?
-PST008	be:bemos:
-PST008	cómo se dice: bebemos?
+PST008	#_ be:bemos:
+PST008	#_ cómo se dice: bebemos?
 PST007	#bebemos, (.) beviamo?
 PST008	sì: lo beviamo, (.) #siempre:
 PST008	#el fernet #*co:n: coca cola:,
@@ -538,7 +538,7 @@ PST008	((ride))
 PST007	andiamo a mangiare:, con #mi amici:
 PST007	cosa mangiamo:,
 PST008	pizza:
-PST007	pizza:, [(.)] ((ride))
+PST007	pizza:, [(.) ((ride))]
 PST008	((ride))
 PST201	((ride))
 PST008	ma no no no: (.) no #he: $trovado e:h io la::
@@ -561,7 +561,7 @@ PST201	da:: cinque anni:,
 PST007	<cinque> anni to[rino:],
 PST008	[a:h], (.) per l~ per tanto #po:r l:a: università,
 PST201	sì [sì:]
-PST007	[por la] univer[sidad] xx universida:d
+PST007	#_ [por la] univer[sidad] xx universida:d
 PST201	[sì:]
 PST201	sì:
 PST007	#y:: #por noi andare a mangiare qualcosa:: e:h un piatti: (.) tipico di qua di torino:, cosa dobbiamo $mangiar(i)
@@ -591,7 +591,7 @@ PST201	sì: sono simili, [sì sì:]
 PST008	[(son) sim]ili a un ravio[li:]
 PST201	[s]ì::
 PST008	sì un una #gyoza:,
-PST007	#mire:n:,
+PST007	#_ #mire:n:,
 PST008	una #gyoza:, sì
 PST007	giallo:
 PST008	sì: un ravioli,
@@ -614,7 +614,7 @@ PST007	dobbiamo andre a mangiare qualche, [xxxx]
 PST008	[che altre:: doma]nda:,
 PST201	e: quando siete qua vi capita invece di mangiare qualche piatto del vostro paese:, o: mangiate solo: (.) cibo italiano,
 PST007	e:hm::
-PST007	#este
+PST007	#_ #este
 PST007	tutti i giorni a:: >quel che< (.) quel che gira andiamo con (miei) amici a mangiare:
 PST007	qualcosa peruviana:, qualcosa italia[na: e mess]icana: però: (.) più peruviana,
 PST008	[quasi sempre peruviana:],
@@ -652,7 +652,7 @@ PST008	[eh sì:]
 PST008	sì
 PST201	e che:, (.) qual'è un piatto tipico::
 PST008	a:h,
-PST008	#ceviche:,
+PST008	#_ #ceviche:,
 PST007	((ride)) [#°ceviche,°]
 PST008	[classico:] #*que #es un pesce:: (.) tagliato in cubettini:, marinato al limone::
 PST008	con cipolla:::
@@ -665,7 +665,7 @@ PST008	molto simile, ma bollite:
 PST008	e::hm:
 PST007	patate dolce:,
 PST008	patate dolce:: #lomo #saltado::
-PST008	e: arroz chaufa:,
+PST008	#_ e: arroz chaufa:,
 PST008	e:l c:~ #arroz #chaufa, è proprio:: giapponese:,
 PST008	#*si no sbaglio, (.) vero?
 PST007	sì:
@@ -697,11 +697,11 @@ PST008	e: se può: se può dire che è: argentina:,
 PST201	mh
 PST201	a pa[rte ques~,]
 PST008	[ma: negli: s]tati uniti:, sempre:: la #barbacoa
-PST008	the barbeque:
+PST008	#_ the barbeque:
 PST201	okay
 PST008	sì molto: è molto simile ma no [#igual],
 PST007	[xx] x
-PST008	((ride)) [
+PST008	[((ride))
 PST007	((ride))
 PST201	e i dolci, invece: vi piacciono::,
 PST008	o:h il ti[ramisù:]
@@ -719,7 +719,7 @@ PST008	[che:: noi] nel mio ristorante: lo: facciamo con: (.) torta s~ torta::: d
 PST201	[eh]
 PST007	[xxxxx]
 PST008	[torta di spagna:],
-PST007	(lo probé así)
+PST007	#_ (lo probé así)
 PST008	sì buonissimo:,
 PST007	((ride)) buonissimo:, buo[ni~]
 PST008	[sì]: sì
@@ -767,8 +767,8 @@ PST008	a:h no (.) no, io vivo
 PST008	proprio centro:
 PST007	((ride))
 PST008	e:: vicino a:[: la] (posta) centr[ale:, al #*banco #°de] italia::
-PST007	[rey:,]
-PST007	[vicino al #rey:, vicino al #rey] ((ride))
+PST007	#_ [rey:,]
+PST007	[vicino al #rey:, vicino al #rey ((ride))]
 PST008	(a) la banca (#de) italia::, a la piazza san carlo: sì è: (.) >cioè< apro la porta e c'è gucci::
 PST007	((ride))
 PST201	[a::h (.) okay]
@@ -844,7 +844,7 @@ PST007	[eh sì::]
 PST201	[cuoco:]
 PST007	(sì) xxx (.) adesso:,
 PST007	#y:: #algo così #algo facile, no: no molto difficile,
-PST007	no me piace #el numero:, #así #*che: la mate[mati[ca] xxx [(.)] ((ride))]
+PST007	no me piace #el numero:, #así #*che: la mate[mati[ca] xxx [(.) ((ride))]]
 PST201	[okay]
 PST008	((ride))
 PST201	((ride))
@@ -853,7 +853,7 @@ PST008	è troppo bello:,
 PST007	((ride)) no: [no=no], ((ride))
 PST008	[sì:: sì numeri] (.) troppo bell(a:)
 PST007	primo:, che: che mi porte::
-PST007	dios x ((ride)) los [numeros,]
+PST007	#_ dios x ((ride)) los [numeros,]
 PST008	[dio:]? ((ride))
 PST007	((sospira))
 PST201	tu vuoi continuare informatica:, inv~
@@ -881,7 +881,7 @@ PST008	no: anche:, (.) mi piace tanto: i: numeri,
 PST008	la matematica:
 PST008	ma:: non posso: (.) fare una::
 PST008	una: una:
-PST008	#*una #suma,
+PST008	#_ #*una #suma,
 PST008	#cómo si #*dice una #s[uma]?
 PST201	[som]ma:?
 PST008	sì una somma: e:n: ((ride)) con la mente, sempre devo andare con la #calculadora:,
@@ -892,7 +892,7 @@ PST007	e:h sì: (.) (bravo con la calcola~) (.) ((ride))
 PST008	((ride))
 PST008	sì
 PST201	okay
-PST007	siempre dale, con la calculadora: si lo (quitas)
+PST007	#_ siempre dale, con la calculadora: si lo (quitas)
 PST201	e anche tu: qua stai: frequentando una scuola:, per: la terza [media, (.) no]?
 PST008	[no: io no]
 PST201	no (.) [però:]
@@ -903,7 +903,7 @@ PST201	ok[ay]
 PST008	[sol]o qua al mattino:,
 PST007	((ride))
 PST008	m:h mh
-PST007	buongiorno:, [xxx] ((ride))
+PST007	buongiorno:, [xxx ((ride))]
 PST008	((ride))
 PST201	((ride))
 PST007	(prende partita: (.) vero?)
@@ -942,7 +942,7 @@ PST008	((si_schiarisce_la_gola))
 PST007	e:: me ha detto:,
 PST007	io abito qui: #e:n #en milano due anni: adesso: #estoy interessato, voi andare a torino:,
 PST007	((ride)) #y lui #quiere andare a mila:no ((ride))
-PST008	((ride)) [(.)] ((ride))
+PST008	[((ride)) (.) ((ride))]
 PST007	e (tu) [interessato a andare a mi]lano:, (.) a mila:~ a torino: (#dice) abitare lì perché:
 PST008	[ho capito:]
 PST007	qui troppo: caro:, l~ un $estanza, mille #euros:
@@ -957,14 +957,14 @@ PST007	#casi: (.) no,
 PST007	milletrecento:, e lavorava #en (altro) lavoro: e::
 PST007	(tu sa che,)
 PST007	tutto #el mese:, in soldi: mile e #ocho ce~ (.) mille e #ocho::
-PST008	#ocho,
+PST008	#_ #ocho,
 PST008	o: (.) [cen~ (.) <#o[cho] cento>.]
 PST201	[otto, cent[o:]]
 PST007	[[o(t)]to:ce:nto] ((ride))
 PST007	mille ottocento:
 PST007	e::hm
 PST007	l'$estanza: mille::
-PST008	e:xpens[ive]
+PST008	#_ e:xpens[ive]
 PST007	[per man]giare: $spensa:: [cinque]cento:, mille[cinquecento trec]ento: [cos]ì::
 PST008	[e::h]
 PST008	[°mh°] ((ride))
@@ -997,7 +997,7 @@ PST201	[di] cosa parla:,
 PST008	no:: no parla:, è u::n::
 PST008	un::
 PST008	un #hero:,
-PST008	un héroe,
+PST008	#_ un héroe,
 PST201	un eroe:?
 PST008	un eroe:,
 PST201	o:kay
@@ -1054,7 +1054,7 @@ PST008	ma:: ascolto, molto: e::
 PST008	di e di: (.) di #pods~ #pods~ (.) pod (.) cast
 PST008	$po[sca:]
 PST201	[po~] (.) #podca:[st]
-PST008	#[pod]ca:st,
+PST008	#_ #[pod]ca:st,
 PST008	sì::
 PST008	di: questo:,
 PST008	ragazzo: è: di milano, #teacher stefano:,
@@ -1096,7 +1096,7 @@ PST008	((ride))
 PST007	io me piace #ozuna:
 PST007	e tante: musica però: sempre musica latina:,
 PST008	sì: anche quando:: andiamo a:: [discote]ca:,
-PST007	[#*a #baile]
+PST007	#_ [#*a #baile]
 PST007	#*a $ba[ilare:],
 PST201	[mh m:h]
 PST008	sì: sempre: (.) latino:,
@@ -1116,7 +1116,7 @@ PST008	#*se $parle: #e:n: #en la: (.) #en #*la #*musica:,
 PST008	musica #*se dice?
 PST007	((si_schiarisce_la_gola))
 PST201	sì:
-PST008	#en #*la #*musica:,
+PST008	#_ #en #*la #*musica:,
 PST008	tanto in italiano, come in in inglese:,
 PST008	perché c'è:: e~ #esta: #*cantando:: parlando #en #*i:taliano #y:
 PST008	e: dopo:: (.) parla #en inglese un po': e: mi piace tanto quello di: (.) della #cancione:s [in italiano:],
@@ -1183,7 +1183,7 @@ PST007	((ride))
 PST008	no: non è: (.) non è #buena,
 PST007	((ride))
 PST008	(non è) #buena, #y:
-PST008	#bueno
+PST008	#_ #bueno
 PST008	ho venuto qua: (e:n) (.) en itali[a:],
 PST201	[o:]kay:
 PST008	#y:: è difficile per me perché:
@@ -1211,7 +1211,7 @@ PST007	#e:n mio paese:: sì ta~ tanti lavori:: (.) sempre,
 PST007	m::h
 PST007	più ma (.) ristorante: anche: altre co:sa: e::
 PST007	e: in minimarke::t così:
-PST007	#e::n:
+PST007	#_ #e::n:
 PST007	#en azienda: peruviana:
 PST007	però:: più ristorante:
 PST201	°ristoran(te)°
@@ -1240,7 +1240,7 @@ PST007	[sì: bar]cellona sempre:
 PST007	$provero: barcellona::
 PST007	y:::
 PST007	y l'inter (mija:~ maji~,) (.) miami:
-PST007	#y:::
+PST007	#_ #y:::
 PST007	xx xx
 PST007	sì:
 PST007	però:: adesso:
@@ -1277,11 +1277,12 @@ PST008	rugby:
 PST008	°rugby eh°
 PST008	#football: americano:,
 PST201	okay
-PST008	american football,
+PST008	#_ american football,
 PST008	e::: rugby::
 PST008	e e: #swimming
 PST008	non so #como si (#dice) in italiano:,
 PST201	[e:]:h nuotare:, pisc[ina:, pisci~]
+PST008	#_
 PST008	[na~ nuotare, sì:] $nad[are:] (.) quello:,
 PST201	[oka~]
 PST008	e::hm: (.) sì solo:,
@@ -1331,10 +1332,10 @@ PST007	cantava,
 PST201	°ah°
 PST007	come si dice cantava io canto: e:, (.) cantava:,
 PST008	non lo s[o: #cómo #*se #dice can]:to:,
-PST007	°[#en #*italiano, #*cantava:)°]
+PST007	#_ °[#en #*italiano, #*cantava:)°]
 PST201	sì sì:can~
-PST008	#ca[ntar]?
-PST007	[cante] y [baile:,]
+PST008	#_ #ca[ntar]?
+PST007	#_ [cante] y [baile:,]
 PST201	[canta]re:, sì sì
 PST008	eh
 PST008	canta qualcosa:,
@@ -1347,11 +1348,11 @@ PST007	((ride))
 PST008	pe:r nostro: ascoltatore:,
 PST007	e como (che:)
 PST008	qua ((ride))
-PST007	xx te:: te digo ahorita lo que está tu::,
+PST007	#_ xx te:: te digo ahorita lo que está tu::,
 PST007	andato:, e::
 PST007	alla: marina (.) e:
-PST007	date tres he vuelta:s eh,
-PST007	he: (.) pensado:
+PST007	#_ date tres he vuelta:s eh,
+PST007	#_ he: (.) pensado:
 PST008	io posso:, io pos[so]
 PST007	((ride)) io posso e:
 PST008	no la marina, la: (.) forza ae[rea]
@@ -1454,7 +1455,7 @@ PST008	((ride))
 PST007	((ride))
 PST201	((ride))
 PST008	quanti:, argentini:
-PST007	((si_schiarisce_la_gola))
+PST007	[((si_schiarisce_la_gola))]
 PST008	[hai]: int[ervistati],
 PST201	[e::h uno], cre:d~ o:
 PST008	no: io #porque vorrei sapere se::
@@ -1462,10 +1463,10 @@ PST008	ce l'hai altri:, ((ride)) [arge]ntina: qua]?
 PST007	((ride))
 PST201	[sì: sì:: (.) ah] sì due:, una coppia:,
 PST008	a::h sì lo so chi è (.) so: lo so chi è
-PST007	>no es< cómo el de[sierto:,] (.) no estoy so:[lo: (.) non] ((ride))
+PST007	#_ >no es< cómo el de[sierto:,] (.) no estoy so:[lo: (.) non] ((ride))
 PST008	[e::h],
 PST008	((ride)) [#*no: #estoy #*solo], (.) #i'm #not #alone: ((ride))
-PST007	i'm not alone:
+PST007	#_ i'm not alone:
 PST008	((ride))
 PST201	li conosci:?
 PST008	sì: #creo #*que #*sí ma è: una: (.) una coppia #*de: (.) #*de signori:, (.) grandi no?
@@ -1505,7 +1506,7 @@ PST201	((ride))
 PST007	[in gre:cia],
 PST201	e[::h]
 PST007	[(io) so~ andato] primo paese qua:,
-PST007	#españa::
+PST007	#_ #españa::
 PST007	#y: in #méxico:, niente: altro paese,
 PST008	ah figo:
 PST007	e in <aus:tria:>
@@ -1685,12 +1686,12 @@ PST007	per andare:: sempre: (.) parlano #por il: (.) #por il cellul[are: sì: ta
 PST008	[#por (il) cellulare:, sì:]
 PST007	a fino: e:: due anni e mezzo:, #porque: la #*pandemia:, le #*han detto che deve aspetta[:re aspetta]re sì: °sì #entonce~
 PST008	[sì::]
-PST007	#y::
+PST007	#_ #y::
 PST008	[la pandemi]a:,
 PST007	#y così
 PST007	poi l:~ lo:: l'ho visto, come se (.) poi
 PST007	abbiamo incontrato
-PST008	cómo?
+PST008	#_ cómo?
 PST007	abbiamo incontrato:,
 PST008	sì: [trovato:],
 PST007	[xxx]
@@ -1727,7 +1728,7 @@ PST008	((ride))
 PST007	sì vai:: (.) #ya #está #ahí:
 PST007	così lavora: ((ride))
 PST008	((ride))
-PST007	tranquilo: eh
+PST007	#_ tranquilo: eh
 PST008	tranquillo:
 PST201	((ride))
 PST008	(e io [di~])
@@ -1740,13 +1741,13 @@ PST201	mh
 PST007	solo così: ((ride))
 PST201	((ride))
 PST007	mi piace un #día lo:: l'ho vi~ (.) #*lo #he visitado:,
-PST007	cómo se dice?
+PST007	#_ cómo se dice?
 PST008	come:?
 PST007	un #día: andato io: al suo: lavoro:,
 PST008	sì:
 PST007	lo:: l'ho visto lì
 PST007	mi piace: il tuo lavoro, (ve:ro:,) ((ride))
-PST008	((ride)) [è:] tutto il giorno così ((ride))
+PST008	[((ride)) è:] tutto il giorno così ((ride))
 PST201	((ride))
 PST007	(si) è tutto il giorno:
 PST008	((ride))

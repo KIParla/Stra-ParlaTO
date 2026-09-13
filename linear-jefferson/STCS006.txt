@@ -7,7 +7,7 @@ PST112	piano:,
 PST114	cosa te ne ho messo [così xx xx un po' stizzi]ta eh
 PST112	[un po' (.) così],
 PST112	[così]
-PST113	((fa_un_verso))
+PST113	[((fa_un_verso))]
 PST112	((fa_un_verso))
 PST112	oh vabbè allora questo è: mio e di
 PST113	meno male che non ho preso questo se no prendevamo otto coche
@@ -455,7 +455,7 @@ PST112	((ride))
 PST113	[sul telefono spostalo]
 PST114	[sul telefono di:: di di] [no::: il regi]strato::re
 PST115	[che hai fatto]?
-PST114	[e::h] ((ride))
+PST114	[e::h ((ride))]
 PST112	((ride))
 PST114	eh senti ((fa_versi))
 PST115	quello per lo (devo) proprio:,
@@ -775,7 +775,7 @@ PST112	((ridendo)) però grazie
 PST112	io e che stavamo piegando i panni,
 PST113	((ride))
 PST113	a[mo:re]
-PST112	((ridendo)) [(per capi~)]
+PST112	[((ridendo)) (per capi~)]
 PST114	[x xxx]x
 PST113	[(veramente)]
 PST112	sì vabbè ma gli ha aperto la (.) c(io)è il proprietario gli ha aperto la porta c'aveva il divano della cucina pieno di jeans buttati a cazzo di cane,
@@ -920,7 +920,7 @@ PST113	questo mese, (.) >centocinquanta< euro.
 PST114	lei che già pensava avessi il contratto mi fa:: eh vabbè devi spingere xxx eh così
 PST114	gli faccio::
 PST114	che cazzo me ne [frega a me],
-PST112	((ride)) [eh esatto] no,
+PST112	[((ride)) eh esatto] no,
 PST113	che (.) quattrocento i::: (.) i vos~?
 PST114	(te l'ho detto) non posso dirlo
 PST113	quello che quello che mi ha detto era quattrocento poi non so se è cambiato

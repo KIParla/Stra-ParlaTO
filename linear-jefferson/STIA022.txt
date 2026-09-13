@@ -160,7 +160,7 @@ PST222	nella vita
 PST222	(mh)
 PST222	cos'è
 PST144	e:h
-PST222	xaṭib-ek
+PST222	#_ xaṭib-ek
 PST144	sì
 PST222	questo nella macchina?
 PST144	sì
@@ -341,11 +341,11 @@ PST144	mh mh
 PST222	cosa cambia (.) lo sport (.) nella vita (.) delle persone
 PST144	m:h cambia::
 PST144	sulle abitudini
-??	as-salam-u 3alay-kum
-PST222	bi-tkallam l-maghribi
-??	shwiya
-PST222	shweya shweya
-??	sh[wiya]
+??	#_ as-salam-u 3alay-kum
+PST222	#_ bi-tkallam l-maghribi
+??	#_ shwiya
+PST222	#_ shweya shweya
+??	#_ sh[wiya]
 PST222	[sei nato] in italia?
 ??	eh?
 PST222	sei nato e cresciuto
@@ -933,7 +933,7 @@ PST144	secondo me dipende dalle persone
 PST222	non hai notato questa:: questa fenomeno
 PST144	m::h no perché: io con alcuni dei miei amici italiani:=in realtà: succede anche con loro quindi non:
 PST222	ma magari dipende dal genere
-PST222	[x (.)] ((ride))
+PST222	[x (.) ((ride))]
 PST144	[dipende dalle persone dipende:]
 PST144	cioè ci sono persone con cui non puoi fare determinate battute e ci sono altre persone che invece sono più:: più tranquille puoi::
 PST222	non ho mai::
@@ -1072,7 +1072,7 @@ PST222	okay (.) in italiano (.) ogni verbo (.) ha tipo (.) venticinque (.) coniu
 PST144	mh
 PST222	okay?
 PST222	sai cosa significa per noi? ((ride))
-PST144	[eh] ((ride))
+PST144	[eh ((ride))]
 PST222	e devo pa~ devo memoriz[zare]
 PST144	[lo stoppiamo]?
 PST222	no tranquilla
@@ -1345,7 +1345,7 @@ PST222	questa #'anis (.) è un livello (.) più alto della amicizia
 PST222	della compagnia (.) okay
 PST222	la persona (.) che [non ti f~]
 PST144	[ma] il e:h la: la radice della parola: è?
-PST222	'anasa
+PST222	#_ 'anasa
 PST144	#'ana~ ah okay
 PST222	sai la parola #'an-nas
 PST144	ah
@@ -1390,9 +1390,9 @@ PST222	se ascolti questo nome
 PST144	sì sì [sì]
 PST222	[okay]
 PST222	e::hm::
-PST222	wa 'anis
+PST222	#_ wa 'anis
 PST222	okay
-PST222	wa muʾnis
+PST222	#_ wa muʾnis
 PST144	mh
 PST222	che sono nome (.) di relazioni (.) della parola di: della di questo verbo,
 PST222	e::h sono aggettivi praticamente
@@ -1402,7 +1402,7 @@ PST144	mh
 PST222	okay sono tipo [quattro aggettivo] (.) della stessa parola sono aggettivi
 PST144	[sì sì sì]
 PST222	e:hm: sai come si chiama
-PST222	surat el-'af3al
+PST222	#_ surat el-'af3al
 PST222	e::h xxx
 PST144	okay
 PST222	modi di s~ (xx[zione) (.) letteralmente]
@@ -1451,21 +1451,21 @@ PST222	okay
 PST144	e:[:h]
 PST222	[come si dice] questa espressione?
 PST144	si dice #niyya #wa #qallet #niyya #may #tlaqaw
-PST144	niyya
+PST144	#_ niyya
 PST222	aspe~
-PST144	niyya
+PST144	#_ niyya
 PST222	uhm #niyya
-PST144	wa qallet niyya
+PST144	#_ wa qallet niyya
 PST222	okay
-PST144	3ammer-hum may tlaqaw
+PST144	#_ 3ammer-hum may tlaqaw
 PST222	okay la traduzione non ho ((ride)) non ho capito [niente] ((ride))
 PST144	[e:h]
 PST144	sai cos'è #niyya no
-PST222	an-niyya?
+PST222	#_ an-niyya?
 PST222	okay [intenzione]
 PST144	[#an-niyya quindi] sì l'intenzione
 PST144	quindi (.) lei dice (.) l'intenzione s~ (.) pura (.) quindi #niyya #ṣafiya
-PST144	#u #niyya
+PST144	#_ #u #niyya
 PST144	#u #qallet #niyya quindi la mancanza invece di intenzione
 PST222	[okay]
 PST144	[son due] (.) son due linee parallele quindi non si incontreranno mai
@@ -1497,7 +1497,7 @@ PST222	e sai qua in: si dice
 PST222	#qalli-li #niyya in e:h arabo in egiziano
 PST144	[mh]
 PST222	[si chiama #qalli-li #el-ʿaṣl
-PST144	qalil el-ʿaṣl
+PST144	#_ qalil el-ʿaṣl
 PST144	no da noi #ʿaṣl è un'altra cosa
 PST222	e cosa: cosa significa?
 PST144	#el-ʿaṣl per noi è::=m:h il=e::hm
@@ -1536,7 +1536,7 @@ PST144	se mi metto a sparlare di quella persona (.) per me quella è #qallet #ni
 PST144	proprio là è proprio:
 PST144	son delle intenzioni::
 PST144	sporche cioè son son:
-PST144	[#niyya]
+PST144	#_ [#niyya]
 PST222	[non hanno intenzione:] hanno intenzione (dura)
 PST144	sì esatto
 PST222	sì (.) fanno: i giri si chiama così in italiano?
@@ -1553,6 +1553,7 @@ PST222	[in]gannare la gente [(.)
 PST144	[sì: sì sì]
 PST222	si dice in arabo
 PST144	sì (.)
+PST222	#_
 PST144	°muxadi3in°
 PST222	sì
 PST222	oppure (.)

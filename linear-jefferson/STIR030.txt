@@ -56,7 +56,7 @@ PST094	così:::
 PST094	da lì: abbiamo detto no dobbiamo mantenerci anche la nostra identità:
 PST094	quindi abbiamo cominciato a fare cultura (.) tramite l'educazione
 PST092	le prime attività cioè come sono nate tutte queste attività che adesso si svolgono
-PST094	eh tutte queste attività si: eh so:~ e:h si so~ mmh hanno preso vita anche per il fatto che::
+PST094	eh tutte queste attività si: eh so:~ e:h si so~ mhmh hanno preso vita anche per il fatto che::
 PST094	quando qualcosa: non ce l'hai ti manca
 PST094	mancando e::hm
 PST094	come ti avevo detto pri:ma
@@ -236,7 +236,7 @@ PST094	così capiscono anche italiani
 PST094	vabbè che: c'è qualcuno che mi ha ferma:to no dicendo no no stop
 PST094	stop stop
 PST203	non [si può perché non si può]?
-PST094	[poi dico: mmh per]ché non si può ((ridendo))
+PST094	[poi dico: mhmh per]ché non si può ((ridendo))
 PST094	ma io: ho fatto anche il teatro anche qualche scenetta
 PST094	in doppia li:ngua no perché i rumeni
 PST094	a un certo punto parlano parlano parlano italiano
@@ -308,7 +308,7 @@ PST203	[ti direi mi fai un ese:mpio di que]sta cosa
 PST094	mh ti devo fare un esempio di questa cosa
 PST094	e:hm
 PST094	per esempio in una canzone diceva::
-PST094	m-a lăsat să culeg bureți
+PST094	#_ m-a lăsat să culeg bureți
 PST094	>cosa vuole< <mi ha lasciato a raccogliere i funghi>
 PST094	giustamente in una canzone no?
 PST094	la ragazza non ha capito
@@ -326,8 +326,8 @@ PST094	nessuna spiegazione
 PST094	poi ci sono tante altre cose::
 PST094	tante tante tante o quando li senti che parlano:::
 PST094	e:h
-PST094	#amu
-PST094	am~ amu acasucă ((ride))
+PST094	#_ #amu
+PST094	#_ am~ amu acasucă ((ride))
 PST094	((ride))
 PST094	e tu dici ma
 PST094	mamma mia che acce:nto: che bene che lo dici meglio di me che sono nata di là ((ride))
@@ -344,7 +344,7 @@ PST094	MA PERCHE' LO STAI USANDO SE NON SAI COSA VUOL DIRE
 PST094	no?
 PST094	però poi gli spieghi e: li vedi che: non utilizzano più.
 PST092	anche per le canzoni è un po' così
-PST092	[x] ((ride))
+PST092	[x ((ride))]
 PST094	[anche per le canzo]ni ma è bello
 PST094	perché anche le canzoni non è che li: studiate a memoria
 PST094	ve li spie:go ogni parola cosa vuol dire cosa
@@ -360,7 +360,7 @@ PST203	qua si fa musica tradizionale rumena
 PST203	cioè proprio (.) la tradizione
 PST203	e::hm:
 PST203	però a torino c'è anche la possibilità di sentire::
-PST203	insomma musica rumena contempora~ mmh
+PST203	insomma musica rumena contempora~ mhmh
 PST094	[leggera mh]
 PST203	[discote:ca]
 PST203	ra:p: po:p:
@@ -553,7 +553,7 @@ PST094	anche il:::=mh
 PST094	e:::h
 PST094	le le gonne
 PST094	a[l::]
-PST092	[#catrință]
+PST092	#_ [#catrință]
 PST094	anche #catrință
 PST094	al::: m::h
 PST094	telaio
@@ -563,7 +563,7 @@ PST094	<io voglio vivere in mezzo ai ragazzi> ((ride))
 PST092	((ride))
 PST092	è proprio una passione
 PST092	((ride))
-PST094	[esatto:] ((ride)) (.) esatto
+PST094	[esatto: ((ride))] (.) esatto
 PST092	mh #pentru #costume (.) come::
 PST092	come funziona cioè
 PST092	come: anche per le (.) diverse zone
@@ -618,7 +618,7 @@ PST094	<strumenti musicali tradizionali>
 PST094	e:hm:
 PST094	la tromba:: il saxofono::
 PST094	m:h la:: m:h pf::
-PST092	(#vio[ara)]
+PST092	#_ (#vio[ara)]
 PST094	[vi]o~ mh vio~ m:h violino:
 PST094	e::h #cobza:
 PST094	e::hm::

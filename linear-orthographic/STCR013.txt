@@ -18,15 +18,15 @@ PST086	no il telefono
 PST212	ah
 PST211	questo l'ho l'ho fotografato io perché era molto carino sei un diamante per me da
 PST086	sì è vero
-PST086	oh no doamna tradisce dom
+PST086	oh no #doamna tradisce #dom
 PST087	mh
-PST086	no tradisce dom
+PST086	no tradisce #dom
 PST211	eh sì
 PST211	eh con eh del resto quando uno ti fa
 PST086	oh no
-PST087	mo vado a dire a dom questo
+PST087	mo vado a dire a #dom questo
 PST211	una dichiarazione così cosa fai
-PST086	no dom che fa
+PST086	no #dom che fa
 PST086	gliela ruba
 PST211	gliela ruba
 PST086	ma io ma che che posizio~ della mia faccia
@@ -72,9 +72,9 @@ PST087	domani non credo di riuscire
 PST086	no no
 PST086	no un giorno
 PST211	no domani no
-PST211	però un giorno vie~ andiamo veniamo noi viene o o dom
+PST211	però un giorno vie~ andiamo veniamo noi viene o o #dom
 PST087	quindi
-PST092	dom sicuramente non ci sarà
+PST092	#dom sicuramente non ci sarà
 PST211	con noi
 PST087	quindi domani boh non si fa niente
 PST211	domani in teoria no non si fa niente adesso vediamo
@@ -93,7 +93,7 @@ PST086	orchestra
 PST087	ah la lezione aperta
 PST086	con anche
 PST086	uno spettacolo
-PST092	questa è la reaction di cioè io sono altamente stupita sinceramen~
+PST092	questa è la #reaction di cioè io sono altamente stupita sinceramen~
 PST211	ciao shock
 ??	xxx scioccobasita
 PST211	ma poi tutto co~ è successo così in fretta capito cioè un giorno pri~
@@ -146,7 +146,7 @@ PST211	queste sono belle
 PST211	quel giorno ci siamo divertiti
 PST087	a bullizzare
 PST086	ah sì
-PST092	è stato è stato bellissimo bullizzare e tra l'altro è arrivato in ritardo e si è pure messo a parlare con doamna cioè lui sa che è in ritardo
+PST092	è stato è stato bellissimo bullizzare e tra l'altro è arrivato in ritardo e si è pure messo a parlare con #doamna cioè lui sa che è in ritardo
 PST211	adesso adesso cioè altro che tappeto in testa
 PST092	cioè lui sa che lui sa che è in ritardo e si è pure fermato deve ringraziare che son stata mezz'ora fuori a raccontare a che ve~
 PST211	si è pure fermato
@@ -188,12 +188,12 @@ PST211	oh mamma
 PST086	eh già
 PST087	no ma che fa ih
 PST211	ho capito
-PST085	păi mi-o căzut
-PST087	o dat icoana jos
+PST085	#_ păi mi-o căzut
+PST087	#_ o dat icoana jos
 PST085	è caduta non mi posso muovere
 PST085	quindi o qualcuno mi viene
-PST086	se ti vede doamna ti picchia
-PST092	ma va sai quante volte mi è caduta icoana in cap madonna mia
+PST086	se ti vede #doamna ti picchia
+PST092	ma va sai quante volte mi è caduta #icoana #in #cap madonna mia
 PST085	è ca~ è caduta
 PST092	eh
 PST085	ah
@@ -201,7 +201,7 @@ PST203	dimmi tutto
 PST092	tu in ritardo non ti vergogni neanche un po'
 PST087	in ritardo devi giustificare il ritardo
 PST203	ma io
-PST085	ma in realtà stava parlando con doamna
+PST085	ma in realtà stava parlando con #doamna
 PST086	sai in realtà potevi
 PST092	sì ma comunque è arrivato in rita~ sì ti ho visto anche io ma eri comunque in ritardo eh cosa credi chi è stato fuori mezz'ora mentre tu parlavi
 PST203	oh m'ha visto lei m'ha visto lei
@@ -259,8 +259,8 @@ PST086	ehi siri chiama
 PST092	no no no ma sei scema
 PST092	no ah tanto non c'ho il numero stai chiamando solo la chia~ stai chiamando quelli là
 PST092	questo fammelo mettere sotto il gomito così
-PST086	ehi siri chiama doamna
-PST092	doamna tantissimo
+PST086	ehi siri chiama #doamna
+PST092	#doamna tantissimo
 PST092	nata ~spetta che non mi ricordo manco quando sono nata aspe~
 PST086	no
 PST203	no non mancava questa
@@ -350,9 +350,9 @@ PST087	io cattolica
 PST094	ehi ciao ragazzi
 PST092	io in realtà faccio un po' entrambe però vabbè
 PST203	fai tutt'e due
-PST094	eh da ziceam așa aveți nevoie de o lumină
+PST094	#_ eh da ziceam așa aveți nevoie de o lumină
 PST085	no no
-PST092	no no doamna creatività al buio
+PST092	no no #doamna creatività al buio
 PST087	adesso
 PST094	eh cosa dici visto che abbiamo anche questo professore dalla romania
 PST203	ah
@@ -375,7 +375,7 @@ PST203	beh ma lo mettiamo nel film
 PST211	sì sì no no era solo per capire
 PST087	al massimo mettiamo i sottotitoli in italiano
 PST086	eh
-PST085	cioè doamna che parla in italiano e lui che parla in in rumeno
+PST085	cioè #doamna che parla in italiano e lui che parla in in rumeno
 PST211	e e lui bello
 PST094	ma no potete parlare anche voi ragazzi
 PST211	no certo la fanno loro l'intervista
@@ -387,7 +387,7 @@ PST086	eh
 PST203	senti
 PST203	ma se noi facciamo lunedì alle diciotto si può fare
 PST094	eh
-PST086	niente doamna
+PST086	niente #doamna
 PST094	sì
 PST203	lunedì alle diciotto chi c'è per intervistare l'insegnante
 PST086	io perché ho canto
@@ -396,7 +396,7 @@ PST092	lunedì alle diciotto
 PST086	no dopo finisco di fare
 PST085	lunedì alle diciotto
 PST203	alle diciotto ci sei
-PST086	yes
+PST086	#_ yes
 PST211	eh la povera poi deve tornare a druento
 PST203	okay c'è
 PST094	no ma qualcuno che lo fa che fa eh l'intervista
@@ -432,7 +432,7 @@ PST094	sì c'è
 PST203	ah
 PST203	ah okay
 PST094	perché io non faccio xxx
-PST085	frumoase sunteți
+PST085	#_ frumoase sunteți
 PST211	perché se voi fino a che ora ci siete adesso
 PST087	eh
 PST086	io f~ mh fino alle sette
@@ -443,13 +443,13 @@ PST086	balli sì dalle quattro e mezza alle sei
 PST211	okay adesso sono
 PST086	ma tu che ci devi fare a balli con me
 PST211	le tre e mezza
-PST092	domnul l'ha detto
-PST085	ti deve insegnare că nu știi să dansezi
+PST092	#domnul l'ha detto
+PST085	ti deve insegnare #că #nu #știi #să #dansezi
 PST086	qua ma stai zitta io non so ballare
 PST085	oggi sono in vena di insulti
 PST086	io oggi non so ballare
-PST086	vedi che vado a dire a dom cosa mi hai detto
-PST085	ih mamă
+PST086	vedi che vado a dire a #dom cosa mi hai detto
+PST085	ih #mamă
 PST086	ti picchia ora
 PST086	ti picchia ti manda via basta
 PST085	faccio la stessa fine di
@@ -464,10 +464,10 @@ PST085	xx ti voglio bene io
 PST211	mh
 PST086	ma sì lui si ferma
 PST085	lo di~ lo dico proprio alla chat
-PST086	no chi ha chi ha dom
+PST086	no chi ha chi ha #dom
 PST092	non mi fare la foto magari alla chat perché sai
 PST087	dovrebbe venire anche
-PST086	no so che lui rimane fino alle sei sette perché ha tobiță con eh
+PST086	no so che lui rimane fino alle sei sette perché ha #tobiță con eh
 PST087	eh io fino a quell'ora lì non riesco a
 PST087	stare
 PST086	ma ora lui tanto deve finire
@@ -477,7 +477,7 @@ PST086	chi c'era ora
 PST087	adesso c'è
 PST086	ma ha i balli con noi un po' per un po' di tempo poi rimane
 PST087	ah
-PST086	fino a che iniziamo ruginoasa
+PST086	fino a che iniziamo #ruginoasa
 PST086	mezz'ora sarebbe
 PST087	sì ma
 PST085	ma fa due cose
@@ -502,8 +502,8 @@ PST086	cioè non mi de~ mh
 PST092	la porta ah oh non mi picchiare ah abbi pietà di me
 PST211	no nel senso che se riusciamo a farla oggi è meglio perché se no domani non ci siamo
 PST086	ma io non ho capito cosa dobbiam fare
-PST211	l'intervista a questo professo~ dom
-PST087	a dom
+PST211	l'intervista a questo professo~ #dom
+PST087	a #dom
 PST086	e cosa devo dire
 PST087	eh non lo so
 PST086	e lui parla da solo no
@@ -511,19 +511,19 @@ PST087	xx
 PST211	gli chiedete come le le stesse cose avete fatto a lì alla sua intervista
 PST087	eh s~ no cambiamo le domande
 PST211	cambiate un po' le domande adesso ci pensiamo
-PST086	zici bună ziua
+PST086	#_ zici bună ziua
 PST203	allora
-PST086	cum de va-ți regăsit la centru
+PST086	#_ cum de va-ți regăsit la centru
 PST086	sarebbe una bella idea come mai dalla romania siete venu~ siete venuto
 PST092	come avete conosciuto il centro e come mai avete deciso di spostarvi
 PST086	infatti
 PST086	infatti infatti
 PST087	ma non sono non si è no ma non si è spostato
-PST092	le stesse le ste~ sono le stesse domande che abbiamo fatto a doamna
+PST092	le stesse le ste~ sono le stesse domande che abbiamo fatto a #doamna
 PST087	viene solo qui tipo in trasferta non è che si è spostato qui
-PST086	non è non si è spostato qui però lui ha conosciu~ cioè ha conosciuto doamna dieci anni fa
+PST086	non è non si è spostato qui però lui ha conosciu~ cioè ha conosciuto #doamna dieci anni fa
 PST087	non ho capito
-PST092	come sei venuto a conosce~ come sei venuto a conoscenza del centru
+PST092	come sei venuto a conosce~ come sei venuto a conoscenza del #centru
 PST087	ah
 PST086	quando l'ha intervistata
 PST086	infatti e come ha trovato
@@ -565,10 +565,10 @@ PST211	non si sa
 PST087	si chiama signore
 PST092	si chiama signore mercoledì prossimo se vuoi glielo chiedo
 PST211	signore
-PST092	scrivendo eh domande per domnu
+PST092	scrivendo eh domande per #domnu
 PST092	perché mi scrivi non mi devi scrivere
 PST092	allora
-PST092	qual era già come sei venuto a conoscenza del centru
+PST092	qual era già come sei venuto a conoscenza del #centru
 PST087	eh però dobbiamo fargliele in rumeno
 PST211	in rumeno eh sì
 PST087	quindi al massimo poi
@@ -576,7 +576,7 @@ PST092	le scriviamo prima in italiano così le capiscono loro e poi le traduciam
 PST087	no uno
 PST087	chi gli fa le domande cioè tipo la scorsa volta sei stata tu vogliamo rimettere di nuovo te vogliamo mettere di nuovo lei
 PST211	può farlo qualcun altro se vuole
-PST087	secondo me sempre qualcuno che abbia la maglia del centru sarebbe l'ideale perché comunque magari dietro si
+PST087	secondo me sempre qualcuno che abbia la maglia del #centru sarebbe l'ideale perché comunque magari dietro si
 PST092	dov'è
 PST086	marò potente oh una nuova foto di instagram
 PST211	mh mh
@@ -585,19 +585,19 @@ PST087	sì di solito anche
 PST092	sì
 PST085	cosa
 PST092	fare le domande
-PST211	fai tu le domande a dom
+PST211	fai tu le domande a #dom
 PST087	se ti siedi di schiena
 PST085	ma non penso proprio
 PST085	ma perché non
-PST087	perché non ha la maglia del centru
-PST211	perché ha già fatto con eh doamna
+PST087	perché non ha la maglia del #centru
+PST211	perché ha già fatto con eh #doamna
 PST085	ah
 PST092	ehm
 PST211	vabbè no po~ f~ scegliete voi
 PST085	se no possiamo fare perché non
 PST085	dice e dopo l'intervista che abbiamo fatto a
-PST092	doamna
-PST085	a doamna volevo fare delle domande anche a lei
+PST092	#doamna
+PST085	a #doamna volevo fare delle domande anche a lei
 PST211	ah va bene bell'idea
 PST211	brava
 PST211	io vi posso offrire o della liquirizia o delle pastiglie digestive
@@ -629,8 +629,8 @@ PST211	sì
 PST203	decidete dove lo vogliamo mettere
 PST203	decidete le domande
 PST087	quindi secondo me sarebbe bello
-PST087	nella sala di musica però non in sala di doamna
-PST087	non quella in cui abbiamo fatto l'intervista a doamna sì
+PST087	nella sala di musica però non in sala di #doamna
+PST087	non quella in cui abbiamo fatto l'intervista a #doamna sì
 PST211	quella di in fondo di là
 PST087	perché di solito sta lì
 PST087	e quindi magari
@@ -690,21 +690,21 @@ PST203	gioca un po' con lo zoom cioè allarga st~ guarda ti faccio vedere una co
 PST092	sì ce le ho
 PST085	ah
 PST085	dai non dirmi
-PST092	come hai vissuto lo spost~ allora quelle che abbiamo fatto a doamna che poi si sono moltiplicate
+PST092	come hai vissuto lo spost~ allora quelle che abbiamo fatto a #doamna che poi si sono moltiplicate
 PST085	eh vedi
 PST092	sono come xx
 PST092	come hai vissuto lo spostamento tra romania e torino
-PST092	com'è nato il centru
+PST092	com'è nato il #centru
 PST087	no aspetta ne ho una
 PST092	come
 PST092	segnatela nella mente
 PST085	no xx
-PST092	come sono nate le attività del centru come hai
-PST092	perché hai deciso di far parte delle attività del centru
+PST092	come sono nate le attività del #centru come hai
+PST092	perché hai deciso di far parte delle attività del #centru
 PST087	la passione per la musica
-PST087	perché domnul di solito
+PST087	perché #domnul di solito
 PST092	com'è nata la passione per la musi~
-PST087	domnul di solito fa insegna strumento
+PST087	#domnul di solito fa insegna strumento
 PST211	mh mh
 PST092	però fa anche canto
 PST087	sì
@@ -737,7 +737,7 @@ PST085	a do~ a loro gliel'ho data a te non glielo non te l'ho data
 PST092	okay
 PST092	allora altre domande perché mi guardi così
 PST211	no non ti sto guardando in nessun modo
-PST092	altre domande eh come sono nate le attività del centru
+PST092	altre domande eh come sono nate le attività del #centru
 PST087	la passione per la musica
 PST092	l'ho l'ho scritta tranquilla l'ho scritta non è che non l'ho scritta
 PST087	ah
@@ -768,7 +768,7 @@ PST092	quindi eh come hai
 PST203	madonna
 PST092	eh sì
 PST203	mi ha ammazzato
-PST092	come hai deciso di fare parte delle attività del centru
+PST092	come hai deciso di fare parte delle attività del #centru
 PST087	l'hai scritta
 PST092	non l'ho scritta
 PST087	scrivi
@@ -778,13 +778,13 @@ PST203	come reagisce ha una storia lui da raccontare
 PST092	lo so
 PST203	lo sai
 PST212	quindi lui insegna sia in romania che in italia
-PST092	eh beh l'ho fatto con doamna penso che
+PST092	eh beh l'ho fatto con #doamna penso che
 PST087	sì cre~ sì perché poi eh collaborava anche con un altro gruppo folcloristico
 PST203	scusa scusa non te lo dico più
 PST092	non è il mio
 PST087	ma collabora ancora
-PST087	collabora ancora cu ciobănașul
-PST092	boh habar n-am
+PST087	collabora ancora #cu #ciobănașul
+PST092	boh #habar #n-am
 PST087	perché di solito collaborava anche con un altro gruppo folcloristico che sta in romania
 PST092	sì ma quello è del figlio non è suo
 PST212	mh mh
@@ -817,9 +817,9 @@ PST092	parte
 PST087	ehi guarda che ti vedo eh
 PST092	eh lo so che mi vedi
 PST087	mh
-PST092	far parte delle attività del centru sì
+PST092	far parte delle attività del #centru sì
 PST087	del centro non delle attività del centro
-PST092	del centru e delle sue attività
+PST092	del #centru e delle sue attività
 PST087	posso fare anch'io qualche fotina
 PST203	certo
 PST087	video
@@ -957,7 +957,7 @@ PST085	vino încoace aicea
 PST203	appena vi decidete
 PST087	perché mi sa che loro tra mezz'ora devono entrare a danza
 PST211	e allora adesso
-PST092	quasi quasi ma sennò scusa io dico a domnu che oggi non la faccio e viene e si fa
+PST092	quasi quasi ma sennò scusa io dico a #domnu che oggi non la faccio e viene e si fa
 PST092	io faccio sta cosa
 PST092	sinceramente preferisco fare questo che i balli perché sinceramente
 PST211	vabbè poi andate un po' a sentimento sulle domande
@@ -967,7 +967,7 @@ PST211	esatto
 PST212	ma sì anche in base a quello che risponde lui
 PST092	sì ma tutti vanno a sentimento solo perché sono io a quanto pare
 PST211	poi alla fine lo conoscete siete in confidenza
-PST085	eh sei quella che boh non lo so se no metti lei o metti qualcuno del centru vuoi mettere me del centru che sono qua da qualche mese
+PST085	eh sei quella che boh non lo so se no metti lei o metti qualcuno del #centru vuoi mettere me del #centru che sono qua da qualche mese
 PST085	sinceramente adesso parlando
 PST212	eccola
 PST211	brava brava

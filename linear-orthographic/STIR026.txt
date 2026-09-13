@@ -325,7 +325,7 @@ PST060	eh
 PST060	il violino
 PST212	okay
 PST060	o eh uno strumento
-PST060	che so solo come si chiama in rumeno non so come si chiama in italiano che è acordeonul
+PST060	che so solo come si chiama in rumeno non so come si chiama in italiano che è #acordeonul
 PST212	dillo dillo pure
 PST060	che tipo c'ha c'ha una pianola qua e c'ha altri tasti qua
 PST212	ah è la fisarmonica
@@ -353,16 +353,16 @@ PST060	facciamo anche quelli i balli io sono
 PST060	dicamo no~ non sono
 PST060	essendo che li faccio da due anni
 PST060	diciamo che nei balli ci sono diverse eh categorie
-PST060	ci sono quelli avansați che sono quelli avan~ avanz~ cioè più
+PST060	ci sono quelli #avansați che sono quelli avan~ avanz~ cioè più
 PST060	più bravi
-PST060	ci sono intermediar che sono quelli di livello medio
+PST060	ci sono #intermediar che sono quelli di livello medio
 PST060	e ci sono anche quelli che hanno appena cominciato che poi dopo
 PST060	man mano che tu vai a fare i balli puoi aumentare di grado
 PST060	e tutto quanto ovviamente anche io ho cominciato dal grado più basso
 PST212	mh mh
 PST060	ed essendo che ho imparato dei balli tutto quanto
 PST060	diciamo che sono andato più avanti di grado se possiamo dire così
-PST060	fino ad arrivare alla massima che sarebbe quello dei avanzati avansați
+PST060	fino ad arrivare alla massima che sarebbe quello dei avanzati #avansați
 PST212	okay
 PST212	e che balli sono cioè
 PST212	sono più balli no
@@ -474,14 +474,14 @@ PST060	e poi quando arriva il giorno della pasqua
 PST060	tu prendi questo uovo
 PST060	ehm
 PST060	e c'è questa tradizione che si fa
-PST060	di hristos a înviat e adevărat a înviat
+PST060	di #hristos #a #înviat e #adevărat #a #înviat
 PST060	che vuol dire cristo è risorto
 PST060	e in pratica tu devi tenere l'uovo
 PST060	così
-PST060	e dici hristos a înviat
+PST060	e dici #hristos #a #înviat
 PST060	la seconda persona che prende anche lui il suo uovo lo deve sbattere sul tuo
 PST212	ah okay
-PST060	e lui dice adevărat a înviat
+PST060	e lui dice #adevărat #a #înviat
 PST060	eh in pratica ehm
 PST060	una delle due uova
 PST060	rimane intera mentre l'altra diciamo che si

@@ -215,7 +215,7 @@ PST082	sì anche a me
 PST091	sì
 PST091	ma anche qui tante volte
 PST091	tante volte per gli esami cambridge
-PST091	scrivevo double e e loro continuavano a mettere con una a sola
+PST091	scrivevo #double #e e loro continuavano a mettere con una a sola
 PST091	con una e sola e io lì
 PST091	no è doppia perché poi facevano il culo dove ti dicevano
 PST091	mi raccomando il nome dev'essere quello se no poi il certificato non è valido già ti fai un culo così per fare l'esame paghi anche per darlo
@@ -242,7 +242,7 @@ PST082	ehm
 PST082	quali sono le cose che ti piacciono di più della romania
 PST082	e le cose che ti piacciono di più dell'italia
 PST082	sì sì vai tranquilla
-PST091	dovrai mettere skip a questa parte
+PST091	dovrai mettere #skip a questa parte
 PST091	ho scelto la bevanda sbagliata
 PST091	mh
 PST091	le cose che mi piacciono di più della romania
@@ -253,18 +253,18 @@ PST091	i boschi
 PST091	mh vabbè
 PST091	io ho un legame molto
 PST091	sentito con i monasteri anche se
-PST082	sei andata a quello mh monasterul vesel o qualcosa del genere
-PST091	mănăstirea veselă
+PST082	sei andata a quello mh monasterul #vesel o qualcosa del genere
+PST091	#_ mănăstirea veselă
 PST091	sì
 PST082	sì
 PST082	sei andata
-PST091	sì no aspetta mănăsti~ ehm
-PST082	eh non era mănăstirea vese~ era
-PST091	non mănăstirea
-PST091	ehm mor~ mi~ eh cimitirul vesel
+PST091	sì no aspetta #mănăsti~ ehm
+PST082	eh non era #mănăstirea #vese~ era
+PST091	non #mănăstirea
+PST091	ehm mor~ mi~ eh #cimitirul #vesel
 PST091	fost bucovina nu n-am fost n-am fost dar vreau să merg
-PST082	cimitirul vesel
-PST082	eh ho sentito che era bello și eu și eu vreau
+PST082	#_ cimitirul vesel
+PST082	eh ho sentito che era bello #și #eu #și #eu #vreau
 PST091	sì molto bello
 PST082	eu vreau
 PST091	și eu vreau
@@ -497,22 +497,22 @@ PST091	sono più morbide cioè proprio assomiglia tanto al russo
 PST091	si sente pro~ assomiglia non assomiglia però ci sono quelle
 PST091	ehm
 PST091	che ne so in campagna
-PST091	eh dicono îmi plașe
-PST082	plași sì
-PST091	al posto di îmi place
+PST091	eh dicono #îmi #plașe
+PST082	#plași sì
+PST091	al posto di #îmi #place
 PST082	îmi place
-PST082	îmi plașe
-PST091	quindi ș ș tanto ș sì c'è un sacco di ș
-PST082	quella ș
+PST082	#îmi plașe
+PST091	quindi #ș #ș tanto #ș sì c'è un sacco di #ș
+PST082	quella #ș
 PST091	su ogni cosa praticamente
 PST091	vabbè a iași
 PST091	perché io anche elementari io ho sempre vissuto a iași iași quindi non in campagna però
 PST082	ah okay sì sì sì
 PST091	più vai fuori ovviamente più senti di più marcato
 PST091	chi arriva da fuori
-PST091	țăranii
+PST091	#țăranii
 PST091	auzi când vorbesc săracii
-PST082	țăranii
+PST082	#țăranii
 PST082	ehm
 PST082	mh
 PST082	invece
@@ -585,7 +585,7 @@ PST082	ah ah
 PST091	sul pi ci poi eh dopo due settimane presentazione in gruppo
 PST091	poi dopo due settimane un altro test
 PST091	poi dopo due settimane test però risposte aperte
-PST091	sette test ci ha fatto fare sette sette più un essay alla fine
+PST091	sette test ci ha fatto fare sette sette più un #essay alla fine
 PST082	è pazza
 PST082	e
 PST091	due presentazioni uno di gruppo uno da sola sì
@@ -711,13 +711,13 @@ PST091	avere il rumeno standard
 PST082	sì
 PST091	perché anche l'università non ha cioè vabbè l'università mi sembra ovvio ma anche fuori
 PST082	sì
-PST091	se facevi caso anche ne~ cofetărie che ne so dove siamo andati non avevano
+PST091	se facevi caso anche ne~ #cofetărie che ne so dove siamo andati non avevano
 PST082	eh sì
 PST091	cose che ne so a cluj dicono tanto
 PST082	da
-PST082	no
-PST091	eh no eh lì eh se vai al bar o i~ ex esat~ exact
-PST082	ioi
+PST082	#_ no
+PST091	eh #no eh lì eh se vai al bar o i~ #ex esat~ #exact
+PST082	#_ ioi
 PST091	invece a timișoara non ci sono queste cadenze
 PST082	sì è vero
 PST082	è più pulito
@@ -775,7 +775,7 @@ PST082	sì
 PST082	scusa
 PST091	no no vai è solo per ricordarti
 PST082	quando tu traduci
-PST082	che cosa pensi che è più difficile tradurre dall~ eh romeno all'italiano e dall'italiano al romeno
+PST082	che cosa pensi che è più difficile tradurre dall' ehá romeno all'italiano e dall'italiano al romeno
 PST091	eh eh
 PST091	bella domanda
 PST091	eh dipende cosa traduci
@@ -783,7 +783,7 @@ PST082	cioè anche tipo per i film per tutto
 PST091	eh ad esempio nei nei film
 PST091	quando traduci dal rumeno all'italiano
 PST091	l'umorismo rumeno non lo puoi tradurre
-PST091	l'umorismo romeno perde io anche ho guardato un paio di stand up che c'erano su netflix col mio ragazzo
+PST091	l'umorismo romeno perde io anche ho guardato un paio di #stand #up che c'erano su netflix col mio ragazzo
 PST082	mh mh
 PST091	coi sottotitoli
 PST091	ma non si posso~ cioè non si possono proprio guardare e cerco di spiegare a lui
@@ -793,23 +793,23 @@ PST091	e quindi quello sì trovare le equivalenze sull'umorismo
 PST091	sull'ironia
 PST082	sì ma avevo visto
 PST091	l'ironia che c'è in rume~
-PST091	davvero non ce n'è c~ caterincă ecco caterincă
-PST082	caterincă
-PST091	ecco traduci caterincă
+PST091	davvero non ce n'è c~ #caterincă ecco #caterincă
+PST082	#_ caterincă
+PST091	ecco traduci #caterincă
 PST082	non esiste non si può
-PST082	caterincă è a sé dai
+PST082	#caterincă è a sé dai
 PST091	quindi quello sì
 PST091	quello sì
-PST082	avevo visto tipo un'opera teatrale su mitică
+PST082	avevo visto tipo un'opera teatrale su #mitică
 PST091	mh
-PST082	il bucarestino par excellence no
+PST082	il bucarestino #par #excellence no
 PST082	cioè io pensavo no ma come si traduce questa roba
 PST091	è difficilissimo
 PST082	è impossibile
 PST082	cioè povero lui xx
 PST091	io infatti quando ho dovuto tradurre sta roba qui per la tesi
 PST082	mh mh
-PST091	era una puntata di istoria cu virgil
+PST091	era una puntata di #istoria #cu #virgil
 PST091	si chiama
 PST082	sì
 PST091	hai presente
@@ -822,7 +822,7 @@ PST091	storica scientifica
 PST082	sì
 PST091	su tipo come ci sono le pillole in inglese no
 PST082	ah sì sì sì sì
-PST091	five minutes bla bla bla
+PST091	#five #minutes bla bla bla
 PST091	l'ha fatto ma con la storia romena
 PST082	mh mh
 PST091	dieci minuti a puntata
@@ -851,11 +851,11 @@ PST091	questa roba qui perché tante cose neanche io sapevo
 PST091	com'era già quella roba lì di calarsi le le braghe
 PST082	sì calarsi le braghe
 PST091	okay eh e c'era in rumeno
-PST091	au rămas cu
+PST091	#_ au rămas cu
 PST091	mh
 PST091	non mi ricordo più
 PST091	poi guardo sulla tesi e te lo dico
-PST091	eh au rămas pantalonii în vine (.) au rămas pantalonii în vine
+PST091	#_ eh au rămas pantalonii în vine (.) au rămas pantalonii în vine
 PST091	che vuol dire
 PST082	che significa
 PST091	son rimasti con le con le cale mh
@@ -894,14 +894,14 @@ PST082	xx ehm non so siamo arrivati da due giorni
 PST082	e voleva dire non vedevo l'ora di arrivare
 PST091	mh
 PST091	vediamo ora
-PST082	nu vedeam ceasul
-PST091	ceasul
-PST091	nu vedeam casul ((ride))
+PST082	#_ nu vedeam ceasul
+PST091	#_ ceasul
+PST091	#_ nu vedeam casul ((ride))
 PST082	allora
 PST082	tipo i miei parenti
 PST082	si sono guardati tutti tipo ma
-PST091	((ridendo)) n~ n~ nu xx vedeam ceasul
-PST091	nu vedeam ceasul sì sì
+PST091	#_ ((ridendo)) n~ n~ nu xx vedeam ceasul
+PST091	#nu #vedeam #ceasul sì sì
 PST082	sì
 PST091	eh a me era capitato
 PST091	una delle prime volte che ero poi tornata dopo tanti anni in romania
@@ -914,7 +914,7 @@ PST091	eh che anche lei era o in spagna o in italia non mi ricordo ed era tornat
 PST082	sì
 PST091	eh
 PST091	e mi ricordo che le commesse avevano fatto un po' di bullismo su sta roba avevano fatto delle battute tipo
-PST091	eh s~ s~ tornano e non si ricordano più come si dice como si dice sai che c'è quella battuta in rumeno como si dice
+PST091	eh s~ s~ tornano e non si ricordano più come si dice #como si dice sai che c'è quella battuta in rumeno #como si dice
 PST091	eh cavoli cioè tu
 PST091	vai a vivere per un tot di anni all'estero e poi torna soprattutto se sei piccola
 PST082	eh sì

@@ -134,13 +134,13 @@ PST147	okay
 PST148	[tunisino]
 PST222	[e::h]
 PST222	tunisino
-PST222	okay it's a: [english] [english] [italian mix]
+PST222	#_ okay it's a: [english] [english] [italian mix]
 PST148	[ah beh] [a:h]
-PST147	[sì sì] ((ride)) [sì]
+PST147	[sì sì] [((ride)) sì]
 PST149	((ride))
 PST147	((ride))
 PST222	((ride))
-PST222	tunsi
+PST222	#_ tunsi
 PST149	[mh mh sì]
 PST222	[e::h se]mpre quando andava in=e:h in tunisia,
 PST222	andava con la macchina
@@ -171,7 +171,7 @@ PST222	eh $crus(t) eh
 PST147	[no]
 PST222	[e:h] $cruseria?
 PST147	non ho ca[pito (che) cos'è]
-PST222	[cruise]
+PST222	#_ [cruise]
 PST222	e::h[m::]
 PST149	[con]=e:h le navi
 PST222	sai sai la nave
@@ -191,9 +191,10 @@ PST222	[okay]
 PST147	[una ci]ttà: marocchina
 PST222	[okay]
 PST147	[facciamo: sì facciamo: trenta minuti: un'ora di strada
+PST149	#_
 PST222	come si p~ #tanja (.) [come si chiama]?
-PST149	[tanja]
-PST147	[tanja]
+PST149	#_ [tanja]
+PST147	#_ [tanja]
 PST222	no tu hai detto: [tu hai pronuncia~]
 PST147	[tangeri]
 PST148	[in italiano]
@@ -205,7 +206,7 @@ PST222	mi sembrava pronuncia è cambiata [no: okay]
 PST148	[no:]
 PST147	[no: no no]
 PST222	okay molto interessante questo viaggio
-PST148	mannula
+PST148	#_ mannula
 PST149	[io mi sono dimenticata la domanda] invece
 PST222	[e::h
 PST147	e:h le vacanze
@@ -308,17 +309,17 @@ PST222	e:: una con il primo gruppo di: amici,
 PST149	oka:y
 PST222	poi il secondo gruppo di amici
 PST149	((ride))
-PST147	[a::h] ((ride))
+PST147	[a::h ((ride))]
 PST222	poi con i ragazzi della famiglia
 PST148	a:h (tutti i gru~)
-PST149	mā shā' 'allah ((ridendo))
+PST149	#_ mā shā' 'allah ((ridendo))
 PST147	((ride))
 PST149	che vacanze lu:nghe ((ride))
 PST149	noi no noi solamente #juj #simenāt (.) e basta perché i miei lavorano
 PST149	non possono prendersi:
 PST149	se no io faccio le [vacanze da sola]
 PST148	[anche noi (.) ma] la maggior parte delle persone qui ha solo due settimane di vacanza
-PST149	sì ma le:i è straordina~ lei: è un caso] [a parte] ((ridendo))
+PST149	sì ma le:i è straordina~ lei: è un caso] [a parte ((ridendo))]
 PST148	[se lavori (è impossibile)]
 PST147	[eh perché]:: [mio papà la]vora: da cioè:: [in proprio]
 PST148	[io quest'an~]
@@ -354,7 +355,7 @@ PST148	[ma di dove sei tu in egitto]
 PST222	eh?
 PST148	di dove sei (.) [non mi ricordo]
 PST222	[alessandria]
-PST222	[‘askendri]ya
+PST222	#_ [‘askendri]ya
 PST148	[ah]
 PST147	a::::h
 PST222	sì
@@ -384,11 +385,11 @@ PST222	sarà il mio giorno di: liber[tà ((ride)) libraz]io:ne
 PST148	[xxx]
 PST147	((ride))
 PST147	sì
-PST148	insha' allah
+PST148	#_ insha' allah
 PST222	via (.) e:hm:
 PST222	ah sì #taḥrīr
 PST222	[#fhm-ti] come si dice
-PST148	[insha' allah]
+PST148	#_ [insha' allah]
 PST147	[e:h=ah eh]
 PST148	perché quanti anni hai poi
 PST148	trenta: e qualco[sa]?
@@ -472,11 +473,11 @@ PST222	sì ma (.) in egitto non abbiamo la montagna eh ((ride))
 PST148	eh non infatti (.) [no ci sono:]
 PST149	[noi come noi sì]
 PST148	quelle robe di rocce: quelle (°robe°)
-PST148	ah ma shfnash bḥal-hum xx
+PST148	#_ ah ma shfnash bḥal-hum xx
 PST222	[no ma questa è: dese]rto
 PST148	a::h [beh]
 PST222	[questa] è il deserto però [è e::h] pian~ eh #shaiyb no: non è #shaiyb
-PST148	[shaiyb]
+PST148	#_ [shaiyb]
 PST222	allora (.) se parli della maschera,
 PST222	okay quella maschera,
 PST222	con la maschera la gente si mettono:
@@ -644,8 +645,8 @@ PST148	no
 PST222	e::h si chiama #balagha
 PST148	non l'ho mai sentita [(comunque)] ((ridendo))
 PST149	[cos'è]?
-PST222	al-ba~ al-balagha
-PST149	[°al-balagha°]
+PST222	#_ al-ba~ al-balagha
+PST149	#_ [°al-balagha°]
 PST148	[la parte gram]mati[cale] in arabo si chiama così
 PST222	[sì]
 PST222	[spiegato dalla:] dalla grammatica,
@@ -662,14 +663,14 @@ PST222	[sì conta:] sì comprende tutto::
 PST148	anche il corano. (.) quando traduci una parola in italiano è lun[ghissima] mentre in arabo (.) è una parola.
 PST149	[lunghissima]
 PST222	sì come la parola:: #'istaqīmu
-PST149	istaqīmu
+PST149	#_ istaqīmu
 PST148	[mh]
 PST222	[sì] (.) con e::h quando parliamo di: discorso::: religioso (.) o sacro,
 PST149	[okay]
 PST149	[okay]
 PST222	[okay]
 PST222	e::h come si e::h come si:: fa la traduzione?
-PST148	istaqīmu
+PST148	#_ istaqīmu
 PST222	sì prende la [la stra:~ (.) no prende la s]trada
 PST148	[preparatevi: m::h °pr~]
 PST147	esatto [#istaqīmu]
@@ -683,8 +684,8 @@ PST148	a::h [sì]
 PST149	[okay]
 PST222	[okay]
 PST222	e in arabo #istaqīm
-PST149	[°istaqīmu°]
-PST148	[una parola] ((ride))
+PST149	#_ [°istaqīmu°]
+PST148	[una parola ((ride))]
 PST222	sì
 PST149	okay
 PST147	sì è [vero]
@@ -692,7 +693,7 @@ PST222	[sono:] cinque parole in una parola
 PST147	e:h [sì]
 PST149	[mh mh]
 PST222	poi: c'è un'altra parola si chiama: #arabo
-PST222	#arabo
+PST222	#_ #arabo
 PST148	m:h
 PST149	[no mai sentita]
 PST222	[sai questa]?
@@ -700,17 +701,17 @@ PST148	[in arabo]
 PST147	[è:] [vi: faremo::]
 PST222	(in) corano sì
 PST149	#sa~ come?
-PST147	#arabo]
-PST222	#arabo
-PST222	#arabo
-PST149	#arabo?
+PST147	#_ #arabo]
+PST222	#_ #arabo
+PST222	#_ #arabo
+PST149	#_ #arabo?
 PST147	qualcosa di dovere
 PST147	[un dovere]
 PST222	[esa]tto sei obbligat(a)
 PST149	no io non ho: mai sentito #l-fusḥa
 PST149	io parlo solo il #darija
 PST222	[sì ma no no: solo pe:r] solo per dire non non [tutte le perso~ però] questo è un e::::h questo è un: un esempio
-PST149	[perciò le parole] ((ride))
+PST149	[perciò le parole ((ride))]
 PST149	[no sì sì:]
 PST222	e:::hm: okay
 PST222	ma (.) qua: (.) okay (.) per il cibo (.) okay
@@ -785,7 +786,7 @@ PST147	non è legale (così)
 PST222	no: è (bell~) ((ride))
 PST149	[xxx xxx xxx]
 PST148	((ride))
-PST148	[è meglio to]glierlo] ((ride))
+PST148	[è meglio to]glierlo ((ride))]
 PST222	[si chiama:]
 PST222	si chiama #kitchen online eh
 PST148	mh sì[:]
@@ -798,7 +799,7 @@ PST148	vabbè
 PST222	questa registrazione non va alla:: poliz[ia eh]
 PST149	((ride))
 PST148	[vabbè]
-PST148	((ride)) [ora ci de]nunc~
+PST148	[((ride)) ora ci de]nunc~
 PST147	[ti pre:go]
 PST222	no: ma io veramente se trovo
 PST222	eh una persona che vende un cibo:: fatto a casa,
@@ -828,6 +829,7 @@ PST147	nelle case:: dei marocchini per forza un giorno (.) alla settimana si fa 
 PST149	sì:
 PST147	tipicamente è il venerdì.
 PST147	perché il venerdì c'è: #salah::
+PST149	#_
 PST147	e quindi lì: si mangia il cuscus in marocco
 PST147	invece qui magari si perde questa tradizione perché::
 PST147	per esempio in marocco (.) #nhār
@@ -843,8 +845,8 @@ PST222	[a:h sì]
 PST147	[esatto infatti noi] tutte le domeniche mangiamo il #kseksū
 PST149	però piatti preferiti a me piace il #ṭājīn
 PST149	#ṭuājn [con:] sì #tuā[jīn col #l-xǝḍra]
-PST222	[#ṭājīn]
-PST222	[#ṭuājn]
+PST222	#_ [#ṭājīn]
+PST222	#_ [#ṭuājn]
 PST147	ah a:h [sì sì:]
 PST148	eh ma (.) cosa c'è den[tro]
 PST149	[#ṭuājn] con #l-xǝḍra a me piace di più le verdure non mangio:: tanta carne
@@ -885,10 +887,10 @@ PST147	[esatto]
 PST148	[a::h beh sì]
 PST222	beh il cuscus io ho lavorato in un ristorante fa: faceva il e:::h
 PST222	come si chiama il (cus~)?
-PST147	#ku[skusū]
+PST147	#_ #ku[skusū]
 PST149	(sì)
 PST222	[no no no l'alt]ro quello messicano
-PST147	[#kuskusū]
+PST147	#_ [#kuskusū]
 PST148	[i tacos]?
 PST147	[i tacos]
 PST222	$tacu:s [sì] tacos o $tacus?
@@ -1078,8 +1080,8 @@ PST149	appropriazione culturale
 PST148	no: no: da noi si fa: da sempre
 PST222	queste si chiamano #ṭuāghīn
 PST149	cosa vuol dire
-PST222	#ṭuājīn
-PST149	#ṭājīn?
+PST222	#_ #ṭuājīn
+PST149	#_ #ṭājīn?
 PST222	quello quello che hai det[to prima]
 PST149	[sì]
 PST222	(qui) si chiama:~ si chiamano anche #ṭuājīn laḥma xxxx xx si chiama:: carne macellata giusto?
@@ -1119,7 +1121,7 @@ PST222	[ma io] prima:
 PST222	mangiavo solo in egitto mangiavo (.) senza (concentrare dove che viene) questo piatto,
 PST147	[a:::h]
 PST222	[e::h] quello o[riginario (di questa)]
-PST148	[#xxx]
+PST148	#_ [#xxx]
 PST222	mangio e basta (.) [qualsiasi cosa] trovo sul tavolo e lo mangio e basta
 PST148	[e:h sì sì]
 PST147	[sì:]
@@ -1156,7 +1158,7 @@ PST222	[io]
 PST147	il [male]?
 PST149	[non si] spezzano gli s[paghetti il ra]gù si fa cuo[cere: non si fanno] ((ride))
 PST148	[no:]
-PST147	[eh sì::] ((ride))
+PST147	[eh sì:: ((ride))]
 PST222	io in egitto
 PST222	prima quando compro un e::h un pacchetto di spaghetti,
 PST147	sì
@@ -1169,7 +1171,7 @@ PST222	e::h rompendo l[a:: il] gli spa[ghetti]
 PST147	[sì]
 PST147	[sì sì]
 PST148	no qui no:n [se lo fai così davanti a un ita]liano per carità
-PST147	[non si può fare] ((ridendo))
+PST147	[non si può fare ((ridendo))]
 PST222	sì ho visto tanti video:: che criticano: [queste co][se]
 PST148	[no: [sì]
 PST147	[sì]
@@ -1207,7 +1209,7 @@ PST147	[è vero]
 PST222	esatto:
 PST148	[più o meno]
 PST222	[e::h] poi anche [in egitto eh] siamo:: bravi
-PST148	((ride)) [(sche~)]
+PST148	[((ride)) (sche~)]
 PST222	e:::h okay
 PST222	ma
 PST222	qua generalmente quando parlate
@@ -1236,8 +1238,8 @@ PST222	per confermare il [significato]
 PST147	[esatto (.) sì] sì sì sì
 PST222	giusto?
 PST147	sì
-PST222	avete capito ((ride)) [lo dico di nuovo ma]
-PST147	((ride)) [avete capito (.) que]sto vi ho detto sì
+PST222	avete capito [((ride)) lo dico di nuovo ma]
+PST147	[((ride)) avete capito (.) que]sto vi ho detto sì
 PST222	(>hanno capito in<) france[se]
 PST147	[eh]
 PST147	eh allora mio papà:: sa parlare bene italiano,
@@ -1527,7 +1529,7 @@ PST147	[no]~spe voglio sapere] [xxx]
 PST222	[no: no no veramen]te no adesso [xx]
 PST148	[tranquilla]
 PST148	((ride))
-PST147	[sì:] ((ride))
+PST147	[sì: ((ride))]
 PST222	((ride))
 PST149	scusate ((ridendo))
 PST147	non te la prendere sul person[a:le]
@@ -1592,15 +1594,15 @@ PST147	tipo ((ridendo))
 PST148	ho pro[va:to ma non mi ricordavo nean]che più
 PST147	[xxx]
 PST149	[si è presa ma]le
-PST222	((ride)) [cosa]?
+PST222	[((ride)) cosa]?
 PST148	no io xxx però non non riesco:: [no~]
 PST147	[io faccio] risorse umane
 PST222	risorse umane a::h
 PST222	al[lora quando] vai a::
 PST147	[e~]
 PST147	quando hai voglia di mandare la il tuo ci vu
-PST147	[sì (.) eh io] (.) [io io] ((ride))
-PST222	[lei controlla il tuo ci] [vu] ((ride))
+PST147	[sì (.) eh io] (.) [io io ((ride))]
+PST222	[lei controlla il tuo ci] [vu ((ride))]
 PST148	[(lei) sì:]
 PST222	proprio [una::]
 PST147	[io devo::]
@@ -1753,7 +1755,7 @@ PST149	[si stringo][no]
 PST222	[stretta okay s~] [stringono]
 PST147	[stringono]
 PST147	((ride))
-PST148	[xxx] ((ride))
+PST148	[xxx ((ride))]
 PST222	>okay< c'è e::h co[stringere e restrin]gere,
 PST147	[stretta di mano]
 PST222	e poi,
@@ -1823,11 +1825,11 @@ PST147	[locale]
 PST148	esa:tto tipo #arabo
 PST222	okay
 PST148	[sono due]
-PST222	#arabo
-PST148	xx xx xx
+PST222	#_ #arabo
+PST148	#_ xx xx xx
 PST148	sono di #shibin
 PST148	adesso [so~]
-PST222	[shibin] el kom?
+PST222	#_ [shibin] el kom?
 PST148	adesso vivo lì
 PST148	però
 PST148	i miei genitori non sono::
@@ -1886,14 +1888,14 @@ PST222	io ho rinunciato perché ho ascolto delle parola:=m::h:
 PST222	giudizio molto molto male non lo [accetterò mai]
 PST148	[no: vabbè] ((ridendo))
 PST149	loro [lo fanno sempre]
-PST148	((ride)) [allora non] [lo fare più]
+PST148	[((ride)) allora non] [lo fare più]
 PST222	[sì: no no no] ((ridendo))
 PST222	io inizio::: io
 PST222	mi fanno ascoltare delle parole no:
 PST148	[okay]
 PST147	((ride))
-PST222	[sì sì] ((ride))
-PST148	((ride)) [niente più ba:]ci
+PST222	[sì sì ((ride))]
+PST148	[((ride)) niente più ba:]ci
 PST147	non vi:: ((ridendo))
 PST222	((ride)) sì: no
 PST147	sì
@@ -1934,12 +1936,12 @@ PST222	[quindi]
 PST222	[no que~ no im]possibile allora
 PST222	e:::h rimani s~ come si chiama #huwiyyah
 PST222	come si chiama #al-huwiyyah
-PST148	#xx
+PST148	#_ #xx
 PST148	[ah xxx l'arabo]
 PST222	[per per e::h eh]?
 PST147	[identità]
 PST147	identità
-PST147	[#al-huwiyyah]
+PST147	#_ [#al-huwiyyah]
 PST222	[sì esatto] perdo la mia identità
 PST148	(e vai) [sì:]
 PST222	[bravissima:]
@@ -1961,8 +1963,9 @@ PST148	sì è la seconda volta che succede sta roba
 PST222	legata
 PST147	[rigata]
 PST149	[rigata]
-PST148	xxx
-PST222	ah huna fi-ga:: e::h fi-garage?
+PST148	#_
+PST148	#_ xxx
+PST222	#_ ah huna fi-ga:: e::h fi-garage?
 PST148	eh penso di sì è la seconda volta che vedo la gente che si mette a fare le fo:to per: denunciare
 PST147	a:h ((ridendo))
 PST222	ma: (.) rigata qualcuno l'ha rigata o: [xxx]
@@ -1995,7 +1998,7 @@ PST149	a vivere?
 PST222	sì
 PST149	se devo vivere::: per sempre:: io:::
 PST149	#doula però:: #mashi #l-maghrib
-PST222	mashi l-maghrib
+PST222	#_ mashi l-maghrib
 PST149	#la [#l-maghrib #nskun] #fī solamente:: quando::
 PST147	[no: nean~]
 PST149	divento vecchia quando #nshrf
@@ -2093,7 +2096,7 @@ PST222	[oka:y]
 PST147	sì
 PST222	ma cosa non ti pia~ (.) c~ cosa no:~ cosa no:n vi piace in e:h in italia per esempio
 PST148	e:h qua si guadagna male
-PST149	d-doula ((ride))
+PST149	#_ d-doula ((ride))
 PST147	e:[:h è quello]
 PST148	[studi tanti a:]nni: e guadagni male.
 PST148	tipo un::
@@ -2104,7 +2107,7 @@ PST148	di fare la specializzazio:ne,
 PST148	e::h poi se devi pagarti lo stipen~ l=e::h (.) l'affitto di casa non: non ce la fa:i:,
 PST148	è un casino
 PST148	e po:i: ti chiedono tanta esperienza lavorativa per iniziare a lavorare
-PST148	ma non puoi fare: [non puoi lavorare senza] ((ride))
+PST148	ma non puoi fare: [non puoi lavorare senza ((ride))]
 PST149	[e poi:=è:: un mondo] di vecchi.
 PST148	è [vero]
 PST147	[è vero]
@@ -2127,7 +2130,8 @@ PST149	[perché perché gli i]taliani vivono tro:~ ((ridendo))
 PST147	esatto ((ride))
 PST222	ma anche e::hm::
 PST222	non si come si chiama (.) li e:::h
-PST222	xxx
+PST222	#_ xxx
+PST148	#_
 PST222	[non producono figli]
 PST147	e:h sì sì no (.) [no]
 PST149	[eh traduci]
@@ -2164,7 +2168,7 @@ PST222	no:,
 PST148	((ride))
 PST222	((ride))
 PST147	quanti [morti]?
-PST148	((ride)) [mor]ti in pochi ((ridendo))
+PST148	[((ride)) mor]ti in pochi ((ridendo))
 PST148	eh pochi [perché c'è=u:no] [stile di vita molto sano qui]
 PST147	[pochi]
 PST222	[no c'è un bilancio]
@@ -2276,14 +2280,14 @@ PST148	un medico in un ospedale
 PST149	[questo per]ché hanno [deciso di cambia:re]
 PST148	[pubblico (.) non priva:]to [quanto guadagna al mese]
 PST149	[non hanno cambiato tipo le] modalità: di:
-PST222	xx xx [axūya axūya]
+PST222	#_ xx xx [axūya axūya]
 PST147	[sì x tipo::]
 PST148	[eh]
 PST149	[di::]
 PST222	[c'è un mio] fratello,
 PST147	[xxx non aiutano]
 PST222	pren[de cin]que sì
-PST148	[(#besheri)]?
+PST148	#_ [(#besheri)]?
 PST147	[gli strumen]ti:: [le cose] [xx]
 PST222	[cinquemila]
 PST148	[e:h pochis][simo]
@@ -2613,7 +2617,7 @@ PST222	e poi la spiegazione in arabo
 PST148	sì ma anche qui alla fine:: anche se c'è un concetto in inglese te lo spiegano in italiano
 PST222	però:
 PST222	la la:: come si chiama
-PST222	your reference language
+PST222	#_ your reference language
 PST148	[l'italiano]?
 PST222	[okay]
 PST222	italiano
@@ -2652,8 +2656,8 @@ PST222	tanto tanto tempo
 PST148	[i mio cugini] ora fanno solo scuole americane nessuno fa più::
 PST222	[noi passia~]
 PST148	c'è anche un'altra che si chiama #tadribiyya
-PST222	#tagribiyya
-PST148	#tagribiyya
+PST222	#_ #tagribiyya
+PST148	#_ #tagribiyya
 PST222	sì (.) è sperimentale
 PST148	eh a~ [in molti fanno anche quella]
 PST222	[la traduzione]
@@ -2677,8 +2681,8 @@ PST222	[a:h è: s]ì: esatto ((ridendo))
 PST222	quando: questi video: che fanno [per ridere]
 PST148	[sì: esa]tto
 PST222	okay
-PST222	hello brother ((imita pronuncia egiziana))
-PST222	[e:::h] [i was going to:]
+PST222	#_ hello brother ((imita pronuncia egiziana))
+PST222	#_ [e:::h] [i was going to:]
 PST148	[eh esa:~]
 PST147	[a::][:::h a::::h]
 PST222	eh sì: ((ride))
@@ -2690,7 +2694,7 @@ PST147	[sì]
 PST147	a:[:h sì]
 PST222	[poi ho sco]perto che c'è
 PST222	un altro in[glese]
-PST148	thank you
+PST148	#_ thank you
 PST147	okay
 PST222	diverso molto diverso
 PST147	e::h sì

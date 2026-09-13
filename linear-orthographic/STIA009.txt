@@ -8,20 +8,22 @@ PST206	a quale età sei arrivata in italia
 PST017	avevo dieci anni
 PST206	hai vissuto qualche in qualche altro paese prima di arrivare in italia
 PST017	no ehm
-PST017	bǝs fi-l-maghrǝb
+PST017	#_ bǝs fi-l-maghrǝb
 PST206	sei andata a scuola prima di venire in italia
 PST017	ehm sì
-PST017	l-ḥadd ǝ elementare
+PST017	#l-ḥadd #ǝ elementare
 PST206	con chi s~
-PST017	get hīna w~ btedīt eh la quinta elementare
+PST017	#_
+PST206	#_
+PST017	#get #hīna #w~ #btedīt eh la quinta elementare
 PST206	con chi sei venuta in italia
 PST017	ehm con mio fratello e mia mamma
-PST017	ǝ get hīna 3and bāba w kān hīna
-PST017	min el min is-sana min il duemila
-PST017	fa-ḥna b-hīna nel duemilasette
+PST017	#_ ǝ get hīna 3and bāba w kān hīna
+PST017	#min #el #min #is-sana #min il duemila
+PST017	#fa-ḥna #b-hīna nel duemilasette
 PST206	perfetto
 PST206	ora con chi vivi
-PST017	ḅaḅa mama wa axu-ya
+PST017	#ḅaḅa #mama #wa #axu-ya
 PST206	quale ritieni essere la tua lingua madre
 PST017	l'arabo
 PST206	da l'italiano
@@ -29,17 +31,17 @@ PST206	l'arabo
 PST206	come giudichi il fatto di sapere più lingue secondo te è un vantaggio o uno svantaggio
 PST017	è un vantaggio
 PST017	ehm
-PST017	'ashan
+PST017	#_ 'ashan
 PST017	l'arabo
-PST017	ǝ mumkin asta3mil-u: fi-sh-shughul
+PST017	#_ ǝ mumkin asta3mil-u: fi-sh-shughul
 PST017	m~
 PST206	vai vai aumento solo il volume
-PST017	e l-3arabi mumkin yifi-i fi-sh-shughul
-PST017	ḥatta l-iṭali
-PST017	bǝs
-PST017	mi ritengo fortunata che l'arabo mish una lingua che si impara
+PST017	#_ e l-3arabi mumkin yifi-i fi-sh-shughul
+PST017	#_ ḥatta l-iṭali
+PST017	#_ bǝs
+PST017	mi ritengo fortunata che l'arabo #mish una lingua che si impara
 PST017	molto facilmente
-PST017	aḥsan min-ni come lingua madre
+PST017	#aḥsan #min-ni come lingua madre
 PST206	quale lingua ritieni di conoscere meglio tra
 PST206	tra le due ovviamente l'arabo
 PST017	l'arabo
@@ -47,7 +49,7 @@ PST206	e su una scala da uno a dieci secondo te quanto conosci l'arabo
 PST017	ehm
 PST017	non lo s~
 PST017	mh otto
-PST017	walla sette
+PST017	#walla sette
 PST206	mentre l'italiano
 PST017	ehm sei
 PST206	qual è la lingua che ti piace di più
@@ -70,31 +72,31 @@ PST017	sì perché quando sono venuta in quinta
 PST017	ehm ormai l'argom~ gli anni il programma era
 PST017	ormai quasi finito ta~
 PST017	la grammatica i verbi tutto
-PST017	quindi ehm ma-kull-ish atkellem
-PST017	lissa ma-kull-ish atkellem italiano neanche le lezioni potevoseguirle
-PST017	bene ma-kull-ish b-afham cosa stava dicendolaprof
-PST017	bāden anche in prima seconda
+PST017	quindi ehm #ma-kull-ish #atkellem
+PST017	#lissa #ma-kull-ish #atkellem italiano neanche le lezioni potevoseguirle
+PST017	bene #ma-kull-ish #b-afham cosa stava dicendolaprof
+PST017	#bāden anche in prima seconda
 PST017	ehm media
-PST017	ḥatta anche se la professoressa non mi ricordo di che
+PST017	#ḥatta anche se la professoressa non mi ricordo di che
 PST017	della prima media
-PST017	ricordo che la professoressa bada't il programma dall'inizio
+PST017	ricordo che la professoressa #bada't il programma dall'inizio
 PST017	far la grammatica quasi dall'inizio
-PST017	anche lì ma-kunt-ish fahma ḥāga
-PST017	quindi anche se rispiegavano kunt-ish fahma ḥāga w keda
+PST017	anche lì #ma-kunt-ish #fahma #ḥāga
+PST017	quindi anche se rispiegavano #kunt-ish #fahma #ḥāga #w #keda
 PST206	è andata
-PST017	è andata così ḥatta ma-la'et-sh neanche
-PST017	ma-gat-ni-sh fursa eh ya3ni 'alā'i
+PST017	è andata così #ḥatta #ma-la'et-sh neanche
+PST017	#_ ma-gat-ni-sh fursa eh ya3ni 'alā'i
 PST017	una lezione
 PST206	dopo scuola dici mh
 PST017	no
-PST017	f-la scuola
-PST017	shi sana illi law ma kunt l-iṭālī ḥatta b-afham cosa stava dicendo la prof
-PST017	era ormai troppo tardi ashan il programma era
+PST017	#f-la scuola
+PST017	#shi #sana #illi #law #ma #kunt #l-iṭālī #ḥatta #b-afham cosa stava dicendo la prof
+PST017	era ormai troppo tardi #ashan il programma era
 PST206	eraera già avanzato xx
 PST017	era eh sì
 PST206	ma sei mai~ sei hai mai provato ad andare in scuole private oppure o anche solo un doposcuola
 PST017	mh al doposcuola sì però lì mi aiutavano solo nei compiti
-PST017	'amīn niente di che sì
+PST017	#'amīn niente di che sì
 PST206	niente di particolare
 PST206	ehm quale lingua usi quando sei nervosa o arrabbiata
 PST017	l'arabo
@@ -102,15 +104,15 @@ PST206	per contare calcolare e prendere appunti
 PST017	ehm
 PST017	l'italiano
 PST206	l'italiano
-PST017	perché in arabo anche se ho fatto sono andata a scuola f~ in in marocco fino alla quarta elementare
-PST017	bǝṣ scrivere mi è troppo difficile prendere appunti in arabo mi è troppo difficile preferisco prendere appunti in italiano
-PST017	è più facile b-aktib ehm b-aktib subito b-axaṭṭ subito è difficile b-aktib-u bi
-PST017	ḥatta law kan ya3ni fi waḥad bi b-i3r3i muḥarrar bi l-3arabi,
-PST017	atla'i in-ni aktib bi-l-iṭali ya3ni mush aktib al-3arab.
+PST017	perché in arabo anche se ho fatto sono andata a scuola #f~ in in marocco fino alla quarta elementare
+PST017	#bǝṣ scrivere mi è troppo difficile prendere appunti in arabo mi è troppo difficile preferisco prendere appunti in italiano
+PST017	è più facile #b-aktib ehm #b-aktib subito #b-axaṭṭ subito è difficile #b-aktib-u #bi
+PST017	#_ ḥatta law kan ya3ni fi waḥad bi b-i3r3i muḥarrar bi l-3arabi,
+PST017	#_ atla'i in-ni aktib bi-l-iṭali ya3ni mush aktib al-3arab.
 PST206	e quando pensi da sola magari i tuoi pensieri le tue immaginazioni
 PST206	sono più in lingua araba o in italiano
 PST017	mischiato
-PST017	ya3ni:: b-ǝtla'i ḥatta lama b-ǝtkellǝm (.) la'i ni m~
+PST017	#_ ya3ni:: b-ǝtla'i ḥatta lama b-ǝtkellǝm (.) la'i ni m~
 PST017	mischio tutto mischio l'it~ sia l'italiano che l'arabo
 PST017	uso parola dall'italiano e una parola dall'arabo
 PST206	e quando mischi cioè quando ti succede di mischiare sia da sola o comunque con persone che parlano le stesse entrambe due lin~ due lingue
@@ -239,12 +241,12 @@ PST017	però lì avevo più amici
 PST017	em perché
 PST017	mh non non
 PST017	in marocco le persone non so
-PST017	eh i miei compagni hnek fi l-maghrǝb
+PST017	eh i miei compagni #hnek #fi #l-maghrǝb
 PST017	che hanno più
-PST017	ya3ni bi-ytkellimu ma3ē k
-PST017	ḥatta se tu stavi zitta
-PST017	ma kanu bi-ytkellimu ma3ē k
-PST017	mush~
+PST017	#_ ya3ni bi-ytkellimu ma3ē k
+PST017	#ḥatta se tu stavi zitta
+PST017	#_ ma kanu bi-ytkellimu ma3ē k
+PST017	#_ mush~
 PST017	qui invece in italia se tu stai zitta e da sola in un angolo
 PST017	nessuno ti nessuno ti viene di parlarti
 PST206	nessuno nessuno cerca di parlarti
@@ -291,7 +293,7 @@ PST206	perché
 PST017	no
 PST017	anche se
 PST017	ultimamente possono accettare quelli che hanno la laurea
-PST017	e in un paese estero posso anche posso essere anche pagata bene
+PST017	# e in un paese estero posso anche posso essere anche pagata bene
 PST017	ma non tornerei mai per la mentalità della~ della
 PST017	poi la gente che vive lì per le regole che non vengono applicate
 PST017	sono solo scritte su un foglio
@@ -405,11 +407,11 @@ PST017	però quel libro era un arabo molto avanzato
 PST017	cioè io ho studiato l'arabo fino alla
 PST017	la quarta elementare quindi e
 PST017	un arabo e~ base
-PST017	ma-fi-sh parole difficili e avanzate
+PST017	#ma-fi-sh parole difficili e avanzate
 PST206	ehm tu capisci comunque l'arabo standard cioè quello del~ del livello normale
 PST206	non dell'avanzato
 PST017	ehm no non l'avanzato
-PST017	yani riesco
+PST017	# yani riesco
 PST017	a parlare con una persona in arabo
 PST017	sì
 PST017	troverò un pochino di difficoltà però nella~ nel senso me la cavo
@@ -486,7 +488,7 @@ PST206	con c~ cioè lo praticavi eh
 PST206	eh lo praticavi spes~ cioè facevi nuoto spesso
 PST017	sì sì ehm facevo anc~ perché non sapevo nuotare
 PST017	e quindi av~ avevo voglia di imparare il nuoto e ho visto anche
-PST017	ceh mi piaceva tanto
+PST017	cioè mi piaceva tanto
 PST017	quindi tanto tempo fa andavo a fare
 PST017	due gior~ due giorni alla settimana andavo a fare un corso di nuoto
 PST206	navighi~ tu navighi in arabo in internet vero
@@ -509,8 +511,8 @@ PST206	dell'alfabeto italiano
 PST017	sì esatto
 PST206	comunque se scrivi ehm se scrivi ciao che
 PST206	che eh
-PST017	se scrivo ciao in in arabo che si dice salam scrivo
-PST206	sa~ salam
+PST017	se scrivo ciao in in arabo che si dice #salam scrivo
+PST206	#_ sa~ salam
 PST017	come in italiano esse a elle a emme
 PST206	e non utilizzando l'alfabeto arabo
 PST017	no no
@@ -533,7 +535,7 @@ PST017	eh la religione secondo me è una cosa molto importante
 PST017	mh nel senso secondo me n~ nessuno
 PST017	anche se ci sono molte religioni però non~ non penso che ci sia
 PST017	nel senso è molto difficile
-PST017	waḥǝd senza avere una religione
+PST017	#waḥǝd senza avere una religione
 PST017	e senza pensare che ci sia ehm
 PST017	un dio
 PST017	a cui rivolgersi quando si ha
@@ -633,17 +635,17 @@ PST017	ehm
 PST017	che~ e la gent~ non sempre però
 PST017	quasi nel se~ non sempre però la gente non
 PST017	non mh non
-PST017	non b-tǝdxal-sh f-hayat-ǝk
+PST017	non #b-tǝdxal-sh #f-hayat-ǝk
 PST017	ad esempio ti lascia
 PST206	mh mh
-PST017	in-nes x bi-tdaxal ti dice cosa devi fare
+PST017	#in-nes #x #bi-tdaxal ti dice cosa devi fare
 PST017	cosa non devi fare cosa hai fatto
 PST017	eh un'altra cosa
 PST017	però questa cosa me la s~ la sento solo ultimamente
 PST017	che le persone non sono
 PST017	ognuno è per~ nel senso
-PST017	fi-l-ḥayr-uh
-PST017	mush e poi ultimamente sento che c'è più razzismo
+PST017	#_ fi-l-ḥayr-uh
+PST017	#mush e poi ultimamente sento che c'è più razzismo
 PST017	con tuttitutte le cose che stanno succedendo nel mondo le persone diventano più razziste
 PST206	e la soprattutto con la nuova politica che abbiamo
 PST017	sì

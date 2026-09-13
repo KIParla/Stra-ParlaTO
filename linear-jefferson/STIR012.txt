@@ -67,8 +67,8 @@ PST211	e cosa pensi si potrebbe fare per migliorare la situazione a barriera SE 
 PST211	potrebbe essere migliorato.
 PST036	cercare di fare rete:: il più possibile
 PST036	quello sicuramente:::
-PST211	quindi un po' come si fa qui [(.) ai bagni] ((ride))
-PST036	[sì esatto] ((ride))
+PST211	quindi un po' come si fa qui [(.) ai bagni ((ride))]
+PST036	[sì esatto ((ride))]
 PST211	okay
 PST211	e mi dicevi quindi che hai origini moldave,
 PST036	s:ì
@@ -359,5 +359,5 @@ PST211	ti viene in mente qualcos'altro::
 PST211	diciamo (.) di come vivi questa::: c(io)è l~
 PST211	bilinguismo dalla nascita xx insomma qualche caratteristica che::
 PST211	hai sempre notato (.) di questa cosa,
-PST036	no in [realtà::] ((ride)) non mi viene nient'altro.
-PST211	[no] ((ride))
+PST036	no in [realtà:: ((ride))] non mi viene nient'altro.
+PST211	[no ((ride))]

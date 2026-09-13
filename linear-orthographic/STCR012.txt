@@ -102,7 +102,7 @@ PST092	no ma ho messo la lente che posso vedere
 PST092	ho messo la len~ ho messo la lente la puoi modificare in base alla gradualità degli occhiali
 PST092	~spetta
 PST092	oh drăguț
-PST085	nu l-am uitat aicea
+PST085	#_ nu l-am uitat aicea
 PST087	per domani puoi veni~ vieni anche tu
 PST087	a girare alle dieci e mezza o dopo
 PST092	io ci sono alle dieci e mezza il punto è dopo che non ci sono
@@ -128,8 +128,8 @@ PST085	penso
 PST092	aprite un po' la finestra
 ??	pensi
 PST092	o la porta
-PST085	prințesă
-PST085	sai io sono la prințesă
+PST085	#_ prințesă
+PST085	sai io sono la #prințesă
 PST203	dimmi
 PST092	puoi aprire un po' la porta
 PST092	xxx
@@ -139,10 +139,10 @@ PST092	zambibambi
 ??	okay
 ??	per me è zambibambi se mi dici zamfir non so manco chi è
 PST085	ah
-PST085	dar ce hai fatto un video
-PST085	serios
-???	serios
-PST085	xx xx
+PST085	#dar #ce hai fatto un video
+PST085	#_ serios
+???	#_ serios
+PST085	#_ xx xx
 PST085	ero bloccata ho detto questa vuole farmi una foto
 PST085	mi aspettavo il flash ero già pronta
 PST092	ma secondo te cioè xx la macchina xx qua del flash
@@ -151,7 +151,7 @@ PST092	eh
 PST085	scusami
 PST085	okay ti chiedo scusa
 PST092	posso entrare dentro la stanza sistemarla già per la sala
-PST203	yes quella ce l'hai a mano tu
+PST203	#yes quella ce l'hai a mano tu
 PST092	per usare dietro
 PST092	devo solo devo capire come
 PST203	ma guarda che sembra una fotografa con sta macchina

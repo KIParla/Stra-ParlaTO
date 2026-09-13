@@ -1,25 +1,25 @@
 PST223	okay
-PST223	ana nbda 'anhaḍhr #*el:::
-PST223	b-ṭ-ṭaliniya
-PST078	an fahmak
+PST223	#_ ana nbda 'anhaḍhr #*el:::
+PST223	#_ b-ṭ-ṭaliniya
+PST078	#_ an fahmak
 PST078	ah
 PST223	innanzitutto questo qua è un progetto,
-PST223	tfahm-ini hukak
-PST078	la wa bi-l-qa3ida ah ah ah
-PST078	aḥna ṭaleni-ṭaliniya diyelna 3a diyel sawwaqiyyat
-PST078	eh mat
-PST223	waxxa
+PST223	#_ tfahm-ini hukak
+PST078	#_ la wa bi-l-qa3ida ah ah ah
+PST078	#_ aḥna ṭaleni-ṭaliniya diyelna 3a diyel sawwaqiyyat
+PST078	#_ eh mat
+PST223	#_ waxxa
 PST223	e:::hm
 PST223	mi puoi dire il tuo nome innanzitutto?
-PST078	ahdar m3a-ya anta
-??	#smiyya
+PST078	#_ ahdar m3a-ya anta
+??	#_ #smiyya
 PST078	mio nome?
 PST223	sì
 PST078	mi chiamo (.)
 PST223	°va bene°
 PST223	m:::h
 PST223	vuoi raccontare qualcosa che:: qualcosa di te
-??	ahdar li-ya ḥsab 3la ḥsab-k
+??	#_ ahdar li-ya ḥsab 3la ḥsab-k
 PST078	e::hm
 PST078	e:::h (.) volevo dirti::: eh di tanti anni fa? oppure e::h questa
 PST078	[adesso]
@@ -53,7 +53,7 @@ PST078	e::h mia amica è stata qui italia ma adesso andata:
 PST078	andata germania
 PST078	e:::h
 PST078	lei era stata qui italia: con suo marito suo marito che le fa:
-PST078	#*el:
+PST078	#_ #*el:
 PST078	#*el posto per::
 PST078	per venire
 PST078	gente qui e:h italia
@@ -107,7 +107,7 @@ PST078	(e ho) fatto la pratica,
 PST078	e:::h la pratica di:::
 PST078	e:::h come si chiama::
 PST078	e:::h
-PST078	#*dil
+PST078	#_ #*dil
 PST078	per::
 PST078	per bada::nti: e:: che lavorano badanti e::h
 PST078	colf
@@ -263,8 +263,8 @@ PST078	e adesso no
 PST078	è vero sì
 PST223	e:::hm
 PST078	((ride))
-PST223	ṭaliyen diyel mḥens
-PST078	ktb 3al li-li duz ((ride))
+PST223	#_ ṭaliyen diyel mḥens
+PST078	#_ ktb 3al li-li duz ((ride))
 PST223	sì sì adesso poi taglio
 PST223	e:::hm:
 PST223	quando poi sei venuta:: prima di venire in italia avevi un pensiero dell'italia.
@@ -281,7 +281,7 @@ PST078	una: pensiero finta
 PST078	mai mai stata
 PST078	e:::h io penso che andare in spagna sì
 PST223	e cosa cambia da [lì]
-PST078	[perché] spagna spagna cè
+PST078	[perché] spagna spagna c(io)è
 PST078	contadini lì
 PST078	tanto
 PST078	e:::h
@@ -293,9 +293,9 @@ PST078	qualche giorni che andare an~ e::::h mia sorella:,
 PST078	a: trovarla e::h
 PST078	°così°
 PST223	e invece per la famiglia come::,
-PST078	e la famiglia:: cè mia fratelli qui,
+PST078	e la famiglia:: c(io)è mia fratelli qui,
 PST078	anche mia mamma:: con sua documenti di qua di italia ma
-PST078	si andava anche in spagna non cè problema niente,
+PST078	si andava anche in spagna non c(io)è problema niente,
 PST223	quindi vorresti andare in spagna?
 PST078	e:::h
 PST078	per adesso:
@@ -319,7 +319,7 @@ PST078	a giorni quando: le spesa che le fai,
 PST078	lì (.) in marocco
 PST078	cè::
 PST078	giorni io dico giorni che:: tu compri
-PST078	cè la bombola,
+PST078	c(io)è la bombola,
 PST078	e:::h
 PST078	forse
 PST078	venti
@@ -333,7 +333,7 @@ PST078	perché l:::
 PST078	tolgono l~ l:: chili
 PST078	quando le fanno::
 PST078	quando le caricano l~ e::h #*əl bombola
-PST078	non si fanno tutti #*əl kili che cè
+PST078	non si fanno tutti #*əl kili che c(io)è
 PST078	adesso meno::: tre chili o quattro chili che tolgono #*del bombola grande
 PST078	e poi
 PST078	più:
@@ -426,7 +426,7 @@ PST223	ti sei adattata?
 PST078	non ho capito
 PST223	ti sei adattata in italia con la cultura:: (.) o è °molto distante:::°
 PST078	°e::h°
-PST223	ti sei adattata (.) alla cultura che cè in italia?
+PST223	ti sei adattata (.) alla cultura che c(io)è in italia?
 PST078	non:: non ho:: capito questa parola
 PST223	e:::h
 PST078	fammi capire
@@ -435,18 +435,18 @@ PST078	e:::h
 PST078	come stata?°o:::ppure°
 PST223	sì va bene racc~ ra~
 PST078	e:h
-??	wash t~
+??	#_ wash t~
 ??	e::hm
 ??	#al m:::h
 ??	e:hm
-??	ya3ni wash
-??	e:hm mxalṭin m3a-hum fl-staqbl-ti m3a m3a
-PST078	ah:: staqblt m3 ṭalienīn
+??	#_ ya3ni wash
+??	#_ e:hm mxalṭin m3a-hum fl-staqbl-ti m3a m3a
+PST078	#_ ah:: staqblt m3 ṭalienīn
 PST078	sì
 PST078	°sì°
-PST078	ki mezian
-PST078	mezian a huma ə-n-nas
-PST223	bi-ṭ-ṭaleniyya
+PST078	#_ ki mezian
+PST078	#_ mezian a huma ə-n-nas
+PST223	#_ bi-ṭ-ṭaleniyya
 PST078	e::hm
 PST078	gente non hai
 PST078	non hai siamo uguali tutti insieme non siamo uguali
@@ -454,7 +454,7 @@ PST078	però c'è gente che::
 PST078	è bra::vi:: come si parlano con una persona che:
 PST078	che: (ap)pena (ap)pena che
 PST078	parla l: ingua
-PST078	cè gente che:: dicono no:: perché::
+PST078	c(io)è gente che:: dicono no:: perché::
 PST078	e::h io volevo una persona che parla italiano bene::
 PST078	e:::h
 PST078	io quando dico una cosa e tu la fai veloce non eh non stai,
@@ -462,7 +462,7 @@ PST078	a ascoltare tanti cosa per capire:,
 PST078	e:::h
 PST078	però io: andata tutta la famiglia che stata con loro:: sto bene,
 PST078	°sto bene°
-PST078	cè $qualchi::
+PST078	c(io)è $qualchi::
 PST078	colleghi che:
 PST078	dicono::
 PST078	sai che parlano male dietro di l~ (.) persona?
@@ -477,7 +477,7 @@ PST078	bene
 PST078	avanti di me: e parla d~
 PST078	male dietro di me
 PST078	però io:::
-PST078	nei giorni che stata eh lasciato telefono telefono cè una:::
+PST078	nei giorni che stata eh lasciato telefono telefono c(io)è una:::
 PST078	c'è codici
 PST078	però io conosco solo io
 PST078	e lasciato telefono lì::
@@ -496,13 +496,13 @@ PST078	fotocamera
 PST078	al posto dove::: lavoriamo tutti insieme
 PST078	e:h però:: lei ha stata:: una bugiarda
 PST078	e::h,
-PST078	ha detto tutto:: bugia non cè $nienta
+PST078	ha detto tutto:: bugia non c(io)è $nienta
 PST078	$nienta::: s~ qualcosa: da:: m::h
 PST078	come diciamo:: giusti #*el la parola sembra
 PST078	xxx
 PST078	tutti chi detto (.) non: non c'è niente
 PST078	al contrario
 PST078	°m::h°
-PST223	#safi
-PST223	3aw-tti kulshi
-PST078	3awd-na kulshi jebed-na gha3 hadakshi li ja 3ala bal-na
+PST223	#_ #safi
+PST223	#_ 3aw-tti kulshi
+PST078	#_ 3awd-na kulshi jebed-na gha3 hadakshi li ja 3ala bal-na

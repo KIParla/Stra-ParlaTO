@@ -170,14 +170,14 @@ PST114	se eran tutti come te non ordina nessuno va in malora xx xx
 PST115	xx ragazzo chiediglielo al ragazzo no
 PST113	quel ragazzo è ciccione
 PST115	sì okay capo
-PST113	che sta con quello di to dream
-PST113	ma non è tutto dream tra l'altro
+PST113	che sta con quello di #to #dream
+PST113	ma non è tutto #dream tra l'altro
 PST113	x
 PST115	non bene non fanno un bene
 PST112	con e è così la conversazione si si balza da un punto all'altro senza finire nessuna frase nessuna convers~
 PST115	è brava
 PST112	nessun argomento ma sì
-PST112	ma xx to dream ma come eh
+PST112	ma xx #to #dream ma come eh
 PST113	che cazzo vuoi cogliona
 PST112	sai che prima mi dirai io ah vabbè ah
 PST115	è vero
@@ -211,10 +211,10 @@ PST113	minchia vino birra
 PST112	la tsingtao la prendi
 PST113	io alle sei lavoro eh
 PST115	ma hanno preso la
-PST113	per quello pure se viene and co magari può essere
+PST113	per quello pure se viene #and co magari può essere
 PST113	è vero
 PST113	ciao
-PST113	vuoi un uramaki tieni
+PST113	vuoi un #uramaki tieni
 PST115	dai schifoso di mer~
 PST113	ti pare
 PST112	c'è il tè al gelsomino
@@ -239,13 +239,13 @@ PST112	ao ravioli siamo a posto ne volete altri
 PST113	tu l'hai visto il mio video
 PST115	no io non voglio ravioli
 PST113	hai visto
-PST115	io vorrei io vorrei il sashi~ questi qua
+PST115	io vorrei io vorrei il #sashi~ questi qua
 PST114	sta dicendo di no per dire di sì
 PST114	no
 PST112	ah no no no è di~ no no no vi sto chiedendo questa è una domanda sincera
 PST115	io non vo~ io non voglio ravioli
 PST113	ravioli sì sì sì però quelli grigliati
-PST115	mi ordini i nigiri quelli però che c'hanno sopra la salsa teriyaki
+PST115	mi ordini i #nigiri quelli però che c'hanno sopra la salsa #teriyaki
 PST112	brasati
 PST112	ma le tartare
 PST112	io non l'ho mangiata
@@ -375,13 +375,13 @@ PST112	non ho preso da bere
 PST113	quante quanti piatti
 PST115	ma tu ordina massimo
 PST112	ho preso tre di stick due ravioli brasati due tartare di salmone
-PST112	un eh roll ura spicy tonno
+PST112	un eh #roll #ura #spicy tonno
 PST115	ma sì
 PST112	gamberi in agrodolce
 PST114	va bene
 PST115	hai preso l'acqua per me
 PST112	sì
-PST112	ura philadelphia black tie vabbè
+PST112	#ura philadelphia #black #tie vabbè
 PST112	che volete vino birra
 PST114	oh io alle quattro devo essere a caluso
 PST113	cosa devi fare a caluso
@@ -796,9 +796,9 @@ PST113	xxx
 PST115	sì sì sì
 PST113	xx xx
 PST115	poi mi voglio prendere anche mh
-PST115	i vanity quello per truccarmi
+PST115	i #vanity quello per truccarmi
 PST115	cioè come con
-PST112	non lo sapevo vanity si chiamano
+PST112	non lo sapevo #vanity si chiamano
 PST115	la mensola tipo che c'ha le luci grandi ti siedi
 PST113	ah è lo specchio
 PST115	sì è lo specchio col per truccarsi
@@ -838,12 +838,12 @@ PST113	prendi un po' di sì
 PST115	ah no ci sono due porzioni in produzione xx
 PST113	okay
 PST114	ahia ahia
-PST113	prendi un po' di uramaki miss
+PST113	prendi un po' di #uramaki miss
 PST115	vabbè mo lo mangio
 PST113	uno però non xxx xxxx
 PST115	philadelphia
 PST112	ah no non ci sono no in produzione dice
-PST115	uno spicy e salmone
+PST115	uno #spicy e salmone
 PST113	dici che dovrei pulirmi la bocca che è un po'
 PST114	ah ah no no no perché
 PST112	se guardi mentre mangia l'insalata di pollo in pausa pranzo
@@ -851,9 +851,9 @@ PST113	perché
 PST112	meraviglioso
 PST112	pane insalata
 PST112	t~ qualsiasi cosa
-PST115	ah sai che al to dream
+PST115	ah sai che al #to #dream
 PST112	che che fanno da mangiare tutto a
-PST115	sai che sai che a to dream è gratis tutto
+PST115	sai che sai che a #to #dream è gratis tutto
 PST113	vabbè amo che cazzo xx
 PST115	anche a piazza vittorio sarà così
 PST115	ma è di sempre non è di

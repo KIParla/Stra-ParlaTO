@@ -114,7 +114,7 @@ PST202	okay ehm e appunto invece i mezzi i mezzi pubblici li usate spesso
 PST009	abbastanza sì
 PST054	sì ehm pochissimo io pochissimo
 PST202	ti sei convertito alla bicicletta
-PST054	sì perché alcune volte mezzi di trasporto si fermano in~ m mezz'ora una fila lunga quindi
+PST054	sì perché alcune volte mezzi di trasporto si fermano in~ mh mezz'ora una fila lunga quindi
 PST202	mh mh mh mh mh mh
 PST203	anche a scuola vai in bici
 PST054	eh scuola e vicino a c~ cioè ottocento metri da casa mia quindi vado a piedi
@@ -895,7 +895,7 @@ PST202	giusto questo è giusto
 PST009	ehm quando so che qualcuno è appassionato di calcio io guardo~ guardo quella partita per prenderlo in giro poi il giorno dopo e è una cosa fantastica e mah
 PST203	a te neanche piace il calcio
 PST054	a me piace però non mi piace la serie a mi piace la come si chiama
-PST009	street football
+PST009	#street football
 PST054	no no no il ehm
 PST054	le come si chiama la liga la liga la liga spagnola
 PST203	spagnola

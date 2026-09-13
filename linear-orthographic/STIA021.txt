@@ -40,10 +40,10 @@ PST141	marrakech marrakech marrakech marrakech
 PST142	marrakech marrakech
 PST215	ah ho capito capito no io sapevo che si diceva marrakech
 PST142	no marrakech
-PST140	the a~ a~ accent accent bi-l-iṭaliya: (.) l-accent
-PST141	l'accent
-PST140	l'accent l'accent
-PST141	eh la le~ l'accent
+PST140	#_ the a~ a~ accent accent bi-l-iṭaliya: (.) l-accent
+PST141	#_ l'accent
+PST140	#_ l'accent l'accent
+PST141	#_ eh la le~ l'accent
 PST215	eh e tu ti chiami giusto
 PST142	ah mi chiamo
 PST142	sì
@@ -85,11 +85,11 @@ PST215	cioè
 PST215	come
 PST141	ah sì
 PST140	arabo
-PST140	amazigh e arabo
-PST141	berbèr berbèr
+PST140	#amazigh e arabo
+PST141	#_ berbèr berbèr
 PST140	berbero
 PST215	ah berber~ dici berbero
-PST140	berbè~ sì ama~ berber amazigh amazigh berbèr e arabo
+PST140	#berbè~ sì ama~ #berber #amazigh #amazigh #berbèr e arabo
 PST141	eh lingua berbèr~ sì
 PST215	però non sono la stessa cosa
 PST142	arabo sì arabo
@@ -101,28 +101,29 @@ PST140	xxx
 PST141	xxx
 PST215	un'altra lingua
 PST215	che è il berbero
-PST141	eh l-berbèr
+PST141	eh #l-berbèr
 PST140	sì
-PST140	berbèr sì
+PST140	#berbèr sì
 PST141	sì berbero
 PST215	berbero che però s~ sono diverse
 PST141	no
 PST142	sì diverso
 PST215	no è diverso
 PST141	non dive~ non è diversi è uguali
-PST140	uguale uguale uguale eh eh eh lunga amazigh
+PST140	uguale uguale uguale eh eh eh lunga #amazigh
 PST215	come
-PST140	lunga amazigh
-PST140	la lingua il berber amazigh
+PST140	lunga #amazigh
+PST140	la lingua il #berber #amazigh
 PST215	sì
 PST215	capito
-PST141	wa-ra amazigh b-darij-tna berbèr bi-l-lugha bi-l-lugha xxx
+PST141	#_ wa-ra amazigh b-darij-tna berbèr bi-l-lugha bi-l-lugha xxx
 PST140	no parl~
+PST140	#_
 PST140	parlare no parlare eh arabi
 PST140	arabi eh
-PST140	un poco arabic e amazigh
-PST141	yallāh duwwex l-s-siyyed gul-lih shi kelma b-l-shlḥa (.) lā lā ma-zyen ah
-PST140	xassu i xxx marocchino
+PST140	un poco #arabic e #amazigh
+PST141	#_ yallāh duwwex l-s-siyyed gul-lih shi kelma b-l-shlḥa (.) lā lā ma-zyen ah
+PST140	#xassu #i xxx marocchino
 PST215	va bene
 PST215	cioè quindi la lingua che avete imparato quando eravate bambini
 PST142	parla parlo
@@ -140,14 +141,15 @@ PST215	ah capito
 PST142	sì
 PST215	capi~ sì sì sì è vero eh infatti l'altra cosa che
 PST142	sì eh eh arabo
-PST141	la langue maternelle l'arabe
+PST141	#_ la langue maternelle l'arabe
 PST142	eh l'al~ l'altra frase per eh per eh per francesi
 PST215	quello
 PST141	eh leggo in arabo
 PST142	e l'altra parte per eh inglesi
-PST140	anche anche il française anche il française
+PST140	anche anche il #française anche il #française
 PST142	italiano no
 PST215	no sì lo so
+PST142	#_
 PST140	fran~ francese
 PST215	ah no ma a proposito a proposito di questo infatti
 PST215	a parte l'arabo cioè abbiamo capito che in marocco parlavate arabo giustamente come in ita~ in italia si parla l'italiano
@@ -156,36 +158,36 @@ PST142	in arabo sì
 PST142	mh arabo sì
 PST215	però ci sono anche
 PST215	francese e lo spagnolo no voi conoscevate anche queste
-PST141	un po' spagnolo sì sì le nord
+PST141	un po' spagnolo sì sì #le #nord
 PST142	no
 PST140	sì spagno~ sì po~ eh no
-PST140	sì c'è español
-PST141	le nord parla español sì
+PST140	sì c'è #español
+PST141	#le #nord parla #español sì
 PST215	perché sono sono subito lì c'è pochissima distanza
-PST141	le nord parla español sì
+PST141	#le #nord parla #español sì
 PST140	sì sì
 PST141	sì sì
 PST215	e quindi voi parlate parlate anche un po' di spagnolo
-PST141	le nord tutti parlent
+PST141	#le #nord tutti #parlent
 PST142	per la
 PST141	un po'
 PST215	un po'
 PST142	no per la scuola
 PST141	un po' sì
 PST141	un po'
-PST142	per la scuola dove franç~ e francese
+PST142	per la scuola dove #franç~ e francese
 PST141	francese e inglese
 PST141	no no
 PST142	e basta
-PST141	scusa al eh come si chiama lycée
+PST141	scusa al eh come si chiama #lycée
 PST140	scuola
 PST141	alle eh superiori
-PST215	sì liceo è liceo li~ lycée
+PST215	sì liceo è liceo li~ #lycée
 PST143	sì il liceo
 PST141	eh sì inglesi francesi
 PST141	espagnolo
-PST141	a~ a~ allemand
-PST141	ça veut dire eh lingua germania
+PST141	a~ a~ #allemand
+PST141	#ça #veut #dire eh lingua germania
 PST140	germania
 PST141	non lo so come si chiama italiano
 PST215	te~ tedesco
@@ -193,16 +195,16 @@ PST141	tedesco brava sì
 PST215	ah sì
 PST215	sì
 PST141	que~ sì
-PST140	walakin l-lugha li-l-l-awla
+PST140	#_ walakin l-lugha li-l-l-awla
 PST142	è francese
-PST141	lugha l-l-awla francese
+PST141	#lugha #l-l-awla francese
 PST140	è francese
 PST142	ah basta ah
 PST141	francese
 PST140	francese pi~ prima francese
 PST141	prima francesi seconda
 PST140	arabo francese
-PST141	lā daba f-lycée hna xx
+PST141	#lā #daba #f-lycée hna xx
 PST215	ah cioè le lingue che si fanno nella scuola
 PST140	dopo
 PST140	sì
@@ -221,7 +223,7 @@ PST215	in marocco e hai studiato anche queste lingue
 PST141	eh sì anche l'università
 PST215	anche l'universi~ e cosa hai studiato all'università
 PST141	sì
-PST141	eh économique
+PST141	eh #économique
 PST215	ah econo~ economia ah
 PST141	eh
 PST215	no io invece faccio scienze linguistiche
@@ -289,18 +291,18 @@ PST215	giusto perché perché in marocco piace molto l'italia giusto
 PST141	no non lo so
 PST141	sì piace eh
 PST141	piace molto italia sì
-PST141	mgharba ki bghiw ṭ-ṭalien 3la m3ammrin xx
-PST142	ken ki l3ab m3a-hum f-xxx l3ab m3a-hum fī-fī
-PST141	gal-lik ra ken ki l3eb
+PST141	#_ mgharba ki bghiw ṭ-ṭalien 3la m3ammrin xx
+PST142	#_ ken ki l3ab m3a-hum f-xxx l3ab m3a-hum fī-fī
+PST141	#_ gal-lik ra ken ki l3eb
 PST215	aunaltrapersona ciao s~ s~ s~ sì sì ma non sapevo
 PST143	aunaltrapersona ma hai beccato anche lui eh
 PST142	aunaltrapersona eh ah ciao
 PST141	anche lui di u~ x
 PST215	se vuoi prendere una sedia e metterti
-PST141	bqaw fiya ana i shampwanat xx xx
+PST141	#_ bqaw fiya ana i shampwanat xx xx
 PST143	vado anche a recuperare un cappotto
 PST215	va bene
-PST141	'ullahila @nada ket 3ayyet ḥshuma 3li-ku a-d-drari
+PST141	#_ 'ullahila @nada ket 3ayyet ḥshuma 3li-ku a-d-drari
 PST215	capito
 PST215	quindi tu sei
 PST215	qui in si pronuncia giusto così
@@ -322,15 +324,15 @@ PST140	no bar eh ristorante
 PST215	no solo in ristorante
 PST140	cucina cucina ari~ araba sì xxx
 PST215	ah cuci~ sei un cuoco
-PST141	siri samḥi-liya ḥebiba dyeli allah-i-3awen met nsaish nhar tnin me tnsaish nhar tnin
+PST141	#_ siri samḥi-liya ḥebiba dyeli allah-i-3awen met nsaish nhar tnin me tnsaish nhar tnin
 PST215	okay
 PST215	eh hai conosciuto il attraverso un amico hai detto
 PST141	insh-allah yallah xx xx xx thellay tre-lik fe ra-sek be-slama tre-lik a hbiba
 PST140	sì eh amico in lav~ in lavoro
-PST141	ḥshuma xellina l-mera ket tsnna bellati 3li-kum bellati
+PST141	#_ ḥshuma xellina l-mera ket tsnna bellati 3li-kum bellati
 PST140	eh
-PST141	hadak hadak huwa (.) hadak huwa li-ntfahmu m3ah xx xx
-PST140	gul-lih gul-lih huwa gal-liya kifash 3rfti @nomeassociazione gelt-lih ra derri li m3a-ya fl-xadma gul-lih
+PST141	#_ hadak hadak huwa (.) hadak huwa li-ntfahmu m3ah xx xx
+PST140	#_ gul-lih gul-lih huwa gal-liya kifash 3rfti @nomeassociazione gelt-lih ra derri li m3a-ya fl-xadma gul-lih
 PST142	ah
 PST142	eh lui lui amico per eh di venuto di per la la
 PST141	l~ eh l'amico
@@ -440,13 +442,13 @@ PST215	ah o sei stato
 PST142	ah ah
 PST215	per tre mesi
 PST142	eh eh
-PST141	ya siyyed yak nta mshi-ti l-r-rumdan u jiti hadi simana gel-ti li-ya bekri xx
-PST142	lā lā lā lā lā
-PST141	gul-lih 3la rumdān ki fach daz temma u jiti
-PST142	lā gel-ti jiti eh
+PST141	#_ ya siyyed yak nta mshi-ti l-r-rumdan u jiti hadi simana gel-ti li-ya bekri xx
+PST142	#_ lā lā lā lā lā
+PST141	#_ gul-lih 3la rumdān ki fach daz temma u jiti
+PST142	#_ lā gel-ti jiti eh
 PST142	sì eh
 PST141	settimana
-PST142	lā lā hadi una settimana sì
+PST142	#lā #lā #hadi una settimana sì
 PST141	una settimana
 PST140	ah sì è vero
 PST142	due da t~ tre giorni tre giorni tre giorni
@@ -502,7 +504,7 @@ PST215	come
 PST141	scuola non è subito
 PST215	no da quanto tempo vieni qui a fare italiano
 PST141	eh al eh
-PST142	sḥal bash jiti ntiya hnaya l-madrasa
+PST142	#_ sḥal bash jiti ntiya hnaya l-madrasa
 PST141	sì sì eh a gennaio
 PST215	a gennaio
 PST141	la eh finito gennaio
@@ -568,15 +570,16 @@ PST141	sì
 PST141	presenti
 PST140	no
 PST141	il eh verbo
-PST140	in africa sempre sempre verbe
-PST140	grammatica verbe sempre
+PST140	in africa sempre sempre #verbe
+PST140	grammatica #verbe sempre
 PST141	eh sempre grammatica
 PST215	verbi grammatica
 PST140	in oceania eh in oceania
 PST141	dettato sì
 PST140	eh
 PST140	parlare
-PST140	eh communiquer eh
+PST140	eh #communiquer eh
+PST142	#_
 PST215	comunicare
 PST140	com~ comunicare sì eh
 PST141	eh comunicare sì
@@ -657,7 +660,7 @@ PST140	famiglia no eh
 PST141	famiglia
 PST142	diverso sì diverso
 PST141	sì
-PST140	xx l-makla l-makla 'anwā3 matalan
+PST140	#_ xx l-makla l-makla 'anwā3 matalan
 PST141	le le cibo
 PST215	sì
 PST140	sì differente cibo marocchino
@@ -711,9 +714,9 @@ PST140	no solo qua sì
 PST141	con gli amici sì
 PST141	shabek con gli amici
 PST140	eh
-PST142	dayra i buḥed-ha u buḥed-ha m3a-hum
+PST142	#_ dayra i buḥed-ha u buḥed-ha m3a-hum
 PST141	no
-PST140	3a buḥdi
+PST140	#_ 3a buḥdi
 PST141	da solo
 PST143	avevo capito che era con un amico uno zio invece lo zio è a bra
 PST140	da solo solo

@@ -1,8 +1,8 @@
-PST110	arabo
+PST110	#_ arabo
 PST108	mh?
-PST110	arabo
-PST108	arabo
-PST110	arabo
+PST110	#_ arabo
+PST108	#_ arabo
+PST110	#_ arabo
 PST211	beh sembra: solido comunque questo
 PST217	((ride)) sì:
 PST217	ieri qualcuno mi ha detto che sembrava un giocattolo
@@ -163,7 +163,7 @@ PST211	con la tes[ta]
 PST108	[tut][to: il ca]vallo
 PST217	[mh]
 PST217	be:ne
-PST109	arabo
+PST109	#_ arabo
 PST108	questo qua è il capo della squadra guarda che giovanissimo
 PST217	ma
 PST217	beh non si [vede bene la faccia però]
@@ -183,8 +183,8 @@ PST217	sì
 PST110	cavallo è meglio di bicicletta eh?
 PST217	eh?
 PST110	cavallo meglio di bicicletta (vai)
-PST217	[è vero sì] ((ridendo))
-PST110	[andare con ca~] ((ride))
+PST217	[è vero sì ((ridendo))]
+PST110	[andare con ca~ ((ride))]
 PST217	perché io (.) quando torno a casa faccio tipo quindici [chilo:metri]
 PST109	[guarda (.)] mie foto
 PST109	duemilanove
@@ -193,7 +193,7 @@ PST217	a:h sì [qui eri:]
 PST109	[mh (.) qui è (.)] un bambino
 PST217	un bam[bino sì]
 PST211	[mh]
-PST108	arabo
+PST108	#_ arabo
 PST109	[sono sta]to duemila e sedici
 PST108	i cavalli sono bellissimi veramente
 PST211	[mh mh]
@@ -209,7 +209,7 @@ PST217	[e:h]
 PST108	quando sali sul sul cavallo
 PST211	sì (.) io avevo fatto delle lezioni (.) ma poi una volta,
 PST211	e:h il cavallo era partito veloce al ga[loppo e io mi son spaven]tata [tantissimo]
-PST108	((ride)) [è caduta]?
+PST108	[((ride)) è caduta]?
 PST109	[xx xx]
 PST108	[non è cadu]ta?
 PST211	lo s~ no: non son caduta [eh ma]
@@ -234,7 +234,7 @@ PST211	da [tenere qua o in [marocco]
 PST109	[perché::]
 PST108	no marocco (.) [no] qua come fai
 PST211	[mh]
-PST211	e:h no non lo [so] ((ride))
+PST211	e:h no non lo [so ((ride))]
 PST109	[no qui io no no io andato in un:] scuola però::
 PST217	chie[devano:]
 PST109	[pagare ta:]nto
@@ -286,9 +286,11 @@ PST217	no: però sì
 PST211	vi possiamo chiedere di firmare:
 PST108	[sì (ce l'ho lì)] sì sì
 PST211	[alcune cose]
-PST109	arabo
-PST109	arabo
-PST108	arabo
+PST109	#_ arabo
+PST108	#_
+PST109	#_
+PST109	#_ arabo
+PST108	#_ arabo
 PST211	c'è una penna lì:?
 PST108	sì
 PST211	allora
@@ -385,8 +387,8 @@ PST217	e: poi (.) [qua: una firma]
 PST211	[allora qua oggi è il:] pa pa pa:
 PST108	ah
 PST217	perché perché: appunto usiamo queste cose per l'università
-PST108	arabo
-PST110	arabo
+PST108	#_ arabo
+PST110	#_ arabo
 PST217	grazie
 PST217	(si basta) ((ridendo))
 PST211	anche a me anche a me
@@ -448,8 +450,8 @@ PST217	dove sei nato?
 PST110	marocco
 PST217	e la data di nascita
 PST110	e::h #arabo
-PST110	arabo
-PST109	arabo
+PST110	#_ arabo
+PST109	#_ arabo
 PST217	l'email se vuoi
 PST217	perché: è per usare poi le:=ehm: riprese così per fare magari un: mini: documentario un fil[m]
 PST109	[sì] sì sì
@@ -479,7 +481,7 @@ PST110	[va bene]
 PST217	°grazie°
 PST110	sì giusta
 PST217	sì
-PST110	#zed
+PST110	#_ #zed
 PST110	quello [zeta]
 PST217	[sì]
 PST217	sì sì
@@ -547,7 +549,7 @@ PST110	per: io: (.) adesso: la lingua per: guarda io: capito
 PST110	p[er: per:]
 PST108	[e io capi:]to [cosa hai capito]
 PST211	((ride))
-PST110	#arabo
+PST110	#_ #arabo
 PST110	per: per: e::h di: italiano così non capito
 PST110	però: (.) conosce ze:ta emme enne così
 PST217	sì [sì okay]
@@ -561,7 +563,7 @@ PST211	[eh sì]
 PST217	[sì]
 PST110	e::h guarda qua (.) del marocco così (.) e:h [gi:] gi #ache eh
 PST108	[gi]
-PST110	#ġa
+PST110	#_ #ġa
 PST110	così
 PST110	eh [non lo so cosa: si chiama del] ma: qua
 PST109	[tutti due #ġa]
@@ -578,13 +580,13 @@ PST217	sì così se vuoi ti mando:
 PST108	a:h
 PST217	informazioni
 PST217	come vuoi
-PST107	arabo
+PST107	#_ arabo
 PST217	email o numero di telefono ma comunque ce l'ho
-PST108	arabo
-PST108	arabo
-PST109	arabo
-PST108	arabo
-PST110	arabo
+PST108	#_ arabo
+PST108	#_ arabo
+PST109	#_ arabo
+PST108	#_ arabo
+PST110	#_ arabo
 PST217	domani: viene qua mio papà
 PST217	ve lo [porto]
 PST108	[ah sì]?
@@ -617,14 +619,14 @@ PST211	[come qua]
 PST211	[ah ah]
 PST108	sì
 PST110	uguale però le:: l'ultimo l~ s~ e::h che
-PST110	arabo
-PST110	arabo
-PST108	arabo
-PST110	arabo
-PST110	arabo
-PST108	arabo
-PST110	arabo
-PST110	arabo
+PST110	#_ arabo
+PST110	#_ arabo
+PST108	#_ arabo
+PST110	#_ arabo
+PST110	#_ arabo
+PST108	#_ arabo
+PST110	#_ arabo
+PST110	#_ arabo
 PST211	non ho capito
 PST108	e tu sei qua con noi qua?
 PST211	sì sì: io sto qua
@@ -857,9 +859,9 @@ PST211	((ride))
 PST217	vediamolo (.) il nuovo: il nuovo:: protagonista
 PST107	((ride))
 PST211	((ride))
-PST107	arabo
-PST108	arabo
-PST107	arabo
+PST107	#_ arabo
+PST108	#_ arabo
+PST107	#_ arabo
 PST211	a:h sì:
 PST217	e questo dov'era?
 PST108	eh avigliana
@@ -867,24 +869,24 @@ PST217	è come la sirenetta di copenaghen
 PST108	sì
 PST211	((ride))
 PST217	((ride))
-PST108	[eh sì] ((ride))
-PST108	arabo
+PST108	[eh sì ((ride))]
+PST108	#_ arabo
 PST217	dov~ dove è
 PST211	avigliana
-PST107	arabo
+PST107	#_ arabo
 PST217	°non so dove sia°
 PST211	°neanch'io°
 PST217	do~ dov'è: avigliana
-PST107	arabo
+PST107	#_ arabo
 PST108	come?
-PST110	arabo
+PST110	#_ arabo
 PST217	dov'è avigliana noi siamo ignoranti (.) non sappiamo dov'è
 PST108	no?
 PST217	dov'è
 PST108	qua vicino
 PST217	ah
 PST108	trenta: chilometri più o meno
-PST107	arabo
+PST107	#_ arabo
 PST108	la strada di: di susa
 PST211	[mh mh]
 PST217	[ah a:h]
@@ -897,10 +899,11 @@ PST109	[è arrabia]to
 PST217	[no]?
 PST211	((ride))
 PST217	((ride))
+PST107	#_
 PST217	[anch'io o:ggi]
 PST109	si è tagliato ieri
 PST217	((ride))
-PST107	arabo
+PST107	#_ arabo
 PST217	ma no non sta male poi ricrescono ((ridendo))
 PST217	però (.) anch'io sono andata oggi
 PST109	bra:va
@@ -934,7 +937,7 @@ PST109	e::h (.) x [lo so]
 PST217	ma (.) io però avevo
 PST217	io x sape~ sapevo [che tu avevi un] [un albe:rgo ma hai] anche una: parruccheria
 PST107	[ah
-PST107	arabo
+PST107	#_ arabo
 PST217	avevi detto tu
 PST109	no: c~ fatto: scuola prima in marocco
 PST217	ah okay hai hai tante [risorse]
@@ -976,20 +979,20 @@ PST217	ah ah (.) e quindi con la
 PST109	un po' egizia~ tutto: mix
 PST217	e quindi
 PST109	è difficili pe:r parlare (imparato)
-PST107	arabo
-PST107	arabo
+PST107	#_ arabo
+PST107	#_ arabo
 PST107	#arabo conto corrente
-PST107	arabo
+PST107	#_ arabo
 PST107	(intesa) san paolo #arabo
 PST217	sì no c(io)è (.) però poi (torniamo) in realtà non parla neanche itali[ano]
 PST107	ah
 PST109	[italia]no
 ??	((suona_un_cellulare))
-PST107	arabo
+PST107	#_ arabo
 PST107	#arabo l'applicazione #arabo
-PST107	arabo
+PST107	#_ arabo
 PST108	guarda questa montagna
-PST107	arabo
+PST107	#_ arabo
 PST211	[ah che be]llo
 PST217	[ah wow]
 PST211	mh
@@ -997,46 +1000,47 @@ PST217	bella
 PST217	lì tutte belle foto:
 PST217	ma col cellulare o hai la ma~ la macchina:
 PST108	no questo con il cellul[are]
+PST107	#_
 PST108	sì
-PST217	ma alla fine: forse a volte vengono meglio con il [cellulare] ((ridendo))
-PST107	arabo
+PST217	ma alla fine: forse a volte vengono meglio con il [cellulare ((ridendo))]
+PST107	#_ arabo
 PST211	((ride))
 PST108	sì: ((ridendo))
 PST217	perché ((ridendo))
 PST217	anche se sei incapace
-PST107	arabo
-PST107	arabo
-PST107	arabo (dice "bonifico" due volte in mezzo)
-PST107	arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo (dice "bonifico" due volte in mezzo)
+PST107	#_ arabo
 PST107	eh
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
 PST107	e::h,
-PST107	arabo
-PST107	arabo
-PST107	arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
 PST107	#arabo (dice bonifico)
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST107	arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
 PST211	ma questi
 PST108	sì
 PST211	sono gli stessi con cui si fanno i dolci col miele?
 PST108	no
 PST107	no no
 PST108	quelli lì per fare #seffa
-PST107	#seffa
+PST107	#_ #seffa
 PST107	come si chiama: come cuscus
 PST107	che [mangia come cu]scus con [zucchero] con can[ne:lla:]
 PST211	[a:h okay]
@@ -1050,16 +1054,18 @@ PST108	lingot[to]
 PST211	[c'era] un'associazione che faceva: l'#ifṭār comunitario,
 PST211	e lì c'era [però:]
 PST107	[così]
+PST107	#_
 PST211	[a:h okay]
 PST108	con [mandorle ma]cina:to [zucchero]
 PST211	[ah]
+PST110	#_
 PST211	[a:h]
 PST107	po:sto
 PST211	però hai presente no quei dolcetti: (.) fatti con il miele non è la stessa cosa
-PST107	arabo
-PST108	#arabo
-PST110	arabo
-PST107	arabo
+PST107	#_ arabo
+PST108	#_ #arabo
+PST110	#_ arabo
+PST107	#_ arabo
 PST108	no
 PST108	ma uguale questa qua
 PST211	mh mh
@@ -1088,7 +1094,7 @@ PST110	[lu:i lui] furbo eh
 PST211	e io ti ricordi come mi [chiamo io:]
 PST110	[bravo]
 PST211	ti ricordi come mi chiamo
-PST107	#arabo
+PST107	#_ #arabo
 PST108	((ride))
 PST211	[sì ((ride))
 PST110	e lei?
@@ -1104,10 +1110,12 @@ PST217	ah sì?
 PST108	hai visto?
 PST108	e::h
 PST108	((ride))
-PST211	[e::h] ((ride))
+PST211	[e::h ((ride))]
 PST211	sì sì
 PST109	(.)
 PST217	=è: un nome::]
+PST107	#_
+PST107	#_
 PST217	[ho visto che ci] siamo (con [il xx)]
 PST108	[allora] [volevamo fare] un bonifico
 PST108	[però abbiamo] trova~ provato una: una pro~ un pro[blema]
@@ -1135,8 +1143,8 @@ PST211	tramite bonifico ba::ncario intestato ah okay sì
 PST211	allora provia[mo ops aspetta
 PST107	[xx]
 PST211	[punto]
-PST107	#arabo
-PST109	[#arabo]
+PST107	#_ #arabo
+PST109	#_ [#arabo]
 PST217	sì? (.) una regina xx
 PST217	xx xx ((ride))
 PST109	complimenti
@@ -1154,29 +1162,29 @@ PST107	i ti
 PST211	allora
 PST211	i ti
 PST217	[xx è un nome più latino]
-PST107	arabo
+PST107	#_ arabo
 PST109	ah?
 PST217	[è un nome] più latino
-PST109	arabo
-PST107	arabo
+PST109	#_ arabo
+PST107	#_ arabo
 PST108	no no no #arabo
-PST108	arabo
+PST108	#_ arabo
 PST211	oka:y (.) metti il numero,
 PST211	quanto?
 PST107	il numero [mio]?
 PST211	[quan]ti no: quanti [soldi]
 PST107	[quanti sold] qua::
-PST107	#arabo
+PST107	#_ #arabo
 PST108	e::h
-PST107	#arabo
+PST107	#_ #arabo
 PST107	a posto
 PST211	o:kay,
 PST211	okay
 PST211	qua: dobbiamo scrivere per [cosa s]erve
 PST107	[qua]
 PST211	oka]y
-PST108	arabo
-PST108	arabo
+PST108	#_ arabo
+PST108	#_ arabo
 PST211	oka:y:
 PST211	fine,
 PST211	poi vediamo se è giu:[sto],
@@ -1185,14 +1193,15 @@ PST107	quello no?
 PST211	e::h no [questo è] perché per eh [sei tu]
 PST107	[no]
 PST107	[bra:vo #arabo]?
-PST108	arabo
+PST108	#_ arabo
 PST211	[continua]
-PST108	arabo
+PST108	#_
+PST108	#_ arabo
 PST211	pova a vede:re: [poi se (.) qua ti]
 PST108	[adesso a posto adesso a posto]
 PST107	[aspetta che gua]rdo per favo:re [qua]
 PST211	[sì]
-PST107	#arabo
+PST107	#_ #arabo
 PST108	fai lo screen,
 PST211	e:h o:ppure: (.) fai così,
 PST211	e poi lo riapri.
@@ -1218,13 +1227,13 @@ PST107	grazie mille
 PST211	niente
 PST108	(hai detto lui è)
 PST211	((ride))
-PST108	arabo
-PST107	arabo
+PST108	#_ arabo
+PST107	#_ arabo
 PST108	#arabo questo qua
-PST107	arabo
-PST108	#arabo
-PST108	arabo
-PST107	arabo
+PST107	#_ arabo
+PST108	#_ #arabo
+PST108	#_ arabo
+PST107	#_ arabo
 PST211	[devi anda~ vuoi vede]re: se: è andata?
 PST108	[sì]
 PST107	[aspe]tta andata no?
@@ -1248,15 +1257,15 @@ PST108	[domani]
 PST211	e i soldi: [passano]
 PST107	[a posto]
 PST107	grazie che mi manda quello,
-PST107	#arabo
+PST107	#_ #arabo
 PST107	grazie [mille eh]
 PST211	[to]p: niente,
-PST107	arabo
+PST107	#_ arabo
 PST107	#arabo (di ieri?)
-PST107	arabo
-PST107	arabo
-PST107	arabo
-PST108	arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST107	#_ arabo
+PST108	#_ arabo
 PST211	chi è questo bimbo
 PST108	su:o suo [figlio]
 PST211	[suo figlio]?
@@ -1265,7 +1274,7 @@ PST108	anche ha: anche ha: una bambina
 PST211	a:h
 PST211	come si chiama
 PST211	a::h
-PST211	he he:
+PST211	eh he:
 PST211	piccolina
 PST108	due mesi
 PST211	cas[pita]
@@ -1274,11 +1283,11 @@ PST107	nata::
 PST107	#arabo eh
 PST107	un mese e venti giorni
 PST211	a:h ah
-PST107	arabo
+PST107	#_ arabo
 PST108	ad aprile (.) fa due mesi
 PST211	a:h wow
 PST211	piccolina
-PST107	arabo
+PST107	#_ arabo
 PST108	sei: (.) tu sei fidanzata?
 PST211	io sì
 PST107	bra:va

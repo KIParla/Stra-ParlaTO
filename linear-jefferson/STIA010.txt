@@ -587,7 +587,7 @@ PST018	dico cavoli perché perché mi succede sta cosa perché sta co~(sa)
 PST018	niente: boh
 PST018	trovo risposte
 PST206	tu leg[gi il corano]?
-PST018	[#ḥamdulillāh]
+PST018	#_ [#ḥamdulillāh]
 PST018	poco purtroppo poco perché non lo capisco
 PST018	[leggo e non capisco cioè:]
 PST206	[xxx] xxx [xx]x

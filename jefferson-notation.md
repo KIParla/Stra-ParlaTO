@@ -18,4 +18,15 @@
 | (TEXT)   | hard to understand span                | Stretches of text surrounded by round brackets indicate unclear speech                                                                              |
 | xxx      | non-comprehensible sequence            | Used for unintelligible tokens. The number of `x`s roughly correspond to the number of syllables                                                    |
 | ((TEXT)) | non verbal behavior                    | Double parentheses indicate comments and non verbal behaviours such as laughs, sighs etc.                                                           |
-| #        | presence of code-switching/code-mixing | Used at the beginning of the first linguistic token of a transcription unit to indicate that the unit contains code-switching with italian dialects |
+| #word    | code-switching/code-mixing (word)      | Placed immediately before a single token to mark that word as belonging to another language or dialect                                              |
+| #\*word  | doubtful code-switching (word)         | Placed immediately before a single token to mark it as *possibly* non-Italian/dialect, when the transcriber is unsure                                |
+| # (unit-initial) | code-switching, not attributable | Placed at the very start of a transcription unit (`# `, followed by a space) to indicate the unit contains code-switching that cannot be attributed to specific words |
+| #_ (unit-initial) | whole unit in another language/dialect | Placed at the very start of a transcription unit (`#_`) to indicate the entire unit is in a non-Italian language or dialect                     |
+
+## Rendering of code-switching markers (`# `, `#word`, `#_`) across outputs
+
+- **Linear (Jefferson and orthographic `.txt`)**: both formats reconstruct the original marker as-is — `# `/`#_` prefixed once at the start of the transcription unit, `#word` on the individual word. In a `#_`-prefixed unit the words themselves are **not** additionally re-marked with `#`, since the unit-initial `#_` already covers every word.
+- **HTML**: the same markers are highlighted with a dedicated color in both the Jefferson and orthographic views.
+- **NoSketch Engine**: a `language_variation="yes"` attribute is set on the whole `transcription_unit` for `# ` and `#_` (and any unit containing a `#`/`#*`-marked word). At word level, a `variation` attribute is set to `yes` for a token carrying an explicit `#`, or belonging to a `#_`-prefixed unit (its `word` value is also prefixed with `#`, so `#_` reads exactly like an explicit per-word `#` once compiled). `#*` (doubtful) tokens are a separate convention and are not covered by this `variation` attribute for now.
+
+**TODO**: `#*word` (doubtful) and `$word` (emerging) currently get no special treatment in linear/HTML output (no reconstructed marker, no color) and no NoSketch `variation`/`#`-prefixed word text — they should eventually be handled the same way `#word` is now, once we decide whether to fold them into the same `variation` attribute or track them separately (e.g. `variation=doubtful`/`variation=emerging`).

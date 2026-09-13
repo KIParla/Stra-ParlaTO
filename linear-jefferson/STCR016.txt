@@ -69,7 +69,7 @@ PST092	[no: facciamo dei pezzi che rigua]rdino di più il #ce:ntru:
 PST203	[okay (capiamo)]
 PST203	o:ka:y
 PST203	mettiamoci anche questo
-PST203	#dom
+PST203	#_ #dom
 PST203	no~ non so dove è giusta l'acca
 PST083	è giusta [è giusta]
 PST203	[è giusta]?
@@ -398,7 +398,7 @@ PST087	(al santo) [xx]
 PST092	[e:h ma] là devi [andare]
 PST203	[dov'è lo scotch]
 PST087	[E:H] LÌ::
-PST092	la anii vechi
+PST092	#_ la anii vechi
 PST087	eh poi:
 PST087	tipo: magari mentre parlava di com'era nato il ce:ntro (oltre xx vediamo tipo)
 PST087	proprio la mini: una mini storia
@@ -454,7 +454,7 @@ PST087	[fai una fre]ccia
 PST092	[tre:]
 PST203	o:[kay]
 PST092	[wo::]w
-PST211	che tutt'ora [noi non sappiamo che cos'abbia de]tto lui in quell'[intervista] ((ride))
+PST211	che tutt'ora [noi non sappiamo che cos'abbia de]tto lui in quell'[intervista ((ride))]
 PST092	[eh (.) qua~]
 PST203	[sì: infatti] ((ridendo))
 PST092	[no:] ha: [parlato: ha parlato: di sì: ha parlato:] [dell'orchestra e::]
@@ -509,15 +509,15 @@ PST087	[ba:ci:] ((ridendo))
 PST085	((da_lontano)) e:h
 PST092	saluto finale e baci sul serio
 PST087	hai scritto ba:~ ((ridendo))
-PST087	È BA:LLI: [è balli] ((ride))
-PST092	[a:h ops] ((ride))
+PST087	È BA:LLI: [è balli ((ride))]
+PST092	[a:h ops ((ride))]
 PST092	bo:h si [legge baci]
 PST085	((da_lontano)) [che: c'è:]
 PST085	allora #ascultă-mă #oleacă
 PST085	[allora (.) e::h]
 PST087	((ride))
 PST083	[ora si è incavola]ta
-PST092	dai sembra che c'abbia un vesti:[to:] ((ride))
+PST092	dai sembra che c'abbia un vesti:[to: ((ride))]
 PST085	[ma perché non si (.) allora allora io queste mina]cce [non le sopporto da parte tua i:o chiamo in causa] [il mio avvocato adesso: ci vediamo in] tribunale
 PST083	[e:hm dove lo metto questo]?
 PST203	[qua vicino (.) o::kay]
@@ -529,7 +529,7 @@ PST203	[okay]
 PST085	quella non la puoi battere
 PST085	[no:::]
 PST092	[>che=io pure<]
-PST085	ce mă atingi și tu
+PST085	#_ ce mă atingi și tu
 PST085	cosa cosa mi tocchi ma cosa mi tocchi
 PST085	A::H
 PST092	((ride))
@@ -756,7 +756,7 @@ PST087	aiu:to:
 PST087	xxx
 PST203	sì ma mettiamo un pezzetti:no eh non è che mettiamo tutto quello che avete detto eh
 PST087	((ride))
-PST092	[no ma voglio vedere i pezzi che metti] ((ride))
+PST092	[no ma voglio vedere i pezzi che metti ((ride))]
 PST203	oka:y,
 PST087	eh oh (.) avevamo fatto [tipo quel giochi:no:]
 PST083	[quindi lo mettiamo] dopo [que:sto:],
@@ -953,7 +953,7 @@ PST203	eh
 PST092	ti:tolo?
 PST087	[il t~ e:::h]
 PST083	[°la cosa più difficile°]
-PST087	#centru
+PST087	#_ #centru
 PST092	no::: un >titolo< deve
 PST211	centro di gravità permanente
 PST092	((ride))
@@ -1006,7 +1006,7 @@ PST085	oh [mado']
 PST086	[questo] è un futuro
 PST085	che a:nsia:
 PST083	[eh
-PST086	[il nostro futu:] ((ride))
+PST086	[il nostro futu: ((ride))]
 PST086	((ride))
 PST085	[il nostro futuro nelle tue mani]
 PST211	[anche con una parola] in ru[meno (qual è una) parola in rumeno che::]
@@ -1034,17 +1034,17 @@ PST087	((ride))
 PST092	melodie migratorie=o:h ci sta dando degli immigra:ti:
 PST092	((ride)) sc[u:sami:] ((ridendo))
 PST085	[gliela servi su] un piatto d'argento
-PST092	inima care danseaza din italia în romania pe ritm de muzică
+PST092	#_ inima care danseaza din italia în romania pe ritm de muzică
 PST092	eh [dall'italia dall'i~] dall'italia in romania
 PST085	[è troppo lu:ngo:]
 PST083	#dorul #de #acasă se no
-PST086	dorul [de acasă]
+PST086	#_ dorul [de acasă]
 PST092	[#dorul #de #a][casă è bello]
 PST083	[che: tradotto sarebbe]:
 PST087	la nostalgi:a
 PST083	[la nostalgia di] [casa tipo ma:]
 PST093	[la mancanza di casa]
-PST092	[#casă #românească]
+PST092	#_ [#casă #românească]
 PST083	[n:on è pro]prio nostalgia però:
 PST203	[be:h]
 PST083	cioè non si può tradurre in realtà (però:)
@@ -1055,11 +1055,11 @@ PST087	[la nostra piccola] [grande casa]
 PST092	[a:h beh sì:]
 PST083	no: cosa ho fatto
 PST083	e:h cos'è [che ho detto]?
-PST086	[dorul de ca]să
+PST086	#_ [dorul de ca]să
 PST092	#dorul #de #acasă io mi sto sentendo troppo a casa mia in sto momento perciò potrei sdraiarmi e rimanere [sdraiata per dire]
 PST083	[#de #acasă si scrive stacca]to?
-PST083	#de #a:
-PST086	#acasă
+PST083	#_ #de #a:
+PST086	#_ #acasă
 PST086	#acasă (raga) #acasă
 PST083	così:?
 PST092	dammi la xxx [dammi la (cosa) mia voglio la mia fo]to quella con
@@ -1081,14 +1081,14 @@ PST083	no ma (>si scrive<) attacca:to
 PST083	hai x vabbè
 PST087	ah io voglio anche questa
 PST086	cosa si scrive attaccato?
-PST092	#acasă
+PST092	#_ #acasă
 PST086	#acasă è attaccato
 PST083	e:h lì ho scritto staccato infatti
 PST085	h(o) fatto la #liaison con la a
 PST092	[anche lì:]
 PST083	[e:hm:]
 PST087	guarda questa
-PST092	#oleu
+PST092	#_ #oleu
 PST083	qualche altra idea?
 PST092	e::hm no
 PST087	il be:~ il eh l~ l~ l~ l:~
@@ -1135,7 +1135,7 @@ PST086	e::h
 PST085	eh?
 PST087	ma (.) sì ma non [siamo un film dramma:tico:]
 PST092	[sembra xxx dobbiamo andare in un rif]ugio scusami [xx più::]
-PST203	[sì infatti cioè fan] pian[gere ste co:se:] ((ridendo))
+PST203	[sì infatti cioè fan] pian[gere ste co:se: ((ridendo))]
 PST085	[sembrano tipo::] quelle telenovele spagno:le ((ride))
 PST092	((ride))
 PST092	no come si come si chiamava il tipo che è corso via da temptation island spagnolo ~spetta
@@ -1149,8 +1149,8 @@ PST203	io sarò degli anni novanta ma me le ricordo meglio di te le cose
 PST092	montoya #por #favor montoya
 PST203	i vecchi che ti raccontano le sto~ chiamalo i vecchi che ti raccontano le storie degli anni novanta
 PST086	eccolo
-PST087	#bună::
-PST085	#aoleo
+PST087	#_ #bună::
+PST085	#_ #aoleo
 PST086	eh #dom è vecchio
 PST092	ma ((ride))
 PST083	c'ha cinquant'a:nni:
@@ -1185,8 +1185,8 @@ PST083	non ho detto così:
 PST092	sembra (uno) slo:ga:n (.) sembra lo slogan di una pubbli]ci[tà:]
 PST087	[eh lei ha detto la nostra (.) piccola grande casa]
 PST086	[no] progetto basta
-PST083	dorul de acasă
-PST211	titolo del pro[getto progetto] ((ride))
+PST083	#_ dorul de acasă
+PST211	titolo del pro[getto progetto ((ride))]
 PST092	[ma scusa prendere prendere] prendere: una s~ u:na frase di una canzone e metterla come [titolo]?
 PST086	[ma che]
 PST211	eh a:nche:
@@ -1224,18 +1224,18 @@ PST086	[no: (.) aspetta]
 PST203	se posso darvi proprio una cosa
 PST203	il documentario parla di voi non parla della romania
 PST083	[appunto]
-PST086	[străbuni] (.) [străbuni]
+PST086	#_ [străbuni] (.) [străbuni]
 PST203	[cioè]
 PST092	#străbu~ cosa c'entra:
 PST085	[da:i #străbu~ da~]
 PST086	[ce:ntra:]
 PST086	co:sa #că
-PST086	că suntem și noi bătrâni acuși
+PST086	#_ că suntem și noi bătrâni acuși
 PST092	ma:mma mia
 PST087	°non la vedo come:°
 PST086	ma
-PST086	puneți ceva eh punem dorul de casă
-PST086	și gata
+PST086	#_ puneți ceva eh punem dorul de casă
+PST086	#_ și gata
 PST087	è be:llo quello:
 PST086	eh #dorul #de #casă e basta
 PST086	ci sta
@@ -1248,7 +1248,7 @@ PST092	eh
 PST083	sì
 PST086	ecc[o:]
 PST203	[e:h]
-PST092	[#rumeno]
+PST092	#_ [#rumeno]
 PST087	[eh io di fatti non capivo]
 PST087	di fatti io non capivo perché stavamo cercando un altro tit[olo io: avevo capito] che era [quello]
 PST086	[infatti]
@@ -1257,8 +1257,8 @@ PST085	[grande]
 PST203	[okay]
 PST083	[quindi #acasă o #dorul] #de #acasă
 PST085	[>mi sento come te nella vita<]
-PST087	#dorul [#de #acasă]
-PST092	[#dorul #de] #acasă
+PST087	#_ #dorul [#de #acasă]
+PST092	#_ [#dorul #de] #acasă
 PST083	okay
 PST086	ma sai che (.) hai preso il verso di l'angelica flutur
 PST083	ah okay
@@ -1413,7 +1413,7 @@ PST086	[sì sì]
 PST086	[no] piazza [derna]
 PST203	[verso piazza] derna
 PST086	là dove si ammazza la gente
-PST092	dove ti entra la gente sanguinante nei palaz[zi:] ((ride))
+PST092	dove ti entra la gente sanguinante nei palaz[zi: ((ride))]
 PST086	[e:h i:nfa]tti e si:: drogano in m::h sulle scale ((ride))
 PST092	((canticchia))
 PST087	sì
@@ -1437,17 +1437,17 @@ PST092	[ci è riuscito]
 PST203	[anch'io] mi ricordo
 PST087	a::h guardala
 PST087	vai [facciamo:]
-PST085	[să-ți] spargi capul acu[ma:]
+PST085	#_ [să-ți] spargi capul acu[ma:]
 PST087	[fa]cciamo il prima e il [do:po:]?
-PST092	[sparge-ți ca]pul
+PST092	#_ [sparge-ți ca]pul
 PST085	~spetta voglio:°
 PST086	oh vedi che salto (.) indietro
 PST092	NO:
-PST092	tu vrei să mori
-PST092	tu [vrei să mori]
+PST092	#_ tu vrei să mori
+PST092	#_ tu [vrei să mori]
 PST083	[ma: eh] poi ti:
 PST086	no dai veramen~
 PST085	oh maronn~
-PST092	xx xx mai am încă xx xx
+PST092	#_ xx xx mai am încă xx xx
 PST085	io non rispondo (.) di quello che succederà
 PST083	poi io con chi sto in camera a tamara

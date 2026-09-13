@@ -40,10 +40,10 @@ PST141	[marra:kech] [marrakech marrakech marrakech]
 PST142	[marra:kech (.) marrakech]
 PST215	ah ho (.) capito (.) capito [no io: sapevo che si] diceva marrakech
 PST142	[no: marrakech]
-PST140	the a~ a~ accent accent bi-l-iṭaliya: (.) l-accent
-PST141	l'accent
-PST140	l'accent l'accent
-PST141	e:h la le~ l'accent
+PST140	#_ the a~ a~ accent accent bi-l-iṭaliya: (.) l-accent
+PST141	#_ l'accent
+PST140	#_ l'accent l'accent
+PST141	#_ e:h la le~ l'accent
 PST215	eh e tu ti chiami giusto,
 PST142	ah [mi chiamo
 PST142	[sì:]
@@ -86,7 +86,7 @@ PST215	[come]?
 PST141	[a:h sì:]
 PST140	[arabo]
 PST140	#amazigh [e arabo]
-PST141	[berbèr] berbèr
+PST141	#_ [berbèr] berbèr
 PST140	berbero
 PST215	ah [berber~ dici berbero]?
 PST140	[#berbè~ sì ama~ #berber #amazigh #amazi]gh [(#berbèr) (.) e arabo]
@@ -116,12 +116,13 @@ PST140	[lunga #ama]zigh
 PST140	la lingua: (.) [il #ber]ber #amazigh
 PST215	[sì],
 PST215	capito
-PST141	wa-ra ama[zigh b-darij]-tna berbèr bi-l-lugha [bi-l-lugha] xxx
+PST141	#_ wa-ra ama[zigh b-darij]-tna berbèr bi-l-lugha [bi-l-lugha] xxx
 PST140	[(no parl~)]
+PST140	#_
 PST140	parlare no parlare::=eh arabi
 PST140	arabi eh
 PST140	un poco #arabic e #amazigh
-PST141	yallāh duwwex l-s-siyyed gul-lih shi kelma [b-l-shlḥa (.) lā lā ma-zyen ah]
+PST141	#_ yallāh duwwex l-s-siyyed gul-lih shi kelma [b-l-shlḥa (.) lā lā ma-zyen ah]
 PST140	[#xassu #i xxx marocchino
 PST215	va bene,
 PST215	[cioè quindi la lingua che avete imparato] (.) quando eravate bambini
@@ -140,7 +141,7 @@ PST215	ah capito
 PST142	sì
 PST215	capi:~ [sì sì sì è (vero) eh infatti l'altra cosa: che:]
 PST142	[sì (.) e::h e::h arabo]?
-PST141	la langue [maternelle l'arabe]
+PST141	#_ la langue [maternelle l'arabe]
 PST142	[e:h l'al~ l'altra::] fra[se per=eh] (.) per eh (.) per francesi,
 PST215	[quello]
 PST141	[eh leggo in arabo]
@@ -148,6 +149,7 @@ PST142	e l'altra parte per e:::h inglesi
 PST140	(anche [anche il #française anche] [il #française)]
 PST142	[italiano (.) no]
 PST215	[no sì lo so]
+PST142	#_
 PST140	fran~ [francese]?
 PST215	[ah no ma a proposi]to: a proposito di questo infatti
 PST215	a parte l'arabo cioè: abbiamo ca[pito (.) che ((ride)) in maro[cco parlavate [arabo giustamente come] (.) in ita~ [in italia si parla l'italiano]
@@ -193,7 +195,7 @@ PST141	tede[sco bra:va] sì
 PST215	[a::h sì]
 PST215	[sì]
 PST141	[que~] sì
-PST140	walakin l-lugha li-l-l-awla,
+PST140	#_ walakin l-lugha li-l-l-awla,
 PST142	è fran[cese]
 PST141	[#lugha #l]-l-awla fran[cese]
 PST140	[è francese]
@@ -225,10 +227,10 @@ PST141	[eh] #économique ((ridendo))
 PST215	ah econo~ economia a:h
 PST141	[e:h]
 PST215	no io invece faccio: scienze linguistiche
-PST141	a:h [perché io matemati]c[a: io lo so be][ne a me piace] ((ride))
+PST141	a:h [perché io matemati]c[a: io lo so be][ne a me piace ((ride))]
 PST215	[fatto lettere e]
 PST140	[a:h la sì]
-PST215	[ah okay] ((ridendo))
+PST215	[ah okay ((ridendo))]
 PST215	e e tu invece hai fatto: la: anche la scuola superiore
 PST140	eh [sì e::h (.) s]ì
 PST215	[in marocco]
@@ -278,10 +280,10 @@ PST142	[io: (studia]to) de:l marocco ($tie xxx)
 PST215	come?
 PST142	xx arabo
 PST141	[va be:ne x][x] va bene
-PST142	[parlo arabo] ((ride))
+PST142	[parlo arabo ((ride))]
 PST215	[sì]
 PST215	[sì sì sì capito] ((ridendo))
-PST142	((ride)) [maro]cco sì:
+PST142	[((ride)) maro]cco sì:
 PST215	beh certo [certo]
 PST142	[e::h]
 PST142	[m:h]
@@ -289,18 +291,18 @@ PST215	[giusto] [perché perché in ma]rocco: piace molto l'[italia giusto]?
 PST141	[no non lo so]
 PST141	[sì:: (piace) e]:h
 PST141	piace molto italia sì
-PST141	mgharba ki bghiw ṭ-ṭalien 3la m3ammrin xx
-PST142	ken ki l3ab m3a-hum f-xxx l3ab m3a-hum fī-fī
-PST141	gal-lik ra ken ki l3eb
+PST141	#_ mgharba ki bghiw ṭ-ṭalien 3la m3ammrin xx
+PST142	#_ ken ki l3ab m3a-hum f-xxx l3ab m3a-hum fī-fī
+PST141	#_ gal-lik ra ken ki l3eb
 PST215	((a_un'altra_persona)) [ciao s~ s~ s~ sì sì: ma non sapevo]
 PST143	((a_un'altra_persona)) [ma hai beccato anche lu:i (e:h)]
-PST142	((a_un'altra_persona)) [e::h (ah ciao)] ((ride))
+PST142	((a_un'altra_persona)) [e::h (ah ciao) ((ride))]
 PST141	anche lu:i [di u~ x]
 PST215	[se vuoi prendere una se]dia e metterti
-PST141	[(bqaw fiya ana i shampwanat)] xx xx
+PST141	#_ [(bqaw fiya ana i shampwanat)] xx xx
 PST143	[vado anche a recuperare un cappo:tto]
 PST215	va bene
-PST141	'ullahila @nada ket 3ayyet [ḥshuma 3li-ku] a-d-drari
+PST141	#_ 'ullahila @nada ket 3ayyet [ḥshuma 3li-ku] a-d-drari
 PST215	[capito]
 PST215	quindi tu sei:
 PST215	qui in si pronuncia giusto [così:]
@@ -322,15 +324,15 @@ PST140	[no bar] e:h ristorante
 PST215	no solo [in ristorante]
 PST140	[cucina cucina] ari~ [(araba) sì: (.) xxx]
 PST215	[ah cuci~ sei u:n cuoco]
-PST141	[siri sam]ḥi-liya ḥebiba dyeli allah-i-3awen met nsai[sh nhar tnin] me tnsaish nhar tnin
+PST141	#_ [siri sam]ḥi-liya ḥebiba dyeli allah-i-3awen met nsai[sh nhar tnin] me tnsaish nhar tnin
 PST215	[oka:y]
 PST215	[e:::h hai conosciuto il attraverso: (.) un amico (.) hai detto]?
 PST141	insh-allah yallah xx xx xx thellay tre-lik fe ra-sek be-slama tre-lik a ḥbiba]
 PST140	sì (.) e:h amico [in lav~ in lavoro]
-PST141	[ḥshuma xellina] l-mera ket tsnna bellati [3li-kum] bellati
+PST141	#_ [ḥshuma xellina] l-mera ket tsnna bellati [3li-kum] bellati
 PST140	[e:h]
-PST141	hadak hadak >huwa< (.) hadak huwa li-ntfahmu m3ah [xx xx]
-PST140	[gul-lih gul-lih] huwa gal-liya kifash 3rfti @nomeassociazione gelt-lih ra derri li m3a-ya fl-xadma gul-lih
+PST141	#_ hadak hadak >huwa< (.) hadak huwa li-ntfahmu m3ah [xx xx]
+PST140	#_ [gul-lih gul-lih] huwa gal-liya kifash 3rfti @nomeassociazione gelt-lih ra derri li m3a-ya fl-xadma gul-lih
 PST142	a::h
 PST142	[e::h lui lui a]mico: per e::h di: (venuto) di per la: la
 PST141	[l~ eh l'amico]
@@ -360,7 +362,7 @@ PST140	[due due]
 PST215	quindi più o meno a metà
 PST140	sì prima::
 PST143	ha cominciato con:: [no::i ha] cominciato in oc~ in oc~ in oceania e poi è passato ad africa
-PST140	[maestro] ((ride))
+PST140	[maestro ((ride))]
 PST143	io mi son messo qui perché se no sembriamo la commissione d'esa:[me]
 PST215	[a:h sì] tran[quillo]
 PST143	[cercavo] di farla
@@ -440,10 +442,10 @@ PST215	ah o [sei stato]
 PST142	[a:h ah]
 PST215	[per tre mesi]
 PST142	[e:h eh]
-PST141	[ya] siyyed yak nta mshi-ti l-r-rumdan u jiti hadi simana gel-ti li-ya bekri xx
-PST142	lā lā lā lā lā
-PST141	gul-lih 3la rumdān ki fach daz temma [u jiti]
-PST142	[lā ge]l-ti jiti eh:::::
+PST141	#_ [ya] siyyed yak nta mshi-ti l-r-rumdan u jiti hadi simana gel-ti li-ya bekri xx
+PST142	#_ lā lā lā lā lā
+PST141	#_ gul-lih 3la rumdān ki fach daz temma [u jiti]
+PST142	#_ [lā ge]l-ti jiti eh:::::
 PST142	sì: eh
 PST141	settimana
 PST142	#lā #lā #hadi una settimana sì:
@@ -503,7 +505,7 @@ PST215	come?
 PST141	scuola non è subito
 PST215	no da quanto tempo: vieni qui: a fare italiano?
 PST141	e::h al e::h
-PST142	sḥal bash jiti [ntiya hnaya l-madrasa]
+PST142	#_ sḥal bash jiti [ntiya hnaya l-madrasa]
 PST141	[sì sì:: e::h] a gennaio
 PST215	[a gennaio]
 PST141	[la:: eh fini]to gennaio
@@ -578,6 +580,7 @@ PST141	[dettato sì]
 PST140	e::h
 PST140	parlare:
 PST140	e:h #communiquer [e::h]
+PST142	#_
 PST215	comunicare?
 PST140	[com~ comunicare sì e:h]
 PST141	[e:h comunicare sì:]
@@ -593,7 +596,7 @@ PST143	anziché buttare [dentro] (.) si comincia a [fare (.) per capi:]re qual[c
 PST142	[a:h sì]
 PST140	[sì sì]
 PST141	[s:ì an]che adesso le: le maestre che: (.) correggiamo il e:h
-PST141	il detta:[to non è al] ((ride))
+PST141	il detta:[to non è al ((ride))]
 PST143	[s:ì]
 PST141	a e:hm: lavagna così
 PST143	ma anche quando lo faccio [io]
@@ -658,7 +661,7 @@ PST140	famiglia [no e:h]
 PST141	[famiglia:]
 PST142	diver[so sì:] (.) diver[so]
 PST141	[sì:]
-PST140	[xx] l-makla l-makla 'anwā3 [matalan]
+PST140	#_ [xx] l-makla l-makla 'anwā3 [matalan]
 PST141	[le le:] cibo
 PST215	sì
 PST140	[sì differente ci:bo marocchino]
@@ -678,7 +681,7 @@ PST215	in marocco
 PST141	adesso [sì: e:h] vanno per e:h ramadan ((ride))
 PST215	[ah ecco]
 PST215	[ah a:h anche loro an~]
-PST141	[(anche) loro] ((ride))
+PST141	[(anche) loro ((ride))]
 PST143	[tu s]ei all' no qui al
 PST141	non è al (.) no: no:]
 PST143	[no a::h ero convinto che tu fossi] al
@@ -712,9 +715,9 @@ PST140	[no: solo qua sì]
 PST141	[con gli amici] sì?
 PST141	sḥabek] [con gli amici]
 PST140	[eh]?
-PST142	[dayra] i buḥed-ha u buḥed-ha m3a-hum
+PST142	#_ [dayra] i buḥed-ha u buḥed-ha m3a-hum
 PST141	no?
-PST140	3a buḥdi
+PST140	#_ 3a buḥdi
 PST141	da solo
 PST143	[avevo capito che era] con un ami:co: uno zio: invece lo zio è a bra,
 PST140	[da solo solo:]

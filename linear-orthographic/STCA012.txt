@@ -23,7 +23,7 @@ PST158	faccio pazzie praticamente tutti i giorni
 PST158	però
 PST214	una pazzia quotidiana dimmi allora
 PST158	sì esatto esatto proprio così
-PST158	i just oh no
+PST158	#i #just oh no
 PST158	aspe~ in inglese
 PST214	vabbè va bene lo stesso
 PST214	è conversazione spontanea
@@ -98,7 +98,7 @@ PST158	okay
 PST214	cioè abbiam fatto il picnic cioè mamma mia super pieno
 PST158	tipo picnic
 PST158	mh mh
-PST158	ma poi vuoi sapere un fun fact su di me
+PST158	ma poi vuoi sapere un #fun #fact su di me
 PST214	certo
 PST158	sono praticamente due anni che vivo a torino
 PST158	e effettivamente non sono mai andata a sto parco del valentino
@@ -145,7 +145,7 @@ PST158	che io la trovo una cosa davvero interessante
 PST158	e poi vabbè ci sono davvero
 PST158	cioè son tutti studenti
 PST214	sì
-PST158	quindi son tutti un po' nella loro crazy era
+PST158	quindi son tutti un po' nella loro #crazy #era
 PST158	pazzi pazzerelli
 PST158	però sì mi trovo proprio bene
 PST214	eh è bello
@@ -161,7 +161,7 @@ PST158	esatto
 PST158	esatto tipo durante il periodo degli esami non mi vede più nessuno
 PST214	cioè adesso
 PST158	poi ricompaio ogni tanto ogni qua e là
-PST214	hello
+PST214	#_ hello
 PST158	tipo sono ancora viva
 PST214	ciao
 PST214	no io invece con~ ho condivido un appartamento
@@ -207,7 +207,7 @@ PST214	ma perché poi cioè dici
 PST214	se condividiamo comunque un posto
 PST214	cioè non è che condividiamo un appartamento di trecento camere c'è una camera
 PST214	e il salotto essenzialmente
-PST158	the bare minimum
+PST158	#_ the bare minimum
 PST214	quindi cioè nel senso
 PST158	totale
 PST214	abbi un po' di cura ne~ con anche nei confronti dell'altra persona
@@ -258,7 +258,7 @@ PST214	sì
 PST158	c'è il campus se vuoi andare a studiare poi tipo il supermercato a cinque minuti a piedi
 PST214	mh mh
 PST158	quindi è top cioè tipo pensare di trasferirmi in un'altra parte mai
-PST214	eh crazy
+PST214	eh #crazy
 PST158	no
 PST214	anche qui noi qui abbiamo tutto vicino
 PST214	cioè alla fine al campus dieci minuti ci arriviamo a piedi qua c'è palazzo nuovo
@@ -379,7 +379,7 @@ PST158	perché passa fermi qua po~ poi te la fai a piedi
 PST214	eh esatto
 PST158	e poi va su a piazza castello
 PST214	esatto
-PST214	eh sì no la gtt crazy
+PST214	eh sì no la gtt #crazy
 PST158	no
 PST214	e poi la sera
 PST214	cioè nel senso se io dovessi uscire di sera e prendere il pullman
@@ -482,7 +482,7 @@ PST158	chapeau
 PST158	amo io vado in contromano
 PST158	eh
 PST158	vado con i semafori rossi
-PST214	no crazy
+PST214	no #crazy
 PST158	non aspetto né pedoni né niente
 PST214	ah
 PST158	io letteralmente faccio io sto coso lo pago
@@ -621,7 +621,7 @@ PST158	okay
 PST214	cioè
 PST158	okay
 PST158	ma io avrei troppa ansia anche solo per farle le guide qua a torino
-PST214	no no no è easy perché vabbè la prima guida non ti fanno guidare mh subito in mezzo alla strada
+PST214	no no no è #easy perché vabbè la prima guida non ti fanno guidare mh subito in mezzo alla strada
 PST158	okay
 PST214	no no
 PST214	ci stava
@@ -646,8 +646,8 @@ PST214	al mese
 PST214	cioè ne~
 PST158	eh
 PST214	sì o~ oppure una cosa così
-PST158	crazy
-PST158	crazy
+PST158	#_ crazy
+PST158	#_ crazy
 PST214	o per sei mesi
 PST214	no mi non so
 PST158	no
@@ -715,7 +715,7 @@ PST158	io pur~ ma io ce l'ho sempre vuoto
 PST214	ah sì sì
 PST158	perché dato che c'ho la mensa vicino vado a mangiare in mensa
 PST214	okay
-PST158	oppure se mi faccio qualcosa di easy tipo un panino robe del genere
+PST158	oppure se mi faccio qualcosa di #easy tipo un panino robe del genere
 PST214	ci sta
 PST214	no io io è due mesi che ho frigo vuoto
 PST214	per fortuna ho il supermercato vicino a casa e scendo a prendere le robe per la giornata essenzialmente
@@ -861,7 +861,7 @@ PST158	ti fa passare la voglia di mangiare i biscotti
 PST158	te lo giuro
 PST158	io in questo periodo
 PST158	letteralmente
-PST158	a parte che sto facendo una specie di dieta dove faccio un po' uno sugar cut
+PST158	a parte che sto facendo una specie di dieta dove faccio un po' uno #sugar #cut
 PST158	hai capito
 PST214	okay
 PST158	ehm
@@ -912,11 +912,11 @@ PST158	amo letteralmente io come te pasta e riso in bianco
 PST214	sì sì sì
 PST214	piutto~ piuttosto
 PST158	se
-PST158	se ero un po' più fancy
+PST158	se ero un po' più #fancy
 PST158	il tonno rubato da casa quando tornavo il weekend
 PST214	okay
 PST158	letteralmente
-PST158	per essere un po' più fancy
+PST158	per essere un po' più #fancy
 PST158	però
 PST214	no no io
 PST214	io riso in bianco e pasta in bianco
@@ -995,7 +995,7 @@ PST158	però rimane tutto tipo a un prezzo conveniente xxx
 PST214	decente decente
 PST214	sì
 PST158	invece tipo
-PST158	la mia più grande enemy
+PST158	la mia più grande #enemy
 PST158	è tipo
 PST214	la pam
 PST158	la pam
@@ -1087,7 +1087,7 @@ PST214	il problema è che se passa il mercoledì
 PST214	poi devi sopravvivere una settimana
 PST158	una settimana
 PST158	eh
-PST214	that's crazy
+PST214	#_ that's crazy
 PST158	però ti fai una spesona il mercoledì
 PST214	mh mh
 PST158	che c'hai il venti percento almeno
@@ -1129,7 +1129,7 @@ PST158	che devo per forza dormire
 PST214	okay
 PST158	ehm e quindi quando devo tipo studiare il pomeriggio
 PST158	a volte tipo non pranzo
-PST214	no crazy
+PST214	no #crazy
 PST158	eh eh lo so a volte non pranzo
 PST158	così in modo tale da rimanere concentrata nel mio studio
 PST214	no tu sei pazza
@@ -1167,7 +1167,7 @@ PST158	okay
 PST214	e mi metto a studiare
 PST214	funziona eh
 PST214	e non perdo tre ore
-PST158	that could never be me
+PST158	#_ that could never be me
 PST158	perché ti spiego
 PST158	uno io non bevo caffè
 PST158	due
@@ -1192,7 +1192,7 @@ PST158	perché trenta minuti è tipo una presa per il culo per me
 PST214	no io invece se dormo un'ora mi sveglio più rincoglionita di prima
 PST158	mh
 PST214	quindi devo dormi~ o devo
-PST158	tipo più fare power nap
+PST158	tipo più fare #power #nap
 PST158	da trenta
 PST214	sì sì sì
 PST214	anzi a volte anche da venti
@@ -1327,9 +1327,9 @@ PST214	sì
 PST158	ho quittato di brutto
 PST214	io gli anno l'anno scorso li avevo scritti tutti a mano i vocaboli
 PST214	erano tipo trecento vocaboli
-PST158	crazy
+PST158	#_ crazy
 PST214	sì
-PST158	sei crazy
+PST158	sei #crazy
 PST214	eh perché non li imparavo
 PST158	mh mh
 PST214	non mi entravano in testa
@@ -1338,7 +1338,7 @@ PST158	ma tu l'anno scorso hai fatto l'annualità con o con
 PST214	sì con
 PST158	anch'io con
 PST158	mh
-PST158	che lui è stra chill
+PST158	che lui è stra #chill
 PST214	è è un patatino tra l'altro era il mio primo esame orale
 PST158	ah
 PST214	esatto
@@ -1381,7 +1381,7 @@ PST214	e era solo era l'unico momento in cui potevo
 PST158	te lo giuro arrivavo proprio sta~ poi a casa ero stanchissima che non riuscivo a fare più niente letteralmente
 PST214	eh sì sì sì immagino
 PST158	no una roba assurda
-PST214	io addicted da caffè
+PST214	io #addicted da caffè
 PST214	e infatti vivevo a caffè
 PST158	eh io non lo bevo
 PST214	eh
@@ -1556,7 +1556,7 @@ PST214	no io sono team cioccolato fondente quello novanta percento amaro come la
 PST214	sì
 PST214	sì
 PST214	sono un po' strana su queste cose
-PST158	adesso rivedere il side eye che ti sto facendo in questo momento
+PST158	adesso rivedere il #side #eye che ti sto facendo in questo momento
 PST158	no amo
 PST158	ma che cioccolato fondente
 PST214	sì
@@ -1603,7 +1603,7 @@ PST214	beh vabbè quello bianco buonissimo
 PST158	a~
 PST158	sì allo~ rispetto a quello fondente sì
 PST214	no
-PST158	it's m~ com'è che si dice in italiano it's more enjoyable
+PST158	#it's m~ com'è che si dice in italiano #it's #more #enjoyable
 PST214	okay
 PST158	cioè rispetto a quello fon~ cioè quello fondente ti mangi un un una fettina
 PST158	e dici basta fa cagare

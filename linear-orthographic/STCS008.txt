@@ -1,6 +1,6 @@
 PST125	eh sì ha mangiato con con perché se no poi non mangia più
 PST125	mh
-PST122	pero apaga la televisión no
+PST122	#_ pero apaga la televisión no
 PST123	sì
 PST123	tanto lui non guarda
 ???	guardo
@@ -34,7 +34,7 @@ PST127	è lei che parla
 PST096	mhmh
 PST125	a parlare spagnolo
 PST125	infatti io dico
-PST125	mi parli pure in español yo entiendo
+PST125	mi parli pure in #español #yo #entiendo
 PST123	è molto brava x parla il francese l'inglese
 PST125	molto molto bra~
 PST125	a parte che sì ma a parte che lei ha fatto il linguistico
@@ -45,7 +45,7 @@ PST125	e adesso ha imparato anche a parlare in spagnolo
 PST127	mh
 PST096	brava
 PST123	è molto brava
-PST125	e fa señito señito señito
+PST125	e fa #señito #señito #señito
 PST125	eh vero
 PST125	e quindi siamo lì
 PST096	mh
@@ -158,7 +158,7 @@ PST125	se no questi son capaci di venire anche qua
 PST127	eh beh
 PST127	no eh
 PST125	no
-PST125	que pasa @migui
+PST125	#_ que pasa @migui
 ???	ma vedi xx xx cosa c'è
 PST125	sh
 PST122	cosa ti devo dire
@@ -253,7 +253,7 @@ PST123	più un giorno di pratica
 PST125	mi amor
 PST127	ah
 PST127	eh anch'io facevo
-PST125	dame un platito dame un platito
+PST125	#_ dame un platito dame un platito
 PST123	centocinquanta euro
 PST127	ah
 PST123	cosa ti manca
@@ -400,11 +400,11 @@ PST127	eh sì
 PST125	ah non dire così
 PST125	no però
 PST125	vabbè però
-PST127	eh infa~ eh anch'io faccio le personal
+PST127	eh infa~ eh anch'io faccio le #personal
 PST123	sì però mio padre x piace
 PST127	ma le personal prendi prendi bene
 PST123	certo
-PST127	con le personal
+PST127	con le #personal
 PST125	mh
 PST125	solo che lui facendole ai clandestini non è che può chiedere
 PST127	mh
@@ -439,16 +439,16 @@ PST125	scottex
 PST123	sì
 ???	tanto
 PST123	nel tuo bicchiere o nel biberon
-PST125	poquito
+PST125	#_ poquito
 ???	sì di spiderman
-PST125	poquito
+PST125	#_ poquito
 PST127	di spiderman
 PST123	un pochino
 PST123	un goccio
 ???	no xx
-PST125	este quiere este este
+PST125	#_ este quiere este este
 ???	è sul tavolo
-PST125	este
+PST125	#_ este
 PST123	sì lo so lo so no xxx
 PST125	ah pensavo che prendevi là
 PST123	xxx
@@ -461,8 +461,8 @@ PST125	mh
 PST125	anche squisita
 PST127	carino
 PST125	quando il mio suocero dice
-PST125	qué rico lui fa
-PST125	non si dice qué rico si dice che buono
+PST125	#qué #rico lui fa
+PST125	non si dice #qué #rico si dice che buono
 PST125	eh
 PST125	è sempre lì a correggere mio suocero
 PST123	dice lui dice la mia famiglia mio padre è italiano mia mamma è italiana
@@ -470,7 +470,7 @@ PST123	la mia sorella è italiana
 PST123	mio nonno peruviano
 PST123	o o alle volte dice spagnolo
 PST125	spagnolo
-PST122	en la mesa por si lo pones ahí
+PST122	#_ en la mesa por si lo pones ahí
 ???	no tanto
 PST123	è tanto
 PST122	è tanto
@@ -494,10 +494,10 @@ PST125	ah tu giochi al
 PST127	con la squadra della scuola abbiam fatto un torneo a sì
 PST125	ah
 PST123	mh
-PST125	quieres estar qua
+PST125	#quieres #estar qua
 PST124	certo finisco qua
 PST124	poca roba
-PST125	però tu entrenas a questi bimbi dove alla lì dove c'è corso unione sovietica
+PST125	però tu #entrenas a questi bimbi dove alla lì dove c'è corso unione sovietica
 PST127	sì esatto e poi mi alleno anch'io lì
 PST127	la sera tardi
 PST125	mh
@@ -561,7 +561,7 @@ PST122	che non vuoi neanche fare il sussidiario
 PST122	non colori
 ???	ecco un attimo
 ???	xxxx xx
-PST125	con cuidado
+PST125	#_ con cuidado
 ???	è meglio xxx
 PST125	cosa fai
 ???	x x mettendo il mio costume x in azione
@@ -716,7 +716,7 @@ PST123	tieni
 PST125	è che a scuola poverino
 PST127	azzannala
 PST123	mh
-PST125	però togligli dame que te corto ese pedazo dame dame
+PST125	però togligli #dame #que #te #corto #ese #pedazo #dame #dame
 PST125	no no no no no no no
 PST122	mangia proprio la parte schifosa
 PST125	cioè proprio lì lo stai mangiando
@@ -777,7 +777,7 @@ PST122	cosa stai facendo mamma mia
 PST122	da natale non si traveste tesoro non so in che mondo vivi
 ???	da
 PST125	a natale
-PST122	mh no quiere comprender
+PST122	#_ mh no quiere comprender
 ???	da halloween
 ???	x xx x
 PST122	halloween
@@ -909,7 +909,7 @@ PST096	ventitré
 PST125	ventitre
 PST125	già ventitre
 PST125	madonna
-PST125	oh tan viejo
+PST125	#_ oh tan viejo
 PST127	mamma mia
 PST096	tu quanti anni
 PST122	e tu e tu nini tu cinquanta
@@ -988,7 +988,7 @@ PST125	ah beh ah fai tutto là
 PST127	sì sì sì sono comodo
 PST125	mh
 PST123	adesso ti aiuta
-PST125	@a~ . @do~ @vi~ @dora no la molestes
+PST125	#_ @a~ (.) @do~ @vi~ @dora no la molestes
 PST123	xx
 PST122	xxxxxx
 PST123	xxx
@@ -1082,7 +1082,7 @@ PST125	oppure vai vai vai in america ma vai a miami che parlano tutti spagnolo
 PST127	esa~
 PST122	come la nonna
 PST127	eh perché lì si parla un in campo si parla la inglese di campo impari quei cinque sei termini e
-PST127	poi dici intensity e robe così
+PST127	poi dici #intensity e robe così
 PST127	ma basta che lo fai anche capire lo dici in italiano ma gli fai capire comunque cosa devono fare
 PST125	eh
 PST127	sì sì
@@ -1102,8 +1102,8 @@ PST125	loro hanno fatto tutte le le certificazioni di inglese ma è quella che �
 PST127	mh
 PST122	io mi son fermata al primo pensa al l~ cambridge
 PST127	eh sì
-PST122	eh flyers non mi ricordo
-PST124	xxx flyers
+PST122	eh #flyers non mi ricordo
+PST124	xxx #flyers
 PST125	no è al pet
 PST122	deve fare il bi bi qualcosa
 PST125	bi uno bi due cos'è bi uno x
@@ -1515,18 +1515,19 @@ PST127	eh
 PST125	ah ma tu studi greco
 PST127	kalespera
 PST124	oh eh sì latino e greco
+PST127	#_
 PST125	greco e latino
 PST122	greco e latino fa
 PST125	eh sì
 PST127	eh
 PST123	calimero
 PST127	il
-PST127	ti es ti
+PST127	#_ ti es ti
 PST127	poi che altro abbiamo
 PST123	quelli son piati
 PST127	eh
 PST123	copiati
-PST127	oikos che è la casa
+PST127	#oikos che è la casa
 PST123	come geu~ zeus
 PST123	ma pizza zeus
 PST125	ma è tanto difficile il gre~ eh il greco
@@ -1579,7 +1580,7 @@ PST127	stammi bene
 PST123	dopo tanto tempo
 PST123	stammi bene
 PST122	uh avete comprato l'acqua di panna
-PST123	sí porque no había otras aguas
+PST123	#_ sí porque no había otras aguas
 PST122	non mi piace
 PST123	dopo chiedo i
 PST122	vai a prendermi quella del della montagna
@@ -1643,12 +1644,12 @@ PST122	ho otto però io in matematica
 PST122	quindi x
 PST122	vediamo domani guarda domani ho la verifica di
 PST122	dov'è matematica
-PST125	que estás haciendo @migui
+PST125	#_ que estás haciendo @migui
 PST122	di sistemi di equazioni di due incognite con tutti e quattro i metodi
 ???	sto prendendo il mio bicchiere
 PST125	non si prende da lì
 PST122	e la retta
-PST125	dame il vaso que te ha dado prima tu papà
+PST125	#dame il #vaso #que #te #ha #dado prima #tu #papà
 PST127	come
 ???	sì ma ma adesso non ce l'ho
 PST127	ah la verifica
@@ -1684,10 +1685,10 @@ PST122	ah x equanti anni devi fare
 PST096	tre
 PST122	ah vabbè il prossimo anno è finita
 PST096	sì
-PST122	eh chill
+PST122	eh #chill
 PST122	e poi cosa fai
 PST096	eh poi penso di
-PST125	@miguel deja
+PST125	#_ @miguel deja
 PST124	vicino
 PST096	di cominciare a lavorare
 PST096	eh e poi
@@ -1695,7 +1696,7 @@ PST122	no io non voglio mai lavorare
 PST122	io farò io continuerò a farmi lauree su lauree senza mai lavorare
 PST122	perché dopo che inizi a lavorare non ti fermi più finché diventi vecchio e io non voglio fare quella vita
 PST125	ma è così
-PST122	cioè o mi trovo un viejito lì andando
+PST122	cioè o mi trovo un #viejito lì andando
 PST122	non sono io
 PST122	mi spiace ma
 PST122	non sono
@@ -1713,13 +1714,13 @@ PST124	okay
 ???	sono un gatto
 PST127	sei un gatto
 ???	miao
-PST125	gatto boy
+PST125	gatto #boy
 ???	sì
-PST127	gatto boy
-PST122	gatto boy
+PST127	gatto #boy
+PST122	gatto #boy
 ???	gattuno
 PST125	questo è un gatto però
-???	gattuno è gatto boy
+???	gattuno è gatto #boy
 PST127	e invece materia preferita
 PST124	io ho cambiato indirizzo sto facendo il linguistico quindi spagnolo francese
 PST127	mh
@@ -1730,13 +1731,13 @@ PST127	mh
 PST122	soprattutto in realtà
 PST122	non è la stessa cosa che tipo
 PST122	tu vai in francia non non ti non son le cose che ti insegnano alla fine cioè sì ma
-PST122	tipo io quando sono andata in francia era molto più chill
+PST122	tipo io quando sono andata in francia era molto più #chill
 PST122	quando sono andata con la famiglia francese era
-PST122	proprio chill capivo tutto
+PST122	proprio #chill capivo tutto
 PST122	capisco sempre capisco
 PST125	eh ma perché tu sei eh u~
 PST125	derivi da una lingua neolatina e quindi
-PST125	italiano spagnolo più o meno si assomigliano e voilà si capisce un po' il francese
+PST125	italiano spagnolo più o meno si assomigliano e #voilà si capisce un po' il francese
 PST122	sì è vero
 PST127	mhmh
 PST125	mh
@@ -1762,10 +1763,10 @@ PST127	sì
 PST122	per la geografia sì son vicini
 PST122	basta
 PST125	basta
-PST122	te quito
+PST122	#_ te quito
 PST122	tutti a osservarlo
 PST125	bevi bevi bevi
-PST122	ba~ quítale quítale
+PST122	#_ ba~ quítale quítale
 PST125	eh lascialo
 PST125	non lo guardiamo
 PST125	così
@@ -1986,7 +1987,7 @@ PST127	eh lì si de~ deve informare bene quanti crediti gli danno per ogni
 PST125	mh
 PST125	perché ha fatto
 PST125	vabbè il proge~
-PST122	lo va a romper
+PST122	#_ lo va a romper
 PST125	il progetto questo qua dell'ungheria
 PST125	poi fa tutti
 PST127	mh
@@ -2011,7 +2012,7 @@ PST125	mh
 PST127	mh
 PST125	fa un sacco di cose
 PST127	eh buono
-PST122	ahí se va romper
+PST122	#_ ahí se va romper
 PST125	perché almeno così
 PST125	ih guarda che lo rompi eh
 ???	no
@@ -2116,7 +2117,7 @@ PST127	ce l'hai il mio numero
 PST124	per fare il taxi
 PST122	ah è vero che scema
 PST127	se non ce l'hai peggio per te
-PST122	no perché ho cambiato telefono no es mi colpa
+PST122	no perché ho cambiato telefono #no #es #mi colpa
 PST127	ah okay
 PST122	fammi vedere
 PST122	vabbè magari ho il tuo instagram
@@ -2244,7 +2245,7 @@ PST127	hai un amico speciale
 PST127	qualche amico speciale
 PST122	ma quelli sempre
 PST124	ma come sempre
-PST122	ma xx ma xx
+PST122	ma xx ma #xx
 ???	xxxx xx il letto a castello
 PST122	no no
 ???	chi vuole
@@ -2303,7 +2304,7 @@ PST127	xx
 PST125	ah
 PST122	oh
 PST124	dai dai
-PST122	aburre
+PST122	#_ aburre
 ???	una due
 PST125	eh sì sì
 ???	eh e l'ultima
@@ -2316,7 +2317,7 @@ PST124	bravo
 PST122	guarda che tu non avrai una ragazza fino ai tuoi vent'anni
 PST127	no poverino
 PST122	ricordatelo
-PST122	no no no no quiero
+PST122	#_ no no no no quiero
 PST124	concordo
 PST122	magari finisce come
 PST125	e vabbè
@@ -2428,8 +2429,8 @@ PST125	l'avrà già finito tato
 ???	no
 PST127	no
 PST124	chi è tato
-PST125	deja ahi (.) deja ahí deja ahí deja ahí deja ahí
-PST125	no se toca
+PST125	#_ deja ahi (.) deja ahí deja ahí deja ahí deja ahí
+PST125	#_ no se toca
 ???	cos'è la mia lampa
 PST125	la tua lampa
 ???	sì e saltare xxx
@@ -2444,7 +2445,7 @@ PST125	qualche neanche una situazione
 PST127	no infatti
 PST125	qualche
 PST122	sei un
-PST125	un bandido
+PST125	#_ un bandido
 PST122	eh un
 PST127	eh ogni tanto sì devo
 PST125	hai preso da tuo nonno
@@ -2489,7 +2490,7 @@ PST096	mattina
 PST125	oh
 PST096	mh
 PST125	domani che giorno è
-PST124	jueves
+PST124	#_ jueves
 PST122	giovedì
 PST127	giovedì domani
 PST125	giovedì
@@ -2536,7 +2537,7 @@ PST122	che paura
 PST127	poi seconda
 PST122	non sei in ansia
 PST127	no
-PST122	ma il ragazzo è chill
+PST122	ma il ragazzo è #chill
 PST127	no ma sarà sarà un tema normale cioè come quelli che faccio di solito in classe
 PST122	ah beh gli scritti sì gli orali dico
 PST127	solo con più tempo
@@ -2554,7 +2555,7 @@ PST122	tenga pure me lo corregga grazie
 PST124	no sei ore è troppo xxx
 PST122	no che poi vogliono che scrivi a~
 PST122	alle medie mi hanno detto scrivi almeno due pagine io mezza pagina dall'inizio era xx ho già finito la storia io
-PST125	@miguel lo rompes
+PST125	#_ @miguel lo rompes
 PST122	poi mi dici se si può copiare
 PST127	sì sì sì no vai
 PST122	io mi porto i bigliettini x no scherzo mamma eh
@@ -2615,7 +2616,7 @@ PST127	no figurati se mess~ se mettono le domande
 PST122	eh infatti
 PST127	ciao
 PST124	ah
-PST122	ah q~ allora è molto più chill cioè tu praticamente ti danno il robo tu lo fai
+PST122	ah q~ allora è molto più #chill cioè tu praticamente ti danno il robo tu lo fai
 PST122	lo spieghi ed è finita lì
 PST127	sì ma devi fare dei collegamenti sensati
 PST124	ma era meglio solo la tesina ti devi studiare tutto quindi
@@ -2706,7 +2707,7 @@ PST122	al primo puoi fare schifo
 PST127	mh
 PST124	te fai schifo e poi xx
 PST127	no vabbè non è che puoi fare schifo
-PST122	il primo vado a chill e poi nel secondo mi impegno
+PST122	il primo vado a #chill e poi nel secondo mi impegno
 PST127	non credo funzioni proprio così
 PST122	nel nel primo tutti giù tutti balzare tutti scuola
 PST127	mh
@@ -2729,7 +2730,7 @@ PST122	hm
 PST125	sì
 PST122	sì che si va a scuola
 PST127	no non si va domani
-PST122	ya mañana viene @xx a recogerte
+PST122	#_ ya mañana viene @xx a recogerte
 PST127	sì
 ???	domani non si va a scuola
 PST125	sì che si va a scuola
@@ -2750,7 +2751,7 @@ PST125	no molto poco dai
 PST124	vero
 PST124	no ho detto a volte
 PST125	no proprio poco poverino
-PST122	mh quella che balza sei tu mamita
+PST122	mh quella che balza sei tu #mamita
 PST124	no no
 PST124	chi è che è rimasta lunedì a casa
 PST122	ma io perché avevo troppo da studiare e ho detto vabbè
@@ -2816,7 +2817,7 @@ PST127	sì
 PST127	sì effettivamete alla fine
 PST122	dormono giocano
 PST127	sì sì
-PST127	che best
+PST127	che #best
 PST122	vanno a nuoto
 PST122	cosa vuoi di più dalla vita
 ???	no
@@ -2833,7 +2834,7 @@ PST122	ascoltate la musica a percezioni
 PST127	ti sta parlando ti sta parlando
 ???	mi serve
 PST125	no no no no
-PST122	no no no deja
+PST122	no no no #deja
 PST127	cosa prendi
 PST127	dammi il gel
 PST127	facciamo scambio facciamo scambio guarda
@@ -2975,26 +2976,26 @@ PST122	perché loro hanno una casa gigante
 PST122	perché sono fuori milano
 PST122	e han~ e vanno tutta tipo questo nostro retro ma tipo nel bosco quindi molto più grande
 PST122	e fanno una grigliata con tutta la sua famiglia e mi hanno invitato
-PST124	ñaña te vas a volver
-PST122	si (.) ñaña voy a volver
-PST122	che schifo il cevice con
+PST124	#_ ñaña te vas a volver
+PST122	#_ si (.) ñaña voy a volver
+PST122	che schifo il #cevice con
 PST122	madonna quando l'ho detto davanti a sua madre mi ha iniziato a dire
-PST122	xx xx comer paloma io gli ho detto no señor disculpe
+PST122	#xx #xx #comer #paloma io gli ho detto #no #señor #disculpe
 PST122	non gli dico più niente
 PST122	sti equatoriani oh
 PST122	non puoi dire ho mangiato i piccioni
 PST125	ma cosa dici
 PST122	e poi mi ha chiesto
-PST122	mi ha chiesto se ho mai mangiato il cuy
+PST122	mi ha chiesto se ho mai mangiato il #cuy
 PST122	e io gli faccio no
 PST122	scusami
 PST122	ti sembra
-PST127	eh quello è da provare vorrei tanto provarlo il cuy
+PST127	eh quello è da provare vorrei tanto provarlo il #cuy
 PST125	ay no io no
 PST127	mio padre mi ha detto che è davvero buono
 PST125	eh anche
 PST122	ma anche sua sorella di che è peruviana lei invece
-PST122	ha mangiato il cuy e ha detto che in realtà sa come carne normale
+PST122	ha mangiato il #cuy e ha detto che in realtà sa come carne normale
 PST127	mh eh sì
 PST122	ha detto che gli è piaciuto
 PST124	vabbè anche l'anatra è buona
@@ -3044,7 +3045,7 @@ PST122	che poi in realtà fa ridere perché io sono quella che corregge gli altr
 PST122	soprattutto nei verbi
 PST122	a me piace correggere la gente
 PST122	sopra~ i per~ i peruviani lì che parlano e io gli faccio no si dice così
-PST122	e lui mi fa no basta cállate io faccio no
+PST122	e lui mi fa no basta #cállate io faccio no
 PST122	quello sì mi piace correggere la gente anche quando voi sbagliate o quando sbaglia
 ???	xx xx
 PST122	chi è
@@ -3110,9 +3111,9 @@ PST122	corri corri che te la fai addosso
 ???	eccolo
 ???	dov'è la non la s~ non lo xx
 PST127	poverino
-PST125	((ride)) ay pobrecito xx
+PST125	#_ ((ride)) ay pobrecito xx
 PST127	sì
-PST122	l'altra volta c'era la tapa del water arriba y si estaba que se cahía adentro
+PST122	l'altra volta c'era la #tapa #del water #arriba #y #si #estaba #que #se #cahía #adentro
 PST122	e fa oh
 PST122	fa e io faccio cosa c'è ed era andato dentro
 PST127	poverino
@@ -3122,8 +3123,8 @@ PST122	non è vero
 PST127	sì è vero
 PST122	deve crescere come maschio
 PST127	eh sì
-PST122	eh perché se no lo rodean muchas mujeres se vuelve
-PST122	no sé que
+PST122	eh perché se no lo #rodean #muchas #mujeres se #vuelve
+PST122	#_ no sé que
 PST122	come si ve~ che che che
 PST122	come si dice
 PST122	oh come si dice quella parola
@@ -3217,7 +3218,7 @@ PST127	ma se~ serate
 PST122	o non sei mai a~ h non sei mai andato
 PST127	no serate di solito in
 PST122	oh
-PST127	le facciamo nel chill in zona
+PST127	le facciamo nel #chill in zona
 PST127	o andiamo al chioschetto in piazza d'armi
 PST122	in zona
 PST122	lui è della gang
@@ -3256,7 +3257,7 @@ PST127	assolutamente
 PST122	adesso tro~ adesso trovo le storie in cui fuma
 PST122	erano le tue le storie eh le ho viste
 PST127	no
-PST122	yo le controllerei el celular
+PST122	#yo #le controllerei #el #celular
 PST127	e la ma~ ma sa sa
 PST127	sono i genitori che
 PST127	poi ta~ tagliamo questo pezzo eh
@@ -3318,7 +3319,7 @@ PST122	siamo in una gabbia
 PST122	sono un animale
 PST127	mh
 PST122	beh più o meno
-PST122	quello de te enloqueas lì sì
+PST122	quello de #te #enloqueas lì sì
 PST122	lì lì proprio non ti riconosco neanch'io
 PST124	taglia
 PST127	taglia

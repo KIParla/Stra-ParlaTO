@@ -83,7 +83,7 @@ PST088	e poi eh
 PST088	prima avevamo lavoravo
 PST088	eh
 PST088	in una
-PST088	phone centr~ phone centre
+PST088	#phone centr~ #phone #centre
 PST203	ehm ehm
 PST088	un xxx
 PST203	sì sì sì
@@ -131,7 +131,7 @@ PST088	tu sarai
 PST088	nostro imam di futuro
 PST088	e duemillasei
 PST088	hanno come si dice hanno affittato questa moschea
-PST088	eh da qui sono sono dayman
+PST088	eh da qui sono sono #dayman
 PST203	dopo il lavoro è tanto tempo come fai
 PST203	cioè tu studi e però anche lavori
 PST088	no perché
@@ -234,7 +234,7 @@ PST088	scusi
 PST203	sì sì no no
 PST088	eh
 PST088	risolto
-PST088	alḥamdulillāh
+PST088	#_ alḥamdulillāh
 PST088	grazie
 PST203	eh
 PST211	e sapere il francese l'hai usata quando è venuto qui hai dovuto parlare imparare l'italiano
@@ -243,7 +243,7 @@ PST088	sì
 PST203	mentre il dialetto che dicevi del marocco
 PST088	sì s~ c'è il dialetto del perché c'è la lingua araba
 PST203	mh
-PST088	fuṣḥā che sia
+PST088	#fuṣḥā che sia
 PST203	mh
 PST088	la lingua ufficiale
 PST211	mh
@@ -261,11 +261,11 @@ PST211	mh mh
 PST203	ah ah
 PST211	mh
 PST203	come si chiama quello
-PST088	s~ shilḥa
+PST088	s~ #shilḥa
 PST203	ah ah
-PST088	sì sì c'è si chiama shilḥa o amazigh
-PST088	ci sono chi dicono amazigh
-PST203	amazigh
+PST088	sì sì c'è si chiama #shilḥa o #amazigh
+PST088	ci sono chi dicono #amazigh
+PST203	#_ amazigh
 PST203	mh
 PST203	berbero
 PST088	berbero sì berbero
@@ -321,23 +321,23 @@ PST211	mh
 PST088	eh gruppa tutte le le
 PST088	diciamo le lettere per esempio le lettere della gola
 PST211	mh mh
-PST088	non-non ci sono in tutte le lingue xxx xa
+PST088	non-non ci sono in tutte le lingue xxx #xa
 PST211	eh sì
 PST211	sì sì
-PST088	la xa c'è solo nel
+PST088	la #xa c'è solo nel
 PST088	eh in spagnolo
 PST211	mh
 PST203	mh
 PST088	juan carlos
 PST211	mh
-PST088	gha non c'è gha nelle altre lingue c'è in francese
+PST088	#gha non c'è #gha nelle altre lingue c'è in francese
 PST088	la erre lo dicono er
 PST211	mh
 PST203	mh
 PST088	eh
-PST088	qa
+PST088	#_ qa
 PST203	mh
-PST088	qa non c'è nelle altre lingue
+PST088	#qa non c'è nelle altre lingue
 PST211	mh
 PST088	ma noi non nella lingua araba non us~ non usiamo ga
 PST088	e non usiamo va
@@ -524,7 +524,7 @@ PST211	mh
 PST088	nel mercato
 PST088	trovo di difficoltà per
 PST088	tirare le parole
-PST088	eh che sono pronti per per per usarli mais nella la spiritualità visto che
+PST088	eh che sono pronti per per per usarli #mais nella la spiritualità visto che
 PST088	le uso sempre è molto facile per me
 PST203	mh mh
 PST203	certo
@@ -557,7 +557,7 @@ PST203	cinema scuola di cinema
 PST088	sì sì ci~ scuola di cinema non so c'ha c'ha un nome
 PST088	e l'altro che ha fatto la
 PST088	ehm
-PST088	le le eh le electronic
+PST088	le le eh le #electronic
 PST203	mh mh
 PST088	studiato un po' l'eletronica ed ha una una una un negozio di
 PST088	eh
@@ -642,10 +642,10 @@ PST203	mh
 PST088	ma io vado lì qualche volta mi chiamano per
 PST088	qualche
 PST088	qualche lezione qualche se qualcosa hanno bisogno di me va~ vado lì
-PST203	ed è arabo fuṣḥā oh
-PST088	no fuṣḥā fuṣḥā
+PST203	ed è arabo #fuṣḥā oh
+PST088	no #fuṣḥā #fuṣḥā
 PST203	ah
-PST088	fuṣḥā perché
+PST088	#fuṣḥā perché
 PST088	la lingua non si impara
 PST088	il dialetto non si impara perché non ha un non ha di regole
 PST211	mh
@@ -675,12 +675,12 @@ PST203	no no tra un po'andiamo
 PST088	no no non c'è problema
 PST088	allora aspetta
 PST088	eh come si chiama
-PST088	salam 3alay~ 3a sir l-hajj ana masal m3attal 3a sir verso una persona della moschea
-PST088	sīr allāḥ y-rḥam wālid-sīr allāḥ y-rḥam wālid-īk ā yā sīrk ā yā sīr
-PST088	ā sedu sedu antaya ā sedu
-PST088	sǝdd ma3-k al-bāb
-PST088	allāḥ y-rḥam wālid-īk al hāj
-PST088	bārka āllāḥ u-fī-k shukrān āllāḥ y-zid-ik b-xayr
+PST088	#_ salam 3alay~ 3a sir l-hajj ana masal m3attal 3a sir verso una persona della moschea
+PST088	#_ sīr allāḥ y-rḥam wālid-sīr allāḥ y-rḥam wālid-īk ā yā sīrk ā yā sīr
+PST088	#_ ā sedu sedu antaya ā sedu
+PST088	#_ sǝdd ma3-k al-bāb
+PST088	#_ allāḥ y-rḥam wālid-īk al hāj
+PST088	#_ bārka āllāḥ u-fī-k shukrān āllāḥ y-zid-ik b-xayr
 PST088	allora per noi
 PST088	eh
 PST088	la religione
@@ -788,13 +788,13 @@ PST088	usare per esempio il de~
 PST088	dentifricio
 PST211	mh
 PST088	la risposta sì non si non è problema l'importante di non
-PST088	non va a~ a~ a~ avaler
+PST088	non va a~ a~ a~ #avaler
 PST211	ingerire
 PST203	ingoiare
 PST088	sì non lo so come dire in francese
-PST088	ava~
+PST088	#_ ava~
 PST203	mandare giù
-PST088	ava~ mandare giù sì mandare giù
+PST088	#ava~ mandare giù sì mandare giù
 PST211	mh mh
 PST211	mh
 PST203	mh
@@ -802,7 +802,7 @@ PST088	e così sono delle regole la donna qua nel nel
 PST088	eh
 PST088	religione della della
 PST088	le regole
-PST088	le regle
+PST088	#_ le regle
 PST088	delle mestruazioni
 PST203	mh
 PST088	non devi fare il digiuno
@@ -943,12 +943,12 @@ PST211	metanessimo
 PST088	mzianissimo
 PST088	ha visto
 PST203	mh mh
-PST088	e in arabo mzian vuol dire bene
+PST088	e in arabo #mzian vuol dire bene
 PST211	ah ah
 PST211	okay
 PST203	ah
 PST088	allo~ usato
-PST088	mzianissimo
+PST088	#_ mzianissimo
 PST203	ah ah
 PST211	certo
 PST211	certo
@@ -966,14 +966,14 @@ PST211	mh
 PST088	allo~ guarda mi ha mi ha fatto aspetta
 ??	non ho capito cosa vuol dire allora mandaci
 ??	qualche prendere
-??	ah bghiti dquli mandaci qualche preghiera wa ṣaḥbi fai attenzione l-hadak shi li qtbi qtbti prendere mashi preghiera
+??	ah #bghiti #dquli mandaci qualche preghiera #wa #ṣaḥbi fai attenzione #l-hadak #shi #li #qtbi #qtbti prendere #mashi preghiera
 PST203	ah ah
 PST211	ah
 PST088	aspetta
 PST203	mh mh
 PST211	mh
-??	kān qulu preghiera al singolare min kzta' sta3amal kalmāt ml kalma qualche
-??	l-kalma li xassa tkun al singolare dammi qualche
+??	#_ kān qulu preghiera al singolare min kzta' sta3amal kalmāt ml kalma qualche
+??	#l-kalma #li #xassa #tkun al singolare dammi qualche
 PST088	ha detto quanto
 PST088	ha detto quando usiamo qualche
 PST203	mh mh
@@ -1010,10 +1010,10 @@ PST203	lei ti spiega
 PST211	ah
 PST088	mi spiega
 PST203	mh
-??	nshallāh n-shrahl-ak kam-t3aud
-??	wallīli zwīna hādīk blāṣa
-??	wallāhīla dikurat wla t-taḥt wla l-fūq
-??	hāk ṭla3 shwiya drājāt kaynīn xx
+??	#_ nshallāh n-shrahl-ak kam-t3aud
+??	#_ wallīli zwīna hādīk blāṣa
+??	#_ wallāhīla dikurat wla t-taḥt wla l-fūq
+??	#_ hāk ṭla3 shwiya drājāt kaynīn xx
 PST088	mi parla mi parla della sua
 PST203	mh
 PST088	ha affitato una una casetta
@@ -1028,7 +1028,7 @@ PST203	mh mh
 PST088	ha detto no devi dire qualche preghiera per questo
 PST211	okay ah
 PST203	ah ah
-??	dwīra msh~ mshīt bghāw z3ma kayna y-sālliw mxbyāt mxbyāt mshīt bāqī-lī-ya
+??	#_ dwīra msh~ mshīt bghāw z3ma kayna y-sālliw mxbyāt mxbyāt mshīt bāqī-lī-ya
 PST088	allora
 PST088	mi parla allora c'è qua guarda bello bello allora
 PST203	mh mh
@@ -1078,12 +1078,12 @@ PST203	con la tastiera araba
 PST088	con la tastiera araba
 PST203	perché io ho visto alcuni ragazzi che usano le lettere latine
 PST088	sì sì sì sì
-PST088	ana
-PST088	per esempio la ḥ
+PST088	#_ ana
+PST088	per esempio la #ḥ
 PST088	us~ usano la sette
 PST203	la sette
 PST088	perché la sette è vicino
-PST088	alla lettera ḥa
+PST088	alla lettera #ḥa
 PST203	sì il dise~ sì sì sì sì
 PST211	mh
 PST088	eih
@@ -1113,7 +1113,7 @@ PST211	mh
 PST088	per esempio per dire
 PST088	eh
 PST088	eh
-PST088	due quoi ça fait scrivono due
+PST088	due #quoi #ça #fait scrivono due
 PST211	mh
 PST211	sì sì
 PST088	come eh tu tu eh abbre~ eh eh sì quel~ ma quello
@@ -1134,7 +1134,7 @@ PST203	eh sì
 PST088	perché sono
 PST088	ho imparato a
 PST088	scrivere la lingua
-PST088	el-fuṣhā perché ho studiato bene la lingua fuṣḥā
+PST088	#el-fuṣhā perché ho studiato bene la lingua #fuṣḥā
 PST203	sì
 PST088	perché faccio
 PST211	mh mh
@@ -1145,11 +1145,11 @@ PST203	mh
 PST088	scrivo ve~ veloce
 PST203	certo
 PST088	e
-PST088	scrivo fuṣḥā non scrivo io non scrivo
+PST088	scrivo #fuṣḥā non scrivo io non scrivo
 PST088	la
 PST088	il dialetto
 PST203	mh mh
-PST088	scrivo l-fuṣḥā
+PST088	scrivo #l-fuṣḥā
 PST211	mh
 PST088	mi è difficile di scrivere la
 PST203	ho capito
@@ -1157,7 +1157,7 @@ PST203	mh
 PST088	eh perché loro
 PST088	loro sono
 PST211	e quindi però ai vostri figli avete inseganto sia c'è parlato dialetto marocchino e quindi hanno imparato il dialetto marocchino e poi hanno imparato l fuṣḥā giusto
-PST088	hanno imparato l-fuṣḥā
+PST088	hanno imparato #l-fuṣḥā
 PST088	perché hanno studiato a un livello
 PST211	okay mh
 PST088	sopratutto i più grandi ma la la bimba
@@ -1173,14 +1173,14 @@ PST088	per lei è difficile
 PST088	adesso
 PST211	mh
 PST088	nell'università
-PST088	eh inizia a studiare l-fuṣḥā l~ l'aiuto facciamo delle ricerche sul
+PST088	eh inizia a studiare #l-fuṣḥā l~ l'aiuto facciamo delle ricerche sul
 PST211	mh
 PST211	ho capito
 PST088	ma per gli altri no altri no un po' livello diciamo
-PST088	eh il più grande a livello della maturità nel fuṣḥā
+PST088	eh il più grande a livello della maturità nel #fuṣḥā
 PST211	mh okay
-PST088	l'altro ha l~ terza media nel fuṣḥā
-PST088	mais la bimba
+PST088	l'altro ha l~ terza media nel #fuṣḥā
+PST088	#mais la bimba
 PST088	ade~ ventinove ah ah
 PST088	non è non è gran~
 PST088	non è piccolina è grande
@@ -1197,7 +1197,7 @@ PST088	e poi è entrata alla scuola
 PST088	ha fatto tutte le le diciamo tutta la scuola elementari
 PST211	mh
 PST088	eh av~ fatto adesso nell'università
-PST088	ha studiano all'università di bologna per due anni mais non
+PST088	ha studiano all'università di bologna per due anni #mais non
 PST211	mh
 PST088	non li piace andata non eh eh andato a francia
 PST203	non le piaceva
@@ -1261,9 +1261,9 @@ PST088	sia sia sempre sempre da tre anni quattro che
 PST203	mh
 PST088	mi sono come si dice inizio a fare tutto questo senza perché
 PST088	adesso mh
-PST088	ḥamdulillāh grazie a dio mi sento che ho ho ho
+PST088	#ḥamdulillāh grazie a dio mi sento che ho ho ho
 PST088	un po' sviluppato nella nella nella mia lingua i-italiano
-PST088	ḥamdulillāh grazie a dio
+PST088	#ḥamdulillāh grazie a dio
 PST088	la la traduzione
 PST088	prima me lo faceva mia s~ mia figlia
 PST088	traduzione del del sermone
@@ -1498,4 +1498,4 @@ PST211	grazie grazie mille
 PST203	va bene grazie
 PST088	no figurati no
 PST211	mh
-PST088	grazie a voi che dio vi aiuti inshallah
+PST088	grazie a voi che dio vi aiuti #inshallah

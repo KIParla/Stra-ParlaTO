@@ -1,6 +1,6 @@
 PST213	o:k
 PST213	e:h ciao.
-PST051	[ciao] ((ride))
+PST051	[ciao ((ride))]
 PST213	((ride))
 PST213	non so se hai sentito prima quello che dicevamo:
 PST051	sì più o meno (.) un po' o qualcosina
@@ -41,7 +41,7 @@ PST051	[s:ì]
 PST051	sì:?
 PST051	il: primo giorno quando sono arrivata.
 PST213	[ma da:i::],
-PST051	((ride)) [s]ì: ((rideo)) sì:,
+PST051	[((ride)) s]ì: ((rideo)) sì:,
 PST051	e poi laggiù:?
 PST051	siamo proprio vicini.
 PST213	okay
@@ -99,7 +99,7 @@ PST213	okay
 PST213	quindi è stato (.) traumatico im[magino all'inizio no:]?
 PST051	[è stato un po' un] po': all'inizio sì:.
 PST051	però: dai è andata:,
-PST051	[andata bene sì]: ((ride)) [sì:] ((ride))
+PST051	[andata bene sì]: ((ride)) [sì: ((ride))]
 PST213	[è andata be:ne]
 PST212	[ma e] e: c'è qualcosa: che ti ha aiutato particolarmente: nell'imparare:: cioè,
 PST212	magari: non so qualche:: programma tv: oppu[re (.) qualche am]ico
@@ -171,13 +171,13 @@ PST051	dipende tutto da lui diciamo,
 PST213	okay (.) ma che lavoro fa,
 PST051	((inspira)) è un termoidraulico,
 PST213	okay
-PST051	il riscaldamento ((ride)) [sì:] ((ride)) (.) è: è quello che fa,
+PST051	il riscaldamento [((ride)) sì: ((ride))] (.) è: è quello che fa,
 PST213	[okay: okay]
-PST051	scusate ma guardo anch[e il piccolo,] ((ride))
+PST051	scusate ma guardo anch[e il piccolo, ((ride))]
 PST213	[eh no no va:i va:i].
 PST212	e quindi quando siete in romania: tuo figlio: parla traquillamente [rume:no],
 PST051	[lui sì:] lui parla sì
-PST051	il piccolino dobbiamo tradurre facciamo: ((ride)) [do]bbiamo tradurre (.) ai nonni quello che lui dice e: viceversa.
+PST051	il piccolino dobbiamo tradurre facciamo: [((ride)) do]bbiamo tradurre (.) ai nonni quello che lui dice e: viceversa.
 PST213	((ride))
 PST212	[okay]
 PST051	anche se lui poco poco capisce.
@@ -201,7 +201,7 @@ PST051	anche:: mh (.) c(io)è anche lui (.) gli viene molto più facile.
 PST212	mh
 PST213	certo.
 PST213	certo.
-PST051	[e:h devo guarda:rlo,] ((ridendo))
+PST051	[e:h devo guarda:rlo, ((ridendo))]
 PST213	[sempre sull'attenti]
 PST212	[e e tra di loro in]vece parlano italiano,
 PST051	[e:h]?
@@ -283,7 +283,7 @@ PST213	dovevo parlare in inglese e mi dicevano a:h ma si sente che sei italiana,
 PST213	e alcune [volte] io un: un po' male me la vive[vo perché:]
 PST212	[sì:]
 PST051	[allora e]::h lo so che:: mh mh c(io)è neanche a me non è che mi fa proprio piacere però:: è: così: se mi vengo~ io non posso fare:[: a:ltr]o.
-PST213	[esatto (.) esatto] ((ride))
+PST213	[esatto (.) esatto ((ride))]
 PST051	[ci io ci provo a:] mh parlare meglio::,
 PST051	però: è così che mi viene no[: cosa posso: posso fare],
 PST213	[esatto (.) eh] no: eh no: e poi è giusto c(io)è[:]
@@ -291,7 +291,7 @@ PST212	[ma s]ì infatt~
 PST213	io non voglio essere vista come ingl[ese se sono italiana].
 PST051	[però: visto che:]:: e:h riesco a parlare e mi capiscono è già tanto ((ride)) per me: ((ride))
 PST213	certo [no:]?
-PST051	[sì:] ((ride))
+PST051	[sì: ((ride))]
 PST051	sì:
 PST213	questa è la cosa più importa[nte no]?
 PST051	[eh eh s]empre sì migliora sempre si può migliorare sempre.
@@ -327,7 +327,7 @@ PST213	e:h bene,
 PST212	beh per noi: può anche andare bene così se vuoi: aggiungere tu qualcosa:
 PST051	e: [lui vuole aggiungere qualcosa] ecco.
 PST212	((ride))
-PST213	((al_bambino)) [vuoi aggiungere qualco:sa],
+PST213	[((al_bambino)) vuoi aggiungere qualco:sa],
 PST212	((ride))
 PST213	dai,
 PST213	la: [lo sta:cco],

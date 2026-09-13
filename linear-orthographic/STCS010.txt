@@ -27,11 +27,11 @@ PST072	anche da qua se vuoi noi possiamo fare xx
 PST211	tenete gli occhi aperti
 PST072	eh
 PST072	signora
-PST161	entramos
-PST162	un po' de un po' de carta per favore
+PST161	#_ entramos
+PST162	un po' #de un po' #de carta per favore
 PST211	eh sì xx qua
 PST160	qui è qui sono qui
-PST072	adelante signora sei la protagonista
+PST072	#adelante signora sei la protagonista
 PST160	no
 PST164	eh beh
 PST164	ha cucinato tutte le volte
@@ -46,7 +46,7 @@ PST072	okay
 PST072	sedetevi
 PST072	mettetevi comodi
 PST161	o qua un altro grazie
-PST161	x l'agua
+PST161	#_ x l'agua
 PST165	qui qual~ è di qualcuno questo bicchiere
 PST072	eh boh
 PST165	chissà se è pulito
@@ -56,7 +56,7 @@ PST165	allora spostiamo lui
 PST072	mancano solo i bambini a tavola
 PST165	loro forse si mettono lì
 PST161	ehi
-PST161	no basta ya basta
+PST161	no basta #ya basta
 PST165	che meraviglia non dovremmo fare le foto ai piatti
 PST161	no
 PST161	sta parlando xx
@@ -70,26 +70,26 @@ PST165	dai chi inizia iniziate voi
 PST165	prego
 PST165	olè
 PST072	eh
-PST161	il telefono està cuchando guarda
+PST161	il telefono #està #cuchando guarda
 PST161	non va bene così eh
 PST161	basta
 PST165	ragazze volete il piatto ve lo passo o venite qui
-PST160	spagnolo
+PST160	#_ spagnolo
 PST165	mangiate qua
 PST165	okay
 PST164	ve ne avanziamo
 PST165	te ne do un po'
 PST165	va bene
-PST160	spagnolo
+PST160	#_ spagnolo
 PST164	allora vi dico che il tabulè ha poco limone
 PST164	perché l'ho rovesciato mi è caduto quindi
 PST164	è un po' sciapo
 PST165	succede succede grazie
-PST160	spagnolo
+PST160	#_ spagnolo
 PST161	tieni
-PST162	spagnolo
+PST162	#_ spagnolo
 PST160	ah ah
-PST161	poquito quieres
+PST161	#_ poquito quieres
 PST211	vuoi
 PST072	xx
 PST164	peperone
@@ -99,8 +99,8 @@ PST161	non c'è niente per te
 PST072	ah scusi
 PST165	va bene grazie
 PST164	il tabulè
-PST160	spagnolo
-PST162	spagnolo
+PST160	#_ spagnolo
+PST162	#_ spagnolo
 PST072	eh xx
 PST161	grazie
 PST165	per la tua bimba
@@ -161,7 +161,7 @@ PST165	riso okay
 PST072	però bisogna
 PST164	scusa mettila lì nell'angolo
 PST165	sì
-PST162	eh como se llama
+PST162	#_ eh como se llama
 PST160	peperoni
 PST162	peperoni
 PST165	se vuoi te lo aiuto okay
@@ -173,7 +173,7 @@ PST166	che cosa c'è nel riso
 PST166	il pollo
 PST166	e poi cosa c'è dentro
 PST161	uova
-PST160	spagnolo
+PST160	#_ spagnolo
 PST166	le uova
 PST161	cipo~ la cipolla
 PST166	cipolla
@@ -193,13 +193,13 @@ PST164	mh mh
 PST165	mh mh
 PST072	le uova
 PST164	e l'aglio
-PST162	arroz
+PST162	#_ arroz
 PST072	l'aglio
 PST165	ah l'aglio
 PST072	xx
-PST160	quieres arroz
+PST160	#_ quieres arroz
 PST162	sì perché no
-PST161	quieres arrocito con pollo
+PST161	#_ quieres arrocito con pollo
 PST162	más
 PST162	sì
 PST165	ah prima li sentivo che
@@ -279,206 +279,206 @@ PST164	che poi è fortissimo che se tu non ti rendi conto che lui è là intorno
 PST164	xx xx xx
 PST160	non lo so
 PST164	e però ci dicevamo con che sul marketing lui non è fortissimo
-PST160	spagnolo
+PST160	#_ spagnolo
 PST165	no
-PST160	spagnolo
+PST160	#_ spagnolo
 PST165	perché un mazzetto cioè un mazzetto
 PST165	un mazzone di menta settanta centesimi è troppo poco
-PST162	spagnolo
+PST162	#_ spagnolo
 PST164	mh trentacinque uno
-PST162	spagnolo
+PST162	#_ spagnolo
 PST165	ah trentacinque ce~ erano due quindi
 PST164	due ce ne ha dati
 PST166	ah avete esagerato
-PST160	spagnolo
+PST160	#_ spagnolo
 PST165	secondo me dev~ deve metterli a un euro almenoÁ
 PST165	cioè due cioè
 PST165	un mazzone così un euro
-PST162	spagnolo
+PST162	#_ spagnolo
 PST165	anche perché vende solo lui le le piantine aromatiche
 PST166	le erbe
-PST160	spagnolo
-PST162	spagnolo
+PST160	#_ spagnolo
+PST162	#_ spagnolo
 PST164	sì ha il monopolio
 PST166	si vede che ha il riferimento con porta palazzo
 PST164	è troppo onesto
-PST160	spagnolo
+PST160	#_ spagnolo
 PST164	mh può darsi
 PST165	eh sì esatto
 PST166	forse
 PST072	eh ma porta palazzo mi sembra un mazzo un euro un euro e cinquanta
-PST162	spagnolo
+PST162	#_ spagnolo
 PST160	con le mani anche anche
 PST166	sì allora vedi bisogna dirglielo
 PST165	eh vedi si sono
-PST162	spagnolo
-PST160	spagnolo
+PST162	#_ spagnolo
+PST160	#_ spagnolo
 PST165	sì mh mh glielo dico
-PST072	ustedes señoras cómo hacen el arroz
-PST072	estába~ estábamos hablando cada uno tiene su (.) su teoria
+PST072	#_ ustedes señoras cómo hacen el arroz
+PST072	#_ estába~ estábamos hablando cada uno tiene su (.) su teoria
 PST160	peru
-PST160	xx muchas variedad de del riso
+PST160	xx #muchas #variedad #de del riso
 PST072	mh
-PST162	yo lo agua y
+PST162	#_ yo lo agua y
 PST160	tante varietà di
-PST162	esta olla
-PST162	xx de del norte
-PST072	ya
-PST072	cómo es (.) aquella olla
+PST162	#_ esta olla
+PST162	#_ xx de del norte
+PST072	#_ ya
+PST072	#_ cómo es (.) aquella olla
 PST160	una pentola
 PST162	olla es una un xx xx
-PST161	desgarro
-PST162	de arroz no no no
-PST162	de quello de fierro
+PST161	#_ desgarro
+PST162	#_ de arroz no no no
+PST162	#de quello #de fierro
 PST161	ah
-PST162	spagnolo
+PST162	#_ spagnolo
 PST160	acero
 PST160	inoxidable
-PST162	spagnolo
+PST162	#_ spagnolo
 PST072	ah okay
-PST162	di questo è l'arroz
-PST162	spagnolo
-PST162	spagnolo
+PST162	di questo è l'#arroz
+PST162	#_ spagnolo
+PST162	#_ spagnolo
 PST165	mh
 PST164	ma è tipo la wok quella pentola coi bordi alti
-PST161	è una pentola buena yo c'aveva con una pentola così porque era para tante persone
+PST161	è una pentola #buena #yo c'aveva con una pentola così #porque era #para tante persone
 PST164	okay
 PST164	ah
-PST162	y pues prima con con algio
+PST162	#y #pues prima con con algio
 PST164	mh
 PST162	olio
 PST162	poi l'acqua
 PST162	anche ah questo anche il riso tutti i
-PST162	spagnolo
-PST162	y dopo la non lo espegnes non lo
+PST162	#_ spagnolo
+PST162	#y dopo la non lo #espegnes non lo
 PST164	lo abbassa
 PST162	ah ah sì
 PST164	okay
-PST162	e questo por venti minuti venticinque minuti
+PST162	e questo #por venti minuti venticinque minuti
 PST162	e basta così
-PST162	spagnolo
+PST162	#_ spagnolo
 PST164	e non si trova qui questa pentola
 PST162	no no no
-PST162	questa pentola xx xx
+PST162	questa pentola #xx xx
 PST164	una pentola magica che cuoce da sola
-PST162	spagnolo
+PST162	#_ spagnolo
 PST160	sì
-PST162	el peru x tanto pero
-PST160	spagnolo
+PST162	#_ el peru x tanto pero
+PST160	#_ spagnolo
 PST162	no
-PST160	spagnolo
+PST160	#_ spagnolo
 PST162	no
-PST162	spagnolo
-PST160	spagnolo
-PST160	spagnolo
-PST162	spagnolo
+PST162	#_ spagnolo
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST162	#_ spagnolo
 PST164	tu hai dei segreti per il riso
 PST164	mh no eh
 PST211	no no
-PST162	spagnolo
+PST162	#_ spagnolo
 PST165	no nemmeno io io avrei messo l'acqua a bollire avrei messo il riso e fine
-PST162	spagnolo
+PST162	#_ spagnolo
 PST211	esattoesatto
-PST162	spagnolo
-PST162	spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
 PST165	cioè sento la differenza ovviamente
 PST165	cioè la la riconosco
 PST072	eh eh quando la fai tu e quando la fanno gli altri
-PST162	spagnolo
-PST162	spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
 PST165	esatto sì
 PST165	sì sì
-PST162	spagnolo
-PST160	spagnolo
-PST162	spagnolo
+PST162	#_ spagnolo
+PST160	#_ spagnolo
+PST162	#_ spagnolo
 PST164	invece tu hai l'orto
-PST162	spagnolo
+PST162	#_ spagnolo
 PST166	mio papà e mia mamma
 PST164	wow
 PST166	sì adesso sono un po' vecchietti
-PST162	spagnolo
+PST162	#_ spagnolo
 PST166	quindi ieri sono andata a zappare io
 PST161	mh mh
 PST166	eh sai la zappatrice urbana
-PST160	spagnolo
+PST160	#_ spagnolo
 PST166	ti fa venire subito mille vesciche
 PST166	perché non sono abituata
-PST160	spagnolo
+PST160	#_ spagnolo
 PST166	perché mia ma~ papà adesso è un po' vecchietto quindi
-PST160	spagnolo
+PST160	#_ spagnolo
 PST166	non dovrebbe tanto fare sforzi per cui
-PST162	spagnolo
-PST163	spagnolo
-PST160	spagnolo
+PST162	#_ spagnolo
+PST163	#_ spagnolo
+PST160	#_ spagnolo
 PST164	con sto caldo
 PST166	intanto vado io
 PST166	sì infatti infernale
 PST166	poi fare il contadino
 PST072	eh dura
-PST160	porque el sabor del peru xx xx unico
+PST160	#_ porque el sabor del peru xx xx unico
 PST166	duro senza senso
 PST166	perché poi lui vuol fare tutto senza macchine cioè lo eh
-PST160	spagnolo
+PST160	#_ spagnolo
 PST166	senza concimi senza macchine senza chimiche eccettera e quindi è un gran mazzo
 PST165	mh mh mh
 PST165	eh eh
-PST161	spagnolo
+PST161	#_ spagnolo
 PST164	eh sì
 PST211	è grande l'orto
 PST165	sì
-PST161	spagnolo
+PST161	#_ spagnolo
 PST166	eh sì il terreno è grande cioè
-PST160	spagnolo
+PST160	#_ spagnolo
 PST166	adesso voglio dire
-PST162	spagnolo
+PST162	#_ spagnolo
 PST166	è l~ è dove nato lui nelle langhe
 PST211	mh
 PST166	provincia di cuneo
 PST211	ah ecco
-PST161	spagnolo
+PST161	#_ spagnolo
 PST164	mh mh
 PST166	e c'è una vigna un orto cioè è grande
-PST160	spagnolo
+PST160	#_ spagnolo
 PST211	ah
-PST160	spagnolo
+PST160	#_ spagnolo
 PST165	fa il vino
 PST166	sì fa il vino
-PST163	spagnolo
+PST163	#_ spagnolo
 PST165	oh
-PST161	caserita tambien
+PST161	#_ caserita tambien
 PST166	però mh
 PST166	negli ultimi anni adesso piano piano gli stiamo dicendo di lasciare sempre un po' di più perché comunque ha ottantatré anni quindi non è che può pensare di far tutto
-PST161	spagnolo
-PST163	spagnolo
-PST162	guadalupe tambien bueno como xx
+PST161	#_ spagnolo
+PST163	#_ spagnolo
+PST162	#_ guadalupe tambien bueno como xx
 PST165	xx xx
 PST211	eh sì
-PST162	spagnolo
+PST162	#_ spagnolo
 PST166	quindi c'è questo tema
 PST166	e cosa succede a ora che lui non può tanto più seguire no
-PST160	spagnolo
-PST162	spagnolo
+PST160	#_ spagnolo
+PST162	#_ spagnolo
 PST166	e io cioè io
-PST161	quieres un poco de pollo
-PST162	si
+PST161	#_ quieres un poco de pollo
+PST162	#_ si
 PST166	io vivo a torino e lavoro mia sorella abita in portogallo
 PST166	quindi non è tanto facile gestire
-PST161	spagnolo
+PST161	#_ spagnolo
 PST164	ma lui faceva il contadino di lavoro proprio
 PST166	lui ha faceva l'insegnante però è uno di quelli che è andato in pensione quando si poteva andare prestissimo
 PST162	cous cous
-PST160	spagnolo
+PST160	#_ spagnolo
 PST164	ah
 PST072	un baby
 PST165	mh
-PST161	?
+PST161	#_ ?
 PST166	sì una roba scandalosa
-PST163	spagnolo
+PST163	#_ spagnolo
 PST166	io non ricordo di lui che lavorasse figuriamoci
-PST160	ah gracias si
+PST160	#_ ah gracias si
 PST160	sì sì
 PST166	cioè non ho praticamente ricordi
-PST160	spagnolo
+PST160	#_ spagnolo
 PST166	quindi lui da quando poi è andato in pensione è tornato a fare il lavoro dei suoi genitori
 PST166	lui ha una famiglia contadina di origine
 PST165	che meraviglia
@@ -488,29 +488,29 @@ PST161	che senso
 PST160	no come un riso
 PST166	cosa succede in questi anni prossimi
 PST162	no no è riso
-PST160	es un riso pero xx xx que
+PST160	#es un riso pero xx xx que
 PST072	certo
-PST163	spagnolo
+PST163	#_ spagnolo
 PST166	quando non riuscirà più tanto
 PST162	mh mh
-PST160	eso è spessacomosifuera la polenta
+PST160	#eso è spessacomosifuera la polenta
 PST166	adesso la vigna l'ha data in gestione a un suo amico
 PST163	ah te creo
 PST166	il noccioleto anche
-PST163	spagnolo
+PST163	#_ spagnolo
 PST166	perché poi è enorme cioè c'è noccioleto vigna però l'orto vorrebbe continuare a farlo
 PST165	eh certo
-PST162	io no creo que sea riso
-PST160	spagnolo
+PST162	#io no #creo #que #sea riso
+PST160	#_ spagnolo
 PST166	e quindi ieri sono andata a zappare io
 PST160	cous cous
-PST161	spagnolo
+PST161	#_ spagnolo
 PST165	bene
-PST161	spagnolo
+PST161	#_ spagnolo
 PST160	mh mh
 PST160	sì
 PST165	che co~ che coltiva
-PST160	spagnolo
+PST160	#_ spagnolo
 PST165	tutto quello che è di stagione
 PST166	guarda siamo andati la volta prima eravamo andati a prendere un po' di piantini
 PST166	e quindi
@@ -519,42 +519,42 @@ PST166	perché appunto ha tanto terreno per cui questo è l'orto sud
 PST166	quindi è l'orto che dove c'è più
 PST166	caldo tutto il giorno
 PST165	ah certo
-PST162	spagnolo
+PST162	#_ spagnolo
 PST166	per cui sono
 PST166	tendenzialmente delle colture che vanno bene per la primavera quando arriva l'estate non cioè non si riesce quasi più a far nulla
-PST163	spagnolo
-PST162	spagnolo
-PST163	spagnolo
-PST163	spagnolo
+PST163	#_ spagnolo
+PST162	#_ spagnolo
+PST163	#_ spagnolo
+PST163	#_ spagnolo
 PST166	però nonostante questo lui c'ha messo
 PST166	un po' di tutto sai le piantine di varie melanzane pomodori peperoni un po' di tutto
-PST163	spagnolo
-PST162	spagnolo
+PST163	#_ spagnolo
+PST162	#_ spagnolo
 PST166	e adesso c'è il tema
-PST160	spagnolo
+PST160	#_ spagnolo
 PST166	di lottare contro le erbe infestanti e di dare l'acqua
-PST160	spagnolo
+PST160	#_ spagnolo
 PST165	mh
 PST211	eh
-PST162	spagnolo
+PST162	#_ spagnolo
 PST165	eh sì certo e pure tanta
 PST166	tan~ e pure tanta perché appunto essendo sud
 PST160	come l'hai fatto questa
-PST162	xx el cous cous che sono sono como riso che
+PST162	#xx #el cous cous che sono sono #como riso che
 PST166	è grano è grano il cous cous
 PST160	grano
 PST162	grana
 PST164	però questo qua è di mais
 PST162	mh mh
 PST160	ah sì ah vedi
-PST162	ah si fa de mais
+PST162	ah si fa #de mais
 PST164	eh si fa anche di mais il cous cous originale è di grano
 PST166	grazie
 PST211	ehm
 PST160	vi ho passato mh
 PST164	ma lo sanno xx
 PST072	lo sanno
-PST164	sì grano è trigo
+PST164	sì grano è #trigo
 PST162	mh
 PST164	ehm è molto comodo d'estate perché si prepara in cinque minuti
 PST160	mh mh
@@ -565,22 +565,22 @@ PST162	ah bollente va bene
 PST164	poi lo tappi e si cuoce
 PST211	in cinque minuti
 PST162	mh
-PST162	ahora lo foy en la casa con alla nonna
+PST162	#_ ahora lo foy en la casa con alla nonna
 PST164	poi c'è il cetriolo la menta il pomodoro
 PST164	succo di limone
 PST166	basta e forse cipollotto
 PST164	ah sì perché il cucchiaio d'argento ha detto di mettere anche il prezzemolo e il cipollotto e ce li ho messi
-PST162	como una insalata fredda
+PST162	#como una insalata fredda
 PST164	sì
 PST166	esatto
 PST164	e infatti mangiato freddo è ancora più
 PST072	più buono
 PST165	sì
 PST211	con la menta è buonissimo
-PST162	?
+PST162	#_ ?
 PST164	sì
-PST160	spagnolo
-PST072	spagnolo
+PST160	#_ spagnolo
+PST072	#_ spagnolo
 PST162	eh io sì perché mh
 PST072	cous cous
 PST162	mh però è minestrina
@@ -596,49 +596,49 @@ PST162	okay
 PST165	nella nella minestra sì
 PST164	che è sempre di grano
 PST165	mh mh
-PST161	spagnolo
+PST161	#_ spagnolo
 PST164	ma gli gnocchi alla romana tu li fai
 PST165	no
-PST162	spagnolo
+PST162	#_ spagnolo
 PST164	come no
 PST165	mai mangiati penso
 PST165	non mi piacciono cioè forse li ho assaggiati una volta e non mi son piaciuti
-PST161	spagnolo
+PST161	#_ spagnolo
 PST164	ah no
-PST162	spagnolo
+PST162	#_ spagnolo
 PST166	buoni
 PST165	no
 PST164	matta
 PST166	anch'io
 PST165	ma non cre~ non non penso sia una roba
-PST162	spagnolo
+PST162	#_ spagnolo
 PST164	romana
 PST166	tanto romana
 PST165	no è come il pecorino romano capito
-PST162	spagnolo
+PST162	#_ spagnolo
 PST164	okay no non lo sapevo neanche questo
 PST072	che non è romano
-PST162	spagnolo
+PST162	#_ spagnolo
 PST165	io non credo sia proprio una ricetta tipica di roma eh
 PST165	lo gnocco romano io non l'ho mai sentito
-PST160	spagnolo
-PST162	spagnolo
+PST160	#_ spagnolo
+PST162	#_ spagnolo
 PST165	cioè lo trovi più nei nei mercati
 PST165	qui
-PST162	spagnolo
+PST162	#_ spagnolo
 PST072	più marketing dici
 PST072	bah
-PST160	spagnolo
+PST160	#_ spagnolo
 PST165	non è un piatto
 PST211	in effetti cos'avrebbero di
-PST162	spagnolo
+PST162	#_ spagnolo
 PST164	di romano effettivamente niente
-PST160	spagnolo
+PST160	#_ spagnolo
 PST211	e di~ diverso
-PST162	spagnolo
+PST162	#_ spagnolo
 PST072	ma il pecori~ ma il pecorino non è romano
 PST164	no eh sono a base di
-PST161	spagnolo
+PST161	#_ spagnolo
 PST164	li mai mangiati
 PST165	sai x quella cosa del pecorino romano il pecorino sardo
 PST164	sono dei medaglioni di semolino
@@ -665,36 +665,36 @@ PST162	buono
 PST164	com'è buono
 PST162	sì buona
 PST165	sì sì sì
-PST072	y en el trabajo cuando tiene de cocinar para las personas italianas cómo hace
-PST160	io no cocinato mucho
+PST072	#_ y en el trabajo cuando tiene de cocinar para las personas italianas cómo hace
+PST160	io no cocinato #mucho
 PST072	mh
 PST160	perché sempre solo badante compagno
 PST160	o un
 PST160	solo con lei quando mi ha da~ lasciado con su nonna
 PST160	quante volte tre volte tre
-PST160	tre he cocinado
-PST162	pero lei magna tutti tutti comida peruviana
+PST160	tre #he #cocinado
+PST162	pero lei magna tutti tutti #comida peruviana
 PST164	ah sì
 PST072	ah
-PST162	spagnolo
+PST162	#_ spagnolo
 PST165	ah allora perfetto
-PST162	y quello che quando da
-PST162	el figlio de lei
-PST162	eh me xx vieni a casa mia a mangiare
+PST162	#y quello che quando da
+PST162	#el figlio #de lei
+PST162	eh #me #xx vieni a casa mia a mangiare
 PST162	io guardo qualcosa sta
-PST162	y vado a alla casa della nonna
+PST162	#y vado a alla casa della nonna
 PST162	e lui ha cucina così
-PST162	e un giorno che lei habìa quella minestrina con questo cous cous
+PST162	e un giorno che lei #habìa quella minestrina con questo cous cous
 PST165	mh
 PST162	io lo guardava quello te piace sì
-PST162	spagnolo
+PST162	#_ spagnolo
 PST072	buono
 PST164	ah okay
 PST164	ah
 PST164	mh mh
-PST162	porque para fare la minestrina fa caldo
+PST162	#porque #para fare la minestrina fa caldo
 PST165	eh certo sì sì la versione estiva della minestrina
-PST162	perché lei magna de tutto tutto che io co~ gli cucino
+PST162	perché lei magna #de tutto tutto che io co~ gli cucino
 PST164	meno male
 PST162	mangia tutti tutti
 PST162	non è che non che cucino no no
@@ -708,21 +708,21 @@ PST164	un cicinin
 PST160	grazie grazie
 PST166	magari la riempio che dici
 PST165	sì sì sì
-PST072	coman coman coman
+PST072	#_ coman coman coman
 PST072	xx xx xx
 PST072	eh sì
-PST161	spagnolo
-PST160	spagnolo
-PST161	xx xx para @lola
+PST161	#_ spagnolo
+PST160	#_ spagnolo
+PST161	#_ xx xx para @lola
 PST161	mh
-PST161	xx xx para vuoi
-PST161	spagnolo
-PST161	x xx para
+PST161	#xx #xx para vuoi
+PST161	#_ spagnolo
+PST161	#x xx para
 PST161	e tu
-PST161	spagnolo
-PST161	spagnolo
-PST161	allora questo è de
-PST161	lo siento xx xx xx
+PST161	#_ spagnolo
+PST161	#_ spagnolo
+PST161	allora questo è #de
+PST161	#_ lo siento xx xx xx
 PST164	sì sì sì queste io non le ho ancora mangiate
 PST164	eh
 PST161	ne vuoi mangiare uno devi mangiare tutto questo okay
@@ -731,7 +731,7 @@ PST164	adesso guarda come ti guarda
 PST166	ti ha fulminato con lo sguardo
 PST162	no odiare
 PST160	no odiare
-PST162	finisci tu il riso xx
+PST162	finisci tu il riso #xx
 PST164	mh sì
 PST161	è freddo quello eh
 PST162	quella che lei ha finisco
@@ -746,81 +746,81 @@ PST164	ne so qualcosa
 PST161	piaciuto
 PST161	okay
 PST161	non c'è il sugo ma c'è xx xx okay
-PST072	y pensando un poco al tema de hoy no
-PST072	hemos habla hemos invitado que xx xx maneras
-PST072	son vinculas con lo que es el tema de la escuela no
-PST072	spagnolo
-PST072	y bueno ustedes cuando llegaron acá
-PST072	eh cómo fue no esta relación con la escuela italiana
+PST072	#_ y pensando un poco al tema de hoy no
+PST072	#hemos habla hemos invitado que xx xx maneras
+PST072	#_ son vinculas con lo que es el tema de la escuela no
+PST072	#_ spagnolo
+PST072	#_ y bueno ustedes cuando llegaron acá
+PST072	#_ eh cómo fue no esta relación con la escuela italiana
 PST072	no
 PST072	eh
-PST072	spagnolo
-PST072	spagnolo
-PST072	spagnolo
-PST072	spagnolo
-PST160	spagnolo
-PST072	en general en general
+PST072	#_ spagnolo
+PST072	#_ spagnolo
+PST072	#_ spagnolo
+PST072	#_ spagnolo
+PST160	#_ spagnolo
+PST072	#_ en general en general
 PST165	in generale sì infatti
-PST072	spagnolo
+PST072	#_ spagnolo
 PST160	io sì io arrivado in italia per
-PST160	per per estu~ perché
+PST160	per per #estu~ perché
 PST160	bisogno de mh dare una buona educazione a mia figlia
-PST160	quando ea a~ abbiamo arrivato qua era muy difficile trovare una escuola perché
-PST160	eh l'escuola ya finitaba
+PST160	quando ea a~ abbiamo arrivato qua era #muy difficile trovare una escuola perché
+PST160	eh l'escuola #ya finitaba
 PST160	eh nel febrero ehm
-PST160	credo che meso de marzo ingressa all'escuola mia figlia
-PST160	eh era un po' difficile el inscripción
+PST160	credo che meso #de marzo ingressa all'escuola mia figlia
+PST160	eh era un po' difficile #el #inscripción
 PST160	e per me anche per me io non sapeva a dove stava andando
 PST165	mh
 PST160	per studiare perché non sapeva de che
 PST160	eh
 PST160	amica mie dava
-PST160	possiava se dice no possiava estudiar
-PST160	estudiar
+PST160	possiava se dice no possiava #estudiar
+PST160	#_ estudiar
 PST160	perché no pensava che anche io xx studiare
 PST166	sì sì
 PST165	mh
 PST160	eh che sempre era necesario
 PST166	mh
-PST160	de que io tam~ i~ io anche devo xx estudiare
+PST160	#de #que io #tam~ i~ io anche devo xx estudiare
 PST160	no sapeva che era così
 PST160	è un po' difficile per me eh
 PST160	ehm
-PST160	asimilar como se dice assimilare
+PST160	#asimilar #como #se #dice assimilare
 PST211	mh mh
 PST165	mh mh mh
 PST160	che che po~ che possiava
 PST211	mh
-PST160	podere potere estudiare
+PST160	podere potere #estudiare
 PST160	anche quando era ragazza me piace~ mi è piaciu~ mi è piaceva
-PST160	tante l'estudio
+PST160	tante l'#estudio
 PST160	io pensava perché non vado una casa una escuola
-PST160	dove me puoi internare como se dice no internare un' escuela e potere studiare
+PST160	dove me puoi internare #como #se #dice no internare un' #escuela e potere studiare
 PST160	tanto studiare studiare studiare poi a me piaceva tanto studiare
-PST160	poi adesso mia figlia mi dice dopo de la terza mezza
+PST160	poi adesso mia figlia mi dice dopo #de la terza mezza
 PST165	mh
 PST160	ingressa al liceo ingressa all'università mi dice
 PST160	no credo dico
 PST211	mh mh
 PST165	che le piace studiare
-PST160	perché io devo de lavorare per te e per tua fi~ per tua mh la se tua fratello le dico
+PST160	perché io devo #de lavorare per te e per tua fi~ per tua mh la se tua fratello le dico
 PST165	eh
-PST160	devo de lavorare de più
+PST160	devo #de lavorare #de più
 PST165	mh mh
-PST160	per aiudare ustedes le digo no
-PST160	adesso che he parlado con lei
-PST160	no un po' ascoltado de un corso professionale
-PST160	e credo de de studiare questa corso
+PST160	per #aiudare #ustedes #le #digo no
+PST160	adesso che #he parlado con lei
+PST160	no un po' ascoltado #de un corso professionale
+PST160	e credo #de #de studiare questa corso
 PST211	mh mh
 PST160	per trovare altro altro lavoro
 PST160	perché quando
-PST160	eh he arrivado qua no pensava de lavorar così come adesso lavoro no
-PST160	pensavo pensavo de
-PST160	lavorare in un cosa de che me piaceva me piace cucinare
+PST160	eh #he arrivado qua no pensava #de lavorar così come adesso lavoro no
+PST160	pensavo pensavo #de
+PST160	lavorare in un cosa #de che me piaceva me piace cucinare
 PST160	e x sapevo che cucinava adesso non cucino
 PST211	mh mh
-PST160	eh pensava che questa di estudiare qualcosa para
-PST160	lo quieres ser cuoca
+PST160	eh pensava che questa di estudiare qualcosa #para
+PST160	#lo #quieres #ser cuoca
 PST211	mh
 PST160	eh non lo so che vediamo che succede
 PST160	eh io
@@ -830,31 +830,31 @@ PST160	non lo so
 PST160	ehm qui sì c'è un aiuto
 PST160	per estraniero
 PST160	tanta tanti luogo che che aiuta a imparare l'italiano
-PST160	sea giovani o sea adulti io non lo sapeva anche con mia figlia hemos andato due mesi en torino
-PST160	hemo~ eh abbiamo cono~ conosciuto luogo dove da
+PST160	#sea giovani o #sea adulti io non lo sapeva anche con mia figlia #hemos andato due mesi #en torino
+PST160	#hemo~ eh abbiamo cono~ conosciuto luogo dove da
 PST160	ehm que se dice
-PST160	analfabetización quello che se dice
+PST160	#analfabetización quello che se dice
 PST166	alfabetizzazione
 PST072	alfabetizzazione
-PST160	alfabetización
-PST160	ehm conocìa no pensava do solo per mia figlia io lo mh cercava solo per mia figlia no
+PST160	#_ alfabetización
+PST160	ehm #conocìa no pensava do solo per mia figlia io lo mh cercava solo per mia figlia no
 PST166	non ho biso~
 PST160	che studi qua che xx qua tutto tutto per lei
 PST160	però quando io quando io io quando io andato al ci pi a
-PST160	e dato un examen per ingressare
-PST160	en ci pi a
-PST160	io no pensava che tre mesi che stava stava andando en
-PST160	en escuola de
-PST160	de
+PST160	e dato un #examen per ingressare
+PST160	#en ci pi a
+PST160	io no pensava che tre mesi che stava stava andando #en
+PST160	#en escuola #de
+PST160	#de
 PST160	per no pensava che
-PST160	dare eso examen me dava un ingresso per studiare al ci pi a
+PST160	dare #eso #examen me dava un ingresso per studiare al ci pi a
 PST160	eh io andato al ci pi a tutto nuovo senza intendere l'italiano
-PST160	senza de scrivire l'italiano che un po' me me defendìa como se dice no
+PST160	senza #de scrivire l'italiano che un po' me me defendìa #como #se #dice no
 PST211	mh mh
-PST160	podía scrivire e entender un poquito pero no tanto
-PST160	eh quando entravo al ci pi a eh el corso il primo corso di historia de scienza historia
-PST160	yo non lo capiva niente al maestro porque parlava veloce veloce
-PST160	allo~ poquito no a conta cosa io ehm ehm capiva
+PST160	#podía scrivire e #entender #un #poquito pero no tanto
+PST160	eh quando entravo al ci pi a eh #el corso il primo corso di #historia #de scienza #historia
+PST160	#yo non lo capiva niente al maestro #porque parlava veloce veloce
+PST160	allo~ #poquito no a conta cosa io ehm ehm capiva
 PST160	eh
 PST160	era una aula dove
 PST160	c'è tanta peruviana
@@ -862,31 +862,31 @@ PST160	peruviani
 PST160	che mi aiutava
 PST160	mi aiutava a io io lo pre~ fare la domanda che ha detto
 PST160	che dice
-PST160	e me deciva e me deci~ me deciva
+PST160	e me deciva e me #deci~ me deciva
 PST160	ecco ha detto così a
 PST160	adesso io
-PST160	spagnolo
-PST160	spagnolo
+PST160	#_ spagnolo
+PST160	#_ spagnolo
 PST160	mi mi mi vas mi mi not mi
 PST160	come se voto basso
-PST160	seis
-PST160	spagnolo
+PST160	#_ seis
+PST160	#_ spagnolo
 PST160	e e no pensava ride
 PST164	è una secchiona signora
 PST165	sì eh
 PST160	io no pensava che era così
-PST160	tanto che io xx rendir no
-PST160	eh entonces ehm
-PST160	eh así
+PST160	tanto che io xx #rendir no
+PST160	eh #entonces ehm
+PST160	eh #así
 PST160	un poco
 PST160	è migliorato
-PST160	perché no come lo he di~ dico no ente~ non capiva niente al al maestro niente niente nada nada
+PST160	perché no come lo eh di~ dico no #ente~ non capiva niente al al maestro niente niente #nada #nada
 PST160	niente
 PST160	per me era tutto tutto tutto nuovo per me i
 PST160	me sento un po' felice perché da eh
 PST160	dare un passo avanti si dice no
-PST160	un passo de
-PST160	ah ah sì mi ha successo a me da l'escuola de aprender l'italiano
+PST160	un passo #de
+PST160	ah ah sì mi ha successo a me da l'escuola #de #aprender l'italiano
 PST160	grazie
 PST164	quindi un'esperienza positiva comunque
 PST165	complimenti a lei
@@ -901,37 +901,38 @@ PST165	bene
 PST160	per me tutto tutto nuovo
 PST160	tutto nuovo nuovo nuovo
 PST160	però sì me ricordava
-PST160	e quando andava all'escuola me ricordava porque io studiavo historia universal historia del perù
-PST160	historia universal y
-PST160	historia qua e mi ha aiutato studiare storia universale in perù
-PST160	porque la la de la guerra
-PST160	de mh
-PST160	como si chiama esto della mh
-PST160	historia del passato
+PST160	e quando andava all'escuola me ricordava #porque io studiavo #historia #universal #historia del perù
+PST160	#_ historia universal y
+PST160	#historia qua e mi ha aiutato studiare storia universale in perù
+PST160	#porque la la #de la guerra
+PST160	#de mh
+PST160	#como si chiama #esto della mh
+PST160	#historia del passato
+PST161	#_
 PST164	mh mh
-PST160	de historia universale mi ha aiutato tanto en recordar qua aver recordado recordado y
+PST160	#de #historia universale mi ha aiutato tanto #en #recordar qua aver #recordado #recordado #y
 PST160	quello mh mancava era escriver
 PST160	me mancava tanto la grammatica
 PST165	mh mh mh mh
 PST160	perché sempre me dice che come se il verbo
-PST160	se come los artículos
+PST160	se come #los #artículos
 PST160	e come mi mi xx
-PST160	cuando escribo no puedo escribir bien
+PST160	#_ cuando escribo no puedo escribir bien
 PST160	o quando parlo xx xx del verbo sempre me dice
 PST160	un po' difficile per me
 PST165	mh mh
-PST072	spagnolo
-PST072	ad@anita
+PST072	#_ spagnolo
+PST072	#_ ad@anita
 PST160	ah
 PST160	sì
-PST072	eh ustedes eh
-PST072	que siente que falta en peru respecto a la educación
-PST072	por ejemplo
-PST072	y que encuentra por ejemplo anca in italia
-PST160	mh bueno cuando he he
+PST072	eh #ustedes eh
+PST072	#_ que siente que falta en peru respecto a la educación
+PST072	#_ por ejemplo
+PST072	#y #que #encuentra #por #ejemplo anca in italia
+PST160	#_ mh bueno cuando he he
 PST160	visto eh che io aiuto per i poveri
 PST160	al giovani qua
-PST160	en peru è un po'
+PST160	#en peru è un po'
 PST160	è un po' difficile se no hai soldi
 PST160	se tu c'hai soldi puoi mettere qual~
 PST160	istituto escuola
@@ -939,167 +940,167 @@ PST160	a tuo figlio estudiare
 PST160	estudia bene
 PST165	mh
 PST072	okay
-PST160	pero si no tienes soldi
-PST160	como l~ puoi dare tanta fa eh cosa eh al al figlio
+PST160	#pero #si #no #tienes soldi
+PST160	#como l~ puoi dare tanta fa eh cosa eh al al figlio
 PST160	per esempio ad sempre gli ha piaciuto cu~ giocare il volley
 PST160	ehm pallavolla
 PST165	pallavolo sì
 PST211	sì pallavolo
-PST160	pallavolo y en perù me costava tanto metterla xxx
-PST160	perché va a un xx me costaba tanto
-PST160	y yo non contava con questo soldi
-PST160	eh per esempio quería ir a un natación o un eh
-PST160	o per o lo que sea oratorio entonces
+PST160	pallavolo #y #en perù me costava tanto metterla xxx
+PST160	perché va a un xx me #costaba tanto
+PST160	#y yo non contava con questo soldi
+PST160	eh per esempio #quería #ir a un #natación o un eh
+PST160	o per o #lo #que #sea oratorio #entonces
 PST160	si tu non c'hai soldi non puoi mandare
 PST165	mh mh
-PST160	entonces è un po' difficile xx xx xx per me
+PST160	#entonces è un po' difficile xx xx xx per me
 PST160	per me il sogno me mi ha
-PST160	hecho tanta fatta
+PST160	#hecho tanta fatta
 PST165	mh mh
-PST160	ma non me mancava tanta possibilità de aiutarla
-PST160	e anche par
+PST160	ma non me mancava tanta possibilità #de aiutarla
+PST160	e anche #par
 PST160	ve mh perché estudie
 PST160	paghi ingresso all'università
 PST160	lui deve lavorare un anno a xxx di soldi
 PST160	dopo ingressava
-PST160	y lo que lui lavorava e con questo si pagava el el l'università
-PST160	io ello che è la mobilità che era pagar el bus
-PST160	e da pagar che coma e la xx porque xx xx tutto il jorne
-PST160	andava en la caje
-PST160	y eso era per io
-PST160	trabajava solo per eh per per lo mi dos figlio che estaban migo
-PST160	acá es un poco mas
-PST160	un poco un poco ma~ cómodo la cosas podea xx estudiar
-PST160	porque en peru el sol~ el sole el sol es un poco basso
-PST160	porque se valorizan mh poco
-PST160	acá cuando trabaja se i soldi son poqui~ el soldi un poquito
-PST160	cómodo que te puedas acomodar
-PST160	te alcansa
+PST160	#y #lo #que lui lavorava e con questo si pagava #el #el l'università
+PST160	io #ello che è la mobilità che era pagar #el bus
+PST160	e da pagar che #coma e la xx #porque xx xx tutto il jorne
+PST160	andava #en la #caje
+PST160	#y #eso era per io
+PST160	#trabajava solo per eh per per #lo #mi #dos figlio che #estaban #migo
+PST160	#_ acá es un poco mas
+PST160	#_ un poco un poco ma~ cómodo la cosas podea xx estudiar
+PST160	#porque #en #peru #el #sol~ #el sole #el #sol #es #un #poco basso
+PST160	#_ porque se valorizan mh poco
+PST160	#acá #cuando #trabaja se i soldi son #poqui~ #el soldi #un #poquito
+PST160	#_ cómodo que te puedas acomodar
+PST160	#_ te alcansa
 PST160	xx
-PST160	en peru si
-PST160	xxx mucho
-PST160	que acá
-PST160	spagnolo
+PST160	#_ en peru si
+PST160	#_ xxx mucho
+PST160	#que acá
+PST160	#_ spagnolo
 PST160	nella sera
 PST160	a eh di nove dieci dormiva
-PST160	tutto il giorno en la sala despierta
-PST160	quando mangiamo xx xx el el pranzo
-PST160	spagnolo
+PST160	tutto il giorno #en la sala #despierta
+PST160	quando mangiamo xx xx #el #el pranzo
+PST160	#_ spagnolo
 PST160	devo xx a comprar devo xx eso xx devo se~
 PST160	se io sola
-PST160	entonces è un po' difficile acá un poco mas tranquillo el lavoro
+PST160	#entonces è un po' difficile #acá #un #poco #mas tranquillo #el lavoro
 PST160	poi
-PST160	spagnolo
-PST160	perché io non cocino quella che cocina es la que me espera con la comida es
-PST160	spagnolo
-PST160	no es eh fácil la vida xx xx xx
-PST160	spagnolo
-PST160	spagnolo
-PST160	per esempio eh la medicina che necesito por prenderla ora
-PST160	anche no io no me preoccupava por mi preoccupada por figlio
-PST160	non mi preoccupava por mi anche a casi
-PST160	spagnolo
+PST160	#_ spagnolo
+PST160	perché io non #cocino quella che #cocina #es #la #que #me #espera #con #la #comida #es
+PST160	#_ spagnolo
+PST160	#_ no es eh fácil la vida xx xx xx
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST160	per esempio eh la medicina che #necesito #por prenderla ora
+PST160	anche no io no me preoccupava #por mi preoccupada #por figlio
+PST160	non mi preoccupava #por #mi anche a #casi
+PST160	#_ spagnolo
 PST160	anche
-PST160	mi es un poco mah più facile
+PST160	#mi #es #un #poco mah più facile
 PST160	sì
-PST072	si digamos que no un poco que muchas familias nos dicen no
-PST072	s que seguramente sobre el tema de la educación en peru
-PST072	es (.) un poco mas complicado tener un a~ acceso xx xx mas que todo (.) xx es una
-PST072	una preparación educación en general no
-PST072	no se (.) digan ustedes no un poco yo digo lo que un poco nos cuentan las familias no
-PST072	es que tienes que teneba
-PST072	mh una posición económica que te permita no frequentar l'escuela particular
-PST072	prepararte para el ingreso a la universidad
-PST072	o sea es que como
-PST072	que la escuela (.) estatal publica no funcionan mucho no xx una buena preparación educación no
+PST072	#_ si digamos que no un poco que muchas familias nos dicen no
+PST072	#_ s que seguramente sobre el tema de la educación en peru
+PST072	#_ es (.) un poco mas complicado tener un a~ acceso xx xx mas que todo (.) xx es una
+PST072	#_ una preparación educación en general no
+PST072	#_ no se (.) digan ustedes no un poco yo digo lo que un poco nos cuentan las familias no
+PST072	#_ es que tienes que teneba
+PST072	#_ mh una posición económica que te permita no frequentar l'escuela particular
+PST072	#_ prepararte para el ingreso a la universidad
+PST072	#_ o sea es que como
+PST072	#_ que la escuela (.) estatal publica no funcionan mucho no xx una buena preparación educación no
 PST165	mh mh
-PST072	pero
-PST162	yo creo que mi tampoco
-PST162	eh xxx muchos muchos colegios eh particulares
-PST162	spagnolo
-PST162	no (.) no se presta para que en peru la educación siga adelante no
-PST162	porque mucha~ yo he visto muchas personas
-PST162	que xx hijos xx un puesto en particulare por ejemplo
-PST162	para que terminar la segundaria
-PST162	terminando la segundaria no tienen un acceso como acá
-PST162	a una pre profesional no
-PST162	spagnolo
-PST162	spagnolo
-PST162	eh ingreso a la universidad no
-PST162	spagnolo
-PST162	en el colegio estatal
-PST162	mh mis hijos han estudiado sempre en el statal
-PST162	entonces (.) es como que
-PST162	spagnolo
-PST162	si tu estudias
-PST162	e in muchas veces hoy depende yo pienso de cada niño
-PST162	como lo lo lo lo aprende o como lo lo pone el estudio
+PST072	#_ pero
+PST162	#_ yo creo que mi tampoco
+PST162	#_ eh xxx muchos muchos colegios eh particulares
+PST162	#_ spagnolo
+PST162	#_ no (.) no se presta para que en peru la educación siga adelante no
+PST162	#_ porque mucha~ yo he visto muchas personas
+PST162	#_ que xx hijos xx un puesto en particulare por ejemplo
+PST162	#_ para que terminar la segundaria
+PST162	#_ terminando la segundaria no tienen un acceso como acá
+PST162	#_ a una pre profesional no
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ eh ingreso a la universidad no
+PST162	#_ spagnolo
+PST162	#_ en el colegio estatal
+PST162	#_ mh mis hijos han estudiado sempre en el statal
+PST162	#_ entonces (.) es como que
+PST162	#_ spagnolo
+PST162	#_ si tu estudias
+PST162	#_ e in muchas veces hoy depende yo pienso de cada niño
+PST162	#_ como lo lo lo lo aprende o como lo lo pone el estudio
 PST162	no
-PST162	spagnolo
-PST162	spagnolo
-PST162	pero en mayoría es que tanta gente en peru está acostumbrada
-PST162	spagnolo
-PST162	a pagar con un estudio (.) no
-PST162	persona que tiene plata
-PST162	tiene hijos que han estudiado
-PST162	persona que no tiene plata praticamente (.) no
-PST162	si estudias en xx a una universidad statal
-PST162	spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ pero en mayoría es que tanta gente en peru está acostumbrada
+PST162	#_ spagnolo
+PST162	#_ a pagar con un estudio (.) no
+PST162	#_ persona que tiene plata
+PST162	#_ tiene hijos que han estudiado
+PST162	#_ persona que no tiene plata praticamente (.) no
+PST162	#si #estudias en xx a una universidad statal
+PST162	#_ spagnolo
 PST162	studiare in perù
-PST162	es una inversión es una inversión de tanta plata
-PST162	porque incluso que non
-PST162	spagnolo
-PST162	trabajamos tanto para pagar estes estudios
-PST162	trabajamos tanto lu
-PST162	spagnolo
-PST162	bien esto o xx cosa porque preferimos que nos hijos xx esten bien todo eso no
-PST162	en cambio acá es diferente
-PST162	es como que (.) xx xx mi caso
-PST162	yo lo siento un poquito mas (.) mas relajado se puede decir
-PST162	claro al principio xxx fui muy dificil encontrar un colegio
-PST162	a @roberto xx xx
-PST162	spagnolo
-PST162	y a él
-PST162	para que a dios gracias
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	o sea todo eso (.) como que a uno le da esperanza
-PST162	esperanza que que no solamente xxx xx estudio xx xx él va a poder acceder a este estudio
-PST162	va a poder acceder a un a un a una universidad o a un istituto
-PST162	xx todo eso
-PST162	para para mi por lo meno se lo mas lindo no
-PST162	porque la que nosotros no hemos tenido ello lo tienes a uno aquí
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	devo agradeser tanto a este pais que no se xx por todo
-PST162	no porque xx es diferente a lo que nosotros estábamos acostrumbrado
+PST162	#_ es una inversión es una inversión de tanta plata
+PST162	#_ porque incluso que non
+PST162	#_ spagnolo
+PST162	#trabajamos tanto #para #pagar #estes #estudios
+PST162	#trabajamos tanto lu
+PST162	#_ spagnolo
+PST162	#_ bien esto o xx cosa porque preferimos que nos hijos xx esten bien todo eso no
+PST162	#_ en cambio acá es diferente
+PST162	#_ es como que (.) xx xx mi caso
+PST162	#_ yo lo siento un poquito mas (.) mas relajado se puede decir
+PST162	#_ claro al principio xxx fui muy dificil encontrar un colegio
+PST162	#_ a @roberto xx xx
+PST162	#_ spagnolo
+PST162	#_ y a él
+PST162	#_ para que a dios gracias
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ o sea todo eso (.) como que a uno le da esperanza
+PST162	#_ esperanza que que no solamente xxx xx estudio xx xx él va a poder acceder a este estudio
+PST162	#_ va a poder acceder a un a un a una universidad o a un istituto
+PST162	#_ xx todo eso
+PST162	#_ para para mi por lo meno se lo mas lindo no
+PST162	#_ porque la que nosotros no hemos tenido ello lo tienes a uno aquí
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	devo #agradeser tanto #a #este #pais #que #no #se #xx #por #todo
+PST162	#_ no porque xx es diferente a lo que nosotros estábamos acostrumbrado
 PST165	mh mh
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
 PST164	xx
 PST165	certo
-PST162	si y y como dice @elena tambien o sea no solamente xx xx
-PST162	spagnolo
-PST162	nos da muchas formas de verdad
-PST162	al principio ella sabe quanto hemos sufrido pero
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
+PST162	#_ si y y como dice @elena tambien o sea no solamente xx xx
+PST162	#_ spagnolo
+PST162	#_ nos da muchas formas de verdad
+PST162	#_ al principio ella sabe quanto hemos sufrido pero
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
 PST166	è terribile no
-PST162	spagnolo
-PST162	es una cosa che
-PST162	spagnolo
-PST162	gracias a todos ((ride))
+PST162	#_ spagnolo
+PST162	#es una cosa che
+PST162	#_ spagnolo
+PST162	#_ gracias a todos ((ride))
 PST072	xx
 PST165	grazie a lei
 PST162	sì
@@ -1114,75 +1115,76 @@ PST160	tre volta credo nell'anno
 PST164	mh mh
 PST160	perché a~ all'inizio non imparava bene
 PST160	per la lingua penso anche
-PST160	e il mio caso è muy difficile con è diverso
+PST160	e il mio caso è #muy difficile con è diverso
 PST160	lei non c'è il papà
-PST160	de tre anni l'ha lasciato y
+PST160	#de tre anni l'ha lasciato #y
 PST160	io vado via de lavorare
 PST160	anche lei no no ha un aiuto in casa sempre sola
 PST160	sempre sola
-PST160	spagnolo
+PST160	#_ spagnolo
 PST160	lei siccome è andato qui alla scuola
 PST160	no imparava bene per la lingua
 PST160	sof~ soffriva soffriva tanto
-PST160	e per eso mi chiamava il maestro mi diceva ah tua figlia così non impara
-PST160	deve de buscar ayuda
-PST160	eh per eso sempre una buona comunicazion
-PST160	e io che ho parlado como ha successo con lei mi ha le ha aiutado anche xx insegnante l'ha aiutado mo~ molto a a
-PST160	eh anche a como le le diceva x xx un attimo a che
+PST160	e per #eso mi chiamava il maestro mi diceva ah tua figlia così non impara
+PST160	deve #de #buscar #ayuda
+PST160	eh per #eso sempre una buona comunicazion
+PST160	e io che ho parlado #como ha successo con lei mi ha le ha aiutado anche xx insegnante l'ha aiutado mo~ molto a a
+PST160	eh anche a #como le le diceva x xx un attimo a che
 PST160	eh la maestra mi ha detto che è molto brava
 PST160	che
-PST160	che l'han felicitado me han felicitado mi han detto che è è brava me dice una buona ragazza
-PST160	per ese~ per eh per questo anno sì ha recepito ayudo
+PST160	che l'han #felicitado #me han #felicitado mi han detto che è è brava me dice una buona ragazza
+PST160	per ese~ per eh per questo anno sì ha recepito #ayudo
 PST160	mia figlia con l'insegnante
 PST165	mh
 PST160	anche con
 PST160	loro tan~ anche mi han aiutato tanto
 PST160	sì
-PST160	le ha aiutato tanto nella scuola perché lei s~ de do~ dodici anni dieci anni più o meno
+PST160	le ha aiutato tanto nella scuola perché lei s~ #de do~ dodici anni dieci anni più o meno
 PST160	a lavorar lei sempre no no andava tanto bene l'escuola
 PST160	lei lavorava lavorava perché adesso
 PST160	e io no
 PST160	no
-PST160	voleva de che lei lavori tanto in perù si no che studi per esempio che fue un una idea di venire qua
-PST160	perché solo estudia~ estudi lei non lavori
-PST160	perché l'estudio è il principale para qualcuno no
+PST160	voleva #de che lei lavori tanto in perù si no che studi per esempio che #fue un una idea di venire qua
+PST160	perché solo #estudia~ estudi lei non lavori
+PST160	perché l'estudio è il principale #para qualcuno no
 PST164	eh certo
-PST160	è principale puedes trovare un lavoro puedes eh fare qualcosa con tu professione
-PST160	entonces eh eh
-PST160	en de~ de~ deciva io cos~ io così entonces per eso me sento felice qua
-PST160	tanta cosa che le ha ayudado a mia figlia
-PST160	anche a~ adesso aiuto molto molto aiuto por donde
+PST160	è principale #puedes trovare un lavoro #puedes eh fare qualcosa con tu professione
+PST160	#entonces eh eh
+PST160	en de~ de~ deciva io cos~ io così entonces per #eso me sento felice qua
+PST160	tanta cosa che le ha #ayudado a mia figlia
+PST160	anche a~ adesso aiuto molto molto aiuto #por #donde
 PST162	xxtante
-PST160	por donde he andado sempre aiuto
-PST160	anche con trovando eh tanta cosa mi ha acomodado con xx
+PST160	#por #donde #he andado sempre aiuto
+PST160	anche con trovando eh tanta cosa mi ha #acomodado con xx
 PST160	tanta cosa sì
 PST160	anche con mi figlio
 PST160	anche con le~ con lui
 PST162	oh sì mh mh mh
-PST160	esta tambien conocie~ conoscendo tanta cosa no
+PST160	#esta #tambien #conocie~ conoscendo tanta cosa no
 PST162	tante
-PST160	xx me ayuda xxx
+PST160	xx #me #ayuda xxx
 PST165	ha frequentato il corso di sì
 PST162	anche
 PST211	di italiano
-PST162	anche el
-PST162	spagnolo
+PST162	anche #el
+PST162	#_ spagnolo
 PST161	è lì
-PST162	spagnolo
+PST162	#_ spagnolo
 PST160	tambien
-PST162	spagnolo
+PST162	#_ spagnolo
+PST160	#_
 PST162	e no
-PST162	todo lo que he visto estan siempre attentos
-PST162	llamando xx preocupando por nostros hijos
+PST162	#todo #lo #que #he visto #estan #siempre attentos
+PST162	#_ llamando xx preocupando por nostros hijos
 PST160	quando nos~ quando mia figlia
-PST160	no and~ andava xx en torino
-PST160	qualcuno che la eh nos encontramos
-PST160	spagnolo
-PST160	spagnolo
-PST162	spagnolo @gisel @tere
-PST162	che vengono a perché li ayuda no
+PST160	no and~ andava xx #en torino
+PST160	qualcuno che la eh #nos encontramos
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST162	#_ spagnolo @gisel @tere
+PST162	che vengono a perché li #ayuda no
 PST165	sì sì
-PST162	spagnolo
+PST162	#_ spagnolo
 PST072	vi faccio vi faccio una domanda provocatoria
 PST072	eh visto che comunque siete da un po' qua in italia
 PST072	chi più chi meno
@@ -1195,123 +1197,124 @@ PST072	e iniziare diciamo di nuovo là
 PST072	con la vostro percorso di vita
 PST072	o
 PST072	magari vi se~ vi sentite comodi qua vorreste continuare qua
-PST160	io penso de io andare a perù però solo per vedere la famiglia
+PST160	io penso #de io andare a perù però solo per vedere la famiglia
 PST160	io me la vita lì non credo
 PST160	mia figlia è
 PST160	è di qua che deve xx sistemarse
 PST160	eh studiare lavorare qua
-PST160	penso che qua perché perù un po' de
+PST160	penso che qua perché perù un po' #de
 PST160	paura per per lei perché
-PST160	successo tanta cosa con en nostro en nostro caso
-PST160	anche io eh posso posso de andare a perù se
-PST160	per vedere mia famiglia solo per me perché io là c'ho mio papà mi hermanos
-PST160	spagnolo
-PST160	nada mas
+PST160	successo tanta cosa con #en nostro #en nostro caso
+PST160	anche io eh posso posso #de andare a perù se
+PST160	per vedere mia famiglia solo per me perché io là c'ho mio papà #mi #hermanos
+PST160	#_ spagnolo
+PST160	#_ nada mas
 PST162	anche a me
-PST162	por ahora (.) no
-PST162	spagnolo
-PST162	estoy bien aquí (.) no
+PST162	#_ por ahora (.) no
+PST162	#_ spagnolo
+PST162	#_ estoy bien aquí (.) no
 PST160	bien
-PST162	si yo me siento tranquila
+PST162	#_ si yo me siento tranquila
 PST160	xx bien acá
-PST162	spagnolo
-PST162	a inizio las personas me dicean hemos de tener tema problema de comida
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	para @roberto no pero para él si
-PST162	y pensando que yo me xx xx con una escuela para @roberto cosa que lo lo ponía bien y todo
-PST162	spagnolo
-PST162	spagnolo
-PST162	hasta que (.) después que se pasó x xx una semana
-PST162	que se encuentre el colegio
-PST162	spagnolo
-PST162	spagnolo
-PST162	spagnolo
-PST162	en tanto xx @roberto tambien y ora
-PST162	spagnolo
-PST162	spagnolo
-PST162	estamos felices aquí por ahora
-PST162	spagnolo
-PST162	((ride))
-PST162	finché todo se sisteme no que todo se sisteme los documentos
+PST162	#_ spagnolo
+PST162	a inizio #las #personas #me #dicean #hemos #de #tener #tema #problema #de #comida
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ para @roberto no pero para él si
+PST162	#_ y pensando que yo me xx xx con una escuela para @roberto cosa que lo lo ponía bien y todo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ hasta que (.) después que se pasó x xx una semana
+PST162	#_ que se encuentre el colegio
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ en tanto xx @roberto tambien y ora
+PST162	#_ spagnolo
+PST162	#_ spagnolo
+PST162	#_ estamos felices aquí por ahora
+PST162	#_ spagnolo
+PST162	#_ ((ride))
+PST162	finché #todo se sisteme no #que #todo se sisteme #los #documentos
 PST160	sì sì sì sì sì sì
-PST160	sì xx xx xx documentos
+PST160	sì xx xx xx #documentos
 PST162	anche piano piano perché se commuove
-PST162	queremos xx fare un regla
+PST162	#queremos xx fare un #regla
 PST072	certo
+PST160	#_
 PST160	eso si si
-PST162	queremos tener (.) una vida qua ordinada no
-PST162	no somos personas
-PST162	ehm malas en en he sentido de de
-PST162	de lo que es estem~ mh (.) la delincuencia no
-PST162	no somos personas malas somos personas (.) humilde y tranquilas no
-PST162	queremos trabajar lavorar
+PST162	#_ queremos tener (.) una vida qua ordinada no
+PST162	#_ no somos personas
+PST162	#_ ehm malas en en he sentido de de
+PST162	#_ de lo que es estem~ mh (.) la delincuencia no
+PST162	#_ no somos personas malas somos personas (.) humilde y tranquilas no
+PST162	#queremos #trabajar lavorar
 PST160	sì x
-PST162	spagnolo
+PST162	#_ spagnolo
 PST160	que
-PST160	ma anche yo sea mh yo xx en peru xx sea una persona muy responsable no
-PST160	spagnolo
-PST160	spagnolo
-PST160	spagnolo
-PST160	spagnolo
-PST160	spagnolo
+PST160	ma anche #yo #sea mh #yo xx #en #peru xx #sea #una #persona #muy #responsable #no
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST160	#_ spagnolo
 PST164	una fermata
 PST160	una fermata
-PST160	pero yo había pagado el el xx por una settimana
-PST160	y quello che
-PST160	spagnolo
-PST160	spagnolo
-PST160	y y se baja conmigo e me dice
-PST160	tu biglietto no está pagado le digo está pagado mira mi recibo que está pagado
-PST160	lo xx pagado ahora
-PST160	spagnolo
-PST162	spagnolo
-PST160	era sábado
-PST160	y pues que esto era para a partir de lunes ((ride))
+PST160	#pero #yo #había #pagado #el #el xx #por una settimana
+PST160	#y quello che
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST160	#_ y y se baja conmigo e me dice
+PST160	#tu biglietto #no #está #pagado #le #digo #está #pagado #mira #mi #recibo #que #está #pagado
+PST160	#_ lo xx pagado ahora
+PST160	#_ spagnolo
+PST162	#_ spagnolo
+PST160	#_ era sábado
+PST160	#_ y pues que esto era para a partir de lunes ((ride))
 PST162	ah
-PST160	no era desde el sábado
-PST160	spagnolo
-PST160	spagnolo
-PST160	spagnolo
-PST160	spagnolo
-PST160	spagnolo
+PST160	#_ no era desde el sábado
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST160	#_ spagnolo
+PST160	#_ spagnolo
 PST160	no sì io pago io pago ho detto
-PST160	a pagar treinta y ocho
+PST160	#_ a pagar treinta y ocho
 PST162	oh
-PST160	pero mi culpa sino que yo había recargado yo siempre recargo todo eso entonces yo no quiero tener problemas
-PST160	spagnolo
-PST160	trabajar estare xx aquí
-PST160	eh contribuire algo aquí
-PST160	io son la primera che che contribuisce
-PST160	es (.) lo justo
-PST160	xx xxxx en mi caso tengo un documento
-PST160	o trabaja xx xx
-PST160	me gustaría que me dé el pensión pero de algo que yo he aportado
-PST160	no por algo que yo no ech~
-PST160	no (.) entonces uno que ganársela como se dice
-PST160	eh para poder proseguir
-PST160	eso es lo que yo siempre digo
+PST160	#_ pero mi culpa sino que yo había recargado yo siempre recargo todo eso entonces yo no quiero tener problemas
+PST160	#_ spagnolo
+PST160	#_ trabajar estare xx aquí
+PST160	eh contribuire #algo #aquí
+PST160	io son la #primera che che contribuisce
+PST160	#_ es (.) lo justo
+PST160	#_ xx xxxx en mi caso tengo un documento
+PST160	#_ o trabaja xx xx
+PST160	#_ me gustaría que me dé el pensión pero de algo que yo he aportado
+PST160	#_ no por algo que yo no ech~
+PST160	#_ no (.) entonces uno que ganársela como se dice
+PST160	eh #para #poder proseguir
+PST160	#_ eso es lo que yo siempre digo
 PST160	vero
-PST161	spagnolo
-PST161	spagnolo
+PST161	#_ spagnolo
+PST161	#_ spagnolo
 PST161	pagare sui mezzi
-PST160	si yo tengo eh la tessera
-PST160	sino que no creía que yo había pagado por una settimana
-PST161	ah vale
+PST160	si #yo #tengo eh la tessera
+PST160	#_ sino que no creía que yo había pagado por una settimana
+PST161	ah #vale
 PST160	que se activaba porque yo no salgo todos los días solamente el weekend
-PST160	pero por esos días por esa semana sí había pagado no sé qué cosa se va a hacer esa semana
-PST160	spagnolo
-PST160	entonces e esto no se había activado desde el sábado
-PST160	no se había activado se xx activado de el lune xx yo
-PST160	spagnolo
-PST161	spagnolo
-PST162	spagnolo
+PST160	#_ pero por esos días por esa semana sí había pagado no sé qué cosa se va a hacer esa semana
+PST160	#_ spagnolo
+PST160	#_ entonces e esto no se había activado desde el sábado
+PST160	#_ no se había activado se xx activado de el lune xx yo
+PST160	#_ spagnolo
+PST161	#_ spagnolo
+PST162	#_ spagnolo
 PST166	volete finire
 PST165	sì
 PST166	magari dico due cosine veloci veloci
@@ -1321,7 +1324,7 @@ PST165	certo
 PST072	va bene grazie
 PST164	noi iniziamo
 PST165	sì noi prego
-PST160	spagnolo
+PST160	#_ spagnolo
 PST162	sì
 PST166	se vi fa piacere vi dico ancora una cosina veloce
 PST166	rispetto a quello che osservo io nei ragazzi
@@ -1418,8 +1421,8 @@ PST166	hanno l'idea di voler far proseguire i propri figli giustissimo
 PST166	ma magari sbagliano il tipo di scuola
 PST166	e poi i ragazzi si trovano malissimo
 PST166	quindi
-PST161	logicamente noi come genitori quando abbiamo l'esigenza invece de fare l'ayudo
-PST161	facciamo l'ayudo però a peggiorare xx per loro proprio eh
+PST161	logicamente noi come genitori quando abbiamo l'esigenza invece #de fare l'#ayudo
+PST161	facciamo l'#ayudo però a peggiorare xx per loro proprio eh
 PST161	eh
 PST161	del suo pensiero la sua persona ma
 PST161	eh
@@ -1427,13 +1430,13 @@ PST161	io all'inizio esigeva tanto a mio figlio
 PST166	mh
 PST161	ma perché continui a leggere
 PST161	tu studia mamma io faccio in un certo punto lui ha iniziato a piangere
-PST161	fino a xx non riusciva de fare però un esercizio
-PST161	bastava uno mi mancava de fare uno
+PST161	fino a xx non riusciva #de fare però un esercizio
+PST161	bastava uno mi mancava #de fare uno
 PST166	sì
 PST161	e non riusciva a farlo mamma sono stanco
 PST161	e domani andare a dormire a classe di~ diceva
 PST161	praticamente era troppo esigente
-PST161	e dopo anche l'examen
+PST161	e dopo anche l'#examen
 PST161	e di più che lui si esigeva anche io lo esigevo
 PST161	lui si esige le il docente lo esige
 PST166	mh
@@ -1464,41 +1467,41 @@ PST161	e rimane indietro rimane indietro rimane in~ e quindi non solo una materi
 PST166	mh
 PST161	diciamo se metà della classe è indietro diciamo che il docente non sono capacità di
 PST161	però basta uno o due c'è il problema di di del ragazzo della ragazzina che
-PST161	noi dobbiamo come genitori andare dietro de loro
+PST161	noi dobbiamo come genitori andare dietro #de loro
 PST161	magari quelle situazioni che siamo di lavoro i genitori che che stanno lavorando
 PST161	non ha~ no hai tanto confronto
 PST161	qualcuno i ragazzi si lasciano perdere
 PST166	certo
 PST161	lasciano e almeno
 PST161	penso io che non siamo tutti che lasciamo i figli così per strada
-PST161	però mi ha capito de de rimanere ancora dietro da lui
+PST161	però mi ha capito #de #de rimanere ancora dietro da lui
 PST161	e finalmente penso io che abbiamo trovato il po~ il posto giusto
 PST166	mh
 PST161	e fino a oggi lui già è contento che inizia a settembre dal primo anno di nuovo da capo
 PST161	eh per imparare di più
-PST161	è più contento perché va la teoria con la pratica lo que lui più gli piace la la pratica però non si fa niente se non c'è la teoria
+PST161	è più contento perché va la teoria con la pratica #lo #que lui più gli piace la la pratica però non si fa niente se non c'è la teoria
 PST166	mh
 PST161	ora è contentissimo perché già
-PST161	ha trovato finalmente la sua risposta a lo que lui voleva
+PST161	ha trovato finalmente la sua risposta #a #lo #que lui voleva
 PST166	sì perché poi noi ri~ cioè non dimentichiamoci che
 PST166	in tutto questo i ragazzi sono adolescenti
 PST166	cioè comunque stanno stanno attraversando un periodo che è complicato
 PST161	loro sono giovani
 PST166	per loro
-PST161	per loro en el en el tempo del suo corattere
+PST161	per loro #en #el #en #el tempo del suo corattere
 PST166	in assoluto
-PST161	en la familia che abbiamo tante appunto perché a volta eh
+PST161	#en #la #familia che abbiamo tante appunto perché a volta eh
 PST161	si tiene confronti con il papà
 PST161	qualcuno che è il papà magari è il carattere del papà è il carattere del figlio della figlia che a volta
 PST166	mh
 PST161	quando xx responderti male
 PST166	sì
 PST161	o ti fanno la cattiveria anche di farti male a te
-PST161	sembrano de rialzarti anche la voce e mancarti di rispetto
+PST161	sembrano #de rialzarti anche la voce e mancarti di rispetto
 PST161	e uno convie~ a un certo punto ce lo permettiamo però dopo non possiamo continuar a lasciarlo perdere
 PST161	o passare tante cosa no
-PST161	nella casa del rispetto penso que es lo que noi non dobbiamo perdere
-PST161	tanto per po~ por per nostri figli anche da loro per noi
+PST161	nella casa del rispetto penso que #es #lo #que noi non dobbiamo perdere
+PST161	tanto per #po~ #por per nostri figli anche da loro per noi
 PST161	non dobbiamo fare non dobbiamo permetterselo mai
 PST166	sì quello che volevo dirvi era
 PST166	molto
@@ -1533,13 +1536,13 @@ PST166	mano a mano fino a quelle più pratiche dove magari invece
 PST166	è eh
 PST161	poi anche questo questo che che xxxx
 PST166	è più semplice per certi versi
-PST161	strada giusta diciamo perché en la terza media
+PST161	strada giusta diciamo perché #en la terza media
 PST161	i ragazzi
-PST161	fanno un un docente un examen diciamo perché fanno nella prova
+PST161	fanno un un docente un #examen diciamo perché fanno nella prova
 PST166	mh
 PST161	e consigliano cosa devono studiare quale sarebbe migliore l'estrada
 PST161	e mio caso
-PST161	xxto la mia ignoranza di non finire de leggere tutti i fogli
+PST161	xxto la mia ignoranza di non finire #de leggere tutti i fogli
 PST161	alla fine di tutti i fogli era praticamente questo che adesso mio figlio va a iniziare
 PST166	vedi
 PST161	e io ah ah ah ah
@@ -1547,13 +1550,13 @@ PST166	cioè loro avevano già pensato
 PST161	già anzi quando mio figlio aveva detto
 PST161	no voglio andare al liceo perché
 PST161	ma ho visto sei sicuro ma è troppo forte
-PST161	ma io ti co~ ti consiglierò de andare a questo xx che sono bravissime
+PST161	ma io ti co~ ti consiglierò #de andare a questo xx che sono bravissime
 PST161	e tu sei troppo capacità dove che hai tutto in mano per fare queste cose
 PST166	sì
-PST161	lui non diceva anche se aveva dimenticato lì sei guidato de eh da un xx diciamo
+PST161	lui non diceva anche se aveva dimenticato lì sei guidato #de eh da un xx diciamo
 PST161	che aveva visto
-PST161	che voleva fa~ essere medico forense e per questa de scelta de lui de fare il liceo
-PST161	de scientifico
+PST161	che voleva fa~ essere medico forense e per questa #de scelta #de lui #de fare il liceo
+PST161	#de scientifico
 PST166	scientifico
 PST161	ica
 PST166	sì sì sì sì
@@ -1565,19 +1568,19 @@ PST166	chiudere le ali di chi vuole volare alto
 PST166	non voglio dire questo
 PST166	voglio dire che bisogna fare attenzione e capire tutte le possibilità
 PST166	perché se si sbaglia poi i ragazzi stanno male
-PST161	se lamentano
+PST161	#se lamentano
 PST166	solo questo
 PST166	non è per mettervi paura eh
 PST162	mh
 PST161	è meglio magari prendersi un pochino di tempo
 PST166	sì sì
 PST161	e leggere tutta la documentazione
-PST161	quando abbiamo dei ragazzi che stanno f~ finendo la terza media de leggere tutta la documentazione che danno
+PST161	quando abbiamo dei ragazzi che stanno f~ finendo la terza media #de leggere tutta la documentazione che danno
 PST161	l'ultimo giorno che fanno le
-PST161	examen totale
+PST161	#examen totale
 PST161	te danno tutta la gradazione anche con il voto che ha uscito
 PST161	eh dobbiamo leggere tutta
-PST161	eh mio sbaglio nel mio errore è stato che no he no ho finito da leggere tutta
+PST161	eh mio sbaglio nel mio errore è stato che no #he no ho finito da leggere tutta
 PST166	mh
 PST161	ho visto fino al voto
 PST161	e mi sono accontentata e sono andata a celebrare con mio figlio perché è finita finalmente la terza media
@@ -1589,14 +1592,14 @@ PST166	certo
 PST160	mh
 PST161	noi abbiamo detto va bene
 PST161	xx scegliere questo no va bene
-PST161	noi pagamos questo questo e se farlo possibile eh interamente de
+PST161	noi #pagamos questo questo e se farlo possibile eh interamente #de
 PST161	continuere questa strada che lui vuole
-PST161	però finalmente in metà de anno lui si rende conto de che non non ce la faccia più
+PST161	però finalmente in metà #de anno lui si rende conto #de che non non ce la faccia più
 PST161	mamma non è che io non ce l'ho la voglia solo che non non riesco a andare avanti
 PST161	sempre rimango indietro
 PST166	mh
 PST161	e e sono l'unico pensa
-PST161	en realidad sono due nella classe
+PST161	#en #realidad sono due nella classe
 PST161	e sono due peruviani mio figlio e un altro
 PST166	mh sì
 PST161	e quindi è un problema veramente grande poi per noi
@@ -1625,18 +1628,18 @@ PST163	due
 PST166	due anni
 PST163	due anni
 PST161	sono sette anni che
-PST161	per raccontar la mia historia ma mio
+PST161	per raccontar la mia #historia ma mio
 PST161	vi faccio piangere tutte
 PST161	no perché no he stato facile
 PST161	iniziare da capo tutto qua
 PST166	mh
-PST161	io sono senza la mia famiglia diretta de de sangue no
+PST161	io sono senza la mia famiglia diretta #de #de sangue no
 PST161	solo i miei figli sono il mio diretto famiglia e
 PST161	e mio marito che sì ha la mamma e i fratelli qua
 PST161	però in teoria io ho famiglia
 PST161	eh grande da me non c'è qua
 PST211	mh mh
-PST161	per me è molto difficile di di di cercare un ayudo proprio di famiglia non posso
+PST161	per me è molto difficile di di di cercare un #ayudo proprio di famiglia non posso
 PST211	mh mh
 PST161	perché a volte succede che la famiglia del marito e la solo la famiglia del marito e non ti
 PST161	non ti guardano lo stesso quindi
@@ -1646,22 +1649,22 @@ PST211	mh mh
 PST161	eh per me è stato molto molto dura
 PST161	estare s~ da sola qui praticamente
 PST211	ah ah
-PST161	perché el primo anno anche la prima volta
+PST161	perché #el primo anno anche la prima volta
 PST161	ho avuto un episodio che ho passato la prima il primo natale fuori con i due figli perché io ho arrivato qua n loro due
 PST161	e arre~ ho fatto il natale
 PST161	fuori casa
-PST161	e fino alle due che mi hanno chiamato la la sorella de de papà
+PST161	e fino alle due che mi hanno chiamato la la sorella #de #de papà
 PST161	per andare alla cena i miei figli a casa eh xx xxx
-PST161	è un historia molto molto che
+PST161	è un #historia molto molto che
 PST211	mh mh
 PST161	mi fa sentire male però poi
 PST161	passato il tempo devo lasciare
 PST166	mh mh
 PST161	indietro perché se no non vado avanti
 PST211	mh
-PST161	he preferido
+PST161	#_ he preferido
 PST161	ho deciso di con i famigliari di papà di allontanare perché questo
-PST161	a me mi fa molto xx mal
+PST161	a me mi fa molto xx #mal
 PST166	mh
 PST161	così eh
 PST211	e tuo figlio quanti anni aveva quando siete venuti qua
@@ -1673,10 +1676,10 @@ PST161	come dicevamo
 PST166	mh mh eh sì
 PST161	quindici anni e
 PST161	il suo pensiero è diventato diverso
-PST161	como dire adesso sono cresciuto e un po' il confronto come il papà perché no
+PST161	#como dire adesso sono cresciuto e un po' il confronto come il papà perché no
 PST166	mh mh
 PST161	non sono piccolo adesso voglio dire qualcosa a mia mamma
-PST161	lo dice anche a me è un po' como que
+PST161	lo dice anche a me è un po' #como que
 PST211	certo
 PST161	trova me si mette a xx non solo a me anche ai miei figli quindi
 PST161	posso dire che non sono tanto da sola
@@ -1690,22 +1693,22 @@ PST160	e mio figlio ventiquattro
 PST211	okay e cosa fanno
 PST211	la figlia che scuola fa
 PST160	eh la superiore la seconda superiore
-PST160	e da in questo anno lei ha de~ deciso de
-PST160	de mh
+PST160	e da in questo anno lei ha de~ deciso #de
+PST160	#de mh
 PST160	dare l'al~ eh altro
-PST160	anno del secundo de de superiori
+PST160	anno del #secundo #de #de superiori
 PST211	mh
 PST162	anche quello che
-PST160	perché non se sente bene de de andare avanti
+PST160	perché non se sente bene #de #de andare avanti
 PST160	perché non può imparare di più l'italiano
 PST160	francese e inglese
 PST166	cosa che cosa fa
 PST166	cosa fa lei adesso
-PST160	è administración
+PST160	è #administración
 PST160	economia e finanza
 PST166	ah ti ricordi il eh l~ la scuola
-PST160	el la scuola
-PST160	sì de piossasco
+PST160	#el la scuola
+PST160	sì #de piossasco
 PST166	ah piossasco non conosco
 PST160	eh a orbassano orbassano
 PST162	no non è
@@ -1714,10 +1717,10 @@ PST160	orbassano
 PST166	ed è un istituto tecnico giusto
 PST160	sì
 PST211	e tuo figlio invece
-PST160	mio figlio eh está imparando prima la
+PST160	mio figlio eh #está imparando prima la
 PST160	la lingua e a settembreva al ci pi a
 PST211	mh mh
-PST160	credo sì sia xx credo che espero
+PST160	credo sì sia xx credo che #espero
 PST166	sì perché hai detto che era torino sud
 PST211	e quindi loro un po' avevano studiato già in perù superiori avevano iniziato le supe~
 PST160	ah sì fino all'università
@@ -1725,28 +1728,28 @@ PST160	sì
 PST211	ah e l'università
 PST160	in un istituto tecnico prima e dopo l'università
 PST211	e che cosa faceva all'università
-PST160	eh l'università di indus~ eh industria me~ meccanica d'industria creo que non mi ricordo bene
+PST160	eh l'università di indus~ eh industria me~ meccanica d'industria #creo #que non mi ricordo bene
 PST211	ah ah
 PST211	ah
-PST160	sì y non l'ha finito
+PST160	sì #y non l'ha finito
 PST160	per lui anda andato due anni
-PST160	y non lo ha finito
+PST160	#y non lo ha finito
 PST211	mh mh
-PST160	la universidad
+PST160	#_ la universidad
 PST211	gli piacerebbe riniziare l'università
 PST160	sì sì
 PST160	credo che sì
 PST211	ah ah
-PST160	vediamo dopo de la del ci pi a
-PST160	que su decisión
+PST160	vediamo dopo #de la del ci pi a
+PST160	#_ que su decisión
 PST211	eh sì
-PST160	de lui non lo so
+PST160	#de lui non lo so
 PST211	mh mh
-PST160	que me dicea
+PST160	#_ que me dicea
 PST211	eh sì
 PST160	perché
 PST160	per lui eh
-PST160	vuole de lavorare
+PST160	vuole #de lavorare
 PST161	x xx xxx
 PST211	sì perché per entrare all'università
 PST211	serve il diploma superiore
@@ -1776,8 +1779,8 @@ PST160	mh mh
 PST211	perché se una persona vuole ricominciare l'università
 PST211	è possibile farlo comunque
 PST160	mh sì
-PST160	sì è interessado così che lui deve de estudiare anche
-PST160	una xx igual
+PST160	sì è interessado così che lui deve #de estudiare anche
+PST160	#_ una xx igual
 PST160	iguale che studi o lavori
 PST166	sappi che essendo che lui è maggiorenne
 PST166	può farlo serale
@@ -1799,7 +1802,7 @@ PST166	esatto
 PST166	quella è una possibilità
 PST160	mh
 PST166	i com~
-PST160	y dove posso trovare questa informazione
+PST160	#y dove posso trovare questa informazione
 PST166	ci sono diciamo
 PST166	alcuni scuole secondarie di secondo grado alcune scuole superiori
 PST166	che hanno il percorso serale
@@ -1811,7 +1814,7 @@ PST166	di maturità che serve appunto per entrare nell'università
 PST166	senza il diploma di maturità non si può entrare
 PST161	scusami che ti interrompo
 PST166	sì
-PST161	io he questo della escuela superiore
+PST161	io #he questo della #escuela superiore
 PST161	si non la
 PST161	solo per gli stranieri che arrivano x avere diciotto anni lo fanno questo
 PST166	no sono per per chiunque italiani e stranieri
@@ -1831,7 +1834,7 @@ PST211	quindi ad esempio tuo figlio sta facendo le scuole superiori
 PST211	finito quello può andare all'università
 PST161	può entrare direttamente
 PST211	sì
-PST161	dopo de cinque anni
+PST161	dopo #de cinque anni
 PST166	dopo cinque anni se cominci diciamo da minorenne
 PST211	sì
 PST166	normalmente inizia a quindici anni e fino a diciannove
@@ -1844,7 +1847,7 @@ PST161	ah okay
 PST166	eh
 PST166	quindi
 PST166	per andare nella sc~ nell'università
-PST161	xx devo farla de tre anni
+PST161	xx devo farla #de tre anni
 PST166	devi avere esatto
 PST166	che in pratica
 PST166	la stessa durata nel senso che se lui fa
@@ -1862,7 +1865,7 @@ PST161	diciassette diciassette diciotto
 PST166	devono essere adulti
 PST160	per adulti
 PST161	allora arriva con diciotto anni continuo poi dopo
-PST160	que ha cumplido diciotto
+PST160	#que #ha #cumplido diciotto
 PST166	se vuole si può fare così
 PST160	xx diciotto
 PST166	sì

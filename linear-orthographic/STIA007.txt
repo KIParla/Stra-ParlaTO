@@ -1,8 +1,8 @@
 PST205	fai pure
-PST015	bismillāh
+PST015	#_ bismillāh
 PST205	allora iniziamo l'intervista
 PST205	ehm come sei arrivato in italia e poi a torino
-PST015	bismillāh sono arrivato in italia
+PST015	#bismillāh sono arrivato in italia
 PST015	come sono arrivato
 PST205	sì
 PST015	vuoi proprio sapere mh cioè di preciso come
@@ -31,11 +31,11 @@ PST205	okay
 PST015	arrivato in italia come arrivato son passato dalla dogana con dei documenti falsi
 PST015	poi mi son la f~ me la sono fatta per strada per la spagna la francia in macchina non è che ti dico son venuto a piedi eh
 PST015	sai ho avuto un bellissimo viaggio insomma anche se ero piccolo e non lo volevo cioè perché quando sono arrivato a ad immigrare qualcosa mi teneva all'interno che non riuscivo a lasciare i miei
-PST015	però alla fine è andato tutto bene meno male ḥamdu li-llah w-tǝrǝkt l-wālidīn sono arrivato qua
+PST015	però alla fine è andato tutto bene meno male #ḥamdu #li-llah #w-tǝrǝkt #l-wālidīn sono arrivato qua
 PST015	s~ ho studiato non ho seguito la brutta la malavita insomma la brutta strada son rimasto nella strada giusta e finché non mi hai incontrato p~ per
 PST015	comunque mi son fatto la spagna la francia poi sono arrivato a torino son rimasto qua a torino finché un giorno ero da qualche parente cioè un qualche conoscente de~ del mio papà finché non mi ha beccato la polizia per strada
 PST015	mi hanno portato cioè a fare le impronte e da lì ho mi hanno portato in comunità e lì è cominciato il mio percorso comunità studiavo finito gli studi sono diventato come si dice
-PST015	wāḥd lī ḥ~ gǝdd xxx ǝh non mi veniva il termine italiano
+PST015	#wāḥd #lī #ḥ~ #gǝdd xxx ǝh non mi veniva il termine italiano
 PST205	ah cioè un come dire una persona di tutto punto
 PST015	okay comunque m che faccio tutto da me insomma mi son trovato una casa e
 PST205	sì
@@ -81,11 +81,11 @@ PST015	anche adesso ci sto p~ ci penso moltissime volte
 PST205	eh quali lingue si parlano nel tuo paese di origine
 PST205	e in~ tutte le lingue che si parlano nel tuo paese di origine
 PST015	nel mio paese di origine allora parliamo l'arabo classico quella è la nostra prima lingua insomma la lingua del nostro eh libro sacro che è il corano
-PST015	il secondo c'è l~ l~ l~ dārija e che possiamo dire che è un dialetto che si è creato l'essere arabo in marocco tra la lingua araba e la lingua francese
-PST015	insomma la lingua latina non solo la lingua francese o abbiamo la nostra dārija cioè l l~ l~ il nostro dialetto arabo
+PST015	il secondo c'è l~ l~ l~ #dārija e che possiamo dire che è un dialetto che si è creato l'essere arabo in marocco tra la lingua araba e la lingua francese
+PST015	insomma la lingua latina non solo la lingua francese o abbiamo la nostra #dārija cioè l l~ l~ il nostro dialetto arabo
 PST015	è un dialetto preso un po' dal francese un po' dal portoghese un po' dallo spagnolo un po' dall'arabo e mischiate le lingue
 PST015	come sta succedendo anche qua in italia perché c'è l'italiano c'è l'arabo e poi c'è l'arabo italiano
-PST015	ci sono alcune parole che eh come si dice ṭaḥrē~ ṭaḥrīf come lo possiamo chiamare n~
+PST015	ci sono alcune parole che eh come si dice #ṭaḥrē~ #ṭaḥrīf come lo possiamo chiamare n~
 PST205	sembrano
 PST205	eh in linguistica viene chiamato contatto linguistico
 PST015	contatto linguistico bravissimo e quando sommi una parola con l'altra cioè per farti capire meglio
@@ -97,7 +97,7 @@ PST015	io conosco l'arabo ma non ho ancora finito le lingue che parlav~ che parl
 PST015	quindi io capisco l~ l~ l~ il francese ho qualche difficoltà a rispondere ma perché m~ eh come si dice
 PST015	la lingua italiana è troppo dolce n~ non mi insomma mi eh mi blocca non riesco a rispondere in francese perché se no mi saltano via le parole in italiano
 PST015	eh l~ l~ l~ quindi lo capisco rispondere un po' di meno
-PST015	l~ l~ l~ il dialetto cioè la l~ il dārija capisco il berbero ma poche parole qualche parolina così per come magari un italiano capisce l'inglese insomma
+PST015	l~ l~ l~ il dialetto cioè la l~ il #dārija capisco il berbero ma poche parole qualche parolina così per come magari un italiano capisce l'inglese insomma
 PST205	sì
 PST015	dice qualche parolina o qualcosa che vede scritto
 PST015	qualche parola mondiale come da noi lì magari qualche parola in in berbero è conosciuta in tutto il marocco la so
@@ -114,7 +114,7 @@ PST205	quindi più vocabolario
 PST015	più vocabolario però ci siamo soffermati sul livello capibile insomma
 PST205	eh come l'hai imparata la lingua italiana
 PST015	per prima cosa l'ho imparata a scuola quando ho iniziato ad andare a scuola e ho iniziato a imparare la grammatica perché già quella francese facevamo xxxx e quindi io bastavo che invertivo le cose okay
-PST015	je io eh tu tu capito invertivo le cose e iniziavo a imparare cioè bastava eh dovevo solo imparare la pronuncia
+PST015	#je io eh #tu tu capito invertivo le cose e iniziavo a imparare cioè bastava eh dovevo solo imparare la pronuncia
 PST015	e così ho iniziato a impararla per s~ scuola poi per strada in giro con gli amici sai
 PST015	inizi inizi come si dice a dialogare
 PST205	a socializzare
@@ -153,7 +153,7 @@ PST015	se invece parla già un altra lingua francese o inglese o qualcosa riesci
 PST205	certo ehm
 PST015	ti dico questo paese è molto sociale
 PST015	perché a me è capitato di chiedere informazioni in altri paesi
-PST015	ad esempio in francia se hai di fronte un francese se non ti esprimi megl~ se non ti esprimi bene nella lingua francese quello non ti guarda in faccia cioè ti dice eh je ne sais pas sai nen
+PST015	ad esempio in francia se hai di fronte un francese se non ti esprimi megl~ se non ti esprimi bene nella lingua francese quello non ti guarda in faccia cioè ti dice eh #je #ne #sais #pas #sai #nen
 PST205	quindi questo è un come dire un van~ un vantaggio
 PST015	un vantaggio qua sì perché io l'ho vissuto e lo continuo ancora a vivere
 PST205	dell'italia
@@ -208,7 +208,7 @@ PST205	ehm torneresti a vivere nel tuo paese
 PST015	sì
 PST205	ehm con quali motivazioni
 PST015	io ho i miei ancora laggiù
-PST015	i miei i fratelli tutto quindi io non ho avuto come si dice eh non ho avuto dyǝl wālīda
+PST015	i miei i fratelli tutto quindi io non ho avuto come si dice eh non ho avuto #dyǝl #wālīda
 PST205	quindi non hai vissuto la tua infanzia
 PST015	n n~
 PST015	non ho vissuto la mia infanzia con i miei come avrei voluto cioè praticamente ho vissuto pochissimo
@@ -254,7 +254,7 @@ PST205	eri ancora piccolo eh che lavoro fai adesso
 PST015	comunque sì lavoravo a casa mia ma è casa mia non è un lavoro quello eh cioè alla fine la vita da da campagnolo è quella deve aiutare a casa
 PST015	non puoi non far niente io vabbè fa~ ho fatto ho pascolato le pecore ad esempio
 PST015	ho fatto il pastore da piccolo studiavo mentre andavo dietro alle pecore guardavo le mucche
-PST015	e~ domino i cavalli sono un cavaliere vado cioè sai quelle l~ l~ l~ il gioco della fantasia el-xayl l sì sa i io ce l'ho il xayl a casa mia
+PST015	e~ domino i cavalli sono un cavaliere vado cioè sai quelle l~ l~ l~ il gioco della fantasia #el-xayl l sì sa i io ce l'ho il #xayl a casa mia
 PST205	ah certo certo sì sì
 PST015	c'ho i cavalli
 PST205	cavallo arabo
@@ -299,7 +299,7 @@ PST205	okay eh cosa pensi dell'italia e di torino
 PST015	è un bellissimo paese eh secondo me è il paese è il sogno di tutti
 PST015	perché è un paese
 PST015	è un paese buono
-PST015	bismillāh xxx
+PST015	#_ bismillāh xxx
 PST015	insomma è un bellissimo paese
 PST015	secondo me tutti vorrebbero arrivare in italia ma chiunque viene in italia ma magari solo per vacanza solo per vedere
 PST015	al cibo al modo di vivere eh al l'avanzamento della cultura insomma
@@ -314,7 +314,7 @@ PST015	cosa mi piace della città tutto il resto magari solo andare in giro inso
 PST015	non so mi piace la squadra tutte e due le squadre eh non faccio differenze
 PST015	perché gioco a calcio ma non tifo simpatizzo
 PST205	okay
-PST015	bismillāh xx
+PST015	#_ bismillāh xx
 PST205	eh mh cosa pensi cioè c~ come pensi che sia cambiata torino negli anni è migliorata
 PST015	mah ti dico non saprei dirti in questo perché non sono cioè per un po' di anni non ho più vissuto a torino saranno otto nove anni adesso che non vivo più a torino ci vengo solo a girare
 PST015	che che è cambiata è cambiata perché adesso vedi molte più nazionalità in questa città
@@ -331,7 +331,7 @@ PST015	facili o in un batter d'occhio e non
 PST205	non va bene
 PST015	non va bene non va per niente bene anzi bisogna studiare inserirsi cercare un lavoro ti aiuti e aiuti la società
 PST015	se invece segui la vita criminale magari non ti aiuti e non aiuti neanche la società rovini delle persone ti ro~ rovini te stesso perché non non l'avrai mai vinta facile
-PST015	le avrai accomunati facili ma non hai vinto la vita facile anzi ti sei solo come si dice non riesco a trovare la spiegazione bghīt ghīr ngull-ik bǝllī ghādi ghīr t-rovīni rās-k
+PST015	le avrai accomunati facili ma non hai vinto la vita facile anzi ti sei solo come si dice non riesco a trovare la spiegazione #bghīt #ghīr #ngull-ik #bǝllī #ghādi #ghīr #t-rovīni #rās-k
 PST205	ah sì eh
 PST015	perché non sono soldi puliti alla fine non sono soldi buoni
 PST205	eh ce~ cercando di rovinare la società rovinerai solo te stesso
@@ -411,7 +411,7 @@ PST015	perch~
 PST015	sì perché la guardo poco
 PST015	perché secondo me è una cosa che che disturba
 PST015	insomma che
-PST015	è una cosa xx tǝsserb-ik lhayātk cosa vuol dire eh un termine giusto dimmi
+PST015	è una cosa xx #tǝsserb-ik lhayātk cosa vuol dire eh un termine giusto dimmi
 PST205	quindi eh ti ti dis~ ti distoglie dal dai veri problemi della vita
 PST015	bravissimo
 PST015	è una cosa che è solo immagine

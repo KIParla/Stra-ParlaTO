@@ -50,7 +50,7 @@ PST083	metti caso eh devi andare a casa di qualcuno a fare l'intervista tu devi 
 PST093	sì
 PST085	madonna mia
 PST083	cioè vabbè ora non pensare chissà che cosa di
-PST083	oppure che ne so ehm vrem să mergem la alberiană per dirti sai il negozio qua di fiancoxxx
+PST083	oppure che ne so ehm #vrem #să #mergem #la #alberiană per dirti sai il negozio qua di fiancoxxx
 PST085	sì sì sì sì
 PST083	che vuoi fargli l'intervista tu vai a parlare con lui o lo chiami che ne so io gli dici senti noi vorremo venire a fare questo questo e quest'altro sei d'accordo oppure no
 PST085	mh penso
@@ -92,7 +92,7 @@ PST083	perché alcuni
 PST083	i~ io so che ti chiami
 PST083	cioè sapevo che ti chiamavi no
 PST083	però non so se ti chiama e quindi ho detto oddio io per ora ho sempre sbagliato il suo nome e allora ho pensato un attimo
-PST085	don't worry ho messo una e
+PST085	#don't #worry ho messo una e
 PST093	sì sì va bene
 PST085	cambia tutto
 PST083	eh poi
@@ -151,14 +151,14 @@ PST085	no sì sì sì
 PST083	mh
 PST083	poi tipo come descrizione potremmo mettere che cosa c'è xx in questa scena
 PST083	che eh
-PST083	ci siamo noi che siamo quest'ansamblu
+PST083	ci siamo noi che siamo quest' #ansamblu
 PST083	mh qua a torino che appunto
 PST083	eh si impegna nel mantenere la tradizione
 PST083	romena tramite appunto quelle che sono una parte della tradi~ cioè del folclore ovvero i balli
 PST083	eh appunto che cioè lo svolgimento di un ballo insomma
 PST085	sì
 PST083	poi come persone
-PST083	appunto ansamblu cioè non ti metti a mettere tu~ tutti i nomi perché sarebbe complicato però comunque presso il
+PST083	appunto #ansamblu cioè non ti metti a mettere tu~ tutti i nomi perché sarebbe complicato però comunque presso il
 PST083	e poi eh la ocation cioè dipende cioè ipoteticamente forse magari in un
 PST083	teatro metti che se è uno spettacolo se no se xx
 PST083	se tipo decidessimo di farle qua in sala invece
@@ -223,22 +223,22 @@ PST083	balli rumeni
 PST083	poi descrizione che cosa succede in questa scena
 PST083	un gruppo di
 PST093	adolescenti
-PST083	adolescent~ cioè l'ansamblu folclor~ l'ansamblu
+PST083	adolescent~ cioè l'#ansamblu #folclor~ l'#ansamblu
 PST085	sembra tipo uno di uno di quei libri un gruppo di adolescenti
 PST083	eh quindi
 PST083	ehm
-PST085	alcuni ragazzi dell'ansamblu che ballano tipo
-PST085	molto easy e poi mh lo sviluppiamo a parole
+PST085	alcuni ragazzi dell'#ansamblu che ballano tipo
+PST085	molto #easy e poi mh lo sviluppiamo a parole
 PST085	perché qua dobbiamo buttare solamente un'idea
 PST085	e poi sviluppiamo a parole secondo me
 PST093	però non dire alcuni di' solamente ragazzi
-PST083	l'ansamblu e basta
+PST083	l'#ansamblu e basta
 PST083	eh
 PST093	ah ma registra
 PST085	mh mh
 PST083	sì
 PST085	mi sento~ mi è entrata una cosa stratosferica nell'occhio
-PST083	i gruppi di ragazzi dell'ansamblu
+PST083	i gruppi di ragazzi dell'#ansamblu
 PST083	eh
 PST083	ballano
 PST085	i ragazzi
@@ -248,10 +248,10 @@ PST083	ballano
 PST083	eh dipende cioè questo non so
 PST083	mh
 PST083	scegliamo un ballo a caso
-PST083	che ne so xxxx xxx
+PST083	che ne so #xxxx #xxx
 PST083	non penso sia in realtà cosi rilevante
 PST085	ma che delicatezza c'avete
-PST083	iubirea mea dragostea mea sângele meu
+PST083	#_ iubirea mea dragostea mea sângele meu
 PST093	xxx
 PST083	ballano in un spett~ ad un spettacolo o in uno spettacolo
 PST093	ad un s~ in un spe~ ad un spettacolo
@@ -275,7 +275,7 @@ PST083	cosa c'è il ventidue
 PST085	lo spettacolo
 PST083	che spettacolo c'è il ventidue
 PST093	xxx
-PST085	xx doamna
+PST085	xx #doamna
 PST083	ma quando
 PST083	adesso
 PST085	c'è sul gruppo no sul gruppo
@@ -291,7 +291,7 @@ PST083	ah
 PST083	vabbè eh
 PST085	qua sotto
 PST083	xx xxx xx eh
-PST083	suntem invitați la flacara oh di nuovo
+PST083	#suntem #invitați #la #flacara oh di nuovo
 PST093	uh sì
 PST083	no che schifo sto coso xx xx che finiamo
 PST093	ah me lo mandi per favore
@@ -384,7 +384,7 @@ PST083	un campo totale così mentre balliamo comunque si deve vedere tutto perch
 PST083	qua e là
 PST083	per
 PST083	non lo so giusto per cambiare un po' l'inquadratura
-PST085	come la televizoare
+PST085	come la #televizoare
 PST083	sì
 PST083	magari un po' preso così tipo
 PST085	sì a tipo a cerc~ eh per
@@ -451,11 +451,11 @@ PST083	eh descrivo poi le diverse inquadrature
 PST085	ecco
 PST083	eh
 PST083	più che altro ci manca da dove quando e dove però
-PST083	o chiediamo a doamna
+PST083	o chiediamo a #doamna
 PST085	quando in un prossimo spettacolo
 PST083	in uno spettacolo futuro
-PST083	ah ma è qua doamna
-PST083	doamna
+PST083	ah ma è qua #doamna
+PST083	#doamna
 PST094	ei
 PST083	quali sono i prossimi spettacoli
 PST083	ipotetici
@@ -470,24 +470,24 @@ PST094	bucarest per primo
 PST083	sì ma loro non possono venire fino a bucarest
 PST094	ah dovete prima venire a sent mh
 PST083	siì
-PST094	să filmezi
+PST094	#să filmezi
 PST083	eh eh
-PST085	eh sì pentru scene
-PST094	păi na facem pe noua facem mh
+PST085	eh sì #pentru scene
+PST094	#_ păi na facem pe noua facem mh
 PST083	però qualcosa con i balli
-PST094	tradizionali okay o sa băgam si balli tradizionali bom
+PST094	tradizionali okay #o #sa #băgam #si balli tradizionali bom
 PST083	ma il nove cosa si fa
-PST094	non vi~ nouă martie
+PST094	non vi~ #nouă #martie
 PST083	quello con
 PST094	să facă și copii mici o să facă o să facem și taraful și o să facem tot
 PST083	quello del xxxx
 PST083	mh
 PST085	mh
 PST083	mh
-PST094	ah sì xxx voastră știi începem prima dată cu ăștia mititei ș~
+PST094	ah sì #xxx #voastră #știi #începem #prima #dată #cu #ăștia #mititei #ș~
 PST083	nove marzo
 PST094	nove marzo
-PST094	pentru cu altul san giuseppe
+PST094	#pentru #cu #altul san giuseppe
 PST093	dove
 PST083	sempre quella chiesa
 PST094	no san giuseppe
@@ -550,9 +550,9 @@ PST083	anche perché cioè di cose da dire ce ne sono
 PST083	mh
 PST083	eh esatto esatto
 PST083	allora titolo della scena
-PST083	intervista a doamna
+PST083	intervista a #doamna
 PST083	eh
-PST083	doamna eh sarebbe signora solo che
+PST083	#doamna eh sarebbe signora solo che
 PST085	signora
 PST083	mi viene automatico dirlo
 PST083	del lei
@@ -560,7 +560,7 @@ PST085	del lei
 PST083	sì
 PST083	vabbè io scrivo
 PST085	scrivi di punto
-PST093	doamna
+PST093	#_ doamna
 PST093	di emme
 PST082	sì
 PST083	okay
@@ -569,16 +569,16 @@ PST083	perché in italiano suona un po' strano
 PST082	sì è vero
 PST083	esatto
 PST082	è vero
-PST083	cioè noi anche se parliamo italiano è sempre doamna
+PST083	cioè noi anche se parliamo italiano è sempre #doamna
 PST082	in romeno suona meglio
 PST082	signora è un po' troppo
-PST083	sì perché tipo in rumeno doamna è anche un po' visto tipo la~ la maestra anche viene viene chiamata doamna signora solo che poi appunto esatto esatto
-PST082	doamna învățătoare
+PST083	sì perché tipo in rumeno #doamna è anche un po' visto tipo la~ la maestra anche viene viene chiamata #doamna signora solo che poi appunto esatto esatto
+PST082	#_ doamna învățătoare
 PST082	sì
 PST082	eh no è qua~
 PST083	tema generale di che cosa si parla in questa scena
-PST083	doamna che racconta che ne so la storia del
-PST085	del centru
+PST083	#doamna che racconta che ne so la storia del
+PST085	del #centru
 PST083	la fondazione
 PST082	cioè sono delle parole collegate
 PST085	sì
@@ -613,11 +613,11 @@ PST083	intervistatore
 PST093	intervista
 PST083	inter vi~ sta tor~
 PST083	intervista sì
-PST093	doamna
+PST093	#doamna
 PST083	eh chi è coinvolto in quest'attività
-PST085	doamna
-PST083	doamna e un intervistatore a caso
-PST093	doamna
+PST085	#doamna
+PST083	#doamna e un intervistatore a caso
+PST093	#doamna
 PST093	chi lo voleva fare magari chiediamo nel gruppo qual~
 PST083	io o tu
 PST083	no chi è che aveva scelto o
@@ -679,7 +679,7 @@ PST083	teoricamente penso che staremo seduti quindi in realtà lascia solo quest
 PST085	no e sì sì sì sì
 PST083	cioè
 PST083	anche perché
-PST093	le puoi fare a doamna do~
+PST093	le puoi fare a #doamna do~
 PST083	sì brava le ho scritte sotto
 PST083	uh
 PST083	che fastidio

@@ -39,7 +39,7 @@ PST222	[triennale no] (.) è impossibile?
 PST146	cioè non non pe:nso perché (.) è la stra~ la strada poi è lunga per: per insegnare
 PST222	a volte mi mi: mi sembra che la: laurea triennale non ha nessun senso
 PST222	deve [fare la magistrale]
-PST145	[bravo] ((ride))
+PST145	[bravo ((ride))]
 PST146	[e::h]
 PST145	è let]teralmente inu:tile] ((ridendo))
 PST146	[infatti:: sì]
@@ -226,7 +226,7 @@ PST145	già fi[nito e::h a] novembre dovrei laurearmi
 PST222	[ti piace già]
 PST222	auguri
 PST145	grazie
-PST222	(#mabrouk)
+PST222	#_ (#mabrouk)
 PST145	#shukran ((ride))
 PST222	tanti tanti auguri veramente
 PST222	no: molto brava
@@ -286,9 +286,9 @@ PST222	più scopri che: sei ignorante
 PST145	okay
 PST145	com'era: il detto in arabo
 PST222	e::h
-PST222	#kullama
+PST222	#_ #kullama
 PST145	okay
-PST222	e::h #tashaʿur #bujahalak
+PST222	#_ e::h #tashaʿur #bujahalak
 PST145	okay
 PST222	più impari
 PST222	più senti (.) e più [se:i ignorante]
@@ -427,7 +427,7 @@ PST222	non può darmi: zero
 PST146	a:h perché comunque qualcosa hai scritto
 PST222	e ti prendo in giro
 PST145	ma non funzio:na sempre cos~ se la risposta è sbagliata può dare zero
-PST222	no: no no no no ((tossisce)) [(.) per alcune do]mande
+PST222	no: no no no no [((tossisce)) (.) per alcune do]mande
 PST146	[ma se dovessero (però)]
 PST146	a:h
 PST222	perché assolutamente tu le scrivi e:h scusa non riesco a rispondere
@@ -436,7 +436,7 @@ PST146	[°beh (.) comunque qualco]sa [(eh secondo me)°]
 PST222	[tu: scrivi qualcosa]
 PST145	[ma e:h] io io posso andare a fare l'orale il professore mi fa una domanda io posso raccontargli cosa ho mangiato ieri
 PST146	vabbè ((ride))
-PST222	[no: questa è un'altra: io mi fermo] ((ride))
+PST222	[no: questa è un'altra: io mi fermo ((ride))]
 PST145	((ride))
 PST145	no tu tu non l'hai capi:to io ho i livelli di logorroi~ ((ride))
 PST222	okay e:h okay un'altra: capacità per me non: no
@@ -490,7 +490,7 @@ PST145	ed ecco che ti viene la [cosa]
 PST222	[int]eressante e:h okay continua
 PST145	così
 PST222	altri trucchi per favore
-PST145	((ride)) [raccon]ta sempre cos'hai mangiato ieri se te lo rico:r(di) ((ride))
+PST145	[((ride)) raccon]ta sempre cos'hai mangiato ieri se te lo rico:r(di) ((ride))
 PST222	[per passare l'orale]
 PST222	se prendo zero e:h vengo a::
 PST145	scusami al massimo non passi cosa può succedere
@@ -591,7 +591,7 @@ PST222	[eh #inshāallāh]
 PST222	raiys (.) ǝji]
 PST145	((ride))
 PST146	[ridere] sembra:
-PST222	[(#rais)]
+PST222	#_ [(#rais)]
 PST145	io: mi siedo là rido
 PST222	ah altri piangono:: prima dell'esame dell'orale
 PST222	e (tremano) (.) proprio
@@ -617,8 +617,8 @@ PST222	quindi tu hai fatto bene (durante i tuoi studi)
 PST222	questi due anni
 PST145	[sì]
 PST222	[tu] hai fatto già::
-PST145	ḥamdu l-lāh
-PST222	ḥamdu l-lāh
+PST145	#_ ḥamdu l-lāh
+PST222	#_ ḥamdu l-lāh
 PST222	e:: gli esami duranti gli esami
 PST222	facevi mh la traduzione e::h scritto
 PST222	o orale
@@ -710,7 +710,7 @@ PST222	tutta la vita
 PST145	sì
 PST222	sei venuta [qua: xxx]
 PST145	[i miei genitori] vivono là:: cioè: son proprio di là
-PST222	a:h (.) okay ~spetta (.) [perché mi so::~ mi son perso] ((ride))
+PST222	a:h (.) okay ~spetta (.) [perché mi so::~ mi son perso ((ride))]
 PST145	[quindi sono fuo:ris:ede]
 PST145	sono fuorisede
 PST222	okay (.) tu hai imparato il siciliano
@@ -722,7 +722,7 @@ PST145	((ride))
 PST222	ha:i tanta esperienza grande esperienza
 PST145	gra:zie:
 PST222	ti aiuterà tanto in futuro
-PST145	#mshalla #llah
+PST145	#_ #mshalla #llah
 PST222	un lavoro
 PST222	serve al lavoro
 PST222	serva: persona con più: esperienza di:
@@ -773,7 +773,7 @@ PST145	okay i fornelli
 PST145	[i fornelli] sono=e::h
 PST222	[fornel~]
 PST145	ad esempio #xxx #ghamila: #ṭanjra
-PST145	xx #ṭanjra
+PST145	#_ xx #ṭanjra
 PST222	okay
 PST145	il for~ il forno è quello
 PST222	quello alla casa per fare xx
@@ -908,7 +908,7 @@ PST145	#'akdā [aḥsan] xx
 PST222	[sì]
 PST222	sì ma sai perché: perché io non riesco a parlare quello della strada
 PST222	((ride)) [non perché sono bravissimo] no
-PST145	[e::h] ((ride))
+PST145	[e::h ((ride))]
 PST222	perché non incontro::=e:h tanti: tanti italiani
 PST146	eh
 PST222	e quindi (.) io studio solo dai dai libri::
@@ -1014,7 +1014,7 @@ PST222	e:h ho conosciuo un ragazzo
 PST222	okay (.) poi ho chiesto:: com'è
 PST222	okay
 PST145	ah ah
-PST222	per sembrarmi:: [italiano] ((rideo)) (.) okay
+PST222	per sembrarmi:: [italiano ((rideo))] (.) okay
 PST146	((ride))
 PST145	[giusto]
 PST222	poi: [ha x]
@@ -1140,9 +1140,9 @@ PST222	tanto?
 PST145	[tanto]
 PST146	[sì:] tanto
 PST145	e::hm:: (.) ~spetta
-PST145	#flūs #flūs
+PST145	#_ #flūs #flūs
 PST145	in siciliano #filusi
-PST145	<#filusi>
+PST145	#_ <#filusi>
 PST222	okay
 PST145	in=e::::h a palermo:
 PST145	trapani: dicono #filusi i miei soldi
@@ -1152,16 +1152,16 @@ PST145	[in:]
 PST145	#flūs (.) e:h oppure
 PST145	e::h meschino
 PST222	sì #miskīn sì
-PST145	#miskīn
+PST145	#_ #miskīn
 PST145	e::h[m:]
 PST222	[però questa paro]la (.) nel dizionario italiano
 PST222	[meschino]
 PST145	[sì]
 PST145	e::::h (tamarro)
-PST222	#tamr?
+PST222	#_ #tamr?
 PST145	beh è #tamm~ #tammār
 PST222	ah #tammār
-PST145	#tammār
+PST145	#_ #tammār
 PST222	[veramente]
 PST145	[da] (.) sì
 PST145	e::h però mh in arabo è #tammār vabbè è ca~
@@ -1173,7 +1173,7 @@ PST145	[un mara]nza sai cos'è un maranza?
 PST222	sì
 PST145	((ride)) [gli egiziani che ci] ((ride))
 PST146	[un maranza]
-PST222	#sərsəg
+PST222	#_ #sərsəg
 PST145	gli egiziani che: sono in zona san salvario ((ride))
 PST146	esa:tto [quelli]
 PST222	[sì]
@@ -1187,15 +1187,15 @@ PST145	ta[marri]
 PST222	[tamarro]
 PST145	sì u:n: termine [in italiano (così)]
 PST222	[in arabo si chia]mano #sǝrsǝg
-PST222	#sǝrsǝg
-PST145	#sǝrsǝg?
+PST222	#_ #sǝrsǝg
+PST145	#_ #sǝrsǝg?
 PST222	sì
 PST145	okay è la prima volta che lo sento
 PST222	sǝrsǝgū sǝrsǝgī
 PST145	eh però vedi tam~ tamarro #tammār
 PST222	ah okay
-PST146	#zibib
-PST145	zbīb zibibbo
+PST146	#_ #zibib
+PST145	#_ zbīb zibibbo
 PST222	#zbīb sì
 PST145	e:[h]
 PST222	[una vo]lta una volta
@@ -1223,7 +1223,7 @@ PST145	[qua dicono uva] passa
 PST145	ma anche da noi in sicilia uva passa
 PST145	però: eh [c'è: #zibibbu] #zibibbu
 PST222	uva: uva secca
-PST146	#zibibbu
+PST146	#_ #zibibbu
 PST222	dico[no uva secca]
 PST145	[lo usiamo in sici~]
 PST145	uva pas[sa]
@@ -1236,9 +1236,9 @@ PST145	[però lo] usiamo in sicilia #zi[bibbu]
 PST146	[sì: in s]icilia (proprio) #zibibbū sì
 PST222	si chiama: #zibibu
 PST222	si chiama #zibibbu o zibibbo
-PST146	[#zibibbū]
-PST145	[#zibibbū]
-PST222	#zibibbo
+PST146	#_ [#zibibbū]
+PST145	#_ [#zibibbū]
+PST222	#_ #zibibbo
 PST146	[in dialetto #zi]bibbu [#ū]
 PST145	(.) u: zibibbū
 PST222	quando: stuzzicare
@@ -1267,7 +1267,7 @@ PST145	[a:]:h
 PST222	se ho una: se ho la mamma per esempio
 PST222	solo per far ridere #zibibbā
 PST145	a::h
-PST222	#zibibā
+PST222	#_ #zibibā
 PST145	vieni e
 PST222	a::h m:h (un pezzo di zibibbo)
 PST145	[l'u:va pas]sa
@@ -1283,7 +1283,7 @@ PST145	((ride)) è la prima volta [che lo sento]
 PST222	[anche sai] e::h=aspetta
 PST222	sai questa: a volte troviamo::
 PST222	questo puntino qua
-PST222	#namāsh
+PST222	#_ #namāsh
 PST222	sul [viso]
 PST145	[e::h]
 PST145	le lentiggini
@@ -1295,11 +1295,11 @@ PST222	quando esce qua: sul viso
 PST145	ah ah x
 PST222	okay si chiama #zibībā
 PST145	a::[::h] [mai senti]to
-PST146	[oddio:] ((ridendo))
+PST146	[oddio: ((ridendo))]
 PST222	[sì]
 PST222	((ride)) sì:
-PST222	[molto pazzo (.)] ((ride)) zibibbo
-PST145	((ride)) [sì]
+PST222	[molto pazzo (.) ((ride))] zibibbo
+PST145	[((ride)) sì]
 PST222	#zibībo: per esempio questo ragazzo
 PST222	con #zibībā e::h al suo gua~ e:h $guancio?
 PST146	guance
@@ -1312,7 +1312,7 @@ PST222	oppure ha una:: una (#zībibā) sul naso (lentiggini) sul naso
 PST146	[sì:]
 PST222	e:così via
 PST145	a:[:h]
-PST222	[#zibībā]
+PST222	#_ [#zibībā]
 PST222	ma è molto comune questa espressione (.) questa parola è molto comune
 PST145	non l'ho mai sentita cioè: io dico: #zibibbu in sicili[ano e:]
 PST222	[sì sì sì]
@@ -1345,8 +1345,8 @@ PST146	((ride))
 PST145	lo so:
 PST145	ho tutti gli amici egiziani
 PST222	sì
-PST145	e::h ((ride)) hattā dayyat lugha xx maghribiya bi shabab xx hamdulillah
-PST145	'anā ma-ta-fahmūnīsh lamma baḥkī la 'anā ta‘awwad-tu naḥkī ma‘ākum
+PST145	#_ e::h ((ride)) hattā dayyat lugha xx maghribiya bi shabab xx hamdulillah
+PST145	#_ 'anā ma-ta-fahmūnīsh lamma baḥkī la 'anā ta‘awwad-tu naḥkī ma‘ākum
 PST222	in italiano
 PST146	[non partire grazie]
 PST145	[ah scusate] (per cui) sono abituata a parlare con voi in egiziano ho dimenticato:: il mio dialetto
@@ -1418,7 +1418,7 @@ PST145	m::h
 PST145	però mai visto
 PST222	tipo: #ghabī #menno #fīh
 PST222	okay
-PST222	ghabī menno fīh
+PST222	#_ ghabī menno fīh
 PST222	stupido (.) in se stesso
 PST145	a::h
 PST222	okay
@@ -1813,7 +1813,7 @@ PST222	veramente
 PST145	sì
 PST222	e altri [non x]
 PST145	[io potrei mettere un]a: una storia dove insulto mia sorella in eh in arabo e lei non lo capisce
-PST145	#wāllah
+PST145	#_ #wāllah
 PST222	ma loro vivono in sicilia o qua
 PST145	in sicilia
 PST222	tutti in sici[lia]
@@ -1832,7 +1832,7 @@ PST222	sai che la parola araba è basata su tre consonanti (.) qualsiasi parola 
 PST222	okay
 PST222	se sbagli:
 PST222	e::h poi c'è la vocalizzazione sai la vocalizzazione
-PST222	#tashkīl
+PST222	#_ #tashkīl
 PST222	kasra ḍamma xx)
 PST145	[a::h sì sì:]
 PST145	so leggere senza
@@ -1857,7 +1857,7 @@ PST222	e:h questa si chiama #sayāra
 PST145	okay
 PST222	okay
 PST222	qual è la radice di questa:: parola?
-PST222	#sayyāra #sāra
+PST222	#_ #sayyāra #sāra
 PST145	a::h
 PST222	okay
 PST222	#sāra è il verbo nel passato
@@ -1890,7 +1890,7 @@ PST222	con fatica con sforzo
 PST222	questo si chiama #es-sayr
 PST222	okay
 PST222	e:::h
-PST222	#yaʾkul
+PST222	#_ #yaʾkul
 PST145	mh mh
 PST222	#ʾa #ka #la (.) tre consonanti
 PST222	mangiare
@@ -1898,11 +1898,11 @@ PST145	mh
 PST222	okay (.) eh #ʾakala
 PST222	mangerò
 PST222	e::::h pam pam pam: per esempio::
-PST222	#tasjīl
+PST222	#_ #tasjīl
 PST222	questo che stiamo facendo si chiama #tasjīl
 PST222	okay (.) #tasjīl
-PST222	#sa #ja #la
-PST222	#sa #ja #la
+PST222	#_ #sa #ja #la
+PST222	#_ #sa #ja #la
 PST222	tre consonanti
 PST222	e così via per tutta la vita
 PST145	io non azzecco niente di tutto que:sto ((ridendo))
@@ -2020,7 +2020,7 @@ PST145	e pa~ (gua~) veramente parlano meglio di lui io eh io:
 PST145	m:h ogni tanto rimango sconvolta
 PST145	però vabbè: questo mio fratello è particolare lui si è occidentalizzato un po' troppo
 PST222	parenti: diversi eh
-PST222	non abbiamo lo stesso livello dell~ xxx
+PST222	non abbiamo lo stesso livello dell' xxx
 PST145	((ride))
 PST222	okay
 PST222	e:h ma se una barista
@@ -2103,7 +2103,7 @@ PST146	((ride)) sì
 PST145	o:dio anche la macchina
 PST146	[a piedi]
 PST222	[okay ma] tu da:: prenditi il cammello
-PST145	oppu:re ((ride)) [il cammello] ((ridendo))
+PST145	oppu:re ((ride)) [il cammello ((ridendo))]
 PST222	[xxx xxx (.)] il cavallo
 PST146	[il cava:llo con l'a:sino]
 PST145	allora e::hm soffro tutti e due
@@ -2237,7 +2237,7 @@ PST145	però me la gestivo
 PST145	dopo non sono riuscita più a gestirla perché: la nave si è fermata in mezzo al mare ((ridendo))
 PST145	il motore ha smesso di funzionare ((ridendo))
 PST146	[le:i morta lì]
-PST145	((ride)) [e:h e] la nave faceva così
+PST145	[((ride)) e:h e] la nave faceva così
 PST145	sai quando:: ((ride)) [xx]x
 PST146	((ride)) [stiamo more:ndo]
 PST145	ad una certa sai ehm perché comunque stai nella nave senti il motore
@@ -2268,11 +2268,11 @@ PST222	[annegare]
 PST146	[affonda:re]
 PST222	[perché l'a]cqua non è:: non è già uscita
 PST145	no (.) hanno: [hanno: è stata una cos]a volonta~ cioè la cosa di fermare i motori
-PST146	[aiuto] ((ride))
+PST146	[aiuto ((ride))]
 PST145	era una cosa volontaria per sistemare u:n: [problema tecnico:]
 PST146	[l'hanno fermato loro]
 PST145	sì non è che si è fermato da so:lo no
-PST146	perché lì [già] ((ride))
+PST146	perché lì [già ((ride))]
 PST145	[però cavolo] non l'hanno detto
 PST145	quindi siamo rimasti per tipo quattro cinque o:re
 PST146	ma:mma mia
@@ -2281,13 +2281,13 @@ PST222	stand by nel mare
 PST145	sì: [lette]ralmente e:::h
 PST146	[aiuto]
 PST145	mia mamma fa
-PST145	forse siamo arriva:ti: ((ridendo)) [ma:mma siamo partiti solo da tre giorni] ((ridendo))
+PST145	forse siamo arriva:ti: ((ridendo)) [ma:mma siamo partiti solo da tre giorni ((ridendo))]
 PST146	((ride))
 PST146	[in mezzo al ma:re bello siamo arrivati]
-PST145	((ride)) [cosa stai cosa stai dicendo]
+PST145	[((ride)) cosa stai cosa stai dicendo]
 PST145	[e:sco c'e]ra: c'erano tipo i camerieri io gli faccio ma
 PST222	[poveri:n(a)]
-PST145	che=è successo mi fanno e:h siamo in stand by [gra::zie:] ((ride))
+PST145	che=è successo mi fanno e:h siamo in stand by [gra::zie: ((ride))]
 PST222	((ride))
 PST146	((ride))
 PST145	io gli faccio vabbè: io svengo sul po:sto cioè:
@@ -2299,7 +2299,7 @@ PST146	[ma:mma mia]
 PST145	la la: [vado: all'altro mon]do in automatico cioè:
 PST222	[tu hai l'ansia]
 PST145	svengo
-PST222	[(#baraff)]
+PST222	#_ [(#baraff)]
 PST146	ma sì::
 PST222	[xxx #baraff]
 PST145	[sì: no] [ciao ciao ciao]
@@ -2458,7 +2458,7 @@ PST222	no veramente cerca di andare a:l ad un dottore
 PST222	e:: magari ti danno qualcosa pe:r farti
 PST222	per farti rilassare per fare il viaggio: più tranquillo
 PST145	((ride)) [le flebo]
-PST146	[la flebo] ((ride))
+PST146	[la flebo ((ride))]
 PST222	no non è [così: difficile]
 PST145	[la flebo devo mettere] nell'aereo ((ride))
 PST222	perché è carino: dormire:: tre giorni
@@ -2526,7 +2526,7 @@ PST145	cosa?
 PST222	la macchina
 PST222	sta per svenire anche o no
 PST146	((ride))
-PST145	((ride)) [glielo chiederò prima o poi]
+PST145	[((ride)) glielo chiederò prima o poi]
 PST145	no comunque: sì: (.) noi andavamo con la nave perché:: ci serviva:: [la macchina]
 PST146	[la macchina]
 PST145	[cioè tu stav]i tre giorni cioè in marocco non possiamo stare senza macchina
@@ -2541,14 +2541,14 @@ PST145	nonostante per te ora è ta:nto però in realtà e:h spendevamo di meno p
 PST145	ci toglievamo già un peso che è quello appunto di non avere una macchina::
 PST145	in marocco
 PST222	[e:h >(ma io in marocco)< non va]do lì:=m:h
-PST146	((ride)) [un baratto]
+PST146	[((ride)) un baratto]
 PST145	tu non andarci
 PST146	c'è l'ae:reo [(.) è comodo]
 PST145	[c'è l'aereo: è co]:modo:
 PST146	costa di me:no
 PST222	costa di meno: la cosa impor~ la cosa importantissima: costa di meno
 PST222	[l'aereo (.) costa di cosa (.) di meno]
-PST146	[eh ce:r~ (.) esa:tto noi andiamo se]mpre al risparmio (.) [che è me:glio] ((ride))
+PST146	[eh ce:r~ (.) esa:tto noi andiamo se]mpre al risparmio (.) [che è me:glio ((ride))]
 PST145	[~so:mma]
 PST146	sì infatti pure l'aereo poi comunque (.) [ci sono dei pre:]zzi ora
 PST145	[e:h]
@@ -2667,14 +2667,14 @@ PST146	[sì:] è una cosa: che conviene
 PST145	conviene
 PST222	e il tempo eh si e:h ti avvicina
 PST222	e i prezzi (rialz~) i prezzi si alzano
-PST222	#wa::-ra-zīn
+PST222	#_ #wa::-ra-zīn
 PST222	#wāllah razīnu
 PST222	#bintī rāsā turīnu
 PST222	wallah ra~ zinu
-??	#xx
+??	#_ #xx
 PST222	hai finito lo studio?
-??	#xx
-PST222	#xx
+??	#_ #xx
+PST222	#_ #xx
 ??	voi?
 PST145	o:ra risalgo a studiare
 ??	va be:ne allora

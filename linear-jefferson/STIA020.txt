@@ -212,7 +212,7 @@ PST220	>dialetto marocchino<?
 PST220	darija
 PST121	sì darija ((ride))
 PST121	brava ((ride))
-PST220	#fusha?
+PST220	#_ #fusha?
 PST220	francese inglese e italiano.
 PST121	sì
 PST220	okay
@@ -433,7 +433,7 @@ PST121	[sì]
 PST220	quindi questo mi ripeti il nome scusa?
 PST220	come si chiama?
 PST121	si chiama #rfissa
-PST220	(#rfissa).
+PST220	#_ (#rfissa).
 PST121	sì sì
 PST220	e prima ho detto a che
 PST220	dovevo chiederti come tu fai il cous cous
@@ -458,7 +458,7 @@ PST121	e:: l~ la cipolla
 PST121	pomodoro
 PST121	sono tagliati
 PST121	e::::hm
-PST121	#*e:::l::
+PST121	#_ #*e:::l::
 PST121	prezzemolo
 PST121	però non taglialo (.) tu lasci::: e::h
 PST121	tu lasci così un una di (.) $prinzemolo
@@ -619,7 +619,7 @@ PST121	e:h
 PST121	sì
 PST121	io ho fatto un:
 PST121	un #cake ho fatto:
-PST121	#msemen
+PST121	#_ #msemen
 PST121	°ho fatto°
 PST121	°cosa ho fatto anche°
 PST121	ho fatto il #baghrīr
@@ -1002,7 +1002,7 @@ PST121	è uno che::
 PST121	chi fuma e che:: [eh] marijuana che usa::
 PST220	[ah:::]
 PST220	okay
-PST121	mh mh allora (.) dice [parole che non (.)] te lo posso [consigliare] ((ride))
+PST121	mh mh allora (.) dice [parole che non (.)] te lo posso [consigliare ((ride))]
 PST220	[vabbè ma io lo ascol~]
 PST220	[vabbè non as~ tanto eh::] probabilmente non le capiamo °quindi° ((ride))
 PST121	ti consiglio altro (.) c'è e::hm c'è (saad lamjarred)
@@ -1015,7 +1015,7 @@ PST219	non ho capito il nome
 PST121	saad lamjarred
 PST220	adesso scrivi tu eh
 PST121	vuoi che te lo scrivo?
-PST220	yes thank you
+PST220	#_ yes thank you
 PST220	se funziona e:h qua
 PST219	>vediamo<
 PST220	grazie
@@ -1162,7 +1162,7 @@ PST220	[sì infatti]
 PST220	no infatti °poi tra l'altro*
 PST219	sì sì tanto
 PST219	le imparerai anche quelle
-PST121	sì ((ride)) [[piano pia]no eh
+PST121	sì [((ride)) [piano pia]no eh
 PST220	[tanto]
 PST219	esatto
 PST220	e come hai detto tu ci sono mille pronunce anche (.) in giro per l'ita[lia quindi]
@@ -1224,10 +1224,10 @@ PST121	sì::
 PST219	ma~ #majzara
 PST121	un:: casino di:: ((ride))
 PST220	eh?
-PST219	maj~ maj[zara]
-PST121	[majzara] majzara
+PST219	#_ maj~ maj[zara]
+PST121	#_ [majzara] majzara
 PST219	le~ leggi #majzara (.) <dappertutto> ((ride))
-PST121	majzara majzara
+PST121	#_ majzara majzara
 PST219	quella parola l'ho imparata usa~ prendendo il quattro ((ride))
 PST220	non prendo abbastanza il quattro allora ((ride))
 PST220	a settimo non ce n'è neanche una?
@@ -1298,7 +1298,7 @@ PST219	cioè
 PST219	qua non è che si usano tanto i tappeti:: (.) quelli belli:: morbidi:
 PST121	sì
 PST219	e io ho camminato su quel tappeto [(.) bellissimo]
-PST121	[ah,] ((ride))
+PST121	[ah, ((ride))]
 PST121	e meno male ((ride))
 PST219	boh
 PST220	°di cosa (parliamo°
@@ -1338,7 +1338,7 @@ PST121	ah:::
 PST219	doveva essere marocchino però quest'anno hanno cambiato
 PST121	ah e cosa avete imparato.
 PST219	eh:: el-xir
-PST219	3āmil eh?
+PST219	#_ 3āmil eh?
 PST121	brava
 PST219	ma tu capisci se: ti dico: queste cose
 PST121	eh:: sì qualche parola sì (.) adesso ti ho capita
@@ -1370,7 +1370,7 @@ PST220	dove dobbiamo andare in marocco se::
 PST121	c'è::
 PST220	°(cosa) ci consigli°
 PST121	c'è #tanger
-PST121	#tanja
+PST121	#_ #tanja
 PST220	ah [ah]
 PST220	mh mh
 PST121	c'è::::
@@ -1553,8 +1553,8 @@ PST121	vai a vedere
 PST219	vai alzati un attimo che non (c'è)
 PST220	scusa un attimo::
 PST219	vai alla toeletta e [torni indietro (.) così ci dici]
-PST220	((ride)) [alla <toeletta>]
+PST220	[((ride)) alla <toeletta>]
 PST219	[toeletta]
 PST220	questo è interessante eh veramente
 PST220	da scoprire
-PST220	va bin
+PST220	#_ va bin

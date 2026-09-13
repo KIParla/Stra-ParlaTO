@@ -110,14 +110,14 @@ PST016	e spagnolo
 PST205	e per quanto riguarda i dialetti invece
 PST016	dialetti ci sono in marocco ci sono tre dialette
 PST016	tre dialette tranni l'arabo tranni la lingua araba standard c'è
-PST016	berbero c'è di amazigh
-PST016	e tashelhit e tarifit il tarifit è del sud
+PST016	berbero c'è di #amazigh
+PST016	e #tashelhit e #tarifit il #tarifit è del sud
 PST016	del del nord del marocco
 PST016	eh f~ vicino la spagna quel c'è quasi quattordici chilometri
-PST016	e e nel sud del marocco ci sono due berber e t~ tashelhit e tamazigh
+PST016	e e nel sud del marocco ci sono due berber e t~ #tashelhit e #tamazigh
 PST016	e quasi sono simile
 PST016	solo la scrittura è simile un po' di cinese
-PST016	ma ma e l eh se chiama la scri~ il tipo di scrittura si chiama tifinagh
+PST016	ma ma e l eh se chiama la scri~ il tipo di scrittura si chiama #tifinagh
 PST205	ehm
 PST205	quante di queste lingue che hai nominato
 PST205	conosci o parli
@@ -391,7 +391,7 @@ PST016	eh fredde fredde meno otto meno dieci come ifrane ma la maggior parte del
 PST016	non sanno questa cosa
 PST016	dicono che oh ah siete arrivati dall'africa cinquanta gradi quaranta gradi ma
 PST016	non sanno c'è una città si chiama ifrane
-PST016	e la~ e gl~ e gli european soprattutto i francesi belgi eh l~ tedeschi dicono che è la svizzera del marocco
+PST016	#e la~ e gl~ e gli #european soprattutto i francesi belgi eh l~ tedeschi dicono che è la svizzera del marocco
 PST016	non sanno questa cosa
 PST016	me quelli italiani alla fine negli anni di adesso duemiladieci dodici
 PST016	vedo che c'è un sacco di italiani che vanno in maro~ soprattutto
@@ -636,7 +636,7 @@ PST016	qui l'inquina~ l~ l il tasso dell'inquinamento a torino altissimo
 PST016	lì impossibile trovare
 PST016	ogni quartiere trovi quattro o cinque palazzi
 PST016	c'è gli alberi spazio verde dove giocano i bambini
-PST016	le scuole i mezzi di transport in qualsiasi posto trovi i mezzi di transport
+PST016	le scuole i mezzi di #transport in qualsiasi posto trovi i mezzi di #transport
 PST205	quindi comunque un eh
 PST205	è un emh
 PST205	come dire
@@ -693,14 +693,14 @@ PST016	per me torino sì è un grande città sì
 PST016	sì c'è un sacco di ricordi sì bella città ci sono gli vantaggi
 PST016	c'è gli vantaggi sono gli svantaggi ma gli svantaggi più soprattutto
 PST016	mh per trovare un posto di lavoro per l~
-PST016	e problemi dell'inquinamento e problemi anche di mezzi di transport dopo le otto non trovi
+PST016	e problemi dell'inquinamento e problemi anche di mezzi di #transport dopo le otto non trovi
 PST016	po~ ogni quaranta minuti qualche volta
 PST016	annullano soprattutto la settimana scorsa a x a mezzanotte non trovato neanche
-PST016	l~ i mezzi da transport e così non
+PST016	l~ i mezzi da #transport e così non
 PST016	le altre paesi quando sono andato in svezia no no
 PST016	anche dopo le due
 PST016	del mattino c'è
-PST016	c'è c'è i mezzi di transport
+PST016	c'è c'è i mezzi di #transport
 PST016	poi anche i servizi quando vai in comune
 PST016	ti danno un appuntamento per fare un passaggio
 PST016	della residenza la stessa città devi aspettare tre mesi quattro mesi

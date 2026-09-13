@@ -1,6 +1,6 @@
 PST102	mi sento già vecchia ((ride)) la signora ((ridendo))
 PST203	anch'io mi sento vecchio
-PST203	[ti capisco] ((ride))
+PST203	[ti capisco ((ride))]
 PST083	((ride))
 PST083	buongiorno
 PST102	eh lavora figlia mia
@@ -818,7 +818,7 @@ PST083	che stanno magari all'estero perché
 PST083	appunto ti ricollega un po' a quelle che sono le tue ori:gini:,
 PST083	e:::
 PST083	non so è::: è bello
-PST083	è bello. ((ride)) [}
+PST083	è bello. [((ride)) }
 PST102	((ride))
 PST203	ma e:hm >cioè< lo mh lo dico a:: entrambe
 PST203	ma e::hm: cioè tra le vostre amici:zie:,
@@ -839,7 +839,7 @@ PST083	soprattutto se magari si ven~ si viene da zone diverse,
 PST203	[della romania intendi]
 PST083	[e quin~ esa]tto sì
 PST083	e quindi (.) appunto: un po' come anche qua in italia se vieni dal sud o se vieni dal nord
-PST083	comunque (.) mmh ci sono delle differenze e soprattutto io (.) parlo dal punto di vista etni~ >cioè< mh delle tradizioni e ste cose qua è bello avere così un intercambio
+PST083	comunque (.) mhmh ci sono delle differenze e soprattutto io (.) parlo dal punto di vista etni~ >cioè< mh delle tradizioni e ste cose qua è bello avere così un intercambio
 PST203	mh mh
 PST083	di::
 PST083	di cultura alla fine perché
@@ -858,7 +858,7 @@ PST203	mh mh
 PST083	e:h infatti::
 PST083	soprattutto anche magari a scuola:: hanno scoperto che ca:nto queste cose qua e spesso:: è capitato che anche in classe magari,
 PST083	nei momenti bu:chi:
-PST083	cioè mmh nei momenti di:: vuoto diciamo
+PST083	cioè mhmh nei momenti di:: vuoto diciamo
 PST083	e::h non so si mettessero::
 PST083	mh delle canzoni tipiche o anche solo le mie proprie,
 PST083	non lo so è: è bello perché appunto: ti senti: ti senti
@@ -940,7 +940,7 @@ PST203	ve lo dico già ci ri~ vabbè fa già parte del cortometraggio quindi
 PST203	sicuramente ci rivedremo
 PST203	ma: anche con te penso che (.) non ti libererai no sto scherzando nel senso se ti sei [stufata poi]
 PST102	[e:: mi mi spiace] che a un certo punto::
-PST102	mi sono commossa perché: mmh sono cose che:
+PST102	mi sono commossa perché: mhmh sono cose che:
 PST102	ti tocca il cuore,
 PST203	mh
 PST102	((ride))

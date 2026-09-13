@@ -34,7 +34,7 @@ PST214	[ma sì x]
 PST214	perché studi lingue tu
 PST158	sì
 PST214	o:kay
-PST214	((ride)) [(ci sta allora)]
+PST214	[((ride)) (ci sta allora)]
 PST158	[ehm::]
 PST158	e:hm:
 PST158	questi giorni di sole ho voglia di andare al mare
@@ -143,7 +143,7 @@ PST158	lingue:
 PST158	comunichi a volte cioè
 PST158	non entrambi sapete l'inglese o l'italiano quindi comunichi proprio:
 PST158	con [se:gni:] robe del genere
-PST214	((ride)) [a caso]
+PST214	[((ride)) a caso]
 PST158	che io la trovo una cosa davvero interessante
 PST158	e poi vabbè ci sono davvero:
 PST158	cioè son tutti studenti
@@ -164,7 +164,7 @@ PST158	[esa:tto]
 PST158	esa:tto tipo durante il periodo degli esami non mi vede più nessuno
 PST214	cioè adesso ((ridendo))
 PST158	poi (.) ricompaio ogni tanto ogni qua e là ((ride))
-PST214	#hello:
+PST214	#_ #hello:
 PST158	tipo: sono ancora vi:va:
 PST214	ciao
 PST214	no io invece (.) con~ ho: condivido un appartamento
@@ -212,7 +212,7 @@ PST214	ma perché poi cioè dici
 PST214	se condividiamo comunque un posto
 PST214	cioè non è che condividiamo un appartamento di trecento camere c'è una camera
 PST214	e il salotto essenzialmente
-PST158	the bare minimum
+PST158	#_ the bare minimum
 PST214	quindi: cioè nel senso
 PST158	tota:le
 PST214	abbi un po' di cura ne~ con anche nei confronti dell'altra persona
@@ -304,7 +304,7 @@ PST158	cioè pe:nsa quando
 PST158	se mai dovessi anda~ no
 PST158	(aspetta)
 PST158	[cambiamo argomento se no me la gufo]
-PST214	[non x non non] ((ride))
+PST214	[non x non non ((ride))]
 PST158	se no me la gufo
 PST214	non ti vedono più in università
 PST158	ma non mi vede più nessu:no
@@ -510,8 +510,8 @@ PST214	perché io ero in mezzo
 PST214	e quindi non sapevo oddio devo le le devo superare cosa devo fare
 PST214	e quindi sono scesa dalla bici e mi son messa sul marciapiede
 PST214	per aspettare che se ne andassero
-PST158	[(no:: beh)] ((ride))
-PST214	[tendenzialme~] ((ride))
+PST158	[(no:: beh) ((ride))]
+PST214	[tendenzialme~ ((ride))]
 PST158	iconica
 PST158	son scesa dalla bi:ci e mi son messa nel marciapiede
 PST214	sì
@@ -655,8 +655,8 @@ PST214	al mese
 PST214	cioè ne~
 PST158	e::h?
 PST214	sì: o~ [oppure] una cosa così
-PST158	[#crazy]
-PST158	#cra:[zy]
+PST158	#_ [#crazy]
+PST158	#_ #cra:[zy]
 PST214	[o per s]ei me:si:
 PST214	no mi non [so:]
 PST158	[no:]
@@ -1099,7 +1099,7 @@ PST214	il problema è che se passa il mercoledì
 PST214	poi devi sopravvivere una setti[mana]
 PST158	[una] settima:na
 PST158	e:h
-PST214	that's crazy
+PST214	#_ that's crazy
 PST158	però ti fai un(a) speso:n(a) il mercole[dì:]
 PST214	[mh mh]
 PST158	che c'hai il venti percento alme:no:
@@ -1180,7 +1180,7 @@ PST158	oka:[y]
 PST214	[e] mi metto a studiare
 PST214	funziona eh
 PST214	e non perdo tre ore
-PST158	that could never be me:
+PST158	#_ that could never be me:
 PST158	perché: ti spie:go
 PST158	uno io non bevo caffè
 PST158	du[e:]
@@ -1341,7 +1341,7 @@ PST214	[sì]
 PST158	ho $quittato di brutto
 PST214	io gli anno l'anno scorso li avevo scritti tutti a mano i vocaboli
 PST214	erano tipo trecento vocaboli
-PST158	#cra:zy
+PST158	#_ #cra:zy
 PST214	sì: ((ride))
 PST158	sei #cr[a:zy:]
 PST214	[eh perché] non li imparavo:

@@ -103,9 +103,9 @@ PST085	[ah ma dite da] qua eh [tipo da die::tro] (.) ah ok mi piace #good #good
 PST092	[sì questo pezzo qua]
 PST092	sì
 PST092	ti si vedono [solo]
-PST085	[#I #like #it]]
+PST085	#_ [#I #like #it]]
 PST092	al ma~ al massimo ti si vedono i cape:lli ma:
-PST085	#I #like #it #yes
+PST085	#_ #I #like #it #yes
 PST092	perché:: se no è brutto cioè (.) poverina questa telecamera puntata così a ca~ cioè: tutte le ore cioè non:
 PST087	eh però non doveva essere tipo che (.) parlano tipo (.) con quello che sa
 PST092	quello è per il tour
@@ -328,8 +328,8 @@ PST092	[ma perché]
 PST087	ma quando ci faceva quei discorsi partivamo con una domanda e ci
 PST092	madonna e #doamna con[ti~ è ve]ro
 PST087	[E:H]
-PST087	e:h [quel giorno] ((ride))
-PST092	[e:h io xx] ((ride))
+PST087	e:h [quel giorno ((ride))]
+PST092	[e:h io xx ((ride))]
 PST092	ragazzi: io stamattina mi sono svegliata con un trauma quindi non iniziamo
 PST092	e:::h
 PST087	quindi

@@ -2,7 +2,7 @@ PST203	allora questo mettitelo qua vicino al cuore
 PST203	okay
 PST203	parla conta fino a dieci
 PST074	uno (.) #dos (.) #tres
-PST074	#cuatro
+PST074	#_ #cuatro
 PST074	#cinco (.) [#seis]
 PST203	[okay] perfetto
 PST203	allora adesso tienitelo a quell'altro lato lì
@@ -13,11 +13,11 @@ PST074	((ride))
 PST203	okay
 PST203	ci siamo quando #quieras #estamos #bien?
 PST203	#botoncito #rojo (.) va bene
-PST203	#vale
+PST203	#_ #vale
 PST203	>vai vai vai<
 ???	#ahora? pero xxxxx la,
 PST203	(tranquillo)
-PST074	tre:s do::s uno (.) acción
+PST074	#_ tre:s do::s uno (.) acción
 PST203	((sbuffa))
 PST203	problema tecnico
 PST074	di nuovo?

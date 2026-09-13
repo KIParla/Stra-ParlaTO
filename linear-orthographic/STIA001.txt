@@ -103,7 +103,7 @@ PST200	okay
 PST200	e venite quindi dal marocco e dal perù giusto
 PST004	sì
 PST003	ah ah lei eh dal perù mh io dal marocco
-PST004	yest
+PST004	#_ yest
 PST200	oh s~ okay sì sì sì
 PST200	quindi ah
 PST200	da quanto tempo siete qua in italia
@@ -127,13 +127,13 @@ PST200	dove
 PST003	venezia
 PST200	dov'è
 PST200	io non sono brava in geografia
-PST003	está abierta y está abi~ ((ride))
+PST003	#_ está abierta y está abi~ ((ride))
 PST200	okay allora mi sono persa e quindi
 PST200	ah mh
 PST200	la vostra però la vostra lingua madre è
 PST003	ara~
 PST200	arabo
-PST004	español
+PST004	#_ español
 PST200	spagnolo okay
 PST200	e mh allora vediamo
 PST200	e come vi trovate a torino
@@ -179,11 +179,11 @@ PST004	eh è
 PST004	più o meno quindici anni che abita qui in torino
 PST200	ah ah
 PST004	e io ho una figlia de sette anni
-PST004	e è arrivato con mio marido
+PST004	e è arrivato con mio #marido
 PST004	con mio compagno n
 PST200	sì sì
-PST004	e estamos bene perché eh a qui mia mamma mi zia
-PST004	e mi zio
+PST004	e #estamos bene perché eh a qui mia mamma #mi zia
+PST004	e #mi zio
 PST004	e
 PST200	mh
 PST200	ah quindi
@@ -195,10 +195,10 @@ PST200	che bello e vivete tutti insieme
 PST004	no
 PST004	mia zia abita in a~ asti
 PST200	okay
-PST004	mi zio abita in altra casa
+PST004	#mi zio abita in altra casa
 PST200	mhmh
-PST004	pero è a qui in torino y noi abitiamo a qui con mia mamma
-PST004	y vicino a qui al
+PST004	pero è a qui in torino #y noi abitiamo a qui con mia mamma
+PST004	#y vicino a qui al
 PST200	okay
 PST200	okay okay okay okay sì sì sì
 PST004	è vicino a sì è vicino
@@ -208,7 +208,7 @@ PST200	e quindi vivete tutti e due in questo quartiere qui e vi piace questa zon
 PST200	beh tu trovi tanti arabi
 PST200	quindi ti piace
 PST003	eh sì
-PST003	el el la
+PST003	#el #el la
 PST003	e le trovi tanti arabi
 PST003	a chi t~ trovi tanti arabi e trovi la le le cose di
 PST003	di arabo
@@ -220,11 +220,11 @@ PST200	sì sì
 PST003	ah per pregare gli ah gli amici
 PST200	mh mh sì
 PST003	gli amici insieme per mangiare insieme
-PST003	ah le prepar~ le cosa marocchino come tajine cous cous
+PST003	ah le prepar~ le cosa marocchino come #tajine cous cous
 PST200	mh
 PST200	mh mh
 PST003	eh da solo non
-PST003	da solo io prepara il tajine da solo no xxx
+PST003	da solo io prepara il #tajine da solo no xxx
 PST200	mh
 PST003	x mangiare niente
 PST003	e la la tanti persona va bene
@@ -272,7 +272,7 @@ PST003	trenta trenta quattro duemila e ventiquattro
 PST200	mh okay
 PST200	okay
 PST003	ma adesso s~ cercare
-PST003	la solution per
+PST003	la #solution per
 PST200	mh mh mh mh mh mh
 PST003	per lavoro
 PST200	okay quindi non è facile dormire e trovare lavoro per te
@@ -282,8 +282,8 @@ PST200	sì sì
 PST200	tu invece
 PST200	cosa fai
 PST200	lavori non lavori
-PST004	mh sì lavoro estos weekendes
-PST004	e con una mh señora eh eh de edad
+PST004	mh sì lavoro #estos weekendes
+PST004	e con una mh #señora eh eh de #edad
 PST200	ah
 PST200	mhmh
 PST004	e l'aiuto a fare la p~ pulizia a
@@ -300,15 +300,15 @@ PST003	eh eh
 PST004	sabato e domenica perché mio marito lavora de lunedì a al venerdì a
 PST200	mh
 PST200	mhmh
-PST004	y io solo lavoro o sea nos turnamos
+PST004	#y io solo lavoro o #sea #nos #turnamos
 PST200	okay sì sì sì facciamo i turni
 PST004	ah ah
 PST003	xxx
-PST004	sì el turni per il bambino
+PST004	sì #el turni per il bambino
 PST003	turni
 PST200	eh sì
 PST200	sì sì sì
-PST004	io tutta la settimana estoy con mio figlio y de lun~
+PST004	io tutta la settimana #estoy con mio figlio #y #de lun~
 PST200	il weekend lavori
 PST004	sì il weekend sì
 PST200	mh
@@ -366,7 +366,7 @@ PST200	mh
 PST003	eh torino li
 PST003	xx freddo
 PST200	ah eh eh eh
-PST003	mais mais bella
+PST003	#mais #mais bella
 PST200	mhmh
 PST003	sì
 PST200	sì sì sì
@@ -387,11 +387,11 @@ PST200	mh
 PST004	no posso andare altro città
 PST004	o
 PST200	no anche magari altre zone di torino
-PST004	ah sì sì sì normale perché solo la casa don~ e~ es affittado entonces possiamo andare anche altra parte porque la escuola e e tutto
+PST004	ah sì sì sì normale perché solo la casa don~ e~ #es affittado #entonces possiamo andare anche altra parte #porque la escuola e e tutto
 PST200	sì
 PST200	okay
 PST200	okay
-PST004	dipende dalla zona entonces per me no nessun probelma
+PST004	dipende dalla zona #entonces per me no nessun probelma
 PST200	ah okay okay okay
 PST004	sì
 PST200	e come vi trovate qua al
@@ -430,19 +430,19 @@ PST003	eh
 PST003	e lì tante la tante cose li belle le parola le parola
 PST003	gentili
 PST200	sì sì sì sì
-PST004	il ayuda bastante a tutte le persona no importa de que país è
+PST004	il #ayuda #bastante a tutte le persona no importa #de que #país è
 PST003	sì
 PST200	mh
-PST004	se era entonces
+PST004	se era #entonces
 PST200	mhmh mh
 PST004	per me è è è questo posto è
-PST004	per me es grande no sé ayuda tutte le persona sì
+PST004	per me #es grande no #sé #ayuda tutte le persona sì
 PST200	mh mh mh mh mh mh
 PST200	e la scuola di italiano vi aiuta un po'
 PST004	mh
 PST004	sì anche sì
 PST200	a parlare italiano
-PST004	sì a parlare anche para escribire
+PST004	sì a parlare anche #para escribire
 PST003	eh eh
 PST200	ah anche per scrivere
 PST004	sì
@@ -475,9 +475,9 @@ PST200	okay
 PST003	le tutte xxx l~ le eh
 PST003	espagnolo francese simile a italiano
 PST200	mh mh
-PST003	anche portugal
+PST003	anche #portugal
 PST200	eh sì sì sì
-PST003	xx portugal
+PST003	xx #portugal
 PST200	ma
 PST200	l'italiano ti piace poco come il francese o ti piace un po' di più
 PST200	ti piace poco
@@ -497,10 +497,10 @@ PST200	italiano ti piace non ti piace
 PST004	sì
 PST004	no sì me piace perché è similare all'espagnolo
 PST200	ah
-PST004	anche la escritura demasiado demasiado
+PST004	anche la #escritura #demasiado #demasiado
 PST003	facile
 PST200	mh
-PST004	s~ abbastanza igual igual igual
+PST004	s~ abbastanza #igual #igual #igual
 PST200	mh mh
 PST004	solo cambia
 PST004	qualcosa de parola
@@ -509,14 +509,14 @@ PST004	sì sì sì
 PST004	però la prima volta quando io è arrivata qui
 PST004	no non capisci
 PST004	no
-PST004	entendía cómo se dice xx capivo
+PST004	#entendía #cómo #se #dice xx capivo
 PST200	sì sì non capivi
 PST003	non capisci
 PST004	niente niente niente e
 PST200	sì sì
-PST004	adesso sì perché ya
+PST004	adesso sì perché #ya
 PST200	okay
-PST004	sé que es similar entonc~ anche la escritura
+PST004	#sé que #es #similar #entonc~ anche la #escritura
 PST200	mh mh
 PST200	mh
 PST004	ta mh
@@ -578,7 +578,7 @@ PST200	ciao bene
 PST003	sì sì vieni vieni tutto bene
 PST004	va bene va bene a posto a posto sì sì
 PST003	eh eh
-PST004	para
+PST004	#_ para
 PST003	e e le persone xx le parole xx
 PST003	sì sì sì no no no
 PST003	mh non capisci niente
@@ -611,22 +611,22 @@ PST200	mh mh mh mh
 PST200	e pure per te è così hai ti senti senti che il tuo italiano è è migliorato
 PST004	non molto perché non lo uso costantemente
 PST200	okay
-PST004	non lo uso solo a qui quando r~ ah vengo a la a clases
-PST004	solo parliamo però non molto es
-PST004	mh es un polo che parliamo perché dopo
+PST004	non lo uso solo a qui quando r~ ah vengo a la a #clases
+PST004	solo parliamo però non molto #es
+PST004	mh #es un polo che parliamo perché dopo
 PST004	la escuola è
-PST004	vado con mia amica o con mia famiglia y
-PST004	siempre parliamo el español
+PST004	vado con mia amica o con mia famiglia #y
+PST004	siempre parliamo #el #español
 PST200	mh
-PST004	entonces
+PST004	#_ entonces
 PST200	eh sì tu hai la famiglia qui quindi parlate sempre spagnolo
-PST004	español español siempre ((ride))
+PST004	#_ español español siempre ((ride))
 PST200	mh mhmh mh
 PST200	e
-PST004	anche mia figlia no parla italiano es eh
+PST004	anche mia figlia no parla italiano #es eh
 PST200	no
 PST004	no no no
-PST004	parla español
+PST004	parla #español
 PST200	ha sette anni giusto
 PST004	no però e~ en la scuola sì
 PST200	okay
@@ -645,13 +645,13 @@ PST200	e che sappia anche l'italiano
 PST004	sì
 PST200	per te è importante che li sa entrambi
 PST004	lo sa
-PST004	sì il il due idioma
-PST004	perché s~ porque es
+PST004	sì il il due #idioma
+PST004	perché s~ #porque #es
 PST200	okay
-PST004	per me es importante due idioma anche me
+PST004	per me #es importante due #idioma anche me
 PST200	okay
 PST004	piacerebbe che
-PST004	ha el inglese altro idioma
+PST004	ha #el inglese altro #idioma
 PST200	mh
 PST004	sì me piacerebbe non lo s~
 PST200	mh
@@ -666,25 +666,25 @@ PST200	e e quindi tu avendo la tua famiglia qua
 PST200	riesci a mantenere anche magari un po' le tradizioni
 PST004	sì
 PST200	del tuo paese
-PST004	sì sì siempre
-PST004	siempre
+PST004	#_ sì sì siempre
+PST004	#_ siempre
 PST200	okay fammi qualche esempio magari
 PST004	eh per esempio questa se~ settimana s~ mesi
-PST004	que es semana santa
+PST004	#_ que es semana santa
 PST200	mh mh
 PST004	che se chiama
-PST004	è sempre nostra tradición e en
-PST004	viernes santos
+PST004	è sempre nostra #tradición e en
+PST004	#_ viernes santos
 PST004	eh
 PST200	okay
-PST004	viernes venerdì
+PST004	#viernes venerdì
 PST200	okay venerdì santo sì
 PST003	venerdì
 PST004	santo
 PST004	se mangia eh sempre eh dodici piatti
 PST200	wow
 PST004	e e
-PST004	non dobbiamo mangiare eh hasta el mezzogiorno
+PST004	non dobbiamo mangiare eh #hasta #el mezzogiorno
 PST200	okay
 PST004	e dobbiamo eh cucinare
 PST004	eh dodici piatti
@@ -698,7 +698,7 @@ PST004	qualcosa del mare
 PST200	mh mhmh mh mh
 PST004	sì
 PST004	e
-PST004	s~ solo esa es la tradizione perché non lo so mh
+PST004	s~ solo #esa #es la tradizione perché non lo so mh
 PST200	mh
 PST004	mh
 PST004	mangiare lo dodidici piatti
@@ -710,7 +710,7 @@ PST200	del vostro paese bello
 PST004	queste con
 PST004	questo xxx è come mh
 PST003	x
-PST004	como a je~ jesús cristo
+PST004	#_ como a je~ jesús cristo
 PST003	eh
 PST004	o xxx
 PST003	balla~
@@ -728,7 +728,7 @@ PST200	ah
 PST200	ah
 PST004	detto per
 PST004	anno
-PST004	che abbiamo fatto entonces
+PST004	che abbiamo fatto #entonces
 PST200	wow
 PST004	sì sì
 PST200	okay ma ai bambini
@@ -758,7 +758,7 @@ PST200	mangiate piatti del tuo paese oppure
 PST200	mh
 PST004	a casa io sempre cucino eh piatto peruviano
 PST200	okay
-PST004	siempre sempre
+PST004	#siempre sempre
 PST200	okay
 PST004	sempre sempre no
 PST200	e non c'è nessuna tradizione magari italiana qualche piatto qualsiasi cosa che
@@ -768,9 +768,9 @@ PST200	vorresti rifare
 PST004	no solo me piace quello che se danno ai bambini l'uo~ uova
 PST004	uova de cioccolato
 PST200	ah di pasqua
-PST004	en mio paese non c'è no quello no existe
+PST004	en mio paese non c'è no quello no #existe
 PST200	okay
-PST004	però qui sì y me piace perché al a mi~ a tutti i bambini le piace quello del cioccolato y quel
+PST004	però qui sì #y me piace perché al a mi~ a tutti i bambini le piace quello del cioccolato #y quel
 PST200	sì
 PST200	con una sorpresa dentro
 PST004	quello
@@ -806,7 +806,7 @@ PST200	okay
 PST003	ah per per le le ci~ le cibo bene a mi piace le cibo ah italiano di la pasta
 PST200	ah
 PST003	sì
-PST003	è è è molto en el xxx
+PST003	è è è molto #en #el xxx
 PST003	ah
 PST003	pizza
 PST003	a me pizza nap~ napoletana okay non ho non ho pizza di
@@ -925,7 +925,7 @@ PST200	e che come come comunicate tra di voi che avete tutti lingue diverse
 PST003	eh
 PST003	di i per per a la la cosa è bene per
 PST200	okay
-PST003	i li tanti tanti paesi
+PST003	#i li tanti tanti paesi
 PST200	mh
 PST003	di tanti paesi
 PST003	mi
@@ -990,7 +990,7 @@ PST200	eh mentre tra di voi ci sono proprio delle pronuncie diverse no
 PST004	sì è diverso
 PST200	mh mh mh mh
 PST004	è
-PST004	como noi le mettiamo como un po' de españolo lui le mette su idioma
+PST004	#como noi le mettiamo #como un po' de españolo lui le mette #su #idioma
 PST004	mh
 PST200	ah quindi quindi
 PST004	sì è diverso
@@ -1049,7 +1049,7 @@ PST200	ma tu pensi che sia perché lei lei parla spagnolo quindi si capisce di p
 PST003	eh s~ parla spa~ x sì parla eh parla esp~
 PST004	españolo
 PST003	sì spagnolo
-PST004	como è similare se può capisc~
+PST004	#como è similare se può capisc~
 PST004	eh se capisci
 PST200	mh
 PST004	la parola
@@ -1065,7 +1065,7 @@ PST004	no
 PST003	è difficile
 PST004	no
 PST003	e per forza
-PST003	giorno por dopo giorno
+PST003	giorno #por dopo giorno
 PST003	l'anno p~ dopo l'anno e le
 PST003	parli sempre italiano
 PST200	mh mh
@@ -1108,7 +1108,7 @@ PST003	i documenti
 PST003	eh sì
 PST003	eh ma
 PST003	li li tanti li tanti del
-PST004	no aplicación
+PST004	no #aplicación
 PST003	no
 PST003	chiami a a applicazioni
 PST200	le applicazioni
@@ -1118,7 +1118,7 @@ PST003	sì
 PST200	anche delle dei nomi precisi in italiano
 PST003	sì leggi li mi xx a italiano
 PST200	mhmh mh
-PST003	i li li capiti bene non lo capiscio è tradizione araba
+PST003	#i li li capiti bene non lo capiscio è tradizione araba
 PST200	mh mhmh
 PST003	la la ah la tradizione prima volta
 PST003	secondo volta
@@ -1134,7 +1134,7 @@ PST200	hai ragio~
 PST200	e tu anche tu ce l'hai in italiano il telefono no
 PST003	españolo
 PST200	eh eh in spagnolo
-PST004	español
+PST004	#_ español
 PST200	eh sì sì
 PST200	no però non c'è niente di
 PST200	di cui vergognarsi tu parli più spagnolo
@@ -1148,12 +1148,12 @@ PST004	mh
 PST004	no sempre
 PST200	mh
 PST004	perché
-PST004	io devo imparare por forza el italiano
-PST004	perché así eh l'altra persona me capisce per forza
+PST004	io devo imparare #por forza #el italiano
+PST004	perché #así eh l'altra persona me capisce per forza
 PST200	mh
 PST004	e lui s~
-PST004	por f~
-PST004	más por forza porque el parla otro idioma que es muy muy diverso da dall'idioma italiano entonces
+PST004	#por f~
+PST004	#más #por forza #porque #el parla #otro #idioma #que #es #muy #muy diverso da dall'#idioma italiano #entonces
 PST200	eh sì
 PST200	quindi magari lui lui deve impararl~ deve imparlo prima tu tu tu puoi prederti più tempo magari
 PST004	mi spiace
@@ -1164,64 +1164,64 @@ PST004	mia famgilia sempre espagnolo io non lo so perché eh
 PST200	mhmh
 PST200	però vi potete aiutare ecco magari
 PST004	mia mamma
-PST004	le io le digo a mia mamma ma porque no parle el italiano así così io parlo parlo tutto il tempo e mio figlio parla
+PST004	le io le #digo a mia mamma ma #porque no parle #el italiano #así così io parlo parlo tutto il tempo e mio figlio parla
 PST200	eh
-PST004	no no no no no no io non voglio parlare en italiano io parlo españolo in casa así
+PST004	no no no no no no io non voglio parlare #en italiano io parlo españolo in casa #así
 PST200	mh
 PST003	ah xxx mh
-PST004	xx è fuori ya
-PST004	parlo italiano ah ya xx
+PST004	xx è fuori #ya
+PST004	parlo italiano ah #ya xx
 PST200	mh
 PST200	mh mh mh mh mh
 PST200	mh
 PST200	ehm
 PST200	eh tu però l'inglese non lo sai giusto
-PST004	no no no io no lo sé
+PST004	#_ no no no io no lo sé
 PST200	solo italiano e spagnolo okay okay
 PST200	ehm
 PST200	ma oltre la tua famiglia conosci altre persone a torino che parlano lo spagnolo
 PST200	che hanno la tua stessa lingua
 PST200	madre
 PST200	o soltanto la tua famiglia con la tua famiglia parli spagnolo
-PST004	no e en aquì tante persone peruviane entonces
+PST004	no e #en aquì tante persone peruviane #entonces
 PST004	ehm
-PST004	per esempio e aquì eh hay el parco parco dora
+PST004	per esempio e aquì eh #hay #el parco parco dora
 PST200	sì
 PST004	parco dora el pellerina
 PST200	pellerina sì
-PST004	sempre en la pellerina y tutti persona peruviane
+PST004	sempre #en la pellerina #y tutti persona peruviane
 PST200	ah
 PST004	peruviani tanti persona peruviane
 PST200	ah è vero
 PST200	qualche volta sono andata con degli amici è vero ci sono
 PST200	sì ho sentito della musica
-PST004	sì tu è sempre sempre sempre entonces
+PST004	sì tu è sempre sempre sempre #entonces
 PST200	tipica
 PST004	anche andiamo a altro parco peruviani peruviani pe~ mh
 PST200	mhmh
-PST004	y ya po~ por forza
-PST004	ah parliamo tutti porque en mio paese eh
+PST004	#y #ya po~ #por forza
+PST004	ah parliamo tutti #porque #en mio paese eh
 PST004	el eh
-PST004	anche siamo peruviani non parliamo así de de confianza sì como parliamo así
+PST004	anche siamo peruviani non parliamo #así de de #confianza sì #como parliamo #así
 PST200	okay
 PST004	ah parliamo tutto il tempo no
-PST004	somos
+PST004	#_ somos
 PST004	a distanza
 PST200	mh
 PST200	okay
-PST004	tu per tu parte y io per mio
+PST004	tu per tu parte #y io per mio
 PST200	okay quindi non anche quando vai al parco non non fai molta amicizia con loro
 PST004	però
 PST004	no no non parliamo così però
 PST004	aquì è diverso
 PST200	ah
-PST004	tutti somos fratelli tu~ tutti somos così quindi unito
+PST004	tutti #somos fratelli tu~ tutti #somos così quindi unito
 PST200	ah
 PST200	e perché pensi che sia diverso nel tuo paese rispetto a qua
 PST004	io
 PST004	non lo so
-PST004	eh non lo so porque en mio paese así mh n~ n~ n~ n~ no io no parlo con quella persona no no no però aquì es diverso è como che
-PST004	tuitti son amici amici tutti tutti somos así
+PST004	eh non lo so #porque #en mio paese #así mh n~ n~ n~ n~ no io no parlo con quella persona no no no però aquì #es diverso è #como che
+PST004	tuitti son amici amici tutti tutti #somos #así
 PST200	mh
 PST004	uniti
 PST200	sì sì sì
@@ -1239,12 +1239,12 @@ PST004	sì
 PST004	sì
 PST004	io sono contenta
 PST200	mh
-PST004	sono felice porque io digo mi mio paesano mio
+PST004	sono felice #porque io #digo mi mio paesano mio
 PST200	sì sì sì compaesano
 PST004	paesano s~
 PST004	sì sì
-PST004	están aquì fuori de de nuestro paese
-PST004	y io me sento contenta
+PST004	#están aquì fuori de de #nuestro paese
+PST004	#y io me sento contenta
 PST200	ti senti più a casa
 PST004	sì sì
 PST200	okay
@@ -1254,7 +1254,7 @@ PST004	eh dove scusa
 PST200	in italia dico
 PST004	no qui sì in italia sì perché
 PST200	mh
-PST004	tanti peruviani entonces
+PST004	tanti peruviani #entonces
 PST004	così parliamo
 PST200	mh
 PST200	okay
@@ -1262,7 +1262,7 @@ PST200	okay okay
 PST004	de qualcosa mh che sus~ gius~
 PST200	eh certo
 PST004	cius~ sussede succede
-PST004	succedendo en nuestro paese
+PST004	succedendo #en nuestro paese
 PST200	succede
 PST200	mh mh mh mh mh
 PST004	sì sì
@@ -1274,7 +1274,7 @@ PST200	pieno di persone arabe
 PST200	no
 PST003	a a t~ a torino li
 PST003	eh marocchino
-PST003	egypto e l'egypto
+PST003	#egypto e l'#egypto
 PST200	mh
 PST003	ah bangladishi
 PST200	mh
@@ -1284,7 +1284,7 @@ PST004	sì
 PST003	ah
 PST003	le le quattro paesi le
 PST003	xxx
-PST003	i li
+PST003	#i li
 PST003	le li li tanti africano del sud
 PST200	okay
 PST003	sì sì sì sì
@@ -1400,7 +1400,7 @@ PST003	no
 PST003	eh gioco di
 PST003	centro al campo
 PST200	okay
-PST003	très forte
+PST003	#très forte
 PST003	e mi piace la la la palla
 PST200	mhmh
 PST003	sì li due anni fa
@@ -1408,7 +1408,7 @@ PST003	ah abita a romania
 PST200	mhmh
 PST003	romania
 PST003	e lavoro a romania
-PST003	y lì gioco a la palla romania
+PST003	#y lì gioco a la palla romania
 PST200	ah quindi tu hai vissuto anche
 PST200	non hai vissuto soltanto in italia
 PST003	e lavoro e lavo~ e lavoro e lavoro a romania
@@ -1466,9 +1466,9 @@ PST200	ah okay
 PST003	diverso prego a italiano
 PST200	mh mh mh mh
 PST003	ah
-PST003	di di m~ mulţumesc
+PST003	di di m~ #mulţumesc
 PST003	di grazie
-PST003	grazie a italiano di mulţumesc a romania
+PST003	grazie a italiano di #mulţumesc a romania
 PST200	okay
 PST200	okay okay ho capito ho capito
 PST200	quindi un po' un po' lo sai
@@ -1478,11 +1478,11 @@ PST003	di cose xx
 PST200	okay quindi
 PST200	un po' lo sai il rumeno
 PST003	ah non lo pensi tanto in romania y ni per
-PST003	per lavorare tanti y non pagare bene
+PST003	per lavorare tanti #y non pagare bene
 PST200	okay
 PST003	e i li s~ i soldi no no non ho come italiano spagnolo o francese euro no
 PST200	okay
-PST003	din~ leu
+PST003	din~ #leu
 PST003	ah l~ le
 PST003	li e ah
 PST003	le soldi
@@ -1490,10 +1490,10 @@ PST200	okay
 PST003	di nomi di lì
 PST200	ah sì sì sì sì sì ho capito ho capito
 PST003	no euro
-PST003	per marocco dirham
+PST003	per marocco #dirham
 PST200	okay
-PST003	dirha~ marocco dirham
-PST003	romania leu
+PST003	#dirha~ marocco #dirham
+PST003	romania #leu
 PST200	ah okay ho capito ho capito sì sì
 PST200	ah okay qui~ quindi ti trovi meglio
 PST200	magari in italia anche per la questione del lavoro
@@ -1528,17 +1528,17 @@ PST004	la musica
 PST200	la musica
 PST004	me piace bastan~ abbastanza
 PST200	e quale tipo
-PST004	la musica me piace el reggaeton un po' de salsa
+PST004	la musica me piace #el reggaeton un po' de salsa
 PST200	ah ah
 PST004	mh
 PST200	okay
 PST004	xx un po'
 PST004	eh
-PST004	de più esto reggaeton sempre
+PST004	#de più #esto reggaeton sempre
 PST200	okay reggaeton
 PST004	anche bachata
 PST200	okay
-PST004	bachata un po' de rock
+PST004	bachata un po' #de rock
 PST004	un po'
 PST200	mh
 PST004	un po'
@@ -1546,9 +1546,9 @@ PST004	x
 PST004	sì me piace
 PST200	mh mh mh mh
 PST004	eh
-PST004	quello sol mh io no io no vado a ningunas
-PST004	no vado a ningún
-PST004	para re fare l'esport no
+PST004	quello sol mh io no io no vado a #ningunas
+PST004	no vado a #ningún
+PST004	#para re fare l'esport no
 PST200	mh mh mh mh
 PST200	non ti piace
 PST200	lo sport
@@ -1556,7 +1556,7 @@ PST004	mh
 PST004	non
 PST004	mh
 PST200	neanche a me
-PST004	ni lo penso ((ride))
+PST004	#_ ni lo penso ((ride))
 PST200	okay okay
 PST200	ehm
 PST200	e e c'è ci sono invece delle passioni che
@@ -1567,7 +1567,7 @@ PST200	non non fate
 PST200	sì
 PST004	eh eh eh
 PST004	ehm
-PST004	a me me pia~ me piacerebbe studiare psicología
+PST004	a me me pia~ me piacerebbe studiare #psicología
 PST200	ah ah
 PST004	sì
 PST200	che bello
@@ -1582,10 +1582,10 @@ PST004	mh
 PST200	mh mh mh mh
 PST200	ma nel tuo paese studiavi
 PST200	psicologia oppure no
-PST004	no l~ he estudiado la carrera de contabilità
+PST004	no l~ #he #estudiado la #carrera #de contabilità
 PST004	commerciale
 PST200	okay
-PST004	sì lo he finito y
+PST004	sì #lo #he finito #y
 PST004	dopo me venu~ è venuta qua
 PST200	okay quindi
 PST004	xxxx
@@ -1630,7 +1630,7 @@ PST003	e il diploma di di
 PST003	xx di di muletto
 PST200	mhmh
 PST003	il magazziniere
-PST003	y y di~ y diploma di di eh c~ croce rosse
+PST003	#y #y di~ #y diploma di di eh c~ croce rosse
 PST200	di che
 PST003	aspetta
 PST200	ma ce li hai questi diplomi tu
@@ -1694,7 +1694,7 @@ PST200	okay
 PST003	di moro
 PST003	e li tutti chiusa
 PST003	e i
-PST003	y una una me~ eh una mesi di
+PST003	#y una una me~ eh una mesi di
 PST003	di fallidiani
 PST200	okay
 PST003	sì no piaci farli meno per
@@ -1711,8 +1711,8 @@ PST004	no niente no
 PST200	mh mhmh mh
 PST200	ah bhe tu sei anche più giovane
 PST004	s~ so~
-PST004	solo he lavorato aquì
-PST004	eh como le ditto solo weekend porque en mio paese no
+PST004	solo #he lavorato aquì
+PST004	eh #como le ditto solo weekend #porque #en mio paese no
 PST200	non hai lavorato
 PST004	no no niente solo a estudiare
 PST200	okay
@@ -1729,7 +1729,7 @@ PST200	e poi dopo
 PST200	non hai lavorato ti sei trasferita
 PST004	aquì sì mia mamma mi ha detto ah
 PST200	qua
-PST004	mh tu vuole venire aquì sì sì sì mamma sì sì ya
+PST004	mh tu vuole venire aquì sì sì sì mamma sì sì #ya
 PST200	ah
 PST004	subito
 PST200	okay e quindi prima di te
@@ -1740,14 +1740,14 @@ PST004	mia mamma prima è venuta qui sì
 PST200	prima
 PST200	okay
 PST200	q~ e i tuoi zii anche
-PST004	ah mh dopo mi zia
+PST004	ah mh dopo #mi zia
 PST200	okay
-PST004	ella
-PST004	está abitando più o meno quattro quattri anni
+PST004	#_ ella
+PST004	#está abitando più o meno quattro quattri anni
 PST200	okay
-PST004	mi zio ah è venuto più o meno un anno
+PST004	#mi zio ah è venuto più o meno un anno
 PST004	un anno fa
-PST004	mi zio
+PST004	#mi zio
 PST200	okay
 PST004	eh
 PST200	okay okay
@@ -1767,7 +1767,7 @@ PST003	va bene
 PST200	in cerca
 PST200	mentre
 PST200	mh
-PST004	contabilidad (.) commercial
+PST004	#_ contabilidad (.) commercial
 PST200	okay quello però è il tuo studio no gli studi che hai fatto
 PST200	mentre il l~ il lavoro che tu fai adesso qua è
 PST200	mh tipo la badante è una cosa simile sì
@@ -1776,7 +1776,7 @@ PST004	la badante sì sì s~
 PST004	sì sì
 PST200	badante okay
 PST200	poi scriverò anche badante ma sogna di fare psicologia
-PST004	xx psicología
+PST004	xx #psicología
 PST200	eh beh perché puoi farlo eh
 PST200	puoi farlo
 PST004	sì

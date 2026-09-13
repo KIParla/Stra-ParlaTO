@@ -34,7 +34,7 @@ PST217	te lo metto io qui questo perché non
 PST108	sì sì bene
 PST217	perché xxx
 PST108	brava
-PST107	abbiamo anche un amico da frankfurt
+PST107	abbiamo anche un amico da #frankfurt
 PST217	ah sì
 PST107	sì
 PST217	su torino scusa
@@ -118,7 +118,7 @@ PST107	agadir e come si chiama l'altra
 PST107	qua vicino
 PST107	agadir e
 PST107	sai come si chiama
-PST107	'a3ūdu bī-llahi mina sh-shayṭāni r-rajīm
+PST107	#_ 'a3ūdu bī-llahi mina sh-shayṭāni r-rajīm
 PST217	non lo so
 PST217	io sono s~ quando sono andata sono stata
 PST217	ehm marrakech
@@ -142,7 +142,7 @@ PST107	sì
 PST108	bella taghazout
 PST107	xxx taghazout bello di là sta zona qua bellissima
 PST217	mh mh
-PST107	taghazout xx
+PST107	#_ taghazout xx
 PST107	scritti tutti quello
 PST217	taghazout
 PST107	taghazout
@@ -154,7 +154,7 @@ PST108	sì
 PST217	ah
 PST108	taghazout
 PST107	scritto xxx
-PST107	xx
+PST107	#_ xx
 PST217	che è un'altra città
 PST107	guarda andato lì l'anno scorso
 PST217	ah
@@ -241,8 +241,8 @@ PST217	okay
 PST217	no no non l'ho provato però abbiamo fatto snowboard
 PST107	mh sonwboard sì
 PST108	ah
-PST107	mā-t-ṣbarsh-līhā
-PST108	mā-t-ṣbarsh
+PST107	#_ mā-t-ṣbarsh-līhā
+PST108	#_ mā-t-ṣbarsh
 PST107	è dura
 PST217	è dura
 PST108	settanta gradi sotto sabbia
@@ -301,7 +301,7 @@ PST217	sì sì tangeri sempre a ovest
 PST108	ovest
 PST108	sì sempre a spagna tangeri sì
 PST107	spagnolo
-PST217	sì il mio ragazzo vive di fronte al hm eh almería
+PST217	sì il mio ragazzo vive di fronte al mh eh almería
 PST107	almeria sì sì almeria spagna spagna sì almeria
 PST108	almeria sì ah spagnolo
 PST108	anche lui vive là
@@ -431,7 +431,7 @@ PST108	e tremila kilometri lì
 PST107	kilometri
 PST217	eh ma voi parlate anche il francese
 PST107	no
-PST108	un peu
+PST108	#_ un peu
 PST107	poco
 PST108	un po'
 PST108	ma parli un po' anche francese
@@ -440,35 +440,35 @@ PST217	poco
 PST107	e arabo niente
 PST217	arabo no
 PST107	o niente sì
-PST217	no eh so solo eh shukran
+PST217	no eh so solo eh #shukran
 PST107	niente
 PST108	sa anche il francesi
-PST217	shru~ shukran
+PST217	#_ shru~ shukran
 PST108	solo francese inglese e tedesco
-PST107	shukran grazie shukran
-PST217	shukran
-PST217	shukran e
-PST107	xobz
-PST217	xobz
-PST107	xobz
-PST108	salam aleikum
+PST107	#shukran grazie #shukran
+PST217	#_ shukran
+PST217	#_ shukran e
+PST107	#_ xobz
+PST217	#_ xobz
+PST107	#_ xobz
+PST108	#_ salam aleikum
 PST217	cos'è
-PST217	salam aleikum
+PST217	#_ salam aleikum
 PST108	sì
 PST107	ciao
 PST107	dormi
-PST107	n3ās
-PST217	layla
-PST107	l-3ā’ila è la famiglia
-PST217	layla non è notte
-PST108	layla layla saėda
-PST217	layla
+PST107	#_ n3ās
+PST217	#_ layla
+PST107	#_ l-3ā’ila è la famiglia
+PST217	#_ layla non è notte
+PST108	#_ layla layla saėda
+PST217	#_ layla
 PST107	layla saėda
 PST107	buonanotte
 PST107	eh è la famiglia
-PST107	l-3ā’ila
-PST217	ah okay la a~ eayila è la famiglia
-PST217	layla è la notte
+PST107	#_ l-3ā’ila
+PST217	ah okay la a~ #eayila è la famiglia
+PST217	#_ layla è la notte
 PST217	no
 PST217	no una mia amica è
 PST217	ha il papà che è egiziano
@@ -482,9 +482,9 @@ PST217	e e lei adesso ha avuto una bambina e l'ha chiamata layla
 PST108	layla
 PST107	layla sì
 PST217	e quindi solo per quello so che
-PST107	layla saėda buonanotte
+PST107	#_ layla saėda buonanotte
 PST217	e buongiorno
-PST107	sabah al-khair
+PST107	#_ sabah al-khair
 PST217	ah però non è lo stesso
 PST107	no no
 PST217	non c'è buon
@@ -493,13 +493,13 @@ PST217	perché ehm la lingua berbera
 PST217	o no
 PST108	berbera
 PST217	eh
-PST107	berberes no no no
+PST107	#berberes no no no
 PST108	no quello no
 PST107	troppo
 PST107	parli arabo
-PST107	derija xxx
+PST107	#_ derija xxx
 PST108	xxx xxx
-PST217	derija
+PST217	#_ derija
 PST217	cosa
 PST108	ci sono alcuni che parlano berbero
 PST107	ho anco~ ho
@@ -515,33 +515,33 @@ PST217	mh mh
 PST107	no no marocchino non tu~ pa~ berbero
 PST108	c'è una città
 PST108	tipo vicino agadir
-PST107	fare solo aghrum
+PST107	fare solo #aghrum
 PST108	ci sono x che parlano
-PST107	aghrum
-PST107	aghrum ((ride))
+PST107	#_ aghrum
+PST107	#_ aghrum ((ride))
 PST217	agra è il pa~
-PST108	aghrum
-PST107	aghrum
+PST108	#_ aghrum
+PST107	#_ aghrum
 PST107	berbari
-PST217	aghrum
+PST217	#_ aghrum
 PST107	pani
 PST217	ah okay
 PST107	sì
 PST217	okay è diverso molto
 PST107	sì
-PST108	sì è diverso aghrum
-PST107	aghrum
+PST108	sì è diverso #aghrum
+PST107	#_ aghrum
 PST217	ah ah
 PST107	pane
 PST217	ma quindi qualche parola la conoscete
 PST217	in be~
 PST108	solo arabo
 PST217	solo a~ e perché
-PST107	xx
-PST217	e per cosa è importante eh aghrum
+PST107	#xx
+PST217	e per cosa è importante eh #aghrum
 PST108	eh pane
 PST107	pane
-PST107	barbari aghrum
+PST107	barbari #aghrum
 PST217	perché x
 PST217	eh ma avete lavorato in una panetteria
 PST217	come fate
@@ -552,7 +552,7 @@ PST108	no ma quando vai
 PST107	con
 PST108	ma qui
 PST108	tipo tipo quando vai
-PST108	quando vai tipo quella città xx
+PST108	quando vai tipo quella città #xx
 PST107	eh ciau~ cia~ ceru~ cia~
 PST217	eh eh
 PST107	xxx
@@ -607,7 +607,7 @@ PST108	sì
 PST108	eh quelli che a marrakech sono abituati a parlare in arabo
 PST217	sì
 PST217	okay
-PST217	mh hm
+PST217	mh mh
 PST108	se vai in montagna
 PST108	trovi italiani ti parlano anche berberi
 PST217	ah ah
@@ -666,188 +666,188 @@ PST217	qua~ cosa
 PST108	torni in estate qua no
 PST217	torno estate sì e può essere che torni anche
 PST107	che dove abito mh
-PST107	qua o berlin
+PST107	qua o #berlin
 PST217	xxx
 PST108	brescia brescia
 PST217	ah
 PST107	no
 PST107	no eh che che
-PST108	salam aleikum rivolto a cliente
+PST108	#_ salam aleikum rivolto a cliente
 PST107	qua e berlin
-PST108	kī dāyra
-PST107	xx kī dāyra hiya hādi lābās 'a3līk kulshī bixīr llah y-ḥafḍak
-PST107	mzyāna dābā ṭaḥḥāna
-??	wu-rā ṭaḥnā bīhā ṣbāḥ
-PST107	jbdnāhā tānī rā dārnā ta3wīḍa wālū
-??	wālū fīhā ghāy kūn difetto mn mn mn
-PST107	hāt lā hāt bǝ3t
+PST108	#_ kī dāyra
+PST107	#_ xx kī dāyra hiya hādi lābās 'a3līk kulshī bixīr llah y-ḥafḍak
+PST107	#_ mzyāna dābā ṭaḥḥāna
+??	#_ wu-rā ṭaḥnā bīhā ṣbāḥ
+PST107	#_ jbdnāhā tānī rā dārnā ta3wīḍa wālū
+??	#_ wālū fīhā ghāy kūn difetto mn mn mn
+PST107	#_ hāt lā hāt bǝ3t
 ??	xx
-PST107	lā bǝ3t fīhā diyāl qoṭra
-PST107	fahmtī-sh mā-n-gūl-lǝk
-PST107	mā-kaynsh shī wāḥd lī-radd-hā
-??	rā-hāda hūwa l-mushkil
-PST107	waayyǝh rā-hādshī lī-kān-gūl-lǝk 'anā hādshī lī-daxxalnī l-shshǝk 'anā
-??	'anā n-kun 3ā ṭḥant bīhā n-gūl-lek mǝtalān nos sta3 stā3 sfūf
-PST107	āh n-gūlū ms~
-??	bīllah xx
-PST107	3raft 'ash gltī-līyā ṭaḥna l-uwwlā gltī-līyā
-??	wāllah mā kāmlat ṭaḥna diyāl xx
-PST107	xx
-??	wa-ḥatta l-mīzān kān 3bār
-PST107	sbhana llāh l-3aḍīm
-??	'anā l-qaḍīya annak lā zdttī lā dosage xx
-PST107	āh kt kt 3at-qawwī 3līhā bǝzzāf
-??	xx 3la mākinā
-??	wa-ḥatta ḥdāyā l-mīzān wu-tān 3bār
-PST107	3bār ǝh
-??	kurkub
-??	mǝn lā bdīt
-??	wa-hādhāk ṣ-ṣubāḥ xx
-PST107	subḥāna-llāh l-3aḍīm mā-ktabash-lǝk
-??	ta xamsīn oro diyāl sab3īn ghādīya dyāl sfūf
-PST107	gǝltīhā-lī gǝltī rā xallīt kulshī
-??	wu-kī-ghādī n-dīr-līhā dābā hādakshī fīhā oro dākshī mushkil daxxhalthā l-farrān wu-ḥammarthā wu-xarrajthā
-PST107	wu-nhār l-uwwǝl f-ramḍān wu-3andak xx
-??	wu-3addī d-drārī
-PST107	xx
-PST108	mzhar kī-dīr 3andak
-??	xx
-PST107	3ammrak t-khallī
-??	xx
-PST107	3ammrak t-khallī tā ḥāja tāl ākhir daqīqa
-PST107	dīmā l-yumayn wu s-sīmāna
-??	xx
-PST107	'a3raft 'a3raftha
-??	hāda huwa l-mushkīl
-PST107	qāṣḥa shw~
-??	xx
-??	dīmā xx
-??	ilā kulshī mǝllǝf zanqa xx dār xx kulshī kulshī
-PST107	3raft 3raft s-salām wu raḥmat llāh
-PST107	kulshī
-??	kulshī
-PST108	taḥna mā-sāhla
-PST107	xx
-??	'ash ghan-dīrū
-PST107	kulshī zīn
-PST107	hā-hiya jat-lī t-wǝnsǝk
-PST107	hādī rā-mārt @amir
-??	'ah @amir
-PST107	3āngīhā wu-būsīhā
-??	mnī kān mīm-čo
-PST108	wah
-??	t-shǝrbī
+PST107	#_ lā bǝ3t fīhā diyāl qoṭra
+PST107	#_ fahmtī-sh mā-n-gūl-lǝk
+PST107	#_ mā-kaynsh shī wāḥd lī-radd-hā
+??	#_ rā-hāda hūwa l-mushkil
+PST107	#_ waayyǝh rā-hādshī lī-kān-gūl-lǝk 'anā hādshī lī-daxxalnī l-shshǝk 'anā
+??	#_ 'anā n-kun 3ā ṭḥant bīhā n-gūl-lek mǝtalān nos sta3 stā3 sfūf
+PST107	#_ āh n-gūlū ms~
+??	#_ bīllah xx
+PST107	#_ 3raft 'ash gltī-līyā ṭaḥna l-uwwlā gltī-līyā
+??	#_ wāllah mā kāmlat ṭaḥna diyāl xx
+PST107	#_ xx
+??	#_ wa-ḥatta l-mīzān kān 3bār
+PST107	#_ sbhana llāh l-3aḍīm
+??	#'anā #l-qaḍīya #annak #lā zdttī #lā #dosage xx
+PST107	#_ āh kt kt 3at-qawwī 3līhā bǝzzāf
+??	#_ xx 3la mākinā
+??	#_ wa-ḥatta ḥdāyā l-mīzān wu-tān 3bār
+PST107	#_ 3bār ǝh
+??	#_ kurkub
+??	#_ mǝn lā bdīt
+??	#_ wa-hādhāk ṣ-ṣubāḥ xx
+PST107	#_ subḥāna-llāh l-3aḍīm mā-ktabash-lǝk
+??	#_ ta xamsīn oro diyāl sab3īn ghādīya dyāl sfūf
+PST107	#_ gǝltīhā-lī gǝltī rā xallīt kulshī
+??	#_ wu-kī-ghādī n-dīr-līhā dābā hādakshī fīhā oro dākshī mushkil daxxhalthā l-farrān wu-ḥammarthā wu-xarrajthā
+PST107	#_ wu-nhār l-uwwǝl f-ramḍān wu-3andak xx
+??	#_ wu-3addī d-drārī
+PST107	#_ xx
+PST108	#_ mzhar kī-dīr 3andak
+??	#_ xx
+PST107	#_ 3ammrak t-khallī
+??	#_ xx
+PST107	#_ 3ammrak t-khallī tā ḥāja tāl ākhir daqīqa
+PST107	#_ dīmā l-yumayn wu s-sīmāna
+??	#_ xx
+PST107	#_ 'a3raft 'a3raftha
+??	#_ hāda huwa l-mushkīl
+PST107	#_ qāṣḥa shw~
+??	#_ xx
+??	#_ dīmā xx
+??	#_ ilā kulshī mǝllǝf zanqa xx dār xx kulshī kulshī
+PST107	#_ 3raft 3raft s-salām wu raḥmat llāh
+PST107	#_ kulshī
+??	#_ kulshī
+PST108	#_ taḥna mā-sāhla
+PST107	#_ xx
+??	#_ 'ash ghan-dīrū
+PST107	#_ kulshī zīn
+PST107	#_ hā-hiya jat-lī t-wǝnsǝk
+PST107	#_ hādī rā-mārt @amir
+??	#_ 'ah @amir
+PST107	#_ 3āngīhā wu-būsīhā
+??	#_ mnī kān mīm-čo
+PST108	#_ wah
+??	#_ t-shǝrbī
 ??	divirtiw
-PST107	hān ḍāḥkū lā māshī hādhāk s-sījī
-??	huwa xx keina
-PST107	xx
-??	xx haddāk nuṣ kilū n-qatta3
-PST108	xx
-PST108	hā-huwa ḥaṭṭ-aiḥluk xx
-??	kulshī tai-shūf
-PST108	baraka 3līk
-??	tā 3ādi y-grǝd fīhum l-nās bismi~
-PST107	xx wālo
-PST107	xx
-??	xx
-??	xx
+PST107	#_ hān ḍāḥkū lā māshī hādhāk s-sījī
+??	#_ huwa xx keina
+PST107	#_ xx
+??	#_ xx haddāk nuṣ kilū n-qatta3
+PST108	#_ xx
+PST108	#_ hā-huwa ḥaṭṭ-aiḥluk xx
+??	#_ kulshī tai-shūf
+PST108	#_ baraka 3līk
+??	#_ tā 3ādi y-grǝd fīhum l-nās bismi~
+PST107	#_ xx wālo
+PST107	#_ xx
+??	#_ xx
+??	#_ xx
 PST108	guarda con lei mancano i soldi
 PST217	ah okay
-??	'a-3raf kat-wuqa3 'u-rabbī
-??	ra-xamsa 'uru
-PST107	lā bṣṣaḥ
-??	xx
+??	#_ 'a-3raf kat-wuqa3 'u-rabbī
+??	#_ ra-xamsa 'uru
+PST107	#_ lā bṣṣaḥ
+??	#_ xx
 PST108	duecento euro
-PST107	wǝ-lā kī-kūn shḥāl
+PST107	#_ wǝ-lā kī-kūn shḥāl
 PST108	xx
-??	xx ghaddā t-gūlī-hālū xx
-PST107	y-kūn tā ghādī ta-teh
-?	hād l-qaḍiya āsh y-dīrū bīh
-??	'amār jīb-lī s-sīr
-??	xx garanzia non va bene
-PST108	wāllah mā kāīna
-??	rā n-tī lli-xāsǝr
-PST107	wāsh xāsǝr dābā
-??	t-xrǝj-lǝk difetto shǝ t-xsr-lǝk liǝum wullā t-xsr~
-PST107	dābā kat-rǝb~ ah
+??	#_ xx ghaddā t-gūlī-hālū xx
+PST107	#_ y-kūn tā ghādī ta-teh
+?	#_ hād l-qaḍiya āsh y-dīrū bīh
+??	#_ 'amār jīb-lī s-sīr
+??	#_ xx garanzia non va bene
+PST108	#_ wāllah mā kāīna
+??	#_ rā n-tī lli-xāsǝr
+PST107	#_ wāsh xāsǝr dābā
+??	#t-xrǝj-lǝk difetto #shǝ #t-xsr-lǝk #liǝum #wullā #t-xsr~
+PST107	#_ dābā kat-rǝb~ ah
 ??	xx
-PST107	dābā lā-xṣǝr-tī tī mā-t-bqāsh t-shūf
-PST108	hādīk 3āmra
-PST107	xtī mā-n-raddhāsh
-PST107	'anā n-smāḥ f-ḥaqqī
-??	ah xx n-gūll-ǝk bāghī y-mshī u-shnū ghā-y-mshī
-PST107	ǝ ma3qūla mǝn-ḥaqqaq
-PST107	lā mǝn-ḥaqqaq
-PST107	walākin maḥna mshīt shḥāl gltī-līyā xūyā xx tlāḥnā l-ūwlā
-PST108	xx
-??	xx
-PST107	lā lā xx
-??	rāhnā l-'ūwlā wullā jladī
-PST108	xx
-??	wullā l-lūz qāṣḥ
+PST107	#_ dābā lā-xṣǝr-tī tī mā-t-bqāsh t-shūf
+PST108	#_ hādīk 3āmra
+PST107	#_ xtī mā-n-raddhāsh
+PST107	#_ 'anā n-smāḥ f-ḥaqqī
+??	#_ ah xx n-gūll-ǝk bāghī y-mshī u-shnū ghā-y-mshī
+PST107	#_ ǝ ma3qūla mǝn-ḥaqqaq
+PST107	#_ lā mǝn-ḥaqqaq
+PST107	#_ walākin maḥna mshīt shḥāl gltī-līyā xūyā xx tlāḥnā l-ūwlā
+PST108	#_ xx
+??	#_ xx
+PST107	#_ lā lā xx
+??	#_ rāhnā l-'ūwlā wullā jladī
+PST108	#_ xx
+??	#_ wullā l-lūz qāṣḥ
 PST108	sta amica parla bene o no
-??	yāllāh xx
+??	#_ yāllāh xx
 PST108	vuoi un po' di oliva
 PST108	vuoi assaggiare un po' di oliva
-????	mktūba l-hādūk . āh yi-mkn
-PST107	gātlīhā xx
-????	wa-ḥamdullah
-??	wa-lābās 3līk kulshī mzyǝn
+????	#_ mktūba l-hādūk (.) āh yi-mkn
+PST107	#_ gātlīhā xx
+????	#_ wa-ḥamdullah
+??	#_ wa-lābās 3līk kulshī mzyǝn
 PST108	buono
-PST108	bāraka l-lah y-xallīk
-??	ta-hdar
-PST108	b-ṣ-ṣaḥḥa wu-l-rāḥa
-PST107	fī-hadī bāsh 3an dīrū līh
-??	fī-3amra ṣbāḥ n-mshīw ghādī xx
-PST108	xx xdū m3āhum
+PST108	#_ bāraka l-lah y-xallīk
+??	#_ ta-hdar
+PST108	#_ b-ṣ-ṣaḥḥa wu-l-rāḥa
+PST107	#_ fī-hadī bāsh 3an dīrū līh
+??	#_ fī-3amra ṣbāḥ n-mshīw ghādī xx
+PST108	#_ xx xdū m3āhum
 PST108	b-ṣṣāraka alk musawwǝr
-PST108	xx
-PST107	ṣāfī 'a-xtī l-lāh y-ḥafḍak
-PST110	xx
-PST108	xx
-PST107	lā maghadīsh 3a bishwiyya 3līk 'a-xti 3a bishwiyya
-PST107	mnna 3līk
-??	'ajī l-hnnā yallāh
-PST107	l-uwuǝl fīnuhā l-uwuǝl
-??	@amina gǝltlǝk bghāt hadī
+PST108	#_ xx
+PST107	#_ ṣāfī 'a-xtī l-lāh y-ḥafḍak
+PST110	#_ xx
+PST108	#_ xx
+PST107	#_ lā maghadīsh 3a bishwiyya 3līk 'a-xti 3a bishwiyya
+PST107	#_ mnna 3līk
+??	#_ 'ajī l-hnnā yallāh
+PST107	#_ l-uwuǝl fīnuhā l-uwuǝl
+??	#_ @amina gǝltlǝk bghāt hadī
 PST107	con la clienti parla arabo
 PST217	cliente fissa
 PST107	fissa brava
 ??	siamo fratello e sorella
 PST108	nostra madre questa
-PST107	hāntī l-ḥātim gddali-lah
+PST107	#_ hāntī l-ḥātim gddali-lah
 ??	eh
-??	sh-j-dīr
-PST107	3an ṣafītūh ṣah
+??	#_ sh-j-dīr
+PST107	#_ 3an ṣafītūh ṣah
 ??	xx
-PST107	nome ḍaurī
-PST107	ḥādīkǝk za3mā xallīti sei 'urū
-PST107	wā-t-hdar 3la fhām-tī kāt-qrā la-hādshī fhām-tī
-PST107	wā-tī baqa t-hadrī wu-3āūdī l-ma3na3
-??	wā-hādī l-xaddāma
-PST107	3āūdī 3la sh-shllālāt wu-3āūdī-līhā
-??	sh-shllālāt 'aūzūd
-PST107	'ah 3āūdī-līhā
-??	fī-l-maghrib xx
-PST107	3āūdī-līhā 3ā~
+PST107	#_ nome ḍaurī
+PST107	#_ ḥādīkǝk za3mā xallīti sei 'urū
+PST107	#_ wā-t-hdar 3la fhām-tī kāt-qrā la-hādshī fhām-tī
+PST107	#_ wā-tī baqa t-hadrī wu-3āūdī l-ma3na3
+??	#_ wā-hādī l-xaddāma
+PST107	#_ 3āūdī 3la sh-shllālāt wu-3āūdī-līhā
+??	#_ sh-shllālāt 'aūzūd
+PST107	#_ 'ah 3āūdī-līhā
+??	#_ fī-l-maghrib xx
+PST107	#_ 3āūdī-līhā 3ā~
 ??	xx
-PST108	marra marra wu-ḥāūlī shwiyya hakkā wu-shwiyya hakkā
-??	ghādyā ṭṭayaḥ-līya l-mīzān
-??	mālak hāduk ma-jarrabtīshu
-PST108	xx
-PST108	raddam-līh
-??	ewā-shnū
-PST107	tī-mābqāysh-tī shtīh
-PST108	xx
-??	lā kī-jī kī-jī
-??	wu-kā-tlāqa m3āh marra marra fǝ-kī-kūn hnā f-sūq
-??	dabā hādīk kāt-sǝjlnā
-??	'a-muxābarāt s-sǝrriya
-PST107	lā l-muḍu3 dāxlān-3līh l-madrasa ki-qrāw
-PST108	xx
-??	3ā:: dīr 3ā
-PST107	f-ǝsh xdam-tī
-??	xdamt fǝ-shmīt-hǝm struttura di disabili xx
+PST108	#_ marra marra wu-ḥāūlī shwiyya hakkā wu-shwiyya hakkā
+??	#_ ghādyā ṭṭayaḥ-līya l-mīzān
+??	#_ mālak hāduk ma-jarrabtīshu
+PST108	#_ xx
+PST108	#_ raddam-līh
+??	#_ ewā-shnū
+PST107	#_ tī-mābqāysh-tī shtīh
+PST108	#_ xx
+??	#_ lā kī-jī kī-jī
+??	#_ wu-kā-tlāqa m3āh marra marra fǝ-kī-kūn hnā f-sūq
+??	#_ dabā hādīk kāt-sǝjlnā
+??	#_ 'a-muxābarāt s-sǝrriya
+PST107	#_ lā l-muḍu3 dāxlān-3līh l-madrasa ki-qrāw
+PST108	#_ xx
+??	#_ 3ā:: dīr 3ā
+PST107	#_ f-ǝsh xdam-tī
+??	#xdamt #fǝ-shmīt-hǝm struttura di disabili xx
 PST107	io capito niente
 PST217	ah complimenti per il nuovo lavoro
 ??	ah grazie
@@ -896,24 +896,24 @@ PST108	però vive a berlino
 ??	anche lei a berlino
 ??	xx
 PST217	anche tu
-??	eh io visto solo stadt
+??	eh io visto solo #stadt
 ??	so che significa città
 PST217	mh x
-PST108	stadt
-??	tschüss
-PST217	tschüss
-PST108	cheese
+PST108	#_ stadt
+??	#_ tschüss
+PST217	#_ tschüss
+PST108	#_ cheese
 PST217	ciao
 ??	cios cios cios
 PST107	ces ches
-PST107	cheese acht
+PST107	#_ cheese acht
 ??	io
 ??	sono andata a dortmund
 PST217	ah sì
 ??	x
 ??	nel duemila sedici non mi ricordo
 ??	no duemiladiciotto
-PST107	xx rakbū hādīk
+PST107	#_ xx rakbū hādīk
 ??	sono andata a dortmund
 PST217	ma in vacanza
 ??	sì
@@ -923,25 +923,25 @@ PST108	sei stata anche do~ dortmund
 PST108	sei stata anche dortmund
 ??	eh
 PST108	eh bella vita eh
-??	xx
+??	#_ xx
 PST108	poi anche inglaterra
 PST107	sua vita
 ??	parigi lussemburgo
-PST107	zgā zgā n-sejjəl xallī
+PST107	#zgā zgā n-sejjəl xallī
 PST108	e vivi la vita
 PST107	eh francia
 ??	bordeaux di francia
-PST107	xx kāmīrā hā kullshī
+PST107	#_ xx kāmīrā hā kullshī
 ??	sono andata a campagna di bordeaux
 ??	c'è solo vino
-PST108	ntī shnū
-PST107	tīharrīāth
+PST108	#_ ntī shnū
+PST107	#_ tīharrīāth
 PST217	in in francia
-PST108	'allah ykṯer
-??	bordeaux
+PST108	#_ 'allah ykṯer
+??	#_ bordeaux
 PST108	guarda germania con seicento euro
-PST107	mhawdā hā l-kāmīrā shtīhā shūf
-PST107	dyāwlī
+PST107	#_ mhawdā hā l-kāmīrā shtīhā shūf
+PST107	#_ dyāwlī
 PST217	e
 PST107	xallī-hum hənā xx xx
 ??	xx xx perché hanno altra cultura altre persone
@@ -962,77 +962,77 @@ PST107	xxx
 PST108	mamma mia
 ??	duemila ventitré
 ??	ottobre ventritré ottobre
-??	3ā ḍaw
+??	#_ 3ā ḍaw
 ??	luci
 ??	ancora non è arrivato il gas
 ??	l'asilo
-PST107	shǝḥāl dīyāl asilo
+PST107	#_ shǝḥāl dīyāl asilo
 ??	l'affitto
 ??	e il debito che ho
 ??	ma anche questa
-??	ḥsab ḥsab dīr l-total
+??	#_ ḥsab ḥsab dīr l-total
 PST108	vediamo se ti basta seicento
-PST107	hāzlā l-flūs hā-hīya hāzlā
-??	hādīk dyāl ayman xlāṣ @omar
-PST107	shǝḥāl kā-t-xalṣ-ī ayman l-3ām
-??	māshī tamma xamsa oro l-shhar shāl diyāl mensa
-PST107	shǝḥāl hādī l-wrāq hādī tu-harbū-līk
-??	rā-rb3a t-gū-lǝk
-??	xx
-PST108	xx
-PST108	rā-hǝdāk rā-rxīṣ
-??	lā kbār
-PST108	lā rxīṣ
-??	gūlī rā-rxīṣ
-PST107	shḥāl hādā shhar
-??	'ah
-PST107	mā-fīhā lā scalda lā wālū
-??	dāxlā fīh l-$scalda
-PST107	wāsh bāghā t-gīddūk xx maṣṣāb shḥāl 3ad-jī
-??	ma-kāt-ḥsab 3a mǝn shhar tmnīn wulā xamsa wu-3ashra
-PST107	mh
-??	dābā ṣayfṭūlnā bāsh n-dīrū
+PST107	#_ hāzlā l-flūs hā-hīya hāzlā
+??	#_ hādīk dyāl ayman xlāṣ @omar
+PST107	#_ shǝḥāl kā-t-xalṣ-ī ayman l-3ām
+??	#māshī #tamma #xamsa oro #l-shhar #shāl #diyāl mensa
+PST107	#_ shǝḥāl hādī l-wrāq hādī tu-harbū-līk
+??	#_ rā-rb3a t-gū-lǝk
+??	#_ xx
+PST108	#_ xx
+PST108	#_ rā-hǝdāk rā-rxīṣ
+??	#_ lā kbār
+PST108	#_ lā rxīṣ
+??	#_ gūlī rā-rxīṣ
+PST107	#_ shḥāl hādā shhar
+??	#_ 'ah
+PST107	#_ mā-fīhā lā scalda lā wālū
+??	#_ dāxlā fīh l-$scalda
+PST107	#_ wāsh bāghā t-gīddūk xx maṣṣāb shḥāl 3ad-jī
+??	#_ ma-kāt-ḥsab 3a mǝn shhar tmnīn wulā xamsa wu-3ashra
+PST107	#_ mh
+??	#_ dābā ṣayfṭūlnā bāsh n-dīrū
 PST107	porta nuova
-??	lā centraliz~
-PST107	hādī hīyā l-xāyba l-centraliz~
-??	no ṣayfṭūlnā n-dīrū l~ bonus diyāl
-PST107	diyāl ḍaw diyāl krā
+??	#_ lā centraliz~
+PST107	#_ hādī hīyā l-xāyba l-centraliz~
+??	no #ṣayfṭūlnā #n-dīrū l~ bonus #diyāl
+PST107	#_ diyāl ḍaw diyāl krā
 ??	no del centralizzata riscaldamento anche sono mille euro
 PST107	ah
 PST108	xx
-??	qraī-tī hādī fīnā-hīyā
+??	#_ qraī-tī hādī fīnā-hīyā
 ??	io ho un divedo x cinque secondi
 PST107	quanto devi pagare
-??	hādā shhar hādī zā'id hādī poi hādī zā'id wāḥd-uxrā taḥt-hā ((ride))
+??	#_ hādā shhar hādī zā'id hādī poi hādī zā'id wāḥd-uxrā taḥt-hā ((ride))
 PST108	seicento ti bastano
-??	mn l-ḥmal-līya
+??	#_ mn l-ḥmal-līya
 ??	sì mi bastano mi bastano
 ??	mi bastano cinque xxx
 ??	mangio pago l'affitto cosa faccio
-??	riscaldamento shī hādī diyāl xx mā darnā-hū
-PST107	hādū shḥāl mn shhar hād l-miyya w-rb3īn oro
-??	hadik fiha bzaf diyal shuhur
-PST107	mzyān
-??	ma tlt shuhūr wāqīlā
-PST108	wāqī rāhī xx
-PST107	lā hād 'amilī gāmīlṭū
-PST108	amil-īh
-??	xx
-PST110	'anā an-xallaṣ wāhd duecento
-PST107	rakī t-xallaṣ 3alīh xx
-??	kǝn t-xallaṣ 3alīh xx
-PST110	xx t-xallṣī xx
-PST107	xx
-??	xx
-PST108	mītīn 'urū
-??	diyāl riscaldamento ṣayfṭūlnā had l-bolletta bāsh n-dīrū
+??	riscaldamento #shī #hādī #diyāl xx #mā #darnā-hū
+PST107	#_ hādū shḥāl mn shhar hād l-miyya w-rb3īn oro
+??	#_ hadik fiha bzaf diyal shuhur
+PST107	#_ mzyān
+??	#_ ma tlt shuhūr wāqīlā
+PST108	#_ wāqī rāhī xx
+PST107	#_ lā hād 'amilī gāmīlṭū
+PST108	#_ amil-īh
+??	#_ xx
+PST110	#_ 'anā an-xallaṣ wāhd duecento
+PST107	#_ rakī t-xallaṣ 3alīh xx
+??	#_ kǝn t-xallaṣ 3alīh xx
+PST110	#_ xx t-xallṣī xx
+PST107	#_ xx
+??	#_ xx
+PST108	#_ mītīn 'urū
+??	#_ diyāl riscaldamento ṣayfṭūlnā had l-bolletta bāsh n-dīrū
 ??	verrà duecento
 ??	ventisei
 ??	ah il riscaldamento è uguale
-PST107	xx
+PST107	#_ xx
 ??	eh
-??	wa-l-krā za3mā rā...
-PST107	xx
+??	#_ wa-l-krā za3mā rā...
+PST107	#_ xx
 PST108	anche a berlino l'affitto è caro no
 PST217	sì adesso sì
 PST107	quanto paga al mese
@@ -1052,7 +1052,7 @@ PST217	tutto compreso
 PST217	perché è un vecchio contratto
 PST107	vecchio sì sì
 PST217	del duemi~
-PST107	ah un ragazzo ha parlato adesso con berlin ottocento
+PST107	ah un ragazzo ha parlato adesso con #berlin ottocento
 PST108	il nostro amico ottocento euro eh
 ??	io
 PST217	per una casa o una stanza
@@ -1072,37 +1072,37 @@ PST108	però lui
 PST108	l'ho dato seimila euro xxx
 PST107	hḍar maāha n-jǝwjǝk bīhā
 PST108	per trovare la x
-PST107	gāt-lak rā xsāra xx
+PST107	#_ gāt-lak rā xsāra xx
 PST108	x giuro
 PST108	seimila euro
-PST107	ash gāt-lnā bāghī y-t-zuwwǝj bīhā gāt-līnā mā zuwwǝj bīh
-PST110	xx
-??	kat-xaṭbak 'a-sga3
-PST107	shū 3aynīn shaḥal ṭayḥin l-3aynīn ṭayhin mrā lā y-jihā l-nǝfs 3la dǝm l-had
+PST107	#_ ash gāt-lnā bāghī y-t-zuwwǝj bīhā gāt-līnā mā zuwwǝj bīh
+PST110	#_ xx
+??	#_ kat-xaṭbak 'a-sga3
+PST107	#_ shū 3aynīn shaḥal ṭayḥin l-3aynīn ṭayhin mrā lā y-jihā l-nǝfs 3la dǝm l-had
 ??	sì sì sì
 PST217	sì anche qua
-PST107	kāyna wǝlla mā-kāynāsh wu-shūf 3aynīn xx ((ride))
-PST107	shū 3aynīn xx ((ride))
-PST107	gǝlt gǝlt 3aynīn ṭāyḥīn l-ḥāl walakin ma shad-hum l-ḥād
+PST107	#_ kāyna wǝlla mā-kāynāsh wu-shūf 3aynīn xx ((ride))
+PST107	#_ shū 3aynīn xx ((ride))
+PST107	#_ gǝlt gǝlt 3aynīn ṭāyḥīn l-ḥāl walakin ma shad-hum l-ḥād
 ??	dice dolore di ciclo
-PST108	xx
-PST107	ā-shǎffār jāynā līk ā-msīkīnā
-??	xx
-??	māṣǎṣhrtīsh 'uwlā
-????	wālīdī wa-līl l taq wīlī llāh yǝl-hag
-PST108	xx
-PST107	lā wlādǝk tiḥī
-????	3ā-ṭī lī-mā-3atīāsh kat-shūf 'ash t-ḥǎyidī ((ride))
-PST110	xx
-??	nǝrī msha y-sǝjjǝl 3ā ḍaw
-PST108	xx
-PST107	lā rāka bīxīr rāka
-PST107	lā rāka bīxīr rāka xx frigo bīxīr
-??	xx figo xx
-PST107	wazza3ta l-bruda
-PST110	3ā tarjǝmlshī kulshī 3ā t-gūllīk 'a
-??	xx
-PST108	'aji
+PST108	#_ xx
+PST107	#_ ā-shǎffār jāynā līk ā-msīkīnā
+??	#_ xx
+??	#_ māṣǎṣhrtīsh 'uwlā
+????	#_ wālīdī wa-līl l taq wīlī llāh yǝl-hag
+PST108	#_ xx
+PST107	#_ lā wlādǝk tiḥī
+????	#_ 3ā-ṭī lī-mā-3atīāsh kat-shūf 'ash t-ḥǎyidī ((ride))
+PST110	#_ xx
+??	#_ nǝrī msha y-sǝjjǝl 3ā ḍaw
+PST108	#_ xx
+PST107	#_ lā rāka bīxīr rāka
+PST107	#lā #rāka #bīxīr #rāka xx frigo #bīxīr
+??	#_ xx figo xx
+PST107	#_ wazza3ta l-bruda
+PST110	#_ 3ā tarjǝmlshī kulshī 3ā t-gūllīk 'a
+??	#_ xx
+PST108	#_ 'aji
 ??	e traduci tutti questi registrazioni
 PST108	sì
 PST217	sì
@@ -1112,32 +1112,32 @@ PST217	no no
 PST217	sto
 ??	chat gpt sì
 PST217	non lo so
-??	fnuwa hādā
-PST108	xx
+??	#_ fnuwa hādā
+PST108	#_ xx
 ??	eh
-PST107	wā-3ajī kǝmmǝl
-??	ghsǝl l-mū3ān n-gūllīk hāk
-??	lghsǝl l-mū3ān lā gātlīyyā l-qjāqǝl
-PST108	xx ki-shra mǝn xx
-??	ghālī cento
-PST108	'alū
-?	shkūn lī-ḥaṭṭa hād l-3ayba tā ṭāḥ
-??	shkun
-PST107	ta-dīyēwl-nā tammā 'ash dāwlǝk
-PST110	walakin 3lāsh ki-sjǝl
-??	n-faṭrū hnā
-PST107	kī-sǝjlū kāmīrā wū-'ash kī-dīrū 'ay-bqāw dimā tammak 3ādī
-PST108	kǔlshī mzyān
-PST107	ḥaṭṭī-tū wāḥda l-taḥt
-PST108	llāh y-ḥafḍǎk
-PST107	xx
+PST107	#_ wā-3ajī kǝmmǝl
+??	#_ ghsǝl l-mū3ān n-gūllīk hāk
+??	#_ lghsǝl l-mū3ān lā gātlīyyā l-qjāqǝl
+PST108	#_ xx ki-shra mǝn xx
+??	#_ ghālī cento
+PST108	#_ 'alū
+?	#_ shkūn lī-ḥaṭṭa hād l-3ayba tā ṭāḥ
+??	#_ shkun
+PST107	#_ ta-dīyēwl-nā tammā 'ash dāwlǝk
+PST110	#_ walakin 3lāsh ki-sjǝl
+??	#_ n-faṭrū hnā
+PST107	#_ kī-sǝjlū kāmīrā wū-'ash kī-dīrū 'ay-bqāw dimā tammak 3ādī
+PST108	#_ kǔlshī mzyān
+PST107	#_ ḥaṭṭī-tū wāḥda l-taḥt
+PST108	#_ llāh y-ḥafḍǎk
+PST107	#_ xx
 PST110	eh xx
-PST107	dawlǎ dǎwlǎ kī-bqāw y-ḥaṭṭū xx wū 'ash kā-dīr
+PST107	#_ dawlǎ dǎwlǎ kī-bqāw y-ḥaṭṭū xx wū 'ash kā-dīr
 PST217	sì le scarico adesso
-PST107	'aw 3āt-mshīw 3ā-tǝltmīya kīlū diyāl ḥshīsh ((ride))
-PST108	hādīkǝ
-PST108	ta-tla3 flūt milions tlāta dīyāll xx
-?	xx wullā hādī
+PST107	#_ 'aw 3āt-mshīw 3ā-tǝltmīya kīlū diyāl ḥshīsh ((ride))
+PST108	#_ hādīkǝ
+PST108	#_ ta-tla3 flūt milions tlāta dīyāll xx
+?	#_ xx wullā hādī
 PST107	ah
 ??	ah mia figlia studia lì
 PST217	ah sì che cosa studia
@@ -1209,19 +1209,19 @@ PST217	okay e che lingua parlate
 PST217	classico
 ??	ma mh
 PST217	però è diverso da quello che stai parlando
-PST107	t-māl-ka mā-sjīt-tī xx
-?	'anta 3ārf-hum diyāl wlādī hādu xx
-PST107	wū-rā-ḥaṭ-ṭū ʾanā diyāl maxzan ḥaṭ-ṭa ḥǎṭṭī-tūh wāḥda l-taḥt wū wu-l-fūq
-?	xx maxzan xx
-PST107	ʾa3ūdubīllah
+PST107	#_ t-māl-ka mā-sjīt-tī xx
+?	#_ 'anta 3ārf-hum diyāl wlādī hādu xx
+PST107	#_ wū-rā-ḥaṭ-ṭū ʾanā diyāl maxzan ḥaṭ-ṭa ḥǎṭṭī-tūh wāḥda l-taḥt wū wu-l-fūq
+?	#_ xx maxzan xx
+PST107	#_ ʾa3ūdubīllah
 ??	tutti il mondo arabo
-?	shī lā-y-ḥaṭ-ṭa hādā lāsh kī-ḥǎṭṭahā
-PST107	n-gūl-līk xal-lā hādāk stīla 3āmra
-??	arabo fuṣḥā
-PST107	xasan 3ārfǝkum āsh kā-dīrū
-PST107	nhār kāmal ṣbāḥ dxūl t-xaddam-hā wu-t-xǎl-līhā
+?	#_ shī lā-y-ḥaṭ-ṭa hādā lāsh kī-ḥǎṭṭahā
+PST107	#_ n-gūl-līk xal-lā hādāk stīla 3āmra
+??	arabo #fuṣḥā
+PST107	#_ xasan 3ārfǝkum āsh kā-dīrū
+PST107	#_ nhār kāmal ṣbāḥ dxūl t-xaddam-hā wu-t-xǎl-līhā
 ??	tutto il mondo arabo
-PST107	wū-lī-fīhā ḥǎttā t-ghawt xx
+PST107	#_ wū-lī-fīhā ḥǎttā t-ghawt xx
 PST217	quando incontri qualcuno egiziano
 ??	qualcu~
 ??	mh sì
@@ -1233,27 +1233,27 @@ PST217	ah ah
 PST217	cioè tu parli l'arabo egiziano
 PST217	la tua lingua qual è
 ??	araba
-??	arabo derija
-??	e arabo fuṣḥā della scuola
+??	arabo #derija
+??	e arabo #fuṣḥā della scuola
 PST217	mh mh
 ??	ma io conosco capisco tutti lingue
 ??	ma parlo anche con egiziani con tunisini
 ??	tutti
 PST217	sì
 ??	ma loro non parlano come me
-PST217	perché non parlano l'arabo fuṣḥā
-??	no no fuṣḥā per tutti gli arabi
+PST217	perché non parlano l'arabo #fuṣḥā
+??	no no #fuṣḥā per tutti gli arabi
 PST217	okay loro non parlano
-??	derija
-PST217	derija
-??	derija
+??	#_ derija
+PST217	#_ derija
+??	#_ derija
 PST217	dai è complica~ perché io non
-PST107	gǝt-lǝk rā jat f-tūnsī
+PST107	#_ gǝt-lǝk rā jat f-tūnsī
 ??	ma in marocco c'è tante lingua ma di eh
-??	kāyna sh-shulḥa kāyna bzzāf
+??	#_ kāyna sh-shulḥa kāyna bzzāf
 PST107	barbari barbari sì
 ??	barbari
-??	amazigh
+??	#_ amazigh
 ??	c'è tanti lingua anche a marocco e io non capisco niente
 PST217	ah ah
 ??	come il piemontese
@@ -1262,128 +1262,128 @@ PST107	parlato prima come quello ma da
 PST107	la ditta no parli arabo
 PST107	marocco anche marocco
 ??	sì sì parlano xx
-??	si chiama amazigh
-??	amazigh
+??	si chiama #amazigh
+??	#_ amazigh
 PST217	amazigh
-PST107	xx
+PST107	#_ xx
 ??	parlano diverse lingue loro
 PST108	berberi
 PST108	berberi parlano
-??	sì barbaro xxx amazigh
+??	sì barbaro xxx #amazigh
 PST108	sì
-??	xx tamāzīghīt
+??	#_ xx tamāzīghīt
 PST108	sì
 ??	e io non capisco
-??	xxx
+??	#_ xxx
 ??	come qua tu napoli c'è
 ??	un modo per parlare
 ??	anche in marocco
-PST107	fi-l maghreb
+PST107	#_ fi-l maghreb
 PST217	ma le tue due figlie parlano anche
 ??	arabo e italiano
 PST217	xx
-??	derija
-PST217	darija
-??	derija
+??	#_ derija
+PST217	#_ darija
+??	#_ derija
 PST217	ah ah
 ??	sì eh scrivi così ti mh dimentichi
 PST217	sì
-??	c'è l'arabo fuṣḥā
+??	c'è l'arabo #fuṣḥā
 ??	che parla tutto il mondo arabo
 ??	tutti li paesi che parlano arabo
 ??	quella lingua della scuola
 PST217	mh mh
-??	ma derija
+??	ma #derija
 ??	questa per noi li marocchini
 PST107	è carica
-??	ahsa el lugha el derija
-PST107	ahsa el lugha
-PST217	la derija
+??	#_ ahsa el lugha el derija
+PST107	#_ ahsa el lugha
+PST217	la #derija
 PST217	si parla
 ??	così popolare
 PST217	ma solo in marocco o anche in algeria
 PST107	no no solo marocco algeria non lo so
 ??	algeria
 ??	sì c'è vicini ah come lingua
-PST107	yāk
+PST107	#_ yāk
 ??	forse siamo uguali all'algeria
 PST217	mh
-??	kī dāyr l-kalb sīr
-PST107	xx lughāt xx
-??	xx
-??	l'arabo fuṣḥā
+??	#_ kī dāyr l-kalb sīr
+PST107	#_ xx lughāt xx
+??	#_ xx
+??	l'arabo #fuṣḥā
 ??	quello è di tutto il mondo arabo della scuola
-??	il derija quella è una lingua
+??	il #derija quella è una lingua
 PST217	mh mh
 PST217	e anche i tuoi
 PST217	tua figlia parla quindi italiano
 ??	sì
-??	qui cidifa parlare fuṣḥā
+??	qui cidifa parlare #fuṣḥā
 ??	non è facile eh
 PST217	ah ah
 ??	se non studi non parli
 PST217	mh mh
-PST217	e quindi lei però parla derija lo parla
+PST217	e quindi lei però parla #derija lo parla
 ??	sì
-??	derija sì
-PST217	e fuṣḥā
+??	#_ derija sì
+PST217	e #fuṣḥā
 ??	mh
 PST110	parlare arabo
 ??	no
 PST217	no
-PST110	wū-hḍar bīl-3arbīya
-PST108	xx
-PST110	'a ṣṣāwǝṭ muk
+PST110	#_ wū-hḍar bīl-3arbīya
+PST108	#_ xx
+PST110	#_ 'a ṣṣāwǝṭ muk
 ??	per esempio io dico io mi chiamo
-??	ana 'sm-i
+??	#_ ana 'sm-i
 PST217	mh mh
 ??	al lingua
 ??	per scrivere
-??	ismi
-??	ismi
-PST217	eh ismi è io mi chiamo
-PST217	in f~ in fuṣḥā
+??	#_ ismi
+??	#_ ismi
+PST217	eh #ismi è io mi chiamo
+PST217	in f~ in #fuṣḥā
 PST217	e
-??	ismi ti
-??	c'è un accento ismi ti
-PST217	smī-tī
+??	#_ ismi ti
+??	c'è un accento #ismi ti
+PST217	#_ smī-tī
 ??	ah l'altra è un po' difficile parlare
-??	marhaban ana ismi @fatima wa xxxx wa ismuk
-PST110	ismi @ahmed
-??	tasharrafna n-hadro shwiya bl fusha sein tahdar maeya fuṣḥā
-PST110	la lā la'a
+??	#_ marhaban ana ismi @fatima wa xxxx wa ismuk
+PST110	#_ ismi @ahmed
+??	#tasharrafna #n-hadro shwiya bl fusha sein tahdar maeya fuṣḥā
+PST110	#_ la lā la'a
 ??	è più non siamo abituati a parlare con questa modo di
-PST110	walākin lā bḥāl t-kūnī dējā f-l-madrasa t3arfī līhā
-??	ā t-3arfīhā walākin ṣ3ība bāsh t-haḍrī bīhā
-PST110	lā ṣ3ība hīya rā ḥǝnā twallafnā ḥǝnā 3ādī
-??	tammā veloci veloci ta ta ta ta ta
+PST110	#_ walākin lā bḥāl t-kūnī dējā f-l-madrasa t3arfī līhā
+??	#_ ā t-3arfīhā walākin ṣ3ība bāsh t-haḍrī bīhā
+PST110	#_ lā ṣ3ība hīya rā ḥǝnā twallafnā ḥǝnā 3ādī
+??	#tammā veloci veloci ta ta ta ta ta
 PST110	sì
-??	derija
+??	#_ derija
 ??	sì parla veloce
-PST217	in derija
+PST217	in #derija
 ??	la nostra lingua
-PST110	māshī hīya lī ka-t-sǝjal
+PST110	#_ māshī hīya lī ka-t-sǝjal
 ??	sì
-PST110	āsh bāgha
-??	rā tarjǝmāt shī xx
-PST110	xx ma-3lash bghāt
-??	rā t-3raf t-taqāfāt diyāl l-3ālam
-??	il lugha dyal gli stranieri
+PST110	#_ āsh bāgha
+??	#_ rā tarjǝmāt shī xx
+PST110	#_ xx ma-3lash bghāt
+??	#_ rā t-3raf t-taqāfāt diyāl l-3ālam
+??	il #lugha #dyal gli stranieri
 PST110	ah ah
-PST110	3raft
+PST110	#_ 3raft
 ??	xx
 PST110	wāsh
-??	ḥat hīya dāxla l ka-t-xdam
+??	#_ ḥat hīya dāxla l ka-t-xdam
 PST110	xx
 PST110	sharka
-??	università dyal lughaat
-PST110	eh waqīla k-ī-3ammrū dāk chatgpt waqīla no
+??	università #dyal #lughaat
+PST110	#_ eh waqīla k-ī-3ammrū dāk chatgpt waqīla no
 ??	sì
-??	wǝ-huwa lī fūq l-helma
+??	#_ wǝ-huwa lī fūq l-helma
 PST110	eh
-??	wǝ-huwa lī fūq l-helma
-PST110	ra hua ki xx daba ra kimma ki dwi ma3 xx
-PST110	wa-3lāsh hummā y-dīrū bḥāl hākdāk y-bqāw y-shajjlūnī
+??	#_ wǝ-huwa lī fūq l-helma
+PST110	#_ ra hua ki xx daba ra kimma ki dwi ma3 xx
+PST110	#_ wa-3lāsh hummā y-dīrū bḥāl hākdāk y-bqāw y-shajjlūnī
 ??	ma questa cosa
 ??	per cosa
 PST217	per è un per questo progetto
@@ -1410,14 +1410,14 @@ PST217	sì
 ??	eh casablanca parlano francese
 PST110	francese sì
 ??	rabat francese
-??	xx je suis xx xx vous êtes ils sont
-PST110	ʾanta @fatima xāṭǝr
-??	'awīlī bǐllātī bghī-tī t-mshī
+??	#_ xx je suis xx xx vous êtes ils sont
+PST110	#_ ʾanta @fatima xāṭǝr
+??	#_ 'awīlī bǐllātī bghī-tī t-mshī
 ??	mia esperienza
 ??	quando io vivo qua parlo italiano
 ??	e dimenticato il francese
 ??	memoria è piccola
-PST110	bāṣṣaḥḥa
+PST110	#_ bāṣṣaḥḥa
 ??	entrato l'italiano esce il francese
 ??	ma quando io sono andata in nord della francia
 PST217	ah ah
@@ -1426,7 +1426,7 @@ PST217	sì sì sì sì
 ??	io so parlare
 PST217	ma e l'hai studiato a scuola o
 ??	sì sì
-PST217	cioè a scuola tu hai studiato l'arabo fuṣḥā e il francese
+PST217	cioè a scuola tu hai studiato l'arabo #fuṣḥā e il francese
 ??	sì
 ??	due lingue
 PST217	e l'inglese
@@ -1435,121 +1435,121 @@ PST217	e l'inglese
 ??	superiori
 ??	c'è la lingua la lingua inglese
 ??	c'è diversi lingua
-??	jāmi3a kat-dxul
-PST110	lā rā
-??	fǝsh-kat f-terza media
-??	kat-qrā l-inglīzī
-PST110	wa-la kat kat-qrāha qǝbǝl
+??	#_ jāmi3a kat-dxul
+PST110	#_ lā rā
+??	#fǝsh-kat #f-terza media
+??	#_ kat-qrā l-inglīzī
+PST110	#_ wa-la kat kat-qrāha qǝbǝl
 ??	ah ma privato le scuole privato
 ??	si studia l'inglesi espagnolo francesi
-PST110	'ah wu kī-qarrīw
+PST110	#_ 'ah wu kī-qarrīw
 ??	quelle fanno lì
 PST217	ah ah
 ??	ma
 ??	la pubblica
-PST110	walākin ḥǝttā long kī-qarrīwhā 3ādī
+PST110	#_ walākin ḥǝttā long kī-qarrīwhā 3ādī
 ??	da dopo sì dopo le medie
-PST110	lā lā mǝn sab3a kat-bqā kat-qrāhā
-??	wa f-ta superiori hādāk kī-tsammā superiori hǝnā
-??	fi terza media
-PST110	ā mābāqī gā3 mā-fūtnā l-terza media
-PST110	hnā yallāh xx
-??	hnā hnā
-??	hnā 3ad-nā s-sadīs
-PST110	hnā 3ad-nā s-sadīs
-??	kāt-fūt s-sadīs kāt-bdā t-qrā
-PST110	'ah
-??	fash
-PST110	wǎlākīn tī gūl-tī terza media terza media hīyǎ t-tǝs3a
-??	3adhum hūmā
-??	hnā 'ash 3ad-nā hnā
-PST110	3ad-nā t-tǝs3a ta hnā
-PST110	fǐl-maghrǐb
-PST110	3ad-nā sab3a
-??	rāb3a
-??	ma-kānush ʾanā mā-kunt kān-qrā l-īnglīzīya mi kant kān-qrā fī-r-rāba3
+PST110	#_ lā lā mǝn sab3a kat-bqā kat-qrāhā
+??	#_ wa f-ta superiori hādāk kī-tsammā superiori hǝnā
+??	#fi terza media
+PST110	#_ ā mābāqī gā3 mā-fūtnā l-terza media
+PST110	#_ hnā yallāh xx
+??	#_ hnā hnā
+??	#_ hnā 3ad-nā s-sadīs
+PST110	#_ hnā 3ad-nā s-sadīs
+??	#_ kāt-fūt s-sadīs kāt-bdā t-qrā
+PST110	#_ 'ah
+??	#_ fash
+PST110	#_ wǎlākīn tī gūl-tī terza media terza media hīyǎ t-tǝs3a
+??	#_ 3adhum hūmā
+??	#_ hnā 'ash 3ad-nā hnā
+PST110	#_ 3ad-nā t-tǝs3a ta hnā
+PST110	#_ fǐl-maghrǐb
+PST110	#_ 3ad-nā sab3a
+??	#_ rāb3a
+??	#_ ma-kānush ʾanā mā-kunt kān-qrā l-īnglīzīya mi kant kān-qrā fī-r-rāba3
 PST110	no
-PST110	3ad-nā sab3a
-PST110	sam3ī
-PST110	3ad-nā s-sab3a t-tāmna t-tālta hīya lī-kī-gūlūlīhā la terza media
-??	xx
-PST110	3ād kāt-naqqā 3awtānī l-callege
-PST110	kī-gūlūlīh fi-l-maghrib l-college ya3nī
-??	wa-tammā fīn kī-bdāw y-qrāw l-īnglīzīya
-PST110	ya3nī ṣāfya
-PST110	no kāt-qrā-hā qbīl
-PST110	dābā wallaw xx xx
+PST110	#_ 3ad-nā sab3a
+PST110	#_ sam3ī
+PST110	#_ 3ad-nā s-sab3a t-tāmna t-tālta hīya lī-kī-gūlūlīhā la terza media
+??	#_ xx
+PST110	#_ 3ād kāt-naqqā 3awtānī l-callege
+PST110	#_ kī-gūlūlīh fi-l-maghrib l-college ya3nī
+??	#_ wa-tammā fīn kī-bdāw y-qrāw l-īnglīzīya
+PST110	#_ ya3nī ṣāfya
+PST110	no #kāt-qrā-hā qbīl
+PST110	#_ dābā wallaw xx xx
 ??	adesso
 ??	ah
 ??	ma ma le priva~ le scuole private
 PST110	xx xx xx
 ??	sì
-PST110	dwā m3āyā mǝn l-3arbīya mā kān-fahm-sh kulshī 'anā
+PST110	#_ dwā m3āyā mǝn l-3arbīya mā kān-fahm-sh kulshī 'anā
 ??	al pubblico no e io ti ho detto al pubblico non è
-??	'anā qraīt fǝl-sh-l~
-PST110	lǝ-3ǝ~
-??	3umūmī
-PST110	l-madrasa l-3āmma
+??	#_ 'anā qraīt fǝl-sh-l~
+PST110	#_ lǝ-3ǝ~
+??	#_ 3umūmī
+PST110	#_ l-madrasa l-3āmma
 ??	eh sì
-??	mu3ummra qraīt l-īnglīziya
-PST110	lā qraīnāhā
-PST110	twārṭtū f-hādāk l-waqt dyāl-kum mā33at walakin ḥnā dābā qraī-nā-hlīhā
-??	xx
-??	xx
-??	hāyyǝd hāyyǝd
-??	mābqāsh y-3ǝjb-hā tǝmmā hāyyǝd
-PST108	xx
-??	kī-tṣūbī
-PST108	ta-wāḥǝd d-drāywa a sīdī
-PST108	3ṭīnī tsemmāk
-??	xx
-??	3ṭīnī:: 3ṭīnī:: xx
-PST107	shḥāl ntā dīyāl n-na3nā3
-??	3tīnī d-djāj
-PST107	shḥāl xx
-PST108	zgā zgā zgā
-PST108	xx
-??	diyāl d-djāja
-??	twāsǝṭāt l-hajm
-??	tā sh sh~
-PST108	shḥāl ddawlǝk dīyāl n-na3nā3
-PST107	ddāw xx
-??	xx
-PST107	xx
-PST108	xx
-??	xx
+??	#_ mu3ummra qraīt l-īnglīziya
+PST110	#_ lā qraīnāhā
+PST110	#_ twārṭtū f-hādāk l-waqt dyāl-kum mā33at walakin ḥnā dābā qraī-nā-hlīhā
+??	#_ xx
+??	#_ xx
+??	#_ hāyyǝd hāyyǝd
+??	#_ mābqāsh y-3ǝjb-hā tǝmmā hāyyǝd
+PST108	#_ xx
+??	#_ kī-tṣūbī
+PST108	#_ ta-wāḥǝd d-drāywa a sīdī
+PST108	#_ 3ṭīnī tsemmāk
+??	#_ xx
+??	#_ 3ṭīnī:: 3ṭīnī:: xx
+PST107	#_ shḥāl ntā dīyāl n-na3nā3
+??	#_ 3tīnī d-djāj
+PST107	#_ shḥāl xx
+PST108	#_ zgā zgā zgā
+PST108	#_ xx
+??	#_ diyāl d-djāja
+??	#_ twāsǝṭāt l-hajm
+??	#_ tā sh sh~
+PST108	#_ shḥāl ddawlǝk dīyāl n-na3nā3
+PST107	#_ ddāw xx
+??	#_ xx
+PST107	#_ xx
+PST108	#_ xx
+??	#_ xx
 ??	menta
-??	'a3lāsh xx
-PST107	djāja waḥda yāk
-??	xx
-PST107	'awlā jūj
-PST108	xx
-PST108	ah bghītīnī
-PST108	xx
-PST108	bghītīnī a sīr
-PST107	xx
-PST108	yāk fīn
-??	xx
-PST107	lā hādūk rā-miṣriyyīn mā3a::
-PST107	miṣriyyīn mā3a xx
-PST108	xx
-PST107	lā wāḥd xx wāḥd shinwī kī xx l-mghārba
-??	xx
+??	#_ 'a3lāsh xx
+PST107	#_ djāja waḥda yāk
+??	#_ xx
+PST107	#_ 'awlā jūj
+PST108	#_ xx
+PST108	#_ ah bghītīnī
+PST108	#_ xx
+PST108	#_ bghītīnī a sīr
+PST107	#_ xx
+PST108	#_ yāk fīn
+??	#_ xx
+PST107	#_ lā hādūk rā-miṣriyyīn mā3a::
+PST107	#_ miṣriyyīn mā3a xx
+PST108	#_ xx
+PST107	#_ lā wāḥd xx wāḥd shinwī kī xx l-mghārba
+??	#_ xx
 ??	no casablanca
-PST107	t-ḥayd-līhā j-jǝlda yāk 'a-rāshīd
-??	xallīha ṣāyn gā3 ma-t-qatta3a ma-t-ḥayyad-līhā jǝlda ma~
-??	tāsh bghītī dīr
-??	'ash dirtī
-PST107	3atta 'ash dirt-īhā
-PST107	'a-3aiyt-līhā -jǝlda
-??	māshī diyālī
-??	lǝ-mā-bghā-shlī diyālnā bghāt-hā ṣghīr
-PST107	wa-gltī-lī-shlī liyā 'anā
-??	t~
-??	ma3līsh ma3līsh
-??	ḥayd ḥayd-lhā j-jǝlda wu-xallīhā ṣāyn
-PST107	tā @fatima 'a3alaykum s-salāma
-??	ṣfāī mshītī
+PST107	#_ t-ḥayd-līhā j-jǝlda yāk 'a-rāshīd
+??	#_ xallīha ṣāyn gā3 ma-t-qatta3a ma-t-ḥayyad-līhā jǝlda ma~
+??	#_ tāsh bghītī dīr
+??	#_ 'ash dirtī
+PST107	#_ 3atta 'ash dirt-īhā
+PST107	#_ 'a-3aiyt-līhā -jǝlda
+??	#_ māshī diyālī
+??	#_ lǝ-mā-bghā-shlī diyālnā bghāt-hā ṣghīr
+PST107	#_ wa-gltī-lī-shlī liyā 'anā
+??	#_ t~
+??	#_ ma3līsh ma3līsh
+??	#_ ḥayd ḥayd-lhā j-jǝlda wu-xallīhā ṣāyn
+PST107	#_ tā @fatima 'a3alaykum s-salāma
+??	#_ ṣfāī mshītī
 ??	ce l'hai figli
 PST217	no
 ??	ah
@@ -1564,81 +1564,81 @@ PST217	un po' di più
 ??	ventuno anni
 PST217	ah
 ??	io volevo sedic'anni ma conosciuto il diciotto
-PST107	wurrǝk rā-kāyn hādū
-PST108	kǝbār
-PST107	mā-kāynsh hādūk ṣ-ṣghār yāk-yā
-PST108	lā ṣghar mǝnnū mā-kāynsh
-PST107	y-kun bḥāl hādūk 'a-xx
-PST108	hādā huwa lī-kāyn
-??	xx
-PST107	xx
-PST108	'a3ṭīnī shwiyya diyāl l-mā
-PST107	kǝfta
+PST107	#_ wurrǝk rā-kāyn hādū
+PST108	#_ kǝbār
+PST107	#_ mā-kāynsh hādūk ṣ-ṣghār yāk-yā
+PST108	#_ lā ṣghar mǝnnū mā-kāynsh
+PST107	#_ y-kun bḥāl hādūk 'a-xx
+PST108	#_ hādā huwa lī-kāyn
+??	#_ xx
+PST107	#_ xx
+PST108	#_ 'a3ṭīnī shwiyya diyāl l-mā
+PST107	#_ kǝfta
 ??	c'è un piccolo xx
-PST107	xx
+PST107	#_ xx
 ??	iniziato da capo
-PST107	xx
-PST108	xx
-??	xx
+PST107	#_ xx
+PST108	#_ xx
+??	#_ xx
 ??	andata una
-??	xx
+??	#_ xx
 PST217	xx
 ??	sì sì
 ??	io parlo xx
-??	no no il piccolo non parla né derija
-PST108	xx
-PST107	ṣghǝr
-PST108	xx
+??	no no il piccolo non parla né #derija
+PST108	#_ xx
+PST107	#_ ṣghǝr
+PST108	#_ xx
 ??	né arabo parla inglese e italiano
-PST107	ṣghǝra
+PST107	#_ ṣghǝra
 PST217	inglese
 PST217	tu con chi parli
 PST107	mio figlio è bravo
 PST107	xx
 ??	xx
-PST108	xx
-??	il piccolo xx
-PST108	lā lā lā
-PST108	xx
+PST108	#_ xx
+??	il piccolo #xx
+PST108	#_ lā lā lā
+PST108	#_ xx
 ??	piccolo
-PST107	bghītī bǝl-ʿa3ḍam
-PST107	bghītī l-mǝlj
+PST107	#_ bghītī bǝl-ʿa3ḍam
+PST107	#_ bghītī l-mǝlj
 ??	cambiamo poi vita
-PST107	bghītī l-mǝlj bghītī bǝl-ʿa3ḍam
-PST107	na-3ṭāk l-mǝlj
+PST107	#_ bghītī l-mǝlj bghītī bǝl-ʿa3ḍam
+PST107	#_ na-3ṭāk l-mǝlj
 ??	e mia figlia non vuole andare
-PST108	dawwax-tīnā
-PST107	'anā xx
-??	xx
-PST107	shḥāl n-dīr shḥāl
-PST108	nuṣ kīlū xx
+PST108	#_ dawwax-tīnā
+PST107	#_ 'anā xx
+??	#_ xx
+PST107	#_ shḥāl n-dīr shḥāl
+PST108	#_ nuṣ kīlū xx
 ??	cosa devo fare in marocco
 PST107	tutto buono
-PST108	xx m3āh ma3līsh mushkīl
-PST107	'arālī xx mā-ṭla3sh
-??	fī-yiddī ǝh
+PST108	#_ xx m3āh ma3līsh mushkīl
+PST107	#_ 'arālī xx mā-ṭla3sh
+??	#_ fī-yiddī ǝh
 ??	quando i figli qua
 ??	è difficile tornare
 PST107	vuoi tre chili sì
-PST107	sīr xx aggiungia un po'
+PST107	#_ sīr xx aggiungia un po'
 ??	sì sì
-PST110	tlāta farqa wu-ṣāfī
-PST107	'ah
-PST110	tlāta farqa wu-ṣāfī
-PST107	yallāh qaṭṭa33ā
-PST108	'ah
+PST110	#_ tlāta farqa wu-ṣāfī
+PST107	#_ 'ah
+PST110	#_ tlāta farqa wu-ṣāfī
+PST107	#_ yallāh qaṭṭa33ā
+PST108	#_ 'ah
 ??	questo è mio figlio xx
-PST107	xx
-PST108	msharrfīn
-PST107	mā-wlīlī jītīnī mā-maghribī mā-tūnsī xx
-PST107	msharrfīn
-PST108	xx
-??	è solo la foto del loro file
-PST108	xx
-PST107	'ǝh wu-kān kī-ṣḥāblīyā maghribī shwiyya wu-ki no
-PST107	n-zīd xūyā
-PST108	xx
-PST107	xx 3ashra oro wu-3ashra
+PST107	#_ xx
+PST108	#_ msharrfīn
+PST107	#mā-wlīlī jītīnī mā-maghribī mā-tūnsī xx
+PST107	#_ msharrfīn
+PST108	#_ xx
+??	è solo la foto del loro #file
+PST108	#_ xx
+PST107	#_ 'ǝh wu-kān kī-ṣḥāblīyā maghribī shwiyya wu-ki no
+PST107	#_ n-zīd xūyā
+PST108	#_ xx
+PST107	#_ xx 3ashra oro wu-3ashra
 ??	piccolo
 ??	xx
 ??	xx
@@ -1646,22 +1646,22 @@ PST107	tre chili sì
 PST107	tre kilo
 PST107	tre ottanta
 PST108	tre kilo e mezza
-PST107	xūyā l-lāh y-ḥmīk wu-ṣāfī l-lāh y-ḥafḍak
+PST107	#_ xūyā l-lāh y-ḥmīk wu-ṣāfī l-lāh y-ḥafḍak
 PST107	ventinove totale
-PST107	daba @xx
+PST107	#_ daba @xx
 PST107	fai il ramadan
 PST107	xx
-??	ḥayǝd
+??	#_ ḥayǝd
 ??	xx
 ??	tu per dopo
 ??	con questa cosa
-PST107	xx shī ḥāja
-??	shī ḥāja
+PST107	#_ xx shī ḥāja
+??	#_ shī ḥāja
 PST107	sì
-PST107	wulla baraka
-??	xx
-PST107	diyāl xamsa oro
-PST107	diyāl tūns
-??	diyāl tūns
-PST107	xx lā
-PST107	'ǝwā
+PST107	#_ wulla baraka
+??	#_ xx
+PST107	#_ diyāl xamsa oro
+PST107	#_ diyāl tūns
+??	#_ diyāl tūns
+PST107	#_ xx lā
+PST107	#_ 'ǝwā

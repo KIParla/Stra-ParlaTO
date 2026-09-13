@@ -220,7 +220,7 @@ PST041	vengo e parliamo russo
 PST213	eh eh eh
 PST213	eh
 PST041	ti dimentichi
-PST041	con fratelli io parlo allora sì în rusă
+PST041	con fratelli io parlo allora sì #în #rusă
 PST041	fratelli sorella
 PST041	parlo
 PST041	loro ha dimenticato moldavo
@@ -275,7 +275,7 @@ PST041	ah solo questa non non capisci per questa
 PST041	poco capisci italiano
 PST041	e parliamo
 PST041	già con lui
-PST041	in moldavo o rusă
+PST041	in moldavo o #rusă
 PST212	e e come mai usate l'italiano anche tra
 PST212	tra persone appunto che potreste parlare rumeno
 PST041	c'è quando sono altri persone devi usare solo italiano

@@ -87,7 +87,7 @@ PST043	e poi in realtà bas~ poi anche vabbè l'inglese ma perché comunque lo s
 PST211	certo
 PST211	okay
 PST211	e hai dei ricordi di anche della tua infanzia di cose che succedevano in spagnolo nel eh e
-PST211	cioè riesci a separare ambienti in cui effettivamente anche da piccolo sei stato esposto all'esp~ allo spagnolo piuttosto che all'italiano
+PST211	cioè riesci a separare ambienti in cui effettivamente anche da piccolo sei stato esposto all'#esp~ allo spagnolo piuttosto che all'italiano
 PST211	cioè la la vedi questa graduati~ questa gradualità oppure tu ti ricordi di aver sempre saputo sia lo spagnolo che l'italiano
 PST043	allora diciamo che se ho capito bene la domanda allora
 PST211	mh mh
@@ -246,7 +246,7 @@ PST043	e mio zio
 PST211	quindi tu ah i~ il piemontese non lo ok
 PST043	no io il piemontese zero no no
 PST211	non lo annoveri tra le tue lingue
-PST043	qua~ qualche frase massì una frase doi povron bagnà ant l' euli e basta finito
+PST043	qua~ qualche frase massì una frase #doi #povron #bagnà #ant #l' #euli e basta finito
 PST211	eh
 PST211	okay
 PST211	ma invece cose più istintuali tipo ti capita di sognare in spagnolo o di sognare misto in spagnolo e italiano
@@ -257,7 +257,7 @@ PST043	e quindi io ho detto ah io le capisco queste cose quindi per un po' ho pe
 PST043	poi a volte al campetto quando così quando gioco comunque in allenamento in palestra contro gli altri a volte mi scappa la frase in spagnolo ma giusto per istigare un pochino per riprendere quel film che
 PST211	okay
 PST211	ma eh sarebbe una frase che gli altri capirebbero oppure
-PST043	no no è un trash talking diciamo molto
+PST043	no no è un #trash #talking diciamo molto
 PST211	ah okay dici
 PST211	okay
 PST043	per dar fastidio che non si capisce sì sì sì
@@ -291,9 +291,9 @@ PST211	mh mh
 PST043	e basta in realtà
 PST211	e ci sono del dei momenti in cui con tua mamma magari passi da una lingua all'altra per un motivo ben preciso cioè tipo non so se non ti vuoi far capire da qualcun altro
 PST043	sì
-PST043	sì sì a volte a volte sul pullman eh non lo so magari mi dice guarda questa che scarpe ha mi fa mira esta zapatilla no capito
+PST043	sì sì a volte a volte sul pullman eh non lo so magari mi dice guarda questa che scarpe ha mi fa #mira #esta #zapatilla no capito
 PST043	però io faccio mamma guarda che ti capiscono lo stesso anche se parli in spagnolo
-PST043	eh però sì dai diciamo per ri~ per rimanere un po' come si dice sneaky eh un po' in segreto un po'
+PST043	eh però sì dai diciamo per ri~ per rimanere un po' come si dice #sneaky eh un po' in segreto un po'
 PST211	mh mh
 PST211	sì
 PST211	ho capito e oltre al basket fai qualche altro sport hai fatto qualche altro sport
@@ -467,9 +467,9 @@ PST211	mh mh
 PST043	eh e quindi loro ah per esempio giocavano coi pokémon e quando mi mettevano i giochi sul computer a volte erano in inglese
 PST211	mh mh
 PST043	perché mh non si trovavano ancora le le rom in italiano
-PST043	e quindi comunque ho dovuto imparare tipo alcuni termini che ne so le mosse dei pokémon ho imparato un sacco di di termini tipo lanciafiamme che è flamethrower
+PST043	e quindi comunque ho dovuto imparare tipo alcuni termini che ne so le mosse dei pokémon ho imparato un sacco di di termini tipo lanciafiamme che è #flamethrower
 PST043	con questa pronuncia
-PST043	e ho ho collegato flame fiamma e thro~ thrower eh lanciare come quindi
+PST043	e ho ho collegato #flame fiamma e #thro~ #thrower eh lanciare come quindi
 PST211	lanciare
 PST043	comunque diciamo che in questo modo ho imparato tanti termini e secondo me la scuola ha dato solo la la base che comunque è importante però il resto l'ho fatto con i videogiochi con anche coi film guardando che ne so i video soprattutto
 PST211	okay
@@ -520,4 +520,4 @@ PST043	in questo ambito qua
 PST211	ho capito
 PST043	eh boh questo
 PST211	bene va bene ti ringrazio
-PST043	va bin
+PST043	#_ va bin

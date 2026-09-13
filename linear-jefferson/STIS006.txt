@@ -539,4 +539,4 @@ PST043	in questo ambito qua
 PST211	ho capito
 PST043	e:::::h boh questo
 PST211	bene va bene ti ringrazio
-PST043	(#va #bin)
+PST043	#_ (#va #bin)

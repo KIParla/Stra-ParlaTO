@@ -161,7 +161,7 @@ PST085	no [sì=sì=sì]
 PST083	[m::h]
 PST083	poi tipo come descrizione potremmo mettere che cosa c'è xx in questa scena?
 PST083	che:::: e::h
-PST083	ci siamo noi che siamo quest'#ansamblu
+PST083	ci siamo noi che siamo quest' #ansamblu
 PST083	mh qua a torino che appunto:
 PST083	eh si impegna nel mantenere la tradizione:::
 PST083	romena (.) tramite appunto:: quelle che sono una parte della tradi~ cioè del folclore ovvero i balli,
@@ -266,7 +266,7 @@ PST083	che ne so #xxxx #xxx
 PST083	non penso sia in realtà cosi rilevant[e]
 PST085	[ma] che delicatezza c'avete
 PST093	((ride))
-PST083	iubirea mea, dra[gostea mea], sângele meu
+PST083	#_ iubirea mea, dra[gostea mea], sângele meu
 PST093	(xxx)
 PST083	ballano in un spett~ (.) ad un (.) spettacolo o (.) in uno spettacolo
 PST093	ad un s~ in un spe~ ad un spetta[colo]
@@ -281,7 +281,7 @@ PST083	no magari niente
 PST083	la location eh dipende
 PST083	perché alla fine non è che io posso prevedere gli spettacoli che ci sono scusate
 PST093	vabbè spettacolo
-PST083	la location è do[ve si farà lo spettacolo] ((ride))
+PST083	la location è do[ve si farà lo spettacolo ((ride))]
 PST085	[eh ci serv~) (.) e infatti]
 PST093	[eh vabbè] è lo spettacolo
 PST083	vabbè lasciamo vuoto
@@ -408,7 +408,7 @@ PST083	magari un po' preso così tipo::
 PST085	sì a tipo: a cerc~ eh [per]
 PST083	([hai capi~])
 PST085	[com]e ad esempio (.) [come ad esempio]
-PST083	((ride)) [come ad esem~] ((ride))
+PST083	[((ride)) come ad esem~ ((ride))]
 PST083	e (.) poi cos'altro c'è
 PST083	taglio basso taglio [alto]
 PST085	[c(io)è comunque]
@@ -491,7 +491,7 @@ PST083	siì: ((ride))
 PST094	#să filmezi
 PST083	eh=eh
 PST085	eh sì #pentru scene
-PST094	păi:: na facem:: pe noua facem::=mh
+PST094	#_ păi:: na facem:: pe noua facem::=mh
 PST083	però qualcosa con i balli:,
 PST094	tradizionali okay #o #sa #băgam #si balli tradizionali bom
 PST083	ma il nove cosa si fa
@@ -578,7 +578,7 @@ PST085	del lei
 PST083	[sì]
 PST083	vabbè io scrivo::
 PST085	[>scrivi<] di punto
-PST093	#doa[mna]
+PST093	#_ #doa[mna]
 PST093	di emme
 PST082	[sì::]
 PST083	[okay]
@@ -592,7 +592,7 @@ PST082	((ride))
 PST082	in romeno suona meglio
 PST082	signora è un po' troppo::
 PST083	sì perché tipo in rumeno #doamna è anche un po' visto tipo la~ la maestra anche viene viene chiamata #doamna signora solo che poi appunto (.) esatto esatto
-PST082	doamna învățătoare
+PST082	#_ doamna învățătoare
 PST082	[sì]
 PST082	eh no è qua~
 PST083	[tema generale di che cosa si parla in questa scena]
@@ -605,7 +605,7 @@ PST093	sì=sì
 PST083	sì ho scritto con due ti sarebbe solo una però,
 PST083	vabbè
 PST083	ma da dov'è uscita
-PST085	[da:: dietro] ((ride))
+PST085	[da:: dietro ((ride))]
 PST093	[xxx prima]
 PST083	non l'ho vista [entrare (.) ciao
 PST085	[ti è passata davanti]

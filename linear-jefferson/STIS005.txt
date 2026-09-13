@@ -168,7 +168,7 @@ PST038	venuti a finire da noi:
 PST038	e:hm
 PST038	e: anziani soprattutto
 PST038	e: solidali nel senso di problematiche: magari:
-PST038	#de::
+PST038	#_ #de::
 PST038	ha~ hanno bisogno di un posto le:tto #de un allo:ggio °il° passaparo:la
 PST038	il #poder inserirli magari in qualche lavoretto già che possano:
 PST038	guadagnare qualche co:sa
@@ -434,7 +434,7 @@ PST038	io parlo a $nivello mio [e:h]
 PST211	[mh]=[mh]
 PST038	[a $niv]ello::
 PST038	di immigrazio:ne
-PST038	#de:
+PST038	#_ #de:
 PST038	latino america nelle prime: anni novanta:
 PST211	mh=mh
 PST038	dove c'è stata un'immigrazione de::l ceto medio
@@ -460,7 +460,7 @@ PST038	per cui quello inci:de anche in una società perché dipen[de mol]to (chi
 PST211	[sì]
 PST038	(#quien) arriva è::
 PST038	da noi non so se in italiano #como se dice
-PST038	o sumas o restas
+PST038	#_ o sumas o restas
 PST211	mh=mh
 PST038	sa: se fai solo numero così o:: sei:
 PST038	u~ u~ un elemento positivo lì no a~ a~ a dove formi parte

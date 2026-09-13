@@ -234,7 +234,7 @@ PST088	scusi
 PST203	sì sì no no
 PST088	eh?
 PST088	risolto
-PST088	#alḥamdulillāh.
+PST088	#_ #alḥamdulillāh.
 PST088	grazie.
 PST203	e::h
 PST211	e sapere il francese l'hai usata quando è venuto qui hai dovuto parlare imparare [l'italiano]
@@ -265,7 +265,7 @@ PST088	s~ #shilḥa
 PST203	ah ah
 PST088	sì sì c'è si chiama #shilḥa o #amazigh
 PST088	ci sono chi dicono [#amazigh]
-PST203	[#amazigh]
+PST203	#_ [#amazigh]
 PST203	mh
 PST203	berbero
 PST088	berbero [sì berbero]
@@ -296,7 +296,7 @@ PST088	son~ [sono] più vicini
 PST203	[a::h]
 PST203	ho capito
 PST203	eh tutto questo è [nuovo per noi]
-PST088	((ride)) [e:h]
+PST088	[((ride)) e:h]
 PST211	[mh mh mh]
 PST211	[eh sì]
 PST203	[ma eh]
@@ -335,7 +335,7 @@ PST088	la erre lo dicono er
 PST211	mh
 PST203	mh
 PST088	e:::h
-PST088	#qa
+PST088	#_ #qa
 PST203	mh
 PST088	#qa non c'è nelle altre lingue
 PST211	mh
@@ -675,12 +675,12 @@ PST203	no no tra un po'andia[mo]
 PST088	[no] no non c'è problema
 PST088	allora. (.) aspetta
 PST088	e:::h come si chiama
-PST088	salam 3alay~ 3a sir l-hajj ana masal m3attal 3a sir ((verso una persona della moschea))
-PST088	sīr allāḥ y-rḥam wālid-sīr, allāḥ y-rḥam wālid-īk, ā yā sīrk, ā yā sīr
-PST088	ā sedu sedu antaya ā sedu
-PST088	sǝdd ma3-k al-bāb
-PST088	allāḥ y-rḥam wālid-īk al hāj
-PST088	bārka āllāḥ u-fī-k, shukrān, āllāḥ y-zid-ik b-xayr
+PST088	#_ salam 3alay~ 3a sir l-hajj ana masal m3attal 3a sir ((verso una persona della moschea))
+PST088	#_ sīr allāḥ y-rḥam wālid-sīr, allāḥ y-rḥam wālid-īk, ā yā sīrk, ā yā sīr
+PST088	#_ ā sedu sedu antaya ā sedu
+PST088	#_ sǝdd ma3-k al-bāb
+PST088	#_ allāḥ y-rḥam wālid-īk al hāj
+PST088	#_ bārka āllāḥ u-fī-k, shukrān, āllāḥ y-zid-ik b-xayr
 PST088	allora per noi
 PST088	e::h
 PST088	la religione
@@ -792,7 +792,7 @@ PST088	non va [a~ a~ a~] #avaler
 PST211	[ingerire]
 PST203	ingoiare
 PST088	sì non lo so come:: dire in francese
-PST088	#ava~
+PST088	#_ #ava~
 PST203	[mandare giù]
 PST088	[#ava~] mandare giù [sì ma]ndare giù
 PST211	[mh mh]
@@ -802,7 +802,7 @@ PST088	e così sono delle regole la donna qua nel nel
 PST088	e:::h
 PST088	religione della della:::
 PST088	le regole
-PST088	#*le #regle
+PST088	#_ #*le #regle
 PST088	delle mestrua[zioni]
 PST203	[mh]
 PST088	non devi fare il digiuno
@@ -948,7 +948,7 @@ PST211	[ah ah]
 PST211	[okay]
 PST203	[a:::h]
 PST088	allo~ usato,
-PST088	[#mzianissimo]
+PST088	#_ [#mzianissimo]
 PST203	[ah ah]
 PST211	[certo]
 PST211	[certo] ((ride))
@@ -973,7 +973,7 @@ PST211	[ah]
 PST088	[aspetta]
 PST203	mh mh
 PST211	mh
-??	kān qulu preghiera al singolare min kzta' sta3amal kalmāt ml kalma qualche
+??	#_ kān qulu preghiera al singolare min kzta' sta3amal kalmāt ml kalma qualche
 ??	#l-kalma #li #xassa #tkun al singolare (.) dammi qualche
 PST088	ha detto quanto
 PST088	[ha detto] quando usiamo qualche
@@ -1006,15 +1006,15 @@ PST203	sì sì sì ho [capito]
 PST088	lei,
 ??	libro,
 ??	mandami qualche preghiera,
-??	quando usi la parola qualche la parola dopo deve essere al [singolare le regole grammaticali] ((ride))
+??	quando usi la parola qualche la parola dopo deve essere al [singolare le regole grammaticali ((ride))]
 PST203	[lei ti spiega]
 PST211	a::h
 PST088	mi spiega
 PST203	mh
-??	nshallāh n-shrahl-ak kam-t3aud
-??	wallīli zwīna hādīk blāṣa
-??	wallāhīla dikurat wla t-taḥt wla l-fūq
-??	hāk ṭla3 shwiya drājāt kaynīn xx
+??	#_ nshallāh n-shrahl-ak kam-t3aud
+??	#_ wallīli zwīna hādīk blāṣa
+??	#_ wallāhīla dikurat wla t-taḥt wla l-fūq
+??	#_ hāk ṭla3 shwiya drājāt kaynīn xx
 PST088	mi parla, mi parla della [sua:::]
 PST203	[mh]
 PST088	ha:: affitato una una casetta
@@ -1030,7 +1030,7 @@ PST088	ha detto no::: devi [dire qualche] preghiera [per questo]
 PST211	((ride))
 PST211	[okay ah]
 PST203	[ah ah]
-??	dwīra msh~ mshīt bghāw z3ma kayna y-sālliw mxbyāt mxbyāt. mshīt, bāqī-lī-ya
+??	#_ dwīra msh~ mshīt bghāw z3ma kayna y-sālliw mxbyāt mxbyāt. mshīt, bāqī-lī-ya
 PST088	[allora]
 PST088	mi parla allora [c'è qua guarda] bello bello allora,
 PST203	[mh mh]
@@ -1080,7 +1080,7 @@ PST203	con la tastiera araba
 PST088	con la tastiera araba
 PST203	perché io ho visto alcuni [ragazzi che usano::: le lettere latine]
 PST088	[sì sì sì sì]
-PST088	#ana:
+PST088	#_ #ana:
 PST088	per esempio la #ḥ::
 PST088	us~ usano la sette
 PST203	[la sette]

@@ -830,7 +830,7 @@ PST203	mh mh
 PST097	e io dicevo non so più di questo perché abitava lì:: una fa~ m:h ragazza che è andata una bambina che è andata con mio figlio alla scuola elementare poi media poi
 PST097	cioè cose che m:::h
 PST097	ripeto come io vengo di un altro
-PST097	#contexto
+PST097	#_ #contexto
 PST097	non::::
 PST097	non mi capacito ancora [di capire o di] (.) di accettare sinceramente
 PST211	[m:::h]
@@ -872,7 +872,7 @@ PST097	della (.) del partito loro mi ricordo x
 PST203	la leg[a]
 PST097	[la] lega
 PST097	°oh io dicevo x°
-PST097	#bueno
+PST097	#_ #bueno
 PST097	e:::::::: fino a che con questa famiglia lavorando per lo::ro,
 PST097	ho la~ sono andata a lavorare con la mamma,
 PST097	ero ancora da sposare non::: xx solo solo il ragazzo suo papà no che uscivamo eh
@@ -1035,7 +1035,7 @@ PST211	[quin]di non ha finito l'univer[sità neanche lui]
 PST097	[non ha finito] la gli mancava la laurea quindi
 PST211	mh mh
 PST211	e tu in:: a lima che cosa avevi iniziato a studiare all'università
-PST097	scienze biologiche ((ride)) [(.)] però ero diplomata avevo due diplomi
+PST097	scienze biologiche [((ride)) (.)] però ero diplomata avevo due diplomi
 PST203	[mh mh]
 PST211	[ah]
 PST097	di::: infermieri~ e::h scienze infermieristiche #secretariado segretariato è no? se[gretaria]to medico
@@ -1185,7 +1185,7 @@ PST211	mh mh
 PST097	è semplice
 PST097	pe~ però ci sono anche persone che::: vogliono la pappa pronta no? l'ho visto lo vedo ancora che
 PST097	che a volte dico ma questi che (cosa son), (.) come una volta ho detto ma questa è un'altra: #historia di un: (.) penso che anche voi la capirete meglio questa #historia di
-PST097	de los gitanos
+PST097	#_ de los gitanos
 PST203	mh
 PST097	dei zingari
 PST097	#de rom
@@ -1347,7 +1347,7 @@ PST097	con mio marito no che è incinta
 PST211	((ride))
 PST097	[che è incinta] la donna e e lei ha sentito:::: che un::: un i~ no? le cugine dicevano una all'altra parlavano di un'altra persona
 PST203	[a::::h]
-PST097	oh esa muchacha está en bola (.) esa chic~ esa
+PST097	#_ oh esa muchacha está en bola (.) esa chic~ esa
 PST097	quella ragazza è in[cinta]
 PST211	[mh]mh
 PST211	((ride_a_bassa_voce))
@@ -1438,7 +1438,7 @@ PST203	[e:h infatti (poi) me l'ha spie]gato che ce ne son tante
 PST097	[ades]so sì
 PST097	poi un'altra faccia >della< moneta che non mi piace di noi:::: ispanoamericani dicono peruviani ma secondo me
 PST097	è: che dicono molto (.) e prima di partire ti dice la famiglia no? stai attento perché #el #peor #enemigo di un #peruano
-PST097	es otro peruano
+PST097	#_ es otro peruano
 PST211	mh mh
 PST097	a le~ ha capito
 PST203	sì [sì]
@@ -1478,7 +1478,7 @@ PST211	sì
 PST211	[sì]
 PST211	perfet[to]
 PST097	[ec]co
-PST097	mi casa es vuestra casa
+PST097	#_ mi casa es vuestra casa
 PST211	oh gra[zie]
 PST203	[no::]
 PST097	[no] davvero qualunque cosa anche o #*si facciamo un pochettino più avanti
@@ -1512,7 +1512,7 @@ PST203	io vado vado a [mangiarlo il cevi]che (.) [sì sì]
 PST097	va]?
 PST211	[mh mh]
 PST097	c'è no eh #el #pollo #a #la #brasa
-PST203	#pol[lo #a #la #brasa]
+PST203	#_ #pol[lo #a #la #brasa]
 PST097	[non lo faccio io pe]rché si fa tipo arrosto
 PST211	mh mh
 PST097	dove quan~ e c'è poi c'è u:na promozione bellissima
@@ -1535,7 +1535,7 @@ PST211	mh mh
 PST097	però u:: #arroz #chaufa #*se chiama
 PST203	[mh sì sì sì]
 PST211	[sì sì sì sì sì]
-PST097	[#arroz]
+PST097	#_ [#arroz]
 PST097	no?
 PST097	perché noi abbiamo eh questa è un'altra #historia #*de m::h
 PST097	tanta influenza africana [e (.) asiatica]

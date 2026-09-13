@@ -29,7 +29,7 @@ PST085	quando ti spostano
 PST211	eh e::h
 PST085	[e lì::]
 PST211	[e::h] [lì: lì è fortunato] chi viene al tuo posto e [tu: te la prendi::]
-??	[e lì: son cazzi] ((ridendo))
+??	[e lì: son cazzi ((ridendo))]
 PST085	[e lì:: inizia:] (.) c'è la seconda chance che fai non ti fai i bigliettini?
 ??	((ride))
 PST211	[ah giusto]
@@ -107,7 +107,7 @@ PST092	no ma ho messo la lente che posso vede:re
 PST092	ho messo la len~ ho messo: (.) la lente la puoi modificare in base alla (gradualità) degli occhiali
 PST092	~spetta
 PST092	o:h drăgu::ț:
-PST085	nu l-am uitat aicea
+PST085	#_ nu l-am uitat aicea
 PST087	((schiocca_le_dita))
 PST087	per domani puoi veni~ vieni anche tu:?
 PST087	a girare alle dieci e me:zza o: dopo
@@ -134,7 +134,7 @@ PST085	pens[o::]
 PST092	[aprite] un po' la [finestra]
 ??	[pensi]?
 PST092	o la [porta]
-PST085	[#prințesă]
+PST085	#_ [#prințesă]
 PST085	(sai io) sono la #prințesă
 PST203	dimmi
 PST092	puoi aprire un po' la porta?
@@ -146,9 +146,9 @@ PST092	$zambibambi ((ride))
 ??	per me è $zambibambi (.) se mi dici zamfir non so manco chi è
 PST085	A::H
 PST085	#dar #ce hai fatto un video?
-PST085	#serios?
-???	[#serios]
-PST085	xx xx
+PST085	#_ #serios?
+???	#_ [#serios]
+PST085	#_ xx xx
 PST085	ero bloccata ho detto questa vuole farmi una foto ((ridendo))
 PST085	mi aspettavo il flash ero già pronta
 PST092	ma secondo te >cioè< xx la macchina xx qua del fla[sh]?
@@ -162,7 +162,7 @@ PST092	posso entrare dentro la stanza (.) sistemarla già per la sa:la:?
 PST203	#yes: quella ce l'hai a mano tu:?
 PST092	per usare die:tro
 PST092	>devo solo< devo capire <come>
-PST203	ma guarda che sembra [una fotografa con] sta ma:[cchina] ((ridendo))
+PST203	ma guarda che sembra [una fotografa con] sta ma:[cchina ((ridendo))]
 PST085	[ODDIO]
 PST085	[ODDI]:O:
 PST092	[O::H] DI:O:

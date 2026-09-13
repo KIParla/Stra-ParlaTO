@@ -93,7 +93,7 @@ PST013	certo colleghi di lavoro amici vicini altri amici che ho conosciuto qua i
 PST205	con gli amici che non sono né italiani e né ehm provenienti dal tuo paese di origine in che lingua parli
 PST013	per forza l'italiano perché ho colleghi per esempio albanesi ehm romeni ehm c'erano anche russi parlavo l'italiano
 PST205	parli altre lingue diverse dall'italiano
-PST013	il francese che lo studiamo proprio dal~ dal s~ seconda elem~ dalla seconda elementare in marocco come seconda lingua è il francese e poi dalla terza m media iniziamo a studiare il~ l l'inglese
+PST013	il francese che lo studiamo proprio dal~ dal s~ seconda elem~ dalla seconda elementare in marocco come seconda lingua è il francese e poi dalla terza mh media iniziamo a studiare il~ l l'inglese
 PST013	e all'università ho studiato anche l'ebraico oltre la lingua araba proprio~ ehm che si studia dalla na~ dal dal dall'el elementari fino all'università
 PST205	come consideri la tua conoscenza di queste lingue
 PST013	il francese per forza è la seconda lingua è come~ per me è come l'arabo e l'inglese più o meno ehm uguale al all'italiano perché ehm non l'abbiamo studiato approfodo~ approfondamente
@@ -253,13 +253,13 @@ PST205	come ti tieni informato su ciò che accade in italia e nel mondo
 PST013	ehm tramite telegiornali ehm
 PST013	ehm italiani oppure
 PST013	altri canali tipo
-PST013	sui satellitari su su proprio canali satellitari tipo al-jazīra tipo france ventiquattro ore
+PST013	sui satellitari su su proprio canali satellitari tipo #al-jazīra tipo #france ventiquattro ore
 PST013	ehm
 PST013	altre sì non non solo canali italiani
 PST205	quindi guardi telegiornali sia italiani che del tuo paese di origine
 PST013	sì a volte anche quelle del del del marocco ma non dicono
 PST013	quello che che succede davvero però se devo sapere di più
-PST013	passo subito sul canale al-jazīra o inglese o arabo e lì dicono tutto tutta la verità
+PST013	passo subito sul canale #al-jazīra o inglese o arabo e lì dicono tutto tutta la verità
 PST205	ti informi più attraverso la televisione o attraverso internet
 PST013	ma più televisione che internet perché
 PST013	al lavoro c'ho solo computer

@@ -3,7 +3,7 @@ PST061	((ride))
 PST061	((sospira))
 PST211	quando [andate in] ferie,
 PST061	[xxxx]
-PST061	e:l diez diez d[e::]
+PST061	#_ e:l diez diez d[e::]
 PST211	[dieci]
 PST061	dieci des~ di[cem~] di dicembre di ago[st~]
 PST211	[mh]
@@ -136,13 +136,13 @@ PST061	[lei lai~] sì
 PST061	[mh la italia] #creo #que #no #ha #andado questa volta
 PST211	[diciassette]
 PST211	eh
-PST061	perù ha andado
+PST061	#_ perù ha andado
 PST061	di qua di torino io (ho) porta(to) tre pullman
 PST211	ah cas[pita]
 PST061	[#mi altro] #amigo >che c'ha la sua agenzia di viaggio< (.) ha porta(to) anche quattro pullman e l'altro amico che conosco: che c'è su:
 PST061	invia i soldi, ha (.) ha porta(to) due pullman #*de torino
 PST061	più o meno dieci o quindici pullman (.) #*de torino
-PST061	de roma de milano
+PST061	#_ de roma de milano
 PST211	[mhmh]
 PST061	[tutti] a svizzera
 PST211	caspita
@@ -160,7 +160,7 @@ PST211	[eh no infatti]
 PST061	#he #andado un p~ xx una partita amichevole [prima] #de~ (.) #del mondiale
 PST211	[ah ah]
 PST211	okay okay
-PST061	porque perú ya clasificado
+PST061	#_ porque perú ya clasificado
 PST211	mhmh
 PST061	#el del perù giocava il mondiale pero prima di andare giocare il mondiale stava facendo due [tre partite amichevoli]
 PST211	[sì sì e:h]
@@ -194,7 +194,7 @@ PST211	solo: [di persona]
 PST061	[sì sì] ah a persona [sì sì]
 PST211	[mhmh]
 PST061	sì e:h #cómo si chiama #mi #sobrino #*che #vino #a #cantare xxxxx?
-PST061	cómo se él que cantó en sanremo no?
+PST061	#_ cómo se él que cantó en sanremo no?
 PST061	>#no #lo #conoci~ non la conosci tu<?
 PST062	no
 PST061	#*no #*la (conosceva) #yo?
@@ -209,11 +209,11 @@ PST061	in perù è conosciuto qui in italia #*no #*tanto
 PST061	ha venuto a visita' la famiglia
 PST061	#como canta #de niki ya~ #de daddy yankee
 PST211	mh
-PST061	#imitador
+PST061	#_ #imitador
 PST061	#hemos #*andado a a pu~ a sanremo, new talent.
-PST061	no el sanremo e es~ el [eh eh]
+PST061	#_ no el sanremo e es~ el [eh eh]
 PST211	[sì sì]
-PST061	él que le continúa
+PST061	#_ él que le continúa
 PST211	[mh]
 PST061	#*[pero] sempre sanremo,
 PST061	new talent. #no #sé #si #lo #has #*sentido
@@ -235,7 +235,7 @@ PST211	togli[: xxiamo continuiamo]
 PST061	[proviamo anche m~ venti minuti ma] chiudevano
 PST211	sì sì
 PST061	allora ((tossisce))
-PST061	(#de)
+PST061	#_ (#de)
 PST061	#me #estaba chiedendo,
 PST211	sì da quanto tempo sei a torino
 PST061	ah torino::
@@ -333,10 +333,10 @@ PST061	no agenzia. no agente sono (allì) nos~ n~ #perdón no agenzia di viaggio
 PST211	[mhmh]
 PST211	[mhmh]
 PST203	[mhmh]
-PST061	[co]mo un intermediaria [no]?
+PST061	#_ [co]mo un intermediaria [no]?
 PST203	[s]ì
 PST061	eh sì #he $parlado con un commercialista e #todo mi ha detto che se può, camera di commercio (fatto) la bu~ burocrazia è fatta sì
-PST061	y he iniciado y:
+PST061	#_ y he iniciado y:
 PST061	no $sabeba #no s~ c~ no #sabeba #como #se chiamava (.) la matita #el temperino no #sabeba niente ni[ente niente]
 PST211	[ah] ahah
 PST061	no perché è diverso,
@@ -356,11 +356,11 @@ PST061	mh sì
 PST061	xxxxxxxx
 PST061	come (inisià) (no?)
 PST211	sì dicevi della del del negozio
-PST061	sí he iniciado
+PST061	#_ sí he iniciado
 PST061	#he #iniciado e::::: #se #me #presentò così #no #pensaba: f~ #abrir #*una cartoleria #ni #mi mente #pensaba no?
 PST211	mh
-PST061	pensaba abrir la:
-PST061	lo que es la:
+PST061	#_ pensaba abrir la:
+PST061	#_ lo que es la:
 PST061	(ia) invio soldi
 PST061	#*pero h(o) visto un locale #se #me #presenta #ya
 PST061	diciamo
@@ -392,7 +392,7 @@ PST061	italiani #casi cento #por cento te #digo viene #le #digo vien(en) a visit
 PST061	vuole un foglio una fotocopia dieci euro
 PST061	#le #digo va bene por~ le porta dopo venti quaranta centesimi #sesenta
 PST061	no: #*se $vergognan no no: per f~ #*pero seguro
-PST061	no sé:
+PST061	#_ no sé:
 PST061	quando vuoi me lo port(an) loro #viene(n) subito
 PST061	#viene(n) così $avergognado
 PST061	me lo dà
@@ -400,7 +400,7 @@ PST211	mhmh
 PST061	viene(n) così
 PST061	eh ((ride))
 PST211	((ride))
-PST061	son cosas que no
+PST061	#_ son cosas que no
 PST061	però guarda x xx (se)
 PST211	mhmh
 PST061	sì
@@ -410,8 +410,8 @@ PST211	ah
 PST061	e la~ #he #estudiado #un #curso #*che se chiama la #piscicultura
 PST211	ahah
 PST061	per esempio e:: c'è la $universidà,
-PST061	la villa real no he estado a la universidad yo,
-PST061	pero he estado eh e:h curso e~ adentro de la universidad de una zona de lima ($allontanado)
+PST061	#_ la villa real no he estado a la universidad yo,
+PST061	#_ pero he estado eh e:h curso e~ adentro de la universidad de una zona de lima ($allontanado)
 PST061	#que:: #éramos operaio diciamo #*de: #piscicultura #solo #técnico #nomás
 PST061	per #saber como un veterinario diciamo no?
 PST211	m[h]
@@ -436,7 +436,7 @@ PST061	che #mi fratello ha comprato
 PST061	e i:o
 PST061	visto che si è rotto no?
 PST061	io andavo a cercar (el) (.) comprar no? #y #he #*visto #*un negozio che aveva ehm tanti acquari
-PST061	me he comprado u:no,
+PST061	#_ me he comprado u:no,
 PST061	dopo me (ho) compra(to) un altro un al[tro] e (.) la sala #*de mia #*mama,
 PST211	[mh]
 PST061	è grande la sala no?
@@ -459,7 +459,7 @@ PST061	#he #iniciado #a #comprar due tre #*cua:tro #cinco pieno
 PST061	dopo (#he) detto yo x #porqué lo compro. #porqué non lo facc(io) io anche,
 PST061	#he #iniciado comprar #el vetro
 PST061	no?
-PST061	e io con la #silicona he inizia(to) i~ io proprio a #armar e::h
+PST061	e io con la #silicona eh inizia(to) i~ io proprio a #armar e::h
 PST061	#construir l'acquario
 PST061	così
 PST211	bel[lo]
@@ -483,11 +483,11 @@ PST061	però:: #ha visto che le specie piccoli (#el) #tiempo e:: mh #*espacio no
 PST211	mh
 PST061	(sì cioè)
 PST061	#si #tuviera #*una #*casa fuori #en colle diciamo #e:n (.) #*la #*montaña o fuori no?
-PST061	cómo se dice la casa de campo no?
+PST061	#_ cómo se dice la casa de campo no?
 PST211	sì di [vacanza]
 PST061	[(cioè) al
 PST211	mh
-PST061	ahì si
+PST061	#_ ahì si
 PST061	po(d)eva farlo però qua no. #*un #*poco #difícil
 PST211	((ride_a_bassa_voce))
 PST061	sì sì però sì (così sì) #mi lavoro
@@ -515,11 +515,11 @@ PST061	andiam~ #como #se chiama questo che:: fan la porta #carpintero #como #se 
 PST211	[fale]gname
 PST061	falegname no?
 PST061	$andiava al falegname::: prendeva #e:l #aserrìn
-PST061	como se dice aserrìn [acá,]
+PST061	#_ como se dice aserrìn [acá,]
 PST203	[sega]
 PST061	la sega me (prendeva) così tanto me portav(o) io aveva eh
 PST061	el pa~ el
-PST061	como se dice el pato eh la
+PST061	#_ como se dice el pato eh la
 PST061	la oca no, oca
 PST062	l'oca
 PST061	la oca la gallina [il gal]lo
@@ -534,10 +534,10 @@ PST061	e:h
 PST061	interessante
 PST211	eh sì
 PST203	com'è l'oca in spagnolo?
-PST061	(el) pato
-PST203	#pato
-PST062	#pato
-PST061	pato pato
+PST061	#_ (el) pato
+PST203	#_ #pato
+PST062	#_ #pato
+PST061	#_ pato pato
 PST062	anatra
 PST203	pato è: l'anatra
 PST062	sì sì
@@ -555,7 +555,7 @@ PST062	[no]
 PST062	no no
 PST203	ah forse sì
 PST062	gans~ no #ganso
-PST061	[el pe~ el pequí] es uno que::
+PST061	#_ [el pe~ el pequí] es uno que::
 PST061	si~ ga~ como [gan~ ganso]
 PST203	[ganso ganso] gan[so]
 PST061	#[que] #cuidan #en perù (tienen) loro sono:: non lascia(no) entrare nessuno a casa
@@ -605,7 +605,7 @@ PST061	#ahí parlava tut~ sempre con la signora:: subito imparato
 PST061	#mi fratello anche #ya: lavorava con un #señor #igual. loro #ya sapevan parlare
 PST211	mhmh
 PST061	(zio) sì
-PST061	#me #ha: #me #ha #costado. #*pero
+PST061	#_ #me #ha: #me #ha #costado. #*pero
 PST061	eh piano piano (ho) imparato
 PST211	mhmh
 PST061	sì
@@ -621,11 +621,11 @@ PST061	[okay]
 PST061	va bene
 ??	scusi eh
 PST061	(aspe) xx
-PST061	entonces ya lo cortan nomàs no?
+PST061	#_ entonces ya lo cortan nomàs no?
 PST062	°xxxx°
 PST061	((ride_a_bassa_voce))
-PST061	creo que creo que tiene que:: cuando sale la señora le el xxx xxx cierra la puerta
-PST061	al menos ya toca
+PST061	#_ creo que creo que tiene que:: cuando sale la señora le el xxx xxx cierra la puerta
+PST061	#_ al menos ya toca
 PST062	sì tanto x
 PST061	ah x ah
 PST061	#ahora #lo #envío #a #la #seño::ra #y #so::n #una #copia: due copie no señora?
@@ -639,7 +639,7 @@ PST061	sessanta
 PST062	sessanta?
 PST061	sì via mail ses[santa]
 PST062	[xx]
-PST061	okay monedita monedita monedita monedita
+PST061	#_ okay monedita monedita monedita monedita
 PST061	per moneta moneta
 PST062	xxx
 PST062	grazie
@@ -650,10 +650,10 @@ PST061	[gra]zie
 PST203	((ride))
 PST211	buongiorno
 PST061	allora
-PST061	video haciendo un video con cámaras cámara escondida se dice en español ((ride))
+PST061	#_ video haciendo un video con cámaras cámara escondida se dice en español ((ride))
 PST203	((ride))
 PST211	((ride))
-PST061	xxx >como se dicen< los videos acá?
+PST061	#_ xxx >como se dicen< los videos acá?
 PST061	e: di [qua]
 PST203	[eh] (.) camera nascosta
 PST061	na~ nascosta. vo~ viene uno #algo improvvisato
@@ -665,7 +665,7 @@ PST203	però era già (in)visibile questo xx nascosto
 PST061	sì ((ride))
 PST211	((ride))
 PST203	e[::] niente della tua famiglia ci stavi raccontando c'era già tua sorella [che xxxxx]
-PST061	[bueno]
+PST061	#_ [bueno]
 PST061	[sì mia sorella] che #se #lla~ #mi sorella: #mi fratello sì loro #ya: avevano tanti anni qua
 PST203	>[tu] sei il più piccolo<?
 PST061	no io sono de: tutti sono #el #*cuarto
@@ -710,7 +710,7 @@ PST211	mhmh
 PST211	[okay]
 PST061	[se vado di là] (.) eh sì mi~ c'è un fratello e una sorella
 PST061	però: #no c'è tanto #ese #vínculo per rimanere di là #o #sea
-PST061	#de #*visita #*si
+PST061	#_ #de #*visita #*si
 PST061	però: eh rimanere di là è un poco difficile credo
 PST211	mhmh
 PST203	eh cer[to]
@@ -847,12 +847,12 @@ PST203	cer[to]
 PST061	[m:h]
 PST061	è così
 PST211	eh sì e oltre alla voglia famiglia voi hai detto eh siete cugi[ni]?
-PST061	[bu]eno yo la co~
+PST061	#_ [bu]eno yo la co~
 PST061	#es #como #si #fuera #mi cugina eh [è cu]gina perché #siempre eh con la famiglia
 PST211	[eh]
 PST061	#es (.) la figlia de:: #como #*se chiama?
 PST061	de:
-PST061	tu mamá cómo se llama?
+PST061	#_ tu mamá cómo se llama?
 PST061	(ecco)
 PST062	quando xx
 PST062	al
@@ -953,7 +953,7 @@ PST211	[ah]
 PST061	eh s~ eh il centro #de lima (.) la capitale c'è il #desfile #militar #*no?
 PST211	mhmh
 PST061	che viene yel~ yel~ el $yercito tutto no? e che
-PST061	es un desfile militar >se dice no<?
+PST061	#_ es un desfile militar >se dice no<?
 PST203	sì
 PST061	#y fan la [fe~]
 PST203	[sfi]lata
@@ -1009,7 +1009,7 @@ PST203	ah ah
 PST061	(per) (di là:) (aveva) eh e a parte che costava l'ingresso
 PST061	#y #cuando #*si #*paga la gente più grande loro van con la famiglia. paga l'ingresso.
 PST061	e invece nel parco dora era grati(s)
-PST061	#*no #*se #*pagava
+PST061	#_ #*no #*se #*pagava
 PST061	e io che #he #andado al parco dora domenica era pieno pieno
 PST061	me han det~ eh ragazzino ragaz~ (tutto vien così)
 PST211	e tu sei andata?
@@ -1075,25 +1075,25 @@ PST061	al quartieri
 PST211	m:h
 PST061	a piedi
 PST061	ciao #señora come stai #amigo (#saludar) un abbraccio
-PST061	feliz navidad feliz navidad
+PST061	#_ feliz navidad feliz navidad
 PST061	(all'inizio) facevo la festa fuori eh fuori
-PST061	en la eh
+PST061	#_ en la eh
 PST061	con la mu:sica: mangiare: (.) tutte co~
 PST061	invece qua non #*se poteva xx #en casa #*solo
 PST211	eh sì
-PST061	en casa
+PST061	#_ en casa
 PST061	#y: capoda~ in at~ y:: #año #nuevo
 PST061	#el capodanno no?
 PST211	mhmh,
 PST061	la festa aveva la tradizione che e::h
-PST061	el muñeco cómo se dice muñeco? muñeco muñeco >cómo [se dice muñeco?<]
+PST061	#_ el muñeco cómo se dice muñeco? muñeco muñeco >cómo [se dice muñeco?<]
 PST062	[bam]bola,
 PST061	un bambola #se #dice?
 PST203	pupazzo
 PST061	un: bambola #no #es eh
 PST061	un #lo disfrazábamos #de tutti la roba #*que #ya #*no #*te $serveba
 PST061	e: le mettiamo #el #cuete
-PST061	eh cuete no?
+PST061	#_ eh cuete no?
 PST062	eh petardi
 PST061	peta[:rdi:]
 PST211	[m:h]
@@ -1135,7 +1135,7 @@ PST211	ah okay
 PST061	qualcosa me lo diceva
 PST211	((ride))
 PST061	#ya hai capito che ((ride))
-PST061	#y #y #y
+PST061	#_ #y #y #y
 PST061	#cómo #sab~ #cómo #lo #he $descuberto? #porque mia mamma ogni tanto viene #mi zia no?
 PST061	che parla #en quechua
 PST061	#y loro parlavan #entre loro no?
@@ -1241,7 +1241,7 @@ PST062	io sono andata lì durante appunto (.) a lugl~ tra luglio e agosto
 PST062	durante le feste
 PST062	e::h (.) io invece sono di huánuco
 PST062	è una città verso i~ montagne [verso nord]
-PST061	[sì huánuco] (.) una montagna con la selva [#porque por~]
+PST061	#_ [sì huánuco] (.) una montagna con la selva [#porque por~]
 PST062	[mh (.) è] proprio in mezzo tra montagne e la selva
 PST062	g~
 PST062	inizia a far parte un po' dell'amazzonia
@@ -1262,12 +1262,12 @@ PST061	[sì eh] iqui~ iquitos #està proprio #en amazzonia #en l'amazzonia vicin
 PST203	mhmh[mh]
 PST061	[poi] c' è huánuco (.) >huánuco no<?
 PST062	sì
-PST061	huánuco está iniciando la selva.
+PST061	#_ huánuco está iniciando la selva.
 PST061	#iniciando #no? #pero sempre #el caldo c'è #forestal #ahí
 PST211	mh
 PST061	si si huánuco si
 PST061	m:h
-PST061	y ahí:: sí
+PST061	#_ y ahí:: sí
 PST061	[mh]
 PST062	e quindi quando sono arrivata lì mi ricordo che ho passato un po' di tempo con miei cugini e miei zii
 PST062	e da lì dovevamo andare nella città natale dei miei genitori che si chiama yata
@@ -1355,7 +1355,7 @@ PST061	#lo primo che #*se parla #*se: si impara è la la parolaccia #cómo #*se 
 PST061	veramente se [impara]
 PST211	((ride)) [sì sì]
 PST211	[ma perché:] la percepisci più forte poi [la parolaccia in italiano]
-PST061	[#y]
+PST061	#_ [#y]
 PST061	[sì:] sì uno lo dice sì io #*me ricordo io la parla~ imparavo subito questa
 PST061	((ride)) la parolaccia
 PST203	[e:h]
@@ -1391,11 +1391,11 @@ PST061	°ah io direi che ho°
 PST061	eh #bueno eh #siempre a:ggiungere qua come dicono a un #paìs #que #no #es tuo
 PST211	mhmh
 PST061	no #agradecer anche no?
-PST061	agradecer a dios agr~ eg agradecer que estamos acá e b~
-PST061	y que nos ha dado una oportunidad
+PST061	#_ agradecer a dios agr~ eg agradecer que estamos acá e b~
+PST061	#_ y que nos ha dado una oportunidad
 PST061	no? ha dado una oportunidad veramente de seguir con la vida
-PST061	seguir (.) eh adelante
-PST061	eh agradecer que tengo una familia acá
+PST061	#_ seguir (.) eh adelante
+PST061	#_ eh agradecer que tengo una familia acá
 PST211	mh[mh]
 PST061	[famiglia] xx
 PST061	sì sì
@@ -1404,7 +1404,7 @@ PST061	#y mi si si~ #bien si x #*se sente bene
 PST062	s[ì]
 PST061	[n]o? sente bene con la gente di qua itali[a::na] peruviani e tutti no,
 PST062	[mhmh]
-PST061	y siempre e::h trato de agredecer no?
+PST061	#_ y siempre e::h trato de agredecer no?
 PST061	#agredecer no?
 PST061	a parte che io lavoro con #el #*pubblico no?
 PST211	mhmh

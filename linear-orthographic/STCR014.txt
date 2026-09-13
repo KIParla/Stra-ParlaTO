@@ -11,10 +11,10 @@ PST092	non lo sappiamo
 PST092	perché non lo decidiamo noi
 PST092	le mamme
 PST211	eh informatevi con le mamme
-PST203	le mamme quindi doamna
-PST092	doamna è portavoce
+PST203	le mamme quindi #doamna
+PST092	#doamna è portavoce
 PST087	di solito
-PST092	sempre per domnul consolat vado a chiamare doamna perché
+PST092	sempre per #domnul #consolat vado a chiamare #doamna perché
 PST203	okay
 PST087	però qui c'è un problema che di solito
 PST203	eh no aspetta
@@ -63,7 +63,7 @@ PST092	però poi
 PST203	ma io ti presto la mia se me la chiedi
 PST092	eh ma non il punto è che non so il giorno
 PST203	beh ma esiste il gruppo scrivete nel gruppo
-PST092	doamna
+PST092	#doamna
 PST092	va bene
 PST203	vabbè comunque glielo chiediamo noi non ti preoccupare
 PST203	ehm
@@ -103,7 +103,7 @@ PST203	perché
 PST092	escono certe di quelle questio~ no allora
 PST087	come fa
 PST092	praticamente stanno facendo dei balli nuovi
-PST092	e quando ci sono balli nuovi dom è molto rigido su certe cose e dopo un po' la gente
+PST092	e quando ci sono balli nuovi #dom è molto rigido su certe cose e dopo un po' la gente
 PST203	ah ah
 PST092	inizia ad avere il broncio ad essere arrabbiata quindi non sa~ non è un sarebbe una pessima idea
 PST203	okay
@@ -127,7 +127,7 @@ PST203	ma potete anche divertirvi eh non dev'essere cioè
 PST212	beh ma è bello che sia reale no
 PST203	esatto
 PST203	cioè non dev'essere una cosa
-PST092	tu stai dicendo seri al centru
+PST092	tu stai dicendo seri al #centru
 PST087	eh
 PST092	fa ridere già solo così
 PST203	cioè non è
@@ -147,20 +147,20 @@ PST087	si potrebbe fare
 PST203	voi pensate alla scena la tecnica la adattiamo
 PST203	in funzione della scena
 PST087	secondo me si potrebbe fare una nell'angolino in cui ci prendiamo noi così che siamo magari dietro metti che siamo tipo in fila
-PST092	oaș
-PST092	oaș
-PST087	non proprio oaș ma anche tipo mentre ci spiega i passi dom così è davanti visto che non credo gli si voglia vedere la faccia
+PST092	#_ oaș
+PST092	#_ oaș
+PST087	non proprio #oaș ma anche tipo mentre ci spiega i passi #dom così è davanti visto che non credo gli si voglia vedere la faccia
 PST092	eh io pensavo magari
 PST087	eh così noi che facciamo dei passi dietro che magazi conosciamo già tipo
 PST092	non vuole farsi vedere la faccia
 PST092	tutto specchi si vedrà la faccia
 PST087	vabbè o sennò tipo anche da davanti tipo magari xx così e x
 PST092	io pensavo l'ora sai no l'ora di lezione che
-PST092	quando spiega no magari prendiamo delle persone di avansați tre quattro maschi quanto serve
-PST092	li prendiamo perché o facciamo fare l'ora di începători
-PST087	no dom ha detto di no
+PST092	quando spiega no magari prendiamo delle persone di #avansați tre quattro maschi quanto serve
+PST092	li prendiamo perché o facciamo fare l'ora di #începători
+PST087	no #dom ha detto di no
 PST092	o la nostra o la nostra ora
-PST092	e prendiamo un paio di maschi di avansați
+PST092	e prendiamo un paio di maschi di #avansați
 PST092	stanno là quanto un paio di minuti tempo che registriamo e poi dopo vanno fuori
 PST087	ma chi registra se noi ba~ ah sì c'è niente
 PST092	eh beh
@@ -177,14 +177,14 @@ PST092	se è ora di danza sarebbe infattibile che registriamo noi
 PST087	eh perché di solito balliamo tutte
 PST203	perché siete tutte dentro
 PST092	c'è no e tutte
-PST087	però ci sarebbero libere e perché loro sono eh începători cioè sono tipo
+PST087	però ci sarebbero libere e perché loro sono eh #începători cioè sono tipo
 PST203	però
-PST092	ince~
-PST087	noi siamo intermediari e loro sono
+PST092	#_ ince~
+PST087	noi siamo #intermediari e loro sono
 PST203	sì sì ho capito
-PST092	începători quindi non sa~ non fanno danza con noi
+PST092	#începători quindi non sa~ non fanno danza con noi
 PST087	principianti principianti
-PST092	principianti începători
+PST092	principianti #începători
 PST087	noi abbiamo x
 PST203	va bene
 PST203	però eh quello che io io dico due cose la prima è
@@ -198,20 +198,20 @@ PST203	e si può fare quando decidiamo noi con lui okay
 PST203	cioè gli dici fai fi~ fai le stesse cose che fai quando ci esercitiamo magari provate un ballo
 PST203	però fa vedere le prove fate vedere che sbagliate un po'
 PST212	sì la spiegazione sì
-PST087	eh allora sarebbe meglio avansat
+PST087	eh allora sarebbe meglio #avansat
 PST087	cioè magari mentre metti che risp~
 PST203	mh mh
-PST092	gli facciamo fare però bacau o oaș
+PST092	gli facciamo fare però #bacau o #oaș
 PST092	cioè perché se gli facciamo fare questa nuova
 PST087	metti che no aspetta metti che rispiegano un altro passo
-PST087	di solito l'avansat per quello che siamo state noi ad alcune lezioni c'erano sempre
+PST087	di solito l'#avansat per quello che siamo state noi ad alcune lezioni c'erano sempre
 PST087	le
-PST087	prima i ragazzi davanti con domnul e poi le ragazze dietro secondo me sarebbe carino però
+PST087	prima i ragazzi davanti con #domnul e poi le ragazze dietro secondo me sarebbe carino però
 PST203	mh
 PST203	mh mh
 PST087	magari sarebbe meglio mettere
-PST092	avansat non fanno così
-PST092	avansat fanno prima spiegano la parte ai maschi e le ragazze nel mentre fanno cinque dieci minuti di pausa
+PST092	#avansat non fanno così
+PST092	#avansat fanno prima spiegano la parte ai maschi e le ragazze nel mentre fanno cinque dieci minuti di pausa
 PST087	vabbè a volte
 PST092	poi vanno le ragazze e i ragazzi fanno pausa e poi provano insieme
 PST087	prima facevano
@@ -224,9 +224,9 @@ PST092	eh dobbiamo chiedere il permesso ai ragazzi
 PST203	dite voi al
 PST203	eh
 PST203	andate voi a dire a tutti quelli quello che devono fare
-PST087	eh però dobbiamo capire anche domnul perché comunque vogliamo una cosa che sia fatta be~
+PST087	eh però dobbiamo capire anche #domnul perché comunque vogliamo una cosa che sia fatta be~
 PST203	eh
-PST092	ma dom sarà più che felice
+PST092	ma #dom sarà più che felice
 PST087	sì però bisogna capire anche tipo le coppie
 PST203	ma sì
 PST203	sì
@@ -242,16 +242,16 @@ PST092	non fa~ non vogliono essere registrate quindi facciamo noi tre coppie
 PST087	eh che cavolo
 PST092	ho capito zia non è che l'ho deciso io l'hanno deciso loro abbi pazienza
 PST087	già così siamo tre
-PST087	così cos'è tre avasat
-PST092	se no scusami prendiamo le ragazze di începători e facciamo insieme alle ragazze di începători
-PST087	ma do~ non so se han voglia perché dice~ anche le ragazze di ma anche le ragazze dell'începători dicevano che boh vediamo
+PST087	così cos'è tre #avasat
+PST092	se no scusami prendiamo le ragazze di #începători e facciamo insieme alle ragazze di #începători
+PST087	ma do~ non so se han voglia perché dice~ anche le ragazze di ma anche le ragazze dell' #începători dicevano che boh vediamo
 PST092	e boh
 PST092	perché loro hanno anche i maschi
 PST092	sì ma loro hanno anche i maschi
 PST087	vediamo
-PST092	cioè piuttosto noi andare a disturbare gli avansat che poverini si fanno già due maroni così due ore di danza
-PST087	ma non possono fare solo avansat intanto adesso mh sono a fare prove
-PST092	e fare fare solo agli avansat
+PST092	cioè piuttosto noi andare a disturbare gli #avansat che poverini si fanno già due maroni così due ore di danza
+PST087	ma non possono fare solo #avansat intanto adesso mh sono a fare prove
+PST092	e fare fare solo agli #avansat
 PST087	eh
 PST092	ci insultano male se li riprendiamo mentre sbagliano
 PST087	eh non mi interessa
@@ -284,7 +284,7 @@ PST087	no aspetta
 PST092	è sempre lo stesso non è che mh vado con chi capita è sempre lo stesso
 PST087	non ho capito
 PST087	non ho capito
-PST087	io mi sto riferendo a un altro non del centru
+PST087	io mi sto riferendo a un altro non del #centru
 PST092	eh quello di scuola
 PST087	eh
 PST092	eh con l'acca
@@ -309,16 +309,16 @@ PST087	s
 PST203	un ballo
 PST203	questa cosa l'aveva detta una volta
 PST092	ah sì
-PST092	ah boh se è a posto doamna va bene
+PST092	ah boh se è a posto #doamna va bene
 PST087	ah eh di solito no aspetta di solito sai perché io mi ricordo che all'inizio non so se tu c'eri già
 PST092	io sono arrivata l'anno scorso ciccia bella
 PST087	una no allora no
-PST087	due anni fa mi sembra che abbiamo fatto tipo questo festival comoara străbunilor
+PST087	due anni fa mi sembra che abbiamo fatto tipo questo festival #comoara #străbunilor
 PST087	e tipo siamo andati alla tesoriera abbiamo ballato lì
 PST087	però era tipo non so tipo quello spazio dove stanno i cani non lo so c'è tipo una statua
 PST092	ce l'ha
 PST203	ah sì
-PST092	sì ho capito il problema è che se doamna è d'accordo ben venga
+PST092	sì ho capito il problema è che se #doamna è d'accordo ben venga
 PST087	e noi abbiamo ballato lì xxx
 PST092	però eh che mh miei maroni cioè nel senso ti sale tutta la terra
 PST092	perché non c'è un pezzo di cemento
@@ -326,9 +326,9 @@ PST087	ma no ma andiamo dove c'è l'asfa~
 PST203	prego prego
 PST092	avanti avanti avanti
 PST087	ma sì
-PST087	eh da
-PST092	două minute și terminăm
-PST092	nu stați liniștit cinci minute și terminăm
+PST087	eh #da
+PST092	#_ două minute și terminăm
+PST092	#_ nu stați liniștit cinci minute și terminăm
 PST087	ma perché dove dico io c'è tipo la fontanella lì
 PST087	che non funziona c'è tipo la statua
 PST087	e c'è non c'è terra c'è c'è cemento non so com~ mh non so com'è
@@ -361,7 +361,7 @@ PST092	dov'è la pellerina
 PST203	ma siete di torino voi
 PST092	no
 PST087	no
-PST092	noi siamo rumene dentro se tu ci chiedi la țară noi come andiamo te lo sappiamo dire a occhi chiusi
+PST092	noi siamo rumene dentro se tu ci chiedi #la #țară noi come andiamo te lo sappiamo dire a occhi chiusi
 PST087	ma neanche lì
 PST203	cioè tu sai andare da casa tua a qui da casa tua a scuola e ritorno
 PST087	esatto
@@ -517,7 +517,7 @@ PST087	ma non dovevamo fare anche dei dietro scena
 PST087	come
 PST203	fare
 PST092	sì dei retroscena
-PST087	tipo xx
+PST087	#tipo xx
 PST092	questo cos'è scusami non è un dietro scena
 PST203	beh ma eh tutto quello che abbiam fatto
 PST087	non è filmato
@@ -601,7 +601,7 @@ PST087	però da organizzare
 PST203	però
 PST092	tu vuoi la mia fine
 PST087	eh bisogna organizzare cioè non so poi anche gli altri
-PST092	doamna non ha detto che voleva fare tipo una roba tra di noi una domenica qua da qualche parte
+PST092	#doamna non ha detto che voleva fare tipo una roba tra di noi una domenica qua da qualche parte
 PST087	qua sì cioè ci sta
 PST092	eh possiamo usare quello magari non adesso prossima perché
 PST087	come abbiam fatto per capodanno
@@ -722,7 +722,7 @@ PST092	cioè immaginati te la metti
 PST203	ma si può anche chiedere guarda che la gente ti dice di sì
 PST087	no che poi che poi sono tutti lì no che si vergognano così no xxx
 PST092	ma sì veramente tu non hai idea oh
-PST087	è meglio dire solo a doamna
+PST087	è meglio dire solo a #doamna
 PST092	informa
 PST087	scrive così poi noi veniamo così
 PST087	siamo la sorpresa
@@ -748,7 +748,7 @@ PST203	un po' di qualche mese
 PST203	la facciamo tutto l'a~ eh sì certo che te la fanno fare seria
 PST092	vabbè come adesso
 PST203	se lo vuoi fare a scuola come pensi
-PST092	oh băi mi butti giù amore mio io
+PST092	oh #băi mi butti giù amore mio io
 PST203	no però diciamo che si trova un momento come c'è ballo c'è canto in cui si fa questo
 PST203	si fanno insieme le cose in modo più divertente si fa un film
 PST203	diverso xxx
@@ -887,15 +887,15 @@ PST087	e quindi l'ha picchiato
 PST092	no non te lo posso dare
 PST087	dammi il telefono
 PST087	lo metto io per una volta no x tu l'hai fatto la scorsa volta tieni
-PST092	no comunque cioè no se lo meritava perché mi sputa~ mi ha sputato cioè lui si è riempito la bocca con l'acqua della fontanella e poi me l'ha sputata adosso okay che era l~ agosto ma mh mh mh too much
+PST092	no comunque cioè no se lo meritava perché mi sputa~ mi ha sputato cioè lui si è riempito la bocca con l'acqua della fontanella e poi me l'ha sputata adosso okay che era l~ agosto ma mh mh mh #too #much
 PST087	ah
 PST203	oh ma fa solletico
 PST092	soffri il solletico
 PST087	la coroncina della principessa
 PST092	non te l'ho chiesto se soffri il solletico lo sai è vero che non te l'ho chiesto
 PST203	dai quindi non ho quindi la cosa più cattiva è stata trattare male il sassofonista
-PST087	ah ma baticu ~spetta baticu
-PST092	ma come xx ih bati~ mi ma
+PST087	ah ma #baticu ~spetta #baticu
+PST092	ma come xx ih #bati~ mi ma
 PST203	comunque l'avete già fatto l'altra volta st~ eh
 PST092	eh
 PST092	okay no ha criticato
@@ -920,13 +920,13 @@ PST087	i xx xx
 PST203	no le cose rotte lasciale lì che poi si rompono ed è colpa mia
 PST092	eh appunto proprio per questo te le diamo
 PST087	eh tu non eri preoccupata
-PST087	se ci vede doamna
+PST087	se ci vede #doamna
 PST092	sì sì ma
 PST203	sì infatti possiamo anche evitare magari
-PST092	no no no non evitiamo un bel nada
+PST092	no no no non evitiamo un bel #nada
 PST203	dai basta che poi ci ci sgridano a noi
 PST092	non ti sgridano
-PST092	doamna ride tu scherzi doamna scherza più di ih ti sta crescendo la peluria in testa
+PST092	#doamna ride tu scherzi #doamna scherza più di ih ti sta crescendo la peluria in testa
 PST092	gli stanno crescendo i capelli
 PST087	no vabbè
 PST203	comunque si chiamano capelli non te lo volevo dire

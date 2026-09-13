@@ -1,59 +1,59 @@
-PST210	a ver preguntale a xx
+PST210	#_ a ver preguntale a xx
 PST203	okay
 PST203	xxxx,
 PST210	(sono io?)
 PST203	si (deve accendere)
 PST064	((ride))
 PST065	((ride))
-PST064	xxxxx [a:h]
-PST210	[no] porque yo no tengo que salir en la cámara
+PST064	#_ xxxxx [a:h]
+PST210	#_ [no] porque yo no tengo que salir en la cámara
 PST065	que se vea el nom]bre del restaur[ante]
 PST064	no tienes salir]
-PST210	[solamente xxx]
-PST203	[un momentito más porfa] (.) xx ese y poner otro (.) si no no va
-PST065	porque el objetivo es que se vea (.) el nombre del [restaurante]
+PST210	#_ [solamente xxx]
+PST203	#_ [un momentito más porfa] (.) xx ese y poner otro (.) si no no va
+PST065	#_ porque el objetivo es que se vea (.) el nombre del [restaurante]
 PST064	[ah ah]
-PST203	eh se no no sale el nombre del restaurante (.) porque estamos haciendo todo eso si no ((ride))
-PST064	en la entrevista?
+PST203	#_ eh se no no sale el nombre del restaurante (.) porque estamos haciendo todo eso si no ((ride))
+PST064	#_ en la entrevista?
 PST210	°xxxx°
 PST064	((ride))
 PST065	((ride))
-PST210	es una entrevista?
-PST065	claro porqué? porque lo pones tu [(seguida) nosotros estamos xx]?
+PST210	#_ es una entrevista?
+PST065	#_ claro porqué? porque lo pones tu [(seguida) nosotros estamos xx]?
 PST203	video a xxxx]
 PST064	[claro]
-PST065	he~ hemos sido entrevistado por un proyecto de (.) del cu~ del:: de la región del piemonte que va a salir en xx momento
-PST065	qué es?
+PST065	#_ he~ hemos sido entrevistado por un proyecto de (.) del cu~ del:: de la región del piemonte que va a salir en xx momento
+PST065	#_ qué es?
 PST064	((ride))
-PST210	°xxx°
+PST210	#_ °xxx°
 PST064	((ride))
 PST065	((ride))
-PST065	había xxx ya
-PST064	se aprovecha todo todo se aprovecha
-PST210	xxxx aquí
-PST064	escríbelo
-PST203	xx un poco
+PST065	#_ había xxx ya
+PST064	#_ se aprovecha todo todo se aprovecha
+PST210	#_ xxxx aquí
+PST064	#_ escríbelo
+PST203	#_ xx un poco
 PST210	#xx #yo tutta tua
 PST065	no
 PST210	no?
-PST065	no solamente me molestó acá como se ve [este (peñiscado) pero después]
-PST203	[xx (.) eso al] suelo (.) eso es siempre al [suelo]
-PST210	[es un dra]gón?
+PST065	#_ no solamente me molestó acá como se ve [este (peñiscado) pero después]
+PST203	#_ [xx (.) eso al] suelo (.) eso es siempre al [suelo]
+PST210	#_ [es un dra]gón?
 PST065	es un dragón asiático]
 PST203	[xx xxx]
 PST210	ah [xx]
 PST065	[cioè #oriental]
 PST203	okay
-PST065	porqué lo llaman [a usted x?]
-PST064	[ah xx] yo le mandé el mensaje que no iba pedir xxx
+PST065	#_ porqué lo llaman [a usted x?]
+PST064	#_ [ah xx] yo le mandé el mensaje que no iba pedir xxx
 PST065	a::h
-PST203	x de rotura
-PST203	@mary un poquito más a la derecha y yo un poquito más a x (.) [asì]
+PST203	#_ x de rotura
+PST203	#_ @mary un poquito más a la derecha y yo un poquito más a x (.) [asì]
 PST064	[mh]
 PST203	scusate ci [mettiamo]
-PST064	[sí sí] (.) ya que apaga xx teléfono)
+PST064	#_ [sí sí] (.) ya que apaga xx teléfono)
 PST203	ci mettiamo un po'
-PST064	quítala
+PST064	#_ quítala
 PST203	ci mettiamo un po' di più perché::
 PST203	adesso non vi facciamo perdere tanto tempo
 PST203	xxxx usare tutta la strumentazione #tal #equipo:
@@ -63,20 +63,20 @@ PST203	xxx,
 PST203	[facciamo un'altra] xx #*con #el #nombre #también #asì #hacemos #otra #toma
 PST064	ha llamado]
 PST210	[ah okay]
-PST210	#*(zero)
+PST210	#_ #*(zero)
 PST210	a posto
-PST203	@mary (.) (mira) xxx
+PST203	#_ @mary (.) (mira) xxx
 PST203	xxxxx
-PST210	bórrala
+PST210	#_ bórrala
 PST203	xx xxxx
 PST210	okay
-PST210	me llaman (.) siempre xxx
-PST065	de qué parte x?
+PST210	#_ me llaman (.) siempre xxx
+PST065	#_ de qué parte x?
 PST210	xxx
-PST064	xxx yo de cañete
-PST065	ya x (de la resa)
-PST203	xx un poco más [que]
-PST210	de [la]?
+PST064	#_ xxx yo de cañete
+PST065	#_ ya x (de la resa)
+PST203	#_ xx un poco más [que]
+PST210	#_ de [la]?
 PST064	[tru]jill[o]
 PST065	[de] trujillo
 PST065	°truj[illo]°
@@ -92,7 +92,7 @@ PST203	funziona (.) sei tu il capo decidi tu
 PST210	xx io perché?
 PST203	stiamo già facendo
 PST203	((batte_le_mani))
-PST203	#listo
+PST203	#_ #listo
 PST203	ciao
 PST064	okay
 PST203	allora e::::h io sono vi abbiamo già raccontato un po' del[::] nostro progetto
@@ -175,8 +175,8 @@ PST210	((ride))
 PST203	[xx]
 PST203	e conoscono un po' la cucina peruviana:::
 PST064	ma conoscono:: sì conoscono di più lo conoscono la #papa #a #la #huancaína
-PST064	#el #ceviche
-PST203	[°#ceviche°]
+PST064	#_ #el #ceviche
+PST203	#_ [°#ceviche°]
 PST064	[è quello che]::: loro:: (.) vengono prima a mangiare quello
 PST064	adesso poi:: che noi abbiamo un menù::: abbastanza
 PST064	abbondante per dire #ya:::
@@ -196,7 +196,7 @@ PST210	[è sempre pieno],
 PST065	[mh]
 PST210	[sempre pieno]
 PST065	((ride))
-PST203	eh vab[bè] ((ride))
+PST203	eh vab[bè ((ride))]
 PST064	[sì è così]: (.) succede
 PST203	senti ma e:::::hm no vabbè dai allora tu invece come ti chiami?
 PST065	((ride))
@@ -357,7 +357,7 @@ PST203	di lima?
 PST210	sì
 PST203	e tu? qual è il tuo piatto preferito?
 PST065	ah a me il #ceviche (.) [a::h ovu]nque io vado ((ride)) (.) mh devo per [forza mangiare quello]
-PST203	[#ceviche]
+PST203	#_ [#ceviche]
 PST203	[s:ì]? ((ride))
 PST203	ma (.) ma lo ma]ngi anche a casa tua?
 PST065	e:::h sì
@@ -662,7 +662,7 @@ PST065	[sì]
 PST203	e voi parlate quechua?
 PST065	no
 PST064	niente
-PST064	[mana ma]na mana
+PST064	#_ [mana ma]na mana
 PST203	[niente x]
 PST065	((ride))
 PST203	((ride))

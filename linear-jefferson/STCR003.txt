@@ -69,7 +69,7 @@ PST087	o se no anche solo tipo::
 PST087	le differenze
 PST087	tipo a::h #îți #amintești #cum #era #în romania #când #era
 PST092	gli scherzi [che fanno le mamme mentre] preparano [(i vestiti)]
-PST086	((ride)) [sì (.) sì]
+PST086	[((ride)) sì (.) sì]
 PST086	esat[to]
 PST092	[eh] a me adesso mi è venuto in mente tipo #doamna
 PST092	che #doamna [fa spesso]
@@ -152,7 +152,7 @@ PST087	si può fare intervista doppia?
 PST086	ma guarda che qua c'è scritto
 PST086	titolo della scena poi tema generale di che cosa ah va bene
 PST087	eh di che cosa [parla la scena]
-PST086	[#folclor]
+PST086	#_ [#folclor]
 PST086	di folclore,
 PST087	e così magari se no (.) e però i costumi
 PST087	un conto è se la facciamo così:: con la maglia un conto è se la facciamo col costume così facciamo due in uno
@@ -224,10 +224,10 @@ PST092	pensavo di usare dei filmati della diretta
 PST086	ma perché ma puoi scrivere direttamente canto balli
 PST092	ma #nu-i #[cântec] #e #da:ns #cu #costum
 PST087	[dove van]
-PST092	e asta
+PST092	#_ e asta
 PST086	[xxx]
 PST087	[non lo so]
-PST092	e dans cu costum
+PST092	#_ e dans cu costum
 ???	xx xx studiare anche se non studierò probabilmente però,
 PST092	fuori
 PST092	meglio te ne stavi a casa) ((ride))
@@ -265,7 +265,7 @@ PST086	°uh cazzo°
 PST092	un lavoro
 PST092	[ma ce la fa::i]
 PST092	((ride)) #*tu #nu
-PST086	mă și înregistrează
+PST086	#_ mă și înregistrează
 PST092	lo capiscono comunque il rumeno
 PST092	due: ci ti erre
 PST092	sì beh eh:m gli alli~ gli allievi del [ci ci ti i erre]
@@ -339,7 +339,7 @@ PST086	[quando si farà la ripresa] quando si farà la ripresa che che ne so
 PST087	eh questo qui lo lascialo per dopo
 PST092	[la]scialo vuoto (.) [inqu]adrature [facciamo::]
 PST086	inquadra[ture] (.) [come volete filmare la scena]
-PST087	non me le [ricordo] ((ride))
+PST087	non me le [ricordo ((ride))]
 PST092	[le inquadrature]
 PST086	eh::m boh quello frontal[e]
 PST092	c'era quello a primo piano
@@ -419,7 +419,7 @@ PST086	[vabbè però il cellulare]
 PST092	le
 PST092	le fotine
 PST092	[(xxx)]
-PST087	[fotine] ((ride))
+PST087	[fotine ((ride))]
 PST092	facciamo un'altra scena?
 PST086	e poi?
 PST092	(e basta) perché adesso dobbiamo chiedere alle signore
@@ -509,7 +509,7 @@ PST087	secondo me anche va bene per canto:
 PST092	ma prendiamo
 PST087	però non è che [dobbiam~]
 PST092	[perché] negli ultimo periodo è anche con cioè vedi: che anche la:: mh roba di popoli
-PST092	@anita a câștigat e:=mh premiul e bine @anita
+PST092	#_ @anita a câștigat e:=mh premiul e bine @anita
 PST087	si però (.) nel senso non è che mettiamo solo secondo me bisognerebbe fare anche almeno una canzone
 PST087	non proprio con tutto il gruppo però magari con le ragazze che partecipano qua?
 PST086	eh quello xx xx
@@ -517,10 +517,10 @@ PST092	magari tipo ora di canto [di #cântec #în #grup]
 PST087	[sì mettiamo: cinque]
 PST087	sì o se no mettiamo tipo cinque ragazze che cantano #cântecul #de #grup
 PST087	e così con dietro l'orchestra
-PST092	știi care poate să punem poate să punem ăla care a fost la:: oradea
+PST092	#_ știi care poate să punem poate să punem ăla care a fost la:: oradea
 PST087	la #șezătoa~ cioè come canzone (.) prima della #șezătoare?
-PST092	prindem fetele de la oradea că sunt cinci
-PST087	cinci
+PST092	#_ prindem fetele de la oradea că sunt cinci
+PST087	#_ cinci
 PST092	[xx xx] #cinci
 PST086	[vediamo]
 PST087	bisogna vedere anche quale che (cerca) di fare
@@ -528,7 +528,7 @@ PST087	ma andremmo bene anche tipo noi tre,
 PST087	poi chi c'è (.) di là
 PST092	xx xx xx
 PST087	sì
-PST092	@romina dacă vrea
+PST092	#_ @romina dacă vrea
 PST087	perché no?
 PST092	raga c'ha una voce madonna,
 PST087	è meglio xx
@@ -542,7 +542,7 @@ PST092	no due uno è in un cass[etta]
 PST087	[ah vero]
 PST087	ah: sì:: quello vecchio,
 PST092	ve~ vedi vedi (.) quindi: ehm titolo della scena #taraful più,
-PST092	#cântec?
+PST092	#_ #cântec?
 PST087	più canto
 PST092	più can[to]
 PST086	[sì]
@@ -629,7 +629,7 @@ PST092	s::ì [c(io)è]
 PST203	[quello è] importante capirlo
 PST092	eh
 PST092	xx xx xx
-PST092	ziua mamei:
+PST092	#_ ziua mamei:
 PST087	la giornata [xx xx in italiano],
 PST092	non [mi ricordo in italiano come si dice],
 PST087	la giornata della mamma
@@ -644,7 +644,7 @@ PST092	non mi ricordo gli altri due ((ride))
 PST087	no ma hanno fatto quello xx?
 PST092	quello xx forse xxx hanno fatto
 PST087	no #topire
-PST092	#topire
+PST092	#_ #topire
 PST092	vabbè tre balli (sono sempre)
 PST092	eh quindi magari po~ potevamo approfittare di quella scena là
 PST092	e::[:h]
@@ -709,7 +709,7 @@ PST092	[orchestra e xx]
 PST203	mhmh
 PST203	okay allora finiamo quella,
 PST203	e poi mettiamo sta cosa delle uova la dobbiamo fare
-PST087	[sì] ((ride))
+PST087	[sì ((ride))]
 PST203	[se qualcuno] la fa se non la farà scrivo io okay? eh::m allora quindi
 PST087	m::h
 PST092	((legge)) orchestra più canto tema generale di cosa parla in questa scena

@@ -148,7 +148,7 @@ PST077	m::h
 PST077	diciamo che ho provato di tutto per migliorare il mio inglese,
 PST082	mh mh
 PST077	ho pure fatto una scuo~ un::=e:h
-PST077	un corso a pagamento all'#all #stree #school
+PST077	un corso a pagamento all' #all #stree #school
 PST077	e::h
 PST077	e::h in via venti settembre?
 PST082	a::h sì okay
@@ -637,7 +637,7 @@ PST077	[perché]:: magari:: (.) mh parlando in romeno e usando
 PST082	[mh]
 PST077	qualche parola in italiano poi inizia a: declinare male le parole,
 PST082	ah ah
-PST077	perché tante parole che in romen~ s~ simili che sono simili sia (all')italiano [in rume]no,
+PST077	perché tante parole che in romen~ s~ simili che sono simili sia (all') italiano [in rume]no,
 PST082	[sì]
 PST077	per esempio in rumeno sono al maschile (.) [in itali]ano sono al femminile.
 PST082	[sì]
@@ -652,7 +652,7 @@ PST082	però sai cioè nel senso bisogna valorizzare anche questi errori perché
 PST082	fanno parte della::: della cultura di una persona poi tu
 PST077	sì [però bisogna essere coscien]te di:: di questa cosa e quando parli di controlla[re bene::]
 PST082	[parli un sacco di lingue]
-PST082	[certo (.) sì] eh però è difficile eh eh ((ride)) [e::h]
+PST082	[certo (.) sì] eh però è difficile eh eh [((ride)) e::h]
 PST077	[eh lo so (.) lo so che è difficile]
 PST082	a me succede questa cosa con mio padre.
 PST082	quando parliamo in ungherese,
@@ -764,12 +764,12 @@ PST082	sì
 PST077	~spetta
 PST077	non so se li ho detti bene.
 PST082	industria
-PST077	#industrija
+PST077	#_ #industrija
 PST082	#industrija sarà russo,
 PST077	#industrija non è in italiano?
 PST082	industria
 PST077	allora vedi le ho dette prima in rumeno,
-PST077	#industrie
+PST077	#_ #industrie
 PST082	sì
 PST082	#industrie [è in rumeno]
 PST077	[eh mi capita]:: mi capita spesso con queste parole che sono simili perché.
@@ -826,7 +826,7 @@ PST077	e::h oppure::
 PST077	ho:: una cosa che mi succede sempre ecco anche adesso me ne sono accorta durante il nostro m::h dialogo,
 PST077	confondo e:h tipo in italiano si dice livello,
 PST077	in romeno si dice #nivel
-PST082	#nivel
+PST082	#_ #nivel
 PST082	sì
 PST077	e li confondo sempre mi [mi viene in romeno:]
 PST082	[eh perché sono simili]

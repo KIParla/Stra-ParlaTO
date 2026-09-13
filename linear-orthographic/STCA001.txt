@@ -1,21 +1,21 @@
-PST136	shuf-ti
+PST136	#_ shuf-ti
 PST135	cioè immagina io l'anno scorso avevo la maturità e stavo a guardare la maturità degli altri al posto di andare a studiare per la mia maturità tipo ah ah
 PST135	godo ah ah
 PST135	mio padre mi fa eh ridi per la maturità degli altri poi vediamo la tua
 PST138	no ma è difficile
 PST135	e gli faccio un po' cattiva come cosa
-PST138	no no veramente il bac del marocco è veramente difficile raga
+PST138	no no veramente il #bac del marocco è veramente difficile raga
 PST135	sì sì
-PST136	gul-lik ki l-sma u ki men u ki gul-lik la velocità
+PST136	#gul-lik #ki #l-sma #u #ki #men #u #ki #gul-lik la velocità
 PST135	fisica xx
 PST138	l'ho visto
 PST136	fisica sì
-PST137	l'esame bi-l-français
+PST137	l'esame #bi-l-français
 PST136	eh la pareh in inglese devono scddevono fare tipo la produzione scritta
 PST138	ah
-PST138	i said my name is non mi ricordo il nome i love morocco you should visit it
-PST136	you should visit it ((ride))
-PST136	((ride)) safi hadshi li kayin ((ride))
+PST138	#i #said #my #name #is non mi ricordo il nome #i #love #morocco #you #should #visit #it
+PST136	#_ you should visit it ((ride))
+PST136	#_ ((ride)) safi hadshi li kayin ((ride))
 PST138	madonna
 PST135	dai continuiamo con i nomi
 PST136	okay
@@ -24,12 +24,12 @@ PST136	cosstavcosa stavete dicendo
 PST135	e i nomi in arabo
 PST138	delle pronunce
 PST137	ma xx xx che escono tanti nomi così
-PST138	yallah
+PST138	#_ yallah
 PST136	e tu sei come ti fai chiamare o
 PST138	in marocco mi chiamano
 PST137	e come ti piace
 PST138	ma no è indifferente sinceramente
-PST137	@neda ixall-uk 3azuza
+PST137	#_ @neda ixall-uk 3azuza
 PST137	vecchia
 PST138	no
 PST136	a me piace perché mia cugina la chiamiamo
@@ -38,17 +38,17 @@ PST135	ah lo so l'ho visto
 PST138	ma più che altro veramente nessuno mi chiama così cioè neanche in casa mia mi chiamano veramente
 PST138	ma in verità
 PST138	mi chiamano tu e xx xx mi chiama
-PST138	wa zin wa saṭa
+PST138	#_ wa zin wa saṭa
 PST138	no cioè
-PST137	oh @nada
+PST137	#_ oh @nada
 PST138	principalmente non mi sembra
 PST137	no
 PST138	sì
-PST139	we say @nadouda
+PST139	#_ we say @nadouda
 PST136	sì esatto
 PST138	sì
-PST136	anā kan gul @nadouda
-PST136	ken del3ek bi-ha
+PST136	#_ anā kan gul @nadouda
+PST136	#_ ken del3ek bi-ha
 PST135	iniziamo
 PST135	hassan
 PST135	come lo dite voi
@@ -64,7 +64,7 @@ PST135	omar
 PST135	io te lo dico in italiano
 PST139	omar
 PST135	omar
-PST136	daba huma bḥalla kay qassru-ha ḥena kentawlu-ha ḥna 3oma:r
+PST136	#_ daba huma bḥalla kay qassru-ha ḥena kentawlu-ha ḥna 3oma:r
 PST135	omar
 PST139	omar
 PST138	omar
@@ -77,16 +77,16 @@ PST138	rayen
 PST136	è uguale
 PST137	rayyen
 PST136	è uguale è uguale
-PST139	it's eh for girls and boys this
+PST139	#_ it's eh for girls and boys this
 PST138	davvero
-PST139	rayan bintu u rayan nusab
-PST135	what
+PST139	#_ rayan bintu u rayan nusab
+PST135	#_ what
 PST136	ah sì
 PST138	no noi
 PST137	no
 PST138	no noi già sosolo maschio
-PST136	only for guys
-PST135	only guys
+PST136	#_ only for guys
+PST135	#_ only guys
 PST138	rayen
 PST136	rayen
 PST137	rayen
@@ -105,20 +105,20 @@ PST135	fatema
 PST136	fatema
 PST138	fatema
 PST135	fatima
-PST136	hi-ya hi-ya saraḥa faṭema faṭim zahra
+PST136	#_ hi-ya hi-ya saraḥa faṭema faṭim zahra
 PST138	fatem zahra sì
 PST135	eh però tipo l'abbreviazione
 PST136	fatim zahra
-PST137	fi-l-maghrib kay semmiw faṭima faṭima zahra
-PST137	mish faṭima
+PST137	#_ fi-l-maghrib kay semmiw faṭima faṭima zahra
+PST137	#_ mish faṭima
 PST135	no perché~
-PST136	no perché hiya aslan al-zahra' bent rasul salla al-l-alla-hu wa sallam hiya al-zahra' mashi
+PST136	no perché #hiya #aslan #al-zahra' #bent #rasul #salla #al-l-alla-hu #wa #sallam #hiya #al-zahra' #mashi
 PST135	sì però puoi scegliere o uno o l'altro se vuoi
 PST136	ah
-PST136	sì sì sì però quello giusto è al-zahra' quello completo
+PST136	sì sì sì però quello giusto è #al-zahra' quello completo
 PST135	ah okay
 PST135	eh cos'altro possiamo dire
-PST137	musaiba ta3rif ism musaiba
+PST137	#_ musaiba ta3rif ism musaiba
 PST138	musaiba
 PST137	musaiba
 PST139	musaiba
@@ -129,16 +129,16 @@ PST137	eh
 PST139	nasib
 PST137	nasiib
 PST135	nasib
-PST136	ism bent
-PST139	nasib-i
+PST136	#_ ism bent
+PST139	#_ nasib-i
 PST135	nasib
 PST137	nasibe
-PST137	ism bent
+PST137	#_ ism bent
 PST136	nasibe
 PST139	nasib eh
 PST135	aspe io devo cercarne altri che qua è imballato
-PST137	hal anta musaib ((ride))
-PST138	nasib non è marito cos'è
+PST137	#_ hal anta musaib ((ride))
+PST138	#nasib non è marito cos'è
 PST136	non ricordo
 PST137	musaiba
 PST139	musaiba
@@ -147,9 +147,9 @@ PST135	eh yasmin
 PST137	musaiba
 PST136	yasmin
 PST137	yasmin alhamamu
-PST135	a jaweb a xo-ya
+PST135	#_ a jaweb a xo-ya
 PST139	yasmine
-PST139	jaweb a xo-ya
+PST139	#_ jaweb a xo-ya
 PST135	eh è tipo un po' più slang da noi sì
 PST139	know
 PST135	è tipo in fretta bro cioè tipo
@@ -164,27 +164,27 @@ PST138	xadija
 PST135	xadija
 PST137	xayal
 PST139	xadija
-PST138	do you have xadija (.) okay
-PST135	arab name
+PST138	#_ do you have xadija (.) okay
+PST135	#_ arab name
 PST138	xadduj
 PST136	xadija
-PST137	ḥna man ghulush xadija
+PST137	#_ ḥna man ghulush xadija
 PST136	xadija
 PST138	zhor
 PST138	zhor
 PST137	zuhur
 PST139	zehur
-PST136	eh l-betul ((ride)) guli-lih nti-ya ga3
+PST136	#_ eh l-betul ((ride)) guli-lih nti-ya ga3
 PST135	l-betul
 PST136	l-betul tamo tamo tamo
-PST139	zuhur and like flowers are not (.) are not together
-PST135	okay but zhur
-PST135	zuhur zohra
-PST136	rḥimo rḥimo waḥd derri kayhedar m3a saḥbo gal-lih tsawwer a sat kayhedar m3a waḥd l-bent labas l-gharad u dakshi tsawwer ashnu galet-liya smi-tu rḥimo tsawri saḥbi msaeb m3a rḥimo
-PST135	we are names so c~we have a crazy name about girls like rḥimo (.) ijjo
-PST138	awili ijjo ijjo shelḥa
+PST139	#_ zuhur and like flowers are not (.) are not together
+PST135	#_ okay but zhur
+PST135	#_ zuhur zohra
+PST136	#_ rḥimo rḥimo waḥd derri kayhedar m3a saḥbo gal-lih tsawwer a sat kayhedar m3a waḥd l-bent labas l-gharad u dakshi tsawwer ashnu galet-liya smi-tu rḥimo tsawri saḥbi msaeb m3a rḥimo
+PST135	#_ we are names so c~we have a crazy name about girls like rḥimo (.) ijjo
+PST138	#_ awili ijjo ijjo shelḥa
 PST134	nawal
-PST135	amazigh amazigh
+PST135	#_ amazigh amazigh
 PST139	ijjo
 PST137	ijjo
 PST135	ijjo
@@ -220,11 +220,11 @@ PST138	mary
 PST137	ah imran
 PST139	maryam eh
 PST138	maryam
-PST135	mel-ha
-PST139	maryam al-3adr
+PST135	#_ mel-ha
+PST139	#_ maryam al-3adr
 PST136	ah si maryam madonna la madonna
 PST138	ghita
-PST138	3and-kum ghita
+PST138	#_ 3and-kum ghita
 PST138	ghita
 PST135	ghita
 PST136	ghita
@@ -233,10 +233,10 @@ PST134	la mia amica rita
 PST138	ghita
 PST136	ghita
 PST139	rifta
-PST135	wa ghita hi-ya rita walakin ḥna tengulu rhita
-PST136	taqriben
+PST135	#_ wa ghita hi-ya rita walakin ḥna tengulu rhita
+PST136	#_ taqriben
 PST139	rita
-PST137	wa huma yaqulu rita
+PST137	#_ wa huma yaqulu rita
 PST134	perché è erre acca ita vero
 PST138	lubna
 PST139	lubna
@@ -244,44 +244,44 @@ PST137	sì brava
 PST134	eh la mia amica si chiama così
 PST138	io sto dicendo nomi dei miei familiari
 PST139	lubna
-PST139	3and-kum jubna
-PST136	jubna wa ajbān wa ḥaleb ((ride)) wa al-bān la ((ride))
+PST139	#_ 3and-kum jubna
+PST136	#_ jubna wa ajbān wa ḥaleb ((ride)) wa al-bān la ((ride))
 PST135	lubna
 PST138	ha detto
-PST136	eh xx xx brother
-PST139	no we don't know
-PST135	we eh eh my two cousin (.) cousins are xx @amina and @fatima
+PST136	eh xx xx #brother
+PST139	#_ no we don't know
+PST135	#_ we eh eh my two cousin (.) cousins are xx @amina and @fatima
 PST138	vero
-PST135	and
-PST139	eh for boy
-PST138	no girl
-PST135	@amina for boy
-PST139	yeah
-PST135	@amina for girl
-PST137	@amina for boy
-PST136	wa ehm islam
+PST135	#and
+PST139	#_ eh for boy
+PST138	#_ no girl
+PST135	#_ @amina for boy
+PST139	#_ yeah
+PST135	#_ @amina for girl
+PST137	#_ @amina for boy
+PST136	#_ wa ehm islam
 PST138	ah islam
 PST139	eh
 PST136	no islam
-PST135	islam è for girls
-PST139	islam eh
-PST136	is it for boys or girls
-PST139	boy
-PST136	both
-PST135	boy
-PST139	no no not both
-PST136	per noi both
+PST135	#islam è #for #girls
+PST139	#_ islam eh
+PST136	#_ is it for boys or girls
+PST139	#_ boy
+PST136	#_ both
+PST135	#_ boy
+PST139	#_ no no not both
+PST136	per noi #both
 PST139	islam
 PST138	davvero anche noi
 PST136	islam
 PST136	eh anche come si chiama
-PST137	islam benet wa l-shabeb
+PST137	#_ islam benet wa l-shabeb
 PST136	eh bara'
 PST135	parla in italiano così capiscono anche lo~
-PST136	3and-kum bara'
+PST136	#_ 3and-kum bara'
 PST133	no no no non ci fa niente
-PST136	bara' ehm both
-PST136	awesome
+PST136	#_ bara' ehm both
+PST136	#_ awesome
 PST135	mh
 PST138	barah
 PST136	eh
@@ -292,17 +292,17 @@ PST133	mi piace
 PST136	non me lo ricordo bara'
 PST135	innocenza
 PST138	innocenza
-PST135	bara'a
-PST136	bara'a è innocenza
-PST135	bara'a l-bara'a e infatti bara' ra jayya men l-bara'a
+PST135	#bara'a
+PST136	#bara'a è innocenza
+PST135	#bara'a #l-bara'a e infatti #bara' #ra #jayya #men #l-bara'a
 PST136	viene-mn
 PST136	ah okay
 PST135	innocenza
 PST136	eh aspetta c'è un altro nome
 PST136	ihsan
-PST136	iḥsan 3and-kum for girls al-benāt u la al-awlād
-PST135	u nur
-PST138	nur
+PST136	#_ iḥsan 3and-kum for girls al-benāt u la al-awlād
+PST135	#_ u nur
+PST138	#_ nur
 PST136	noi tutte e due ihsan
 PST139	my sister
 PST135	nor
@@ -311,18 +311,18 @@ PST139	nor
 PST135	nor
 PST139	nur
 PST138	nor
-PST136	hu-ma i semmiw-ha nor
+PST136	#_ hu-ma i semmiw-ha nor
 PST138	abbiamo nor
-PST139	she is a girl
+PST139	#_ she is a girl
 PST135	nor
-PST139	nor ((ride)) not for a girl
+PST139	#_ nor ((ride)) not for a girl
 PST134	c'è un ragazzo egiziano che si chiama nur
-PST138	ma abbiamo nor
+PST138	ma abbiamo #nor
 PST135	sì però io tipo
 PST139	nur
 PST136	nor
 PST136	e perché dipende perché nur
-PST134	però nur sempcioè tipo enne u erre
+PST134	però #nur sempcioè tipo enne u erre
 PST138	è scritto nūr xx xx
 PST135	ah okay
 PST138	per quello secondo me nūr
@@ -331,11 +331,11 @@ PST134	e invece quello tipo nur lei è nour
 PST137	nur
 PST133	vabbè ma è la trascrizione
 PST134	giusto
-PST137	ma sai cosa vuol dire nur in ar~
+PST137	ma sai cosa vuol dire #nur in ar~
 PST133	luce
 PST138	io non vedo niente
 PST137	praticamente mia zia eh ha sposata ha sposato un uomo però il suo cogome quindi lei
-PST137	eh jebet ehm cosa vuol dire jebet una ragazza
+PST137	eh #jebet ehm cosa vuol dire #jebet una ragazza
 PST135	che bello
 PST135	la luce dei miei occhi
 PST136	ha paha fatto la figlia ha partorito una figlia
@@ -366,12 +366,12 @@ PST135	abd ali
 PST135	io ho mio padre è
 PST138	dris
 PST139	dris
-PST138	you have
-PST136	bawat-kom ((ride)) bak smi-to dris
-PST138	it started father's day
+PST138	#_ you have
+PST136	#_ bawat-kom ((ride)) bak smi-to dris
+PST138	#_ it started father's day
 PST135	esatto
 PST135	no
-PST135	and
+PST135	#_ and
 PST136	jilali
 PST135	saif ad-din saif ad-din
 PST138	jilali
@@ -380,7 +380,7 @@ PST135	aspetta un attimo
 PST139	no
 PST138	non ce l'avete
 PST135	saif ad-din non ce l'avete
-PST139	okay i know the name but i don't know anyone
+PST139	#_ okay i know the name but i don't know anyone
 PST137	saif ad-din
 PST136	sif ad-din
 PST135	a casablanca sif din
@@ -407,54 +407,54 @@ PST136	hafidh
 PST136	abd alhafidh
 PST139	hafidu darraji
 PST136	chi è
-PST139	you don't know ḥafidu darraji
+PST139	#_ you don't know ḥafidu darraji
 PST136	no
 PST139	ra'uf xlif
 PST135	xlifa
-PST137	shkun hada
-PST139	mu3allikin mashhorin kethir bi-tunes
-PST135	eh axbar
-PST138	tunes
-PST139	mu3allikin football
+PST137	#_ shkun hada
+PST139	#_ mu3allikin mashhorin kethir bi-tunes
+PST135	eh #axbar
+PST138	#_ tunes
+PST139	#_ mu3allikin football
 PST135	ah
-PST139	akid sem3a bi-hom akid akid
-PST138	lā
-PST137	maba3rif
+PST139	#_ akid sem3a bi-hom akid akid
+PST138	#_ lā
+PST137	#_ maba3rif
 PST136	al lxx sì il primo no
-PST139	a3sam shawali ula ufki
-PST136	ah shawali sì
+PST139	#_ a3sam shawali ula ufki
+PST136	ah #shawali sì
 PST139	eh
-PST139	kul 3arab ṭa3rif
-PST136	shawali a hu-wa li kaydir telecronaca delle partite
-PST139	bas tisma3i saut akid hat-kuni sama3ti bih
+PST139	#_ kul 3arab ṭa3rif
+PST136	#shawali #a #hu-wa #li #kaydir telecronaca delle partite
+PST139	#_ bas tisma3i saut akid hat-kuni sama3ti bih
 PST135	è il mio preferito
 PST136	così
 PST136	shawali quello
 PST139	eh
 PST135	il tuo cognome
-PST136	ashna hu-wa
+PST136	#_ ashna hu-wa
 PST133	cantatemi una bella
 PST135	ma per me vuol dire tipo spalmare
 PST134	ninna nanna
-PST138	dehni
-PST138	dehni hadi-k
-PST139	xx nahn nagul dahan (.) the person who
+PST138	#_ dehni
+PST138	#_ dehni hadi-k
+PST139	#_ xx nahn nagul dahan (.) the person who
 PST135	ah okay
-PST138	ah painter
-PST139	dahan
-PST135	kniytk nti
+PST138	ah #painter
+PST139	#_ dahan
+PST135	#_ kniytk nti
 PST135	che bella
 PST138	no
 PST136	mi asapettavo un
 PST135	voi
 PST135	io sparo una roba
-PST136	knit-ha fi-ha sṭar ((ride))
+PST136	#_ knit-ha fi-ha sṭar ((ride))
 PST135	sono tre cognomi inscioé un cognome diviso tre
-PST139	say it say it
+PST139	#_ say it say it
 PST136	il suo cognome fa una frase si scrive tutto da capo
 PST135	eh
 PST134	quando ti presenti aspetti no so
-PST139	3akkush we have 3akkush
+PST139	#_ 3akkush we have 3akkush
 PST136	no io più che altro immagino lei straniera fare lo spelling al telefono
 PST135	no no ma ti giurper mio padre per lo spid raga avevo tredici anni
 PST136	mi immagino già
@@ -483,12 +483,12 @@ PST133	non la sapevo
 PST135	nomi e cognomi marocchini
 PST135	oh il cognome marocchino più strano che abbia mai sentito è bu debbena
 PST138	bu debbena
-PST136	keyn bu ras
+PST136	#_ keyn bu ras
 PST139	bu debbena
 PST135	bu debbena eh
 PST138	bu ras
-PST135	hai capito debbena sai cos'è debbena
-PST139	debbena debbena
+PST135	hai capito #debbena sai cos'è #debbena
+PST139	#_ debbena debbena
 PST135	eh sarebbe tipo il signore delle mosche tipo
 PST133	ah
 PST134	il signore delle mosche lei è bisex ma stanotte niente forbice
@@ -504,24 +504,24 @@ PST134	il papà del venerdi
 PST137	però
 PST136	mh cioè tradotto letteralmente sì il papà del venerdì
 PST134	okay
-PST137	we have it fi tunes bas 3end-kum l-kelma mu ḥelwa
-PST136	tferrej-ti fi hadak l-musalsal seguito anche dai marocchini
-PST137	bas jemila ktir
-PST136	smi-tu bu jam3a walakin waḥd derri msemmih welad derb 3aqduni kaybqaw i gulu-li le père de vendredi jay ((ride))
+PST137	#_ we have it fi tunes bas 3end-kum l-kelma mu ḥelwa
+PST136	#tferrej-ti #fi #hadak #l-musalsal seguito anche dai marocchini
+PST137	#_ bas jemila ktir
+PST136	#_ smi-tu bu jam3a walakin waḥd derri msemmih welad derb 3aqduni kaybqaw i gulu-li le père de vendredi jay ((ride))
 PST139	el-muan
 PST137	sharmiki
 PST139	sharmiti
-PST137	3ajeb-ha kelma ḥelwa
+PST137	#_ 3ajeb-ha kelma ḥelwa
 PST139	eh
-PST139	ah antum hu-wa ism-u 3ailtu sharmiti
+PST139	#_ ah antum hu-wa ism-u 3ailtu sharmiti
 PST138	sharmiti
-PST136	sharmiti
-PST135	what
-PST137	uqsim bi-llah sharmiti
+PST136	#_ sharmiti
+PST135	#_ what
+PST137	#_ uqsim bi-llah sharmiti
 PST135	sarebbe tipo
-PST139	family name
+PST139	#_ family name
 PST133	mh mh
-PST135	e lui di cognome faceva sharmiti
+PST135	e lui di cognome faceva #sharmiti
 PST135	nella sua classe alle
 PST134	tipo zoccola eh a ci sono alcuni che si chiamano zoccola di cognome qua
 PST135	sì sì
@@ -531,8 +531,8 @@ PST136	no non ci credo
 PST133	sì sì sì di cognome troia
 PST138	il bullismo sarebbe stato la xxx
 PST135	ma infatti uuna poverina il suo cognome di pronuncia troía
-PST134	non immagino sharmita perché
-PST136	sharmita
+PST134	non immagino #sharmita perché
+PST136	#sharmita
 PST135	cioè secondo me si pronunciava proprio troía apposto per non dire troia
 PST133	mh
 PST135	e lei ma non sono troia
@@ -584,7 +584,7 @@ PST136	eh esatto questa estate avresti potuto cambiarlo
 PST135	mi fa no non puoi non puoi una vecchia decrepita avoglia che crepi
 PST136	ma perché tu gliel'hai chiesto se no lei come faceva a saperlo
 PST135	eh ma perché una sua collega aveva detto dopo cinque anni che fai la carta fallo pure cioè cambiala pure
-PST136	awili tan tiya fimma mshi-ti sharfa ghadi tmut nti li mazal baqi con una firma così
+PST136	#awili #tan #tiya #fimma #mshi-ti #sharfa #ghadi #tmut #nti #li #mazal #baqi con una firma così
 PST135	esatto
 PST135	vabbè
 PST135	raga però comunque parlando di cultura di cognomi e robe
@@ -595,18 +595,19 @@ PST136	io non so il tuo nome
 PST135	allora ci spieghi se è o io non riesco a capire
 PST135	oh sì lo sapevo non capisce niente
 PST135	che è libanese cavolo e io tipo
-PST139	@hassan @hassan ana @hassan
+PST139	#_ @hassan @hassan ana @hassan
 PST135	avete qualche cosa di pesante oh ti picchio con un caricatore come fanno i genitori arabi
 PST134	il mio ipad
 PST135	qualcuno ha un caribello questo caricatore
 PST135	i genitori arabi ti dicono
-PST139	bes bes kul bai-3ayt-li @hassan ma ḥad bita3ab ḥalu @hussein
+PST139	#_ bes bes kul bai-3ayt-li @hassan ma ḥad bita3ab ḥalu @hussein
 PST135	mi sembra giusto
-PST137	u nta shu b-tfaddel @hassan
+PST137	#_ u nta shu b-tfaddel @hassan
+PST139	#_
 PST139	shay'
-PST137	nafs shay'
-PST135	nafs shai'
-PST135	ana i gul-li shi waḥed @tessnim
+PST137	#_ nafs shay'
+PST135	#_ nafs shai'
+PST135	#_ ana i gul-li shi waḥed @tessnim
 PST134	io aspetto la traduzione da parte tua
 PST135	noo
 PST135	l'altro giorno lì la professoressa mi fa è o e io
@@ -618,38 +619,38 @@ PST135	no e fa che ha origini tunisine
 PST133	mh
 PST133	okay
 PST133	mi ricordavo fosse libanese
-PST135	mal-ha hi-ya
+PST135	#_ mal-ha hi-ya
 PST135	a me non piace sembro quasi una bambina tipo una bambina smonca tipo
-PST139	you don't have @hassan
+PST139	#_ you don't have @hassan
 PST135	eh
-PST139	may kunsh @hassan
-PST136	3and-na haithem
-PST135	awwel marra
+PST139	#_ may kunsh @hassan
+PST136	#_ 3and-na haithem
+PST135	#_ awwel marra
 PST139	haitham
 PST135	haitham sì
-PST139	wa saff wa l-vi'ara @tassinm
-PST137	@hassan u haitham ibn el @hassan
+PST139	#_ wa saff wa l-vi'ara @tassinm
+PST137	#_ @hassan u haitham ibn el @hassan
 PST135	eh
-PST139	sherfi-ek haitham
-PST135	ashna hi-ya sherfie
-PST137	sherfi-ek
-PST139	sadiqi-k
-PST137	sadiq-ek
-PST135	eh nḥan9so fi-l-jebel
-PST137	galt-lik kantaysho eh
-PST139	ḥato fi-zbel
-PST135	no njeriw fi-l-jbel tipo heidi
-PST137	njeriw ya3ni
+PST139	#_ sherfi-ek haitham
+PST135	#_ ashna hi-ya sherfie
+PST137	#_ sherfi-ek
+PST139	#_ sadiqi-k
+PST137	#_ sadiq-ek
+PST135	#_ eh nḥan9so fi-l-jebel
+PST137	#_ galt-lik kantaysho eh
+PST139	#_ ḥato fi-zbel
+PST135	no #njeriw #fi-l-jbel tipo heidi
+PST137	#_ njeriw ya3ni
 PST135	tipo corriamo nelle montagne fa tipo il tuo migliore amico faccio sì corriamo per le montagne
 PST138	mano nella mano
 PST135	esatto
-PST137	u l-bennuta shno raḥ tsammi-ha ila jatek bennuta
+PST137	#_ u l-bennuta shno raḥ tsammi-ha ila jatek bennuta
 PST135	eh
 PST135	non lo sembra ma è per i preziosi
 PST135	non se lo merita
 PST137	al kabir wa al-saghira
 PST135	sto scherzando ovviamente ognuno chiama~
-PST135	però aspetta com'è che si diceva in inglese nobody is better than the original
+PST135	però aspetta com'è che si diceva in inglese #nobody #is #better #than #the #original
 PST135	punto
 PST139	punto
 PST135	sì punto
@@ -666,7 +667,7 @@ PST136	dov'è l'altra
 PST135	dov'è l'altra
 PST133	dov'è l'altra
 PST134	non lo so è una bionda
-PST134	una fake
+PST134	una #fake
 PST133	una falsa
 PST135	esatto
 PST134	non è la vera
@@ -686,53 +687,54 @@ PST133	dove sei
 PST134	l'unica è qua
 PST135	esatto
 PST137	non mi pare di vederne altre
-PST135	la real
-PST135	quella fake quella di temu
-PST134	la real one
+PST135	la #real
+PST135	quella #fake quella di temu
+PST134	la #real #one
 PST135	tu sei di versace
 PST134	sì sì
 PST133	beh solo una è rappresentante
 PST135	esatto
 PST133	comunque
 PST135	poi poi poi
-PST139	hada shu ismo
-PST135	shni
-PST133	ṭawila
-PST137	ṭawila
+PST139	#_ hada shu ismo
+PST135	#_ shni
+PST133	#_ ṭawila
+PST137	#_ ṭawila
 PST138	come si chiama ha detto
-PST139	ṭawila
-PST135	ṭabla
+PST139	#_ ṭawila
+PST135	#_ ṭabla
 PST133	hai visto
-PST139	ṭabla
-PST135	ṭabla
-PST139	ṭabla
+PST139	#_ ṭabla
+PST135	#_ ṭabla
+PST139	#_ ṭabla
 PST135	eh voi avete sta cos~
 PST135	allora
 PST137	ma dici delle co~
 PST135	nei vostri matrimoni ballano le donne
 PST137	poi in tunisino così vediamo la differenza
-PST135	nisa' nisa' yash~kayshatḥo fil-3aras lubnaniya
-PST135	i~i raqsu
-PST139	eh biruqsu
+PST139	#_
+PST135	#_ nisa' nisa' yash~kayshatḥo fil-3aras lubnaniya
+PST135	#_ i~i raqsu
+PST139	#_ eh biruqsu
 PST135	perché alla xx le vedo sempre così
 PST135	non ballano poi sono gli uomini che t t r t t
 PST133	le donne ai matrimoni non ballano
-PST135	se fanno dabka e balle tutti i balli e le donne sono sempre cioè non ballano davanti gli uomini
+PST135	se fanno #dabka e balle tutti i balli e le donne sono sempre cioè non ballano davanti gli uomini
 PST134	ma in generale o
-PST133	ai matrimoni libanesi perché gli uomini ballano la dabka
-PST137	axir waḥdin wa 3ind-hom 3eib huma libaniyyin
+PST133	ai matrimoni libanesi perché gli uomini ballano la #dabka
+PST137	#_ axir waḥdin wa 3ind-hom 3eib huma libaniyyin
 PST134	indignata
 PST133	sì perché lei ha detto che prima va ai matrimoni e si sciala e balla come una pazza
 PST135	da noi da noi non è
-PST135	da noi è è proprio mhawd-ek u
+PST135	da noi è è proprio #mhawd-ek #u
 PST134	che cazz~
-PST137	3ala ḥasab
-PST139	fi fi kulshi fi-l-benat
-PST139	shu bidd-ak tshufi
+PST137	#_ 3ala ḥasab
+PST139	#_ fi fi kulshi fi-l-benat
+PST139	#_ shu bidd-ak tshufi
 PST135	ah okay
-PST139	li biyor'us u li ma biyor'us li bi-salli li ma bi-salli
-PST137	wa l-masiḥ
-PST139	kull
+PST139	#_ li biyor'us u li ma biyor'us li bi-salli li ma bi-salli
+PST137	#_ wa l-masiḥ
+PST139	#_ kull
 PST135	perché dda noi no da noi balli davanti a chi vuoi
 PST139	mix cocktail
 PST135	cioè io letteralmente ballavo davanti all'orchestra e c'era mia madre cioè davanti all'orchestra ma ti sve io
@@ -746,7 +748,7 @@ PST135	beh no c'erano donne che ballavano
 PST138	sì cioè secondo me puil punto è un po' questo cioè
 PST135	ah okay
 PST138	viene un po'
-PST135	heib
+PST135	#_ heib
 PST138	non più che cioè
 PST138	sinceramente a quarant'anni la mia schiena sta lì a fare così
 PST136	non hai l'età
@@ -760,33 +762,33 @@ PST135	okay
 PST136	sai cos'è il
 PST135	strano che sai cos'è il
 PST134	cos'è
-PST139	3adi
+PST139	#_ 3adi
 PST136	cos'è
 PST136	eh se gli dai gli indizi però anche tu cioè
 PST135	eh ma allora non capisce
-PST139	l-qa3da
+PST139	#_ l-qa3da
 PST133	tip tap
-PST137	mash l-qa3da li fi mox-ek
-PST136	e infatti jat-ni strano i kun
-PST138	l-qa3da fi-l-3ers
+PST137	#_ mash l-qa3da li fi mox-ek
+PST136	e infatti #jat-ni strano #i #kun
+PST138	#_ l-qa3da fi-l-3ers
 PST134	oh oh si è alzata si è alzata
-PST135	it's possible at i~i~i~it's like ball
-PST135	or a eh com scontenitore di ferro come si dice
+PST135	#_ it's possible at i~i~i~it's like ball
+PST135	#or #a eh com scontenitore di ferro come si dice
 PST138	contenitore di ferro
-PST137	i shatḥo 3li-ha
-PST138	i tal3u fug-ha hakka
+PST137	#_ i shatḥo 3li-ha
+PST138	#_ i tal3u fug-ha hakka
 PST134	vedi il tip tap
 PST136	no ecco non lo sai
 PST135	eh
-PST139	ma3'ul 3adi it's eh . the living room
+PST139	#_ ma3'ul 3adi it's eh (.) the living room
 PST135	quello è
-PST136	sì hakka matalan
-PST139	eh 'a3d hadi 'a3d xxx
+PST136	sì #hakka #matalan
+PST139	#_ eh 'a3d hadi 'a3d xxx
 PST136	sì sì sì sì sì
 PST136	infatti mi ha fatto strano che
-PST136	hadi dir bi-ha sot bi-rej-lik
-PST136	u ṭshtaḥ bi-waḥed ṭariqa::
-PST139	ya3ni mitl al-musi'iyy
+PST136	#_ hadi dir bi-ha sot bi-rej-lik
+PST136	#_ u ṭshtaḥ bi-waḥed ṭariqa::
+PST139	#_ ya3ni mitl al-musi'iyy
 PST136	sì bravo
 PST135	e se lo fai tipo davanti all'orchestra è un po' tipo una cosa
 PST137	macanza di rispetto
@@ -834,11 +836,11 @@ PST133	ma che stai facendo
 PST134	ti sto togliendo i capelli
 PST135	ti fanno un involtone
 PST133	me li stai strappando
-PST135	gigante che sarebbe che si chiama bastila
+PST135	gigante che sarebbe che si chiama #bastila
 PST134	mh mh
 PST135	quella potrebbe essere sia dolce che sarebbe con pollo zucchero eh de~
 PST138	dolce non è col pollo
-PST135	è dolce bastila dolce
+PST135	è dolce #bastila dolce
 PST136	agrodolce al al massimo
 PST135	agrodolce
 PST135	è un agrodolce
@@ -846,12 +848,12 @@ PST134	mh
 PST135	oppure c'è quella col pesce che sarebbe il primo
 PST135	dopo quella poi ti danti mettono o la carne quindi un bel pbel piattone di carne con tanto di prugne secche e uova
 PST134	l'ho mangiato forse forse l'avevo mangiato me l'avevi fatto assaggiare tu il primo anno
-PST138	impossibile perché io odio l-barqoq
+PST138	impossibile perché io odio #l-barqoq
 PST134	qualcuno me l'ha fatto assaggiare il primo anno non mi ricordo chi
-PST135	o quello oppure il pollo arrosto con tanto di patatine e limoni ripieni di eh hrisa
+PST135	o quello oppure il pollo arrosto con tanto di patatine e limoni ripieni di eh #hrisa
 PST135	che sarebbe quella
 PST133	pure le mie sempre sudate
-PST139	hrisa
+PST139	#_ hrisa
 PST133	sempre fredde e sempre sudate
 PST135	la pasta
 PST137	abbiamo abbiamo qualcosa in comune
@@ -887,39 +889,40 @@ PST135	esatto
 PST139	zucchini
 PST133	con un buffet di confetti
 PST136	ah zucchine
-PST135	non l'ho mai fatto mafrum
+PST135	non l'ho mai fatto #mafrum
 PST133	dieci gusti
 PST139	zucchini and bi-kullu side rice and meat
 PST133	e tu poi ogni confetto con il gusto scritto
 PST133	e poi tu hai queste ciotoline che prendi e ti riempi con tutti i confetti che vuoi
 PST135	no
 PST138	no
-PST137	no ma
-PST139	wala ana
-PST137	ma 3and-nash
-PST136	wala ana bla mash~mashshta'af-na
-PST136	ya3ni fi takaft-kum
+PST137	no #ma
+PST139	#_ wala ana
+PST137	#_ ma 3and-nash
+PST136	#_ wala ana bla mash~mashshta'af-na
+PST136	#_ ya3ni fi takaft-kum
 PST136	come hai chiamato la prima
 PST133	una delle cose più belle che abbia visto a un matrimonio
 PST136	first one
-PST139	kusa maḥshi
+PST139	#_ kusa maḥshi
 PST134	io non ho mai non sono mai andata a un matrimonio
-PST139	aw bi-denjal maḥchi
-PST136	ah denjal kayin denjal
-PST139	bi-denjal eggplant
-PST135	or ḥna tandiru l-felfel meḥshi
-PST136	sì denjal
+PST136	#_
+PST139	#_ aw bi-denjal maḥchi
+PST136	#_ ah denjal kayin denjal
+PST139	#_ bi-denjal eggplant
+PST135	#_ or ḥna tandiru l-felfel meḥshi
+PST136	sì #denjal
 PST134	e dove lo provo al tuo
-PST135	bi-roz eh fih xx
+PST135	#_ bi-roz eh fih xx
 PST133	no
 PST134	e chi a quello di e
 PST139	hal xx biamluha kamela
 PST133	eh ha confermato la mia tesi comunque
 PST135	eh sì sì
-PST139	hadi l-pepper
+PST139	#_ hadi l-pepper
 PST134	mh
 PST133	perché in questi giorni l'ha fatto tipo quarantamila volte
-PST136	però mashi maghribi
+PST136	però #mashi #maghribi
 PST133	ma perché fai così
 PST135	no
 PST138	no
@@ -927,108 +930,109 @@ PST133	e io gli ho detto ma perché fai così
 PST135	però è l'abitudine
 PST135	xx xx piace un sacco
 PST133	mh che stacchi appena ci senti
-PST139	mluxiya
-PST138	3and-na mloxiya
+PST139	#_ mluxiya
+PST138	#_ 3and-na mloxiya
 PST133	e lui non mi ha risposto
-PST139	l-mloxiya ta3malo shorba
-PST136	lā
-PST138	la machi charaba
-PST136	ntuma 3and-kom mloxiya taqriben kif twansa (.) ḥna 3and-na mloxiya xudar
-PST138	kat-kun like marinated
+PST139	#_ l-mloxiya ta3malo shorba
+PST136	#_ lā
+PST138	#_ la machi charaba
+PST136	#_ ntuma 3and-kom mloxiya taqriben kif twansa (.) ḥna 3and-na mloxiya xudar
+PST138	#_ kat-kun like marinated
 PST136	ve lo faccio vedere
-PST139	shorba ya3ni light
-PST136	no no no xudar xudar
-PST138	xodra
-PST135	xodra
-PST136	xudar vegetable
-PST135	tqat3i-ha fil-wasṭ u diri-ha bḥal sauce
+PST139	#_ shorba ya3ni light
+PST136	no no no #xudar #xudar
+PST138	#_ xodra
+PST135	#_ xodra
+PST136	#_ xudar vegetable
+PST135	#_ tqat3i-ha fil-wasṭ u diri-ha bḥal sauce
 PST133	e poi anche se dovessi ascoltare oh sai che ci sono non fare non dire schifezze
-PST135	xudra bi-l-sauce takul-ha bi-l-xubz
-PST139	ya3ni ghir l-mluxiya
+PST135	#_ xudra bi-l-sauce takul-ha bi-l-xubz
+PST139	#_ ya3ni ghir l-mluxiya
 PST133	cioè non evita
 PST134	ma secondo me non dicono schifezze
 PST139	ah
 PST133	appunto appunto non lo fanno di base
-PST139	bil bi-masr kaman ya3malu-ha
+PST139	#_ bil bi-masr kaman ya3malu-ha
 PST133	se sai che ci sono io che cos'è che ti dà fastidio
-PST136	tu la mangi l-mluxiya
+PST136	tu la mangi #l-mluxiya
 PST138	mh a me mi piace
 PST136	spacca
 PST135	anche a me piace
 PST138	non la mangio da tantissimo tempo
-PST135	con l-felfla sudaniyya
+PST135	con #l-felfla #sudaniyya
 PST138	io non riesco a bea mangiare
 PST135	che buono
 PST134	a mangiare
 PST135	io non ce la faccio però resisto sempre
 PST138	il piccante
-PST139	harji-na
+PST139	#_ harji-na
 PST136	sì
 PST135	il piccante
-PST136	è questa per noi l-mluxiya
-PST139	ah bamya
-PST133	harissa
+PST136	è questa per noi #l-mluxiya
+PST139	ah #bamya
+PST133	#_ harissa
 PST138	com'è che la chiami
-PST139	i know this one
-PST139	we the same
+PST139	#_ i know this one
+PST139	#_ we the same
 PST135	lei stamattie
-PST136	it the same yeah
+PST136	#_ it the same yeah
 PST135	ieri o oggi
 PST137	cosa
-PST139	so good
+PST139	#_ so good
 PST136	ehm
 PST135	oggi a pranzo
 PST136	noi cioè facciamo tajine
 PST135	ha fatto un'omelette con le salsicce tagliate
-PST139	hadha naqli-ha xx bala natbux
-PST136	xadra
+PST139	#_ hadha naqli-ha xx bala natbux
+PST136	#_ xadra
 PST135	ha fatto il sughino
 PST139	eh
 PST138	no
-PST139	kethir taibi tumallaḥ u takli-ha kethir tayyiba'
+PST139	#_ kethir taibi tumallaḥ u takli-ha kethir tayyiba'
 PST135	e ha messo le uova le ha aperte
 PST135	ovviamente non si è attaccatto tutto infatti c'è una parte senza
 PST138	oddio no
-PST136	wow no ntabxu-ha
-PST139	ḥta naḥna kaman ya3ni na3mil-ha laḥme
+PST136	wow no #ntabxu-ha
+PST139	#_ ḥta naḥna kaman ya3ni na3mil-ha laḥme
 PST135	e l'ha ri~ l'ha s~
-PST139	naqul-ha kthir fi laḥme u had
-PST135	l'ha riempita di harissa
-PST133	riempita di harissa
+PST139	#_ naqul-ha kthir fi laḥme u had
+PST135	l'ha riempita di #harissa
+PST133	riempita di #harissa
 PST133	la stavo comprando l'altra volta
 PST136	sì bravo sì
 PST135	io ero tipo lei fa ne hai messa poca ma gia faceva
-PST139	naḥna na3mel-ha bes aḥyanan aqbal ma natbaxu-ha fi-kom ma ta'qul bi-hum
+PST139	#_ naḥna na3mel-ha bes aḥyanan aqbal ma natbaxu-ha fi-kom ma ta'qul bi-hum
 PST135	e io tipo mangiavo
 PST135	bevevo l'acqua ma tu ci sei abituata zia io stavo morendo
-PST136	ma ma jerrebt no fehem-tek dokay
+PST136	#ma #ma #jerrebt no #fehem-tek #dokay
 PST139	eh eh eh
 PST133	a me piace un sacco
-PST136	ashnu smiyyet-ha hadi gel-tu
+PST136	#_ ashnu smiyyet-ha hadi gel-tu
 PST134	da uno a dieci quanto è piccante
-PST136	bamiya
-PST134	tmar
+PST139	#_
+PST136	#_ bamiya
+PST134	#_ tmar
 PST133	datteri
-PST138	mloxiya ta3-kom
-PST135	tmar
-PST139	mashi hiyya l-mloxiya l3adiya l-waraq l-alxdar
+PST138	#_ mloxiya ta3-kom
+PST135	#_ tmar
+PST139	#_ mashi hiyya l-mloxiya l3adiya l-waraq l-alxdar
 PST134	da uno a dieci quanto è piccante
 PST136	forse è questa
 PST135	cioè quello che hai fatto tu
 PST137	dipende da da quello che ho fatto io oggi
 PST134	cioè però
-PST134	no no no no proprio come si chiama harissa
-PST133	harissa
-PST139	hadhi
+PST134	no no no no proprio come si chiama #harissa
+PST133	#_ harissa
+PST139	#_ hadhi
 PST139	ah è vero
 PST137	dipende dalla persona perché io è da quando ero piccola mangio il piccante mangio sempre
-PST139	3andi-ki bord 3arabi
+PST139	#_ 3andi-ki bord 3arabi
 PST136	si
 PST133	che buono il piccante
 PST137	ti piace
 PST133	da morire
 PST136	tu mangi piccante
-PST137	anche se hai fame per esempio prendi un pane e metti l'harissa e mangi così
+PST137	anche se hai fame per esempio prendi un pane e metti l'#harissa e mangi così
 PST133	sì
 PST133	io da piccola mi mangiavo la nduja
 PST136	fai così
@@ -1038,53 +1042,53 @@ PST134	è solo l'eyeliner
 PST134	no ma è solo l'eyeliner
 PST133	a quest'ora
 PST135	ti giuro lei tipo mi fa morire quando prende la piadina cioè quando una persona che deve spalmare tipo
-PST136	ah ho cap~ u taklu-ha roz
+PST136	ah ho cap~ #u #taklu-ha #roz
 PST139	eh
-PST135	o ketchup o senape prende l-harissa e fa mh cioè tu la riempi tutta
+PST135	o ketchup o senape prende #l-harissa e fa mh cioè tu la riempi tutta
 PST136	mh buono
-PST135	tutta la piadinase la riempie di harissa e a me fa venire un mortorio cioè ma tu come fai a mangiarla così
+PST135	tutta la piadinase la riempie di #harissa e a me fa venire un mortorio cioè ma tu come fai a mangiarla così
 PST136	son delle erbe
 PST136	sembrano alghe
 PST133	mh buonissimo
 PST134	non abbiamo preso da un sacco la
 PST134	salsa algerina
 PST133	salsa algerina
-PST139	sabanax taq-lu sabanax
-PST138	no ma il piatto preferito rfisa
+PST139	#_ sabanax taq-lu sabanax
+PST138	no ma il piatto preferito #rfisa
 PST134	la salsa algerina
-PST135	darori
-PST136	yallah klit-ha domenica a casa
-PST138	uh io la voglio la rfisa
-PST136	kun tet ce se avessimo parlato prima te ne avrei portato
-PST139	ḥar
+PST135	#_ darori
+PST136	#yallah #klit-ha domenica a casa
+PST138	uh io la voglio la #rfisa
+PST136	#kun #tet ce se avessimo parlato prima te ne avrei portato
+PST139	#_ ḥar
 PST137	eh
-PST137	tḥeb l-ḥar
-PST139	l-mloxiya ḥar fi-ha kthir ṭayyib
+PST137	#_ tḥeb l-ḥar
+PST139	#_ l-mloxiya ḥar fi-ha kthir ṭayyib
 PST135	cos'è
-PST136	rfisa
+PST136	#_ rfisa
 PST135	ma io l'ho mangiata quella settimana
-PST137	spicy ḥar ḥar
+PST137	#_ spicy ḥar ḥar
 PST136	a casa
-PST135	però ma perché non so
+PST135	però #ma perché non so
 PST133	perché sto registrando ma sono pazza ma che cazzo sono una pazza che mi registro le cose
 PST133	e me le riascolto prima di andare a letto
 PST134	ma amo che cazzo ne so magari te le ascolti la notte per addormentarti
 PST133	minchia okay vabbò
-PST135	no io bastila bastila mi fa morire
+PST135	no io #bastila #bastila mi fa morire
 PST133	mi stai rovinando le ricerche per l'università
-PST136	allora dejej è buono però anche spacca
-PST135	quando ti rimane in frigo l-bastila bi-l col pesce
+PST136	allora #dejej è buono però anche spacca
+PST135	quando ti rimane in frigo #l-bastila #bi-l col pesce
 PST133	ma di chi sono queste ciabbatte ah di
-PST136	fish
-PST135	fish
+PST136	#_ fish
+PST135	#_ fish
 PST135	quando ti rimane in frigo e il giorno dopo la riscaldi è più buono
 PST138	non l'ho mai riscaldata sinceramente
 PST135	è più buona tremila volte
-PST136	baṭboṭ
+PST136	#_ baṭboṭ
 PST135	burro cacao non si xx
-PST139	lubia
+PST139	#_ lubia
 PST133	ma chi c'è di là
-PST135	lubia con il sughetto
+PST135	#lubia con il sughetto
 PST138	sì
 PST133	chi è questa strega
 PST136	col sughetto
@@ -1092,147 +1096,147 @@ PST133	ma chi è questa strega che
 PST137	sughetto
 PST135	sughetto sauce salsa
 PST133	tu alla festa quando vedevi e in come etilico
-PST135	ana kenio la faccio io lo faccio
+PST135	#ana kenio la faccio io lo faccio
 PST134	ma posso rivedere quel video non me l~
 PST139	mhmh
 PST138	ah
 PST133	ahia
-PST139	3andi fasuliya
+PST139	#_ 3andi fasuliya
 PST134	ahia
-PST135	eh lubia xadra
-PST136	allora cos'è lubia
+PST135	eh #lubia #xadra
+PST136	allora cos'è #lubia
 PST139	eh
-PST135	ah lubia xadra lubia xadra
+PST135	ah #lubia #xadra #lubia #xadra
 PST134	voglio rivederah no
 PST134	devo andare
-PST136	fustoq
+PST136	#_ fustoq
 PST134	guarda dove devo andare
-PST136	lā
-PST135	mashi è kawkaw
-PST139	fustoq
+PST136	#_ lā
+PST135	#mashi è #kawkaw
+PST139	#_ fustoq
 PST134	esattamente qui
-PST135	fustoq hu-wa kawkaw
-PST135	ḥna 3and-na kawkaw
+PST135	#_ fustoq hu-wa kawkaw
+PST135	#_ ḥna 3and-na kawkaw
 PST133	perché li hai nasc~
 PST134	li hai nascosti
 PST133	perché
-PST139	hadhi
+PST139	#_ hadhi
 PST134	ho tutte le foto
 PST139	questo
 PST136	ah okay
-PST135	ah l-fūl
-PST139	lā it's not eh fūl is different
-PST136	fūl
-PST136	ash men jelbana a saḥb-ti
-PST135	ḥna 3and-na hadha hu-wa l-fūl
+PST135	#_ ah l-fūl
+PST139	#_ lā it's not eh fūl is different
+PST136	#_ fūl
+PST136	#_ ash men jelbana a saḥb-ti
+PST135	#_ ḥna 3and-na hadha hu-wa l-fūl
 PST134	ma oddio oddio
-PST139	lā al-fūl haja li kbira hadi ma xxx
+PST139	#_ lā al-fūl haja li kbira hadi ma xxx
 PST134	fammi vedere
 PST133	porca troia amo
-PST135	hadhi kul-ha fusḥa
+PST135	#_ hadhi kul-ha fusḥa
 PST138	sono fagioli raga
-PST134	è vero hai fatto un glow up
-PST136	raga kayin l-fagioli l-xedar
+PST134	è vero hai fatto un #glow #up
+PST136	raga #kayin l-fagioli #l-xedar
 PST138	fagioli sì
 PST135	fagioli
 PST138	sono fagioli
-PST136	eh ma fagioli non è l-fūl eh l-fūl sono le fave
-PST135	ah mashi had-ak tol mashi kullu mgarres ho capito sì
-PST136	lā mayx~ mayxrush k3abi
-PST138	kat kun ket~ket ḥullu men l-3iba ta3 ras
-PST135	xizzo
+PST136	eh ma fagioli non è #l-fūl eh #l-fūl sono le fave
+PST135	ah #mashi #had-ak #tol #mashi #kullu #mgarres ho capito sì
+PST136	#_ lā mayx~ mayxrush k3abi
+PST138	#_ kat kun ket~ket ḥullu men l-3iba ta3 ras
+PST135	#_ xizzo
 PST133	faccia da troia
-PST135	eh u dir m3a-ha marqa
+PST135	#_ eh u dir m3a-ha marqa
 PST133	mh mh
 PST134	che cos'era la
-PST135	bi-djej
-PST139	jazar
-PST135	jazar
-PST136	ah jazar
-PST136	bi-l-3arabiyya
+PST135	#_ bi-djej
+PST139	#_ jazar
+PST135	#_ jazar
+PST136	#_ ah jazar
+PST136	#_ bi-l-3arabiyya
 PST134	il video
 PST134	quando entravamo in stanza
-PST138	xizzo
-PST136	u ma kayin sfeneriya
+PST138	#_ xizzo
+PST136	#_ u ma kayin sfeneriya
 PST138	mh
-PST136	sfenariya
-PST135	l-bayd ntuma tatqolo l-bayd
-PST136	bayd
-PST136	3adma
-PST135	3adma
-PST139	3adham
-PST136	3adam
-PST135	3adam
-PST138	3adam
+PST136	#_ sfenariya
+PST135	#_ l-bayd ntuma tatqolo l-bayd
+PST136	#_ bayd
+PST136	#_ 3adma
+PST135	#_ 3adma
+PST139	#_ 3adham
+PST136	#_ 3adam
+PST135	#_ 3adam
+PST138	#_ 3adam
 PST138	ah
-PST135	3adham osso
+PST135	#_ 3adham osso
 PST136	in tunisia amo
 PST133	a fessa all'aria proprio
-PST137	bash naftar 3adham
+PST137	#_ bash naftar 3adham
 PST135	cioè ti rendi contsabrina
-PST139	xxx xxx xx
+PST139	#_ xxx xxx xx
 PST135	per te tu sai cosa vuol dire
 PST133	questo
 PST135	è osso
 PST133	ah eh
-PST135	uova per noi è bayd
+PST135	uova per noi è #bayd
 PST133	ah ah
-PST135	nell'arabo standard per tutti quanti è bayd loro osso
+PST135	nell'arabo standard per tutti quanti è #bayd loro osso
 PST133	sì sì
 PST133	eh sì
 PST135	cioè lei lui è da venti minuti che dice io la mattina mi mangio le ossa
-PST137	be t3ajjeb bi-l-3adham
+PST137	#_ be t3ajjeb bi-l-3adham
 PST135	cioè proprio cioè è proprio osso cioè tu sei tipo eh
-PST139	xxx
-PST138	eh what do you mean
-PST137	l-mergez
+PST139	#_ xxx
+PST138	eh #what #do #you #mean
+PST137	#_ l-mergez
 PST134	eccolo trovato
-PST135	mergez
+PST135	#_ mergez
 PST135	pmergmerghez per noi è come
-PST137	fate l-mergeza
-PST136	quello è l-mehrez
+PST137	fate #l-mergeza
+PST136	quello è #l-mehrez
 PST135	eh sì
-PST137	mergez
+PST137	#_ mergez
 PST135	salsiccia
-PST136	mergez sono le salsicce
-PST136	soset
-PST135	soset
-PST136	soset
+PST136	#mergez sono le salsicce
+PST136	#_ soset
+PST135	#_ soset
+PST136	#_ soset
 PST135	cos'è salsiccia in libano
 PST133	non vedo l'ora
-PST138	ja-ni jo3
-PST135	ashna hu-wa
+PST138	#_ ja-ni jo3
+PST135	#_ ashna hu-wa
 PST133	non vedo l'ora
-PST136	ullahila xas-na
+PST136	#_ ullahila xas-na
 PST133	non vedo l'ora
 PST133	te lo giuro non vedo l'ora
-PST136	xas-na shi shuwwaya ((ride))
-PST139	shwiyya li b-kelti-ha
-PST135	sausages
-PST136	sausages
-PST137	naqa naqa
+PST136	#_ xas-na shi shuwwaya ((ride))
+PST139	#_ shwiyya li b-kelti-ha
+PST135	#_ sausages
+PST136	#_ sausages
+PST137	#_ naqa naqa
 PST139	eh eh eh
 PST134	è partita la risata male ecco qua
-PST135	ana
-PST139	maham
-PST135	ma~maham
-PST137	ma ana
-PST139	we are classy you know
-PST135	oui ana class
-PST135	oui eh oui eh eh shwiya classe shwiya
-PST135	crazy
-PST136	shwiya
-PST135	shwiya shwiya maranza
+PST135	#_ ana
+PST139	#_ maham
+PST135	#_ ma~maham
+PST137	#_ ma ana
+PST139	#_ we are classy you know
+PST135	#_ oui ana class
+PST135	#oui eh #oui eh eh #shwiya classe #shwiya
+PST135	#_ crazy
+PST136	#_ shwiya
+PST135	#shwiya #shwiya maranza
 PST136	no ti prego no no no
 PST135	ah no scusa non dovevo dirlo questo vero
 PST137	cosa no
-PST135	sono in una marocchina fake
-PST136	fa shwiya maranza
+PST135	sono in una marocchina #fake
+PST136	fa #shwiya maranza
 PST136	da quando sei maranza
 PST135	no però comunque siamo molto più tosti cioè io i miei vicini una volta mi hanno bussato in casa
 PST135	e mi fanno ma state litigando
 PST135	no no stiam parlando normalmente c'era mia nonna al telefono che parlava coi miecon i miei parenti
-PST135	wa a-s-salamu 3aley-kum ki dayer labes
+PST135	#_ wa a-s-salamu 3aley-kum ki dayer labes
 PST135	e tipo come stai tutto bene
 PST135	ad alto volume cioè lei quando parla sembra quasi che sta litigando con tutti
 PST135	e tipo sono scesi e fanno ma tutto bene e io sì sì sì ho detto questi ci chiamano l'assistenza sociale madonna

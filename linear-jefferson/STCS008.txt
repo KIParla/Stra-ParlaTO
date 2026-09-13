@@ -1,6 +1,6 @@
 PST125	eh sì ha mangiato co:n con perché se no poi non mangia più:
 PST125	m[:h]
-PST122	[pero] apaga la televisión no?
+PST122	#_ [pero] apaga la televisión no?
 PST123	sì
 PST123	tanto lui non gua:rda
 ???	[guardo]
@@ -160,7 +160,7 @@ PST125	se [no questi son ca]paci di [venire anche] qua:
 PST127	[eh beh]
 PST127	[(no eh)]
 PST125	no:
-PST125	que pa:sa: @mi:gui:
+PST125	#_ que pa:sa: @mi:gui:
 ???	(MA VEDI) XX XX COSA C'è
 PST125	sh::
 PST122	[cosa ti devo di:re:] ((al_fratellino))
@@ -255,7 +255,7 @@ PST123	[più: (.) un giorno di: (.) pratica]
 PST125	mi amor]
 PST127	[a:h]
 PST127	eh anch'io [facevo]
-PST125	[dame] un platito dame un platito]
+PST125	#_ [dame] un platito dame un platito]
 PST123	[centocinquanta euro]
 PST127	[a:h]
 PST123	[(co:sa ti manca)]
@@ -444,16 +444,16 @@ PST125	scotte:x
 PST123	sì::,
 ???	tanto
 PST123	n:el tuo bicchiere [o: nel biberon]
-PST125	[#POQUI:TO]
+PST125	#_ [#POQUI:TO]
 ???	[sì: di spider]man
-PST125	#POQUITO
+PST125	#_ #POQUITO
 PST127	di spiderman ((ride))
 PST123	un pochi:no:?
 PST123	un goccio:?
 ???	NO (.) [XX]
-PST125	[este quiere] este [este]
+PST125	#_ [este quiere] este [este]
 ???	[è] sul tavolo
-PST125	es[te]
+PST125	#_ es[te]
 PST123	[sì] lo so lo so no: [xxx]
 PST125	[a:h pensavo che] prendevi [(là:)]
 PST123	[xxx]
@@ -477,7 +477,7 @@ PST125	((ride))
 PST127	((ride))
 PST123	o o alle volte dice spagnolo
 PST125	spagno:lo:
-PST122	en la me:sa por si lo pones ahí
+PST122	#_ en la me:sa por si lo pones ahí
 ???	no: tanto:
 PST123	è [tanto]?
 PST122	[è ta:nto]
@@ -571,7 +571,7 @@ PST122	che non vuoi neanche fare il sussidia:rio:
 PST122	non col[o:ri:]
 ???	[ecco] un attimo
 ???	xxxx (.) xx
-PST125	con cuida:do:
+PST125	#_ con cuida:do:
 ???	è meglio xxx
 PST125	cosa fai,
 ???	x x mettendo il mio costume x in azione
@@ -791,7 +791,7 @@ PST122	cosa stai face::ndo:: ma:mma: [mi::a:]
 PST122	[da] natale non si traveste tesoro non so in che mondo vivi
 ???	da::
 PST125	a nata:le:
-PST122	m:h no [quiere (comprender)]
+PST122	#_ m:h no [quiere (comprender)]
 ???	[da halloween]
 ???	x [xx] [x]
 PST122	[halloween]
@@ -924,7 +924,7 @@ PST096	ventitré
 PST125	VENTITRE::
 PST125	già ventitre::
 PST125	ma:do::nna::
-PST125	o::h tan viejo::
+PST125	#_ o::h tan viejo::
 PST127	ma:mma mia
 PST096	tu quanti anni
 PST122	e tu: e tu: nini tu: cinquanta:
@@ -1003,7 +1003,7 @@ PST125	[a:h be:h] a:h fa:i tutto là:
 PST127	sì: sì sì sono comodo
 PST125	m:h
 PST123	adesso ti aiuta
-PST125	[@a:~ (.)] @do~ @vi~ @dora: no la mole:stes
+PST125	#_ [@a:~ (.)] @do~ @vi~ @dora: no la mole:stes
 PST123	xx
 PST122	xxxxxx
 PST123	xxx
@@ -1540,13 +1540,14 @@ PST127	e::h
 PST125	ah ma tu stu:di [gre:co:]
 PST127	kale][spera]
 PST124	[o:h] eh sì: latino [e gre:co]
+PST127	#_
 PST125	[gre:co e lati:no]
 PST122	[greco e latino] fa
 PST125	eh sì::
 PST127	[e::h]
 PST123	[calimero]
 PST127	il:
-PST127	ti es ti:
+PST127	#_ ti es ti:
 PST127	[poi che altro abbia]:mo
 PST123	[(>quelli son< piati)]
 PST127	[e:h]
@@ -1607,7 +1608,7 @@ PST127	[stammi bene]
 PST123	[dopo tanto tempo]
 PST123	stammi bene
 PST122	u::::h avete comprato l'acqua di pa:nna:
-PST123	sí porque no había otras aguas
+PST123	#_ sí porque no había otras aguas
 PST122	non mi piace
 PST123	(dopo chiedo i)
 PST122	vai a prendermi quella del: della montagna
@@ -1674,7 +1675,7 @@ PST122	ho otto però io in matematica
 PST122	quindi (.) x
 PST122	vediamo domani guarda domani ho la verifica di:
 PST122	dov'è matematica
-PST125	que estás haciendo @migui:
+PST125	#_ que estás haciendo @migui:
 PST122	di: [sistemi di equazioni di due incognite] [con tutti e quattro i metodi]
 ???	[sto prendendo il mio bicchiere]
 PST125	[non si prende da lì]
@@ -1718,7 +1719,7 @@ PST096	sì:
 PST122	e:h #chill
 PST122	e poi cosa fai
 PST096	e::h poi penso di
-PST125	[@miguel deja]
+PST125	#_ [@miguel deja]
 PST124	[(vicino:)]
 PST096	di: cominciare a lavorare
 PST096	[e:h e poi]
@@ -1796,10 +1797,10 @@ PST127	sì
 PST122	per la geografia sì son vicin(i)
 PST122	[BA:STA]
 PST125	basta:
-PST122	te qui:to:
+PST122	#_ te qui:to:
 PST122	((ride)) tutti a osservarlo
 PST125	bevi bevi bevi
-PST122	BA~ quítale quítale:
+PST122	#_ BA~ quítale quítale:
 PST125	e:h lascialo
 PST125	non lo guardiamo
 PST125	così
@@ -1961,7 +1962,7 @@ PST125	alla [maturità]
 PST127	[e:h non lo s]o: devo: dovrei andare a vedere bene
 PST127	[mh]
 PST122	[che pau:ra]
-PST125	[è un passo] [già che entri col sessa:nta ((ride)) poi il resto:] ((ridendo))
+PST125	[è un passo] [già che entri col sessa:nta ((ride)) poi il resto: ((ridendo))]
 PST124	[no è do:dici do:dici (.) quindici qua:ttro:]
 PST127	[ti sie]di
 PST127	aspe:tta vediamo
@@ -2026,7 +2027,7 @@ PST127	[eh lì si de~ deve] informare bene quanti credi[ti gli da]nno per [ogni:
 PST125	[mh]
 PST125	[perché] ha fa:tto:
 PST125	vabbè [il proge~]
-PST122	[lo va a] rompe::r
+PST122	#_ [lo va a] rompe::r
 PST125	il progetto questo qua dell'ungheria
 PST125	[po:i] [fa tu:tti]
 PST127	[m:h]
@@ -2051,7 +2052,7 @@ PST125	m:h
 PST127	m:h
 PST125	fa un sacco di cose
 PST127	eh buono
-PST122	°ahí se va [romper]°
+PST122	#_ °ahí se va [romper]°
 PST125	[perché almeno] così:
 PST125	i:h guarda che lo rompi e:h
 ???	[NO:]
@@ -2358,7 +2359,7 @@ PST127	[xx]
 PST125	[A:::::::H]
 PST122	[O:::::::H]
 PST124	da:i [dai]
-PST122	#abu:[rre:]
+PST122	#_ #abu:[rre:]
 ???	[una] due
 PST125	e::h [sì: sì::]
 ???	[e::h e l'ultima]
@@ -2371,7 +2372,7 @@ PST124	[bravo]
 PST122	guarda che tu non avrai una ragazza fino ai tuoi vent'anni
 PST127	n[o:: poveri]no
 PST122	[ricordatelo]
-PST122	no no no: no quiero:
+PST122	#_ no no no: no quiero:
 PST124	conc[ordo]
 PST122	[magari] finisce come
 PST125	((ride))
@@ -2489,8 +2490,8 @@ PST125	l'avrà già fini:to tato
 ???	no:
 PST127	no ((ride))
 PST124	chi [è tato]
-PST125	DEJA AHI (.) deja ahí deja ahí deja ahí deja ahí
-PST125	no: se toca
+PST125	#_ DEJA AHI (.) deja ahí deja ahí deja ahí deja ahí
+PST125	#_ no: se toca
 ???	cos'è la mia $lampa?
 PST125	la tua $lampa?
 ???	sì: (.) e sa:ltare [xxx]
@@ -2507,7 +2508,7 @@ PST127	[no infatti]
 PST127	((ride))
 PST125	qua:lche: ((ride))
 PST122	s:ei u[n::]
-PST125	[un] bandido:
+PST125	#_ [un] bandido:
 PST122	e::h [un]
 PST127	[e:h ogni] tanto sì (devo)
 PST122	((ride))
@@ -2557,7 +2558,7 @@ PST096	mattina
 PST125	o:h
 PST096	mh
 PST125	domani che giorno è?
-PST124	[#jueves]
+PST124	#_ [#jueves]
 PST122	[giove]dì:
 PST127	giovedì domani
 PST125	giove[dì:]
@@ -2625,7 +2626,7 @@ PST124	no: sei ore è tro:ppo x[xx]
 PST122	[no che poi vogliono] che scrivi:: a~
 PST122	alle medie mi hanno detto scrivi almeno due pagine io:: mezza pagina dall'inizio era xx (ho già) finito la storia io
 PST124	((ride))
-PST125	@mi:gue:l: lo ro:mpe:s
+PST125	#_ @mi:gue:l: lo ro:mpe:s
 PST122	poi mi dici se si può copiare
 PST127	sì: [sì sì no (vai)]
 PST122	[io mi porto i biglietti]ni x no: scherzo (mam[ma) eh]
@@ -2804,7 +2805,7 @@ PST122	[h:::m]
 PST125	[sì::]
 PST122	[sì che si va a] scuola
 PST127	no: non si va domani
-PST122	ya mañana viene @xx a recogerte
+PST122	#_ ya mañana viene @xx a recogerte
 PST127	s[ì:]
 ???	[doma]ni non si va a scuola?
 PST125	sì: che si va a scuo[la]
@@ -3059,8 +3060,8 @@ PST122	perché loro hanno una casa giga:nte:,
 PST122	perché sono fuori milano
 PST122	e han~ e vanno: tutta: tipo: questo nostro retro ma: tipo nel bo:sco quindi molto più grande
 PST122	e fanno una grigliata con tutta la sua famiglia e mi hanno invitato
-PST124	ñaña te vas a volver
-PST122	si (.) ñaña voy a volver
+PST124	#_ ñaña te vas a volver
+PST122	#_ si (.) ñaña voy a volver
 PST122	che schi:fo il #cevice con:
 PST122	mado:nna quando l'ho detto davanti a sua madre mi ha iniziato a dire:
 PST122	#xx #xx #comer #paloma io gli ho detto #no #señor #disculpe
@@ -3205,7 +3206,7 @@ PST122	co:rri [corri che te la fai] addosso
 ???	[eccolo]
 ???	dov'è la (.) non la s~ (.) non lo xx
 PST127	((ride)) poveri:no ((ride))
-PST125	((ride)) a::y pobrecito [xx]
+PST125	#_ ((ride)) a::y pobrecito [xx]
 PST127	[sì:]
 PST122	l'altra volta c'era la #tapa #del #*water #arriba ((ride)) #y (#si #estaba) #que #se #cahía #adentro
 PST127	((ride))
@@ -3220,7 +3221,7 @@ PST122	[deve crescere come] maschio:
 PST127	eh sì
 PST122	eh perché se no:: #*lo #rodean #muchas #mujeres #*se #vuelve:
 PST127	((ride))
-PST122	no sé que
+PST122	#_ no sé que
 PST122	come si ve~ che: che che::
 PST122	come si dice:
 PST122	o::h come si dice quella parola

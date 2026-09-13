@@ -40,18 +40,18 @@ PST087	è troppo #crazy
 PST092	no (.) alzati
 PST087	qua è (già pronto)
 PST092	ma dove stai salendo
-PST092	s-a îmbătat
-PST092	#văleleu
+PST092	#_ s-a îmbătat
+PST092	#_ #văleleu
 PST092	#doamne tu ti lamentavi di me [tu sei ancora più pa~ (.) da]mmi faccio io
 PST087	[no non ci arriviamo lì
-PST092	[a găsi]t-o a găs[it-o]
+PST092	#_ [a găsi]t-o a găs[it-o]
 PST087	[ma tipo]
-PST087	[#y]es
-PST092	o găsit-o dă-mi că o
-PST092	[o găsit-o găsit-o] o găsit-o
+PST087	#_ [#y]es
+PST092	#_ o găsit-o dă-mi că o
+PST092	#_ [o găsit-o găsit-o] o găsit-o
 PST087	[anch'io #o #găsit-o]
 PST087	qua
-PST092	o găsit-o ?
+PST092	#_ o găsit-o ?
 PST092	[sì]
 PST087	[ah]
 PST087	eh
@@ -174,7 +174,7 @@ PST211	mh mh
 PST203	pia:no pia:no senza correre sempre alla stessa velocità
 PST092	senza cadere magari
 PST203	[(tienilo) lì]
-PST092	bagă mai înăuntru scaunul ăla
+PST092	#_ bagă mai înăuntru scaunul ăla
 PST087	°tanto sai che si sposterà lo stesso°
 PST092	sì [ma:]
 PST087	[°tanto non] stai registrando°
@@ -200,7 +200,7 @@ PST092	per col [no dai]
 PST087	[lui]
 PST087	[lui] però
 PST092	[lei]
-PST092	da ești un băiat (.) te-a crescut ce vrei?
+PST092	#_ da ești un băiat (.) te-a crescut ce vrei?
 PST092	e::h ((ride))
 PST087	però non mi piace quella levetta perché poi dopo si vede proprio l'effetto [che si al][lonta:na]
 PST092	[tipo (.) tu]
@@ -249,10 +249,10 @@ PST092	sai queste che camicie so:no:?
 PST087	di oaș
 PST092	no
 PST092	oaș queste camicie ma va: quando mai
-PST092	sunt cămașe de băiat
+PST092	#_ sunt cămașe de băiat
 PST087	ma va?
-PST092	cred că-i de bacău nu știu
-PST087	crezi
+PST092	#_ cred că-i de bacău nu știu
+PST087	#_ crezi
 PST092	((bisbiglia))
 PST092	e il rec?
 PST087	aspe:tta voglio fare una prova prima
@@ -313,7 +313,7 @@ PST211	[il soggetto] sem~ più interess[ante sei tu comunque] ((ridendo))
 PST203	((ride)) mh mh
 PST087	a:h
 PST211	[non (.) il tela:io:] ((ridendo))
-PST203	((ride)) [prendi un ciccione pelato fagli fa]re delle [cose] ((ridendo))
+PST203	[((ride)) prendi un ciccione pelato fagli fa]re delle [cose] ((ridendo))
 PST211	[esa:]tto ((ridendo))
 PST203	(certo poi [che) x]
 PST211	[prendi un pe]lato mettigli gli occhiali ((ridendo))
@@ -391,10 +391,10 @@ PST211	((ride))
 PST092	un esul[to]
 PST087	[un esul]to di: di fine di fine registrazione
 PST092	di' #văleu
-PST092	#văleu
+PST092	#_ #văleu
 PST203	[cosa vuo:~] [o mi dici]
-PST211	[#văleu]
-PST092	[#văleu]
+PST211	#_ [#văleu]
+PST092	#_ [#văleu]
 PST203	o mi dici cosa vuol di[re]
 PST092	[NON È UNA PAROLACCIA (.) non vuol dire] niente
 PST087	[MA] NON VUOL DIRE NIE:NTE:]
@@ -404,20 +404,20 @@ PST092	[però:]
 PST087	[COSA FA:I] ti:po
 PST092	no #văleu si usa in mille modi mam[ma mia] cosa fai e:h non ho capito robe (tutto)
 PST087	[eh]
-PST092	#văleu
-PST203	#văleu?
+PST092	#_ #văleu
+PST203	#_ #văleu?
 PST092	#VALEU devi urlarlo
-PST087	[#văleu]
-PST211	[#văleu]
+PST087	#_ [#văleu]
+PST211	#_ [#văleu]
 PST087	come come fa
-PST092	[#văleu]
-PST087	[#văleu]
+PST092	#_ [#văleu]
+PST087	#_ [#văleu]
 PST203	beh ma (.) non posso fare le cose [come le fa le:i]
 PST092	[sì che le puoi fare]
 PST203	nessuno lo può [fare come lo fa lei]
 PST092	[sì e:h se lo] [so fare io lo sai fare anche tu]
 PST087	[DA:I IMITIAMO]
-PST092	[#văle]u
+PST092	#_ [#văle]u
 PST087	[tipo]
 PST087	proprio così #văle~
 PST092	#văle~ ((ride))
@@ -431,7 +431,7 @@ PST203	eh?
 PST092	fai parti~ è parti[to (.) fa]llo più forte
 PST087	[sì]
 PST203	vabbè ma deve succedere qualcosa
-PST203	[non è che] ((ride))
+PST203	[non è che ((ride))]
 PST087	[da:i #văleu]
 PST092	di' #văle:u
 PST203	[com'è #văleu]
@@ -588,7 +588,7 @@ PST087	dietro le quinte
 PST092	un dietro le quinte delle dietro le quinte
 PST092	un giorno lo faccia~
 PST087	ma anche adesso cioè perché un [altro giorno]
-PST211	[ti stanno] [integra:ndo e:h] (.) è una cosa posi[tiva] ((ridendo))
+PST211	[ti stanno] [integra:ndo e:h] (.) è una cosa posi[tiva ((ridendo))]
 PST087	[cibo]?
 PST092	[a::h]
 PST087	[cibo:]
@@ -596,8 +596,8 @@ PST092	giù le mani (.) [giù le mani]
 PST211	[che cibo è]
 PST092	non lo [so]
 PST087	[bu]gie
-PST092	minciunele (.) nu se spun minciunele dacă spui minciuni nu minciune
-PST092	xx xx nu le spune
+PST092	#_ minciunele (.) nu se spun minciunele dacă spui minciuni nu minciune
+PST092	#_ xx xx nu le spune
 PST087	allora tu non devi proprio tocca:rle proprio lontana un chilo:metro
 PST092	tu non le dici non le puoi mangiare chi le dice le può mangiare
 PST087	allora: e::h
@@ -648,7 +648,7 @@ PST211	pure a cena
 PST087	eh mentre pa:rli mentre:
 PST092	parla per te io cena non la faccio proprio io mangio qua: arrivo a casa che sono già pronta vado nel l[etto mi faccio la na]nna e bom
 PST211	[vai a dormire (.) non ti fai vedere]
-PST087	[devi mangiare] che poi non cresci [vedi quanto sei magra] ((ride))
+PST087	[devi mangiare] che poi non cresci [vedi quanto sei magra ((ride))]
 PST092	[ma io mangio qua ma io] mangio qua ma cosa vuoi
 PST092	[ormai il centro mi] sfama tutto: [tutto:]
 PST087	[mangia di più]
@@ -701,10 +701,10 @@ PST092	a::h ((ride))
 PST087	non scendo più:
 PST087	AH
 PST092	come non scendi più
-PST092	coboară
+PST092	#_ coboară
 PST092	giù
-PST092	[gne gne gne] ((ride))
-PST087	[aspe~ cos'è: cos'è sta roba:] ((ride))
+PST092	[gne gne gne ((ride))]
+PST087	[aspe~ cos'è: cos'è sta roba: ((ride))]
 PST092	faccio con il x
 PST087	aspetta aspetta
 PST092	aiu:to ho paura
@@ -741,9 +741,9 @@ PST203	vai
 PST087	~petta devo [fare il filma:]to:
 PST092	[co:s~]
 PST092	co~
-PST203	[x bambino specia:le faccia:mo:] ((ride))
+PST203	[x bambino specia:le faccia:mo: ((ride))]
 PST087	[~pe:tta:
-PST092	[esa:tto] ((ride))
+PST092	[esa:tto ((ride))]
 PST087	aspetta devi rimetterglieli]
 PST211	((ride))
 PST087	che devo fare proprio una scena qui
@@ -762,7 +762,7 @@ PST092	[a::h]
 PST087	[sei fuo~ sembri fuori fu]oco okay
 PST092	ti diver[ti]
 PST087	[tre:] due (.) TRE: [DUE (.) t]re: due: uno ciak
-PST203	[gua:rda:] ((ride))
+PST203	[gua:rda: ((ride))]
 PST092	hai scelto tu di lavorare con noi non ti ho pagato io
 PST092	((ride))
 PST092	vedrai che carino
@@ -772,11 +772,11 @@ PST092	facci una bella posa metti le manine qua
 PST092	ma[nine qua no]
 PST203	[una bella posa co]sì:?
 PST092	[no così]
-PST211	((ride)) [((batte_le_mani))] ((ride))
-PST092	[così le mani qua] ((ride))
+PST211	[((ride)) ((batte_le_mani)) ((ride))]
+PST092	[così le mani qua ((ride))]
 PST203	((ride))
-PST092	[e:h qua] ((ride))
-PST203	[xxx] ((ride))
+PST092	[e:h qua ((ride))]
+PST203	[xxx ((ride))]
 PST092	GIÙ LE MANI
 PST092	mani così sui fianchi
 PST203	[ma non si] fa così questa [cosa]
@@ -791,7 +791,7 @@ PST092	così
 PST092	facci un bel cheese
 PST092	[cheese]
 PST211	[cheese]
-PST087	brânza pute
+PST087	#_ brânza pute
 PST092	no: poveri:no:
 PST087	(vabbè)
 PST211	[bulli]zzato tanti:ssi:mo ((ridendo))
@@ -849,7 +849,7 @@ PST087	[A:H]
 PST092	è andato con le sue sca~ erano tutti con le ciabatte e poi vedi lui con le nike belle (.) pulite lavate che fa tutto così
 PST087	olè: olè:
 PST092	ma infatti sì veramente c'aveva i jeans sotto tipo (lui) adesso o::h
-PST092	îi punem batic?
+PST092	#_ îi punem batic?
 PST087	sì: (.) però~spetta:
 PST092	hai un #batic?
 PST087	nel prossimo episodio mettere[mo: u:n: #batic] a: (.) ((ride))
@@ -912,9 +912,9 @@ PST092	[e:h]
 PST092	[xx la prossima volta]
 PST087	[per la prossima vo:lta:]
 PST092	se non vieni vestito come ti dico io
-PST092	bătaie
+PST092	#_ bătaie
 PST087	no: dress co:de
-PST092	bătaie
+PST092	#_ bătaie
 PST087	facciamo il [dress code per la prossima volta]
 PST092	cum e la mama pam pam]
 PST092	hai capito cosa ho detto
@@ -950,7 +950,7 @@ PST092	[son dislessica (.) son di]slessica non giudicare
 PST092	allora
 PST211	no: nessuno giudica qua guarda ((ridendo))
 PST211	((ride))
-PST092	[questo] ((ride))
+PST092	[questo ((ride))]
 PST087	((ride))
 PST087	~spe:tta: ((ridendo))
 PST092	questo colore qua:
@@ -1004,32 +1004,32 @@ PST092	sei l'ultimo preferi[to]
 PST203	[va] bene
 PST087	co:sa non la vuoi una serie tivù:
 PST087	>quelle che guardo sono quelle con mia madre< tipo beautifu:l ((ride))
-PST092	#casa #iubirii
+PST092	#_ #casa #iubirii
 PST092	be:h [#casa #iubirii <non] hai mai visto #casa #iubi:[rii:]>?
 PST087	[no::]
 PST087	[no: cioè ho vis]to tipo pez[zettoni]
 PST092	îmbă]tat?
 PST092	#casa no: no no qua si recupera
 PST092	fai partire qua si deve recuperare immediatamente
-PST092	#casa #iubirii
+PST092	#_ #casa #iubirii
 PST092	stai già registrando?
 PST087	no: NO:::]
 PST092	[xx NO:::]
 PST092	DA:[I::]
 PST087	[no:] queste cose eliminiamole
 PST203	ma sì ma:: adesso non vi preoccupate
-PST092	#casa #iubirii
+PST092	#_ #casa #iubirii
 PST092	ma:mma [mia tu non hai mai visto]
 PST087	[adesso x mettermi] a guardare sta ro~ ((ride))
 PST092	sì: tu ti devi guardare que:sto cioè tu mi stai dicendo che non sai cos'è #casa #iubirii
-video	singurul om din casă care ți-a ținut partea când ai fost (xxx) singurul om din casă care ți-a ținut partea când ai fost dată la o parte și nu ai reușit să te integrezi aici in casa iubirii am fost singurul care ți-a dat validare
+video	#_ singurul om din casă care ți-a ținut partea când ai fost (xxx) singurul om din casă care ți-a ținut partea când ai fost dată la o parte și nu ai reușit să te integrezi aici in casa iubirii am fost singurul care ți-a dat validare
 trad_video	l'unica persona della casa che ti ha difesa quando eri (xxx) l'unica persona della casa che ti ha difesa quando eri stata messa da parte e non sei riuscita ad integrare qui nella casa dell'amore ero l'unica a darti validazione
 PST092	no aspetta si è bloccato
 PST092	#doamna mi uccide
 PST211	((ride)) [con la bambola dietro] (.) che vi giudica la bambola attenzione
 PST087	[ma lei si ascolta solo i li~]
 PST087	si ascolta solo i liti:gi:
-video	care-i problema: dacă
+video	#_ care-i problema: dacă
 trad_video	qual'è il problema se
 PST211	ma cos'è tipo uomni e [do:nne:]
 PST092	[no allora]
@@ -1115,7 +1115,7 @@ PST092	e::hm::
 PST092	~spetta che non mi viene ((ride))
 PST087	attenta che ti cade in testa #icoană
 PST092	e:h ((ride))
-PST092	e::hm mama lui @georgeta
+PST092	#_ e::hm mama lui @georgeta
 PST087	sì
 PST092	è arrivata e ha messo::
 PST087	#doamna [la mamma di
@@ -1142,7 +1142,7 @@ PST092	vedo così
 PST092	che non capiva niente si era appena svegliato,
 PST092	così: gli dico andiamo da #mama
 PST092	m:h m:h andiamo prima x lo porto di là
-PST092	(#văleu #văl[eu])
+PST092	#_ (#văleu #văl[eu])
 PST211	[ma] è il fratello più piccolo di
 PST092	[no: è di
 PST087	[no: di
@@ -1151,7 +1151,7 @@ PST092	ha:] e:::h
 PST211	[a:h okay]
 PST092	come si chiama
 PST087	ti sta cadendo in testa
-PST092	lasă să ma [pupe în]
+PST092	#_ lasă să ma [pupe în]
 PST092	mi dà mi dà mi dà un bacino sulla testa mi b:enedice non,
 PST092	>cioè< io sto per avere una benedizione gratis tu mi levi
 PST092	come si chiama [il fratello (.)
@@ -1173,7 +1173,7 @@ PST092	tipo: non sapevo nicolae nictarie natanae na:tanael io sapevo nata e ho d
 PST092	e ha detto natanael natanae::l (.) tutti (.) tutti nomi che io non sapevo
 PST092	matia:s stefan io sapevo solo stefano poi: è arrivata (alla sua età) ste:fan
 PST092	che::
-PST087	ștefan [cel mare]
+PST087	#_ ștefan [cel mare]
 PST092	[xxx]
 PST092	hai fatto un x così
 PST092	e::h
@@ -1216,7 +1216,7 @@ PST087	[tredici barra quattordici]
 PST092	vabbè di tredic'a:nni con una di
 PST092	quanti anni ha?
 PST092	dod~ no:
-PST087	secondo me ha [la sua stessa età:] ((ride)) non lo s:h
+PST087	secondo me ha [la sua stessa età: ((ride))] non lo s:h
 PST092	((ride)) non lo s:h
 PST203	[io sono fuori x]
 PST087	[vai]
@@ -1249,29 +1249,29 @@ PST087	°in che se:nso:°
 PST087	cioè sì però:
 PST092	io dico che ne so #ghini loro devono tradurla [in italiano]
 PST087	[cos'è:]?
-PST092	#ghini
+PST092	#_ #ghini
 PST087	cos'è:
 PST087	EH?
-PST092	bă dialectul bini
+PST092	#_ bă dialectul bini
 PST087	A::[:H]
 PST092	[#ghini] sarebbe in diale:tto
 PST087	ma sembra tipo: #ghi:ni [tipo un:]
-PST092	[#ghini]
+PST092	#_ [#ghini]
 PST087	tipo un #fruct #se #părea
 PST092	eh vabbè (.) va:i
 PST092	#ghini o #bini
-PST092	#ghini
-PST087	°#ghini°
+PST092	#_ #ghini
+PST087	#_ °#ghini°
 PST092	[è in dialetto]
 PST211	[ghi:ni:]
 PST087	#BI:NI: (.) e:h ti aiuta [di più]
 PST092	[#bini è p]iù:
-PST087	#BINI
+PST087	#_ #BINI
 PST092	anche tu puoi indovinare
 PST211	[m::h]
 PST203	[che non è] bene
-PST092	[SÌ::::] ((ride))
-PST087	[SÌ::::] ((ride))
+PST092	[SÌ:::: ((ride))]
+PST087	[SÌ:::: ((ride))]
 PST211	((ride))
 PST087	è tipo: (.) b~ #bi:ni: è tipo bene ma #ghini è tipo: [più in dialetto]
 PST092	[è in dialetto]
@@ -1287,44 +1287,44 @@ PST087	cre:do:
 PST092	non lo sappiamo so solo che è in dialetto
 PST092	sentito talmente tante volte in canzoni diverse che veramen[te]
 PST087	[ce l'ho]
-PST087	#măicuță
+PST087	#_ #măicuță
 PST203	as[petta]
 PST092	[que~ quel] cinquino s:pac[cato così con la ma~] (.) #wa~
 PST203	[aspetta]
 PST092	ih::: [#wai:t]
-PST211	[°#măicuță°]
+PST211	#_ [°#măicuță°]
 PST203	a:h #măi è di più
-PST092	#măi[cu:ță:]
+PST092	#_ #măi[cu:ță:]
 PST087	[non possiamo] dire: >non possiamo di~< #măicuță
 PST092	ah okay vero
 PST092	[xxx]
 PST203	[ah ma non son due parole è una sola]
 PST087	[xxx]
 PST087	este bunica] sau
-PST211	[°#măicuță°]
-PST092	măicuță poate să fie și mamă si bunică
-PST087	NU TREBUIE SĂ SPUI
+PST211	#_ [°#măicuță°]
+PST092	#_ măicuță poate să fie și mamă si bunică
+PST087	#_ NU TREBUIE SĂ SPUI
 PST092	vabbè da u:n: [dai vabbè] eh
 PST087	[vabbè]
-PST087	#măicuță
-PST092	#măicuță
+PST087	#_ #măicuță
+PST092	#_ #măicuță
 PST087	ti ha dato: ti ha detto un suggerimento che non doveva di:re ((ridendo))
-PST092	tu vorbești (xxx) icoana în cap încă un pic și să nu fac xx
+PST092	#_ tu vorbești (xxx) icoana în cap încă un pic și să nu fac xx
 PST087	[se avete (presen~)]
 PST087	[o:ddi:o:]
 PST087	mi vuoi togliere la benedizio:ne
 PST092	°[il mio: san giuseppe qua mi sta] ancora°
-PST211	[#măicuță]
+PST211	#_ [#măicuță]
 PST203	beh un aiuti:no
 PST092	parte di fami:~ cioè: un membro della famiglia
-PST092	#măicuță
+PST092	#_ #măicuță
 PST087	solo che tipo #măicuță è tipo più affetti[:vo]
 PST203	[mh]
 PST092	#măicuță ma sì è anche un pochino [in diale~]
 PST211	[boh cugina]
 PST087	[#x #măm]ucă tipo [anche si dice]
 PST092	[m::h m::h=ma~ #mămucă
-PST092	[#mămucă #m~ #mămucă #mămucă]
+PST092	#_ [#mămucă #m~ #mămucă #mămucă]
 PST211	(.) mamočka] mamuška
 PST092	((ride))
 PST087	((ride))
@@ -1341,21 +1341,21 @@ PST092	sì: ma anche la no:nna tipo
 PST087	sì a volte sì
 PST092	[e::h]
 PST087	[po:i una tu]
-PST087	ih la so
+PST087	hi la so
 PST087	però non mi ricordo cosa vuol dire in italia:no ((ridendo))
 PST092	tu dilla mh cos'è
-PST087	#veveriță
+PST087	#_ #veveriță
 PST087	((ride))
 PST092	°due secondi due secondi° due sec~ due secondi ti giuro
 PST092	cha:t gpt (.) ragazzi ve lo giuro chat gpt è la mia salvezza
 PST092	ho avuto l'interrogazione di diritto sei e mezzo (.) non mi ricordavo niente una domanda mi ha fatto e ho pure azzeccato
 PST203	ma come hai fatto a [guardare] [chat gpt duran]te l'interrogaz[ione]
 PST092	[°cos'è?°]
-PST087	[#veveriță]
+PST087	#_ [#veveriță]
 PST087	[eh]
 PST087	queste cose [non si fa:nno]
 PST203	[no: no dai lo voglio sapere]
-PST092	((comando_vocale)) [traduzione di #ve]veriță in: italiano
+PST092	[((comando_vocale)) traduzione di #ve]veriță in: italiano
 PST087	non dirlo però: (.) scrivilo
 PST092	ah no no no no scherzo ((ride))
 PST087	[E::H]
@@ -1366,13 +1366,13 @@ PST087	togli il volume
 PST092	°xxx° fraSE:
 PST211	se gli ha detto scri:vi: lui scriverà
 PST087	eh ma non si sa
-PST211	#veveriță
+PST211	#_ #veveriță
 PST087	AH OKAY
-PST092	abbiamo trovato un nuovo nome per sopr~ ((ride)) [sì:]
+PST092	abbiamo trovato un nuovo nome per sopr~ [((ride)) sì:]
 PST087	((ride))
 PST092	no: no: [(vai a metterlo a
 PST087	[okay #veveri]ță
-PST092	#veveri~
+PST092	#_ #veveri~
 PST087	eh è un animale
 PST092	l'ho detto anche prima e:h
 PST203	a:h (.) [aspetta]
@@ -1384,11 +1384,11 @@ PST203	[eh perché l'hai detto pri:ma]
 PST087	[non dovevi dirlo che l'hai detto] prima dovevi dire è un sopran[nome]
 PST092	[~spetta]
 PST211	no: ma l'avrei detto lo stesso in qualche [modo]
-PST092	ești o veveriță
+PST092	#_ ești o veveriță
 PST092	adesso: adesso mi chiede e:h?
 PST092	che cosa so:no:
 PST087	e::hm
-PST087	#cireșe
+PST087	#_ #cireșe
 PST211	ciliegia
 PST087	sì
 PST092	sì
@@ -1397,26 +1397,26 @@ PST211	ciliegie
 PST092	mh mh
 PST211	sapete nel diale:tto de:lla lombardia si dice #ciures (.) le ci[liegie]
 PST092	[a:h]
-PST092	#ciure:s
-PST092	#orez
-PST092	#orez
+PST092	#_ #ciure:s
+PST092	#_ #orez
+PST092	#_ #orez
 PST211	#ore:z le orecchie boh
 PST092	((schiocca_la_lingua)) cibo
 PST087	[è un cibo]
 PST211	[e::h] [#orez]
 PST203	[ah]
-PST092	[#orez]
+PST092	#_ [#orez]
 PST211	e:[::h]
 PST092	[r:::]
 PST092	inizia [sempre con la erre]
 PST211	[riso]
 PST087	sì
-PST092	#ore:z
+PST092	#_ #ore:z
 PST092	aoh zio certo che: sei proprio scarso e:h però: [fattelo dire poi ti chie]di perché sei il bullizzato e:h ci cre:do
 PST087	[e:h
-PST203	[e:h] ((ride))
+PST203	[e:h ((ride))]
 PST087	questo qui è facile
-PST087	#fluture
+PST087	#_ #fluture
 PST092	inizia sempre con la effe
 PST087	eh (.) è un animale
 PST203	ah
@@ -1426,10 +1426,10 @@ PST092	[vedi cioè da:i: (.) no ma verame:nte ma non ce la puoi fare (.) e:hm:]
 PST211	((ride))
 PST211	e:h scusa:
 PST203	ma tu come (hai fatto) e:h?
-PST092	#copac
+PST092	#_ #copac
 PST203	ma è una parola o son due
 PST092	una
-PST092	#copac
+PST092	#_ #copac
 PST087	è una è:
 PST092	è una pianta
 PST087	non dovevi dirlo dovevamo (.) farla [(intendere)]
@@ -1440,14 +1440,14 @@ PST203	[il plata]no
 PST092	IL PLA:TANO [CHE COS'È IL PLA:TANO]
 PST087	[QUA:SI QUA:SI]
 PST087	qua:si (.) quello più più generale
-PST211	°#co[pa:c°]
+PST211	#_ °#co[pa:c°]
 PST203	[e::h] boh
 PST203	qual è l'albero più ge[nerale]
 PST092	[E::H]
 PST087	[A:LBERO:]
 PST203	a:h proprio a:lbero
 PST203	a:h vab[bè:]
-PST087	[#păpușă]
+PST087	#_ [#păpușă]
 PST092	[#păpușă ba:rbie:]
 PST203	[#păpuș~ (.) ma che] [cos'è (.) >cioè<]
 PST092	((canticchia))
@@ -1455,7 +1455,7 @@ PST087	[ti ha detto ba:rbie:]
 PST087	#pă[pușă ba:rbie:]
 PST211	[la:: sarà la ba:mbola]
 PST203	[a:h una: a:h una: ba]mbola
-PST092	((canta))
+PST092	[((canta))]
 PST092	taglia questo pezzo perché è #manele e #doamna mi sciupa male]
 PST087	[sì e:h]
 PST203	ma scusate io ho una domanda però poi continuiamo [questo gioco che mi sta] piacen[do anche se è più brava ma il #manele è un po' tipo i neo melodici napoletani?
@@ -1467,7 +1467,7 @@ PST087	[sì] esatto
 PST203	[m:h]
 PST092	parolacce (.) droga: tutte quelle robe là mixate [in un unico genere]
 PST087	[tipo il ra:p] tipo il rap
-PST092	[#manele]
+PST092	#_ [#manele]
 PST203	[ah]
 PST203	però è molto le:nto molto: [melodico]
 PST087	[dipende]
@@ -1475,7 +1475,7 @@ PST203	ah
 PST092	ci sono dive~ allora il #manele [si divide in due cate~ ci sono]
 PST087	[lei è l'espe:rta io no lo ascol]to lei sì
 PST092	eh scusami
-PST092	[#xxx]
+PST092	#_ [#xxx]
 PST211	[e lo sa che lo asco]lti?
 PST211	o non glielo [dici (.) ah okay]
 PST092	[no sì lo sa]
@@ -1489,31 +1489,31 @@ PST087	tipo romantiche c'è quella lì: romeo e julieta
 PST092	no: quella è più: #de #țigani
 PST092	però allora c'è u~
 PST203	più?
-PST092	[#țiga:ni]
+PST092	#_ [#țiga:ni]
 PST087	ti[po:]
 PST092	[da:] [(mh no da)]
 PST087	[da quelli maranzini]
 PST092	[da da da]
 PST087	[tipo:]
-PST203	[da mara]:nz~ ((scoppia_a_ridere))
+PST203	[da mara]:nz~ [((scoppia_a_ridere))]
 PST087	sì:: [da maranzi:ni:]
-PST092	[da da da] ((ride)) da:: (.) è [brutto da dire] però da zingari sare:bbe
+PST092	[da da da ((ride))] da:: (.) è [brutto da dire] però da zingari sare:bbe
 PST087	[i maranzi:ni:]
 PST087	sì:
-PST092	eh romeo și julieta ((cantando))
-PST092	dacă erau xx[x]
+PST092	#_ eh romeo și julieta ((cantando))
+PST092	#_ dacă erau xx[x]
 PST087	[eh]
 PST092	((canta)) rome:o
 PST087	xx x xx
 PST092	[alex botea]
 PST087	[dico que~ (.)] dico quelle più famose perché: so che le ascoltano loro
-PST092	((parte_la_canzone)) questa devi tagliarla tutta x ((canta))
+PST092	((parte_la_canzone)) questa devi tagliarla tutta x [((canta))]
 PST087	[sì:]
 PST203	no ma lo [guardiamo insieme e ci dite voi]
 PST087	[abbassa che c'è #doamna e sente tu:tto:
 PST092	((canta))
 PST092	((cantando)) și julieta dacă erau [țigani]
-PST087	((canta))
+PST087	[((canta))]
 PST087	hai capito?
 PST211	ehm più o me:no romeo e giulietta l'ho ca[pito]
 PST087	[ma sì] però tipo hai capito come ge[nere]
@@ -1528,11 +1528,11 @@ PST092	((cantando)) bate vântul în față eu n-am nici un chef de viață of i
 PST092	ah no no no scherzo
 PST087	aspetta che [(abbiamo tirato giù tu~)]
 PST092	pozele cu tine]
-PST087	((canta))
-PST092	((canta))
+PST087	[((canta))]
+PST092	[((canta))]
 PST092	stavo mettendo un'altra [#manele che:]
 PST087	[questa qui non è] proprio:
-PST087	#mane:le:
+PST087	#_ #mane:le:
 PST092	no questa è~ è la categoria #manele romantica
 PST087	ma non è proprio #manele
 PST087	ah no sì:
@@ -1578,7 +1578,7 @@ PST087	[italia:na] tipo pinguini tattici:
 PST092	[entrambe]
 PST203	[ma=e:h]
 PST092	poi le baciate canzoni spagnole reggaeton [#mane:le #ma]nele: vabbè roman~ [e::h le due catego]rie
-PST087	[#españolito] ((ride))
+PST087	[#españolito ((ride))]
 PST087	[mentolate]
 PST092	e:hm: cos'altro ascolto io
 PST087	tu ascolti di tutto

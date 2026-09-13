@@ -103,7 +103,7 @@ PST105	[#*en peru come diciamo],
 PST104	[$estampare]
 PST103	[stampare]
 PST105	[impre~ impres]sione
-PST104	[#imprimir]
+PST104	#_ [#imprimir]
 PST104	#imprimir diciamo
 PST104	sì
 PST105	[poi stam]pa
@@ -117,25 +117,25 @@ PST105	a::h
 PST104	#porque lui (#debe #*xxiare)
 PST105	mh
 PST104	mh=mh
-PST104	entonces hacemos asì le man~
-PST105	(quiero) para [per (la)]
+PST104	#_ entonces hacemos asì le man~
+PST105	#_ (quiero) para [per (la)]
 PST104	[sì sì] sì sì
 PST104	le manda tu numero #este allora #este alla:: alla $referenta
 PST105	mh già
 PST104	dei due ri~ reparti
 PST105	mh=mh
-PST104	te llaman
+PST104	#_ te llaman
 PST105	#tu #cuñada #està #este::: (.) lavora con con #de #lunes #al #domingo (o como)?
 PST104	#allì #el orario #la #primera #vez #que #entras #es full time
-PST104	treinta y ocho horas a la semana
+PST104	#_ treinta y ocho horas a la semana
 PST105	mh=mh
-PST104	dos dìas de descanso pero
-PST104	puedes descansar un lunes e un domingo
-PST104	eh depende la curricular de: el horario que ellos tienen porque ellos [no pueden] (meter con meter) ellos tienen un modelo un curricular
+PST104	#_ dos dìas de descanso pero
+PST104	#_ puedes descansar un lunes e un domingo
+PST104	#_ eh depende la curricular de: el horario que ellos tienen porque ellos [no pueden] (meter con meter) ellos tienen un modelo un curricular
 PST103	[mh=mh]
 PST104	#donde #*te $metten una #semana o #asì #de #lunes a #domingo #full #time
-PST104	PERO te puede tocar descansar un sabado un domingo una vez al mes
-PST104	[te puede tocar] descansar un [martes un jueves]
+PST104	#_ PERO te puede tocar descansar un sabado un domingo una vez al mes
+PST104	#_ [te puede tocar] descansar un [martes un jueves]
 PST103	[vabbè ma lì è]
 PST103	[dipende (a che ora)]
 PST103	quando fai la notte,
@@ -350,7 +350,7 @@ PST104	[né né una car]ta di credi[to]
 PST103	[non sono x]
 PST105	[no]
 PST103	mh
-PST104	o sea
+PST104	#_ o sea
 PST104	no? conviene sì o sì un contratto #de colf badante baby sitter
 PST104	mh=mh
 PST103	è poco

@@ -107,7 +107,7 @@ PST200	[oka]y:
 PST200	e venite quindi: dal marocco:, (.) e dal perù (.) giu[sto]?
 PST004	[sì]
 PST003	[a:h] a:h lei, eh da:l perù m:h io, dal maro[cco]
-PST004	[#yest]
+PST004	#_ [#yest]
 PST200	[oh s~] (.) okay: sì=sì=sì
 PST200	quindi? (.) a::h
 PST200	da quanto tempo siete qua in italia?
@@ -131,13 +131,13 @@ PST200	dove?
 PST003	(venezia)
 PST200	dov'è?
 PST200	io non sono brava [in geografia],
-PST003	([está abierta y e]stá abi~) ((ride))
+PST003	#_ ([está abierta y e]stá abi~) ((ride))
 PST200	okay allora mi sono persa (.) e quindi::
 PST200	a:::h m:h
 PST200	la vostra però la vostra lingua madre è:
 PST003	ara~
 PST200	arabo:
-PST004	español:,
+PST004	#_ español:,
 PST200	spagnolo: (.) okay
 PST200	e:: m:h allora vediamo,
 PST200	e come vi trovate a torino:,
@@ -598,7 +598,7 @@ PST003	sì [sì: vieni vieni tutto bene:]
 PST004	[va bene va bene (.) a posto a posto] sì sì:
 PST200	((ride))
 PST003	°eh=[e:h°]
-PST004	[(#para)],
+PST004	#_ [(#para)],
 PST003	e: e le persone, xx le parole xx
 PST003	sì sì sì: no: no no
 PST004	((ride))
@@ -640,9 +640,9 @@ PST004	la $escuola è::
 PST004	vado con: mia amica: o con mia famiglia #y::
 PST004	siempre parliamo #e:l: #español,
 PST200	m:h
-PST004	#entonce[s]
+PST004	#_ #entonce[s]
 PST200	[e]:h sì tu hai la famiglia qui, quindi parlate sempre spagnolo[:]
-PST004	[e]spañol español siempre, ((ride))
+PST004	#_ [e]spañol español siempre, ((ride))
 PST200	m:h mhmh m:h
 PST200	e:[:]
 PST004	[anche] mia figlia:, (.) no, parla italiano #es e:h
@@ -689,15 +689,15 @@ PST200	e:: e quindi tu: avendo la tua famiglia qua::,
 PST200	riesci a mantenere anche magari: un po' le tradizioni::,
 PST004	sì:
 PST200	del tuo paes[e:]?
-PST004	[sì] sì siempre:,
-PST004	[siempre:]
+PST004	#_ [sì] sì siempre:,
+PST004	#_ [siempre:]
 PST200	[okay] fammi qualche esempio:, magar[i:]
 PST004	[e:]:h per esempio questa se:~ settimana s:~ mesi,
-PST004	que e:::s semana santa,
+PST004	#_ que e:::s semana santa,
 PST200	mh m:h,
 PST004	che se chiama,
 PST004	è sempre, (nostra) #tradición e:: en:
-PST004	viernes santos:
+PST004	#_ viernes santos:
 PST004	e:[:h]
 PST200	[ok]ay:
 PST004	#viernes, venerdì
@@ -733,7 +733,7 @@ PST200	[(del) vostro paese:, (.) bello:]
 PST004	queste, (.) co::n
 PST004	questo: xxx (è) come m:[:h]
 PST003	[x]?
-PST004	como a:: je~ [jesús cris]to:
+PST004	#_ como a:: je~ [jesús cris]to:
 PST003	[e::h]
 PST004	o [xx][x]
 PST003	[balla~]
@@ -1170,7 +1170,7 @@ PST200	e tu anche tu ce l'hai in italiano:, il telefono (.) no:[:]?
 PST003	$[esp]a[ñolo]
 PST200	[eh e]:h in spagnolo:
 PST003	((ride))
-PST004	#español,
+PST004	#_ #español,
 PST200	e::h sì sì,
 PST200	no: però non c'è niente di::
 PST200	di cui vergognarsi: tu, (.) parli più spagnolo:,
@@ -1213,7 +1213,7 @@ PST200	m:h mh=mh=mh m:h
 PST200	mh
 PST200	e::hm:
 PST200	eh (.) tu però l'inglese non lo sai:, giusto?
-PST004	[#*no:: #*no #*no #*io #*no #*lo #sé]
+PST004	#_ [#*no:: #*no #*no #*io #*no #*lo #sé]
 PST200	[solo:: italiano:], e:: spagnolo, (.) okay °okay°
 PST200	e::hm::
 PST200	ma, oltre: la tua famiglia conosci altre persone:: a torino:, (.) che: parlano lo spagnolo::
@@ -1243,7 +1243,7 @@ PST004	el: e::h
 PST004	anche siamo: peruviani: non:, parliamo #así (.) #*de: #*de #confianza, sì #como par[liamo #así]
 PST200	[°okay°]
 PST004	a:h parliamo tutto il tempo, no:,
-PST004	#somo:s
+PST004	#_ #somo:s
 PST004	a distanza:
 PST200	mh
 PST200	[okay]
@@ -1603,7 +1603,7 @@ PST004	mh
 PST004	non:
 PST004	mh
 PST200	neanche a me:,
-PST004	ni lo penso:, ((ride))
+PST004	#_ ni lo penso:, ((ride))
 PST200	((ride))
 PST003	((ride))
 PST004	((ride))
@@ -1794,7 +1794,7 @@ PST200	okay
 PST200	(q~) e i tuoi zii: anche:,
 PST004	ah m:h dopo #mi zia:,
 PST200	oka[y]
-PST004	#[e]:lla::
+PST004	#_ #[e]:lla::
 PST004	#está abitando: più o meno quattro: (.) $quattri anni?
 PST200	okay
 PST004	#mi zio:, ah è venuto:: più o meno:, un anno,
@@ -1821,7 +1821,7 @@ PST003	va bene,
 PST200	in cerca:
 PST200	mentre:
 PST200	m[::h]
-PST004	[contabili]dad (.) commercial
+PST004	#_ [contabili]dad (.) commercial
 PST200	okay: quello però è il tuo studio:, no? gli studi che hai fatto:,
 PST200	mentre:, il l~ il lavoro che tu fai adesso qua:, è:
 PST200	m:h tipo: la badante:? [(.) [è una (cosa) si]mile s]ì:?

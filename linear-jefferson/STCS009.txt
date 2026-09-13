@@ -105,7 +105,7 @@ PST160	[xxx] (.) xxx
 PST161	[e:h sì:]
 PST166	[ma aspe]tta io ti batto
 PST166	perché io ho cinquanta:: due anni quasi cinquantatré (.) e adesso: ho finito l'università
-PST161	tómalo rá[pido para que tome ya aquí no (hay) más aquí no (hay) más]
+PST161	#_ tómalo rá[pido para que tome ya aquí no (hay) más aquí no (hay) más]
 PST166	[ho detto vabbè andiamo facciamo l'universi[tà]
 PST160	[mia fi]glia #me dice così ma: mamma allora va::=[a::=m::h (.)] lice:o va all'università [no::]
 PST161	[aspetta xx]
@@ -113,10 +113,10 @@ PST166	[si può fare]
 PST161	[no no no::]
 PST161	[no::]
 PST160	((ride))
-PST161	ya [ahora xx]
+PST161	#_ ya [ahora xx]
 PST160	[no le] dico ((ride))
 PST166	sì:: e [invece secondo me si può fare]
-PST161	ya
+PST161	#_ ya
 PST161	[tieni tieni tieni (#ves #ves)]
 PST166	compatibilmente con tutti i nostri impe:gni:
 PST166	[i fi:gli] il lavo:ro è normale eh
@@ -219,7 +219,7 @@ PST166	[quindi in pra]tica la signora avrebbe esigenza di un corso qualunque per
 PST161	[fare quello poi puoi fare una ($e)stessa] [vo:lta: o lo ste]sso anno tanti corso solo deve (.) metterti impegnata
 PST166	[fare lo stesso corso di preparazione]
 PST160	[sì::]
-PST161	[proprio] se hai voglia di di fare questo deve metterti proprio $impegnada [con il tempo] ((ride))
+PST161	[proprio] se hai voglia di di fare questo deve metterti proprio $impegnada [con il tempo ((ride))]
 PST166	[mh]
 PST160	[credo po::~] [può essere::] #lo #que ha detto: #*de: #*de corso professionale anche
 PST161	[eh sì]
@@ -236,7 +236,7 @@ PST162	[e:h] (.) [però tu: #ya fa]tto la:
 PST161	[l'importante]
 PST162	la terza media?
 PST160	[sì]
-PST162	[#ahora]?
+PST162	#_ [#ahora]?
 PST160	[sì::]
 PST162	[è finito] [la terza me~ sì:] [la teza media (.) mhmh]
 PST166	[ha già finito lei]?
@@ -253,7 +253,7 @@ PST162	[io sono zero ((ride))
 PST162	[tanto quello che io:[:] ((ride))
 PST161	[anche] co:n [con #mi xx]
 PST160	[con la nonna non #se] #puede parlare [perché la nonna solo vado alle]:: undici della sera
-PST161	[#*con #mi xx #y #todo parlo #igual] ((ride))
+PST161	[#*con #mi xx #y #todo parlo #igual ((ride))]
 PST160	e:: esco alla dieci po:co pa:rlo non parlo tanto [con la nonna anche (.) lei #*me:] corregge sempre me corregge [#*me #*dice]
 PST166	[okay]
 PST166	[in italia:no con la nonna]
@@ -312,7 +312,7 @@ PST160	[è: un diritto]
 PST162	#pero #en la sera #puedo parlar con lui che: devo (dire) $estudia:re:
 PST160	[chiedi(le) di #parlar]
 PST166	[ce:rto:]
-PST162	[yo creo] [que sì pueda]
+PST162	#_ [yo creo] [que sì pueda]
 PST160	[sì: sì:]
 PST162	sì: perché: mh a: a me:
 PST162	non lo studio
@@ -340,7 +340,7 @@ PST160	te xx]
 PST162	#*sí eh #el #hecho #es #*que #*no #hay #nadie #*con #quién #*se #quede #*la nonna #*durante #el #día [#por #eso #*que #él #es #*que] #*no hay #como::
 PST160	[no è la se:ra:]
 PST160	#creo [#que #e::s #de sei se]tte
-PST162	pero e:n en la noche sí
+PST162	#_ pero e:n en la noche sí
 PST160	sai sai (della::) del (pomeriggio) credo che:: [inizi (sì:)]
 PST161	[de sei a die:ci]
 PST166	[noi] abbiamo
@@ -383,7 +383,7 @@ PST160	[tecnologi:a: ingle:s]e:
 PST166	[esatto]
 PST161	m:h [(no dico su ma)]
 PST166	[esatto]
-PST161	dobbi[amo suona:re] ((ride))
+PST161	dobbi[amo suona:re ((ride))]
 PST160	[poi francese]
 PST166	sì
 PST162	dobbi[amo suona:re mhmh]
@@ -618,23 +618,23 @@ PST160	parla con #tu #jefe
 PST162	m::h
 PST160	#pa' la sera #porque (#estudia sì)
 PST162	#pa' #*la sera #*pa' #*la sera #porque lui:: [xx]
-PST160	[creo que eso] no le xx (.) xx (.) [xx]
+PST160	#_ [creo que eso] no le xx (.) xx (.) [xx]
 PST162	[sì lavora::]
-PST161	[que no] lo va a meter pa' la siete (.) siete [ocho x]
-PST162	[xx dónde] está?
-PST162	ah no por (eso) x [ahora sì]
+PST161	#_ [que no] lo va a meter pa' la siete (.) siete [ocho x]
+PST162	#_ [xx dónde] está?
+PST162	#_ ah no por (eso) x [ahora sì]
 PST161	no lo metes] temprano
-PST161	entonces
-PST161	xx te podia hacer una xx un poquito más temprano
-PST160	[sí mas temprano] pues también lo [puedes meter (a letto)]
-PST161	[sì: xx a las seis]
-PST162	a las seis puede ser?
-PST160	o::: con [xx] puede también no?
+PST161	#_ entonces
+PST161	#_ xx te podia hacer una xx un poquito más temprano
+PST160	#_ [sí mas temprano] pues también lo [puedes meter (a letto)]
+PST161	#_ [sì: xx a las seis]
+PST162	#_ a las seis puede ser?
+PST160	#_ o::: con [xx] puede también no?
 PST161	[e::h]
 PST161	alla sera [è: #de la sei alla dieci vero]?
-PST160	[x x x x]
+PST160	#_ [x x x x]
 PST166	dipende dal
-PST160	trata de organi[zarte (porque estudiar)]
+PST160	#_ trata de organi[zarte (porque estudiar)]
 PST166	[dipende dal corso però:] se [è un corso di i:~ italiano: potrebbe e]ssere:: dalle:: sì: dalle:
 PST160	[#porque #por #tu #documento #te #*va #*a servire:: subito]
 PST166	allora e:h e::h (dunque) elle due
@@ -731,7 +731,7 @@ PST161	hai fatto l'iscrizione?
 PST166	sì o sta per fare
 PST163	sì sì per la xxx
 PST166	perfetto
-PST161	debes hacerlo ya [porque eso ya te] [debe:]
+PST161	#_ debes hacerlo ya [porque eso ya te] [debe:]
 PST166	[allora siamo a posto]
 PST163	[sì a via domodossola] #*me ha detto che (devo #ya) andare perché:
 PST160	una doman[da a mi(a)] figlio lo puoi:: me~ puoi: #también tro~ #este cercare u::n:: eh un corso #de italiano?
@@ -811,7 +811,7 @@ PST160	pr[ima (.) sì]
 PST166	[eh (.) okay]
 PST160	prima #he andato:: tre mesi più o meno
 PST166	però [non andava bene] come orario?
-PST160	[#*y:]
+PST160	#_ [#*y:]
 PST160	#no: #sino #que: #ha::bía $trovado #ya al cipia #de piossasco
 PST160	#y #*no puoi: andare::=m:::h
 PST160	per la la ora che devi andare alle u:na #y mezza,
@@ -925,10 +925,10 @@ PST166	allora questa è una: è un oratorio,
 PST166	e:h dove fanno i corsi di italia:no:,
 PST166	ed è: diciamo in zona di [corso eh] di corso giulio cesare
 PST160	[a:h] okay
-PST161	tu marido no xx pa' fuera
+PST161	#_ tu marido no xx pa' fuera
 PST166	e questo [se vuoi invece] è il centro interculturale
 PST161	para allá]
-PST161	@lucia ya (fueron) [allá]
+PST161	#_ @lucia ya (fueron) [allá]
 PST166	[che=è il po]sto
 PST166	dove si fa: anche eh se ti interessa se ti interessa poi in un futuro,
 PST166	e:h il bi uno per la cittadinanza
@@ -999,7 +999,7 @@ PST166	[chiaro]
 PST166	o[kay]
 PST161	[io sono] de:lla chiesa maria ausiliatri[ce]
 PST166	[ho capi]to
-PST161	abito [lì] ((ride))
+PST161	abito [lì ((ride))]
 PST166	[quindi]
 PST166	quindi ti an~ beh forse forse un pochino più comodo è via fossano eh
 PST161	a:h [okay]
@@ -1044,7 +1044,7 @@ PST160	(che [tempo])
 PST166	[mh]
 PST162	e:h #ca:si: quarantacinque minuti
 PST160	e #si #*no $prendes #el (metro)
-PST162	no la metro no llega::
+PST162	#_ no la metro no llega::
 PST160	a rivoli?
 PST162	a rivoli sì però ma no #donde: (.) lavoro il giorno
 PST166	mh
@@ -1077,24 +1077,24 @@ PST166	°per il corso oss:°
 PST160	perché ogni cipia x #otros corso perché xx #el italiano
 PST160	(però) il corso che x italiano no è #*de sera per cipia xx
 PST162	eh a~ ancora (#si #es) cipia:
-PST160	es que (.) eh son diferentes
+PST160	#_ es que (.) eh son diferentes
 PST162	e::h
-PST162	porque: mi x (.) ha estado e:n rivoli cip[ia:]
+PST162	#_ porque: mi x (.) ha estado e:n rivoli cip[ia:]
 PST160	[mh] #ya: però (nel) corso di italiano
 PST160	o della terza media
 PST162	[mh della] terza media
 PST166	[m:h]
 PST160	è #segura?
-PST160	no cre:o:
-PST160	ese se inscri(bió) el el año pasado para terminar ahora
+PST160	#_ no cre:o:
+PST160	#_ ese se inscri(bió) el el año pasado para terminar ahora
 PST162	xx[x xxx xxx]
 PST160	ser]
 PST160	[#será: il corso #italian]
-PST162	cuando empienzan a estudiar
+PST162	#_ cuando empienzan a estudiar
 PST162	xxxx
 PST160	xxx
-PST162	#pe:ro
-PST162	xxx
+PST162	#_ #pe:ro
+PST162	#_ xxx
 PST166	se tu vuoi lasciarmi o:=un numero di telefono o una mail,
 PST161	[sì sì sì sì:]
 PST161	sì: e:h (.) [le do il mio telefono]

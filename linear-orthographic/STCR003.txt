@@ -15,8 +15,8 @@ PST087	però eh
 PST092	abbiamo due persone tocca a te scegli una persona facciamo tre una a testa
 PST086	sa~
 PST086	non avevo nessuno io
-PST092	una persona del centro doamna
-PST086	ma mica doamna si mette in mezzo no
+PST092	una persona del centro #doamna
+PST086	ma mica #doamna si mette in mezzo no
 PST086	xxx
 PST087	cosa c'entra
 PST086	xxx
@@ -54,11 +54,11 @@ PST092	chi è che l'è
 PST092	mi sembra di firmare un contratto ragazze madonna
 PST086	secondo me sarebbe bello xxx
 PST087	una scena
-PST087	e poi appunto ci sono bunicii
+PST087	e poi appunto ci sono #bunicii
 PST087	e comunque le persone lì che secondo me
 PST086	sì che sono ancora nel xxx no
 PST086	xxx
-PST086	però noi non facciamo più romanas coi sottotitoli in italiano
+PST086	però noi non facciamo più #romanas coi sottotitoli in italiano
 PST086	e tipo che poi iniziano a parlare di
 PST092	stavo scrivendo xxx
 PST087	di quando erano
@@ -66,14 +66,14 @@ PST087	prima
 PST092	eh no sarebbe troppo complicato
 PST087	o se no anche solo tipo
 PST087	le differenze
-PST087	tipo ah îți amintești cum era în romania când era
+PST087	tipo ah #îți #amintești #cum #era #în romania #când #era
 PST092	gli scherzi che fanno le mamme mentre preparano i vestiti
 PST086	sì sì
 PST086	esatto
-PST092	eh a me adesso mi è venuto in mente tipo doamna
-PST092	che doamna fa spesso
-PST087	doamna
-PST092	da eh doamna s-o găsești pe doamna che mh organizza tutti gli eventi ma vederla non la vede nessuno
+PST092	eh a me adesso mi è venuto in mente tipo #doamna
+PST092	che #doamna fa spesso
+PST087	#doamna
+PST092	#da eh #doamna #s-o #găsești #pe #doamna che mh organizza tutti gli eventi ma vederla non la vede nessuno
 PST092	quindi che facciamo abbiamo detto io avevo detto e tu avevi detto
 PST087	se vuole cioè conta che è
 PST092	vabbè noi iniziamo ad organizzare poi andiamo a chiedere alle persone quindi le persone si tengono tutti
@@ -91,7 +91,7 @@ PST087	è indifferente però bisogna capire le sce~
 PST092	perché danza il realtà potrebbe farla visto che xxx
 PST086	danza
 PST087	ma comunque uno dei due faceva xxx
-PST086	metti dans
+PST086	metti #dans
 PST087	xxx
 PST092	se no la danza xx
 PST087	scrivi solo il nome poi vediamo meglio
@@ -108,10 +108,10 @@ PST087	aspetta dobbiamo capire quale scena
 PST092	danza ha detto lei
 PST087	eh però se
 PST087	balla perché secondo me comunque se è dentro nella scena
-PST092	no aveva aveva più senso a danza perché è il nostro instructor
+PST092	no aveva aveva più senso a danza perché è il nostro #instructor
 PST087	aspetta però sì ci sta anche però aspetta comincia a scrivere danza
 PST087	io avevo gente tipo
-PST086	secondo me di sicuro metteremo di sicuro a ballare xxxx no io me lo tipo che in palestra no fanno tipo prove del ballo
+PST086	secondo me di sicuro metteremo di sicuro a ballare #xxxx no io me lo tipo che in palestra no fanno tipo prove del ballo
 PST092	possiamo usare i vecchi i video vecchi che avevamo fatto
 PST087	eh però poi uno cioè in uno c'erano tipo che ne so loro lì ballano e fanno tipo le prove cioè questo e poi sopra c'è tipo che spiegano e così facciamo questo così
 PST086	che spiega non penso
@@ -126,7 +126,7 @@ PST086	e poi e poi c'è una che parla no no proprio nella stessa scena
 PST086	poi c'è tipo che parla
 PST086	che tipo magari c'è in sottofondo loro che par~ che parlano
 PST086	che dicono noi qui facciamo ballo facciamo t t t t t t t t t
-PST092	mh no sai cosa mi ricorda mi ricorda la presentazione di doamna quando presenta questo posto agli altri
+PST092	mh no sai cosa mi ricorda mi ricorda la presentazione di #doamna quando presenta questo posto agli altri
 PST086	sì
 PST092	ma io pensavo tipo più che altro sai tipo xx xxx che mettevamo e
 PST092	che tu avevi i quadretti quel vestito che ti faccio vedere
@@ -150,7 +150,7 @@ PST087	si può fare intervista doppia
 PST086	ma guarda che qua c'è scritto
 PST086	titolo della scena poi tema generale di che cosa ah va bene
 PST087	eh di che cosa parla la scena
-PST086	folclor
+PST086	#_ folclor
 PST086	di folclore
 PST087	e così magari se no e però i costumi
 PST087	un conto è se la facciamo così con la maglia un conto è se la facciamo col costume così facciamo due in uno
@@ -164,8 +164,8 @@ PST087	sarebbe bello
 PST092	oppure sai come sarebbe bello se tipo facciamo la scena mentre si vestono per fare i balli
 PST092	quello sarebbe bello
 PST092	quello sarebbe bello da fare
-PST092	però bisognerebbe chiedere a doamna perché doamna c'ha le stesse cose
-PST087	però mettere xx tipo mettere xxx xx
+PST092	però bisognerebbe chiedere a #doamna perché #doamna c'ha le stesse cose
+PST087	però mettere #xx tipo mettere #xxx #xx
 PST092	ma più che danza allora mettiamo danza e costumi
 PST086	non scrive
 PST087	questa scena
@@ -180,7 +180,7 @@ PST086	xx del centro di cultura che balla
 PST087	ma se noi intanto xx
 PST092	sì ma c'è xx a parte i xx
 PST092	eh facciamo una scena in cui si vede che si vestono
-PST087	aspetta ma noi dobbiamo comunque abbiamo lo spettacolo no che hai detto mai avem spectacole nu
+PST087	aspetta ma noi dobbiamo comunque abbiamo lo spettacolo no che hai detto #mai #avem #spectacole #nu
 PST092	sì ma so che xx xx in settimana come facciamo
 PST087	in settimana ma ti pare che lo facciamo in se~
 PST086	la xxx è alla prima vero
@@ -195,11 +195,11 @@ PST092	non lo so
 PST092	eh c'ho un messaggio
 PST092	me l'ha inviato mia mamma
 PST092	abbiamo uno spettacolo
-PST092	il primo martie
+PST092	il primo #martie
 PST092	ehm martie și douăzeci și doi februarie
 PST087	eh però sta cosa sarebbe
 PST092	possiamo usare il ventidu~
-PST086	il primo martie andiamo in montagna
+PST086	il primo #martie andiamo in montagna
 PST092	eh
 PST092	sì ma il nove c'è la roba delle mamme e il ventidue febbraio c'è spettacolo
 PST087	eh però sai cosa sarebbe bello
@@ -213,18 +213,18 @@ PST087	e tipo magari mentre mentre fanno mentre fa~
 PST092	che bisogna no a però bisogna chiedere per i costumi guardate che bisogna sempre chiedere il permesso
 PST087	però la xx tipo facciamo lo spettacolo
 PST087	vabbè ci sono tutti quelli che fanno i video per i social
-PST092	io pensavo di usare i video i video vecchi che abbiamo fatto sai no când am facut sarbatoriile acolo dove c'è stato tremarti
+PST092	io pensavo di usare i video i video vecchi che abbiamo fatto sai no #când #am #facut #sarbatoriile #acolo dove c'è stato tremarti
 PST086	sì
 PST092	che abbiamo fatto tutte le robe là col palchetto e le feste
 PST087	mh sì
 PST092	pensavo di usare dei filmati della diretta
 PST086	ma perché ma puoi scrivere direttamente canto balli
-PST092	ma nu-i cântec e dans cu costum
+PST092	ma #nu-i #cântec #e #dans #cu #costum
 PST087	dove van
-PST092	e asta
+PST092	#_ e asta
 PST086	xxx
 PST087	non lo so
-PST092	e dans cu costum
+PST092	#_ e dans cu costum
 ???	xx xx studiare anche se non studierò probabilmente però
 PST092	fuori
 PST092	meglio te ne stavi a casa
@@ -261,8 +261,8 @@ PST086	mh
 PST086	uh cazzo
 PST092	un lavoro
 PST092	ma ce la fai
-PST092	tu nu
-PST086	mă și înregistrează
+PST092	tu #nu
+PST086	#_ mă și înregistrează
 PST092	lo capiscono comunque il rumeno
 PST092	due ci ti erre
 PST092	sì beh ehm gli alli~ gli allievi del ci ci ti i erre
@@ -282,32 +282,32 @@ PST086	e
 PST092	secondo me ma
 PST086	persone
 PST087	però comunque ci pensa chi xxx balla
-PST092	eh avansați più
+PST092	eh #avansați più
 PST092	e in particolare
 PST092	se no facciamo una cosa totalmente a parte
 PST087	e però come facciamo
-PST087	perché perché serve una che però orchestra una scena cu orchestra
+PST087	perché perché serve una che però orchestra una scena #cu orchestra
 PST092	facciamo
 PST086	sì è un professionista
 PST087	e
 PST092	eh per canto possiamo fare
-PST087	se no doamna
-PST092	no allora questa la facciamo tipo avansați
+PST087	se no #doamna
+PST092	no allora questa la facciamo tipo #avansați
 PST203	cosa come e che dobbiamo scrivere
-PST092	e nell'altra facciamo e doamna elis~ ehm e canta e suona
+PST092	e nell'altra facciamo e #doamna elis~ ehm e canta e suona
 PST203	vabbè dai scriviamo
 PST092	con l'orchestra e bom finire
-PST087	eh però non so se hanno una canzone cu orchestra
+PST087	eh però non so se hanno una canzone #cu orchestra
 PST092	gli facciamo cantare quella di gruppo
 PST086	sì
 PST086	sì
-PST086	quella del gruppo cu
+PST086	quella del gruppo #cu
 PST092	possiamo farli cantare quella del gruppo tanto lei lo sa
 PST086	vabbè dai
 PST086	e poi persone
 PST092	le persone che fanno parte di sta roba avansati
 PST086	avansa
-PST086	e come si avansati și
+PST086	e come si avansati #și
 PST092	gruppo avanzato
 PST092	di balli
 PST086	gruppo avanzato
@@ -326,10 +326,10 @@ PST086	sala di danza vabbè
 PST086	ci ci ti i
 PST092	ti i
 PST092	erre
-PST087	io mi ricordo solo centrul de cultură și tradiție di
+PST087	io mi ricordo solo #centrul #de #cultură #și #tradiție di
 PST092	italo-românească sala di danza
 PST086	sala danza
-PST087	non è un pro~ magari mentre si cambiano possiamo fare uno che si cambia in sala di danza poi gli altri in camera bunicii
+PST087	non è un pro~ magari mentre si cambiano possiamo fare uno che si cambia in sala di danza poi gli altri in camera #bunicii
 PST092	eh ma conta che sala danza e comunque sempre non si cambiano
 PST086	quando si farà la ripresa quando si farà la ripresa che che ne so
 PST087	eh questo qui lo lascialo per dopo
@@ -391,7 +391,7 @@ PST086	attrezzatura dai vestiti
 PST086	cosa vi serve
 PST087	vabbè mh
 PST086	cosa vi serve vest~
-PST092	mh îmbrăcăminte
+PST092	mh #îmbrăcăminte
 PST086	vestiti tradizionali
 PST092	tradizionali
 PST092	quando cantano una camera
@@ -429,10 +429,10 @@ PST086	ma tu l'hai proposta
 PST087	sì
 PST087	è in una scena perché comunque
 PST092	eh ma poi non c'è qua è qua è tutto l'intero xxx
-PST087	sì però se vogliamo fare allora fai parlare se non trovi più xx perché è lui l'instructor
-PST087	o se no fai parlare domnul
-PST086	sì ma domnul mica parla no
-PST092	no no domnul non parla mai
+PST087	sì però se vogliamo fare allora fai parlare se non trovi più xx perché è lui l'#instructor
+PST087	o se no fai parlare #domnul
+PST086	sì ma #domnul mica parla no
+PST092	no no #domnul non parla mai
 PST087	no
 PST087	e allora perché è l'istruttore
 PST086	vabbè perché poi
@@ -463,22 +463,22 @@ PST086	ma io ho freddo ragazze
 PST087	secondo me servirebbe per l'orchestra però serve anche per ballo perché è un istruttore
 PST092	sarebbe buono per l'istruttore di danza ma possiamo collegarlo anche con l'orchestra
 PST092	perché sai no che durante gli spettacoli arriva con l'orchestra e tutto
-PST092	lo colleghiamo a taraful o se no orchestra lo facciamo fare a domnul e colleghiamo poi
+PST092	lo colleghiamo a #taraful o se no orchestra lo facciamo fare a #domnul e colleghiamo poi
 PST092	è l'unica roba
-PST092	però domnul eh no
+PST092	però #domnul eh no
 PST092	è meglio
-PST092	io ti direi facciamo col suo taraful
-PST092	oppure facciamo parlare qualcuno di taraful
+PST092	io ti direi facciamo col suo #taraful
+PST092	oppure facciamo parlare qualcuno di #taraful
 PST092	magari
 PST092	chiamiamo
-PST087	per taraf
+PST087	per #taraf
 PST087	xx xx i balli
 PST086	sì con con per i balli
 PST087	eh però bisogna vedere se viene
 PST087	ma sì viene le parlo io
 PST087	le chiedo
-PST092	facciamo per taraf eh per taraf per~ pentru dansuri
-PST092	pentru taraf e magari aggiungiamo delle soliste cu taraful
+PST092	facciamo per #taraf eh per #taraf per~ #pentru #dansuri
+PST092	#pentru #taraf e magari aggiungiamo delle soliste #cu #taraful
 PST092	che sai no che c'ha la xxx sua quindi tolgo metto michi
 PST087	sì
 PST087	quante volte cambiamo
@@ -488,15 +488,15 @@ PST086	poi fai fai il canto
 PST092	eh
 PST086	poi fai canto no
 PST092	ah facciamo la scena del canto vero
-PST086	muzica xx non so
+PST086	#muzica xx non so
 PST087	ma metti orchestra poi a orchestra si collega anche con canto
 PST092	or~
 PST092	facciamo
 PST087	orchestra
-PST092	no taraful perché orchestra è di domnul taraful
-PST087	ma è la stessa roba perché in italiano taraf è orchestra non è come xxx
-PST092	e sì ma mica sono cioè quando parlano di domnul dicono sempre orchestra
-PST092	quando mh invece si parla proprio del gruppo di dicono taraf
+PST092	no #taraful perché orchestra è di #domnul #taraful
+PST087	ma è la stessa roba perché in italiano #taraf è orchestra non è come xxx
+PST092	e sì ma mica sono cioè quando parlano di #domnul dicono sempre orchestra
+PST092	quando mh invece si parla proprio del gruppo di dicono #taraf
 PST087	x xxx
 PST092	eh știu dar taraf-ul este parcă mai în familie ce vrei să spun eu
 PST092	eh sai sempre comunque in ambito un po' più stretto
@@ -505,40 +505,40 @@ PST087	secondo me anche va bene per canto
 PST092	ma prendiamo
 PST087	però non è che dobbiam~
 PST092	perché negli ultimo periodo è anche con cioè vedi che anche la mh roba di popoli
-PST092	@anita a câștigat e mh premiul e bine @anita
+PST092	#_ @anita a câștigat e mh premiul e bine @anita
 PST087	si però nel senso non è che mettiamo solo secondo me bisognerebbe fare anche almeno una canzone
 PST087	non proprio con tutto il gruppo però magari con le ragazze che partecipano qua
 PST086	eh quello xx xx
-PST092	magari tipo ora di canto di cântec în grup
+PST092	magari tipo ora di canto di #cântec #în #grup
 PST087	sì mettiamo cinque
-PST087	sì o se no mettiamo tipo cinque ragazze che cantano cântecul de grup
+PST087	sì o se no mettiamo tipo cinque ragazze che cantano #cântecul #de #grup
 PST087	e così con dietro l'orchestra
-PST092	știi care poate să punem poate să punem ăla care a fost la oradea
-PST087	la șezătoa~ cioè come canzone prima della șezătoare
-PST092	prindem fetele de la oradea că sunt cinci
-PST087	cinci
-PST092	xx xx cinci
+PST092	#_ știi care poate să punem poate să punem ăla care a fost la oradea
+PST087	la #șezătoa~ cioè come canzone prima della #șezătoare
+PST092	#_ prindem fetele de la oradea că sunt cinci
+PST087	#_ cinci
+PST092	xx xx #cinci
 PST086	vediamo
 PST087	bisogna vedere anche quale che cerca di fare
 PST087	ma andremmo bene anche tipo noi tre
 PST087	poi chi c'è di là
 PST092	xx xx xx
 PST087	sì
-PST092	@romina dacă vrea
+PST092	#_ @romina dacă vrea
 PST087	perché no
 PST092	raga c'ha una voce madonna
 PST087	è meglio xx
 PST087	ma poi
 PST092	possiamo con i microfoni
 PST087	è evidente
-PST092	tanto è use~ tanto possiamo magari chiedere i microfoni anche a doamna ha due microfoni
+PST092	tanto è use~ tanto possiamo magari chiedere i microfoni anche a #doamna ha due microfoni
 PST092	possiamo prenderli
 PST087	due ne dobbiamo prendere xx
 PST092	no due uno è in un cassetta
 PST087	ah vero
 PST087	ah sì quello vecchio
-PST092	ve~ vedi vedi quindi ehm titolo della scena taraful più
-PST092	cântec
+PST092	ve~ vedi vedi quindi ehm titolo della scena #taraful più
+PST092	#_ cântec
 PST087	più canto
 PST092	più canto
 PST086	sì
@@ -586,7 +586,7 @@ PST203	divertitevi anche voi a imparare come si fa un video
 PST092	allora a questo punto facciamo noi
 PST087	e se se non riusciamo a farlo qua sarebbe be~ carino farlo alla tesoriera
 PST087	però bisogna vedere che non ci sia gente
-PST092	bisognerebbe avere però il permesso di doamna per portare i costumi fuori dal centro eh
+PST092	bisognerebbe avere però il permesso di #doamna per portare i costumi fuori dal centro eh
 PST087	eh
 PST203	beh ma cioè glieli chiediamo insieme
 PST203	cioè non è brutta come idea
@@ -625,7 +625,7 @@ PST092	sì cioè
 PST203	quello è importante capirlo
 PST092	eh
 PST092	xx xx xx
-PST092	ziua mamei
+PST092	#_ ziua mamei
 PST087	la giornata xx xx in italiano
 PST092	non mi ricordo in italiano come si dice
 PST087	la giornata della mamma
@@ -639,12 +639,12 @@ PST092	x x
 PST092	non mi ricordo gli altri due
 PST087	no ma hanno fatto quello xx
 PST092	quello xx forse xxx hanno fatto
-PST087	no topire
-PST092	topire
+PST087	no #topire
+PST092	#_ topire
 PST092	vabbè tre balli sono sempre
 PST092	eh quindi magari po~ potevamo approfittare di quella scena là
 PST092	eh
-PST087	ah no non era topire eh s~
+PST087	ah no non era #topire eh s~
 PST086	ma sì non importa
 PST092	ma sì non importano i balli
 PST092	solo l'inquadratura perché
@@ -713,7 +713,7 @@ PST092	facciamo spiegare a mentre suonano
 PST087	sì
 PST092	decisamente
 PST092	xx danza magari ehm
-PST092	taraful quando le ragazze cantano
+PST092	#taraful quando le ragazze cantano
 PST087	orchestra e canto di gruppo
 PST092	o anche xx
 PST086	cioè magari quando facciamo il canto di gruppo possiamo fare pure il video

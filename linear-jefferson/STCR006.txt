@@ -139,7 +139,7 @@ PST092	vita mia:
 PST087	tipo che ne [so]
 PST092	ha chiamato:: la tua fanciulla poi ti dico
 PST092	e:::h descrizione (.) che succede in questa scena
-PST087	[due] ((ride))
+PST087	[due ((ride))]
 PST092	[eh] (.) no (.) xxx
 PST092	m::h descrizione delle attività che si svolgono
 PST087	ora abbiamo fatto questa roba qui:
@@ -167,7 +167,7 @@ PST087	sì xx al montaggio (.) c(io)è tipo non è che puoi fare tipo in un c'è
 ????	zi]ua eh
 PST092	ciao zi'
 PST092	no non è vero non posso dirlo::
-PST092	sărumana sărumana
+PST092	#_ sărumana sărumana
 PST087	ciao:: xxx
 PST092	allora [(.) dicevamo]
 PST087	perché xx se li facciamo nella stessa sala,

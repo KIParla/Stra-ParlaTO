@@ -13,7 +13,7 @@ PST092	le mamme
 PST211	e::h [informatevi con le mamme]
 PST203	[le mamme quindi (.) #do]amna
 PST092	#doamna è: portavoce
-PST087	[di solito] ((ridendo))
+PST087	[di solito ((ridendo))]
 PST092	[sempre per #domnul] #consolat (.) ((ride)) vado a chiamare #doamna [perché]
 PST203	[okay]
 PST087	[però qui c'è] [un problema (che)] (.) di solito
@@ -148,8 +148,8 @@ PST087	si potrebbe fare
 PST203	voi pensate alla scena la tecnica la adattiamo
 PST203	in funzione della scena
 PST087	secondo me si potrebbe fare una nell'angolino in cui ci prendiamo noi così che siamo magari die:tro metti che siamo [tipo in fi:la:]
-PST092	[#oaș]
-PST092	#oaș,
+PST092	#_ [#oaș]
+PST092	#_ #oaș,
 PST087	non proprio #oaș ma anche tipo mentre ci spiega i passi #dom così è davanti visto che non credo gli si voglia [°vedere la faccia°]
 PST092	[eh io] pensavo magari
 PST087	e:h così: noi che facciamo dei passi dietro [che magazi conosciamo già °(tipo)°]
@@ -163,7 +163,7 @@ PST087	no: [#dom ha detto di no:]
 PST092	[o la nostra o la n]ostra ora
 PST092	e prendiamo un paio di maschi di #avansați
 PST092	stanno là quanto (.) un paio d:i minuti tempo che registriamo e poi dopo: [°vanno (fuori)°]
-PST087	((ride)) [ma chi registra se noi ba~] ah sì °c'è [niente]
+PST087	[((ride)) ma chi registra se noi ba~] ah sì °c'è [niente]
 PST092	[eh beh]
 PST087	((ride))
 PST092	((ride))
@@ -182,7 +182,7 @@ PST203	[perché siete tutte den]tro
 PST092	[c'è] [no: (.) e tutte]
 PST087	[però ci sa][rebbero libere e perché loro sono] e:h #începători cioè sono tipo:
 PST203	[però:]
-PST092	[#ince~]
+PST092	#_ [#ince~]
 PST087	[noi siamo #intermediari e loro so]no:
 PST203	[sì: sì: ho capito]
 PST092	#înce[pători quindi non sa~ non fanno danza con noi]
@@ -243,11 +243,11 @@ PST092	e::h chi altro c'è di::
 PST087	e::h
 PST092	non fa~ non vogliono essere registrate quindi facciamo noi [tre coppie]
 PST087	[eh che] ca:[volo:]
-PST092	[ho capito] zia non è che l'ho [deciso io l'hanno deciso loro abbi pazienza] ((ridendo))
-PST087	((ride)) [già così siamo tre::]
+PST092	[ho capito] zia non è che l'ho [deciso io l'hanno deciso loro abbi pazienza ((ridendo))]
+PST087	[((ride)) già così siamo tre::]
 PST087	così: cos'è [tre #avasat]?
 PST092	[se no scusami] prendiamo le ragazze di #începători e facciamo insieme alle ragazze di #începă[tori]
-PST087	[ma do:~] non so se [>han voglia<] perché [dice~ anche le ragazze] di (.) ma anche le ragazze dell'#începători dicevano che (.) bo:h (.) [vediamo]
+PST087	[ma do:~] non so se [>han voglia<] perché [dice~ anche le ragazze] di (.) ma anche le ragazze dell' #începători dicevano che (.) bo:h (.) [vediamo]
 PST092	[e boh]
 PST092	[perché loro hanno anche i maschi]
 PST092	[sì ma loro hanno] anche i maschi
@@ -286,7 +286,7 @@ PST203	[e che] ne sai
 PST087	no aspet[ta]
 PST092	[è s]empre lo stesso non è che=m:h vado con chi capita è sempre lo [stesso]
 PST087	[non ho ca]pito
-PST087	[non ho capito] ((ridendo))
+PST087	[non ho capito ((ridendo))]
 PST211	((ride))
 PST087	io >mi (sto)< riferendo a un altro non del #centru
 PST092	e:h quello di scuola
@@ -332,8 +332,8 @@ PST203	[prego pre]go
 PST092	[avanti avanti avanti]
 PST087	[ma sì::]
 PST087	e:h #da:
-PST092	două minute și terminăm
-PST092	nu stați liniștit cinci minute și terminăm
+PST092	#_ două minute și terminăm
+PST092	#_ nu stați liniștit cinci minute și terminăm
 PST087	ma perché dove dico i:o: c'è tipo la fontanella lì:
 PST087	>che non funziona< c'è tipo la statua
 PST087	e c'è (.) non c'è terra c'è c'è cemento non so com~ m:h non so com'è
@@ -346,7 +346,7 @@ PST087	perché abbiam ballato lì: coi costumi
 PST092	io pensavo piut[tosto lo facciamo io (.) sai dove lo pensa]vo di fare
 PST087	[dove ci sono quelle (gradinate così:)]
 PST092	io pensavo di farlo al parco ((ride))
-PST092	((ride)) [e:h vabbè ho capito] [io so solo quello]
+PST092	[((ride)) e:h vabbè ho capito] [io so solo quello]
 PST087	[no: vabbè no:]
 PST203	[al parco]?
 PST087	n[o::]
@@ -355,7 +355,7 @@ PST087	[no::]
 PST092	c'è un po' di polvere ma neanche chissà quanta perché ci sono sempre quei [blocchetti di gomma]
 PST087	[ma tu vuoi fare delle registra]zioni xxx al parchetto dei bamb[ini]
 PST092	[ho ca]pi:to zia io ti ((farfuglia))
-PST087	[ma ci sono i bambini a giocare che che ti guardano così poi vengono lì vi[ci:no] ((ride))
+PST087	[ma ci sono i bambini a giocare che che ti guardano così poi vengono lì vi[ci:no ((ride))]
 PST092	[e:h fi:go] ci sono i bambini che ci guardano tanta roba
 PST092	abbiamo pure gli spettatori
 PST092	[pubblicità]
@@ -364,8 +364,8 @@ PST092	dov'è la pellerina
 PST087	esatto ((ride))
 PST092	((ride)) dov'è la pellerina
 PST203	ma siete di torino voi?
-PST092	[no] ((ride))
-PST087	[no] ((ride))
+PST092	[no ((ride))]
+PST087	[no ((ride))]
 PST092	noi siamo rumene dentro: se tu ci chiedi #la #țară noi come andiamo te >lo sappiamo dire< a occhi chiusi,
 PST087	ma neanche lì ((ridendo))
 PST203	cioè tu sai andare da casa tua a qui da casa [tua a scuola e] ritorno
@@ -458,7 +458,7 @@ PST203	okay?
 PST203	>cioè< questo è un primo piano
 PST203	fatto col cellulare
 PST203	>cioè< quindi (.) eh (.) [cercate sempre] di spostarvi voi,
-PST092	[ah] ((ride))
+PST092	[ah ((ride))]
 PST203	non spostatevi con lo [zoom]
 PST092	[potevi metter]ti [sotto di] me
 PST087	[m:h]
@@ -536,7 +536,7 @@ PST203	[beh ma sai quanti ne abbiam presi noi]
 PST203	no: di: [di]
 PST087	[è stato be]llo la scorsa vo:lta:
 PST211	sì la [scorsa volta è stato molto bel]lo
-PST092	[per lui un po' me:no] ((ride))
+PST092	[per lui un po' me:no ((ride))]
 PST203	mi avete messo di tutto in [testa]
 PST092	[ho capi:]to il diver[timento biso]gna allora nel divertime:nto: ricordati
 PST203	[ho capi~]
@@ -563,7 +563,7 @@ PST092	((ride))
 PST203	[tipo come stai facendo] [tu adesso]
 PST092	[questo] ((inspira)) ti giuro
 PST092	io faccio la stessa cosa con la mia compagna che esce prima la registro la seguo fino alle scale,
-PST092	poi mentre lei scende le scale io vado ritorno fino [in classe vado alla finestra e la filmo] ((ride))
+PST092	poi mentre lei scende le scale io vado ritorno fino [in classe vado alla finestra e la filmo ((ride))]
 PST203	[e poi lo metteva nei gruppi sto video]
 PST092	ugua[le (.) io uguale]
 PST203	[comunque allora]
@@ -781,7 +781,7 @@ PST092	se riesci a trovare qualcuno di simpatico mi va bene
 PST203	ma ti porto la mia a~ la mia amica è una pagliaccia
 PST087	((ride))
 PST203	ma lei vera[mente]
-PST087	[suona] [bene questa parola] ((ridendo))
+PST087	[suona] [bene questa parola ((ridendo))]
 PST092	[°c'è un flirt con
 PST211	no::
 PST203	lei faceva circo
@@ -815,7 +815,7 @@ PST087	dammi i pie:di:
 PST092	oh gesù: ma tu c'hai un feticismo per sti piedi ((ridendo))
 PST087	((ride))
 PST092	[okay vai avanti]
-PST087	((ride)) [no:]
+PST087	[((ride)) no:]
 PST092	di:m~ fammi vedere
 PST203	to'
 PST203	guarda questa è la persona che
@@ -850,7 +850,7 @@ PST087	[sì aspetta (.) ti immagini tipo]
 PST087	tipo noi due presentatrici e ogni giorno un'altra pun~ tipo un giorno anche
 PST087	anche tipo
 PST087	noi quattro e poi man mano tipo una per[sona nel ce:ntro:]
-PST203	[anche poverina me la [state escludendo] ((ridendo))
+PST203	[anche poverina me la [state escludendo ((ridendo))]
 PST087	[sì ce~ sì: mh]
 PST092	ma: [lei è inclusa au]tomaticamente cioè [nel senso]
 PST212	[io osservo]
@@ -894,15 +894,15 @@ PST092	non è ve:ro non ho mai picchiato nessuno
 PST211	[no:::]
 PST092	[perché non ho mai picchiat]o nessuno adesso [che ci penso]?
 PST087	[tu sì che hai picchiato qual]cunotu hai picchiato quel sassofonista che veniva prima sì che l'hai [picchiato]
-PST092	[xx] ((ride)) [È VERO]
-PST203	((ride)) [che non viene più:]
+PST092	[xx] [((ride)) È VERO]
+PST203	[((ride)) che non viene più:]
 PST092	no no no no vie~ NO [MA QUELLO MI SPUTA]VA ADDOS[SO ABBI PAZIENZA (era viscido male)]
-PST087	[ma perché l'ha fatta] ((ride))
+PST087	[ma perché l'ha fatta ((ride))]
 PST087	[PERCHÈ PERCHÈ L'HA FATTA l'ha fatta ca]dere male
 PST087	e le~ e lei si è storta la caviglia
 PST092	[xx in colpa]
 PST087	[e quindi l'ha picchiato] era incavolatissima e quindi xxx
-PST092	[xx è colpa mi:a] ((ridendo))
+PST092	[xx è colpa mi:a ((ridendo))]
 PST087	e quindi l'ha picchiato
 PST092	[no: non te] lo posso dare:
 PST087	[>dammi il telefono<]
@@ -937,7 +937,7 @@ PST087	questo qui: è: è il tuo migliore amico ~spetta ~spetta ~spetta
 PST087	è il tuo migliore a[mico]
 PST211	[è la co][scie:nza:]
 PST092	[l'angelo e il dia~]
-PST092	((ride)) [ma si spezza]
+PST092	[((ride)) ma si spezza]
 PST087	((ride))
 PST211	((ride))
 PST087	[i xx xx]
@@ -961,16 +961,16 @@ PST087	TI È VENUTO COSÌ DAL CUORE
 PST203	((ride))
 PST092	[sembra che sto piange:ndo per] x ((ridendo))
 PST203	[ma cazzo ma puo:i:]?
-PST092	[NO PERCHÈ MA io] mi ricordavo che era pela:to mi avvicino e vedo sti peletti neri dico da dove [(sbucano)] ((ride))
+PST092	[NO PERCHÈ MA io] mi ricordavo che era pela:to mi avvicino e vedo sti peletti neri dico da dove [(sbucano) ((ride))]
 PST087	[dovremmo fare un podcast]
 PST087	IO MI RICORDO] che era pelato ma mettila a posto che l'hai presa tu: dai
-PST087	dai (.) [dai] ((battendo_le_mani))
+PST087	dai (.) [dai ((battendo_le_mani))]
 PST203	[dai mettila a] posto [dai (fallo) tu]
 PST092	[ah io l'ho trovata là sotto
 PST087	e:h tu la metti a posto ((ride))
 PST203	vabbè facciamo come baglioni?
 PST211	sì sì sì
 PST092	[(è stato lu:i (.) stato tu)]
-PST087	((urla))
+PST087	[((urla))]
 PST211	dai allora: ci sentiamo nel gruppo okay?
 PST203	dai liberi tu:tti (.) brave

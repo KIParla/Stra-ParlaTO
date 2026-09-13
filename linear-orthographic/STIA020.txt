@@ -208,7 +208,7 @@ PST220	dialetto marocchino
 PST220	darija
 PST121	sì darija
 PST121	brava
-PST220	fusha
+PST220	#_ fusha
 PST220	francese inglese e italiano
 PST121	sì
 PST220	okay
@@ -381,7 +381,7 @@ PST220	perché giustam~
 PST121	ovvio
 PST220	ovvio
 PST121	e in marocco ci sono tanti
-PST121	c'è c'è rfissa
+PST121	c'è c'è #rfissa
 PST121	in marocco quella che mi piace tanto
 PST219	cos'è
 PST220	infatti cos'è
@@ -410,7 +410,7 @@ PST121	e sotto c'è un
 PST121	un impasto che
 PST121	come posso spiegare
 PST121	che troppo fino
-PST121	si chiama msamen
+PST121	si chiama #msamen
 PST121	e si taglia e poi
 PST219	sembra buono ma
 PST219	cioè tu lo fai a casa anche questo
@@ -426,8 +426,8 @@ PST220	ci vuole più tempo forse anche
 PST121	sì
 PST220	quindi questo mi ripeti il nome scusa
 PST220	come si chiama
-PST121	si chiama rfissa
-PST220	rfissa
+PST121	si chiama #rfissa
+PST220	#_ rfissa
 PST121	sì sì
 PST220	e prima ho detto a che
 PST220	dovevo chiederti come tu fai il cous cous
@@ -451,7 +451,7 @@ PST121	e l~ la cipolla
 PST121	pomodoro
 PST121	sono tagliati
 PST121	ehm
-PST121	el
+PST121	#_ el
 PST121	prezzemolo
 PST121	però non taglialo tu lasci eh
 PST121	tu lasci così un una di prinzemolo
@@ -522,7 +522,7 @@ PST220	adesso che c'è silenzio
 PST220	poi tornando alla lingua
 PST220	ma quando
 PST220	tu ti capita di mischiare italiano e arabo o arabo
-PST220	dārija e
+PST220	#dārija e
 PST220	non lo so
 PST220	ti capita di mischiare
 PST220	le varie lin~ o francese
@@ -609,11 +609,11 @@ PST220	insieme
 PST121	eh
 PST121	sì
 PST121	io ho fatto un
-PST121	un cake ho fatto
-PST121	msemen
+PST121	un #cake ho fatto
+PST121	#_ msemen
 PST121	ho fatto
 PST121	cosa ho fatto anche
-PST121	ho fatto il baghrīr
+PST121	ho fatto il #baghrīr
 PST121	una cosa marocchina
 PST121	però sono tutti fatti di impasti
 PST220	ah okay sempre
@@ -1005,7 +1005,7 @@ PST219	non ho capito il nome
 PST121	saad lamjarred
 PST220	adesso scrivi tu eh
 PST121	vuoi che te lo scrivo
-PST220	yes thank you
+PST220	#_ yes thank you
 PST220	se funziona eh qua
 PST219	vediamo
 PST220	grazie
@@ -1023,12 +1023,12 @@ PST220	un podcast marocchino
 PST219	com'è che si chiamava
 PST220	eh infatti io l'avevo cercato adesso ti trovo il nome aspetta eh
 PST219	com'è che si chia~ che in pratica c'era sto ragazzo
-PST220	magi ma~ ma~ magi rojola ma~ ma~ eh machi machi rojola
+PST220	magi ma~ ma~ magi #rojola ma~ ma~ eh #machi #machi #rojola
 PST219	ma~ eh rojola
 PST220	forse
 PST219	in pratica un ragazzo che
 PST219	ehm intervistava persone ed era in pratica il suo obiettivo era quello di parlare di
-PST220	yes questo qua
+PST220	#yes questo qua
 PST121	eh fammi vedere la foto forse
 PST220	eh sì sì
 PST219	di un altro modo di essere uomo cioè non non eh non il solito
@@ -1069,12 +1069,12 @@ PST121	come si chiama
 PST121	news
 PST220	mh le notizie
 PST121	ci sono eh~ in francese e in arabo
-PST121	e c'è anzi anche in amazigh
+PST121	e c'è anzi anche in #amazigh
 PST121	un altro dialetto marocchino
 PST220	okay
 PST220	dei beduini
 PST121	mh
-PST220	amazigh non è dei beduini anche
+PST220	#amazigh non è dei beduini anche
 PST121	eh sì
 PST220	okay
 PST220	tu i social come li usi in che lingua li usi
@@ -1211,13 +1211,13 @@ PST219	se prendi il quattro vedi solo macellerie
 PST220	eh verso verso barriera
 PST219	solo macellerie
 PST121	sì
-PST219	ma~ majzara
+PST219	ma~ #majzara
 PST121	un casino di
 PST220	eh
-PST219	maj~ majzara
-PST121	majzara majzara
-PST219	le~ leggi majzara dappertutto
-PST121	majzara majzara
+PST219	#_ maj~ majzara
+PST121	#_ majzara majzara
+PST219	le~ leggi #majzara dappertutto
+PST121	#_ majzara majzara
 PST219	quella parola l'ho imparata usa~ prendendo il quattro
 PST220	non prendo abbastanza il quattro allora
 PST220	a settimo non ce n'è neanche una
@@ -1253,7 +1253,7 @@ PST219	bella
 PST121	bella
 PST219	sì
 PST219	bella bella
-PST220	c'era l'imām che ci ha parlato
+PST220	c'era l'#imām che ci ha parlato
 PST121	sì
 PST219	però a torino
 PST220	mh
@@ -1271,11 +1271,11 @@ PST220	esatto discussioni
 PST219	bella
 PST219	com'è che si chiama quel ehm
 PST219	a~ qualcosa aurora
-PST220	yalla aurora
-PST219	yalla aurora
+PST220	#yalla aurora
+PST219	#yalla aurora
 PST219	cos'era il proge~ l'associazione
 PST220	l'assiociazione sì
-PST219	yalla aurora
+PST219	#yalla aurora
 PST121	ah
 PST219	però bella c'era un tappe~ cioè era tutto coperto di tap~ cioè di tap~ tappeto
 PST121	sì il tappeto
@@ -1295,16 +1295,16 @@ PST220	di cosa parliamo
 PST220	io ho scritto cous cous così ma io non so è giusto a caso proprio
 PST121	eh no
 PST220	immaginavo figurati figurati
-PST220	come si scrive con la qaf q q
+PST220	come si scrive con la #qaf q q
 PST220	prego
 PST121	si scrive così
 PST220	ah vabbè dai senza
 PST219	no xx
-PST220	senza la waw giusto
-PST121	eh sì senza la waw
+PST220	senza la #waw giusto
+PST121	eh sì senza la #waw
 PST220	vabbè dai non faceva così pietà allora
 PST220	ecco per noi è difficilissimo capire quando ci sono le vocali lunghe
-PST220	o se cioè se è solo una damma o se solo o se invece è una waw
+PST220	o se cioè se è solo una #damma o se solo o se invece è una #waw
 PST121	sì
 PST220	boh boh
 PST121	sì sì è difficile
@@ -1328,7 +1328,7 @@ PST121	ah
 PST219	doveva essere marocchino però quest'anno hanno cambiato
 PST121	ah e cosa avete imparato
 PST219	eh el-xir
-PST219	3āmil eh
+PST219	#_ 3āmil eh
 PST121	brava
 PST219	ma tu capisci se ti dico queste cose
 PST121	eh sì qualche parola sì adesso ti ho capita
@@ -1359,13 +1359,13 @@ PST219	esatto
 PST220	dove dobbiamo andare in marocco se
 PST121	c'è
 PST220	cosa ci consigli
-PST121	c'è tanger
-PST121	tanja
+PST121	c'è #tanger
+PST121	#_ tanja
 PST220	ah ah
 PST220	mh mh
 PST121	c'è
 PST220	tangeri
-PST121	c'è marrakesh
+PST121	c'è #marrakesh
 PST220	mh mh
 PST121	c'è
 PST220	mhmh
@@ -1547,4 +1547,4 @@ PST220	alla toeletta
 PST219	toeletta
 PST220	questo è interessante eh veramente
 PST220	da scoprire
-PST220	va bin
+PST220	#_ va bin

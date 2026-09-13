@@ -447,9 +447,9 @@ PST205	qualche qualche piatto del tuo paese di origine
 PST014	qualche piatto
 ??	cuscus che conoscono tutti
 PST014	eh vabbè quello sì
-??	rfissa
+??	#_ rfissa
 PST014	eh
-??	come la spieghiamo rfissa in italiano
+??	come la spieghiamo #rfissa in italiano
 PST014	eh allora boh il cuscus l'abbiamo detto
 PST014	poi
 ??	la gammella
@@ -458,6 +458,7 @@ PST014	eh
 PST205	il
 PST014	eh
 ??	anche il
+PST014	#_
 ??	in tutti i modi insomma
 PST014	e
 PST014	poi mi piacciono delle delle xx dei t~

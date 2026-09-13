@@ -3,7 +3,7 @@ PST211	ciao mi
 PST211	giusto
 PST038	sì sì sì
 PST211	e da quanto tempo tu sei qui in italia
-PST038	allora io sono arrivata qua in italia el
+PST038	allora io sono arrivata qua in italia #el
 PST038	quattordici settembre
 PST038	del millenovecentonovantadue
 PST211	ah wow
@@ -46,7 +46,7 @@ PST038	allora comunque
 PST038	no sono arrivata comunque a fare i lavori che facciamo noi migranti
 PST038	e
 PST038	non mi sono trovata male in quel senso lì
-PST038	ho trovato una person~ delle ho trovato la città de torino
+PST038	ho trovato una person~ delle ho trovato la città #de torino
 PST038	e le persone con cui ho avuto da fare
 PST038	ehm ospitalità
 PST211	mh mh
@@ -55,7 +55,7 @@ PST038	voglia di conoscere e di interagire co~ con me che ero che sono straniera
 PST211	ah ah
 PST038	tutt'ora
 PST211	e in che quartiere hai abitato qui a torino
-PST038	el primo quartiere che ho abitato è stato in santa rita
+PST038	#el primo quartiere che ho abitato è stato in santa rita
 PST211	mh mh
 PST038	in quelle parti lì
 PST211	mh mh
@@ -73,7 +73,7 @@ PST038	benestanti ovviamente
 PST211	mh
 PST038	però sì
 PST038	e e bom poi
-PST038	e di lì de
+PST038	e di lì #de
 PST038	poi mi sono sposata e mi sono trasferita a chivasso
 PST211	e in questi anni che sei qui hai notato dei cambiamenti a torino
 PST211	è peggiorata è migliorata non so cosa hai notato
@@ -113,7 +113,7 @@ PST038	invece negativamente questo comporta nel senso migratorio
 PST038	tutto ha i pro e contro perché
 PST038	e
 PST038	chi si i~ immigra
-PST038	por tante ragione no
+PST038	#por tante ragione no
 PST038	e tra cui anche diversi nivelli di istruzione
 PST038	per cui
 PST038	arriva
@@ -132,7 +132,7 @@ PST038	generazione dei genitori no che hanno portato qua
 PST038	i loro figli
 PST038	e però anche la delinquenza
 PST211	mh
-PST038	anche la l'emigrazione de chi è magari in altri continenti molto più meno
+PST038	anche la l'emigrazione #de chi è magari in altri continenti molto più meno
 PST211	mh
 PST038	di noi
 PST038	forse perché non abbiamo neanche voglia di andare a indagare
@@ -154,8 +154,8 @@ PST038	come va tutto questo
 PST038	eh
 PST038	ciclo no
 PST211	mh mh
-PST038	de questo s~
-PST038	de queste decadi
+PST038	#de questo s~
+PST038	#de queste decadi
 PST211	mh mh
 PST211	sì
 PST211	e voi nella vostra associazione di che cosa vi occupate
@@ -168,9 +168,9 @@ PST038	venuti a finire da noi
 PST038	ehm
 PST038	e anziani soprattutto
 PST038	e solidali nel senso di problematiche magari
-PST038	de
-PST038	ha~ hanno bisogno di un posto letto de un alloggio il passaparola
-PST038	il poder inserirli magari in qualche lavoretto già che possano
+PST038	#_ de
+PST038	ha~ hanno bisogno di un posto letto #de un alloggio il passaparola
+PST038	il #poder inserirli magari in qualche lavoretto già che possano
 PST038	guadagnare qualche cosa
 PST038	orientamento dove recarsi per le diverse autorità per avere
 PST038	documentazioni di non essere qua proprio
@@ -183,16 +183,16 @@ PST038	qualche volta possono arrivare anche aiuti alimentari
 PST038	di dare alle persone disoccupate
 PST211	mh mh
 PST038	e
-PST038	e de anche
+PST038	e #de anche
 PST038	non lasciare che si perda
-PST038	e l~ le nostre origini nel senso de che facciamo le nostre tradizioni folkloristiche le nostre feste
+PST038	e l~ le nostre origini nel senso #de che facciamo le nostre tradizioni folkloristiche le nostre feste
 PST038	le nostre processioni perché siamo anche
 PST038	latino america maggioranza è cattolica
 PST211	mh mh
 PST038	per cui comunque però le processioni le cose i nostri santi
 PST038	le nostre feste delle regioni i nostri piatti tipici diciamo
-PST038	di potere ogni tanto organizzare queste cose de che le persone che
-PST038	lontani de la patria almeno si sentano un po'
+PST038	di potere ogni tanto organizzare queste cose #de che le persone che
+PST038	lontani #de la patria almeno si sentano un po'
 PST038	accolti no e no tanto
 PST211	mh
 PST038	perché è brutta la solitudine
@@ -204,7 +204,7 @@ PST211	ma avete diciamo dei momenti in cui vi dedicate non lo so degli sportelli
 PST211	cioè come sono le vostre attività
 PST211	come le organizzate
 PST038	ah ma le organizziamo tramite un volontariato
-PST038	quien può venire tale giorno a tale ora viene fa dicamo chi è
+PST038	#quien può venire tale giorno a tale ora viene fa dicamo chi è
 PST211	okay
 PST038	magari un po' più informato di un altro si si rende disponibile no
 PST038	a dare queste tipo di orientamento
@@ -213,13 +213,13 @@ PST038	eh
 PST038	non c'è un orario fisso
 PST038	dopo la pandemia e un anno fa abbiamo diminuito un po' questo mh que~
 PST038	questo movimento qua diciamo questa
-PST038	queste attività per il fatto de che un po' per i lavori un po' perché
+PST038	queste attività per il fatto #de che un po' per i lavori un po' perché
 PST038	se lo facciamo
 PST038	parallelo al nostro lavoro forma gratuita non c'è nessuno scopo di lucro
 PST211	certo
 PST211	certo
 PST211	certo
-PST038	per cui andiamo avanti come possiamo con el tempo
+PST038	per cui andiamo avanti come possiamo con #el tempo
 PST211	sì sì
 PST211	mh mh
 PST038	quello
@@ -239,28 +239,28 @@ PST038	problema soprattutto per
 PST038	essere orientati
 PST038	e che dopo devono andare in un ufficio da soli il problema è la lingua per loro
 PST211	ah ah
-PST038	per cui noi possiamo trasmettere tutto el orientamento en espagnolo ma dopo si trovi davanti allo sportello
+PST038	per cui noi possiamo trasmettere tutto #el orientamento en espagnolo ma dopo si trovi davanti allo sportello
 PST038	che non
 PST038	che non sa
 PST038	come comportarsi perché manca
-PST038	el mh u~ u~ un po' di conoscenza delle parole in italiano
+PST038	#el mh u~ u~ un po' di conoscenza delle parole in italiano
 PST211	mh mh
 PST038	ehm
 PST038	questo questa situazione qua e poi
-PST038	magari la mancanza de
+PST038	magari la mancanza #de
 PST038	dove alloggiare queste cose però comunque questo
 PST211	mh mh
-PST038	è una questione de che
+PST038	è una questione #de che
 PST038	ci ci danno una mano tutti
 PST038	io sono molto diciamo avendo già una famiglia
 PST211	mh mh
 PST038	sono
 PST038	non sono tanto vincolata a~ a queste problematiche
-PST038	pero en el senso de che non tocca me
+PST038	pero #en #el #senso #de che non tocca me
 PST211	certo
 PST038	non tocca a me
 PST038	però
-PST038	en quello che posso quando mi arrivano i campanelli di questo dell'altro si vede gli agganci
+PST038	#en quello che posso quando mi arrivano i campanelli di questo dell'altro si vede gli agganci
 PST038	dove recarsi dove andare dove orientarli
 PST211	mh
 PST038	quello sì
@@ -268,14 +268,14 @@ PST211	e come arrivano a voi le persone tramite
 PST038	quello sì
 PST211	diciamo passaparola oppure
 PST211	diciamo come di solito entrano in contatto con voi
-PST038	tramite il passaparola di solito vanno lì en la ca~ en la scuola arte e mestiere lì
+PST038	tramite il passaparola di solito vanno lì #en la ca~ #en #la scuola arte e mestiere lì
 PST211	ah ah
 PST211	ah okay
 PST038	mh mh
 PST211	ah
 PST038	vanno lì e allora
 PST038	io sarà vabbè
-PST038	almeno tre o quattro settimane ma l'ultima volta c'era anche lì el orario non so se ha visto se c'è no
+PST038	almeno tre o quattro settimane ma l'ultima volta c'era anche lì #el orario non so se ha visto se c'è no
 PST211	mh eh
 PST038	c'è l'orario
 PST038	che eventualmente o un numero di telefono dove si può telefonare diciamo
@@ -284,9 +284,9 @@ PST211	okay
 PST211	voi però non fate corsi di italiano per
 PST038	mh
 PST038	no avevamo pensato con farli
-PST038	el corso di italiano
+PST038	#el corso di italiano
 PST038	però non avevamo
-PST038	ci mancava el el posto dove poterlo fare
+PST038	ci mancava #el #el posto dove poterlo fare
 PST038	e cercando anche tra quei ragazzi che
 PST038	sono già laureati anche qua all'università e che sono hanno due due lingue no sono bilingue che possono dare una mano anche ragazzi così volontariamen~
 PST211	ah ah
@@ -304,7 +304,7 @@ PST038	a queste persone che lavorano anche in case fisse facendo badanti
 PST038	non possono uscire
 PST211	sì
 PST038	allora
-PST038	manca quello anche per fare un buen servizio de badante perché se non hai una
+PST038	manca quello anche per fare un #buen servizio #de badante perché se non hai una
 PST038	un lessico no una cosa molto sei molto loquace no~ non puoi dar
 PST211	eh sì
 PST211	fai fatica
@@ -314,8 +314,8 @@ PST211	eh sì
 PST211	sì certo
 PST038	e e questo manca perché
 PST211	sì
-PST038	non c'è e allora pensavamo però lei ha detto al ritorno abbiamo un po' de progetti
-PST038	speriamo de poterle fare
+PST038	non c'è e allora pensavamo però lei ha detto al ritorno abbiamo un po' #de progetti
+PST038	speriamo #de poterle fare
 PST211	mh mh
 PST038	anche quelli anche delle
 PST038	di orientare anche soltanto a
@@ -329,9 +329,9 @@ PST038	e non tutti i lav~ i datori di lavoro danno permesso alle loro badanti o 
 PST211	eh
 PST038	perché vadano a imparare
 PST211	mh mh
-PST038	allora queste cose qua de cucina
+PST038	allora queste cose qua #de cucina
 PST038	di assistenza al malato
-PST038	de una igiene intima a una persona che è allettata
+PST038	#de una igiene intima a una persona che è allettata
 PST038	e diciamo
 PST038	avendo già questa esperienza che
 PST038	ha delle lo sai io l~ l'ho imparato qua empiricamente perché ho fatto tutta un'altra cosa che questo
@@ -392,21 +392,21 @@ PST038	ehm
 PST038	sop~ e e e nel lavoro
 PST211	mh mh
 PST038	e nel lavoro perché
-PST038	facendo il tipo de lavoro che ho fatto
+PST038	facendo il tipo #de lavoro che ho fatto
 PST038	io da quando sono arrivata ho lavorato
 PST038	con le persone anziane siano
 PST038	purtroppo quelli che erano già co~ con la con la testa male alzheimer demenza senile o allettati o quello che sia
 PST038	ma bene o male si esprimevano
 PST038	ma
 PST038	persone che chi era una professoressa
-PST038	chi era delle persone de un certo nivello anche di istruzione
+PST038	chi era delle persone #de un certo nivello anche di istruzione
 PST211	mh mh
 PST038	per cui quando ho parlato sono stata sempre che mi correggevano
 PST211	ah
 PST038	le le parole e ho avuto la fortuna di
 PST038	e anche l'interesse di parlarlo per cui
 PST211	mh
-PST038	e ho imparato solo così con delle persone a convers~ la conversazione el dialogo
+PST038	e ho imparato solo così con delle persone a convers~ la conversazione #el dialogo
 PST038	e e le scrittura leggendo perché comunque resta quello che leggi e lo impari a a fare
 PST211	sì sì
 PST211	mh
@@ -416,7 +416,7 @@ PST038	le gi doppie ancora
 PST038	a volte
 PST038	poi adesso è subentrato anche l'età
 PST038	pomeriggio a volte mi viene un la u~ u~ un vuoto e dico a mio figlio ma sono due gi o una
-PST038	però c'è questo che como va scrivendo va uscendo la parola
+PST038	però c'è questo che #como va scrivendo va uscendo la parola
 PST211	xxx ti aiuta xx
 PST038	mi aiuta
 PST038	però no no diciamo
@@ -429,7 +429,7 @@ PST038	io parlo a nivello mio eh
 PST211	mh mh
 PST038	a nivello
 PST038	di immigrazione
-PST038	de
+PST038	#_ de
 PST038	latino america nelle prime anni novanta
 PST211	mh mh
 PST038	dove c'è stata un'immigrazione del ceto medio
@@ -439,30 +439,30 @@ PST038	laureati professionali
 PST211	tu sei laureata
 PST038	persone
 PST038	sì un certo nivello
-PST038	abbiamo scappato de una dittatura del terrorismo
+PST038	abbiamo scappato #de una dittatura del terrorismo
 PST038	lo sai no
 PST038	latino america è sconvulsionata tutta la vita è stata così
 PST038	eh
 PST038	allora
 PST038	siamo
 PST038	ci siamo creati que~ questo questa posizione diciamo di che eh
-PST038	incide molto che tipo de persona emigra
+PST038	incide molto che tipo #de persona emigra
 PST038	e purtroppo come in tutte le società
 PST038	adesso ultimo
 PST038	e m~ molta mh pers~ mh del latino america d~ del mio paese soprattutto molte persone che per dire là hanno solo la terza media
 PST211	mh mh
 PST038	per cui quello incide anche in una società perché dipende molto chi arriva
 PST211	sì
-PST038	quien arriva è
-PST038	da noi non so se in italiano como se dice
-PST038	o sumas o restas
+PST038	#quien arriva è
+PST038	da noi non so se in italiano #como se dice
+PST038	#_ o sumas o restas
 PST211	mh mh
 PST038	sa se fai solo numero così o sei
 PST038	u~ u~ un elemento positivo lì no a~ a~ a dove formi parte
 PST038	non importa se sei
-PST038	inserita o meno o sea non importa se te
+PST038	inserita o meno o #sea non importa se te
 PST211	certo
-PST038	se te calcolano o meno o se te guardano de extra comunitaria
+PST038	se te calcolano o meno o se te guardano #de extra comunitaria
 PST211	mh mh
 PST038	perché comunque
 PST038	sai cosa succede che quando si immigra
@@ -471,14 +471,14 @@ PST211	mh
 PST038	ma non sei più niente di qua
 PST211	mh
 PST038	io ho la cittadinanza ma non mi considero italiana
-PST038	porque no non mi sento così
+PST038	#porque no non mi sento così
 PST038	mi sento per mio figlio e per quattro amici italiani che ho
 PST211	mh mh
 PST038	ma per quello no finché non
 PST038	finché non
 PST038	non ti trattano finché non sai magari no
 PST038	eh
-PST038	però dipende quién si fa senitre male si fa venire la depressione quién si scivola tutto e vai avanti nella vita poi d'altronde perché ho visto che
+PST038	però dipende #quién si fa senitre male si fa venire la depressione #quién si scivola tutto e vai avanti nella vita poi d'altronde perché ho visto che
 PST211	sì
 PST211	certo
 PST038	a me dispiace dirlo ma è già la italia è così
@@ -486,28 +486,28 @@ PST211	mh mh
 PST038	tra nord e sud tra tutte quelle poi non voglio entrare più in queste cose qui ma
 PST038	purtroppo è così insomma nostri proprio
 PST038	e questa è la mia
-PST038	critica de
-PST038	de estraniera e como vedo la società dentro
+PST038	critica #de
+PST038	#de estraniera e #como vedo la società dentro
 PST211	certo
 PST211	sì sì
-PST038	e io non mi posso aspettare niente porque se sta questa cosa tra nord e sud tra quello e il napoletano
-PST038	o el quello del nord o è o el terrone o quello
+PST038	e io non mi posso aspettare niente #porque se sta questa cosa tra nord e sud tra quello e il napoletano
+PST038	o #el quello del nord o è o #el terrone o quello
 PST038	cioè
 PST038	cosa posso aspettare io
 PST211	eh sì
 PST038	mh mh
 PST211	purtroppo è così sì
 PST038	eh per cui però la nostra società immigran~ immigratoria queste ultimi persone che arrivano
-PST038	sì adesso c'è tutto una valanga de persone di tutto
+PST038	sì adesso c'è tutto una valanga #de persone di tutto
 PST038	perché
 PST038	latino america ha u~ u~ una grossa crisi economica
 PST038	troppo
 PST038	e s~ si si sta vivendo troppo male e quello comporta che siano professionali e gente senza istruzione
 PST038	immigre
 PST211	mh mh
-PST038	e c'è quien
-PST038	si comporta bene e quien non si comporta bene quien ha interesse di imparar la lingua porque serve
-PST038	porque così puoi aver un buen lavoro
+PST038	e c'è #quien
+PST038	si comporta bene e #quien #non si comporta bene #quien ha interesse di imparar la lingua #porque serve
+PST038	#porque così puoi aver un #buen lavoro
 PST211	eh sì
 PST038	e non solo chiedere i diritti fare anche il tuo dovere
 PST211	eh sì
@@ -516,20 +516,20 @@ PST038	ehm
 PST038	e persone che proprio nulla di niente a dove noi miriamo co~ con la nostra associazione
 PST038	a fargli un po' di alfabetizzazione
 PST211	mh mh
-PST038	porque sono cero
+PST038	#porque sono #cero
 PST211	eh eh
 PST038	purtroppo
 PST211	eh sì
 PST211	sì sì
-PST038	sono cero
-PST038	noi quando siamo de ling~ siamo della nostra lingua madre lo sappiamo
+PST038	sono #cero
+PST038	noi quando siamo #de ling~ siamo della nostra lingua madre lo sappiamo
 PST038	come voi quando parlate con un italiano avete capito
-PST038	cioè non si tratta qua del razzismo si tratta soltanto di sapere con quien hai da fare
+PST038	cioè non si tratta qua del razzismo si tratta soltanto di sapere con #quien hai da fare
 PST211	mh mh
 PST038	se è una persona che può capirte o una persona che ha bisogno di essere orientata perché
 PST038	purtroppo nella vita non è che è stata istruita e non è colpa loro
 PST211	eh certo
-PST038	per cui se hai la possibilità de istruirla e de aiutarla
+PST038	per cui se hai la possibilità #de istruirla e #de aiutarla
 PST038	essere un essere umano migliore lo fai
 PST211	esatto
 PST038	se poi non capisci niente allora
@@ -545,12 +545,12 @@ PST038	si nasce con la predisposizione credo
 PST211	eh
 PST038	perché senza insegnarle io gli parlo e lui sa perfettamente cosa gli sto dicendo
 PST211	mh mh
-PST038	e anche se le mando un escritto en espagnolo lui
+PST038	e anche se le mando un escritto #en espagnolo lui
 PST038	l'ha capito non l'ha letto mai non l'ha estudiato mai
 PST211	certo
 PST211	ah ah
 PST211	e quindi in casa parlate un po' italiano e un po' spagnolo
-PST038	io parlo con lui en spagnolo tanto
+PST038	io parlo con lui #en spagnolo tanto
 PST211	okay
 PST038	eh però poi quando c'è mio marito e tutto parliamo in italiano sì
 PST211	eh perché tuo marito non lo sa lo spagnolo
@@ -592,7 +592,7 @@ PST038	le parole in italiano un po' che le le esp~
 PST038	le espagnolizzi per dire no così no
 PST211	eh eh
 PST211	okay
-PST038	como qualche cosa en espagnolo che noi a
+PST038	#como qualche cosa #en espagnolo che noi a
 PST038	se fa un po' america~ l'americanata no di parlare qualche parola in espagnolo in inglese quelli che migrano in estati uniti lo fanno molto
 PST211	ah ah
 PST211	ah ah
@@ -608,44 +608,44 @@ PST211	mh
 PST038	perché ehm
 PST038	mi stanno rima~ rima~ restando solo le parole comuni
 PST038	le parole ehm
-PST038	i~ il c~ cellulare il movil la mesa la zia beh tante altre
+PST038	i~ il c~ #cellulare il #movil la #mesa la zia beh tante altre
 PST038	ma no quel espagnolo che parlavo una volta
 PST038	e devo
 PST038	allora ogni tanto mi prendo un libro in espagnolo
 PST211	mh mh
-PST038	de cominciar a leggerlo perché
-PST038	si prende si perde perdón tanto
-PST038	delle il bagaglio delle nostre parole a me soprattutto personalmente mi succede quello a volte devo telefonare a mia sorella per dirle cómo se dice questo
+PST038	#de cominciar a leggerlo perché
+PST038	si prende si perde #perdón tanto
+PST038	delle il bagaglio delle nostre parole a me soprattutto personalmente mi succede quello a volte devo telefonare a mia sorella per dirle #cómo se dice questo
 PST211	eh sì
-PST038	solo che io sono di un'altra década io vado sul dizionario dei sinonimi
-PST038	e le quello o sea niente da fare se io vado lo cerco lo cerco
+PST038	solo che io sono di un'altra #década io vado sul dizionario dei sinonimi
+PST038	e le quello #o #sea niente da fare se io vado lo cerco lo cerco
 PST211	sì
 PST038	lo cerco perché
-PST038	porque lo de lavorare anche questo
+PST038	#porque #lo #de lavorare anche questo
 PST211	mh mh
 PST211	sì sì sì
 PST211	perché poi tu hai fatto l'università hai detto
 PST038	sì
 PST211	dove di preciso
-PST038	io sono di una città che si chiama trujillo sul nord eh del perù el pacifico sul pacifico
+PST038	io sono di una città che si chiama trujillo sul nord eh del perù #el pacifico sul pacifico
 PST211	ah ah
 PST211	okay che bello
-PST038	ho estudiato historia historia e scienze historia e geografia
+PST038	ho estudiato #historia #historia e scienze #historia e geografia
 PST211	mh mh
-PST038	perché en la università là c'è la deviazione de
+PST038	perché #en la università là c'è la deviazione #de
 PST211	sì
 PST038	eh sono le lettere umanistiche e le lettere quelle che vai letteratura universale
-PST038	ehm l~ letteratura y grammatica spagnola letteratura latina letteratura de tutto globale no historia
-PST038	y la mia invece la umanistica in storia universale geografia historia del perù historia universale geografia del perù geografia del mondo
+PST038	ehm l~ letteratura #y grammatica spagnola letteratura latina letteratura #de tutto globale no #historia
+PST038	#y la mia invece la umanistica in storia universale geografia #historia del perù #historia universale geografia del perù geografia del mondo
 PST038	io dovevo ho lavorato solo un anno
-PST038	insegnare economia civica historia geografia
+PST038	insegnare economia civica #historia geografia
 PST038	ehm educazione civica alle superiori
 PST211	ah ah okay
 PST038	e no poi sono arrivata qui e
 PST038	e per scelta sono rimasta diciamo
 PST211	mh mh
 PST038	sì sono rimasta perché veramente sono scappata anche di una dittatura allora non c'erano i telefoni cellulari gli ho detto a mia madre sto due anni
-PST038	e poi c'è stata anche il colpo de de stato
+PST038	e poi c'è stata anche il colpo #de #de stato
 PST038	e poi l'inflazione
 PST038	e poi mia madre mi ha detto resta ancora perché con il tuo st~ con il tuo stipendio di insegnante non vai da nessuna parte
 PST038	fate qualche cosa poi torni e poi stai qua
@@ -653,16 +653,16 @@ PST211	mh mh
 PST038	perché non venire adesso perché era tremendo la situazione politica economica era tremenda
 PST038	allora ero giovane
 PST038	però poi sono passati il tempo e
-PST038	e sono rimasta qua perché porque non è mai cambiato di là
+PST038	e sono rimasta qua perché #porque non è mai cambiato di là
 PST211	mh mh
-PST038	però sono sono contenta diciamo de de potere tanto la vita è lotta
+PST038	però sono sono contenta diciamo #de de potere tanto la vita è lotta
 PST211	eh sì
 PST038	o devi lottare qua o devi lottare di là è così
 PST038	e finché sono qua andiamo avanti però
-PST038	se c'è adesso questo questione de che si può aprire
-PST038	u~ u~ una luce de poder dare una mano
+PST038	se c'è adesso questo questione #de che si può aprire
+PST038	u~ u~ una luce #de #poder dare una mano
 PST038	a tutte quelle persone che sono venute dietro di noi e che
-PST038	hanno bisogno per inserirsi di un po' più de cultura un po' più de istruzione
+PST038	hanno bisogno per inserirsi di un po' più #de cultura un po' più #de istruzione
 PST211	certo
 PST038	eh
 PST038	per me è un esbocco
@@ -683,7 +683,7 @@ PST038	no io adesso no lavoro qua
 PST038	lavoro con una signora
 PST038	che è malata psichiatrica
 PST211	mh
-PST038	e lavoro con lei ya da tre anni
+PST038	e lavoro con lei #ya da tre anni
 PST038	e mi sono occupata sempre di di quello
 PST211	mh mh
 PST038	beh non sapevo
@@ -702,29 +702,29 @@ PST038	mi piace proprio farlo
 PST038	credo che
 PST038	nella vita se no si muore giovane nessuno vuole morir giovane arriviamo lì
 PST211	eh sì
-PST038	eh e forse sono invecchiata credo molto prematuramente porque ya a venticinque a trent'anni pensavo sempre così porque ho la
+PST038	eh e forse sono invecchiata credo molto prematuramente #porque #ya a venticinque a trent'anni pensavo sempre così #porque ho la
 PST038	da quando sono arrivata qua ho lavorato sempre con gli anziani per cui forse son diventata anch'io un po' vecchia
 PST038	perché
 PST211	no dai
 PST038	perché ehm
 PST038	e e guardo molto fors~ io lo ritengo una fortuna
 PST211	mh
-PST038	poder lavorare con delle persone che hanno già vissuto una vita
-PST038	porque ti danno tanta ricchezza
+PST038	#poder lavorare con delle persone che hanno già vissuto una vita
+PST038	#porque ti danno tanta ricchezza
 PST211	ti raccontano magari
 PST038	e e ti danno anche perché si instaura privatamente quando lavori si instaura questo rapporto anche di amicizia
-PST038	dove anche diciamo se tanto tempo e arriva questa amicizia questa estima anche magari anche un suggerimento de vita
+PST038	dove anche diciamo se tanto tempo e arriva questa amicizia questa estima anche magari anche un suggerimento #de vita
 PST211	mh
-PST038	e le persone anziane hanno molto de saggio
+PST038	e le persone anziane hanno molto #de saggio
 PST211	sì sì
 PST038	cose che poi le abbiamo perse perché
-PST038	qua in italia penso como di là el nonno la nonna forse stavano una volta in casa erano una cosa valiosa no
-PST038	como le tribù che va del più vecchio a chiedere il consiglio alla tribù no
+PST038	qua in italia penso #como di là #el nonno la nonna forse stavano una volta in casa erano una cosa #valiosa no
+PST038	#como le tribù che va del più vecchio a chiedere il consiglio alla tribù no
 PST038	però adesso ci s~ le strutture le cose ma
-PST038	sono delle persone sagge a me molte persone mi hanno consigliato a continuare avanti en la vita
+PST038	sono delle persone sagge a me molte persone mi hanno consigliato a continuare avanti #en la vita
 PST038	person anziane
 PST038	però mi piace fare il mio lavoro
-PST038	c'è quien arriva per la necessità di farlo
+PST038	c'è #quien arriva per la necessità di farlo
 PST038	o per guadagnare u~ un un soldo
 PST038	e non si fa il lavoro come si deve per cui vogliamo anche in quel senso lì orientare i nostri co~ connazionali
 PST211	ah ah
@@ -736,17 +736,17 @@ PST038	prepararle i suoi alimenti la sua la sua igiene
 PST038	e non arrivare
 PST038	lì a irrompere nel nel loro mondo e nella loro quotidianità e la loro abitudine
 PST038	non siamo
-PST038	noi siamo lì per aiutarle non per arrivare a casa de una persona anziana e travolgere la vita
+PST038	noi siamo lì per aiutarle non per arrivare a casa #de una persona anziana e travolgere la vita
 PST211	eh certo
 PST038	non si fa così
 PST038	e quello
 PST038	bisogna
-PST038	fare molta estrada per poder inserire bene un una persona che fa questi lavori quello lo facciamo gli stranieri
+PST038	fare molta estrada per #poder inserire bene un una persona che fa questi lavori quello lo facciamo gli stranieri
 PST211	mh mh
 PST038	è tutto collegato
 PST211	eh sì
 PST038	tra la lingua
-PST038	tra inserirli en le loro abitudini
+PST038	tra inserirli #en le loro abitudini
 PST211	eh sì
 PST211	sì sì
 PST038	se no no no no non fanno il lavoro bene
@@ -756,7 +756,7 @@ PST211	sapendo che stai aiutando una persona che stai facendo del bene a una per
 PST038	io sono molto
 PST038	io sono molto
 PST038	quando ce riuniamo con i nostri connazionali e dobbiamo dare qualche dritta orientamento quello o l'altro
-PST038	di solito quando chiedo questo cómo ti va quello lì en
+PST038	di solito quando chiedo questo #cómo ti va quello lì #en
 PST038	e o hanno problematiche però
 PST038	io le mando comunque
 PST038	le cle~ cose le dico che
@@ -766,7 +766,7 @@ PST038	devi essere una persona alla pari e trattar di inserirti
 PST038	è dura perché ti verranno quello ci sono le pregiudizi le cose contro l'estraniero
 PST038	ma mh
 PST038	bisogna anche essere forti
-PST038	forti e andar avanti e fare un buen lavoro come si deve
+PST038	forti e andar avanti e fare un #buen lavoro come si deve
 PST211	mh mh
 PST211	eh sì
 PST038	perché ehm
@@ -787,10 +787,10 @@ PST038	è solo come un'associazione si è creato come un riferimento
 PST211	mh
 PST038	niente è a scopo di lucro
 PST211	mh
-PST038	perché si se fa anche una piccola attività e tante cose tiriamo fuori delle tasche
+PST038	perché #si #se fa anche una piccola attività e tante cose tiriamo fuori delle tasche
 PST211	mh
 PST038	anche con questa
-PST038	ufficio lì de dei preti non è che ce lo danno per
+PST038	ufficio lì #de dei preti non è che ce lo danno per
 PST211	eh
 PST038	ce lo danno per una carità un
 PST038	però sì sì
@@ -812,12 +812,12 @@ PST038	o far andare a far l'espesa perché dopo ai musicisti gli devi dare da ma
 PST038	si fanno queste attività così
 PST211	sì
 PST038	e poi se
-PST038	vestiti alimenti che arrivano de la buena
-PST038	de la carità delle persone
+PST038	vestiti alimenti che arrivano #de la #buena
+PST038	#de la carità delle persone
 PST211	mh
 PST038	chiamano e dicono abbiamo una sacca de vestiti per bambini di tale età
 PST211	mh
-PST038	o scarpette de quale età
+PST038	o scarpette #de quale età
 PST038	o passeggini carrozzini lettini letti
 PST211	eh sì
 PST211	sì xx serve
@@ -829,7 +829,7 @@ PST038	poi per altro no
 PST038	sì sono andata beh
 PST038	sono andata
 PST038	due anni fa con mio figlio che era già più grande
-PST038	però de due anni fa non ero andata dal duemiladodici
+PST038	però #de due anni fa non ero andata dal duemiladodici
 PST038	quando è mancata mia madre
 PST211	mh
 PST038	adesso non ho più né papà né mamma son mancati tutti e due
@@ -867,12 +867,12 @@ PST038	però questa volta sono andata soprattutto
 PST038	perché mio figlio non
 PST038	l'hanno visto piccolo da quando è mancata mia madre
 PST211	mh mh
-PST038	però era un funerale tutto de passaggio così
+PST038	però era un funerale tutto #de passaggio così
 PST038	allora l'ho portato perché ho io ho fratelli molto anziani già no sono i due più vecchi no conoscono a mio figlio
 PST211	mh mh
 PST211	ah x
 PST038	e io io ho pensato a quello a portarli perché
-PST038	perché comunque la sua metà de radici sono quelle
+PST038	perché comunque la sua metà #de radici sono quelle
 PST038	lui è metà italiano e metà peruviano
 PST211	eh certo
 PST038	e deve conoscere le loro radici no
@@ -897,23 +897,23 @@ PST038	siamo stati quelle tre settimane là
 PST038	ma mh
 PST038	è la sangue no
 PST211	mh
-PST038	subito c'è stato el affetto el amore por la zia per el zio
+PST038	subito c'è stato #el affetto #el amore #por la zia per #el zio
 PST038	e si sono
 PST038	ehm
 PST038	trovati dei lacci molto forti
 PST038	che adesso quando poi un giorno eravamo qua in italia già da un
 PST038	siamo andati per natale e abbiamo passato il natale là anche perché lui non sapeva che cosa fare apro parentesi subito il natale
-PST038	con el estate
+PST038	con #el estate
 PST211	mh mh
 PST038	sempre freddo no
 PST211	eh
 PST038	allora gli ho detto senti andiamo a passare questa estate di là
 PST038	questo natale che così sai che
-PST038	el ventiquattro e venticinque ce ne andiamo al mare e stiamo là
+PST038	#el ventiquattro e venticinque ce ne andiamo al mare e stiamo là
 PST038	allora per lui era tutto nuovo come per me quando sono arrivata qua e ho visto la neve a natale no
 PST211	eh
 PST038	tristezza perché era tutto chiuso invece di là ci sono tutte le porte aperte ci salutiamo tutti
-PST038	comunque tutto è bello perché sono abitudini delle de dei popoli
+PST038	comunque tutto è bello perché sono abitudini delle #de dei popoli
 PST038	eh e lui è rimasto molto contento di quello siamo stati a natale abbiamo passato là
 PST038	e
 PST038	è cresciuto questo affetto e questo amore per i zii
@@ -922,20 +922,20 @@ PST038	spontanea
 PST038	cioè non era una cosa
 PST038	come dire
 PST038	che l'amore è perché si frequenta io
-PST038	credo che anche forse quello è questione de scienza eh
+PST038	credo che anche forse quello è questione #de scienza eh
 PST211	mh
 PST038	che ti nasce proprio automatico istintivamente quell'amore per quel parente che non hai mai visto u~ un fratello mio
-PST038	ma che è rimasto el amore mi hai detto adesso so chi sono
+PST038	ma che è rimasto #el amore mi hai detto adesso so chi sono
 PST038	e io adesso gli voglio bene perché io adesso so in carne e ossa che c'è
 PST038	e che c'è zia che li ho abbracciati e e tutto
 PST038	tanto è così che mi ha detto che lui
 PST038	pensa a venir a la università speriamo
 PST038	gli ho detto non adesso mi ha detto mamma ma quando finisco
 PST038	così me faccio i miei soldini tra un lavoretto e un altro tra un'estate e l'altro
-PST038	io voglio andare in sud ame~ en perù
+PST038	io voglio andare in sud ame~ #en perù
 PST038	almeno per un paio d'anni
 PST211	mh mh
-PST038	porque vuole estare là
+PST038	#porque vuole estare là
 PST211	che bello
 PST038	che cosa vai a fare gli ho detto non c'è nessuno là
 PST038	no ma io voglio andare là perché a me piace stare là
@@ -948,22 +948,22 @@ PST211	mh
 PST038	non è mai estato là
 PST038	però adesso che ama i zii che le ha visto solo tre settimane
 PST038	ehm
-PST038	il legame o sea
+PST038	il legame #o #sea
 PST211	sì sì adesso si s~ cioè si sente legato e vuole magari esplorare un po' di più anche questo legame
 PST038	no no per quello sì me sono s~
-PST038	sentita en el dovere
-PST038	morale de farle vedere che anche quella e~ era l~ la sua terra no
+PST038	sentita #en #el dovere
+PST038	morale #de farle vedere che anche quella e~ era l~ la sua terra no
 PST211	sì sì
 PST211	sì poi lu~ decide lui poi cosa fare diciamo di queste di questo legame però è giusto che
 PST211	che lo conosca e lui quando è venuto come ha vissuto il il passare dall'italiano allo spagnolo
 PST211	cioè è stato f~ facile per lui parlare spagnolo tutto il tempo o anche lui secondo te ha avuto delle difficoltà
 PST038	no piombato così
 PST211	ah ah
-PST038	subito s~ como dire vum messo lì aggiustate perché non è una cosa come me a casa così
+PST038	subito s~ #como dire vum messo lì aggiustate perché non è una cosa come me a casa così
 PST211	eh eh
 PST038	doveva arrangiarsi d~ da d~ dappertutto
 PST038	e anche lì certi
-PST038	parole che se usano anche a subir a un bus o a quello parole molto el gergo
+PST038	parole che se usano anche a #subir a un bus o a quello parole molto #el gergo
 PST211	mh mh
 PST038	no
 PST211	eh sì
@@ -975,13 +975,13 @@ PST211	eh sì
 PST038	se subito se ha
 PST038	si ha climatizzato in tutti i sensi
 PST211	mh
-PST038	un po' per il mangiare forse un po' de queste cose però
+PST038	un po' per il mangiare forse un po' #de queste cose però
 PST038	ehm
 PST038	no con la lingua subito
 PST211	mh mh
 PST038	e lui
 PST038	anche lo sport siccome lui anche pratica un esport
-PST038	subito ha cercato el campetto più vicino a casa
+PST038	subito ha cercato #el campetto più vicino a casa
 PST211	eh certo
 PST038	e lì ha piombato
 PST211	mh
@@ -994,7 +994,7 @@ PST211	mh mh
 PST038	sì c'erano i zii anziani e tutto ma per lui non è stato un un ostacolo per uscire in un campetto e farsi gli amici
 PST211	certo
 PST038	ehm
-PST038	practicar el suo espagnolo
+PST038	#practicar #el suo espagnolo
 PST038	tramite lo sport diciamo no che sì sì si è inserito bene diciamo in quel senso lì
 PST211	mh mh
 PST211	ma lui l'hai mai mandato a dei corsi di spagnolo qui in italia no
@@ -1011,11 +1011,11 @@ PST211	eh
 PST211	ah ah
 PST211	certo
 PST211	mh mh
-PST038	mi avesse piaciuto molto che seguisse en le medie lo spagnolo porque c'era
+PST038	mi avesse piaciuto molto che seguisse #en le medie lo spagnolo #porque c'era
 PST211	mh mh
 PST038	e invece non l'ha voluto fare perché mi ha detto io lo so gli ho detto la grammatica no però
 PST211	ah ah
-PST038	e faccio l'inglese e faccio il francese così ne ho già tre lingue mi ha detto più el italiano
+PST038	e faccio l'inglese e faccio il francese così ne ho già tre lingue mi ha detto più #el italiano
 PST211	ah ah
 PST038	e non ha voluto farlo lo spagnolo difatti lo spagnolo con la grammatica
 PST038	è proprio molto scarso
@@ -1030,13 +1030,13 @@ PST211	mh
 PST211	ah
 PST038	però si se va qualche ra~ ristorante latino qualche parte
 PST038	lui e mangia
-PST038	o sea ha no no no no si dimostra e mai si è dimostrato fin da piccolo
+PST038	#o #sea ha no no no no si dimostra e mai si è dimostrato fin da piccolo
 PST038	eh come dire così no no perché cos'è questo
 PST211	mh
 PST038	quello che le
 PST038	poi lui è così lui mangia di tutto anche italiano mangia di tutto
 PST038	ehm
-PST038	noi mangiamo molto le legumi el riso gli umidi di carni piccanti queste cose el pesce
+PST038	noi mangiamo molto le legumi #el riso gli umidi di carni piccanti queste cose #el pesce
 PST211	mh mh
 PST038	e lui spiana tutto quello non c'è nessun problema
 PST038	anche questo
@@ -1052,20 +1052,20 @@ PST038	no no no no cucinavo e adesso
 PST038	e chie~ ho chiesto sempre
 PST038	vabbè qua adesso che siamo più
 PST038	eh peruviani si chiede in giro si chiede qua
-PST038	però allora quando era difficile dovevo comprar l'escheda inserirla in cabina telefonica e chiederle a mia mamma come si faceva tale cosa
+PST038	però allora quando era difficile dovevo #comprar l'escheda inserirla in cabina telefonica e chiederle a mia mamma come si faceva tale cosa
 PST211	ah ah eh sì
 PST038	perché non sapevo
 PST211	ah ah
-PST038	e adesso adesso se vive per noi estranieri s~ per me digo se vive nel lusso perché anche
-PST038	el supermercato el el negozietto latino trovi tutto
+PST038	e adesso adesso se vive per noi estranieri s~ per me #digo se vive nel lusso perché anche
+PST038	#el supermercato #el #el negozietto latino trovi tutto
 PST211	certo
-PST038	io mi sono aggiustata qua anche con i formaggi anche con i peperoncini io ho assaggiato varietà per sapere quale potevo farlo con quella salsa con questo con quello con l'altro el tipo de riso perché finisco la cottura a modo nostro
+PST038	io mi sono aggiustata qua anche con i formaggi anche con i peperoncini io ho assaggiato varietà per sapere quale potevo farlo con quella salsa con questo con quello con l'altro #el tipo #de riso perché finisco la cottura a modo nostro
 PST211	mh mh
 PST038	allora io ti parlo ancora dell'anno duemila eh si son passati tanti anni
 PST211	mh
-PST038	però con la apertura del mondo el commercio adesso arriva di tutto eh
+PST038	però con la apertura del mondo #el commercio adesso arriva di tutto eh
 PST211	eh sì
-PST038	e qualche cosa ci manca qualche frutta tropicale che ovviamente penso che por questione di trasporti tempo non si riuscirebbe mai a che arrivassero qua mai sono cose che ancora non ci sono
+PST038	e qualche cosa ci manca qualche frutta tropicale che ovviamente penso che #por questione di trasporti tempo non si riuscirebbe mai a che arrivassero qua mai sono cose che ancora non ci sono
 PST211	ah ah
 PST038	però no non non ci possiamo lamentar troviamo di tutto
 PST211	mh
@@ -1074,7 +1074,7 @@ PST211	mh mhmh
 PST038	tutto quello che per preparar i nostri piatti adesso sì
 PST211	bene
 PST211	e tu sai qualche altra lingua oltre l'italiano e lo spagnolo
-PST038	oltre all'italiano e allo spagnolo beh fino alle superiori ho fatto como seconda lingua l'inglese
+PST038	oltre all'italiano e allo spagnolo beh fino alle superiori ho fatto #como seconda lingua l'inglese
 PST211	mh mh
 PST038	però non lo pratico no
 PST211	no
@@ -1094,7 +1094,7 @@ PST038	tu e tuo padre e a me paghi l'università
 PST038	e si sono messi a ridere e gli ho detto mi scusa che non posso andare gli ho detto non posso andare
 PST211	perché infatti
 PST038	eh
-PST038	cosa c'è de male
+PST038	cosa c'è #de male
 PST211	eh sì
 PST038	e le le dico così no le dico e vabbè
 PST038	quello che si ha fatto si ha fatto le ho detto a mio figlio c'è tempo per tutto e c'è tempo per tutto non c'è niente da fare
@@ -1108,23 +1108,23 @@ PST211	mh mh
 PST038	eh mio marito lavora è un tecnico per la telecom però
 PST038	eh si poteva sì s~
 PST038	stiamo bene si campa eh stiamo non ci lamentiamo
-PST038	però porque lavoriamo in due
+PST038	però #porque lavoriamo in due
 PST211	mh mh
 PST038	andare all'università poi avevo il ragzzi~ e il il piccolino
 PST211	eh sì
 PST211	eh sì
 PST038	chi me lo teneva
 PST211	mh mh
-PST038	e allora en el anno duemilaquattro mi avevano detto che potevo solo convalidare i miei corsi
+PST038	e allora #en #el anno duemilaquattro mi avevano detto che potevo solo convalidare i miei corsi
 PST211	eh
 PST038	tradurli
-PST038	porque ci sono dei crediti che io forse non li ho fatti e che devono cose italiane che le devo fare no
+PST038	#porque ci sono dei crediti che io forse non li ho fatti e che devono cose italiane che le devo fare no
 PST211	eh eh
 PST211	eh
 PST038	però eh
-PST038	ho lasciato perdere lì poi son rimasta incinta poi el bambino quien lo guarda
+PST038	ho lasciato perdere lì poi son rimasta incinta poi #el bambino #quien lo guarda
 PST038	poi lavori part time
-PST038	poi el ragazzo cresce subentrano altre cose
+PST038	poi #el ragazzo cresce subentrano altre cose
 PST211	eh sì
 PST038	ehm
 PST038	e comunque io sono soddisfatta perché serve a mio figlio
@@ -1151,12 +1151,12 @@ PST038	pagati da mangiare o lavori o estudi
 PST211	eh sì
 PST038	perché come mangi
 PST211	eh no x
-PST038	e come ti paghi el affitto
+PST038	e come ti paghi #el affitto
 PST038	non si poteva
 PST038	però va bene così adesso ci indirizziamo su quelli come ripeto che vengono dietro e che hanno tante difficoltà
 PST211	mh mh
 PST038	almeno
-PST038	de che possano
+PST038	#de che possano
 PST038	almeno trovarsi un
 PST038	piccoletto
 PST038	ra~ un posto a un rayo di sole
@@ -1169,7 +1169,7 @@ PST038	come come viene
 PST211	speriamo mh mh
 PST038	per tutti noi per tutti noi
 PST211	eh sì
-PST038	io espero mh di essere stata esauriente se vuole ancora qualche altra cosa di parlare
+PST038	io #espero mh di essere stata esauriente se vuole ancora qualche altra cosa di parlare
 PST211	va bene
 PST211	sì sì
 PST211	no grazie grazie è più che sufficiente grazie mille
