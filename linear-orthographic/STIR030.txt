@@ -17,7 +17,7 @@ PST094	oggi come oggi sono andata a scuola
 PST094	con i miei alunni
 PST094	e la sera ho preso il pullman e sono partita per l'italia
 PST094	arrivata qua
-PST094	sinceralmente
+PST094	$sinceralmente
 PST094	un po'
 PST094	mi è dispiaciuto
 PST094	quando cominciavo eh cominciavano
@@ -51,7 +51,7 @@ PST094	ehm
 PST094	non c'erano di questi centri
 PST094	e visto che io facevo per altri popoli il volontariato
 PST094	ho ho deciso di aprire qualcosa per
-PST094	per i rumeni di più per i prevelan~ prevelentamente per i rumeni
+PST094	per i rumeni di più per i $prevelan~ $prevelentamente per i rumeni
 PST094	così
 PST094	da lì abbiamo detto no dobbiamo mantenerci anche la nostra identità
 PST094	quindi abbiamo cominciato a fare cultura tramite l'educazione
@@ -136,7 +136,7 @@ PST092	adesso ho visto che sta arrivando sempre più gente lei come si sente
 PST092	perché comunque è anche una grande responsabilità sia per i viaggi
 PST092	x le vacanze
 PST094	ehm
-PST094	certo che questa è una gratitune e ti devi sentir bene
+PST094	certo che questa è una $gratitune e ti devi sentir bene
 PST094	però
 PST094	il problema è che
 PST094	mh
@@ -144,7 +144,7 @@ PST094	non lo so se riusciamo a lasciare la gente a veni~ a arrivarci
 PST094	a un numero infinito perché se io non conosco ognuno di voi in parte
 PST094	i risultati non saranno più gli stessi
 PST094	quindi
-PST094	mh sinceralmente con il cuore vi dico che
+PST094	mh $sinceralmente con il cuore vi dico che
 PST094	riceverò
 PST094	solo quelli che io riesco come una ch~ chioccia
 PST094	a coprire
@@ -208,7 +208,7 @@ PST203	italo-rumene
 PST203	come come vivete questa cosa
 PST203	questo essere un po' di qua un po' di là
 PST094	ehm
-PST094	guarda sinceralmente è una cosa bellissima
+PST094	guarda $sinceralmente è una cosa bellissima
 PST094	quando hai qualche collega italiano davanti
 PST094	ti svegli che stai parlando rumeno
 PST094	ti trovi lì
@@ -218,7 +218,7 @@ PST094	ho utilizzato un'altra lingua
 PST094	ehm
 PST094	però
 PST094	io come i~ mh
-PST094	sinceralmente non non la trovo una cosa snaturata
+PST094	$sinceralmente non non la trovo una cosa snaturata
 PST094	è una cosa normale
 PST094	e
 PST094	è una cosa bellissima perché sei più ricco
@@ -243,8 +243,8 @@ PST094	e poi ti buttano due parole in rumeno
 PST094	o a contrario parlano in rumeno e ti butta qualche parola in italiano
 PST094	e quella a me in
 PST094	mi è piaciuto mi è piaciuta quella cosa
-PST094	e io l'ho fatta una #piesă di teatro che si chiamava in romaliano
-PST094	però romeliano no romeliano
+PST094	e io l'ho fatta una #piesă di teatro che si chiamava in $romaliano
+PST094	però $romeliano no $romeliano
 PST094	però
 PST094	dai le pareri sono anche divise
 PST094	ehm
@@ -252,7 +252,7 @@ PST094	è vero che se vuoi mantenere una lingua
 PST094	allora la mantieni e la parli come si deve
 PST094	senza mischiare le parole
 PST094	però per divertimento è anche bello
-PST094	a un certo punto avevamo anche un quaderno di neologisme
+PST094	a un certo punto avevamo anche un quaderno di $neologisme
 PST094	per~
 PST094	quando facevamo in lingua romena con i ragazzi
 PST094	gli usciva di tutto e di più
@@ -275,7 +275,7 @@ PST203	quindi la normalità delle famiglie che vivono qui è usare un po' l'ital
 PST094	certo
 PST094	certo certo
 PST094	è una normalità
-PST094	e poi i ragazzi tra di loro comunque parnalo parlano italiano
+PST094	e poi i ragazzi tra di loro comunque $parnalo parlano italiano
 PST094	ehm
 PST094	al pr~ mh
 PST094	all'inizio sai quando ero un po' più chiusa così
@@ -375,7 +375,7 @@ PST094	dovrei avere una giornata di trenta ore
 PST094	però è una co~ è una musica che è soprattutto per
 PST094	ehm non vorrei mh
 PST094	non non dico ma è un genere di musica
-PST094	che non è culta
+PST094	che non è $culta
 PST094	colta
 PST094	okay
 PST094	non essendoci una musica bella io non lo faccio nemmeno il testo non ti dice niente
@@ -487,7 +487,7 @@ PST092	l'ho sentita spesso dire che comunque la musica che usa
 PST092	è una musica che
 PST092	sta molto a cuore sia a lei ma che comunque rispecchia molto le zone
 PST092	quanto ci vuole di solito per formare un ballo o comunque trovare le canzoni adatte
-PST094	ma guarda su questo ti posso dire che c'è il nostro coregrafa coreografo
+PST094	ma guarda su questo ti posso dire che c'è il nostro $coregrafa coreografo
 PST094	e il l'istruttore
 PST094	e
 PST094	che mh
@@ -530,7 +530,7 @@ PST094	vocine
 PST094	per farle diventare autonomi e
 PST094	maturi~ m~ maturarli
 PST092	del #centru cos'è che le piace di più a parte i ragazzi cosa le dà proprio la spinta
-PST094	sinceralmente
+PST094	$sinceralmente
 PST094	no perché se mi mancano i ragazzi non vedo perché dovrei venire
 PST092	quindi principalmente è tutto per i ragazzi
 PST094	eh tutto per i ragazzi
@@ -659,7 +659,7 @@ PST092	del #centru
 PST092	perché so la storia di molte stanze
 PST092	e anche che è cambiato molto l'ordine e c'è la stanza di #bunici che è quella che fa commuovere molte mamme
 PST092	la sua preferita qual è
-PST094	sinceralmente
+PST094	$sinceralmente
 PST094	la mia preferita è quella stanza da dove vengono i più risultati dai ragazzi
 PST094	per me è indifferente
 PST094	posso essere anche su corridoio
@@ -674,7 +674,7 @@ PST094	ehm un conforto agli alunni
 PST094	non ho mai pensato a un conforto per me
 PST094	perché se
 PST094	i miei eh alunni
-PST094	sono comfortabili hanno un ambiente bello
+PST094	sono $comfortabili hanno un ambiente bello
 PST094	mi danno i risultati
 PST094	i loro risultati
 PST094	c'è il mio stato di benessere

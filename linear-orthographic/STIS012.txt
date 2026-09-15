@@ -53,10 +53,10 @@ PST203	xxxx usare tutta la strumentazione #tal #equipo
 PST203	qual è il problema dimmi
 PST210	non si vede proprio
 PST203	xxx
-PST203	facciamo un'altra xx con #el #nombre #también #asì #hacemos #otra #toma
+PST203	facciamo un'altra xx #*con #el #nombre #también #asì #hacemos #otra #toma
 PST064	ha llamado
 PST210	ah okay
-PST210	#_ zero
+PST210	#_ #*zero
 PST210	a posto
 PST203	#_ @mary (.) mira xxx
 PST203	xxxxx
@@ -96,7 +96,7 @@ PST065	sì
 PST064	eh
 PST064	duemila e venti due
 PST064	faremo due anni praticamente a settembre e
-PST065	ah il tre de settembre
+PST065	ah il tre #*de settembre
 PST064	non è non è il primo ristorante già nel duemila e sedici ho avuto uno
 PST064	#en
 PST064	e poi ho avuto una società nel duemila diciannove credo
@@ -119,11 +119,11 @@ PST064	io sono arrivata a dicembre del duemila e uno
 PST203	mhmh
 PST064	come sempre
 PST064	eh dopo tre mese #ya noi diventiamo illegale
-PST064	poi ho lavorato grazie a dio s~ ho lavorato sempre sempre ho lavorato sai che quando uno arriva eh abbiamo un po' de problemi con la lingua no
+PST064	poi ho lavorato grazie a dio s~ ho lavorato sempre sempre ho lavorato sai che quando uno arriva eh abbiamo un po' #*de problemi con la lingua no
 PST064	però in quel periodo forse #eramo pochi ancora
-PST064	e allora c'erano tanti centro de ascolti de suore queste cose e allora andavamo sempre lì
+PST064	e allora c'erano tanti centro #*de ascolti #*de suore queste cose e allora andavamo sempre lì
 PST203	mhmh
-PST064	andavamo a estudiare al mattino presto fino a mezzogiorno all'una così pure lì ci davano il pranzo
+PST064	andavamo a $estudiare al mattino presto fino a mezzogiorno all'una così pure lì ci davano il pranzo
 PST064	ci regalavano il biglietto per il pullman ci portavano ai musei così no
 PST203	e ti hanno aiutato loro con il bar mhmh
 PST064	loro
@@ -152,9 +152,9 @@ PST064	allora abbiamo cominciato con i clienti latinoamericani no solo peruviani
 PST203	paraguagi ci sono
 PST064	peru~
 PST064	sì ci sono anche
-PST064	però de #ya
+PST064	però #*de #ya
 PST064	forse otto nove mesi abbiamo cominciato ad avere gli italiani adesso abbiamo tanti clienti italiani
-PST064	a volte sembra che fosse una serata di italiani perché rempimo tutto di italiani non lo so se si mettono de accordo non lo so però
+PST064	a volte sembra che fosse una serata di italiani perché $rempimo tutto di italiani non lo so se si mettono #*de accordo non lo so però
 PST203	xx
 PST203	e conoscono un po' la cucina peruviana
 PST064	ma conoscono sì conoscono di più lo conoscono la #papa #a #la #huancaína
@@ -217,11 +217,11 @@ PST065	così almeno loro imparano lo spagnolo anche se mi dicono che devono parl
 PST065	per me a casa tranquillamente possono parlare l'i~ spagnolo
 PST065	poi tanto l'italiano lo imparano a scuola quindi
 PST203	certo
-PST065	ovviamente senza mischiare senza f~ parlare l'i~ l'itagnolo come sa italiano e spagnolo
+PST065	ovviamente senza mischiare senza f~ parlare l'i~ l'$itagnolo come sa italiano e spagnolo
 PST065	e parlare o
-PST203	e si parla tanto di questo itagnolo
+PST203	e si parla tanto di questo $itagnolo
 PST065	esa~ esatto esatto
-PST064	fa come mia figlia una è nata qua e lei è più difficile parlare l'espagnolo che l'italiano mischia tutto e poi parla a ra~
+PST064	fa come mia figlia una è nata qua e lei è più difficile parlare l'$espagnolo che l'italiano mischia tutto e poi parla a ra~
 PST065	eh
 PST065	vabbè anch'io eh anch'io anche se ho quattordici anni in italia anche se ho studiato qua delle volte se sto tanto tempo con mh peruviani mi viene più che altro mischio
 PST064	dello spagnolo
@@ -244,9 +244,9 @@ PST064	che sarebbe ca~ che sarebbe #castellano
 PST210	xxx
 PST065	in #españa si parlano tipo il castigliano una roba strana
 PST064	spagna
-PST064	sì no loro sono les proprio de #españa #españo~ noi #el #castellano che
-PST064	ma l'accentuazione è un po' diversa
-PST064	anche dipende de de~ ~pende de ogni città abbiamo un po' di
+PST064	sì no loro sono les proprio #*de #españa #españo~ noi #el #castellano che
+PST064	ma l'$accentuazione è un po' diversa
+PST064	anche dipende #*de de~ ~pende #*de ogni città abbiamo un po' di
 PST203	sì
 PST065	ah beh sì il dialetto
 PST064	quello non è tanto tanto uguale davvero
@@ -271,15 +271,15 @@ PST203	mhmhmh
 PST203	voi di dove siete nel perù
 PST064	io del #sur lei del #norte
 PST203	ah
-PST064	lei trujillo io cañete a due ore e mezza de lima
+PST064	lei trujillo io cañete a due ore e mezza #*de lima
 PST065	sì
 PST203	mh
 PST203	eh ma senti torniamo un po' chiediamo qualcosa sui piatti
 PST210	mi potresti dire per favore il suo piatto preferito di entrambi
 PST064	allora #como te l'ho detto prima no
-PST064	al #sur noi abbiamo proprio un piatto ogni città hanno i su piatti tipici no
+PST064	al #sur noi abbiamo proprio un piatto ogni città hanno i #*su piatti tipici no
 PST064	al s~ ma no solo cañete
-PST064	pe~ siamo sempre al #sur perché de lima viene prima cañete #ante di quello viene mala sia cañete poi passa a chincha pisco ica nazca
+PST064	pe~ siamo sempre al #sur perché #*de lima viene prima cañete #ante di quello viene mala sia cañete poi passa a chincha pisco ica nazca
 PST064	tutti in quella zona siamo per la #carapulchra con la #sopa #seca
 PST064	la #cara~ ~pulchra sarebbe un
 PST064	un piatto di mh quella patata idratata quella che lo fanno asciugare lì sulle ande proprio
@@ -292,15 +292,15 @@ PST064	e poi l'altro giorno #ya un po' morbida allora quello sarebbe eh la chiam
 PST203	mh mhmh
 PST064	che si fa bah se mettiamo le spezie nostra per fare quello no mettiamo anche le costine di maiale anche vuole come diceva lei la gallina
 PST064	dipende #porque noi stando nel nostro paese noi abbiamo
-PST064	come diciamo criamo degli animali no abbiamo le galline il tacchino e tutto questo
+PST064	come diciamo $criamo degli animali no abbiamo le galline il tacchino e tutto questo
 PST064	e allora voi noi non c'abbiamo problema per quello
 PST064	adesso io voglio cucinare questo vado prendo la gallina pum
 PST064	e cucino ma prendo la e l'anatra prendo il tacchino con quello #o sea non noi non c'abbiamo tanti problema di quelle cose lì
 PST065	prendo
 PST064	e allora possiamo fare però #en tutta quella zona del #sur facciamo eh dei piatti tipici
-PST064	uno de~ forse un pochettino diverso de l'altro qualcuno tiene l'altro patate più più più
+PST064	uno #*de~ forse un pochettino diverso #*de l'altro qualcuno #*tiene l'altro patate più più più
 PST203	mhmh
-PST064	che #sea entroso o più #cómo si dice
+PST064	che #sea $entroso o più #cómo si dice
 PST065	xxx
 PST064	meno granulato così fine fine
 PST203	ah
@@ -310,7 +310,7 @@ PST064	che si chiama #carapulchra con la #sopa #seca
 PST203	#carapulchra con la #sopa #seca
 PST064	sopa seca la sopa seca x sarebbe gli spaghetti
 PST203	mhmh
-PST064	#pero #ya messo tutto il #suco lì se cucina con #el #suco dentro
+PST064	#pero #ya messo tutto il #suco lì #*se cucina con #el #suco dentro
 PST203	ah
 PST064	no no la faccia~ eh sì eh beh noi lo facciamo a parte no no no
 PST203	tutto insieme
@@ -318,7 +318,7 @@ PST203	non all'italiana
 PST064	così
 PST065	xxx
 PST203	lei sa cucinare
-PST064	dipende de di #donde è #porque del #sur guarda che non è che #sea tan~ eh sembra debe che fosse però è un po'
+PST064	dipende #*de di #donde è #porque del #sur guarda che non è che #sea tan~ eh sembra debe che fosse però è un po'
 PST065	xxxxxxx
 PST203	mh mh mh mh
 PST065	cambia troppo
@@ -343,10 +343,10 @@ PST065	vengo qua mangio qua
 PST203	ma cosa volevo dire ma è è difficile cioè pe~ adesso vabbè voi lavorate nella ristorazione però cioè per una persona che fa un altro lavoro è difficile trovare gli ingredienti della cucina peruviana
 PST064	certo
 PST064	no adesso no
-PST064	de ma forse del duemila e quindici in poi a
+PST064	#*de ma forse del duemila e quindici in poi a
 PST064	ogni anno è stato un po' meno difficile #porque adesso arrivano le merci tutto a milano
 PST203	mh
-PST064	a del perù #directamente o de #españa perché di qua è un po' più controllato ancora no portare delle me~ invece una volta che entriamo all'#españa è più più facile
+PST064	a del perù #directamente o #*de #españa perché di qua è un po' più controllato ancora no portare delle me~ invece una volta che entriamo all'#españa è più più facile
 PST203	mhmh mhmh
 PST064	si trova quasi tutto
 PST203	quasi tutto
@@ -360,8 +360,8 @@ PST064	costa sì eh perché sono prodotti che arrivano anche via aerea
 PST203	certo
 PST064	via aerea ha un altro costo che è quello che arrivano eh sul mare no che ci vuole quasi un mesetto invece via aerea no
 PST065	sulla nave
-PST064	ci sono le per dire noi abbiamo mi sembra più di tremila varietà di pa~ de patate
-PST064	abbiamo noi come il mais de grano turco abbiamo tantissima varietà
+PST064	ci sono le per dire noi abbiamo mi sembra più di tremila varietà di pa~ #*de patate
+PST064	abbiamo noi come il mais #*de grano turco abbiamo tantissima varietà
 PST065	grano turco
 PST064	per dire le patate nostra costa #ya dodici euro al chilo
 PST203	xxxx
@@ -380,10 +380,10 @@ PST064	un piatto che mangiarlo quello mangiare quella patata è come mangiare un
 PST065	buonissimo
 PST064	capito perché è caro però si trova
 PST064	e la gente non tutti lo prendono un chilo forse
-PST064	uno va a preparare un brodo de gallina allora quel quella patata ma si scioglie proprio
+PST064	uno va a preparare un brodo #*de gallina allora quel quella patata ma si scioglie proprio
 PST065	mhmh
-PST064	e le dà un gusto speciale un espessore #y anche un po' di colore a quel brodo
-PST064	sa eh de #bastant~
+PST064	e le dà un gusto speciale un $espessore #y anche un po' di colore a quel brodo
+PST064	sa eh #*de #bastant~
 PST064	particulare perché è uno dei migliori che abbiamo noi
 PST064	con quello che costa però ci arriva
 PST203	ma eh co~ come mai voi avete scelto torino
@@ -392,7 +392,7 @@ PST064	io quando s~
 PST064	sai che quando entri mh
 PST064	per dire quando abbiamo deciso di venire qua all'italia eh
 PST064	lo so io sono stata per un po' da una #amiga ha detto vieni vieni lei era qua a torino
-PST064	#pero sono estata un po' no tanto anche per lavoro #en milano
+PST064	#pero sono $estata un po' no tanto anche per lavoro #en milano
 PST203	mh
 PST064	eh sai che non mi è piaciuto perché #porque mi sembra la capitale del mio paese a lima
 PST065	eh troppo movimentato troppo trop~ eh mh proprio non mi trovo
@@ -434,7 +434,7 @@ PST064	allora io al mattino guardo eh il tigi cinque eh quello appena mi sveglio
 PST065	mh
 PST064	poi guardo anche
 PST064	eh la notizia anche del mio paese mi piace anche la politica sempre sento tanto di qua #como del mio paese
-PST064	sì sempre esto #pendiente de qua e là sì sì
+PST064	sì sempre $esto #pendiente #*de qua e là sì sì
 PST210	entrambi
 PST203	come fai con internet
 PST064	sì con l'internet e qua
@@ -480,7 +480,7 @@ PST064	eh uno deve lavorare #porque sono i giorni che c'è più
 PST065	che c'è più gente c'è più movimento sì
 PST203	mhmh
 PST064	più gente e allora settimana è tutto chiuso no
-PST064	guarda che io de quando sono qua la prima volta che sono andata al mare è stata nel duemila e sedici
+PST064	guarda che io #*de quando sono qua la prima volta che sono andata al mare è stata nel duemila e sedici
 PST064	guarda che
 PST203	dopo quindici anni che eri qua
 PST064	per #el lavoro perché sempre era impegnata veramente non sono riuscita no perché sempre lavoravo
@@ -497,7 +497,7 @@ PST064	ci sono le onde sempre
 PST065	eh sì guarda che eh eh eh ed è molto più fredda l'acqua
 PST210	molto più divertente
 PST064	mh mh
-PST065	vabbè poi da parte mia cioè da parte de trujillo sono quaranta quaranta quarantacinque minuti da casa mia
+PST065	vabbè poi da parte mia cioè da parte #*de trujillo sono quaranta quaranta quarantacinque minuti da casa mia
 PST064	mh
 PST203	mhmh
 PST065	in macchina
@@ -523,7 +523,7 @@ PST064	ah quello sì sicuramente no noi invitiamo
 PST064	a forse venire a provarci assaggiare no eh #el la nostra gastronomia
 PST064	sai che la nostra la gastronomia peruviana è molto saporita
 PST064	è buona veramente dovete
-PST064	sì a nivele mundiale ya estamo
+PST064	sì a $nivele $mundiale ya $estamo
 PST065	è stata dichiarata una delle migliori quindi
 PST064	siamo #en sempre sempre #en #el primo cinque
 PST065	posto
@@ -535,9 +535,9 @@ PST064	poi abbiamo queste sabato e domenica c'è be~ facciamo la festa della pro
 PST065	la festa
 PST203	dove siete voi
 PST203	dove siete voi perché io vengo
-PST064	io starò adesso te do #en via petrella
+PST064	io starò adesso #*te do #en via petrella
 PST203	ah ah
-PST064	ah eh a partire de mezzogiorno sabato e domenica arrivano due artisti del perù
+PST064	ah eh a partire #*de mezzogiorno sabato e domenica arrivano due artisti del perù
 PST210	ma ci sarà
 PST064	ba~ eh #habrá della gastronomia diversa faremo anche la griglia perché non si può fare qua
 PST064	eh faremo anche la #cajachina la famosa #cajachina dobbiamo portare quella #caja #porque si può

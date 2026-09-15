@@ -177,11 +177,11 @@ PST145	ehm e niente questo
 PST145	poi eh dopo
 PST145	ho fatto le medie
 PST145	eh le professoresse io volevo fare prima ehm odontotecnico non so se sai che cos'è
-PST222	so già odontiatria studiato già odontiatria
+PST222	so già $odontiatria studiato già $odontiatria
 PST145	eh esatto
 PST222	che studia denti
 PST145	però eh praticamente nella città dove vivo io
-PST222	okay in moracco
+PST222	okay in $moracco
 PST145	eh si chiama ispica
 PST145	provincia di ragusa
 PST222	ah okay okay qua in italia
@@ -261,7 +261,7 @@ PST145	certo
 PST222	quindi magari loro hanno ragionamento
 PST145	certo
 PST222	perché anche prima io anche in egitto anche qua
-PST222	criticavo come fossa
+PST222	criticavo come $fossa
 PST222	stru~ eh strutturata
 PST145	strutturata
 PST145	eh
@@ -304,7 +304,7 @@ PST222	no
 PST222	tu continua di studiare questo forse c'è un altro un'altra materia di lì un altro insegnamento di qua
 PST222	e magari trovi un altro tirocinio per esempio
 PST222	un altro progetto
-PST222	eh tu continui la la studia
+PST222	eh tu continui la la $studia
 PST222	okay
 PST145	eh
 PST222	non è finita dopo laurearsi
@@ -323,10 +323,10 @@ PST222	se non impari qualcosa nuova ogni giorno
 PST222	altra gente s~ sii sicura che altra gente
 PST222	ti hanno avanzata
 PST145	è vero
-PST222	hanno preso un altro privelaggio di te
+PST222	hanno preso un altro $privelaggio di te
 PST222	e più studi
 PST222	più fai succe~ successi okay
-PST222	eh più prendi privi~ privilagio
+PST222	eh più prendi privi~ $privilagio
 PST145	privilegio
 PST222	privilegi okay
 PST222	scusa il mio italiano non è xx
@@ -547,7 +547,7 @@ PST222	no però
 PST145	non hanno
 PST222	stud~ no studio bene
 PST222	quando studio bene
-PST222	sono molto molto fidutato di me
+PST222	sono molto molto $fidutato di me
 PST222	sono molto sicuro di me
 PST145	bravo io no
 PST146	beh in effetti meglio così
@@ -663,7 +663,7 @@ PST222	no in modo più pratico
 PST145	cioè proprio in modo molto più pratico
 PST145	infatti io non credo che non avrei mai imparato lo spagnolo se non andavo
 PST145	in spagna
-PST222	immersersi immersersi immergersi nella
+PST222	$immersersi $immersersi immergersi nella
 PST145	immer~ immergersi nella nella cultura sì
 PST222	nella cultura x
 PST145	che poi a barcellona non parlano solo spagnolo
@@ -801,8 +801,8 @@ PST222	anche io soffro di questa roba la cosa più difficile di imparare un ling
 PST146	eh sì
 PST222	le parole che si assomigliano
 PST146	mh
-PST222	tipo percepire e percipitare
-PST222	percipita~
+PST222	tipo percepire e $percipitare
+PST222	$percipita~
 PST146	precipitare
 PST145	precipitare e percepire okay
 PST222	precipitare
@@ -875,8 +875,8 @@ PST145	giusto
 PST222	sì okay
 PST222	eh questa cosa mi fa mi fa impazzire
 PST222	nella sì nella lingua
-PST222	per la mancanza della lingua sua ca~ carisità
-PST222	carisità della lingua
+PST222	per la mancanza della lingua sua ca~ $carisità
+PST222	$carisità della lingua
 PST145	scarsità
 PST222	scarsità della lingua sì
 PST146	okay
@@ -959,7 +959,7 @@ PST145	im~ im~ presto
 PST222	prendi in prestito giusto dalla banca
 PST146	prendi in prestito sì
 PST145	esatto
-PST222	e imprestito non l'ho mai vista non ho mai ascoltato questa parola
+PST222	e $imprestito non l'ho mai vista non ho mai ascoltato questa parola
 PST146	no ma
 PST145	eh io infatti la prima volta che ho sentito la parola imprestare è stata qui a torino ti impresto
 PST222	imprestare
@@ -1182,12 +1182,12 @@ PST222	#zbīb sì
 PST145	eh
 PST222	una volta una volta
 PST222	ho chiesto a mh a
-PST222	come si chiama la persona che fa la dolcia
+PST222	come si chiama la persona che fa la $dolcia
 PST222	panetteri~
 PST145	eh pasti~ pasticceria
 PST146	pasticcere
 PST222	pasticceria pasticceria
-PST222	fate dei prodetti con zibibbo
+PST222	fate dei $prodetti con zibibbo
 PST145	ah
 PST222	okay e io ho detto que~ l'ho pronunciata qua ho pronunciato questa frase così
 PST222	non mi hanno capito
@@ -1271,7 +1271,7 @@ PST145	le lentiggini
 PST222	sì lentiggini sul viso
 PST145	mh mh
 PST222	in egitto si chiama #zibībā
-PST145	zibibbe le lentiggini
+PST145	$zibibbe le lentiggini
 PST222	quando esce qua sul viso
 PST145	ah ah x
 PST222	okay si chiama #zibībā
@@ -1282,7 +1282,7 @@ PST222	sì
 PST222	molto pazzo zibibbo
 PST145	sì
 PST222	#zibībo per esempio questo ragazzo
-PST222	con #zibībā eh al suo gua~ eh guancio
+PST222	con #zibībā eh al suo gua~ eh $guancio
 PST146	guance
 PST222	guance
 PST145	guance
@@ -1493,7 +1493,7 @@ PST145	all'arabo eh classico
 PST145	ormai che delle recen~ dei recenti studi lo hanno dimostrato
 PST222	il marocchino il #darija
 PST145	tu cerca e vedi
-PST222	il moracchino ma io studio questo a~ questo è il mio ambito
+PST222	il $moracchino ma io studio questo a~ questo è il mio ambito
 PST145	per me
 PST145	cioè dal mio punto di vista
 PST222	no
@@ -1545,7 +1545,7 @@ PST222	quindi yemen
 PST222	hanno ancora il loro dialetto
 PST222	hanno considerato un arabo standard
 PST222	tipo parallelo
-PST222	paralleleo dell'arabo standard
+PST222	$paralleleo dell'arabo standard
 PST145	okay
 PST222	okay
 PST222	eh quindi il yemen ha un'altra situazione
@@ -1555,7 +1555,7 @@ PST222	eh che hanno quasi questo mh situazione
 PST222	ehm
 PST222	in kuwait e iraq
 PST222	hanno un dialetto
-PST222	molto comunante
+PST222	molto $comunante
 PST145	mh mh
 PST222	okay molto diverso
 PST222	saudi arabia qatar dubai
@@ -1569,7 +1569,7 @@ PST222	ognuno di questi dialetti di questi lingue
 PST222	sono tipo
 PST222	lingue ufficiali della lingua araba
 PST145	e marocchino per esempio
-PST222	e il moracchino non esiste non non è correlato all'arabo standard
+PST222	e il $moracchino non esiste non non è correlato all'arabo standard
 PST145	bene
 PST222	perché è un mix tra
 PST222	eh spagnolo
@@ -1650,7 +1650,7 @@ PST222	okay
 PST222	poi viene l'effetto della cinema
 PST222	viene l'effetto del eh notizia
 PST222	eh
-PST222	ci sono tanti attori moracchini in egitto
+PST222	ci sono tanti attori $moracchini in egitto
 PST145	mh
 PST222	okay tanti attori tunisini in egitto
 PST222	io non ne non mi sono non me ne sono accorto di questi attori
@@ -1680,11 +1680,11 @@ PST222	io posso io posso consigliarti
 PST222	per certa ci sono dei piccoli eh cambiamenti
 PST222	facciamo delle parola
 PST222	e poi diventano egiziane egiziane
-PST222	egizionali xx okay
+PST222	$egizionali xx okay
 PST222	però è molto ti consi~ ti consiglio veramente di guardare questo film di di commedia
 PST145	lo farò
 PST145	lo farò
-PST222	e ti tirà ti tira
+PST222	e ti $tirà ti tira
 PST222	una scena dopo scena un film dopo un film
 PST222	una serie dopo una serie e poi ti ti trovi nel nel mare
 PST145	stasera si guarda
@@ -1723,7 +1723,7 @@ PST145	sì
 PST222	nove anni
 PST145	ti dico otto perché sono
 PST145	sì otto forse
-PST222	secondo me nova
+PST222	secondo me $nova
 PST222	all'età di nove anni basta
 PST222	scrivere l'arabo giusto
 PST145	sì io so leggerlo
@@ -1744,7 +1744,7 @@ PST222	e generalmente non fai esercizi per migliorare la scrittura
 PST222	la scrittura
 PST145	dovrei ma non faccio
 PST145	non li faccio
-PST222	non ti piace la la calligrafa la calligrafia araba
+PST222	non ti piace la la $calligrafa la calligrafia araba
 PST145	mi piace infatti mi dispiace però non so perché non ho mai eh
 PST145	non mi sono mai messa lì a farlo
 PST145	uno perché in sicilia non abbiamo
@@ -2229,7 +2229,7 @@ PST145	abnorma~ bravo
 PST222	dove so~ dov'è il rumore del eh
 PST146	eh sì perché non si sente niente
 PST145	c'è stato un silenzio
-PST222	anneggiare si chiama anneggiare
+PST222	$anneggiare si chiama $anneggiare
 PST146	annegare
 PST145	annegare no non annegavamo perché comunque cioè penso che è stato quello hanno detto che è stato un
 PST222	annegare
@@ -2256,7 +2256,7 @@ PST145	esco c'era c'erano tipo i camerieri io gli faccio ma
 PST222	poverina
 PST145	che è successo mi fanno eh siamo in stand by grazie
 PST145	io gli faccio vabbè io svengo sul posto cioè
-PST222	come ti sentiressi
+PST222	come ti $sentiressi
 PST222	okay
 PST222	se una volta nella nave
 PST222	trovi l'acqua sta entrando nella tua stanza
@@ -2563,7 +2563,7 @@ PST222	okay puoi avere la possibilità di cambiare
 PST222	eh la il biglietto
 PST145	ah sì vero
 PST222	di spostare okay
-PST222	e di rimandiare o rinviare il biglietto
+PST222	e di $rimandiare o rinviare il biglietto
 PST145	c'è questa possibilità
 PST146	okay sì
 PST222	okay

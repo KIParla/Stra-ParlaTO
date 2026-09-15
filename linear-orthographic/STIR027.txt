@@ -843,7 +843,7 @@ PST077	però ipotizziamo
 PST082	ipotizzando
 PST077	eh
 PST077	se questo succederà in italia sicuramente l'italiano sarà la li~ la lingua eh
-PST077	che prevalerà di più
+PST077	che $prevalerà di più
 PST082	mh mh
 PST077	però i~ cercherò di insegnargli anche il rumeno perché eh
 PST077	fa parte eh
@@ -1004,8 +1004,8 @@ PST077	non si sa se eh
 PST082	ehm tipo mh
 PST082	che cosa vorresti fare nel dottorato
 PST077	eh ne ho parlato con con il professore e
-PST077	sarebbe interessanto
-PST077	interessanto sì
+PST077	sarebbe $interessanto
+PST077	$interessanto sì
 PST077	interessante
 PST077	eh
 PST077	la eh

@@ -134,10 +134,10 @@ PST203	dimmi
 PST092	puoi aprire un po' la porta
 PST092	xxx
 ??	xxx
-PST092	zambibambi
-???	zambibambi l'ho inventato io
+PST092	$zambibambi
+???	$zambibambi l'ho inventato io
 ??	okay
-??	per me è zambibambi se mi dici zamfir non so manco chi è
+??	per me è $zambibambi se mi dici zamfir non so manco chi è
 PST085	ah
 PST085	#dar #ce hai fatto un video
 PST085	#_ serios

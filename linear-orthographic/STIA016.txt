@@ -33,8 +33,8 @@ PST078	eh è iniziata a lavorare
 PST078	ho
 PST078	dic~ ehm dodici anni
 PST078	eh iniziato come lavoro che faccio eh
-PST078	el contadino
-PST078	e poi l con animali
+PST078	#*el contadino
+PST078	e poi #*l con animali
 PST078	mi è andata la vita così
 PST078	fino
 PST078	fino
@@ -53,8 +53,8 @@ PST078	eh mia amica è stata qui italia ma adesso andata
 PST078	andata germania
 PST078	eh
 PST078	lei era stata qui italia con suo marito suo marito che le fa
-PST078	#_ el
-PST078	el posto per
+PST078	#_ #*el
+PST078	#*el posto per
 PST078	per venire
 PST078	gente qui eh italia
 PST078	eh poi eh io ero stata lavorare con loro
@@ -66,7 +66,7 @@ PST078	con la chiavi a casa di loro
 PST078	eh poi
 PST078	ogni giorni che parlato con me mia amica
 PST078	mi ha detto che
-PST078	se vuoi li darmi əl fotocopia del passaporto
+PST078	se vuoi li darmi #*əl fotocopia del passaporto
 PST078	eh
 PST078	li facciamo prova
 PST078	perché io
@@ -78,7 +78,7 @@ PST078	eh
 PST078	sta qui italia
 PST078	e poi lei andata
 PST078	eh
-PST078	le le dato əl~ eh
+PST078	le le dato #*əl~ eh
 PST078	fotocopia del passaporto
 PST078	eh lei ha fatto
 PST078	fatto una
@@ -89,7 +89,7 @@ PST078	solo co~ come scherzo non non non mi credo che
 PST078	arriva questa una bella sorpresa
 PST078	però è venuta
 PST078	eh uscito l~ eh la domanda
-PST078	eh poi quando andata al eh əl consolato di di di ita~ di i~ i~ italia
+PST078	eh poi quando andata al eh #*əl consolato di di di ita~ di i~ i~ italia
 PST078	io pensavo che
 PST078	forse sì forse no
 PST078	però
@@ -107,7 +107,7 @@ PST078	e ho fatto la pratica
 PST078	eh la pratica di
 PST078	eh come si chiama
 PST078	eh
-PST078	#_ dil
+PST078	#_ #*dil
 PST078	per
 PST078	per badanti e che lavorano badanti eh
 PST078	colf
@@ -134,14 +134,14 @@ PST078	e quale qualche problema
 PST223	difficoltà visto che la cultura è completamente differente visto che sei cresciuta
 PST078	eh
 PST078	ec~ eh sì sì sì assolutamente sì
-PST078	eh perché el eh come
+PST078	eh perché #*el eh come
 PST078	lì
 PST078	a marocco una cosa
 PST078	eh italia un'altra eh sai che io mai studiato anche
 PST078	eh
 PST078	ho trovato ehm
 PST078	ehm
-PST078	fatica per eh parlari lingua
+PST078	fatica per eh $parlari lingua
 PST078	manca lingua manca tante cosa
 PST078	eh
 PST078	forse
@@ -180,13 +180,13 @@ PST223	mh
 PST223	come ti sei trovata a relazione con gli italiani
 PST078	ehm
 PST078	con italiani
-PST078	era prima io parlo uso solo əl google
+PST078	era prima io parlo uso solo #*əl google
 PST078	su su internet
 PST078	come
 PST078	eh
 PST078	manca lingua però io uso l' eh l'internet
 PST078	sul google
-PST078	eh io le faccio əl-voci
+PST078	eh io le faccio #*əl-voci
 PST078	google
 PST078	vicino la signora lei eh l~ eh li fa
 PST078	tutte le cose c~ che voleva
@@ -250,15 +250,15 @@ PST223	mh
 PST078	come vicini come la famiglia come
 PST078	era la famiglia quando andare
 PST078	o solo
-PST078	una settimana oppure qualchi giorni
+PST078	una settimana oppure $qualchi giorni
 PST078	eh
 PST078	staccare per vicini quando tu torni a casa
 PST078	loro che vengono tutti
 PST078	eh per salutarti li portano
 PST078	eh
 PST078	merenda oppure colazioni
-PST078	eh che stanno con te come passata el
-PST078	el viaggio come stata con la fami~ tua famiglia
+PST078	eh che stanno con te come passata #*el
+PST078	#*el viaggio come stata con la fami~ tua famiglia
 PST078	e adesso no
 PST078	è vero sì
 PST223	ehm
@@ -308,10 +308,10 @@ PST078	venti venticinque euro eh cosa vuoi fare
 PST078	devi
 PST078	aggiustare per lavorare
 PST078	per la spesa per è venuto tutto caro
-PST078	alzata əl əl prezzo per la spesa per tutti
+PST078	alzata #*əl #*əl prezzo per la spesa per tutti
 PST223	vabbè anche qua in italia si è alzato
 PST078	eh però
-PST078	quando əl persona lavorare non non c'ha problemi di niente
+PST078	quando #*əl persona lavorare non non c'ha problemi di niente
 PST078	lì anche lavori con
 PST078	dieci euro a giorni
 PST078	a giorni quando le spesa che le fai
@@ -331,17 +331,17 @@ PST078	quindici giorni
 PST078	perché l
 PST078	tolgono l~ l chili
 PST078	quando le fanno
-PST078	quando le caricano l~ eh əl bombola
-PST078	non si fanno tutti əl kili che cioè
-PST078	adesso meno tre chili o quattro chili che tolgono del bombola grande
+PST078	quando le caricano l~ eh #*əl bombola
+PST078	non si fanno tutti #*əl kili che cioè
+PST078	adesso meno tre chili o quattro chili che tolgono #*del bombola grande
 PST078	e poi
 PST078	più
 PST078	la spesa verdura la carne
 PST078	è tanti
 PST078	a parti la luce
 PST078	adesso venuto un altro prezzo che pagare il pagamento di
-PST078	delle tass
-PST078	le tass eh
+PST078	delle #*tass
+PST078	le #*tass eh
 PST078	per lanno per sei di mesi no non lo so fanno
 PST223	ma da quando sei venuta in italia non sei più andata in marocco
 PST078	non ancora
@@ -365,7 +365,7 @@ PST223	cioè ti trovi bene qua con loro oppure
 PST078	no no io non non con marocchini mai fatto d'accordo
 PST078	no no no
 PST078	lavoro io sempre con gli italiani
-PST078	e quando fronti qualcuno eh
+PST078	e quando $fronti qualcuno eh
 PST078	una salutata e basta
 PST078	non
 PST078	non tanto che stai con loro perché loro che
@@ -380,7 +380,7 @@ PST078	e miei fratelli vicino
 PST078	ci tua papà ci
 PST078	tue zii due
 PST078	mia mamma con me
-PST078	c'è mia sorella in fransa
+PST078	c'è mia sorella in $fransa
 PST078	c'è mia sorella
 PST078	eh in spagna
 PST078	eh siamo qui
@@ -414,7 +414,7 @@ PST078	non il problema di di
 PST078	come parlo ma il problema di
 PST078	di scrivere
 PST078	quando mi scrivo mi sbaglio
-PST078	mi sbaglio qualchi punti
+PST078	mi sbaglio $qualchi punti
 PST078	però
 PST078	andava bene
 PST078	eh piano piano
@@ -461,7 +461,7 @@ PST078	a ascoltare tanti cosa per capire
 PST078	eh
 PST078	però io andata tutta la famiglia che stata con loro sto bene
 PST078	sto bene
-PST078	cioè qualchi
+PST078	cioè $qualchi
 PST078	colleghi che
 PST078	dicono
 PST078	sai che parlano male dietro di l~ persona
@@ -481,9 +481,9 @@ PST078	c'è codici
 PST078	però io conosco solo io
 PST078	e lasciato telefono lì
 PST078	e andata e fatto una lavoro
-PST078	escoltato tutto cosa
+PST078	$escoltato tutto cosa
 PST078	mh cosa detto
-PST078	lei parlato con con əl padrone di lavoro
+PST078	lei parlato con con #*əl padrone di lavoro
 PST078	e poi e
 PST078	dopo io ascoltato tutto
 PST078	e
@@ -495,9 +495,9 @@ PST078	fotocamera
 PST078	al posto dove lavoriamo tutti insieme
 PST078	eh però lei ha stata una bugiarda
 PST078	eh
-PST078	ha detto tutto bugia non cioè nienta
-PST078	nienta s~ qualcosa da mh
-PST078	come diciamo giusti el la parola sembra
+PST078	ha detto tutto bugia non cioè $nienta
+PST078	$nienta s~ qualcosa da mh
+PST078	come diciamo giusti #*el la parola sembra
 PST078	xxx
 PST078	tutti chi detto non non c'è niente
 PST078	al contrario

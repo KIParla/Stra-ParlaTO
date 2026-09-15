@@ -541,7 +541,7 @@ PST039	prima non facevo fatica a mh eh andare da una lingua all'altra
 PST212	mh
 PST039	ora ehm magari sarà l'età
 PST039	le cellule del cervello che cambiano
-PST039	però devo conștientizzare di più rispetto a prima
+PST039	però devo $conștientizzare di più rispetto a prima
 PST039	il fatto che cambio da una lingua all'altra
 PST213	ah ah
 PST212	okay
@@ -549,7 +549,7 @@ PST039	perché se io per esempio mi era capitato qualche giorno fa ehm qui all'i
 PST039	eh era venuta una signora che aveva chiesto informazioni gli ho detto in rumeno
 PST039	e quando è venuta la mh collega
 PST039	mh dovevo parlargli in italiano ma io sono partita in automatico in rumeno perciò ho dovuto #conștient~ ehm insomma
-PST039	questo processo di conștientizzare la lingua
+PST039	questo processo di $conștientizzare la lingua
 PST039	mi ha sorpreso perché prima non ero così per dir~ sì sì
 PST213	era più automatico
 PST212	sì

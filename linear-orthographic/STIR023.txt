@@ -269,7 +269,7 @@ PST056	spesso e volentieri sì
 PST211	mh mh
 PST211	e tipo leggere fare
 PST211	non so guardare video guardare film
-PST056	sì mi viene facile ho iniziato a guardare video film in rumeno proprio perché sto cercando di padronare
+PST056	sì mi viene facile ho iniziato a guardare video film in rumeno proprio perché sto cercando di $padronare
 PST211	mh
 PST056	i
 PST057	padrone~

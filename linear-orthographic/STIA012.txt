@@ -44,7 +44,7 @@ PST032	su tutti i miei lavori sono li ho trovati grazie a passaparola gli amici
 PST211	okay
 PST032	sì
 PST211	e quindi che lingue parli tu
-PST032	parlo el arabo e italiano
+PST032	parlo #*el arabo e italiano
 PST211	okay e come hai fatto a imparare l'italiano~ diciamo è stato difficile hai
 PST212	okay
 PST032	sì
@@ -92,7 +92,7 @@ PST211	uno okay tuo figlio ha altre occasioni in cui parla arabo fuori da casa c
 PST032	sì
 PST032	sì con gli amici però parlano più italiano
 PST211	okay
-PST032	però quando vanno in marocco dimenticano l'italiano diventano veramente uni che sono grandi a parlare l'arabo come non sono neanche nati in italia
+PST032	però quando vanno in marocco dimenticano l'italiano diventano veramente $uni che sono grandi a parlare l'arabo come non sono neanche nati in italia
 PST211	ah
 PST211	ah fantastico
 PST032	sì sì con gli amici col vicini dimenticano la lingua

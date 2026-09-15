@@ -4,8 +4,8 @@ PST119	#_ praz
 PST119	#_ ce-ai mai pus aicea
 PST120	#_ cașcaval
 PST119	#ce #ai #pus #tu #cașcaval non è vero
-PST119	aspetta dau #eu #dă #și #mie una
-PST119	tu #mănânci
+PST119	aspetta dau #eu #dă #și #mie #*una
+PST119	#*tu #mănânci
 PST119	la vuoi
 PST120	xxx vorbea românește
 PST119	#_ el da el nu
@@ -75,7 +75,7 @@ PST120	#_ ți-o ți-o luat telefonul din mână și tu i l-ai dat
 PST118	da
 PST119	#_ da dar eu
 PST119	#_ ce-o scris
-PST118	#mi-a #făcut un messaggio vocale #a #spus #că
+PST118	#mi-a #făcut #*un messaggio vocale #a #spus #că
 PST119	mh
 PST120	#_ că ea vroia să vină acasă xxx
 PST118	#_ da
@@ -100,7 +100,7 @@ PST118	#_ mh nu nu nu (.) nu cred
 PST119	mh
 PST119	#ca praticamente #nu #nu #au #aceași
 PST118	#_ da da acum am ni~ niște (.) lecție
-PST119	#_ separate
+PST119	#_ #*separate
 PST118	#_ da
 PST119	#au același profil
 PST118	nu
@@ -210,7 +210,7 @@ PST119	#_ deci într-o
 PST119	#în praticamente #într-o #săptămână #în #două #zile #douăzeci #de #euro #păi #și #cât #e #abonamentul xx
 PST119	#_ dacă ai două zeci de euro pe săptămână xxx
 PST119	#într-un mese #optzeci #de #euro
-PST119	#abonamentul costă ottantasei
+PST119	#abonamentul #*costă ottantasei
 PST119	#_ plus că în fiecare zi să stai tu să faci bilet (.) nu-ți convine fă abonamentul
 PST118	nu convine
 PST119	#și #dupaia #dacă capita devi andare in giro a torino che ne so vai a
@@ -233,7 +233,7 @@ PST118	eh
 PST119	#_ nu mai mănânci
 PST118	no
 PST119	#_ fă-ți alt ceva
-PST119	#fă-ți un panino un #sandvici un #sadvici un toast
+PST119	#fă-ți #*un panino #*un #sandvici #*un #sadvici #*un toast
 PST118	un toast
 PST119	eh
 PST119	metti
@@ -257,7 +257,7 @@ PST120	#_ nu l-am terminat
 PST119	metti brie
 PST119	alla fine #asta a avut un malore ma #zice #că #a #mâncat #un #sendviș #din #ăla #știi #dinalea tramezzini #din #alea #nu
 PST119	prima
-PST119	autist #șo~ #dinăsta #de #la pullmanul #ăla #care #se rovesciază
+PST119	$autist #șo~ #dinăsta #de #la $pullmanul #ăla #care #se $rovesciază
 PST118	no
 PST119	eh c'è
 PST119	c'era qualcosa #în #sandvici che gli ha provocato una reazione così
@@ -326,7 +326,7 @@ PST119	mamma mia
 PST120	minchia a greenthesis eh
 PST120	un armadio blindato
 PST119	ma è
-PST120	#_ mica-s din fier
+PST120	#_ #*mica-s din fier
 PST119	ah
 PST119	#_ xx ma nu o reușit să se dea de-o parte nu o reușit să
 PST120	nu știu
@@ -435,7 +435,7 @@ PST118	#_ mai
 PST118	#_ în mai xxx in mai
 PST119	ah ho capito #am #înțeles #în #mai #adică #nu #te #mai #duci
 PST118	eh
-PST119	invece #pentru serviciu civile quello non ti hanno mai xx non ti hanno mai xx
+PST119	invece #pentru #*serviciu civile quello non ti hanno mai xx non ti hanno mai xx
 PST118	no
 PST120	trebuie să-l întreb pe ăsta pe pe
 PST119	#_ pe cine chemi
@@ -507,7 +507,7 @@ PST118	#_ nu știu
 PST119	xxx
 PST120	#_ o zis că erau ehm în spate acolo niște containere
 PST120	#unde #depozitează #ei #tot #felul #de campioni #de #astea #știi #și
-PST120	armadile #alea #sunt
+PST120	$armadile #alea #sunt
 PST120	#_ rafturi dinastea de fier știi și o (.) zis că
 PST120	#_ eh @costi mi-a spus că s-a dus vineri și o făcut pe acolo nu știu ce trebuia să facă și
 PST120	#_ o mai rămas să mute armadile alea
@@ -559,7 +559,7 @@ PST119	penso che è ovvio che #nu #poți #să #stai
 PST119	#_ dedesupt la un carico
 PST120	nu mai ăștia care xxx care-i trimit acolo la noi o zis că chiar dacă îi vezi că-s ancorate cu xxx deastea o zis că
 PST120	#_ nu poți să știi dacă poate să cedeze și nici nu-ți dai seama că
-PST120	xxx #o #zis #că non stare mai lascia se #rupe #se #strică
+PST120	xxx #o #zis #că non stare mai lascia #*se #rupe #se #strică
 PST120	#_ asta e se plătește se face alte
 PST120	#_ o zis că
 PST119	penso che xx ormai eh non è possibile

@@ -185,7 +185,7 @@ PST141	alle eh superiori
 PST215	sì liceo è liceo li~ #lycée
 PST143	sì il liceo
 PST141	eh sì inglesi francesi
-PST141	espagnolo
+PST141	$espagnolo
 PST141	a~ a~ #allemand
 PST141	#ça #veut #dire eh lingua germania
 PST140	germania
@@ -276,7 +276,7 @@ PST215	sì eh sì
 PST215	giustamente giustamente adesso
 PST141	eh adesso italiano
 PST140	sì studiando
-PST142	io studiato del marocco tie xxx
+PST142	io studiato del marocco $tie xxx
 PST215	come
 PST142	xx arabo
 PST141	va bene xx va bene
@@ -666,7 +666,7 @@ PST215	sì
 PST140	sì differente cibo marocchino
 PST141	sì il eh sì
 PST215	ah beh beh sì eh
-PST141	tutti fa la spesa tutti i giorni eh le tanti personi
+PST141	tutti fa la spesa tutti i giorni eh le tanti $personi
 PST140	sì
 PST215	capito però ma ma voi siete qui quando siete arrivati in italia siete qui
 PST141	al eh mercato eh

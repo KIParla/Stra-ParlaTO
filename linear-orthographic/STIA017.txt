@@ -52,7 +52,7 @@ PST088	per
 PST088	per lavoro
 PST088	perché
 PST088	io avevo una ditta
-PST088	di vendita di materiali ictica
+PST088	di vendita di materiali $ictica
 PST088	marocco
 PST088	visto problema di economica
 PST203	ehm
@@ -193,7 +193,7 @@ PST088	e poi sono uscito a fare
 PST203	ehm
 PST088	eh il commercio
 PST211	mh mh
-PST088	avevo una ditta dil dil
+PST088	avevo una ditta #*dil #*dil
 PST088	ma qua sono venuto qua per me la lingua italiana è un po'
 PST088	non perché
 PST088	ave~ avevo fatto tutti il miei studi in francese
@@ -248,7 +248,7 @@ PST203	mh
 PST088	la lingua ufficiale
 PST211	mh
 PST088	del eh
-PST088	della media e del televisione delli libri
+PST088	della media e del televisione $delli libri
 PST088	e c'è il dialetto del
 PST088	che si chiama il marocchino
 PST211	mh
@@ -802,7 +802,7 @@ PST088	e così sono delle regole la donna qua nel nel
 PST088	eh
 PST088	religione della della
 PST088	le regole
-PST088	#_ le regle
+PST088	#_ #*le regle
 PST088	delle mestruazioni
 PST203	mh
 PST088	non devi fare il digiuno
@@ -939,8 +939,8 @@ PST203	c'è non sapevo com'era
 PST088	allora guarda
 PST203	mh mh
 PST088	allora leggete questa
-PST211	metanessimo
-PST088	mzianissimo
+PST211	$metanessimo
+PST088	$mzianissimo
 PST088	ha visto
 PST203	mh mh
 PST088	e in arabo #mzian vuol dire bene

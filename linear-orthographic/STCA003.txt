@@ -58,7 +58,7 @@ PST107	lui taglia solo i xx capelli xx
 ??	eh io taglio solo capelli corti
 ??	non i capelli lunghi
 PST217	ah okay allora niente
-??	solo omini
+??	solo $omini
 PST217	ma non c'è un buon parrucchiere
 PST217	per donne
 PST217	che conoscete
@@ -438,7 +438,7 @@ PST217	ah lui
 PST108	sì
 PST108	lo stesso cognome
 PST217	mh
-PST110	bienvenuti a rḥāmna conosci rḥāmna
+PST110	$bienvenuti a rḥāmna conosci rḥāmna
 PST211	eh no
 PST110	#_ arabo
 PST108	dobbiamo portarla in marocco
@@ -746,7 +746,7 @@ PST108	sì prima di venire in italia
 PST217	dove
 PST108	ah s~ eh un po' di tutto tutto girato tu~ quasi tutta #greek
 PST108	ma
-PST108	sono stato a atena molaoi napoli creta hania
+PST108	sono stato a $atena molaoi napoli creta hania
 PST108	tutto tutto
 PST108	thessalonìki
 PST108	tutto girato tutto
@@ -1001,7 +1001,7 @@ PST107	#_ arabo
 PST107	#_ arabo ((ride))
 PST108	metti ancora se vuoi insieme
 PST107	anche lui
-PST107	lui è vendri verdura tutti eh
+PST107	lui è $vendri verdura tutti eh
 PST107	brava grazie eh xxx
 PST217	dai come siete fotogenici
 PST107	ah #arabo

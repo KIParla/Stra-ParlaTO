@@ -431,7 +431,7 @@ PST092	tagliala che si arrabbia poi togli
 PST092	stoppa
 PST087	aspetta
 PST087	non si spegne
-PST092	ma a parte che non ih ma non l'hai fatta a foco
+PST092	ma a parte che non ih ma non l'hai fatta a $foco
 PST087	sì che l'ho fatta a fuoco però non si spegne più
 PST092	l'hai fatta a fuoco ah okay è a fuoco
 PST092	magari se lo stacchi quel pollicione

@@ -329,7 +329,7 @@ PST055	solo che a volte si trova in diffcoltà
 PST055	a spiegare e allora dico vabbè dimmi in marocchino
 PST055	con tutte le lingue ch~ ch~ che sei capace xx vedendola che eh
 PST211	che sai
-PST055	trabola
+PST055	$trabola
 PST211	mh mh
 PST055	però no novanta per cento
 PST055	ma loro mh gestiscono abbastanza bene posso dire anzi benissimo entrambe

@@ -805,7 +805,7 @@ PST087	no non va
 PST083	eh io piuttosto metterei uno spettacolo che quella roba là
 PST087	ma perché per collegare so che adesso i ragazzi hanno fatto delle
 PST203	okay
-PST087	cioè stanno facendo la #cu orchestra
+PST087	cioè stanno facendo la #cu #*orchestra
 PST087	e magari inizia a mettere
 PST083	ma non penso che abbiamo un video xxx xxx
 PST092	no ma l'hanno fatto da poco
@@ -1006,7 +1006,7 @@ PST203	che ti raccontano gli anziani
 PST203	oh io son cresciuto negli anni novanta
 PST086	cosa vuoi
 PST092	#rădăcini în dans
-PST085	uh maronna mi~
+PST085	uh $maronna mi~
 PST092	melodie migratorie oh ci sta dando degli immigrati
 PST092	scusami
 PST085	gliela servi su un piatto d'argento
@@ -1273,7 +1273,7 @@ PST092	fallo tu
 PST092	fallo qua fallo qua
 PST083	in eh
 PST086	ecco
-PST085	oh marò
+PST085	oh $marò
 PST083	dammi
 PST092	fa~ fallo fare a lei vediamo un attimo
 PST085	l'inizio di una storia horror sembra

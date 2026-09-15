@@ -153,7 +153,7 @@ PST091	mi hanno messa sì uguale
 PST082	sì sì
 PST091	infatti a me hanno messo in terza
 PST082	mh
-PST091	hanno messo direttamente mi hanno fatto skippare due classi praticamente
+PST091	hanno messo direttamente mi hanno fatto $skippare due classi praticamente
 PST082	wow
 PST091	eh sì genio del male
 PST082	anche a me comunque
@@ -253,7 +253,7 @@ PST091	i boschi
 PST091	mh vabbè
 PST091	io ho un legame molto
 PST091	sentito con i monasteri anche se
-PST082	sei andata a quello mh monasterul #vesel o qualcosa del genere
+PST082	sei andata a quello mh $monasterul #vesel o qualcosa del genere
 PST091	#_ mănăstirea veselă
 PST091	sì
 PST082	sì
@@ -676,7 +676,7 @@ PST091	bene
 PST091	a timișoara mi sono trovata
 PST082	come parlavi tu il romeno
 PST091	ah rumeno standard cioè è stato assurdo
-PST091	perché io dopo due giorni ho switchato col rumeno standard
+PST091	perché io dopo due giorni ho $switchato col rumeno standard
 PST091	non mi aspettavo
 PST091	mi aspettavo proprio che uscisse fuori il mio gne gne gne
 PST091	invece no

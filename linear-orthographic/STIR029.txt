@@ -363,7 +363,7 @@ PST102	si
 PST102	cantava
 PST102	le donne cantavano
 PST102	o le ragazze che erano brave
-PST102	o chi aveva l'instrumen~ qualche instrumento musicale e andava lì a fare un po' di
+PST102	o chi aveva l'$instrumen~ qualche $instrumento musicale e andava lì a fare un po' di
 PST083	intrattenimento
 PST102	intrattenimento
 PST102	lì si mettevano in mostra

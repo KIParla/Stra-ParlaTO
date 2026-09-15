@@ -199,7 +199,7 @@ PST121	nella scuola
 PST121	e poi
 PST220	okay
 PST121	anche inglese
-PST220	ah mizzigu
+PST220	ah $mizzigu
 PST121	sì
 PST219	un bel po' di lingue sai
 PST220	e che
@@ -261,7 +261,7 @@ PST220	ah okay okay
 PST219	un quartiere
 PST121	sì
 PST219	ah okay okay
-PST220	ah mizzigu allora
+PST220	ah $mizzigu allora
 PST219	ah
 PST219	vivevi nella capitale proprio
 PST121	sì
@@ -451,17 +451,17 @@ PST121	e l~ la cipolla
 PST121	pomodoro
 PST121	sono tagliati
 PST121	ehm
-PST121	#_ el
+PST121	#_ #*el
 PST121	prezzemolo
 PST121	però non taglialo tu lasci eh
-PST121	tu lasci così un una di prinzemolo
+PST121	tu lasci così un una di $prinzemolo
 PST121	la chiudi e la metti dentro non tagliato
 PST121	perché dopo la toglie
 PST121	ehm
 PST121	e basta quando il carne
 PST121	è cotto o mezza cottura
 PST121	si mettono le altre verdure
-PST121	prima si mette el
+PST121	prima si mette #*el
 PST121	le carote
 PST121	poi eh
 PST121	puoi mettere ogni verdura vuoi
@@ -475,7 +475,7 @@ PST121	e poi tu puoi fare cous cous da solo
 PST220	ecco è il cous cous da solo che mi frega
 PST220	che che che sbaglio
 PST220	il cous cous da solo
-PST121	el kuskus anche io non sono brava a farlo eh
+PST121	#*el kuskus anche io non sono brava a farlo eh
 PST220	ecco
 PST121	allora stai tranquilla
 PST121	se non se non riesci
@@ -725,7 +725,7 @@ PST121	l'abbiamo studiata
 PST220	e poi si passa al francese
 PST121	sì
 PST121	poi dopo la
-PST121	dopo la b~ dopo la baccalorea
+PST121	dopo la b~ dopo la $baccalorea
 PST121	si fai
 PST121	si eh
 PST121	la scienza sempre in francese
@@ -1064,7 +1064,7 @@ PST121	no in arabo
 PST220	in arabo okay
 PST121	sì
 PST219	marocchino
-PST121	in arabo però c'è el ehm
+PST121	in arabo però c'è #*el ehm
 PST121	come si chiama
 PST121	news
 PST220	mh le notizie
@@ -1520,7 +1520,7 @@ PST121	eh no no figurati
 PST121	eh non faccio
 PST121	non ho una cosa speciale un eh
 PST121	una settimana
-PST121	però la maggiorità di tempo riposo
+PST121	però la $maggiorità di tempo riposo
 PST121	che
 PST219	ci sta
 PST121	sì

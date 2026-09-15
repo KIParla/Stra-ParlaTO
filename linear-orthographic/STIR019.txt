@@ -143,7 +143,7 @@ PST050	m~ mancanza di stare
 PST050	noi siamo lontani loro sono soli che
 PST212	mh
 PST050	ha detto vedrai c~ quando diventerai anche tu un genitore
-PST050	capiterà quando arriverate eh arrivate alla nostra età
+PST050	capiterà quando $arriverate eh arrivate alla nostra età
 PST050	come è dura che mh i bambini son lontani
 PST050	eh
 PST213	ma adesso la tua sorella piccola sta ancora con loro
@@ -554,7 +554,7 @@ PST050	capit~ sì
 PST050	ehm
 PST050	non l'ho detto l'ha me l'ha preso dalla maglia
 PST050	ha mh l'ha portato in un'altra classe
-PST050	poverino si aggraftafava dalla porta per non andare no c~ che non sono stato io che non l'ho fatto io che
+PST050	poverino si $aggraftafava dalla porta per non andare no c~ che non sono stato io che non l'ho fatto io che
 PST213	no brutto
 PST050	lui s~ sì
 PST050	non ha fatto bene
@@ -624,7 +624,7 @@ PST213	eh
 PST050	di cambiare classe
 PST050	perché loro non sono in grado di occuparsi del bambino che hanno
 PST050	però se c'è io eh adesso che se mi dicono che dev~ io non sono obbligata il mio bambino non ha problemi
-PST050	come vi occupate dei altri bambini anche voi vi det~ vi dovet~ anche se un po' più lenti prendete i bambini che sono un po' più lenti e quelli che sono un po' più
+PST050	come vi occupate dei altri bambini anche voi vi $det~ vi dovet~ anche se un po' più lenti prendete i bambini che sono un po' più lenti e quelli che sono un po' più
 PST050	no uno per uno non tutti
 PST212	beh sì è impossibile che siano tutti uguali che vadano tutti alla stessa velocità
 PST050	e no

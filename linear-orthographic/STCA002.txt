@@ -356,7 +356,7 @@ PST107	sì tanti sì sì sì sì sì
 PST108	sì sì siriani sì
 PST217	più del medio più medio oriente che
 PST107	sì sì
-PST108	libania anche
+PST108	$libania anche
 PST217	libane~ sì e anche palestinesi
 PST107	palestina sì brava
 PST108	sì anche palestinesi sì
@@ -522,7 +522,7 @@ PST107	#_ aghrum ((ride))
 PST217	agra è il pa~
 PST108	#_ aghrum
 PST107	#_ aghrum
-PST107	berbari
+PST107	$berbari
 PST217	#_ aghrum
 PST107	pani
 PST217	ah okay
@@ -593,15 +593,15 @@ PST217	ah ah
 PST217	ma
 PST217	quando ero a marrakech c'era anche qualche negozio che
 PST108	sì
-PST107	che vendri co~ così
+PST107	che $vendri co~ così
 PST107	che parli sì sì sì sì
 PST217	spezie
 PST108	sì
 PST217	e
 PST108	sì eh ci sono anche a marrakech ci sono que~ eh barbari vivono anche a marrakech
 PST217	mh
-PST108	hanno delli negozi delle cose
-PST108	delli ristoranti
+PST108	hanno $delli negozi delle cose
+PST108	$delli ristoranti
 PST217	eh ma quando siete a marrakech però potete parlare con loro in arabo
 PST108	sì
 PST108	eh quelli che a marrakech sono abituati a parlare in arabo
@@ -618,7 +618,7 @@ PST107	no no
 PST108	spagnolo no
 PST108	quindi tu sei imparato spagnolo
 PST107	eh
-PST107	marito espagnoni
+PST107	marito $espagnoni
 PST107	ragazzo marito dopo sì
 PST108	ragazzo spagnolo
 PST217	eh non è ancora ma
@@ -737,7 +737,7 @@ PST107	#_ 3āngīhā wu-būsīhā
 ??	#_ mnī kān mīm-čo
 PST108	#_ wah
 ??	#_ t-shǝrbī
-??	divirtiw
+??	$divirtiw
 PST107	#_ hān ḍāḥkū lā māshī hādhāk s-sījī
 ??	#_ huwa xx keina
 PST107	#_ xx
@@ -904,8 +904,8 @@ PST108	#_ stadt
 PST217	#_ tschüss
 PST108	#_ cheese
 PST217	ciao
-??	cios cios cios
-PST107	ces ches
+??	$cios cios cios
+PST107	$ces $ches
 PST107	#_ cheese acht
 ??	io
 ??	sono andata a dortmund
@@ -924,7 +924,7 @@ PST108	sei stata anche dortmund
 ??	eh
 PST108	eh bella vita eh
 ??	#_ xx
-PST108	poi anche inglaterra
+PST108	poi anche $inglaterra
 PST107	sua vita
 ??	parigi lussemburgo
 PST107	#zgā zgā n-sejjəl xallī
@@ -945,7 +945,7 @@ PST107	#_ dyāwlī
 PST217	e
 PST107	xallī-hum hənā xx xx
 ??	xx xx perché hanno altra cultura altre persone
-??	xx diverta
+??	xx $diverta
 PST108	aveva poverina una figlia
 PST108	disabile
 ??	prima era
@@ -975,7 +975,7 @@ PST108	vediamo se ti basta seicento
 PST107	#_ hāzlā l-flūs hā-hīya hāzlā
 ??	#_ hādīk dyāl ayman xlāṣ @omar
 PST107	#_ shǝḥāl kā-t-xalṣ-ī ayman l-3ām
-??	#māshī #tamma #xamsa oro #l-shhar #shāl #diyāl mensa
+??	#māshī #tamma #xamsa $oro #l-shhar #shāl #diyāl mensa
 PST107	#_ shǝḥāl hādī l-wrāq hādī tu-harbū-līk
 ??	#_ rā-rb3a t-gū-lǝk
 ??	#_ xx
@@ -1188,7 +1188,7 @@ PST217	eh xxx non so
 PST217	ah ah
 ??	da me c'è due lingue
 ??	que~
-??	del studio della scuola non c'entra nienti con lingua come lo parliamo
+??	del studio della scuola non c'entra $nienti con lingua come lo parliamo
 PST107	sì l'ha già parlato prima sì
 PST107	eh parlano no come uguali
 ??	sì
@@ -1318,7 +1318,7 @@ PST217	mh mh
 PST217	e anche i tuoi
 PST217	tua figlia parla quindi italiano
 ??	sì
-??	qui cidifa parlare #fuṣḥā
+??	qui $cidifa parlare #fuṣḥā
 ??	non è facile eh
 PST217	ah ah
 ??	se non studi non parli
@@ -1404,7 +1404,7 @@ PST217	ah
 ??	la seconda lingua marocco
 ??	francese ma parliamo tutti lingue spagnolo inglese
 ??	tu vai a marocco
-??	al nordo parlano espagnolo
+??	al nordo parlano $espagnolo
 ??	sta più vicino di spagna
 PST217	sì
 ??	eh casablanca parlano francese
@@ -1441,7 +1441,7 @@ PST110	#_ lā rā
 ??	#_ kat-qrā l-inglīzī
 PST110	#_ wa-la kat kat-qrāha qǝbǝl
 ??	ah ma privato le scuole privato
-??	si studia l'inglesi espagnolo francesi
+??	si studia l'inglesi $espagnolo francesi
 PST110	#_ 'ah wu kī-qarrīw
 ??	quelle fanno lì
 PST217	ah ah

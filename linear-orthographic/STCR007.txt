@@ -52,8 +52,8 @@ PST087	non so se ci sono
 PST083	ma cosa
 PST092	te che ci sono tipo ehm noi avevamo detto
 PST092	#_ taraful
-PST092	#_ plus orchestra
-PST092	cioè #plus orchestra più canto
+PST092	#_ plus #*orchestra
+PST092	cioè #plus #*orchestra più canto
 PST092	facciamo sabato
 PST083	ehm magari
 PST087	questo sabato è
@@ -497,7 +497,7 @@ PST092	si può fare
 PST087	farli stare di schiena
 PST083	i bambini eh nel senso cioè tu se li devi riprendere li riprendi mentre giocano non che stanno così che sembra una sparatoria
 PST092	gli sfuochi la faccia
-PST083	no quando quando giochiamo la la #rațele #și #vânătorii
+PST083	no quando quando giochiamo #*la #*la #rațele #și #vânătorii
 PST092	tutti i bambini stanno sempre girati da un lato
 PST083	sì ma c'è un un da una parte i bambini che guardano di fronte comunque sono due linee
 PST092	eh

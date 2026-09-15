@@ -11,7 +11,7 @@ PST016	poi
 PST016	fatto l'iscrizione
 PST016	poi dato i primi esami soprattutto della xxx
 PST016	la seconda lingua francese
-PST016	poi linguistica italiana didattica di lingui
+PST016	poi linguistica italiana didattica di $lingui
 PST016	poi didattica di lingue straniere
 PST016	poi letteratura italiana ma un po' pesante
 PST016	per me soprattutto nel primo anno c'è la difficoltà di la lingua
@@ -79,9 +79,9 @@ PST205	eh quale li~
 PST016	lingue e letterature moderne
 PST205	lingue e letterature moderne
 PST016	perché c'è c~ c'è corruculum di ci sono per lingue e letterature perché
-PST016	prima era mediazione linguistica poi lingui
-PST016	lingui e letterature moderne lingui e letterature straniere poi
-PST016	lingui
+PST016	prima era mediazione linguistica poi $lingui
+PST016	$lingui e letterature moderne $lingui e letterature straniere poi
+PST016	$lingui
 PST016	eh e l'asia e l'africa trovi
 PST016	eh
 PST016	obbligatorio una lingua di di il medio oriente sia indiano sia cinese
@@ -108,8 +108,8 @@ PST016	fran~ eh arabo
 PST016	e poi francese
 PST016	e spagnolo
 PST205	e per quanto riguarda i dialetti invece
-PST016	dialetti ci sono in marocco ci sono tre dialette
-PST016	tre dialette tranni l'arabo tranni la lingua araba standard c'è
+PST016	dialetti ci sono in marocco ci sono tre $dialette
+PST016	tre $dialette tranni l'arabo tranni la lingua araba standard c'è
 PST016	berbero c'è di #amazigh
 PST016	e #tashelhit e #tarifit il #tarifit è del sud
 PST016	del del nord del marocco
@@ -189,7 +189,7 @@ PST016	fare il conversione del permesso studio lavoro
 PST016	secondo me eh
 PST016	è meglio uno che ha imparato l'italiano in marocco arriva qui non trova la difficoltà per l'integrazione
 PST016	anche per trovare un posto di lavoro anche p~ si vuole fare un corso
-PST016	mh be~ per un mestiere si saldatora si falegname si pizzaiolo qualsiasi cosa
+PST016	mh be~ per un mestiere si $saldatora si falegname si pizzaiolo qualsiasi cosa
 PST016	serve la lingua
 PST016	perché vedo le ragazzi che arrivano soprattutto di pakistan cinese
 PST016	che arrivano qui in italia al politecnico
@@ -249,7 +249,7 @@ PST016	informazione ma per me non mi serve io tro~ quando trovo trovo egiziani m
 PST016	tunisini lì
 PST016	quando vedo uno in difficoltà lo aiuto lo spiego chiedo all'impiegato come stamattina sono andato in
 PST016	in questura ho trovato un ragazzo palastinese
-PST016	ho l'ho aiutato ho parlato col poliziotto per l'appuntamento perché lui ha un permesso per asoli politico
+PST016	ho l'ho aiutato ho parlato col poliziotto per l'appuntamento perché lui ha un permesso per $asoli politico
 PST016	e servi per rinnovo il permes~ eh la la
 PST016	la il passaporto perché è un documento di viaggio perché i palestinesi non lo danno il passaporto
 PST016	ho spiegato tutto il documentazione che serve così così così
@@ -494,7 +494,7 @@ PST016	l'invalidità civile uno con documento
 PST016	c~ c~ lo danno quaranta percento u~ uno non ha anche il piede
 PST016	ha tolta ha fatto un incidente
 PST016	non han do neanche quaranta percento
-PST016	normante serve
+PST016	$normante serve
 PST016	eh settantacinque percento per darti due~
 PST016	duecentosessanta euro cosa paghi l'affitto compri la medicina cosa fa
 PST016	c'è un sacco di svantaggi qui eh
@@ -576,7 +576,7 @@ PST016	è diversa in italia
 PST016	in francia quando vince un presidente
 PST016	l'elezione dopo
 PST016	cinque giorni dieci giorni
-PST016	fa in viaggio va al medio orianto cerca nuovi mercato
+PST016	fa in viaggio va al medio $orianto cerca nuovi mercato
 PST016	per rimuovi il mercato
 PST016	i~ francese
 PST016	in italia dopo le elezioni vedi solo
@@ -585,7 +585,7 @@ PST016	non mai visto il presidente della f~ dell'italia va in marocco cerca di c
 PST016	sì cercano nuovi mercato sì in africa
 PST016	va bene per la fiat va bene per iveco va bene per l~
 PST016	perché eh prima
-PST016	è molto conosciata la roba italiana sia le macchine sia l'abbigliament~
+PST016	è molto $conosciata la roba italiana sia le macchine sia l'abbigliament~
 PST016	adesso no
 PST016	trovi solo roba tedesca la roba
 PST016	e francese
@@ -1031,7 +1031,7 @@ PST016	perché c'è c'è
 PST016	eh c'è un sacco di gente che hanno l'anemia la mancanza del ferro non sanno
 PST016	gira la testa vomitano non sanno che loro
 PST016	hanno bisogno del ferro di proteine di
-PST016	hanno i problemi di di le globine rossi bianchi
+PST016	hanno i problemi di di le $globine rossi bianchi
 PST205	alla al~ alla domanda
 PST205	preferisci la cucina italiana o la cucina del tuo paese di origine
 PST016	del mio paese

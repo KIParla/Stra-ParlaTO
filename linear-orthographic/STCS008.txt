@@ -1603,7 +1603,7 @@ PST125	ma la materia più difficile che hai lì
 PST125	ah ma tutti e due avete fatto il classico
 PST127	sì
 PST127	eh più difficile
-PST122	paxi
+PST122	$paxi
 PST127	io ti direi inglese perché non mi piace però non è difficile anche perché letteratura m~ mi piace
 PST127	tipo dorian gray abbiamo fatto pure orwell
 PST122	vero che il prossimo anno inizia letteratura xx
@@ -2431,8 +2431,8 @@ PST127	no
 PST124	chi è tato
 PST125	#_ deja ahi (.) deja ahí deja ahí deja ahí deja ahí
 PST125	#_ no se toca
-???	cos'è la mia lampa
-PST125	la tua lampa
+???	cos'è la mia $lampa
+PST125	la tua $lampa
 ???	sì e saltare xxx
 PST122	quindi adesso non hai nessuna dici
 PST127	mh no
@@ -3027,11 +3027,11 @@ PST127	ha senso sì
 PST122	eh vedi
 PST122	magari hanno una brutta energia
 PST127	mh
-PST122	e quindi mi allergiscono
-PST124	mi allergiscono
-PST125	mi allergiscono
-PST122	mi acontagia
-PST125	oh mi allergiscono
+PST122	e quindi mi $allergiscono
+PST124	mi $allergiscono
+PST125	mi $allergiscono
+PST122	mi $acontagia
+PST125	oh mi $allergiscono
 PST124	oddio taglia
 PST127	taglia
 PST122	di che questi sono problemi da stranieri
@@ -3040,7 +3040,7 @@ PST124	oh mamma mia
 PST125	oh
 PST127	mh
 PST125	eh beh
-PST125	mi allergis~
+PST125	mi $allergis~
 PST122	che poi in realtà fa ridere perché io sono quella che corregge gli altri
 PST122	soprattutto nei verbi
 PST122	a me piace correggere la gente
@@ -3113,7 +3113,7 @@ PST122	corri corri che te la fai addosso
 PST127	poverino
 PST125	#_ ((ride)) ay pobrecito xx
 PST127	sì
-PST122	l'altra volta c'era la #tapa #del water #arriba #y #si #estaba #que #se #cahía #adentro
+PST122	l'altra volta c'era la #tapa #del #*water #arriba #y #si #estaba #que #se #cahía #adentro
 PST122	e fa oh
 PST122	fa e io faccio cosa c'è ed era andato dentro
 PST127	poverino
@@ -3123,7 +3123,7 @@ PST122	non è vero
 PST127	sì è vero
 PST122	deve crescere come maschio
 PST127	eh sì
-PST122	eh perché se no lo #rodean #muchas #mujeres se #vuelve
+PST122	eh perché se no #*lo #rodean #muchas #mujeres #*se #vuelve
 PST122	#_ no sé que
 PST122	come si ve~ che che che
 PST122	come si dice
@@ -3319,7 +3319,7 @@ PST122	siamo in una gabbia
 PST122	sono un animale
 PST127	mh
 PST122	beh più o meno
-PST122	quello de #te #enloqueas lì sì
+PST122	quello #*de #te #enloqueas lì sì
 PST122	lì lì proprio non ti riconosco neanch'io
 PST124	taglia
 PST127	taglia

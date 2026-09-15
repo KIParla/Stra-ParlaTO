@@ -18,14 +18,14 @@ PST041	a porta palazzo
 PST213	mh
 PST041	eh dopo
 PST213	beh anche lì ce ne sono di rumore eh porta palazzo
-PST041	sì tutti i mattini c'era
+PST041	sì tutti i $mattini c'era
 PST041	duemilatrè duemilaquattro
 PST041	c'era questi che vado a porta
 PST041	a casa questi motoretti così
 PST213	mh mh
 PST041	alle quattro o cinque di mattina
 PST213	ohi
-PST041	i si era li ritornava adessos
+PST041	#*i si era li ritornava adessos
 PST041	il parcheggio è di lato non importa dove
 PST213	mh mh
 PST213	mh mh
@@ -34,7 +34,7 @@ PST041	che so
 PST041	dopo sono passato a via
 PST041	comperato la casa e
 PST041	ho saputo che questa
-PST041	i eh
+PST041	#*i eh
 PST041	così è la strada via così
 PST041	brutta l'ha comprata nuovo
 PST041	brutta
@@ -112,19 +112,19 @@ PST213	madonna
 PST041	no sono quattro nipotini
 PST213	ah ah
 PST041	e per questo serve
-PST041	i no tutti lavorano io sono adesso lavoro però io sono no così io sono invalido
+PST041	#*i no tutti lavorano io sono adesso lavoro però io sono no così io sono invalido
 PST213	ah ah
 PST041	ottantadue percento ormai
 PST213	ah però
 PST041	eh
 PST213	e quindi c'è un aiuto
-PST041	per questo x figlio i
+PST041	per questo x figlio #*i
 PST041	è il responsabile per questo mi ha preso a così
 PST041	quando vado per eh agenzie per eh lavorare
 PST213	no eh
 PST041	no ti prendono adesso
 PST041	e questa agenzia
-PST041	figlio i agente diplomatico i lavora in eh
+PST041	figlio #*i agente diplomatico #*i lavora in eh
 PST213	okay
 PST041	responsabile di cantiere
 PST213	okay
@@ -192,7 +192,7 @@ PST213	no no vai
 PST212	quindi capita che suo figlio
 PST212	le parla in italiano
 PST212	e poi lei gli risponde sempre in italiano oppure risponde in moldavo
-PST041	in moldavo italiano come comi esce
+PST041	in moldavo italiano come $comi esce
 PST212	come esce
 PST213	come esce
 PST041	io quanto eh stato in russia
@@ -211,7 +211,7 @@ PST041	c'è venuto uno di questi
 PST041	come si chiama eh
 PST213	mh
 PST041	e dice tiè parla in russo
-PST041	i eh
+PST041	#*i eh
 PST041	eh parliamo eh parlare
 PST213	e ti usciva l'italiano
 PST041	sì eh
@@ -230,7 +230,7 @@ PST213	però se loro parlano russo lei lo capisce no
 PST041	sì
 PST041	subito mi ricordo no
 PST213	certo
-PST041	i ma
+PST041	#*i ma
 PST041	ah la moglie altri volti
 PST041	parla
 PST041	e dice oh ho cambiato in italiano ah

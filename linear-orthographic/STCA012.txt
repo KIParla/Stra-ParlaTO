@@ -154,7 +154,7 @@ PST214	hai e hai condividi la stanza
 PST158	no io sono in stanza singola
 PST214	ah okay
 PST158	sì sì sono in stanza singola quindi ancora meglio
-PST158	cioè la vita in residenza me la faccio proprio chillando
+PST158	cioè la vita in residenza me la faccio proprio $chillando
 PST214	cioè
 PST214	quando vuoi socializzare socializzi se no ti chiudi in camera
 PST158	esatto
@@ -1123,7 +1123,7 @@ PST158	allora io sono sono un po' combattuta perché
 PST158	io dopo che mangio
 PST214	sì
 PST158	devo per forza dormire
-PST158	no non sto scherzando mi hitta proprio il picco glicemico
+PST158	no non sto scherzando mi $hitta proprio il picco glicemico
 PST214	okay
 PST158	che devo per forza dormire
 PST214	okay
@@ -1146,7 +1146,7 @@ PST214	però pranzo perché è proprio in mezzo alla giornata
 PST214	e quindi sennò poi non ho le forze di studiare
 PST158	okay forse perché io mi sono abituata un poì così
 PST158	che tipo non pranzo perché sennò il pomeriggio io devo per forza dormire
-PST214	no io invece ho hittato questa cosa
+PST214	no io invece ho $hittato questa cosa
 PST214	praticamente
 PST214	i~ io sono una che si addormenta subito
 PST158	okay
@@ -1315,7 +1315,7 @@ PST214	sette mesi di lettorati di arabo
 PST158	oddio
 PST214	che non dovevo frequentare
 PST158	no
-PST158	io ho quittato arabo
+PST158	io ho $quittato arabo
 PST158	l'ho tolto dal piano carriera
 PST158	te lo giuro
 PST214	detto basta
@@ -1324,7 +1324,7 @@ PST158	son rimasta letteralmente traumatizzata
 PST158	quan~ quando mi hanno detto che per l'esame c'erano
 PST158	c'erano quaranta pagine di vocaboli da studiare
 PST214	sì
-PST158	ho quittato di brutto
+PST158	ho $quittato di brutto
 PST214	io gli anno l'anno scorso li avevo scritti tutti a mano i vocaboli
 PST214	erano tipo trecento vocaboli
 PST158	#_ crazy
@@ -1500,9 +1500,9 @@ PST214	e lo metti in frigo
 PST158	esatto
 PST214	sì sì sì lo metti in frigo lo togli bello ghiacciatino con il ghiaccio
 PST158	uh
-PST158	ti hitta
+PST158	ti $hitta
 PST214	cioè dai
-PST158	hitta di brutto
+PST158	$hitta di brutto
 PST214	molto meglio dei cocktail
 PST158	totale sì
 PST158	soprattutto quando è bello freddo
@@ -1515,7 +1515,7 @@ PST158	quindi
 PST214	sì è un po' un verdino
 PST158	esatto
 PST214	non molto carino
-PST158	da freddo hitta troppo
+PST158	da freddo $hitta troppo
 PST214	sì
 PST214	sì sì
 PST214	beh ieri ad esempio siamo andate in piazza carlina con la mia coinquilina
@@ -1616,7 +1616,7 @@ PST158	dopo passo alla borello a prenderlo
 PST158	te lo giuro mi hai fatto proprio venire voglia di cioccolato bianco
 PST158	da un sacco che non lo mangio
 PST214	cioè è veramente dolcissimo
-PST158	no però ti s~ hitta ti giuro che hitta
+PST158	no però ti s~ $hitta ti giuro che $hitta
 PST214	ma quante ne mangi
 PST158	la barretta
 PST214	intera
@@ -1676,5 +1676,5 @@ PST158	che schifo
 PST158	no no no no no no no
 PST158	così come l'a~ l'accoppiata arancia e cioccolato è la cosa più disgustosa del mondo
 PST158	la cosa più disgustosa del mondo
-PST158	quittiamo questa intervista adesso
+PST158	$quittiamo questa intervista adesso
 PST214	io vado

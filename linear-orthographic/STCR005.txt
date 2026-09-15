@@ -664,14 +664,14 @@ PST092	disegnano il ricamo delle camicie detto proprio
 PST087	esatto
 PST092	strizzato
 PST087	sì eh o visto che ha il significato magari mentre cuciono possono spieg~ cuciono
-PST092	sì cuciscono
+PST092	sì $cuciscono
 PST087	mentre decorano le uova possono tipo spiegare
 PST100	o anche mentre fanno l'#ie quindi la nostra maglia tradizionale
 PST092	allora io pensavo perché io e abbiamo fatto parte a un progetto se si può dire così
 PST092	in cui siamo andate proprio a vedere la storia di come nascono le camicie abbiam~ siamo state anche noi proprio presenti nel mostrare le camicie
 PST086	ah sì
 PST100	fate un
-PST092	e pensavo anche tipo molto spesso vedi le mamme che cuciscono così
+PST092	e pensavo anche tipo molto spesso vedi le mamme che $cuciscono così
 PST092	magari possiamo come cuce
 PST100	su~ sul rumeno faccio schifo ma sull'italiano
 PST092	come cuciono e magari potevamo tipo fare di nuovo la scena di quando
@@ -900,7 +900,7 @@ PST100	sopratutto nell'organizzazione è un mo~ mondo che se lo apri fai pa
 PST100	e vai lì e dici e mo che faccio
 PST100	e bella domanda
 PST100	che fai dai una testata al muro in primis
-PST100	in secondis ti fai il segno della croce
+PST100	in $secondis ti fai il segno della croce
 PST100	dici chiedi a a gesù a dio a tutti i santi che conosci di darti una mano perché
 PST100	diciamo che
 PST092	gheorghiță

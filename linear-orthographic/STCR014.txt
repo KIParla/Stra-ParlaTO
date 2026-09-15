@@ -781,7 +781,7 @@ PST092	sì è scrocchiato quello non quello
 PST087	aspetta
 PST211	no che poi se ci pensate è anche utile che voi impariate a fare queste cose perché così
 PST092	io lo sto già facendo a scuola
-PST211	eh se qualcuno di vui eh di voi lo fa poi riuscite a tenere anche delle pagine instagram e facebook del centro con le foto belle per dire
+PST211	eh se qualcuno di $vui eh di voi lo fa poi riuscite a tenere anche delle pagine instagram e facebook del centro con le foto belle per dire
 PST203	eh
 PST212	eh sì
 PST203	infatti noi l'altra cosa che volevamo proporvi

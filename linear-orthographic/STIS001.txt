@@ -6,7 +6,7 @@ PST001	io io ho trentun anni
 PST200	okay
 PST001	okay mhmh
 PST200	okay tu quanti anni hai
-PST002	trentiquattre anni
+PST002	$trentiquattre anni
 PST200	trentaquattro
 PST002	trentaquattro
 PST200	trentaquattro
@@ -17,11 +17,11 @@ PST001	dal perù
 PST001	#_ de lima
 PST200	mh mh
 PST001	ehm
-PST001	arrivamo in italia con mio figlio
+PST001	$arrivamo in italia con mio figlio
 PST200	mh mh
 PST001	e mio marito
 PST001	#_ por (.) por tema de
-PST001	la malattia al cuora di mio figlio
+PST001	la malattia al $cuora di mio figlio
 PST200	ah
 PST001	mio figlio ho sei anni
 PST001	eh
@@ -32,9 +32,9 @@ PST001	#por #su malattia
 PST001	#el #trato in italia #fue
 PST001	un'attenzione #favorable rapido
 PST200	mh
-PST001	arrivamo in #octubre
+PST001	$arrivamo in #octubre
 PST001	el
-PST001	diciannove el diciannove
+PST001	diciannove #*el diciannove
 PST002	diciannove diciannove
 PST200	~kay
 PST001	mh mh
@@ -57,7 +57,7 @@ PST001	e fue rapidísimo
 PST001	eh
 PST200	okay
 PST001	#_ entonces
-PST001	e de~ dopo en en gennaio #fue l'intervento del cuora
+PST001	e #*de~ dopo #*en #*en gennaio #fue l'intervento del $cuora
 PST200	mh mh
 PST001	perché #como #digo no #en #peru #estava #para #un #transplante #de #corazón
 PST200	okay
@@ -68,10 +68,10 @@ PST001	#_ otra opción que me daban allá...
 PST200	okay
 PST001	#_ sì entonces aquí en italia sì
 PST001	#sì #me #dieron o~ #una #opción #más ehm #entonces #este este intervento #que #le #hicieron #en gennaio
-PST001	#hay #una #posibilidad #en #que #él #no #necesite #el #transplante del cuora
+PST001	#hay #una #posibilidad #en #que #él #no #necesite #el #transplante del $cuora
 PST200	okay
 PST201	mh mh
-PST001	y ao~ allora mio figlio sta bene
+PST001	#*y ao~ allora mio figlio sta bene
 PST001	#_ ha evolucionado bien
 PST001	#_ y estamo~ estamos felices por eso pués no
 PST200	okay
@@ -156,7 +156,7 @@ PST201	sì credo di sì
 PST200	sì sì visitato
 PST001	sì
 PST001	e
-PST001	il museo de radio #y tecnologia
+PST001	il museo #*de radio #y tecnologia
 PST200	okay
 PST002	mh
 PST001	e con mio figlio molto bello
@@ -167,9 +167,9 @@ PST001	#por fuori sì no #no hemos
 PST200	okay
 PST001	e más a~ a hemos ido a la
 PST002	es la iglesia de arriba
-PST001	alla chissia chissia #se #dice #iglesia
+PST001	alla $chissia $chissia #se #dice #iglesia
 PST200	la chiesa chiesa
-PST001	chiessia chiesa
+PST001	$chiessia chiesa
 PST201	chiesa
 PST002	la chiesa
 PST001	chiesa di
@@ -203,7 +203,7 @@ PST001	#porque #el #idioma #es molto importante importantissimo #porque #si #no 
 PST200	eh sì sì sì
 PST200	mh mh mh eh sì avete ragione
 PST001	sì
-PST001	#al prinzipio #como #se dice #me #ha #costado molto
+PST001	#al $prinzipio #como #se dice #me #ha #costado molto
 PST200	mh è stato difficile
 PST001	adeguare sì
 PST002	forse
@@ -219,21 +219,21 @@ PST001	mi~ mio figlio tutto il giorni
 PST002	piangeva
 PST200	sìsì
 PST200	mh mhmh
-PST001	perché no no si adaptava qui
+PST001	perché #*no #*no si #*adaptava qui
 PST200	mh mh
 PST201	certo
 PST001	sì
-PST001	pero allora no allora sta bene
+PST001	#*pero allora no allora sta bene
 PST200	okay
 PST001	#aún no no no va a la scuola perché il dottore no ha
 PST001	e
 PST200	non gli ha dato il permesso
 PST002	mhmh
-PST001	el permesso sì
-PST001	el mercoledì proximo
-PST001	#tiene #su appuntamento in ospedale #ahí #me #va #decir #si
+PST001	#*el permesso sì
+PST001	#*el mercoledì #*proximo
+PST001	#tiene #su #*appuntamento in ospedale #ahí #me #va #decir #si
 PST200	mh mh mh mh mh mh
-PST001	ir o no a la escuola sì
+PST001	ir o no a la $escuola sì
 PST200	ehm
 PST200	quindi voi rimanete spesso in questa zona qui dove vivete vi piace questa zona
 PST001	mh mh
@@ -246,7 +246,7 @@ PST001	è molto
 PST001	molto #en #cada #día #se #puede #decir no
 PST200	okay
 PST001	ve y
-PST001	#y per mio figlio no no no va #bien #no #entonces
+PST001	#y per mio figlio #*no #*no #*no va #bien #no #entonces
 PST200	certo certo
 PST001	#_ pero
 PST001	#_ no hay otro lugar adonde habitar entonces tenemos que esperar
@@ -272,7 +272,7 @@ PST200	sì sì sì sì
 PST201	e poi come vi muovete a piedi con l'au~
 PST001	sì a piedi
 PST200	mh
-PST001	a piedi el pulman no el cuatro
+PST001	a piedi #*el pulman no #*el #*cuatro
 PST201	okay
 PST200	mh mh mh mhmh mh mh
 PST002	col tra~
@@ -293,7 +293,7 @@ PST200	okay
 PST002	ah
 PST001	#par no per noi no
 PST001	cosa che in perù è molto difficile
-PST002	xxx no #hay salute
+PST002	xxx #*no #hay salute
 PST200	cioè la salute in che senso
 PST001	ehm sistema sanitario qui in italia per mio figlio
 PST002	ehm
@@ -305,7 +305,7 @@ PST002	xxx
 PST200	non hanno cure
 PST002	no
 PST200	mhmh mhmhmhmh
-PST001	#entonces #es #pagar #no #y to~ el #tema del cuora #es tantissima
+PST001	#entonces #es #pagar #no #y to~ #*el #tema del $cuora #es tantissima
 PST200	eh sì sì sì
 PST001	#entonces no #en #cambio qui eh #fue #gratis #gracias #a
 PST001	#_ y
@@ -358,7 +358,7 @@ PST002	#_ altura
 PST200	ah l'altezza anch'io
 PST001	xxx sì
 PST001	ehm ahm io no mio figlio #durmiendo #así
-PST001	tranquillos
+PST001	$tranquillos
 PST001	#muy tranquillo
 PST002	sì
 PST200	mhmhmh
@@ -375,12 +375,12 @@ PST200	ah okay
 PST200	ah okay
 PST001	il cateterismo #para sapere
 PST002	eh
-PST001	#eh si la #presión #ha #sido controllata
+PST001	#eh #*si la #presión #ha #sido controllata
 PST200	okay
 PST001	mhmh
-PST001	#y dopo el cateterismo l~ li dottori i dottori
+PST001	#y dopo #*el cateterismo l~ li dottori i dottori
 PST001	eh van a decir si
-PST001	si #ha #estado bene el intervento
+PST001	si #ha #estado bene #*el intervento
 PST200	okay
 PST001	#_ s~ ahí nos van a (.) dar una (.) respuesta
 PST200	mh mhmhmhmh
@@ -394,13 +394,13 @@ PST200	per gli interventi sì
 PST002	#_ pues ya sì sì dependìa s~ si nos quedemos pues
 PST200	sì sì
 PST001	sì #va #como #se dice #depender #si
-PST001	#si habitamo qui un #tiempo lungo o #si #retornamos a perù a perù
+PST001	#si #*habitamo qui un #tiempo lungo o #si #retornamos a perù a perù
 PST200	okay
 PST200	okay quindi voi se se vostro figlio a giugno no fa questo intervento e st~ sta bene
 PST002	mh
 PST200	volete tornare in perù o volete rimanere
 PST002	mhmh
-PST001	e si sta bene eh qui eh #le #van #hacer #otro #intervento
+PST001	e #*si sta bene eh qui eh #le #van #hacer #otro #intervento
 PST200	okay
 PST001	#_ y
 PST001	#_ tenemos que esperar (.) un tiempo
@@ -409,13 +409,13 @@ PST001	#para #que #siga controllato sì #y non so non so quanto quanto #tiempo #
 PST002	xxx
 PST200	okay
 PST200	mh mh mh mh
-PST001	pero sì mio figlio #se #adecua bene a qui non lo so quizás #nos #quedemos #aqui
+PST001	#*pero sì mio figlio #se #adecua bene a qui non lo so #*quizás #nos #quedemos #aqui
 PST200	mh mh mh mh
 PST001	#y #depende #si si #mio #marido #encuentra un lavoro tutto tutto #depende
 PST200	certo
 PST002	mh
 PST200	mh certo certo
-PST001	perché el #lugar #donde abitiamo noi #es piccolo
+PST001	perché #*el #lugar #donde abitiamo noi #es piccolo
 PST200	mh
 PST001	mh un #cuarto piccolo #entonces in perù era una casa grande
 PST001	eh
@@ -429,21 +429,21 @@ PST002	mh
 PST001	il pranzo
 PST200	ah
 PST200	il cibo
-PST001	el cibo no #en #en la mattina la colazione no
+PST001	#*el cibo no #en #en la mattina la colazione no
 PST002	ah
-PST001	el el la cena #en el pranzo el #almuerzo no
+PST001	#*el #*el la cena #en #*el pranzo #*el #almuerzo no
 PST001	è è diverso a perù
 PST001	perché
-PST001	#tantisimos #platos piattos #en #cambio #en #perù
+PST001	#tantisimos #platos $piattos #en #cambio #en #perù
 PST200	mh mh
 PST001	tutto insieme
 PST200	ah
-PST001	#aquì #es poro #este poro
+PST001	#aquì #es $poro #este poro
 PST002	tutto xx
 PST200	prima uno poi l'altr~
 PST001	al~
 PST002	xx primo secondo
-PST001	eh la insalata sola con el pane no ehm in perù no
+PST001	eh la insalata sola con #*el pane no ehm in perù no
 PST200	mh mh
 PST001	il pane solo se mangia in la ma~ #en la colazione
 PST200	okay
@@ -453,9 +453,9 @@ PST200	ah okay
 PST001	#en pranzo no
 PST200	eh noi il pane lo mangiamo sempre
 PST001	no
-PST002	cafè cafè
+PST002	#*cafè cafè
 PST001	sì eh
-PST001	#aquì il pranzo eh~ eh il pane el el #queso #como #se #dice
+PST001	#aquì il pranzo eh~ eh il pane #*el #*el #queso #como #se #dice
 PST200	eh
 PST001	formaggio
 PST002	ah formaggio
@@ -475,7 +475,7 @@ PST001	no
 PST200	sìsì
 PST001	la zuppa sì a parte a parte no sì
 PST200	okay eh sì sì sì sì
-PST001	#pero #en la zuppa el pollo la verdura e la pasta no
+PST001	#pero #en la zuppa #*el pollo la verdura e la pasta no
 PST001	#_ es la sopa
 PST200	mh mh
 PST001	e il caffè #aquì #también #es siempre xxx
@@ -538,9 +538,9 @@ PST001	xxxx #comida #peruana cibo #peruano
 PST200	mh
 PST200	xx
 PST201	e avete no scusa
-PST001	lo preparo perché mio figlio tantissima pasta o el riso #en el ospedale
+PST001	lo preparo perché mio figlio tantissima pasta o #*el riso #en #*el ospedale
 PST200	mh
-PST001	eh q~ qui el riso #es un poco ehm #como #se dice liquido
+PST001	eh q~ qui #*el riso #es un poco ehm #como #se dice liquido
 PST002	#_ liquido
 PST200	mh m~ morbido
 PST001	sì i~ in perù #es #más secco secco
@@ -553,9 +553,9 @@ PST002	#_ graneao
 PST001	e mio figlio no eh #parece una un #postre #peruano
 PST200	mh
 PST001	#arro~ riso con latte
-PST001	el pensava che che questo riso dell'ospedale era el riso con latte
+PST001	#*el pensava che che questo riso dell'ospedale era #*el riso con latte
 PST200	ah
-PST200	#muy dulce
+PST200	#muy $dulce
 PST001	un dolce #peruano
 PST200	ah
 PST001	lo y lo probò y dijo blèh
@@ -563,23 +563,23 @@ PST201	ah
 PST002	mh
 PST001	mi piace no
 PST200	ah
-PST001	#y #y era molto difficile che mangiara en el ospedale
+PST001	#y #y era molto difficile che $mangiara en #*el ospedale
 PST200	mh
 PST001	anche #algunas #algunas eh #algunos cibo cibo che~ che man~ sì sì sì le pia~ sì le piace il prosciutto
-PST001	el purè di~ di frutta el purè de patate
+PST001	#*el purè di~ di frutta #*el purè #*de patate
 PST002	pasta también
 PST001	e
 PST002	e pasta verde
-PST001	el al pesto
+PST001	#*el al pesto
 PST002	al pesto
 PST001	al pesto gli piace a mio figlio sì
 PST200	al pesto sì
 PST200	è buona
-PST001	eh sì è buono el pollo al forno #también
+PST001	eh sì è buono #*el pollo al forno #también
 PST200	mh mh
 PST201	mh
 PST200	sì sì
-PST001	#pero el riso sì
+PST001	#pero #*el riso sì
 PST200	eh sì sì
 PST200	e la pizza
 PST001	la pizza
@@ -614,14 +614,14 @@ PST200	è più buona è più buona la pizza con l'ananas o la pizza margherita
 PST002	margherita
 PST200	oh bravo grazie
 PST001	il vino il vino
-PST002	#y mul~ multo multo grande
+PST002	#y mul~ $multo $multo grande
 PST200	è vero
 PST001	eh la pizza molto grande sì sì
 PST002	eh
 PST001	#allà #en #perù #es piccola un #retazo piccola
 PST200	mh
 PST200	mh mh mh
-PST001	#y #si #es #gran~ grande #es par tutta la famiglia
+PST001	#y #si #es #gran~ grande #es $par tutta la famiglia
 PST200	mh mhmh mhmh
 PST200	sì sì okay quindi la cucina comunque in italia vi piace
 PST001	sì
@@ -660,7 +660,7 @@ PST200	mh mhmh
 PST001	#_ y
 PST001	poco a poco #aún no #sea
 PST200	mh mhmhmh
-PST001	a #vamos a a imparar #seguir imparando el italiano per #poder parlare
+PST001	a #vamos a a $imparar #seguir imparando #*el italiano per #poder parlare
 PST002	mh piano piano
 PST200	mh
 PST200	mhmh mh ma è una lingua che vi piace o o no
@@ -693,13 +693,13 @@ PST201	e conoscete altre lingue
 PST002	mh
 PST001	no parliamo però sì un po' #de #inglés no
 PST200	okay
-PST001	#entiendo #también #como el saluto no eh #how #are #you è poco poco no
+PST001	#entiendo #también #como #*el saluto no eh #how #are #you è poco poco no
 PST200	mh mh
 PST002	#_ hola
 PST200	mh
 PST200	mh mhmhmh
-PST001	pero el italiano #es molto molto bello
-PST001	e #como #ustedes parlan sì #a #mi #me piace
+PST001	#*pero #*el italiano #es molto molto bello
+PST001	e #como #ustedes $parlan sì #a #mi #me piace
 PST002	mh
 PST200	mhmh
 PST001	ieri #fue una #como #se dice
@@ -711,11 +711,11 @@ PST201	sì
 PST002	#_ leer
 PST001	sì
 PST200	mh mhmhmh
-PST001	#y #yo #le~ le #digo a mio marito #así #vamos #a parlar
+PST001	#y #yo #le~ le #digo a mio marito #así #vamos #a $parlar
 PST001	sì sì
 PST200	sìsìsì
 PST002	xxx
-PST001	#se s~ se ascolta eh a abbastanza diferenzia #en~ en #lo #que #nosotros #a #lo #que #ustedes parlan
+PST001	#se s~ se ascolta eh a abbastanza #*diferenzia #en~ en #lo #que #nosotros #a #lo #que #ustedes $parlan
 PST200	ah quindi voi sentite tanta differenza tra voi
 PST001	sì
 PST001	porque nosotros como robot
@@ -725,25 +725,25 @@ PST200	mh mhmhmhmhmh
 PST001	xxx sì
 PST200	beh è normale siete da poco qua eh eh certo
 PST002	sì
-PST001	sì #y #pero #vamos a imparar piano piano
+PST001	sì #y #pero #vamos a $imparar piano piano
 PST002	mh
 PST200	ma mh con quando e come lo usate l'italiano nell~ nella vostr~ nella vostra giornata nella vostra vita lo usate non lo so
 PST200	tra di voi penso usate lo spagnolo il castigliano giusto eh con chi lo usate l'italiano
 PST001	poco eh a qui in scuola sì ehm quando andiamo al #supermercado
 PST200	al
 PST002	ospedale
-PST001	en l'ospedale
+PST001	#*en l'ospedale
 PST200	in ospedale è riuscite riuscite a capire i dottori i medici in ospedale
 PST001	sì
-PST001	a~ a #este un po' il dottore l'infermiera parlavan #a~ algunas n~ no no tutta #pero #algunas infermiera parlavan spagnolo
+PST001	a~ a #este un po' il dottore l'infermiera $parlavan #a~ algunas n~ no no tutta #pero #algunas infermiera $parlavan spagnolo
 PST200	mh
 PST200	okay
 PST002	spagnolo
 PST200	okay
-PST001	#había #una infermiera #de #ecuador #otra #venezolana venezuela
+PST001	#había #una #*infermiera #de #ecuador #otra #venezolana venezuela
 PST201	mhmh
 PST002	xxx
-PST001	#y una #peruana #también una tecnica una tecnica
+PST001	#y #*una #peruana #también una tecnica una tecnica
 PST200	ah
 PST200	quindi vi aiuta a anche a capire quello che vi spiegano i dottori
 PST001	mi a~ sì #bastante
@@ -755,7 +755,7 @@ PST200	eh
 PST001	sì eh xx
 PST200	eh perché sono cose
 PST002	mh
-PST001	el dottore #le #explicava a lei #y~ y #y #le #y #me~ me #me lo diceva a me
+PST001	#*el dottore #le #explicava a lei #y~ y #y #le #y #me~ me #me lo diceva a me
 PST200	sì sì sì sì
 PST001	#o #si #no con il con il #celular #qualquier #qualquier deman~ domanda #que io #tenía #escribía qui traduttore
 PST200	traduttore
@@ -767,7 +767,7 @@ PST001	#_ y ya sì este (.) me comunicaba
 PST200	mh mhmh
 PST001	#_ impresión
 PST001	#_ y como eh como le digo y aquí hab~ parlamos
-PST001	e #cuando #vamos al supermercato en elospedale
+PST001	e #cuando #vamos #*al supermercato #*en #*elospedale
 PST001	#luego no mh no molto #pues
 PST002	no molto
 PST200	mh mh
@@ -789,8 +789,8 @@ PST200	e sentite differenza tra il vostro italiano e l'italiano magari di una pe
 PST001	sì
 PST002	xxx
 PST001	sì sì sì
-PST001	el marocchino no no s~ #no #puede pronunciare la la e lo #dice i ah molto difficile per per
-PST002	#_ pronunciare
+PST001	#*el marocchino no no s~ #no #puede #*pronunciare la la e lo #dice i ah molto difficile per per
+PST002	#_ #*pronunciare
 PST201	mh mh
 PST002	a~ ah la erre la erre no
 PST001	per loro sì
@@ -807,7 +807,7 @@ PST002	los africanos también
 PST001	#_ también
 PST001	#_ pero sì ahí (.) en~ nos comunicamos
 PST200	mh mhmhmh
-PST001	#la #lengua più difficile pero #tratamos #de de #poder #comunicarnos #no
+PST001	#la #lengua più difficile #*pero #tratamos #de de #poder #comunicarnos #no
 PST200	mh mhmh poi voi potete anche dire qualche parola in spagnolo perché è simile mentre gli arabi
 PST001	sì
 PST002	mh
@@ -821,7 +821,7 @@ PST001	ah sì #también eh film
 PST001	#_ que película hemos visto esta vez ((ride))
 PST002	#_ película
 PST002	#pinocho
-PST001	pino~ pinoccio
+PST001	$pino~ pinoccio
 PST200	ah pinocchio sì
 PST001	pinocchio in italiano
 PST002	pinocchio
@@ -830,14 +830,14 @@ PST001	#_ hay frases no frases en que podemos
 PST001	#un #poco e~ e~ ascoltar #como #se pronuncia no
 PST200	mh
 PST001	#porque #no no #aún #no no #veníamos #a la scuola
-PST001	#entonces #en #videos no #en film #en youtube eh in~ in~ imparàvamos el el italiano
+PST001	#entonces #en #videos no #en film #en youtube eh in~ in~ $imparàvamos #*el el italiano
 PST002	mh mh youtube internet
 PST200	mh
 PST200	mh mhmh
 PST001	dopo un amico m~ mh #me #dijo #para per venire #aquí
 PST001	#_ y ahí desde ahí ya un poco más
 PST200	mhmhmhmhmh
-PST001	poco más para imparar
+PST001	poco más para $imparar
 PST200	mh ehm e ascoltate anche un po' di musica in italiano oppure no
 PST001	sì #pero #en #en l'alexa
 PST200	ah okay
@@ -875,7 +875,7 @@ PST201	eh
 PST200	okay lo svegliamo
 PST001	svegliamo
 PST002	svegliamo
-PST001	e su colazione mangia #igual #nosotros
+PST001	e #*su colazione mangia #igual #nosotros
 PST001	eh #le #decimos #que #va~ vamos andiam~ #como #se #dice #vamos #a la scuola no
 PST002	andiamo
 PST001	#vamos #a la scuola
@@ -910,22 +910,22 @@ PST002	viola
 PST001	sì
 PST002	eh ya tengo que
 PST001	#cargarlo
-PST001	#lo carga #en el collo
+PST001	#lo carga #en #*el collo
 PST200	ah sì sì lo mette lo mette sulle spalle
 PST002	eh
 PST001	sì sì
 PST002	io #un #poco #cansao
 PST001	#_ fatigado él termina ((ride))
 PST200	mh
-PST001	el giorno #un #poco #como #se dice #cansado
+PST001	#*el giorno #un #poco #como #se dice #cansado
 PST002	mh mh
 PST200	mh
 PST001	#y dopo de la scuola andiamo a casa
-PST001	cucin~ cucino no #preparamos el~ el el el cibo
+PST001	cucin~ cucino no #preparamos #*el~ el #*el #*el cibo
 PST200	mh
-PST001	eh dopo mangiamos
+PST001	eh dopo $mangiamos
 PST001	eh
-PST001	andiamo a via qua a caminar
+PST001	andiamo a via qua a #*caminar
 PST002	mh
 PST001	allora m~ allora un~ un~ un #poco #más in più
 PST002	mh
@@ -961,7 +961,7 @@ PST200	okay okay okay sìsìsìsì imbianchino si chiama in italiano
 PST002	pittura ah
 PST002	ah eh industriale ehm #en #en #refinerías #de #gas petrolio
 PST200	okay okay okay
-PST002	eh #igual #este #mi~ mi lavoro #era #este in provincia
+PST002	eh #igual #este #mi~ mi lavoro #era #este in #*provincia
 PST200	okay
 PST002	#en #otra città
 PST001	lontano #en #otra città sì
@@ -1009,16 +1009,16 @@ PST201	okay
 PST002	mh
 PST200	mhmhmhmh
 PST002	eh
-PST002	xxx #a #llegar #a qui ehm #un #poco que
-PST001	#_ difficultà
-PST002	difficultà è lavoro è un poco difficile perché
+PST002	xxx #a #llegar #a qui ehm #un #poco #*que
+PST001	#_ #*difficultà
+PST002	#*difficultà è lavoro è un poco difficile perché
 PST001	#por cercare lavoro
 PST002	#sin il permesso non no #no #poder lavorare
 PST200	per i documenti
 PST002	#por i documenti eh
 PST001	sì xxx
 PST200	mh mhmhmhmh
-PST002	pero piano piano
+PST002	#*pero piano piano
 PST200	mh ci vuole tempo per i documenti
 PST002	mh eh ecco
 PST001	sì
@@ -1079,7 +1079,7 @@ PST001	sì
 PST001	adonde vive
 PST200	eh
 PST002	ehm
-PST001	#como #se chiama su el la fermata
+PST001	#como #se chiama su #*el la fermata
 PST002	ehmrivoli
 PST001	ah a rivoli sì
 PST200	ah okay
@@ -1096,7 +1096,7 @@ PST001	la mamma #de lui
 PST001	sì suocera
 PST201	suocera
 PST002	mh
-PST001	un'amica de mia #y
+PST001	un'amica #*de mia #y
 PST001	#por #mi suocera #conocemos #a la signora si chiama la s~ la signora
 PST200	mh
 PST200	mh mh
@@ -1119,7 +1119,7 @@ PST001	lui prima #no n~ #no #quería #venir
 PST002	#no #quería venire
 PST200	perché
 PST002	eh
-PST001	eh en en el aula europa en el salón europa eh
+PST001	eh #*en #*en #*el aula europa #*en #*el salón europa eh
 PST200	mh mh
 PST201	sì
 PST001	e #es #más parlare no parlare #dialogar ehm
@@ -1141,14 +1141,14 @@ PST201	ah nessuno
 PST001	nes~ nessuno
 PST200	però ci sono e~ ci sono persone c'è un~ una comunità di peruviani
 PST200	a torino
-PST001	#aquí solo #en la scuola #que parliamo però dopo a casa #cada #cada #uno ha suo lavore no
+PST001	#aquí solo #en la scuola #que parliamo però dopo a casa #cada #cada #uno ha suo $lavore no
 PST200	ah
 PST002	mh
 PST200	mh
 PST201	mh
 PST001	lavoro
 PST200	mhmh
-PST001	#pero #así #que no #su sorella su sorella de lui qui in italia #también
+PST001	#pero #así #que no #su sorella #*su sorella #*de lui qui in italia #también
 PST002	no
 PST201	ah
 PST200	okay
@@ -1173,10 +1173,10 @@ PST201	sì che scuola avete fatto in perù non so
 PST200	se avete studiato
 PST001	mah
 PST002	ah tu
-PST001	io #he #estudiado eh cosmetica dermatologica
+PST001	io #he #estudiado eh #*cosmetica #*dermatologica
 PST200	okay
 PST201	okay
-PST001	#de #belleza no eh perrucchieri eh #a #la #piel tre anni
+PST001	#de #belleza no eh #*perrucchieri eh #a #la #piel tre anni
 PST201	sì
 PST201	sìsì
 PST200	okay ma eh la sc~
@@ -1250,12 +1250,12 @@ PST201	la tastiera
 PST001	è
 PST001	un po' poco
 PST001	è diverso
-PST001	al al~ al~ a lo de perù
+PST001	al al~ al~ #*a #*lo #*de perù
 PST200	ah
 PST001	no hay eñe
 PST001	eh la enne con sì #acá #no #hay #eñe
 PST200	sì sì sì con
-PST001	#algunas parolas letras no letras
+PST001	#algunas $parolas letras no letras
 PST200	mhmhmhmh
 PST200	okay
 PST001	sì
@@ -1268,21 +1268,21 @@ PST200	ah
 PST001	#ya con mio figlio ultimo #ya m~ #más #un #poco #más #grande #ya andiamo
 PST001	#mi #mi cugino #mi cugina
 PST001	andiamo sempre al cinema
-PST002	però m~ mio~ mio figlio #tiene poca paciencia
+PST002	però m~ mio~ mio figlio #tiene poca #*paciencia
 PST002	eh
 PST200	ah
-PST002	eh un #lugar
+PST002	eh #*un #lugar
 PST002	eh quindici minuti #y #ya è ora di andare eh
 PST200	vuole anda~
 PST001	no si no se acostumbra
 PST200	eh
 PST002	mh mh
-PST001	perché quando andiamo alla alla alla signora a su a su casa mio figlio tranquillo
+PST001	perché quando andiamo alla alla alla signora #*a #*su #*a #*su casa mio figlio tranquillo
 PST201	sì
 PST001	eh lei c'ha #mirando la televisione no guardando la televisione
 PST201	mh
 PST200	eh
-PST001	tranquillo pero #hay eh #lugares che no le piace #entonces
+PST001	tranquillo #*pero #hay eh #lugares che no le piace #entonces
 PST200	mh
 PST001	andiamo a casa #dice andiamo a casa
 PST200	mh mhmhmhmh
@@ -1333,7 +1333,7 @@ PST002	eh sì eh il milan
 PST200	ah
 PST201	ah
 PST002	eh
-PST002	buen~ eh fan de cristiano ronaldo un #tiempo della juve #ya pero milan
+PST002	buen~ eh fan #*de cristiano ronaldo #*un #tiempo della juve #ya #*pero milan
 PST200	eh
 PST201	eh
 PST200	sì sì
@@ -1345,14 +1345,14 @@ PST001	#_ no no no mucho (.) no mucho
 PST200	mh
 PST002	eh
 PST001	la televisione no no no no
-PST002	no mio figlio eh #dibujos #animados xxx paperos
+PST002	no mio figlio eh #dibujos #animados xxx $paperos
 PST001	es poco
 PST200	ah no
 PST001	mh a #ay viene
 PST200	no no fermi
 PST200	ehm
 PST201	è un xxx no
-PST001	poco la televisione poco sì no no no ascoltamos no no no guardiamo
+PST001	poco la televisione poco sì no no no $ascoltamos no no no guardiamo
 PST200	mhmhmhmh
 PST200	mh
 PST200	mhmhmhmhmh
@@ -1383,40 +1383,40 @@ PST002	xxx
 PST002	ah o no
 PST002	mucho
 PST002	habían dado no había
-PST001	#la #vacuna el #registro #de #vacunas el codice fiscale el passaporto #pero sì vacanza #no #había
+PST001	#la #vacuna #*el #registro #de #vacunas #*el codice fiscale #*el passaporto #pero sì vacanza #no #había
 PST002	no puoi incontrare #una #escuela
 PST002	había vacantes
 PST200	ah
-PST001	#he #ido una l' oltra scuola no cercando
+PST001	#he #ido una l' $oltra scuola no cercando
 PST002	mh
-PST001	pero e~ #encontré #uno #cerca vicino qui eh mh la scuola
+PST001	#*pero e~ #encontré #uno #cerca vicino qui eh mh la scuola
 PST200	okay
 PST200	okay
-PST001	#y #ahí el el maestro si chiama #está #al #tanto #de mio figlio no
+PST001	#y #ahí #*el #*el maestro si chiama #está #al #tanto #de mio figlio no
 PST200	mh mh
 PST200	okay
-PST001	l'amica mia mh #ella #está #en comunicazione con el con el maestro
+PST001	l'amica mia mh #ella #está #en comunicazione con #*el con #*el maestro
 PST200	okay okay okay okay
 PST200	quindi sapete dove che scuola okay
 PST001	xxx sì sì
 PST002	sì
-PST001	#que #no #puede #ir él dice okay va bene tranquillo #hasta #que #esté #más #estable il bambino
+PST001	#que #no #puede #ir #*él dice okay va bene tranquillo #hasta #que #esté #más #estable il bambino
 PST002	bambino xxx
 PST200	mh
 PST200	okay okay
 PST200	però speriamo torni presto a scuola anche per conoscere amici altri bambini
-PST001	si #eso #porque #él #está solo eh #se si sente solo no no #tengo nessuno amici dice sì
+PST001	si #eso #porque #él #está solo eh #se si sente solo #*no #*no #tengo nessuno amici #*dice sì
 PST200	eh sì
 PST201	mh
 PST200	eh sì
-PST001	#entonces #ya eh #en #perú la~ la scuola #es diversa da qui in perù inizia en en en marzo la scuola
+PST001	#entonces #ya eh #en #perú la~ la scuola #es diversa da qui in perù inizia #*en #*en #*en marzo la scuola
 PST002	tre anni
 PST002	ah en
 PST201	ah
 PST001	perú
 PST002	eh undici
 PST200	a marzo
-PST001	eh #el lunedì el lunedì #empezò iniziò la scuola in perù in #de dicembre
+PST001	eh #el lunedì #*el lunedì #empezò iniziò la scuola in perù in #de dicembre
 PST002	undici di marzo
 PST200	eh
 PST200	ah
@@ -1429,7 +1429,7 @@ PST001	diciotto #veintiún ventuno ventidue
 PST002	eh
 PST002	#en giu~ #en #en lu~
 PST001	giu~ giulio
-PST002	eh lu~ lulio
+PST002	eh lu~ $lulio
 PST200	luglio luglio luglio
 PST002	luglio una settimana #de vacanza
 PST001	luglio
@@ -1439,7 +1439,7 @@ PST002	ahah
 PST001	xxx
 PST001	se
 PST200	wow
-PST001	#pero #e~ el clima #también #es diverso sì en marzo #es~ #es~ #este
+PST001	#pero #e~ el clima #también #es diverso sì #*en marzo #es~ #es~ #este
 PST200	eh sì
 PST201	ah
 PST002	xxx
@@ -1447,12 +1447,12 @@ PST001	se~ no
 PST002	#_ otoño
 PST001	#_ verano todavía
 PST002	ya acaba ya
-PST001	abrile ma~ #abril #mayo sì #otoño ant~ autunno #em~ #empieza ah ah
+PST001	#*abrile ma~ #abril #mayo sì #otoño ant~ autunno #em~ #empieza ah ah
 PST200	mh
 PST200	okay
 PST201	ah
 PST002	autunno
-PST001	el invie~ inverno en julio no junio julio agosto el invierno
+PST001	#*el invie~ inverno en julio no junio julio agosto el invierno
 PST002	#_ setembre
 PST002	mh
 PST200	ah
@@ -1461,30 +1461,30 @@ PST002	ah primavera settembre settembre xxx ventitré
 PST001	primavera settembre
 PST200	ah proprio diverso non sapevo questa cosa
 PST001	mh è diverso sì
-PST001	#nosotros #venimos arrivamos a qui quando
+PST001	#nosotros #venimos $arrivamos a qui quando
 PST002	#de settembre
 PST002	#_ octubre
 PST001	ahm si chiama mio figlio fini~ finis #como se finito il la scuola no
 PST200	okay
 PST201	sì
-PST001	un #mes #y #antes che finisce la scuola
-PST001	#y #aquí inizia en settembre #entonces un po' #y #ya #él eh mio figlio sei anni sei anni obbligatorio qui
+PST001	#*un #mes #y #antes che finisce la scuola
+PST001	#y #aquí inizia #*en settembre #entonces un po' #y #ya #él eh mio figlio sei anni sei anni obbligatorio qui
 PST002	mh
 PST200	eh sì
 PST201	eh sì
 PST001	eh studiare il bambino #y eh #buscando scuola scuola
 PST002	mh
 PST201	mh
-PST001	ehm #justo eh quando il dottore #para il el intervento mi chiama el maestro mi chiama #de la scuola #que #hay vacanza
+PST001	ehm #justo eh quando il dottore #para il #*el intervento mi chiama #*el maestro mi chiama #de la scuola #que #hay vacanza
 PST002	mh
 PST002	xxx almeno #te #llaman te #llama xxx
 PST200	mhmh
 PST001	eh #ya #el #el #mismos giorni eh
-PST001	preferisco el l'intervento #pués no #y #le #hemos #comunicado al maestro che che no no pud~ poteve poteve xxx #ir che poteva #ir #entonces
+PST001	preferisco #*el l'intervento #pués no #y #le #hemos #comunicado al maestro che che no no pud~ poteve poteve xxx #ir che poteva #ir #entonces
 PST200	poteva sì
 PST201	mhmh
 PST001	tutto
-PST001	tutto #claro con el maestro
+PST001	tutto #claro con #*el maestro
 PST200	mh
 PST200	eh avete tante tante cose a cui pensare insomma
 PST001	sì
@@ -1517,7 +1517,7 @@ PST001	qualcosa #que #quieras #contar
 PST002	mhmh
 PST001	eh xxx non parla tanto un poco
 PST200	sì sì sì
-PST001	un poco reservado sì
+PST001	un #*poco #*reservado sì
 PST200	sì sì
 PST201	sì
 PST001	o timido

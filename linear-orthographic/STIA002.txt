@@ -500,7 +500,7 @@ PST009	eh fotografia radio
 PST054	cucina
 PST009	cucina
 PST202	wow
-PST009	e e mi sembra psychling
+PST009	e e mi sembra $psychling
 PST202	cosa
 PST009	e aspetta
 PST202	no non ho idea di cosa sia eh

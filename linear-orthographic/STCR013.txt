@@ -95,7 +95,7 @@ PST086	con anche
 PST086	uno spettacolo
 PST092	questa è la #reaction di cioè io sono altamente stupita sinceramen~
 PST211	ciao shock
-??	xxx scioccobasita
+??	xxx $scioccobasita
 PST211	ma poi tutto co~ è successo così in fretta capito cioè un giorno pri~
 ??	tutto così tutto così cioè una settimana fa neanche sapevamo di questo essere vivente
 PST211	neanche neanche esisteva era nato e adesso
@@ -115,8 +115,8 @@ PST211	effettivamente
 PST092	no io l'ho fatto sudare l'ho fatto ti~ l'ho fatto aspettare tre ore per sto bacio
 PST086	però però però però però
 PST086	devi fare attenzione a chi lo dici cara mia
-??	e comunque sono ancora scioccobasita
-PST211	scioccobasita totale
+??	e comunque sono ancora $scioccobasita
+PST211	$scioccobasita totale
 PST086	devi fare attenzione a chi lo dici
 PST092	non xx
 PST086	e sai a chi mi riferisco
@@ -214,7 +214,7 @@ PST092	in ritardo però per le tre
 PST086	dieci euro qua
 PST211	vai falla lo stesso anche tu con i tuoi dati
 PST203	michia costa il ritardo
-PST211	ciosccobasita
+PST211	$ciosccobasita
 PST211	io avevo capito ciocco basita tipo
 PST092	è capace di scrivere anche quello
 PST211	vaniglia ciocco ciocco vaniglia
@@ -552,7 +552,7 @@ PST203	ciao
 PST211	ciao
 PST092	ciao
 PST092	eh no comunque eh
-PST092	il eh signore ha la stessa identifa indentica fotocamera di
+PST092	il eh signore ha la stessa $identifa indentica fotocamera di
 PST092	infatti quando l'ho vista mi si sono illuminati gli occhi
 PST092	e ha detto ma
 PST092	tu come la sai perché la sai usare e gli ho spiegato il progetto che stiamo facendo qua
@@ -715,7 +715,7 @@ PST085	sì
 PST087	una delle
 PST087	possiamo dire grandi artiste più o meno
 PST087	sì
-PST085	uh maronna eh
+PST085	uh $maronna eh
 PST092	oh ma co~ la dovete smettere
 PST087	lascia giù
 PST085	c'è una cosa chiamata non disturbare
@@ -854,7 +854,7 @@ PST085	perché loro lo sanno
 PST211	noi sappiamo qualcosa che tu non sai
 PST087	ah non gliel'hai detto
 PST085	ma cos'è che tutti lo sapete
-PST211	guarda l eh eh sciocco scioccobasita è questa
+PST211	guarda l eh eh $sciocco $scioccobasita è questa
 PST085	cioè lo sanno chi è che non lo sa qua
 PST092	e e lei
 PST092	per il resto lo sappiamo io

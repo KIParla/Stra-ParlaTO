@@ -581,7 +581,7 @@ PST113	dai finisci
 PST114	mi sembra di stare in estate quando bevo quei rosé di merda lì in provenza terribili
 PST115	perché oggi il rosé è così
 PST113	ma con mi viene voglia di vino non lo so
-PST114	mi è venuto voglia gli ho detto prima per prendere quei piattini del cazzo un roséino
+PST114	mi è venuto voglia gli ho detto prima per prendere quei piattini del cazzo un $roséino
 PST115	ma
 PST113	e ieri con ci siamo fatti quattro bottiglie
 PST114	no

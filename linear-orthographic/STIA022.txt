@@ -140,7 +140,7 @@ PST144	non la vedo quasi mai
 PST222	sì non rimangono qua per due mesi
 PST144	no non rimangono tanto
 PST222	assolutamen~ assolutamente è meglio che voi
-PST222	ritornassete
+PST222	$ritornassete
 PST144	ritornaste
 PST222	ritornaste
 PST222	in marocco
@@ -164,7 +164,7 @@ PST222	#_ xaṭib-ek
 PST144	sì
 PST222	questo nella macchina
 PST144	sì
-PST222	è moracchino
+PST222	è $moracchino
 PST144	sì
 PST222	allora venga
 PST222	no veramente viene
@@ -474,9 +474,9 @@ PST222	okay
 PST222	sì progettare per domani però lavor~ lavora oggi e fai quello che de~ che devi fare
 PST144	sì
 PST222	e poi vedrai i risultati i risultati a~
-PST222	mh avvingono
+PST222	mh $avvingono
 PST222	se
-PST222	avvingono tipo si realizzano sì si realizzano
+PST222	$avvingono tipo si realizzano sì si realizzano
 PST144	avven~ okay si realizzano okay
 PST222	eh con il tempo
 PST222	okay
@@ -608,7 +608,7 @@ PST144	sì
 PST222	okay
 PST222	voi
 PST222	okay solo cento per cento
-PST222	quanto quando ti trovi con eh altri arabofoni che non sono moracchini
+PST222	quanto quando ti trovi con eh altri arabofoni che non sono $moracchini
 PST144	mh
 PST222	eh
 PST222	quanto più o meno
@@ -626,9 +626,9 @@ PST222	sì sì molto molto molto carino
 PST222	e poi quando tu rispondi in #darija nessuno ti capisce
 PST144	eh no esatto lui non mi capiscono
 PST222	è molto difficile
-PST222	c'è un ragazzo un ragazzo moracchino nella mia nella mia casa
+PST222	c'è un ragazzo un ragazzo $moracchino nella mia nella mia casa
 PST222	quando lui parla allora io vivo con due raga altri due ragazzi
-PST222	okay uno moracchino e l'altro tunisi~ tunisino
+PST222	okay uno $moracchino e l'altro tunisi~ tunisino
 PST222	quando loro parlano e non capisco nulla
 PST144	eh
 PST222	io mi sento un pesce rosso
@@ -651,8 +651,8 @@ PST144	ci sono tante parole che sono mixate tra arabo e berbero
 PST144	ad esempio
 PST222	molto difficile
 PST144	sì
-PST222	quindi il dailetto egiziano
-PST222	non è un dailetto più
+PST222	quindi il $dailetto egiziano
+PST222	non è un $dailetto più
 PST144	no lo capisco
 PST222	un'altra copia del eh dell'arabo standard
 PST144	sì s~
@@ -711,7 +711,7 @@ PST222	vai via
 PST144	no io sono ancora in aula
 PST222	ah okay
 PST222	ma allora dura il più possibile
-PST222	per questo progetto con la università mi servono fare registrazioni con i moracchini
+PST222	per questo progetto con la università mi servono fare registrazioni con i $moracchini
 PST222	okay quindi tu sei to un candidato
 ??	uno o due minuti posso
 PST222	due minuti
@@ -782,7 +782,7 @@ PST222	eh okay
 PST222	questo livello che hai acquisito nella scuola
 PST144	mh
 PST222	okay
-PST222	quando ritorni in moracco
+PST222	quando ritorni in $moracco
 PST222	okay
 PST222	tu parli solo tu parli il #darija perfettamente
 PST144	sì
@@ -795,7 +795,7 @@ PST222	se un egiziano o un'altr~ un'altra un'altra persona
 PST222	va in questa scuola
 PST144	mh
 PST222	okay
-PST222	eh è ha dato opportunia per lui o solo per i marocchini
+PST222	eh è ha dato $opportunia per lui o solo per i marocchini
 PST144	no
 PST222	oppure esiste questa modalità
 PST144	avevo avevo anche egiziani io in classe
@@ -811,7 +811,7 @@ PST222	si chiama afaq sai è la prima volta
 PST144	afaq sì
 PST222	eh la prima volta a sapere questa associazione
 PST144	mh
-PST222	sai moracchini qua hanno veramente fanno tante attività
+PST222	sai $moracchini qua hanno veramente fanno tante attività
 PST144	sì
 PST222	per tenere la cultura
 PST144	sì
@@ -824,16 +824,16 @@ PST222	ci sono tanti egiziani la comunità egiziana
 PST222	okay
 PST222	eh c'è c'è un grande è una grande comunità egiziana qua
 PST222	però non fanno nessuna attività
-PST222	tutta l'a~ tutte le attività sono mh di moracchini
+PST222	tutta l'a~ tutte le attività sono mh di $moracchini
 PST144	mh
-PST222	organizzatori moracchini dia moracchini
+PST222	organizzatori $moracchini $dia $moracchini
 PST222	egiziani
-PST222	orga~ alcuni alcuni argoni~ arga~ ehm argonizzatori
+PST222	orga~ alcuni alcuni $argoni~ $arga~ ehm $argonizzatori
 PST222	ehm come si dice
 PST144	organizzatori
 PST222	organizzatori sono egiziani
 PST222	però tutta l'attività
-PST222	è fatta dai moracchini
+PST222	è fatta dai $moracchini
 PST222	sia per l'islam che per l'arabo
 PST222	sia per la per la cultura
 PST222	anche per il cibo
@@ -863,7 +863,7 @@ PST222	perde la il senso
 PST144	sì
 PST222	ma
 PST222	tu hai tu sai già tanti battute
-PST222	italiane o no a un livello eh a livello umoroso an~ eh si dice in in inglese
+PST222	italiane o no a un livello eh a livello $umoroso an~ eh si dice in in inglese
 PST144	ah sì
 PST144	sì umoristico sì sì
 PST222	si chiama umoristico
@@ -896,9 +896,9 @@ PST144	hai fallito
 PST222	sì ho fallito
 PST144	ah ehm
 PST144	non so provati a guardare un film di aldo giovanni e giacomo loro sì che son divertenti
-PST222	poi anche il livello della il livello della umi~ umilistà
-PST222	il livello di umilistà
-PST222	il livello umoroso non lo so
+PST222	poi anche il livello della il livello della umi~ $umilistà
+PST222	il livello di $umilistà
+PST222	il livello $umoroso non lo so
 PST144	umoristico
 PST222	umoristico sì umoristico eh sì il livello umoristico di arabi okay è tanto più di europei generalmente
 PST144	okay
@@ -908,7 +908,7 @@ PST144	ma in realtà dipende cioè dipende tanto
 PST144	dipende
 PST144	dipende dalla situazione dipende dalla conversazione dipende
 PST144	dipende
-PST222	tipo quando per esempio quando eh esco con quando incontro amici moracchini o egiziani
+PST222	tipo quando per esempio quando eh esco con quando incontro amici $moracchini o egiziani
 PST144	mh
 PST222	ehm qualsiasi evento okay
 PST222	che avvenga nella strada nella moschea o dopo anche in bar
@@ -1018,7 +1018,7 @@ PST222	poi durante il covid in questi due anni okay
 PST222	ho fatto un gran gran passo in questa nella lingua
 PST144	mh
 PST222	ehm non era non era una un periodo così negativo per noi
-PST222	fortunamente
+PST222	$fortunamente
 PST144	mh
 PST222	eh tu parli il francese
 PST144	sì
@@ -1117,7 +1117,7 @@ PST144	eh no perché volevo andare a studiare lì
 PST222	a studiare in te~ in germania
 PST144	in germania sì
 PST222	okay
-PST222	ma non hai pe~ non hai pensato di per esempio norvega
+PST222	ma non hai pe~ non hai pensato di per esempio $norvega
 PST222	olanda
 PST144	norvegia
 PST222	norvegia
@@ -1193,7 +1193,7 @@ PST222	tutti noi quasi tutti noi arabi
 PST222	sempre provochiamo questa questo argomento tipo
 PST222	okay abbiamo soldi viviamo in europa però non abbiamo una vita
 PST144	eh n~ non c'è la vita cioè non
-PST222	non si godisc~ non si godisce la vita come in egitto per ese~ come in moracco
+PST222	non si $godisc~ non si $godisce la vita come in egitto per ese~ come in $moracco
 PST144	no non no non non ci si gode la vita cioè nel senso
 PST144	eh nei paesi nordici specialmente cioè
 PST144	cosa fai io ho un amico che abita che abita in danimarca
@@ -1251,7 +1251,7 @@ PST222	la nuova situazione
 PST144	mh
 PST222	okay
 PST222	e poi mi sono trovato lo stesso nel mare nella metà
-PST222	okay non godi~ non mi godisco la
+PST222	okay non godi~ non mi $godisco la
 PST222	la egizianità essere egiziano
 PST222	okay l'egitto
 PST222	e poi non riesco anche a integrarmi
@@ -1344,9 +1344,9 @@ PST222	okay
 PST222	eh ho una variazione di questa derivazione di questa parola
 PST222	okay #'anisa
 PST222	ehm la persona che non ti fa
-PST222	non ti fa sentire solotu~ solotudine solo solotidine
+PST222	non ti fa sentire solotu~ $solotudine solo $solotidine
 PST144	sol~ solitudine
-PST222	solutidine okay questa parola
+PST222	$solutidine okay questa parola
 PST222	okay
 PST144	mi dispiace
 PST222	no vai tranquilla
@@ -1399,8 +1399,8 @@ PST144	~zione sì
 PST222	questa parola in xx
 PST222	okay
 PST222	eh una parola
-PST222	è successo che una parola ti ha affacinato
-PST222	facinato
+PST222	è successo che una parola ti ha $affacinato
+PST222	$facinato
 PST144	affascinato
 PST222	sì affascinato
 PST222	ti piace raccontarla sempre ai tuoi amici stranieri
@@ -1604,7 +1604,7 @@ PST144	eh
 PST144	in che senso non ti capiscono
 PST222	per esempio questa parola #'anis perché è nuova fresca molto fresca due giorni fa
 PST144	ah
-PST222	abbiamo passato tipo un'ora la professoressa la mia professoressa del mio corso di arabo e i morocchini
+PST222	abbiamo passato tipo un'ora la professoressa la mia professoressa del mio corso di arabo e i $morocchini
 PST144	mh mh
 PST222	okay
 PST222	abbiamo passato tipo un'ora

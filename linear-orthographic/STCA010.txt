@@ -26,7 +26,7 @@ PST148	mio padre di solito durante l'estate rimane qui perché deve lavorare
 PST148	io invece dipende magari scendo da sola poi torno però mia mamma si trova lì
 PST222	io da da quattro anni non ho visto la mia famiglia
 PST148	ah mi spiace
-PST222	sì poi moracchini non avete non avete problemi con i documenti giusto
+PST222	sì poi $moracchini non avete non avete problemi con i documenti giusto
 PST147	no
 PST222	quindi andate e venite leberata~ liberamente
 PST147	πsì sì sì sì
@@ -128,7 +128,7 @@ PST222	okay
 PST147	e poi anche per questione di della macchina quindi della comodità della macchina
 PST222	ma durante questo viaggio
 PST147	sì
-PST222	okay perché io eh ho vissuto con un ragazzo tunisiano
+PST222	okay perché io eh ho vissuto con un ragazzo $tunisiano
 PST147	okay
 PST148	tunisino
 PST222	eh
@@ -141,7 +141,7 @@ PST149	mh mh sì
 PST222	eh sempre quando andava in eh in tunisia
 PST222	andava con la macchina
 PST147	sì
-PST222	poi dico perché va un pei eh poi gli chiedevo perché viaggia in tunisia con la macchina
+PST222	poi dico perché va un $pei eh poi gli chiedevo perché viaggia in tunisia con la macchina
 PST148	eh
 PST222	eh perché
 PST222	veramente è una lunga strada
@@ -163,9 +163,9 @@ PST147	sì
 PST222	okay durante questo viaggio
 PST148	eh
 PST222	eh non fate eh come si chiama
-PST222	eh crust eh
+PST222	eh $crust eh
 PST147	no
-PST222	eh cruseria
+PST222	eh $cruseria
 PST147	non ho capito che cos'è
 PST222	#_ cruise
 PST222	ehm
@@ -175,7 +175,7 @@ PST147	sì
 PST148	nave da crociera
 PST222	okay
 PST222	sì
-PST222	crociera non fate una croceria con con la macchina
+PST222	crociera non fate una $croceria con con la macchina
 PST147	okay no no no no
 PST147	no
 PST222	non usate i posti
@@ -253,7 +253,7 @@ PST149	andiamo al mare
 PST149	basta cioè facciamo proprio la vacanza solo mare
 PST148	classica italiana pro~
 PST149	sì sì vacanza classica italiana si va si va in spiaggia si mangia in pizzeria la sera si va nelle giostre poi
-PST222	ma i campi la ver~ eh la verda
+PST222	ma i campi la ver~ eh la $verda
 PST149	sì sì
 PST147	il il verde
 PST149	il verde
@@ -708,7 +708,7 @@ PST222	ma qua okay per il cibo okay
 PST149	mh
 PST222	tipo la cultura marocchina qua
 PST222	è molto comune
-PST222	i ristoranti moracchini
+PST222	i ristoranti $moracchini
 PST148	mh mh
 PST149	sì in italia sì perché ci son tante ge~ ci sono
 PST149	qua le generazioni di marocchini sono già alla seconda
@@ -747,7 +747,7 @@ PST147	sì
 PST148	mh
 PST149	ce ne sono di più
 PST147	invece torino molto di più i marocchini
-PST222	i moracchini
+PST222	i $moracchini
 PST147	questo si vede anche per esempio se vai a porta palazzo
 PST147	a porta palazzo ci son solo marocchini
 PST222	solo marocchini
@@ -805,7 +805,7 @@ PST222	xxx
 PST222	ma quali piatti preferiti che tenete qua oppure in marocco
 PST147	vabbè il cuscus
 PST149	piatti marocchini
-PST222	sì piatti moracchini
+PST222	sì piatti $moracchini
 PST148	mh
 PST147	vabbè il cuscus per esempio
 PST147	nelle case dei marocchini per forza un giorno alla settimana si fa il cuscus
@@ -844,7 +844,7 @@ PST147	no
 PST148	però li fanno solo i marocchini qui
 PST147	i tacos allora
 PST147	no i tacos
-PST222	il ta~ il tacos il tacos è mexicano
+PST222	il ta~ il tacos il tacos è $mexicano
 PST222	giusto
 PST148	no no perché la maggior parte
 PST147	sì sì ma c'è c'è x francese
@@ -875,7 +875,7 @@ PST222	no no no l'altro quello messicano
 PST147	#_ kuskusū
 PST148	i tacos
 PST147	i tacos
-PST222	tacus sì tacos o tacus
+PST222	$tacus sì tacos o $tacus
 PST148	mh mh
 PST147	tacos
 PST148	tacos
@@ -913,7 +913,7 @@ PST148	la salsa sì
 PST222	per il resto era molto normale non c'è
 PST149	sì sì
 PST148	a me piace un casino invece
-PST222	il tacus
+PST222	il $tacus
 PST148	mh
 PST222	però qua eh a torino a torino ci sono tanti ristoranti che lo fanno
 PST148	sì sì infatti
@@ -1174,9 +1174,9 @@ PST222	sì
 PST147	sì sì
 PST147	anche noi
 PST222	sì
-PST222	poi moracchini
-PST222	se ha~ se hai un legame con un moracchino poi ti dice
-PST222	ma non hai provato la il cibo moracchino
+PST222	poi $moracchini
+PST222	se ha~ se hai un legame con un $moracchino poi ti dice
+PST222	ma non hai provato la il cibo $moracchino
 PST148	è vero
 PST147	eh
 PST222	a a volte io dico no
@@ -1347,7 +1347,7 @@ PST147	eh
 PST149	no
 PST148	eh e questo è un errore
 PST149	perché ai miei genitori non piaceva la comunità
-PST222	la comiano si riflette eh
+PST222	la $comiano si riflette eh
 PST149	a mia mamma non piaceva la comunità eh le persone che c'erano e allora
 PST149	ci hanno fatto fare corsi privati i miei frate~ mio fratello sa scrivere molto bene
 PST149	perché noi facciamo abbiamo sempre fatto corsi in casa
@@ -1430,7 +1430,7 @@ PST222	eh il venerdì
 PST222	la preghiera del venerdì il
 PST147	sì in moschea
 PST148	eh sì sì
-PST222	eh mi trovo con alcuni ragazzi egiziani moracchini
+PST222	eh mi trovo con alcuni ragazzi egiziani $moracchini
 PST147	eh
 PST222	facciamo una chiacchie~ eh una chiacchiera per
 PST148	~chierata
@@ -1453,12 +1453,12 @@ PST222	eh quella #masjid o~ #masjid omar
 PST148	ah okay lì è pieno di egiziani
 PST222	la moschea di omar
 PST222	sì pieno di egiziani
-PST222	ma anche ci sono quasi la metà è moracchini la metà egiziani
+PST222	ma anche ci sono quasi la metà è $moracchini la metà egiziani
 PST148	mh
 PST222	okay
 PST222	eh non è solo
 PST148	ma i ragazzi che vengono in aula sono tutti egiziani che vanno lì
-PST222	okay però ci sono moracchini sono nascosti
+PST222	okay però ci sono $moracchini sono nascosti
 PST148	ah
 PST222	e hanno iniziato di parlare come egiziani
 PST148	no ehm so~ son quelli del gi emme i
@@ -1476,13 +1476,13 @@ PST148	quelli che vengono qui
 PST222	#yalla aurora
 PST222	io conosco solo #yalla aurora
 PST148	no no
-PST222	eh se ci sono dei moracchini
+PST222	eh se ci sono dei $moracchini
 PST222	che parlano egiziano
 PST147	dai
 PST222	sì
 PST222	poi quand i qua~ eh quando gli chiedo
 PST222	eh di dove sei
-PST222	io sono moracchino
+PST222	io sono $moracchino
 PST222	ma veramente
 PST148	eh sì è mh
 PST222	no questi veramente sei marocchino
@@ -1721,9 +1721,9 @@ PST148	sì
 PST147	si baciano
 PST222	eh si baciano si abbracciano
 PST147	sì è vero
-PST222	eh qui costrettono la mano
+PST222	eh qui $costrettono la mano
 PST148	sì sì
-PST222	sì costrettono la mano
+PST222	sì $costrettono la mano
 PST148	stre~
 PST149	si stringono
 PST222	stretta okay s~ stringono
@@ -2416,7 +2416,7 @@ PST222	del denti~ del eh del dentista
 PST149	del dentista
 PST147	sì
 PST148	eh beh
-PST222	perché è un ambito molto molto vor~ vol~ eh vurnabile
+PST222	perché è un ambito molto molto vor~ vol~ eh $vurnabile
 PST222	al eh
 PST148	vulnerabile
 PST222	vulnerabile

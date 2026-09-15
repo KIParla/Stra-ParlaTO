@@ -261,7 +261,7 @@ PST086	mh
 PST086	uh cazzo
 PST092	un lavoro
 PST092	ma ce la fai
-PST092	tu #nu
+PST092	#*tu #nu
 PST086	#_ mă și înregistrează
 PST092	lo capiscono comunque il rumeno
 PST092	due ci ti erre
@@ -305,9 +305,9 @@ PST086	quella del gruppo #cu
 PST092	possiamo farli cantare quella del gruppo tanto lei lo sa
 PST086	vabbè dai
 PST086	e poi persone
-PST092	le persone che fanno parte di sta roba avansati
+PST092	le persone che fanno parte di sta roba $avansati
 PST086	avansa
-PST086	e come si avansati #și
+PST086	e come si $avansati #și
 PST092	gruppo avanzato
 PST092	di balli
 PST086	gruppo avanzato

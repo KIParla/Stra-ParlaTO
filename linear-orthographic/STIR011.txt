@@ -18,7 +18,7 @@ PST034	a mani vuote diciamo
 PST034	allora sono rimasta qua ho cercato a farla
 PST034	a farcela in tutti i modi
 PST212	okay
-PST034	e neancora oggi dopo ventidue anni non
+PST034	e $neancora oggi dopo ventidue anni non
 PST034	non sono riuscita con i documenti con la residenza
 PST034	dopo sedici anni c'ho un passaporto temporaneo
 PST034	ma non posso farmi una residenza
@@ -35,7 +35,7 @@ PST034	una cosa impossib~ se no mi trovo un lavoro
 PST212	okay
 PST212	quello è l~
 PST034	sì
-PST034	è già difficile che il mio compagno c'ha epilepsia cioè non lo puoi lasciare da solo
+PST034	è già difficile che il mio compagno c'ha $epilepsia cioè non lo puoi lasciare da solo
 PST034	quindi è una situazione
 PST212	un po' difficile credo che sia
 PST034	mh
@@ -114,8 +114,8 @@ PST212	quindi tu adesso eh non lavori ma stai cercando lavoro
 PST034	no non lavoro
 PST034	eh non lavoro
 PST034	che anche volendo non non posso il mio compagno c'ha
-PST034	ciros
-PST034	c'ha epilepsia
+PST034	$ciros
+PST034	c'ha $epilepsia
 PST212	ah quindi devi stare con lui
 PST034	eh
 PST034	eh
@@ -282,7 +282,7 @@ PST211	come mai dalla chimica al turismo
 PST034	eh eh eh eh eh
 PST034	perché la mia io volevo fare l'avvocato perché
 PST034	essendo al mare
-PST034	a con~ eh a c'è la mh come si chiama petrochimica
+PST034	a con~ eh a c'è la mh come si chiama $petrochimica
 PST211	mh
 PST034	mh come qua il come qua quella lì che
 PST034	inquina come si chia~ comunq~
@@ -303,7 +303,7 @@ PST211	l'ilva
 PST034	l'ilv~ eh
 PST034	eh come quell~
 PST034	e due p~ sono possibilità o fai il turismo
-PST034	o fai petrochimica
+PST034	o fai $petrochimica
 PST212	okay
 PST034	per avere e allora io per la sicurezza per avere un fu~ la nonna
 PST211	eh
@@ -442,7 +442,7 @@ PST211	cioè come ti sono rimaste ma come interagiscono tra loro perché magari
 PST211	eh non lo so se hai qualcuno con p~ con cui parlare romeno che però sai che parla anche italiano allora ti viene da alternare un po' romeno con italiano
 PST034	sì sì uh
 PST211	eh
-PST034	e lì pensano che tu lo fai apposto che non lo fai apposto ti esce la parola
+PST034	e lì pensano che tu lo fai $apposto che non lo fai $apposto ti esce la parola
 PST211	eh
 PST212	ma ad esempio tra mh cioè tra italiano e romeno quando hai imparato l'italiano hai notato delle somiglianze
 PST212	cioè c'è stata

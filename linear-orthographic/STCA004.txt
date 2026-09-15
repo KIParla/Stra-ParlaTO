@@ -69,7 +69,7 @@ PST109	prova con video
 PST211	e come si f~ cioè come sono le regole
 PST211	cioè chi arriva primo vince
 PST108	in che se~
-PST108	no non è chi arriva devono quando sparano devono arrivari tutti insieme
+PST108	no non è chi arriva devono quando sparano devono $arrivari tutti insieme
 PST211	ah okay
 PST108	s~
 PST108	una volta
@@ -488,9 +488,9 @@ PST217	ah ah sì
 PST217	sì sì sì ho capito
 PST110	hai capito
 PST110	io
-PST110	primo firmiaro capito
+PST110	primo $firmiaro capito
 PST108	cos'è firmiaro
-PST110	firmiere
+PST110	$firmiere
 PST108	infermiere
 PST217	infermiere
 PST110	sì io s~ ah però scrivi qua
@@ -507,7 +507,7 @@ PST217	ah ah okay sì
 PST109	non è grande
 PST110	quand'è
 PST217	sì
-PST110	quande scrivi così
+PST110	$quande scrivi così
 PST217	okay
 PST108	ma confonde qua
 PST110	e il dottore
@@ -682,7 +682,7 @@ PST108	questo tieni tu
 PST211	ah sì
 PST211	vabbè
 PST211	non funziona neanche tanto bene sta penna
-PST110	aziò
+PST110	$aziò
 PST217	funziona perché io dopo vedo se funziona veramente perché è una prova
 PST110	era di sua nonna
 PST217	eh non so come xx
@@ -744,7 +744,7 @@ PST211	ah ah
 PST108	c'era
 PST211	io sono stata mh
 PST211	nelle valli di lanzo
-PST108	vado anche dalli laghi
+PST108	vado anche $dalli laghi
 PST211	mh mh
 PST108	eh di lanzo
 PST211	mh
@@ -1047,7 +1047,7 @@ PST211	ah okay
 PST108	hai visto come si fanno
 PST108	così
 PST211	mh buono
-PST110	coppè coppè
+PST110	$coppè $coppè
 PST108	quello
 PST217	cosa
 PST108	è una ma cosa stai dicendo
@@ -1278,7 +1278,7 @@ PST108	in germania c'è mafia marocchina lì
 PST217	italiana io sapevo di quella italiana non so forse anche maro~
 PST108	mh c'è anche marocchinì lì tanto
 PST211	mh
-PST108	tutti con la pio~ pistola lì tutti
+PST108	tutti con la $pio~ pistola lì tutti
 PST217	eh non è bello
 PST108	non è bello
 PST211	eh no
