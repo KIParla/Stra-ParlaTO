@@ -6,4 +6,4 @@
 *.zip
 
 tmp/
-original/
+original/.DS_Store
