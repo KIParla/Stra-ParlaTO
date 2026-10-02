@@ -324,8 +324,8 @@ PST094	nessuna spiegazione
 PST094	poi ci sono tante altre cose
 PST094	tante tante tante o quando li senti che parlano
 PST094	eh
-PST094	#_ amu
-PST094	#_ am~ amu acasucă ((ride))
+PST094	#amu
+PST094	#_ am~ amu acasucă
 PST094	e tu dici ma
 PST094	mamma mia che accento che bene che lo dici meglio di me che sono nata di là
 PST094	però sono cose belle
@@ -545,7 +545,7 @@ PST094	anche il mh
 PST094	eh
 PST094	le le gonne
 PST094	al
-PST092	#_ catrință
+PST092	#catrință
 PST094	anche #catrință
 PST094	al mh
 PST094	telaio
@@ -605,7 +605,7 @@ PST094	strumenti musicali tradizionali
 PST094	ehm
 PST094	la tromba il saxofono
 PST094	mh la mh pf
-PST092	#_ vioara
+PST092	#vioara
 PST094	vio~ mh vio~ mh violino
 PST094	eh #cobza
 PST094	ehm

@@ -7,8 +7,8 @@ PST064	((ride))
 PST065	((ride))
 PST064	#_ xxxxx [a:h]
 PST210	#_ [no] porque yo no tengo que salir en la cámara
-PST065	que se vea el nom]bre del restaur[ante]
-PST064	no tienes salir]
+PST065	#_ [x que se vea el nom]bre del restaur[ante]
+PST064	#_ [ah no tienes salir]
 PST210	#_ [solamente xxx]
 PST203	#_ [un momentito más porfa] (.) xx ese y poner otro (.) si no no va
 PST065	#_ porque el objetivo es que se vea (.) el nombre del [restaurante]
@@ -20,7 +20,7 @@ PST064	((ride))
 PST065	((ride))
 PST210	#_ es una entrevista?
 PST065	#_ claro porqué? porque lo pones tu [(seguida) nosotros estamos xx]?
-PST203	video a xxxx]
+PST203	#_ [el video a xxxx]
 PST064	[claro]
 PST065	#_ he~ hemos sido entrevistado por un proyecto de (.) del cu~ del:: de la región del piemonte que va a salir en xx momento
 PST065	#_ qué es?
@@ -39,7 +39,7 @@ PST210	no?
 PST065	#_ no solamente me molestó acá como se ve [este (peñiscado) pero después]
 PST203	#_ [xx (.) eso al] suelo (.) eso es siempre al [suelo]
 PST210	#_ [es un dra]gón?
-PST065	es un dragón asiático]
+PST065	#_ [sí es un dragón asiático]
 PST203	[xx xxx]
 PST210	ah [xx]
 PST065	[cioè #oriental]
@@ -48,7 +48,7 @@ PST065	#_ porqué lo llaman [a usted x?]
 PST064	#_ [ah xx] yo le mandé el mensaje que no iba pedir xxx
 PST065	a::h
 PST203	#_ x de rotura
-PST203	#_ @mary un poquito más a la derecha y yo un poquito más a x (.) [asì]
+PST203	un poquito más a la derecha y yo un poquito más a x (.) [asì]
 PST064	[mh]
 PST203	scusate ci [mettiamo]
 PST064	#_ [sí sí] (.) ya que apaga xx teléfono)
@@ -61,11 +61,11 @@ PST203	qual è il problema? dimmi
 PST210	non si vede proprio
 PST203	xxx,
 PST203	[facciamo un'altra] xx #*con #el #nombre #también #asì #hacemos #otra #toma
-PST064	ha llamado]
+PST064	#_ [me ha llamado]
 PST210	[ah okay]
-PST210	#_ #*(zero)
+PST210	#*(zero)
 PST210	a posto
-PST203	#_ @mary (.) (mira) xxx
+PST203	(.) (mira) xxx
 PST203	xxxxx
 PST210	#_ bórrala
 PST203	xx xxxx
@@ -92,7 +92,7 @@ PST203	funziona (.) sei tu il capo decidi tu
 PST210	xx io perché?
 PST203	stiamo già facendo
 PST203	((batte_le_mani))
-PST203	#_ #listo
+PST203	#listo
 PST203	ciao
 PST064	okay
 PST203	allora e::::h io sono vi abbiamo già raccontato un po' del[::] nostro progetto
@@ -175,8 +175,8 @@ PST210	((ride))
 PST203	[xx]
 PST203	e conoscono un po' la cucina peruviana:::
 PST064	ma conoscono:: sì conoscono di più lo conoscono la #papa #a #la #huancaína
-PST064	#_ #el #ceviche
-PST203	#_ [°#ceviche°]
+PST064	#el #ceviche
+PST203	[°#ceviche°]
 PST064	[è quello che]::: loro:: (.) vengono prima a mangiare quello
 PST064	adesso poi:: che noi abbiamo un menù::: abbastanza
 PST064	abbondante per dire #ya:::
@@ -357,7 +357,7 @@ PST203	di lima?
 PST210	sì
 PST203	e tu? qual è il tuo piatto preferito?
 PST065	ah a me il #ceviche (.) [a::h ovu]nque io vado ((ride)) (.) mh devo per [forza mangiare quello]
-PST203	#_ [#ceviche]
+PST203	[#ceviche]
 PST203	[s:ì]? ((ride))
 PST203	ma (.) ma lo ma]ngi anche a casa tua?
 PST065	e:::h sì

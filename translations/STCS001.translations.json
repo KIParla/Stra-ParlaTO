@@ -1,0 +1,42 @@
+[
+  {
+    "tu_id": "444",
+    "speaker": "PST047_trad",
+    "start": "783.570",
+    "end": "785.980",
+    "parent_tu_id": "443",
+    "text": "fratellino sei tu"
+  },
+  {
+    "tu_id": "1567",
+    "speaker": "PST047_trad",
+    "start": "2460.080",
+    "end": "2462.100",
+    "parent_tu_id": "1566",
+    "text": "lui è troppo innamorato troppo"
+  },
+  {
+    "tu_id": "1571",
+    "speaker": "PST047_trad",
+    "start": "2463.060",
+    "end": "2463.690",
+    "parent_tu_id": "1570",
+    "text": "innamorato"
+  },
+  {
+    "tu_id": "1582",
+    "speaker": "PST047_trad",
+    "start": "2470.970",
+    "end": "2471.730",
+    "parent_tu_id": "1581",
+    "text": "l'innamorato"
+  },
+  {
+    "tu_id": "1799",
+    "speaker": "PST047_trad",
+    "start": "2753.850",
+    "end": "2755.230",
+    "parent_tu_id": "1798",
+    "text": "ah perché è già l'ora"
+  }
+]

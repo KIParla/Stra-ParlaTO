@@ -250,7 +250,7 @@ PST007	$dovriava
 PST008	dovrebbe
 PST008	$dovreo
 PST007	#el $dovriava
-PST007	sabe
+PST007	#_ que sabe
 PST008	bueno parlare #en inglese
 PST201	okay
 PST008	per forze
@@ -279,7 +279,7 @@ PST008	mi dimentico qualche parole #en #*la mia lingua che è #el spagnolo
 PST201	certo
 PST008	anche con #el inglese
 PST008	e
-PST008	#_ for example ((ride))
+PST008	#_ for example
 PST008	quando eh ieri
 PST008	è arrivato una famiglia di francese
 PST008	al mio ristorante
@@ -292,7 +292,7 @@ PST007	#español
 PST007	xxxx
 PST007	lui lavora en un ristorante buonissimo è un una cucina peru~ peruviana e un #nivel
 PST007	xx
-PST008	#_ gourmet
+PST008	#gourmet
 PST008	#_ nivel gourmet
 PST007	#nivel #gourmet alto
 PST008	mh
@@ -319,7 +319,7 @@ PST007	un mese sì
 PST201	e mi volete raccontare qualche tradizione del vostro paese
 PST008	mh
 PST008	nel mio paese
-PST008	#_ soccer
+PST008	#soccer
 PST008	football
 PST201	okay
 PST008	calcio
@@ -413,7 +413,7 @@ PST007	congelato noi
 PST007	anche
 PST007	per #verano per andare qui
 PST008	l'estate
-PST007	la playa
+PST007	#_ en la playa
 PST008	#verano estate
 PST007	per prendere l'estate per andare a #*la #playa
 PST201	sì
@@ -540,7 +540,7 @@ PST201	sì sono simili sì sì
 PST008	son simili a un ravioli
 PST201	sì
 PST008	sì un una #gyoza
-PST007	#_ miren
+PST007	#miren
 PST008	una #gyoza sì
 PST007	giallo
 PST008	sì un ravioli
@@ -561,7 +561,7 @@ PST007	dobbiamo andre a mangiare qualche xxxx
 PST008	che altre domanda
 PST201	e quando siete qua vi capita invece di mangiare qualche piatto del vostro paese o mangiate solo cibo italiano
 PST007	ehm
-PST007	#_ este
+PST007	#este
 PST007	tutti i giorni a quel che quel che gira andiamo con miei amici a mangiare
 PST007	qualcosa peruviana qualcosa italiana e messicana però più peruviana
 PST008	quasi sempre peruviana
@@ -596,7 +596,7 @@ PST008	eh sì
 PST008	sì
 PST201	e che qual'è un piatto tipico
 PST008	ah
-PST008	#_ ceviche
+PST008	#ceviche
 PST007	#ceviche
 PST008	classico #*que #es un pesce tagliato in cubettini marinato al limone
 PST008	con cipolla
@@ -783,7 +783,7 @@ PST008	è troppo bello
 PST007	no no no
 PST008	sì sì numeri troppo bella
 PST007	primo che che mi porte
-PST007	#_ dios x ((ride)) los numeros
+PST007	#_ dios x los numeros
 PST008	dio
 PST201	tu vuoi continuare informatica inv~
 PST008	sì
@@ -807,7 +807,7 @@ PST008	no anche mi piace tanto i numeri
 PST008	la matematica
 PST008	ma non posso fare una
 PST008	una una
-PST008	#_ #*una suma
+PST008	#*una #suma
 PST008	#cómo si #*dice una #suma
 PST201	somma
 PST008	sì una somma en con la mente sempre devo andare con la #calculadora
@@ -876,7 +876,7 @@ PST007	#casi no
 PST007	milletrecento e lavorava #en altro lavoro e
 PST007	tu sa che
 PST007	tutto #el mese in soldi mile e #ocho ce~ mille e #ocho
-PST008	#_ ocho
+PST008	#ocho
 PST008	o cen~ #ocho cento
 PST201	otto cento
 PST007	ottocento
@@ -965,7 +965,7 @@ PST008	ma ascolto molto e
 PST008	di e di di #pods~ #pods~ pod cast
 PST008	$posca
 PST201	po~ #podcast
-PST008	#_ podcast
+PST008	#podcast
 PST008	sì
 PST008	di questo
 PST008	ragazzo è di milano #teacher stefano
@@ -1002,7 +1002,7 @@ PST007	el reggaeton #ozuna
 PST007	io me piace #ozuna
 PST007	e tante musica però sempre musica latina
 PST008	sì anche quando andiamo a discoteca
-PST007	#_ #*a baile
+PST007	#*a #baile
 PST007	#*a $bailare
 PST201	mh mh
 PST008	sì sempre latino
@@ -1017,7 +1017,7 @@ PST008	#*me piace che qua in italia
 PST008	#*se $parle #en #en la #en #*la #*musica
 PST008	musica #*se dice
 PST201	sì
-PST008	#_ en #*la #*musica
+PST008	#en #*la #*musica
 PST008	tanto in italiano come in in inglese
 PST008	perché c'è e~ #esta #*cantando parlando #en #*italiano #y
 PST008	e dopo parla #en inglese un po' e mi piace tanto quello di della #canciones in italiano
@@ -1076,7 +1076,7 @@ PST008	è sud america la politica è
 PST201	mh mh
 PST008	no non è non è #buena
 PST008	non è #buena #y
-PST008	#_ bueno
+PST008	#bueno
 PST008	ho venuto qua en en italia
 PST201	okay
 PST008	#y è difficile per me perché
@@ -1100,7 +1100,7 @@ PST007	#en mio paese sì ta~ tanti lavori sempre
 PST007	mh
 PST007	più ma ristorante anche altre cosa e
 PST007	e in minimarket così
-PST007	#_ en
+PST007	#en
 PST007	#en azienda peruviana
 PST007	però più ristorante
 PST201	ristorante
@@ -1129,7 +1129,7 @@ PST007	sì barcellona sempre
 PST007	$provero barcellona
 PST007	y
 PST007	y l'inter mija~ maji~ miami
-PST007	#_ y
+PST007	#y
 PST007	xx xx
 PST007	sì
 PST007	però adesso
@@ -1169,7 +1169,7 @@ PST008	e rugby
 PST008	e e #swimming
 PST008	non so #como si #dice in italiano
 PST201	eh nuotare piscina pisci~
-PST008	#_
+PST008	#_ swimming
 PST008	na~ nuotare sì $nadare quello
 PST201	oka~
 PST008	ehm sì solo
@@ -1216,9 +1216,9 @@ PST007	cantava
 PST201	ah
 PST007	come si dice cantava io canto e cantava
 PST008	non lo so #cómo #*se #dice canto
-PST007	#_ en #*italiano #*cantava
+PST007	#en #*italiano #*cantava
 PST201	sì sìcan~
-PST008	#_ cantar
+PST008	#cantar
 PST007	#_ cante y baile
 PST201	cantare sì sì
 PST008	eh
@@ -1233,7 +1233,7 @@ PST007	#_ xx te te digo ahorita lo que está tu
 PST007	andato e
 PST007	alla marina e
 PST007	#_ date tres he vueltas eh
-PST007	#_ he (.) pensado
+PST007	#_ he pensado
 PST008	io posso io posso
 PST007	io posso e
 PST008	no la marina la forza aerea
@@ -1328,7 +1328,7 @@ PST008	no io #porque vorrei sapere se
 PST008	ce l'hai altri argentina qua
 PST201	sì sì ah sì due una coppia
 PST008	ah sì lo so chi è so lo so chi è
-PST007	#_ no es cómo el desierto (.) no estoy solo (.) non ((ride))
+PST007	#_ no es cómo el desierto no estoy solo non
 PST008	eh
 PST008	#*no #estoy #*solo #i'm #not #alone
 PST007	#_ i'm not alone
@@ -1367,7 +1367,7 @@ PST008	xx io solo andato a bra~ a brasil
 PST007	in grecia
 PST201	eh
 PST007	io so~ andato primo paese qua
-PST007	#_ españa
+PST007	#españa
 PST007	#y in #méxico niente altro paese
 PST008	ah figo
 PST007	e in austria
@@ -1456,7 +1456,7 @@ PST201	mh non lo so mi volete raccontare qualche altra cosa mh
 PST008	mh
 PST201	mh
 PST007	altre cosa mh a e pensiamo
-PST008	qué
+PST008	#_ cómo qué
 PST008	penso che dovremmo parlare
 PST008	dei nostri paesi
 PST201	sì
@@ -1532,7 +1532,7 @@ PST007	per andare sempre parlano #por il #por il cellulare sì tanti cosa #y poi
 PST008	#por il cellulare sì
 PST007	a fino e due anni e mezzo #porque la #*pandemia le #*han detto che deve aspettare aspettare sì sì #entonce~
 PST008	sì
-PST007	#_ y
+PST007	#y
 PST008	la pandemia
 PST007	#y così
 PST007	poi l~ lo l'ho visto come se poi

@@ -1,90 +1,162 @@
 [
   {
-    "tu_id": "1018",
+    "tu_id": "242",
+    "speaker": "PST121_trad",
+    "start": "397.216",
+    "end": "398.733",
+    "parent_tu_id": "241",
+    "text": ""
+  },
+  {
+    "tu_id": "606",
+    "speaker": "PST220_trad",
+    "start": "1127.960",
+    "end": "1128.750",
+    "parent_tu_id": "605",
+    "text": "festa dell'interruzione del digiuno"
+  },
+  {
+    "tu_id": "1020",
     "speaker": "PST220_trad",
     "start": "1972.004",
     "end": "1972.831",
-    "parent_tu_id": "1017",
+    "parent_tu_id": "1019",
     "text": "sì grazie"
   },
   {
-    "tu_id": "1042",
+    "tu_id": "1039",
+    "speaker": "PST220_trad",
+    "start": "2040.832",
+    "end": "2045.362",
+    "parent_tu_id": "1038",
+    "text": "magi ma~ ma~ magi roujoula (titolo di un cortometraggio marocchino) ma~ ma~ [eh: non è non è roujoula]"
+  },
+  {
+    "tu_id": "1041",
+    "speaker": "PST219_trad",
+    "start": "2043.178",
+    "end": "2045.341",
+    "parent_tu_id": "1040",
+    "text": "[ma~ eh:: non è roujoula]"
+  },
+  {
+    "tu_id": "1046",
     "speaker": "PST220_trad",
     "start": "2056.245",
     "end": "2057.010",
-    "parent_tu_id": "1041",
+    "parent_tu_id": "1045",
     "text": "sì questo qua"
   },
   {
-    "tu_id": "1226",
+    "tu_id": "1050",
     "speaker": "PST219_trad",
-    "start": "2513.631",
-    "end": "2514.455",
-    "parent_tu_id": "1225",
-    "text": "macelleria"
+    "start": "2059.633",
+    "end": "2063.809",
+    "parent_tu_id": "1049",
+    "text": ""
   },
   {
-    "tu_id": "1230",
-    "speaker": "PST219_trad",
-    "start": "2516.645",
-    "end": "2518.091",
-    "parent_tu_id": "1229",
-    "text": "macelleria"
+    "tu_id": "1052",
+    "speaker": "PST121_trad",
+    "start": "2063.809",
+    "end": "2065.042",
+    "parent_tu_id": "1051",
+    "text": "già non è roujoula"
   },
   {
     "tu_id": "1232",
-    "speaker": "PST121_trad",
-    "start": "2517.637",
-    "end": "2518.885",
-    "parent_tu_id": "1231",
-    "text": "macelleria macelleria"
-  },
-  {
-    "tu_id": "1234",
     "speaker": "PST219_trad",
-    "start": "2518.885",
-    "end": "2522.273",
-    "parent_tu_id": "1233",
-    "text": "leggi macelleria dappertutto"
+    "start": "2513.631",
+    "end": "2514.455",
+    "parent_tu_id": "1231",
+    "text": "macelleria"
   },
   {
     "tu_id": "1236",
-    "speaker": "PST121_trad",
-    "start": "2522.273",
-    "end": "2523.354",
+    "speaker": "PST219_trad",
+    "start": "2516.645",
+    "end": "2518.091",
     "parent_tu_id": "1235",
+    "text": "macelleria"
+  },
+  {
+    "tu_id": "1238",
+    "speaker": "PST121_trad",
+    "start": "2517.637",
+    "end": "2518.885",
+    "parent_tu_id": "1237",
     "text": "macelleria macelleria"
   },
   {
-    "tu_id": "1347",
+    "tu_id": "1240",
+    "speaker": "PST219_trad",
+    "start": "2518.885",
+    "end": "2522.273",
+    "parent_tu_id": "1239",
+    "text": "leggi macelleria dappertutto"
+  },
+  {
+    "tu_id": "1242",
+    "speaker": "PST121_trad",
+    "start": "2522.273",
+    "end": "2523.354",
+    "parent_tu_id": "1241",
+    "text": "macelleria macelleria"
+  },
+  {
+    "tu_id": "1270",
+    "speaker": "PST220_trad",
+    "start": "2600.521",
+    "end": "2605.257",
+    "parent_tu_id": "1269",
+    "text": "io e @roberta eravamo andate:[::] in una::  ta~ tayyiba (moschea a torino)"
+  },
+  {
+    "tu_id": "1348",
+    "speaker": "PST220_trad",
+    "start": "2789.579",
+    "end": "2794.149",
+    "parent_tu_id": "1347",
+    "text": "abbiamo ((ride)) abbiamo un corso di:: dialetto ~ eh:: dialetto egiziano"
+  },
+  {
+    "tu_id": "1355",
     "speaker": "PST219_trad",
     "start": "2805.351",
     "end": "2806.805",
-    "parent_tu_id": "1346",
+    "parent_tu_id": "1354",
     "text": "buongiorno"
   },
   {
-    "tu_id": "1349",
+    "tu_id": "1357",
     "speaker": "PST219_trad",
     "start": "2808.984",
     "end": "2810.093",
-    "parent_tu_id": "1348",
+    "parent_tu_id": "1356",
     "text": "come stai?"
   },
   {
-    "tu_id": "1482",
+    "tu_id": "1397",
+    "speaker": "PST121_trad",
+    "start": "2881.666",
+    "end": "2882.954",
+    "parent_tu_id": "1396",
+    "text": "c'è: Essaouira"
+  },
+  {
+    "tu_id": "1491",
     "speaker": "PST220_trad",
     "start": "3071.686",
     "end": "3074.992",
-    "parent_tu_id": "1481",
+    "parent_tu_id": "1490",
     "text": "non lo sapevo okay okay"
   },
   {
-    "tu_id": "1570",
+    "tu_id": "1579",
     "speaker": "PST220_trad",
     "start": "3275.472",
     "end": "3276.353",
-    "parent_tu_id": "1569",
+    "parent_tu_id": "1578",
     "text": "va bene"
   }
 ]

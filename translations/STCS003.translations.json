@@ -1,0 +1,250 @@
+[
+  {
+    "tu_id": "63",
+    "speaker": "PST203_trad",
+    "start": "150.950",
+    "end": "156.310",
+    "parent_tu_id": "62",
+    "text": "magari se ha magari qualche modo di dire tipioc argentino qual è"
+  },
+  {
+    "tu_id": "66",
+    "speaker": "PST203_trad",
+    "start": "162.630",
+    "end": "167.060",
+    "parent_tu_id": "65",
+    "text": "la gamba non si dice la gamba si dice la gamba in argentina"
+  },
+  {
+    "tu_id": "767",
+    "speaker": "PST090_trad",
+    "start": "1565.813",
+    "end": "1567.675",
+    "parent_tu_id": "766",
+    "text": "la milanesa con riso"
+  },
+  {
+    "tu_id": "770",
+    "speaker": "PST203_trad",
+    "start": "1569.175",
+    "end": "1570.725",
+    "parent_tu_id": "769",
+    "text": "eh con riso non tanto"
+  },
+  {
+    "tu_id": "1463",
+    "speaker": "PST203_trad",
+    "start": "2761.488",
+    "end": "2763.475",
+    "parent_tu_id": "1462",
+    "text": "il motivo per il quale aprì una cartoleria"
+  },
+  {
+    "tu_id": "1465",
+    "speaker": "PST203_trad",
+    "start": "2764.275",
+    "end": "2766.100",
+    "parent_tu_id": "1464",
+    "text": "come gli parve all'inizio?"
+  },
+  {
+    "tu_id": "1467",
+    "speaker": "PST203_trad",
+    "start": "2767.025",
+    "end": "2768.913",
+    "parent_tu_id": "1466",
+    "text": "e se ha in mente di aprire un altro negozio"
+  },
+  {
+    "tu_id": "1507",
+    "speaker": "PST203_trad",
+    "start": "2853.438",
+    "end": "2855.963",
+    "parent_tu_id": "1506",
+    "text": "come si è adattato alla cultura"
+  },
+  {
+    "tu_id": "1509",
+    "speaker": "PST203_trad",
+    "start": "2856.475",
+    "end": "2858.575",
+    "parent_tu_id": "1508",
+    "text": "come ebbe inizio la cartoleria?"
+  },
+  {
+    "tu_id": "1512",
+    "speaker": "PST203_trad",
+    "start": "2861.650",
+    "end": "2863.613",
+    "parent_tu_id": "1511",
+    "text": "come ebbe inizio la cartoleria?"
+  },
+  {
+    "tu_id": "1514",
+    "speaker": "PST203_trad",
+    "start": "2864.100",
+    "end": "2867.088",
+    "parent_tu_id": "1513",
+    "text": "pensa di ritornare nel suo paese?"
+  },
+  {
+    "tu_id": "1519",
+    "speaker": "PST203_trad",
+    "start": "2876.525",
+    "end": "2878.950",
+    "parent_tu_id": "1518",
+    "text": "non le facciamo dentro la cartoleria"
+  },
+  {
+    "tu_id": "1537",
+    "speaker": "PST090_trad",
+    "start": "2917.088",
+    "end": "2918.875",
+    "parent_tu_id": "1536",
+    "text": "come le parve all'inizio la"
+  },
+  {
+    "tu_id": "1539",
+    "speaker": "PST203_trad",
+    "start": "2918.688",
+    "end": "2920.163",
+    "parent_tu_id": "1538",
+    "text": "come le parve all'inizio?"
+  },
+  {
+    "tu_id": "1541",
+    "speaker": "PST090_trad",
+    "start": "2920.250",
+    "end": "2921.163",
+    "parent_tu_id": "1540",
+    "text": "quando aprì"
+  },
+  {
+    "tu_id": "1543",
+    "speaker": "PST203_trad",
+    "start": "2922.125",
+    "end": "2923.738",
+    "parent_tu_id": "1542",
+    "text": "come le parve all'inizio quando aprì"
+  },
+  {
+    "tu_id": "1545",
+    "speaker": "PST203_trad",
+    "start": "2940.600",
+    "end": "2942.225",
+    "parent_tu_id": "1544",
+    "text": "come le parve all'inizio quando aprì"
+  },
+  {
+    "tu_id": "1582",
+    "speaker": "PST203_trad",
+    "start": "3027.000",
+    "end": "3027.888",
+    "parent_tu_id": "1581",
+    "text": "pensa"
+  },
+  {
+    "tu_id": "1759",
+    "speaker": "PST090_trad",
+    "start": "3417.072",
+    "end": "3419.486",
+    "parent_tu_id": "1758",
+    "text": "se sono stati in qualche paese dell'america latina"
+  },
+  {
+    "tu_id": "1761",
+    "speaker": "PST203_trad",
+    "start": "3419.529",
+    "end": "3421.701",
+    "parent_tu_id": "1760",
+    "text": "se sono stati in qualche paese dell'america latina"
+  },
+  {
+    "tu_id": "1769",
+    "speaker": "PST098_trad",
+    "start": "3437.129",
+    "end": "3440.943",
+    "parent_tu_id": "1768",
+    "text": "quali sono le prime impressioni quando si assaggia il cibo latino"
+  },
+  {
+    "tu_id": "1772",
+    "speaker": "PST203_trad",
+    "start": "3444.258",
+    "end": "3445.358",
+    "parent_tu_id": "1771",
+    "text": "quali sono"
+  },
+  {
+    "tu_id": "1774",
+    "speaker": "PST203_trad",
+    "start": "3446.001",
+    "end": "3446.441",
+    "parent_tu_id": "1773",
+    "text": "le sue"
+  },
+  {
+    "tu_id": "1776",
+    "speaker": "PST203_trad",
+    "start": "3448.043",
+    "end": "3448.775",
+    "parent_tu_id": "1775",
+    "text": "prime"
+  },
+  {
+    "tu_id": "1778",
+    "speaker": "PST203_trad",
+    "start": "3450.672",
+    "end": "3452.872",
+    "parent_tu_id": "1777",
+    "text": "impressioni"
+  },
+  {
+    "tu_id": "1780",
+    "speaker": "PST203_trad",
+    "start": "3453.872",
+    "end": "3454.515",
+    "parent_tu_id": "1779",
+    "text": "a"
+  },
+  {
+    "tu_id": "1782",
+    "speaker": "PST203_trad",
+    "start": "3455.572",
+    "end": "3456.958",
+    "parent_tu_id": "1781",
+    "text": "provare"
+  },
+  {
+    "tu_id": "1784",
+    "speaker": "PST203_trad",
+    "start": "3457.729",
+    "end": "3458.501",
+    "parent_tu_id": "1783",
+    "text": "il"
+  },
+  {
+    "tu_id": "1786",
+    "speaker": "PST203_trad",
+    "start": "3459.301",
+    "end": "3460.415",
+    "parent_tu_id": "1785",
+    "text": "cibo"
+  },
+  {
+    "tu_id": "1788",
+    "speaker": "PST203_trad",
+    "start": "3461.415",
+    "end": "3462.301",
+    "parent_tu_id": "1787",
+    "text": "latino?"
+  },
+  {
+    "tu_id": "1864",
+    "speaker": "PST203_trad",
+    "start": "3602.686",
+    "end": "3605.286",
+    "parent_tu_id": "1863",
+    "text": "fate una foto di questo con il cellulare nel dubbio"
+  }
+]

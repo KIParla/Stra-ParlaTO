@@ -159,8 +159,8 @@ PST222	con: delle persone della:
 PST222	nella vita
 PST222	(mh)
 PST222	cos'è
-PST144	e:h
-PST222	#_ xaṭib-ek
+PST144	e:h #xaṭīb-i
+PST222	#_ xaṭīb-ək
 PST144	sì
 PST222	questo nella macchina?
 PST144	sì
@@ -341,11 +341,11 @@ PST144	mh mh
 PST222	cosa cambia (.) lo sport (.) nella vita (.) delle persone
 PST144	m:h cambia::
 PST144	sulle abitudini
-??	#_ as-salam-u 3alay-kum
+??	#_ as-salāmu ʕalay-kum
 PST222	#_ bi-tkallam l-maghribi
-??	#_ shwiya
-PST222	#_ shweya shweya
-??	#_ sh[wiya]
+??	#_ shwiyya
+PST222	#_ shwāya shwāya
+??	#_ sh[wiyya]
 PST222	[sei nato] in italia?
 ??	eh?
 PST222	sei nato e cresciuto
@@ -460,7 +460,7 @@ PST222	continuare (.) nonostante l[a:: depressione]
 PST144	[sì pazienza resilien]za::: [cioè] devi essere resiliente ovviamente non puoi aspettarti di: ricevere dei risultati per questo penso che
 PST222	[esatto]
 PST144	lo capisci dalla palestra sì ma anche da qualsiasi altra cosa nella vita cioè non puoi (.) ottenere dei risultati
-PST144	dall'oggi al domani cioè devi (.) lavorarci su per poter poi arrivare a determinate cose (.) per esempio
+PST144	dall' oggi al domani cioè devi (.) lavorarci su per poter poi arrivare a determinate cose (.) per esempio
 PST144	se io non studio
 PST144	ho la sessione di giugno
 PST144	m::h=ma io non studio tutto questo tutto questo periodo
@@ -528,7 +528,7 @@ PST222	di s:~ di s~ eh di solito parlate la il marocchino parlate il: cioè il #
 PST222	o parlate la: l'arabo standard
 PST222	qual (era) (.) qual è=l:: [(.) vostro (comportamento a parlare)]
 PST144	[no (.) noi (.) parliamo] (.) allora
-PST144	e:h noi quando eravamo piccole per imparare:: e::h per imparare il #darija (.) e::h
+PST144	e:h noi quando eravamo piccole per imparare:: e::h per imparare il #dārija (.) e::h
 PST144	mio padre aveva una regola
 PST144	che: era quella di (.) fuori
 PST144	x (.) x (.) parliamo italiano
@@ -574,7 +574,7 @@ PST222	imparare l'arabo
 PST144	sì è stato un pochino più difficile
 PST144	cioè (.) non tanto per=e::hm::
 PST144	per il capire perché
-PST144	comunque è tanto simile al #darija quindi io capisco
+PST144	comunque è tanto simile al #dārija quindi io capisco
 PST144	e il leggere
 PST144	e ricordarsi tutte le lettere: eh (ti) [era un po':] cioè (.) esatto ricordarsi le lettere e come sono scritte più che altro (.) eh ma:: le lettere in sé: cioè le
 PST222	[è difficile]
@@ -598,9 +598,9 @@ PST144	ho: tante amiche arabe:: (.) con cui parlo sì
 PST222	okay tra di voi (.) parlate l'arabo
 PST222	[o solo l'i]taliano
 PST144	[eh]
-PST144	e:h parliamo #darija
+PST144	e:h parliamo #dārija
 PST222	okay
-PST144	e:: invece con magari e:h (.) tipo: con le mie amiche marocchine con #darija
+PST144	e:: invece con magari e:h (.) tipo: con le mie amiche marocchine con #dārija
 PST144	se invece: con: le mie amiche:
 PST144	che non sono marocchine eh per esempio egiziane: loro mi parlano in egiziano e io: cerco di:
 PST144	fare le frasi in arabo: classico per farmi [capire]
@@ -671,7 +671,7 @@ PST222	questo:: va~ (.) ci sono tanti: tante forme per dire no in a~ in: in egiz
 PST144	okay
 PST222	okay
 PST222	e:h poi il cambiamento di:
-PST222	delle lettere tipo #qaf #ghim #gim
+PST222	delle lettere tipo #qaf #jim #jim
 PST144	sì
 PST222	okay
 PST222	e::hm: altrimenti se mi dici una frase e::h se ti dico una frase in e:h in egiziano e in arabo standard
@@ -701,7 +701,7 @@ PST144	sì [gli insegnanti s]ono: sono marocchini
 PST222	[xxx]
 PST222	okay
 PST144	e::h e noi avevamo dei libri proprio: c~ di grammatica araba
-PST144	e: dei libri invece (.) perché facevamo due (.) perché andavamo per quattro ore quindi due ore le facevamo di grammatica e due ore invece le facevamo di islamiya
+PST144	e: dei libri invece (.) perché facevamo due (.) perché andavamo per quattro ore quindi due ore le facevamo di grammatica e due ore invece le facevamo di #tarbiya islamiya
 PST144	quindi:: religione
 PST144	e::hm qui (.) infatti parlavamo di:: di [religione eccetera]
 PST222	[è tan~ tanto]
@@ -789,7 +789,7 @@ PST144	mh
 PST222	okay
 PST222	quando ritorni in $moracco,
 PST222	okay
-PST222	tu parli solo: (.) tu parli il #darija perfettamente,
+PST222	tu parli solo: (.) tu parli il #dārija perfettamente,
 PST144	sì
 PST222	o ti senti differenza:: m::::h
 PST144	no
@@ -1217,7 +1217,7 @@ PST144	cioè
 PST222	si vede giusto?
 PST144	a me sì a me [tantissimo però anche al mare] ((ride))
 PST222	((ride))
-PST144	ma a me manca: proprio il:: il #el-jaw che proprio si crea cioè capito è tutta un'altra: un'altra storia
+PST144	ma a me manca: proprio il:: il #əl-jaw che proprio si crea cioè capito è tutta un'altra: un'altra storia
 PST144	cioè per esempio::
 PST144	cioè a me (.) personalmente
 PST144	manca proprio il m~ il mio paese cioè
@@ -1298,7 +1298,7 @@ PST222	okay non abbiamo il cellulare
 PST144	mh
 PST222	quindi (.) il mio modo di: divertimento,
 PST222	usciamo per la strada (.) e giochiamo
-PST222	giochiamo calcio (.) c'è: c'è qualcosa che si chiama #beliya
+PST222	giochiamo calcio (.) c'è: c'è qualcosa che si chiama #baliya
 PST144	mh mh
 PST222	sai #l-baliya
 PST144	sì sì sì:
@@ -1327,33 +1327,33 @@ PST222	[sai]
 PST144	[mh]
 PST222	si chiama c'è una parola: in arabo
 PST222	okay l'abbiamo studiata nella classe di: due giorni fa
-PST222	si chiama uns
+PST222	si chiama #al-ʔuns
 PST144	mh mh
 PST222	okay
 PST222	te la mando sul e:h su instagram ti do adesso una:: una pagina su instagram
 PST222	che spiega
-PST222	questa espressione sai uns la parola #'uns
+PST222	questa espressione sai #əl-ʔuns la parola #ʔuns
 PST144	m:h
-PST222	sai #'anis
+PST222	sai #ʔanis
 PST144	ah ah
-PST222	sai la parola cosa significa #'anis
-PST144	#'anis e::h principe
+PST222	sai la parola cosa significa #ʔanīs
+PST144	#ʔanīs e::h principe
 PST222	eh no no no
 PST222	#prince questa è #prince
 PST144	ah okay
-PST222	questa #'anis (.) è un livello (.) più alto della amicizia
+PST222	questa #ʔanīs (.) è un livello (.) più alto della amicizia
 PST222	della compagnia (.) okay
 PST222	la persona (.) che [non ti f~]
 PST144	[ma] il e:h la: la radice della parola: è?
-PST222	#_ 'anasa
-PST144	#'ana~ ah okay
-PST222	sai la parola #'an-nas
+PST222	#_ ʔanasa
+PST144	#ʔana~ ah okay
+PST222	sai la parola #ʔan-nās
 PST144	ah
-PST222	okay #'an-nas viene da questa parola
+PST222	okay #ʔan-nās viene da questa parola
 PST144	[okay okay ho] capito
 PST222	[okay]
 PST222	e::h ho:: una variazione di questa:: derivazione di questa parola
-PST222	okay #'anisa?
+PST222	okay #ʔanīsa?
 PST222	e::hm: la persona (.) che non ti fa
 PST222	non ti fa sentire solotu~ $solotudine solo:: $solotidine
 PST144	sol~ solitudine
@@ -1366,33 +1366,33 @@ PST222	e:hm: sia il tuo fidanzato
 PST222	sia il tuo fratello
 PST222	sia:: la un'amica
 PST144	mh
-PST222	e::hm:: (.) okay una persona che (.) elimina #el la sensazione di:: solitudine [(.) okay]
+PST222	e::hm:: (.) okay una persona che (.) elimina #əl la sensazione di:: solitudine [(.) okay]
 PST144	[mh]
 PST222	e::h
 PST222	molto molto avanzata
 PST144	mh
 PST222	anche più di: del marito
 PST222	okay
-PST222	magari il marito non è #'anis
+PST222	magari il marito non è #ʔanīs
 PST144	mh
-PST222	okay un d~ #'anis il top di relazioni
+PST222	okay un d~ #ʔanīs il top di relazioni
 PST144	okay
 PST222	okay
 PST222	e::::h anche nella poesia
 PST222	se leggi della poesia
-PST222	e::h troverai la parola:: uns
+PST222	e::h troverai la parola:: #al-ʔuns
 PST144	mh
 PST222	okay
-PST222	e::h uns tanto
-PST222	e:h anche un nome di persona e:h si chiama #'anas
-PST144	#'anas a:h okay okay
+PST222	e::h #əl-ʔuns tanto
+PST222	e:h anche un nome di persona e:h si chiama #ʔanas
+PST144	#ʔanas a:h okay okay
 PST222	se ascolti questo nome
 PST144	sì sì [sì]
 PST222	[okay]
 PST222	e::hm::
-PST222	#_ wa 'anis
+PST222	#_ wa-ʔanīs
 PST222	okay
-PST222	#_ wa muʾnis
+PST222	#_ wa-muʔnis
 PST144	mh
 PST222	che sono nome (.) di relazioni (.) della parola di: della di questo verbo,
 PST222	e::h sono aggettivi praticamente
@@ -1402,7 +1402,7 @@ PST144	mh
 PST222	okay sono tipo [quattro aggettivo] (.) della stessa parola sono aggettivi
 PST144	[sì sì sì]
 PST222	e:hm: sai come si chiama
-PST222	#_ surat el-'af3al
+PST222	#_ sūrat-əl-ʔafʕāl
 PST222	e::h xxx
 PST144	okay
 PST222	modi di s~ (xx[zione) (.) letteralmente]
@@ -1420,7 +1420,7 @@ PST144	una parola
 PST222	sì
 PST144	ne avevo letta una
 PST144	m[a::]
-PST222	[oppure] un'espressione una parola in #darija:
+PST222	[oppure] un'espressione una parola in #dārija:
 PST222	un'espressione quando tu lo senti
 PST222	ti tocca il cuo:re ti fa
 PST222	ti emoziona ti provo:ca
@@ -1450,23 +1450,23 @@ PST144	[come se] sì come se mi mettesse in guardia no?
 PST222	okay
 PST144	e:[:h]
 PST222	[come si dice] questa espressione?
-PST144	si dice #niyya #wa #qallet #niyya #may #tlaqaw
+PST144	si dice #n-niyya #wa-qallat #n-niyya #ʕammar-hum #ma-ytlaqāw
 PST144	#_ niyya
 PST222	aspe~
 PST144	#_ niyya
 PST222	uhm #niyya
-PST144	#_ wa qallet niyya
+PST144	#_ wa-qallat n-niyya
 PST222	okay
-PST144	#_ 3ammer-hum may tlaqaw
+PST144	#_ ʕammar-hum ma-ytlaqāw
 PST222	okay la traduzione non ho ((ride)) non ho capito [niente] ((ride))
 PST144	[e:h]
 PST144	sai cos'è #niyya no
 PST222	#_ an-niyya?
 PST222	okay [intenzione]
 PST144	[#an-niyya quindi] sì l'intenzione
-PST144	quindi (.) lei dice (.) l'intenzione s~ (.) pura (.) quindi #niyya #ṣafiya
-PST144	#_ #u #niyya
-PST144	#u #qallet #niyya quindi la mancanza invece di intenzione
+PST144	quindi (.) lei dice (.) l'intenzione s~ (.) pura (.) quindi #niyya #ṣāfiya
+PST144	#w-n-niyya
+PST144	#w-qallat #n-niyya quindi la mancanza invece di intenzione
 PST222	[okay]
 PST144	[son due] (.) son due linee parallele quindi non si incontreranno mai
 PST222	o[kay sì]
@@ -1479,7 +1479,7 @@ PST144	quindi quello è se~ (.) quindi mettermi sempre ricordarmi sempre di
 PST144	fare del bene
 PST144	okay di avere delle intenzioni pure
 PST222	(principale)
-PST144	e (.) #qallet #niyya
+PST144	e (.) #qallat #n-niyya
 PST144	quindi la mancanza (.) di questa (.) [pure]zza
 PST222	[xx]
 PST144	mi ricorda anche delle volte che invece sono un po': che voglio fare la furbetta [o: cose così:]
@@ -1489,26 +1489,26 @@ PST222	[di] essere sinc~ sin~ since~ sincera
 PST144	sì: esatto di essere sincera
 PST144	e::h a me questa: questo: questo detto a me ha aiutato tantissimo durante (l'anno della) vita cioè
 PST144	o per esempio se mi fanno un torto o se: non lo so succede qualcosa:: e::h,
-PST144	io mi ricordo semplicemente di questo che #niyya e #qallet #niyya non si incontreranno mai
+PST144	io mi ricordo semplicemente di questo che #n-niyya e #qallat #n-niyya non si incontreranno mai
 PST222	(molto [carino)]
 PST144	[io mette:] mi mette un po' l'animo in pace
 PST222	°molto carino°
 PST222	e sai qua in: si dice
-PST222	#qalli-li #niyya in e:h arabo in egiziano
+PST222	#qallīli #n-niyya in e:h arabo in egiziano
 PST144	[mh]
-PST222	[si chiama #qalli-li #el-ʿaṣl
-PST144	#_ qalil el-ʿaṣl
-PST144	no da noi #ʿaṣl è un'altra cosa
+PST222	[si chiama #qallīli #əl-ʔaṣl
+PST144	#_ qallīl əl-ʔaṣl
+PST144	no da noi #ʔaṣl è un'altra cosa
 PST222	e cosa: cosa significa?
-PST144	#el-ʿaṣl per noi è::=m:h il=e::hm
+PST144	#əl-ʔaṣl per noi è::=m:h il=e::hm
 PST144	da dove provieni
 PST222	[sì ma da dove provieni sì]
 PST144	[capito quindi::]
 PST144	quindi tipo::
-PST144	#qlilt #al-ʿaṣl si dice quando una persona magari:: e::h
+PST144	#qlilt #al-ʕaṣl si dice quando una persona magari:: e::h
 PST144	e::hm::
 PST144	è maleducata:
-PST144	[o è:=ehm: è rude::] o:: cose così si dice #qlilt aṣl
+PST144	[o è:=ehm: è rude::] o:: cose così si dice #qllīlt #al-ʔaṣl
 PST222	[sì sì esatto lo stesso in egitto]
 PST222	[sì sì è lo stesso]
 PST144	[come dire che proprio: cioè] da dove vieni tu: è
@@ -1520,7 +1520,7 @@ PST144	[di princìpi]
 PST222	così per tu~ [così per tutti non ha: non ha:] virtù sì sì sì
 PST144	[sì (.) sì sì sì]
 PST222	sì quindi::
-PST144	invece #niyya è diverso da noi #niyya [è l'intenzione oka:y l'intenzi]one (.) puoi anche essere una brava persona e avere #ʿaṣl
+PST144	invece #niyya è diverso da noi #niyya [è l'intenzione oka:y l'intenzi]one (.) puoi anche essere una brava persona e avere #ʔaṣl
 PST222	[sì sì è intenzione sì sì]
 PST222	[(però) ma:l~ malintenzione]
 PST144	[ma (.) esatto]
@@ -1531,12 +1531,12 @@ PST222	ingannare
 PST144	esatto puoi essere anche un po' malintenzionato
 PST144	che poi non per forza devi ess~ devi aver (.) essere malintenzionato allora qualcosa di:: orribile nella vita devi fare
 PST144	però
-PST144	per me #qallet #niyya anche solamente: verso una persona,
-PST144	se mi metto a sparlare di quella persona (.) per me quella è #qallet #niyya
+PST144	per me #qallat #n-niyya anche solamente: verso una persona,
+PST144	se mi metto a sparlare di quella persona (.) per me quella è #qallat #n-niyya
 PST144	proprio là è proprio:
 PST144	son delle intenzioni::
 PST144	sporche cioè son son:
-PST144	#_ [#niyya]
+PST144	[#niyya]
 PST222	[non hanno intenzione:] hanno intenzione (dura)
 PST144	sì esatto
 PST222	sì (.) fanno: i giri si chiama così in italiano?
@@ -1549,24 +1549,24 @@ PST222	e:hm::
 PST144	[tetra~]
 PST222	non sono diritti
 PST144	sì (.) an[che]
-PST222	[in]gannare la gente [(.)
+PST222	[in]gannare la gente [(.) #yəxdaʕun]
 PST144	[sì: sì sì]
-PST222	si dice in arabo
-PST144	sì (.)
-PST222	#_
-PST144	°muxadi3in°
+PST222	si dice #yəxdaʕun in arabo
+PST144	sì (.) [#yəxdaʕun]
+PST222	[#muxā]diʕīn
+PST144	°muxādiʕīn°
 PST222	sì
-PST222	oppure (.)
+PST222	oppure (.) #mutalāʕibīn
 PST144	mh
 PST222	[giocatori]
 PST144	[sì:] sì sì sì hai ragione
-PST222	okay (.) giocatori significa
+PST222	okay (.) giocatori significa #lāʕibīn
 PST222	però si dice [in:]
 PST144	[sì] (.) invece::=mh con questo intendi proprio:: a livello psicologico [e:d emotivo sì sì sì sì]
 PST222	[esatto (.) a livello::] psicologico e emot~ specialmente:: emo[tivo]
-PST144	[sì invece] è più::
-PST144	m::h cioè:
-PST144	quindi: chi lo fa chi è proprio:: m::h
+PST144	[sì invece] #lāʕibīn è più::
+PST144	m::h #fiʕ~ cioè:
+PST144	#fyaʕul #mafʕūl quindi: chi lo fa chi è proprio:: m::h
 PST144	>non so come spiegarti< è: chi gioca proprio:: sport
 PST144	e::h chi::=[mh chi fa] qualcosa:: m:h cioè chi gioca (.) letteralmente
 PST222	[sì esatto]
@@ -1584,7 +1584,7 @@ PST144	mh
 PST222	okay ti crescono più: i muscoli
 PST222	[okay]
 PST144	[sì:]
-PST222	quindi
+PST222	quindi #l-lāʕib #bi-talaʕab
 PST222	è molto: molto carino imparare le [lingue]
 PST144	[sì: sì] s[ì]
 PST222	[e:]:hm segui delle pagine sul instagram o sul facebook che fanno questa paragone per esempio
@@ -1613,14 +1613,14 @@ PST222	qua alla gente,
 PST222	non mi capiscono.
 PST144	e::h
 PST144	in che senso non ti capiscono,
-PST222	per esempio questa parola #'anis perché è nuova fresca molto [fresca due giorni] fa
+PST222	per esempio questa parola #ʔanis perché è nuova fresca molto [fresca due giorni] fa
 PST144	[ah]
 PST222	abbiamo passato tipo un'ora (.) la professoressa: la mia professoressa del mio corso di arabo e i: $morocchini
 PST144	mh mh
 PST222	okay
 PST222	abbiamo passato tipo un'ora
 PST222	per fare gli studenti capire che
-PST222	questa #'anis è una situazione emotiva (.) [okay]
+PST222	questa #ʔanis è una situazione emotiva (.) [okay]
 PST144	[mh]
 PST222	molto molto avanzato
 PST222	okay

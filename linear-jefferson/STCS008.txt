@@ -160,7 +160,7 @@ PST125	se [no questi son ca]paci di [venire anche] qua:
 PST127	[eh beh]
 PST127	[(no eh)]
 PST125	no:
-PST125	#_ que pa:sa: @mi:gui:
+PST125	#_ que pa:sa:
 ???	(MA VEDI) XX XX COSA C'è
 PST125	sh::
 PST122	[cosa ti devo di:re:] ((al_fratellino))
@@ -242,7 +242,7 @@ PST127	[m:h]
 PST123	a settima[na]
 PST127	[ah m:a: lui (che faceva)]
 ???	[mamma xxx]
-PST122	favo:r]
+PST122	#_ [por favo:r]
 PST123	l'allenatore
 PST127	ah l'alle[natore]
 PST124	[>posso fare io<]
@@ -252,7 +252,7 @@ PST127	[ah al baci]
 ???	[mami] (.) [mami voglio (.) voglio la] tor[ta]
 PST123	[ma due volte a settimana]
 PST123	[più: (.) un giorno di: (.) pratica]
-PST125	mi amor]
+PST125	#_ [ya mi amor]
 PST127	[a:h]
 PST127	eh anch'io [facevo]
 PST125	#_ [dame] un platito dame un platito]
@@ -272,7 +272,7 @@ PST125	non pago affitto: ((ride))
 PST127	[sì]
 PST123	[ma lui ma] lui è:: è allenatore
 PST127	sì
-PST123	lui ha fatto: l'allenatore lui è il presidente dell'associazione:
+PST123	lui ha fatto: l'allenatore lui è il presidente dell' associazione:
 PST123	[allenatori della mia città]
 PST127	a:h (.) [be:h]
 ???	[cosa c'è]?
@@ -444,9 +444,9 @@ PST125	scotte:x
 PST123	sì::,
 ???	tanto
 PST123	n:el tuo bicchiere [o: nel biberon]
-PST125	#_ [#POQUI:TO]
+PST125	[#POQUI:TO]
 ???	[sì: di spider]man
-PST125	#_ #POQUITO
+PST125	#POQUITO
 PST127	di spiderman ((ride))
 PST123	un pochi:no:?
 PST123	un goccio:?
@@ -1003,7 +1003,7 @@ PST125	[a:h be:h] a:h fa:i tutto là:
 PST127	sì: sì sì sono comodo
 PST125	m:h
 PST123	adesso ti aiuta
-PST125	#_ [@a:~ (.)] @do~ @vi~ @dora: no la mole:stes
+PST125	(.)] no la mole:stes
 PST123	xx
 PST122	xxxxxx
 PST123	xxx
@@ -1258,7 +1258,7 @@ PST125	tu cosa vuoi fare da grande
 PST127	[spi]dey
 ???	aspetta vediamo un po'
 PST125	[O::::::::H
-PST122	qué aburre:
+PST122	#_ [O::::::H qué aburre:
 ???	da grande:: e:::h a::h xxx xxx xxx
 PST122	ma tu: che lavoro vuoi fare da grande
 ???	m:h
@@ -1538,9 +1538,9 @@ PST125	a:h ma che bello
 PST122	di' qualcosa in gre:co:
 PST127	e::h
 PST125	ah ma tu stu:di [gre:co:]
-PST127	kale][spera]
+PST127	#_ [ka~ kale][spera]
 PST124	[o:h] eh sì: latino [e gre:co]
-PST127	#_
+PST127	#_ [kaleme:ra]
 PST125	[gre:co e lati:no]
 PST122	[greco e latino] fa
 PST125	eh sì::
@@ -1675,7 +1675,7 @@ PST122	ho otto però io in matematica
 PST122	quindi (.) x
 PST122	vediamo domani guarda domani ho la verifica di:
 PST122	dov'è matematica
-PST125	#_ que estás haciendo @migui:
+PST125	#_ que estás haciendo
 PST122	di: [sistemi di equazioni di due incognite] [con tutti e quattro i metodi]
 ???	[sto prendendo il mio bicchiere]
 PST125	[non si prende da lì]
@@ -1700,7 +1700,7 @@ PST127	m[:h]
 PST124	[xx xxxx]
 ???	TANTO
 PST125	ma tu hai o~ [lezioni obbligato:rie]:
-PST122	amor]
+PST122	#_ [basta amor]
 PST096	[m::h] no
 ???	[DI PIU']
 PST125	[son tutte::::] [facoltativ]e
@@ -1719,7 +1719,7 @@ PST096	sì:
 PST122	e:h #chill
 PST122	e poi cosa fai
 PST096	e::h poi penso di
-PST125	#_ [@miguel deja]
+PST125	deja]
 PST124	[(vicino:)]
 PST096	di: cominciare a lavorare
 PST096	[e:h e poi]
@@ -1914,7 +1914,7 @@ PST125	ma sì:
 PST122	sì: [dai]
 PST127	[mh]
 PST125	è così:
-PST125	[anche quando sei arriva:ta: all'esame di terza] me:dia eri un [po' agita:ta:] logicamente per quell'et[à:]
+PST125	[anche quando sei arriva:ta: all' esame di terza] me:dia eri un [po' agita:ta:] logicamente per quell'et[à:]
 PST122	[e se vado male negli scritti e negli orali]
 PST122	[vado da dio]
 PST124	[io] non ho [capito solo come funziona]no::
@@ -2359,7 +2359,7 @@ PST127	[xx]
 PST125	[A:::::::H]
 PST122	[O:::::::H]
 PST124	da:i [dai]
-PST122	#_ #abu:[rre:]
+PST122	#abu:[rre:]
 ???	[una] due
 PST125	e::h [sì: sì::]
 ???	[e::h e l'ultima]
@@ -2558,7 +2558,7 @@ PST096	mattina
 PST125	o:h
 PST096	mh
 PST125	domani che giorno è?
-PST124	#_ [#jueves]
+PST124	[#jueves]
 PST122	[giove]dì:
 PST127	giovedì domani
 PST125	giove[dì:]
@@ -2626,7 +2626,7 @@ PST124	no: sei ore è tro:ppo x[xx]
 PST122	[no che poi vogliono] che scrivi:: a~
 PST122	alle medie mi hanno detto scrivi almeno due pagine io:: mezza pagina dall'inizio era xx (ho già) finito la storia io
 PST124	((ride))
-PST125	#_ @mi:gue:l: lo ro:mpe:s
+PST125	lo ro:mpe:s
 PST122	poi mi dici se si può copiare
 PST127	sì: [sì sì no (vai)]
 PST122	[io mi porto i biglietti]ni x no: scherzo (mam[ma) eh]
@@ -2805,7 +2805,7 @@ PST122	[h:::m]
 PST125	[sì::]
 PST122	[sì che si va a] scuola
 PST127	no: non si va domani
-PST122	#_ ya mañana viene @xx a recogerte
+PST122	#_ ya mañana viene a recogerte
 PST127	s[ì:]
 ???	[doma]ni non si va a scuola?
 PST125	sì: che si va a scuo[la]

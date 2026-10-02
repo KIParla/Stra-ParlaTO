@@ -40,7 +40,7 @@ PST200	~kay,
 PST001	mh mh?
 PST001	e::::h
 PST001	#_ hicimos los tramites para la atención
-PST001	e:: >de [mi hijo]< no,
+PST001	e:: #_ hospitalaria >de [mi hijo]< no,
 PST200	[m:h]
 PST001	#_ y en::: (.) no:viembre, noviembre: el:::: que fecha,
 PST002	m:h
@@ -53,10 +53,10 @@ PST200	mh mh,
 PST001	#que in perù? (.) e #se #demoraron #como due anni.
 PST200	ah okay
 PST200	okay okay
-PST001	e fue rapidísimo
+PST001	e #_ aquí fue rapidísimo
 PST001	e::[:h]
 PST200	[okay]
-PST001	#_ #entonces
+PST001	#entonces
 PST001	e:: #*de~ dopo: #*en #*en gennaio (.) #fue l'intervento del $cuora
 PST200	mh=mh,
 PST001	perché #como #>digo no<, #en #peru:? #estava #para #un #transplante. (.) #[de] #corazón
@@ -80,10 +80,10 @@ PST002	[°tranquillo°]
 PST002	[°xxx°]
 PST201	mh mh,
 PST001	e: #por #otro #lado italia:: (.) es una città molto bella:,
-PST001	e:::: (.) a dios hemos tenido l'oportunitad de:
+PST001	e:::: #_ gracias a dios hemos tenido l'oportunitad de:
 PST001	#_ de encontrarnos con italianos,
 PST001	molto:: #amables,
-PST001	e:: una::: amiga, no?
+PST001	e:: #_ hay una::: amiga, no?
 PST001	#_ que que que nos ha ayudado mucho una amiga italiana,
 PST001	#_ y::: bueno e::
 PST001	#_ creo que eso es todo,
@@ -136,7 +136,7 @@ PST201	[°mh:°]
 PST001	#es [(.) #es bru]tto #como #dicen #en #bra~ [#es feo]
 PST002	[mhmh, e::]
 PST200	[sì sì sì sì]
-PST001	#_ #>entonces<,
+PST001	#>entonces<,
 PST001	qui, no. (.) anche::
 PST002	molto #peligroso
 PST002	molto peli~ (.) pe~ pericolo [peri:] per[icoloso]
@@ -148,7 +148,7 @@ PST002	m[h],
 PST200	[mh] mh [mhmh]
 PST001	[mh].
 PST200	qui è più tranquillo
-PST002	#_ [°#aquí°].
+PST002	[°#aquí°].
 PST001	[s:ì.
 PST200	°mh. [mhmhmh°]
 PST001	[°più tranquillo°].
@@ -167,7 +167,7 @@ PST001	e la mole però: n[o::::]
 PST002	[per #fue~ #p]or fuori
 PST001	#por [fuori]. sì no °#no hemos°
 PST200	[okay].
-PST001	e: más, a~ a: hem[os ido a la:],
+PST001	e: #_ que más, a~ a: hem[os ido a la:,]
 PST002	es la iglesia de] arriba°?
 PST001	alla $chissia: $chissia #se #dice? #iglesia?
 PST200	[la chiesa? chiesa].
@@ -235,7 +235,7 @@ PST001	[#*el permesso] sì
 PST001	#*el (.) mercoledì #*proximo,
 PST001	#tiene #su #*appuntamento in ospedale, #ahí #me #va: (.) #de:cir #si:
 PST200	mh [mh (.) mh (.) mh mh mh]
-PST001	ir, o no. a la $escuola (.) °sì°]
+PST001	#_ [puede ir, o no. a la $escuola (.) °sì°]
 PST200	e:::hm
 PST200	quindi voi, rimanete spesso in questa zona qui? dove vivet[e, vi p]iace questa zona?
 PST001	[mh mh],
@@ -250,10 +250,10 @@ PST200	((ride))
 PST001	((ride))
 PST001	molto #en #cada:: (.) #día #se #puede #decir no?
 PST200	[okay],
-PST001	ve]:. y:::
+PST001	#_ [se ve]:. y:::
 PST001	#y per mio figlio #*no #*no: #*no va #bi[en #no], #entonces,
 PST200	[certo] (.) °certo°
-PST001	#_ #pero
+PST001	#pero
 PST001	#_ no hay: [otro] lu[gar adon]de hab[itar, °>en]tonces<° tenemos que esperar,
 PST002	[mh]
 PST200	[okay]
@@ -265,7 +265,7 @@ PST001	#e:l #permiso #de soggiorno, (.) e: #estamos #tramitando il documen[ti]
 PST200	mh
 PST200	[mh:] mhmh
 PST001	#y: #ya #una #vez #que #tengamos #el documenti,
-PST001	#_ #poder #este:
+PST001	#poder #este:
 PST001	lavora[re (.) °sì°]
 PST200	[certo sì sì]
 PST200	e:h quindi:
@@ -313,7 +313,7 @@ PST200	mhmh mhmh[mhmh]
 PST001	[#entonces] #es (.) #pagar #no, #y to~ #*el (.) #tema del $cuora: #es (.) tantissima.
 PST200	eh sì sì [sì]
 PST001	[#entonces] no: (.) #en #cambio qui: (.) eh #fue #gratis, #gracias #a
-PST001	#_ #y::
+PST001	#y::
 PST001	#_ y estamos felices, por eso
 PST200	eh: sì sì è u[na bella] cosa, sia=[siamo conte]nte anche noi
 PST001	[°sì°].
@@ -328,7 +328,7 @@ PST200	e:h
 PST001	d~ [dodici? (.) doci]~ dodici ore #de[:]
 PST002	[xx (.) °mh,°]
 PST200	[e:h]
-PST002	ah (.) v~ de vuelo,
+PST002	ah #_ de v~ de vuelo,
 PST001	sì.
 PST200	mh
 PST201	°mhmh°
@@ -345,7 +345,7 @@ PST002	due no? [o due ore],
 PST001	[d[ue ore]]
 PST200	[°mh mh°]
 PST200	mh [°mhmh°]
-PST002	#_ [#fatal].
+PST002	[#fatal].
 PST001	[per] [lui] (.) per #mi no:,
 PST200	[E::H]
 PST002	[°eh°].
@@ -356,16 +356,16 @@ PST001	((ride)) no:,
 PST001	io=io #mi figlio, tranqui:llo
 PST001	eh #de madrid, (.) #para qui (.) italia ((ride))
 PST001	molt[o:::]
-PST002	#_ [°#turbulencias°]
-PST001	#_ #turbul[e:ncia],
+PST002	[°#turbulencias°]
+PST001	#turbul[e:ncia],
 PST200	[E:::H]
 PST200	e:h ((ride)) non ti piace non ti piace l'aereo?
 PST001	((ride))
 PST002	((ride))
 PST001	((ride))
 PST200	eh
-PST002	#_ °#altura°
-PST200	a:h (.) [l'altezza, °anch'io°]
+PST002	°#altura°
+PST200	a:h (.) [l' altezza, °anch'io°]
 PST001	[xxx (.) sì].
 PST001	ehm ahm io no (.) mio figlio, (.) #durmie:ndo #así
 PST002	((ride))
@@ -391,7 +391,7 @@ PST001	#e:::h #*si:: la #presión, (.) #ha #sido controllata,
 PST200	okay
 PST001	°mhmh,°
 PST001	#y:: dopo, #*el cateterismo, l~ li: dottori, i dottori,
-PST001	e:h van a:, decir si.
+PST001	e:h #_ nos van a:, decir si.
 PST001	si #ha #estado bene, (.) #*el intervento,
 PST200	°okay°
 PST001	#_ s~ ahí nos van a: (.) dar una (.) respuesta
@@ -415,7 +415,7 @@ PST200	volete tornare in perù, o volete rima[nere]
 PST002	[mhmh]
 PST001	e: #*si sta bene, (.) eh qui: eh #le #van #hacer #otro #intervent[o:],
 PST200	[okay],
-PST001	#_ #y:::
+PST001	#y:::
 PST001	#_ tenemos, que esperar, (.) [un tiem]po,
 PST200	[mh mh],
 PST001	#para #que #siga: controllato (.) sì #y:: non so=non so quanto: quanto #tiempo [#serà]
@@ -519,7 +519,7 @@ PST001	[e::h]
 PST200	sì è più liquido
 PST001	[là s]ì sì[sì].
 PST002	[mh].
-PST002	#_ [°#agua°].
+PST002	[°#agua°].
 PST200	s[ì sì]
 PST002	[acqua]
 PST001	il vi:no (.) °v[ino°]
@@ -531,7 +531,7 @@ PST001	[#y #a #mi no:~ non~ non mi piac[e tanto i]:l caffè
 PST200	[e:h]
 PST200	è perché ha un sapore: fort[e così:]
 PST001	[forte sì]
-PST002	°fue]rte°
+PST002	#_ [fuerte °fue]rte°
 PST001	((ride))
 PST200	eh per noi invece è: è strano il~ il caffè:
 PST001	[XX #más] ((ride))
@@ -562,7 +562,7 @@ PST201	[e avete]=°no (.) scusa° ((ride))
 PST001	lo preparo perché mio figlio:: (.) tantissima pasta o:: #*el ri:so #en #*el ospedale
 PST200	mh:
 PST001	e::h q~ qui #*el riso #e:s un po:co::: (.) e:hm °#como [#se dice,°] (.) liquido
-PST002	#_ [#liquido]
+PST002	[#liquido]
 PST200	mh (.) m~ morbido
 PST001	[sì]. (.) i~ in perù #es #más: (.) [s]:[ecco]? (.) °s[ecco°]
 PST002	[xxx]
@@ -570,7 +570,7 @@ PST002	[secco]
 PST200	[secco]
 PST002	[mh]
 PST001	gra~ (.) #graneado °#se dice° ((ride))
-PST002	#_ #graneao
+PST002	#graneao
 PST001	e mio figlio no? (.) eh #parece una: un #postre #peruano
 PST200	m[h]
 PST001	[#ar]ro~ riso con latte,
@@ -579,7 +579,7 @@ PST200	[a::h]
 PST200	[#muy $dulce]
 PST001	un dolce #peruano.
 PST200	[a::h]
-PST001	lo:] y lo prob[ò] °>y dijo<° (.) blè:h
+PST001	#_ [y lo:] y lo prob[ò] °>y dijo<° (.) blè:h
 PST201	[a::h]
 PST002	[°mh°]
 PST001	((ride)) [mi p]iace no: ((ride))
@@ -678,7 +678,7 @@ PST001	o:: eh la insala:ta il vi:no il [forma:ggio] il pa:ne:,
 PST200	[mh mh],
 PST001	#pero: u:n=un piatto #específico, no [°no°]
 PST200	[mh]mh, mh mh [mh mh]
-PST002	no].
+PST002	#_ aún no.]
 PST001	#_ aún no
 PST002	#_ no falta mucho [xxx]
 PST001	[sì] ((ride))
@@ -694,12 +694,12 @@ PST200	okay?
 PST001	e::h (.) [quando parla],
 PST002	[xxx], (.) mh
 PST001	però io (.) parlare, [#me #cuesta mol]to.
-PST002	no°].
+PST002	#_ °aún no°.]
 PST200	mh °mhmhmh°
 PST001	paro:la:: (.) #m~ #mezclo con ((ride)) e:h #castella:no i[talia:no] #castellano
 PST200	[mh mh],
 PST200	°mh [mhmh°]
-PST001	#_ [#y:::]
+PST001	[#y:::]
 PST001	poco a poco (.) [#aún no? #>°sea°<]
 PST200	[°mh mhmhmh°]
 PST001	a: #vamos a: (.) a $imparar #se[guir impara]ndo #*el i]talia:no per #poder parlare
@@ -737,7 +737,7 @@ PST001	n::o, parliamo però sì: un po': #de:: #inglés (.) no?
 PST200	°okay°
 PST001	[#entiendo #tam]bién (.) #como #*el salu::to no, (.) e:::h ((ride)) #how #[are #you:]: ((ride)) è poco poco no
 PST200	[°mh mh,°]
-PST002	#_ °#hola°
+PST002	°#hola°
 PST200	[°mh°]
 PST200	((ride))
 PST200	°mh mhmhmh°
@@ -751,7 +751,7 @@ PST001	m:::h
 PST001	una: una ragazza, (.) piccola, #y:: #empezò a:: (legge~) (.) [#leer]? #leer il foglio, #y:: #se: (.) ascoltava molto bene.
 PST200	mh mh,
 PST201	°sì°
-PST002	#_ [°#leer°]
+PST002	[°#leer°]
 PST001	°sì.°
 PST200	mh:, (.) °mhmhmh°
 PST001	#y:: #yo #le~ le #digo a mio marito (.) #así #vamos #a $parlar ((ride))
@@ -761,7 +761,7 @@ PST002	((ride)) xxx
 PST001	#se=s~ se ascolta:: (.) e::h (.) a:: abbastanza #*diferenzia #en~ en #lo #que #nosotros, (.) #a #lo #que #ustedes $parlan
 PST200	ah quindi voi sentite tanta [differenza tra] (.) v[o:i]?
 PST001	[sì::]
-PST001	>porque<] nosotros como robot ((ride))
+PST001	#_ >porque<] nosotros como robot ((ride))
 PST002	cinque mesi xxx
 PST001	((ride))
 PST001	#ve? [xxx ((ride)) cinque me~ mes]i.
@@ -777,7 +777,7 @@ PST001	((ride))
 PST001	poco:: eh a qui [in scuo:la] °sì° e::hm (.) quando:: andiamo al #supermerca::do
 PST200	[°al
 PST002	°ospedale°
-PST001	[#*en l'ospeda:le::]
+PST001	[#*en l' ospeda:le::]
 PST200	[in ospedale]. (.) è: riuscite:, [(.)] riuscite a capire:, i dottori: i medici in ospedale?
 PST001	[°sì°]
 PST001	a~ a:: #este:: un po', (.) [il dot]tore: l'infermiera: (.) $parlavan (.) #a~ algunas n~ no no tutta #pero #algun[as infermie]ra $parlava:n spagnolo.
@@ -810,7 +810,7 @@ PST200	eh, sì [sì sì]
 PST002	[xxx]
 PST001	#_ y ya:, sì este:: (.) me comunicaba
 PST200	mh mhmh
-PST001	#_ °(#impresión)°
+PST001	°(#impresión)°
 PST001	#_ y como=e:h como le digo:: y: aquí::: hab~ $parla:mos
 PST001	e: #cuando >#vamos< #*al <supermerca::to:> #*en #*el<ospeda::le::
 PST001	#luego no:: (.) °mh,° (.) no molto °#pues°
@@ -826,7 +826,7 @@ PST002	[°italiano°]
 PST002	mh mh,
 PST001	in italiano un po' ((ride))
 PST200	°mh°
-PST001	°e:h° también hay peruanas °pues° [peruanos]
+PST001	°e:h° #_ y también hay peruanas °pues° [peruanos]
 PST200	[°mh° sì sì]
 PST001	#_ y con ellos (.) un poco así pero::: (.) el italiano con otros países °que están ahí estudiando. (.) [sì°]
 PST200	[mh]
@@ -835,7 +835,7 @@ PST001	[sì]
 PST002	[xxx]
 PST001	[sì sì sì]
 PST001	#*el marocchino, no: (.) no s~ #no #puede:: [#*pronunciare] la la e lo #dice i: (.) [ah]. [molto difficile per=per]
-PST002	#_ [°#*pronunciare°]
+PST002	[°#*pronunciare°]
 PST201	[°mh mh°]
 PST002	[°a~ a:h° (.) °la erre°] la erre. no?
 PST001	[per loro] (.) [sì]
@@ -848,8 +848,8 @@ PST201	[°mh°]
 PST002	morenitos?°
 PST002	°no:° (.) ((ride))
 PST001	#_ africanos [también xxx °no°?]
-PST002	>los< africanos >también<
-PST001	#_ #también.
+PST002	#_ >los< africanos >también<
+PST001	#también.
 PST001	#_ pe:ro:: sì, ahí, (.) en~ nos comunicamos
 PST200	mh mhmh[mh]
 PST001	[#la #l]engua:: più difficile #*pero (.) #tratamos #de=de #poder #comunicarnos #°no°?
@@ -864,7 +864,7 @@ PST200	[°mh°] (.) mhmhmh
 PST201	e vi capita mai, di guardare qualche film in italia:no::,
 PST001	ah sì #también (.) e::h film
 PST001	#_ que película [hemos visto? °es]ta vez°? ((ride))
-PST002	#_ [°#película?°]
+PST002	[°#película?°]
 PST002	#pinocho. ((ride))
 PST001	$pino~ pinoccio?
 PST200	ah pinoc[chio sì]
@@ -882,7 +882,7 @@ PST200	°mh: mh[mh°]
 PST001	[do]po un amico: m~ m:h #me #dijo #para=per venire #aquí,
 PST001	#_ y ahí desde ahí ya un poco más
 PST200	°mhmhmh[mhmh°]
-PST001	poco más pa]ra (.) $imparar°
+PST001	#_ un poco más pa]ra (.) $imparar°
 PST200	°mh°. e:hm e: ascoltate anche un po' di musica in italiano? oppure no.
 PST001	sì::, ((ride)) (.) #pero:: #e::n:: #en l'alexa. ((ride))
 PST200	ah okay
@@ -934,7 +934,7 @@ PST002	°andiamo°.
 PST001	#y:: #el tranquillo in casa.
 PST001	no::: (.) #no #es=#no #es un bambino:::, (.) #hiperactivo
 PST200	°okay°.
-PST001	#es un bambino tranquillo (.) >#entonces< (.) =y:: entiende: [e::h]
+PST001	#es un bambino tranquillo (.) >#entonces< #_ y:=y:: entiende: [e::h]
 PST002	[°m:h°]
 PST002	#_ igual=este cuánd[o::] (.) vamos a~ al~ a~ a la °calle°? (.) °mh°? (.) e:::h
 PST001	[dopo:],
@@ -955,7 +955,7 @@ PST002	[eh m:h mh],
 PST200	[a::h] sì [sìsì]
 PST002	[°viola°]
 PST001	°sì°
-PST002	°e::h° ya tengo< que,
+PST002	°e::h° > #_ ya tengo< que,
 PST001	#cargarlo ((ridendo))
 PST001	#lo carga #en #*el collo:?
 PST200	a:h [sì sì] lo mette=lo mette sulle spa:lle.
@@ -990,9 +990,9 @@ PST001	#por mio fi:glio #más #que #todo °no°? #por mio figlio >#por #eso #com
 PST001	#nos #hemos #priva:do (.) #en:: #en: #sali::r uscire >°no°<? [#sali::r]
 PST200	[°mh mh,°]
 PST001	ah, #por mio figlio #para #cuidarlo: #con #su #salud #para #que #no (.) no:::: no #se #contagie con la to:sse::
-PST002	#_ °#influencia°
+PST002	°#influencia°
 PST001	con l' #influe:ncia °no?° (.) #el=il dottore #también #no #sabía: (.) ha detto che: (.) che #permanezca #en=a casa,
-PST001	y ya°
+PST001	#_ y ya°
 PST001	[a:]~ allora #que #es #un #poco #el es~ el #cli:ma: (.) #un #poco #de #so::l #el #aire #má::s #fresco #no tan (.) no freddo,
 PST200	[°mh°]
 PST001	#salimos (.) [°mh [mh°, sì °mh°]
@@ -1043,7 +1043,7 @@ PST002	e:::h.
 PST002	lavorava in:::: (.) #e:n #una em~ #una #empresa: di #ropa
 PST200	okay?
 PST002	a::h
-PST001	za:ra como hache [eme: [s]ì°]
+PST001	#_ como za:ra como hache [eme: [s]ì°]
 PST002	[ah [ah],
 PST200	[okay] sì sì sì di moda quin[di]
 PST001	[sì].
@@ -1055,14 +1055,14 @@ PST200	[okay:] non la co[nosco].
 PST001	[no]? (.) #acá #no #hay ((ride))
 PST002	[°mh°]
 PST200	((ride))
-PST002	°mh. xx xx
+PST002	°mh. #_ xx xx xx
 PST001	((ride)) [(.)] #ahí lavorava.
 PST201	[okay]
 PST002	[°mh°]
 PST200	[°mhmhm]hmh°
 PST002	e::h
 PST002	xxx #a #llegar #a qui:, ehm #un #poco #*que::
-PST001	#_ #*difficultà
+PST001	#*difficultà
 PST002	#*difficultà: (.) è lavo:ro è: un poco dif[ficile (.) perché::]
 PST001	[°#por cercare lavoro°]
 PST002	#sin il permesso, no:n=no: #no #poder lavorare
@@ -1103,7 +1103,7 @@ PST001	#RAPIDO [(.)] sì (.) #pagas due mesi::
 PST002	qualquiera°],
 PST001	prima,
 PST001	#_ de: lo que da la renta,
-PST001	#_ °#y:°
+PST001	°#y:°
 PST001	#encuentras #este:: (.) casa. (.) qui no,
 PST200	mh °mh[mhmh]mh°
 PST001	[°sì°].
@@ -1129,7 +1129,7 @@ PST201	[°mh°]
 PST001	°y:::°
 PST200	°mh: [mhm]h°
 PST001	[°sì°].
-PST001	°adonde vive°?
+PST001	#_ [ella::] °adonde vive°?
 PST200	[e::h]
 PST002	e:::hm
 PST001	°#como #se chiama su:: (.) #*e::l:° (.) ((ride)) °la fer[mata°]?
@@ -1142,14 +1142,14 @@ PST002	[°con la met]ro°,
 PST001	sì.
 PST200	sì sì.
 PST001	#ella #es un'amica #de: mia:::
-PST001	#_ #suegra?
+PST001	#suegra?
 PST002	[#de mia mamma
 PST200	[°okay suo~° sì] [sì sì sì suocera].
 PST001	[°(la) mamma #de lui°]
 PST001	[°sì° su][ocera],
 PST201	[°suocera°].
 PST002	[°mh°]
-PST001	un'amica, °#*de mia:: #y::::°
+PST001	un' amica, °#*de mia:: #y::::°
 PST001	#por #mi: suocera:: (.) #conocemos #a la:: signora (.) si chiama la s~ la signora
 PST200	mh
 PST200	°mh [mh°]
@@ -1184,7 +1184,7 @@ PST002	#_ más, (.) más era este: por por lo >de mi hijo<
 PST002	#_ > o sea,< eh. (.) dejarlo so:lo
 PST001	[a::h]
 PST200	[°mhmh°],
-PST002	e::h. que él (.) está mal no? qualquier cosa le puede pasar °no más°
+PST002	e::h. #_ como que él (.) está mal no? qualquier cosa le puede pasar °no más°
 PST002	#_ pero después,
 PST200	°mhmhmhmh°
 PST002	#_ no (había) problema
@@ -1209,7 +1209,7 @@ PST002	[no]
 PST201	a[h].
 PST200	[°okay°].
 PST001	mhmh,
-PST001	#_ #ella::
+PST001	#ella::
 PST001	#pero #así una:: #de eh amici: #peruvia:nos. #c[on #quie]n no.
 PST002	[mh],
 PST200	°no (.) [mh]mhmhmhmh°
@@ -1219,7 +1219,7 @@ PST001	[sì].
 PST200	qualcu[no=perché ci sono] peruviani. [°sì sì sì sì che ci sono] ci sono°
 PST001	[mhmh],
 PST001	sì[,sì sì (.) sì]
-PST002	#_ °#bast[ante°]
+PST002	°#bast[ante°]
 PST200	[°e::] dobbiamo anche chiedere questa cosa qua°.
 PST201	°sì°.
 PST200	°vai tu°?
@@ -1265,7 +1265,7 @@ PST200	ah,
 PST002	°e[h°].
 PST200	[wow]
 PST002	[NO. #seis #años sei] me:si
-PST001	#_ [°#seis #años?°
+PST001	[°#seis #años?°
 PST001	((ride)) xxx
 PST200	[AH. xxx]
 PST002	[°sì°].
@@ -1314,7 +1314,7 @@ PST001	°un po' poco°
 PST001	è diverso.
 PST001	a::l al~ al~ #*a #*lo #*de perù,
 PST200	a:h
-PST001	((ride)) (.) no hay eñe,
+PST001	((ride)) #_ acá no hay eñe,
 PST001	e:h la e[nne co:n (.) sì]. #acá #no #hay #eñe::
 PST200	[sì sì sì co::n]
 PST001	((ride)) (.) #algunas $parolas=.#letras °no°? °letras°
@@ -1338,7 +1338,7 @@ PST002	e:h #*un #lugar,
 PST002	e:h quindici minu:ti:: (.) #y #ya. (.) °è ora di andare° (.) eh,
 PST001	((ride))
 PST200	((ridendo)) °vuole anda~°
-PST001	no]:: si no se acostu:m[bra].
+PST001	#_ [si no]:: si no se acostu:m[bra.]
 PST200	[eh]
 PST002	[mh] mh
 PST001	perché::: (.) quando::: (.) andiamo alla=alla:: alla signora °#*a #*su: #*a #*su ca:sa,° (.) mio figlio, tranquillo.
@@ -1358,7 +1358,7 @@ PST002	un poco difficile: e:n e:h e:n #quedarnos #en #un #lugar, °o no°? e:h c
 PST200	[mh:]
 PST200	[°mh]mhmh[mhmh°]
 PST201	[°mh°]
-PST002	pue]de estar solo mucho. tiempo.
+PST002	#_ no pue]de estar solo mucho. tiempo.
 PST200	°mh. (.) eh sì
 PST200	°sì sì sì°. e::h (.) volevo chiedere se avete qualche: ho:bby:, qualche passione=qualcosa che magari, (.) e::h non riuscite a::: qui in ita:lia oppure che siete: che riuscite a:: fare qui in italia,
 PST200	che vi piace (.) da se:mpre magari
@@ -1371,19 +1371,19 @@ PST002	[mh]
 PST001	°ah ah° [football].
 PST201	[°mh].
 PST200	e qui no:n non rie[sci],
-PST002	a]quí no. aún, no.
+PST002	#_ [no a]quí no. aún, no.
 PST001	#_ aún no ((ride))
 PST200	°mh°
 PST200	e ma per[ché],
 PST002	[#ya] (.) #cuando:: >#empiezo< a lavora:re m~ mh (.) >#me #imagino< #que:: (.) con ami:ci, (.) un sabato (.) o un domenica.
 PST201	°mh°
 PST200	mh: sì sì sì [°ma::° for]se puoi chiedere perché ieri ne parlavo con: (.)
-PST002	no hay tiempo°].
+PST002	#_ aún no hay tiempo°.]
 PST201	mhmh,
 PST200	che va giocare qui vicino. c'è un campo ha det[to, e lui va a gi]oc[are ogni giove]dì. (.) magari puoi [chiedere],
 PST002	[°mh]?
 PST002	[°a:h°]
-PST002	[°ah sì], ah [voy hablar°]. [mh],
+PST002	[°ah sì], ah #_ le [voy hablar°.] [mh,]
 PST001	[°sì°]
 PST200	[e:h]?
 PST201	°va a [giocare tut][ti i giorni°].
@@ -1418,7 +1418,7 @@ PST200	mh
 PST002	[e::h]
 PST001	la televisione, no no [°no no°]
 PST002	[°no MIO figlio], e::h #dibujos, #ani[mados, xxx] (.) $paperos,
-PST001	es po:co].
+PST001	#_ pero: es po:co.]
 PST200	°a::h no::°
 PST001	°mh: a, #ay viene°.
 PST200	°no:: (.) no:: (.) fermi° ((ride))
@@ -1452,7 +1452,7 @@ PST002	°mh°. [eh~ #pedían] #docume:ntos=docume[nti:: che no andia]mo no,°#qu
 PST001	[AH. sì è vero.
 PST200	[°mh:°]
 PST201	[ce:rto]
-PST001	en la escuela?°] (.) no. (.) en la escuela no no::: solamente::[: (.) vacu]::nas °no°?
+PST001	#_ [°donde. en la escuela?°] (.) no. (.) en la escuela no no::: solamente::[: (.) vacu]::nas °no°?
 PST002	[°xxx°
 PST002	°ah o no°.
 PST002	mucho?°
@@ -1487,7 +1487,7 @@ PST001	>#entonces:< #ya. e:h #en #perú: la~ la scuola #es diversa da qui. in pe
 PST002	[tre anni].
 PST002	[A:H e:n]
 PST201	[°a:h°]
-PST001	perú].
+PST001	#_ [en perú.]
 PST002	[e:h undici].
 PST200	((sussurrando)) °a [marzo°
 PST001	[e:h #el lunedì], (.) [#*el lunedì] #empez[ò=iniz]iò la s[cuola in perù], (.) i::[n °#de° (.) dicembre].
@@ -1519,7 +1519,7 @@ PST200	EH [sì],
 PST201	[°a:h°]
 PST002	[xxx
 PST001	[se~] (.) no:,°
-PST002	#_ [°#otoño°]
+PST002	[°#otoño°]
 PST001	#_ VERANO, [todavía.]
 PST002	ya acaba< ya:,°]
 PST001	#*abri:le:: ma~ #abril, #mayo: sì. #otoño. (.) [ant]~ autunno °#em~ [#empieza°]. (.) [ah ah],
@@ -1527,8 +1527,8 @@ PST200	[°mh.°]
 PST200	[o[kay].
 PST201	[°a:h°]
 PST002	[°autunno°]
-PST001	#*e:::l invie~ inverno? e::n (.) [ju:]::lio=no. [junio] [ju:lio] [agost]o:: el invierno.
-PST002	#_ #sete::m[bre:]
+PST001	#*e:::l invie~ inverno? #_ empieza::: e::n (.) [ju:]::lio=no. [junio] [ju:lio] [agost]o:: el invierno.
+PST002	#sete::m[bre:]
 PST002	[°mh°]?
 PST200	[a:h],
 PST201	[a:h],
@@ -1538,7 +1538,7 @@ PST200	A:H [proprio dive::rso, (.) non sapev]o questa c[osa.
 PST001	[°mh°. (.) è: diverso sì].
 PST001	[#nosotros #veni:mo]s::, $arrivamos a qui:: qua[ndo::].
 PST002	[°#de settembre°].
-PST002	#_ [°#octubre°].
+PST002	[°#octubre°].
 PST001	°ahm° >si chiama< mio figlio, fini~ finis >°#como se°<? finito: il=la scu[ola]. (.) [°n]o°?
 PST200	[okay],
 PST201	[°sì°],

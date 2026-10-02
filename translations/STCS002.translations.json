@@ -1,0 +1,1218 @@
+[
+  {
+    "tu_id": "1",
+    "speaker": "PST072_trad",
+    "start": "0.972",
+    "end": "1.976",
+    "parent_tu_id": "0",
+    "text": "la scuola come va?"
+  },
+  {
+    "tu_id": "3",
+    "speaker": "PST098_trad",
+    "start": "2.056",
+    "end": "2.460",
+    "parent_tu_id": "2",
+    "text": "bene"
+  },
+  {
+    "tu_id": "5",
+    "speaker": "PST072_trad",
+    "start": "2.717",
+    "end": "3.756",
+    "parent_tu_id": "4",
+    "text": "ci sono esami?"
+  },
+  {
+    "tu_id": "10",
+    "speaker": "PST072_trad",
+    "start": "6.900",
+    "end": "8.896",
+    "parent_tu_id": "9",
+    "text": "le hanno già date la pagellina vero?"
+  },
+  {
+    "tu_id": "13",
+    "speaker": "PST072_trad",
+    "start": "9.435",
+    "end": "10.535",
+    "parent_tu_id": "12",
+    "text": "come va? come xx"
+  },
+  {
+    "tu_id": "198",
+    "speaker": "PST090_trad",
+    "start": "461.364",
+    "end": "468.133",
+    "parent_tu_id": "197",
+    "text": "mh noi pensavamo di dire per quale ragione aprire una cartoleria"
+  },
+  {
+    "tu_id": "200",
+    "speaker": "PST090_trad",
+    "start": "468.544",
+    "end": "472.636",
+    "parent_tu_id": "199",
+    "text": "come fu all'inizio, se pensa di aprire un altro negozio"
+  },
+  {
+    "tu_id": "202",
+    "speaker": "PST090_trad",
+    "start": "472.975",
+    "end": "480.412",
+    "parent_tu_id": "201",
+    "text": "e le domande per il pubblico se conoscono posti con altri negozi latinoamericani"
+  },
+  {
+    "tu_id": "204",
+    "speaker": "PST090_trad",
+    "start": "480.810",
+    "end": "483.203",
+    "parent_tu_id": "203",
+    "text": "e se sono stati prima in america latina"
+  },
+  {
+    "tu_id": "222",
+    "speaker": "PST099_trad",
+    "start": "544.089",
+    "end": "545.723",
+    "parent_tu_id": "221",
+    "text": "che il del (ritorno) vero"
+  },
+  {
+    "tu_id": "326",
+    "speaker": "PST072_trad",
+    "start": "884.860",
+    "end": "890.940",
+    "parent_tu_id": "325",
+    "text": "sì diciamo ragazzi l'idea di oggi no è di continuare il lavoro che abbiamo fatto la settimana scorsa la settimana prima"
+  },
+  {
+    "tu_id": "328",
+    "speaker": "PST072_trad",
+    "start": "891.500",
+    "end": "898.040",
+    "parent_tu_id": "327",
+    "text": "e per javi per florencia e come gli diceva eugenio l'idea è di"
+  },
+  {
+    "tu_id": "330",
+    "speaker": "PST072_trad",
+    "start": "899.010",
+    "end": "901.690",
+    "parent_tu_id": "329",
+    "text": "partecipare a questa attività l'anthropology day"
+  },
+  {
+    "tu_id": "332",
+    "speaker": "PST072_trad",
+    "start": "902.410",
+    "end": "905.685",
+    "parent_tu_id": "331",
+    "text": "e dove voi siete un po' gli le guide no?"
+  },
+  {
+    "tu_id": "334",
+    "speaker": "PST072_trad",
+    "start": "905.980",
+    "end": "911.710",
+    "parent_tu_id": "333",
+    "text": "ad un gruppo di italiani no o forse se italiani e altre persone che vengono da tutte le parti del mondo"
+  },
+  {
+    "tu_id": "336",
+    "speaker": "PST072_trad",
+    "start": "911.944",
+    "end": "918.483",
+    "parent_tu_id": "335",
+    "text": "e far conoscere questi luoghi che sono i più importanti per la comunità latinoamericana no"
+  },
+  {
+    "tu_id": "338",
+    "speaker": "PST072_trad",
+    "start": "919.032",
+    "end": "928.160",
+    "parent_tu_id": "337",
+    "text": "no and~ andiamo a vedere in queste poche pochi luoghi non è che vedremo tanti posti no, andremo a vedere posti che sono ristoranti peruviani @fernando: °@fernando ciao°"
+  },
+  {
+    "tu_id": "341",
+    "speaker": "PST072_trad",
+    "start": "928.560",
+    "end": "939.378",
+    "parent_tu_id": "340",
+    "text": "@marcel @marcel ((ride)) che ha una cartoleria, andremo a vedere questa una empanaderia che @nomeristorante lui tie~ questi sono argentini per esempio"
+  },
+  {
+    "tu_id": "346",
+    "speaker": "PST072_trad",
+    "start": "942.611",
+    "end": "947.756",
+    "parent_tu_id": "345",
+    "text": "e alla fine la tappa conclusiva sarà qui un'attività un ballo,"
+  },
+  {
+    "tu_id": "348",
+    "speaker": "PST072_trad",
+    "start": "948.078",
+    "end": "951.456",
+    "parent_tu_id": "347",
+    "text": "sarà un ballo boliviano per esempio no sarà peruviano"
+  },
+  {
+    "tu_id": "350",
+    "speaker": "PST072_trad",
+    "start": "952.445",
+    "end": "958.311",
+    "parent_tu_id": "349",
+    "text": "lo scopo è far conoscere agli italiani a queste persone che vengono da fuori  un poco"
+  },
+  {
+    "tu_id": "353",
+    "speaker": "PST072_trad",
+    "start": "958.945",
+    "end": "959.633",
+    "parent_tu_id": "352",
+    "text": "[la cultu~]"
+  },
+  {
+    "tu_id": "356",
+    "speaker": "PST072_trad",
+    "start": "960.311",
+    "end": "961.959",
+    "parent_tu_id": "355",
+    "text": "la cultura latina esatto no"
+  },
+  {
+    "tu_id": "358",
+    "speaker": "PST072_trad",
+    "start": "962.422",
+    "end": "970.900",
+    "parent_tu_id": "357",
+    "text": "quindi (.) per ogni luogo che andremo a ve~ a a visitare ci piacerebbe costruire nella xx (.) eh::m"
+  },
+  {
+    "tu_id": "360",
+    "speaker": "PST072_trad",
+    "start": "971.145",
+    "end": "977.889",
+    "parent_tu_id": "359",
+    "text": "come se fosse un copione dove noi raccontiamo un po' a questo gruppo di italiani immaginiamo,"
+  },
+  {
+    "tu_id": "362",
+    "speaker": "PST072_trad",
+    "start": "978.656",
+    "end": "982.656",
+    "parent_tu_id": "361",
+    "text": "cos'è che fa e raccontare un po' la sua storia attraverso di esso no"
+  },
+  {
+    "tu_id": "364",
+    "speaker": "PST072_trad",
+    "start": "982.945",
+    "end": "988.889",
+    "parent_tu_id": "363",
+    "text": "perché la signora gabriela ha aperto il suo ristorante perché un ristorante di cibo che tipo di cibo"
+  },
+  {
+    "tu_id": "366",
+    "speaker": "PST072_trad",
+    "start": "989.756",
+    "end": "993.145",
+    "parent_tu_id": "365",
+    "text": "m:: no? quindi quello che dico è questo no?"
+  },
+  {
+    "tu_id": "368",
+    "speaker": "PST072_trad",
+    "start": "993.859",
+    "end": "1004.956",
+    "parent_tu_id": "367",
+    "text": "ogni tappa ogni luogo ha una durata un sette dieci minuti tutt'al più che raccontiamo tutta la storia di quel luogo no"
+  },
+  {
+    "tu_id": "370",
+    "speaker": "PST072_trad",
+    "start": "1005.978",
+    "end": "1014.589",
+    "parent_tu_id": "369",
+    "text": "però m: si diciamo che dobbiamo un po' prepararci perché l'idea è che che si gioca a coppia se una coppia di voi"
+  },
+  {
+    "tu_id": "372",
+    "speaker": "PST072_trad",
+    "start": "1014.656",
+    "end": "1018.145",
+    "parent_tu_id": "371",
+    "text": "presenta per esempio il @nomeristorante no a questo gruppo di di italiani"
+  },
+  {
+    "tu_id": "374",
+    "speaker": "PST072_trad",
+    "start": "1018.500",
+    "end": "1021.189",
+    "parent_tu_id": "373",
+    "text": "l'altra presenta:: la cartoleria no?"
+  },
+  {
+    "tu_id": "376",
+    "speaker": "PST072_trad",
+    "start": "1021.606",
+    "end": "1031.790",
+    "parent_tu_id": "375",
+    "text": "e interagire anche con queste persone di quei luoghi o cioè che se noi andiamo al warike voi presentate e conversate anche con la signora gabriela"
+  },
+  {
+    "tu_id": "378",
+    "speaker": "PST072_trad",
+    "start": "1031.984",
+    "end": "1040.481",
+    "parent_tu_id": "377",
+    "text": "a già ti mi le de~ gli da uno spazio per raccontare qualcosa xx che già le: no le farebbe piacere condividere con: far conoscere a questo gruppo"
+  },
+  {
+    "tu_id": "380",
+    "speaker": "PST072_trad",
+    "start": "1041.289",
+    "end": "1045.345",
+    "parent_tu_id": "379",
+    "text": "e bene questo è un po' (.) l~ l'obiettivo che vogliamo raggiungere"
+  },
+  {
+    "tu_id": "382",
+    "speaker": "PST072_trad",
+    "start": "1046.045",
+    "end": "1049.400",
+    "parent_tu_id": "381",
+    "text": "e oggi sicuramente l'idea come dice @selene è di"
+  },
+  {
+    "tu_id": "384",
+    "speaker": "PST072_trad",
+    "start": "1049.689",
+    "end": "1052.845",
+    "parent_tu_id": "383",
+    "text": "mh pensare al @nomeristorante per esempio è un ristorante peruviano"
+  },
+  {
+    "tu_id": "386",
+    "speaker": "PST072_trad",
+    "start": "1053.789",
+    "end": "1056.078",
+    "parent_tu_id": "385",
+    "text": "che ci piacerebbe conoscere che gli piacerebbe"
+  },
+  {
+    "tu_id": "388",
+    "speaker": "PST072_trad",
+    "start": "1056.933",
+    "end": "1060.233",
+    "parent_tu_id": "387",
+    "text": "far conoscere a questo gruppo di italiani no, quindi"
+  },
+  {
+    "tu_id": "390",
+    "speaker": "PST072_trad",
+    "start": "1060.522",
+    "end": "1067.567",
+    "parent_tu_id": "389",
+    "text": "mai hanno provato cuc~ la cucina latinoamericana sanno qual è il piatto tradizionale del perù della colombia"
+  },
+  {
+    "tu_id": "392",
+    "speaker": "PST072_trad",
+    "start": "1068.111",
+    "end": "1076.900",
+    "parent_tu_id": "391",
+    "text": "e interagire o sia di far raccontare qualcosa alla signora @gabriela riguardo al suo ristorante no, che può essere importante utile"
+  },
+  {
+    "tu_id": "394",
+    "speaker": "PST072_trad",
+    "start": "1077.633",
+    "end": "1079.345",
+    "parent_tu_id": "393",
+    "text": "interessante più che altro no"
+  },
+  {
+    "tu_id": "396",
+    "speaker": "PST072_trad",
+    "start": "1079.945",
+    "end": "1087.089",
+    "parent_tu_id": "395",
+    "text": "e niente questo quindi è l'idea è che ne so le domande ciò che vi piacerebbe"
+  },
+  {
+    "tu_id": "398",
+    "speaker": "PST072_trad",
+    "start": "1087.600",
+    "end": "1092.867",
+    "parent_tu_id": "397",
+    "text": "far conoscere no, così per preparci arrivare (arrivare preparati) al:"
+  },
+  {
+    "tu_id": "400",
+    "speaker": "PST072_trad",
+    "start": "1093.800",
+    "end": "1099.311",
+    "parent_tu_id": "399",
+    "text": "perché già il vener~ il mercoledì prossimo viene una persona che si chiama @silvia"
+  },
+  {
+    "tu_id": "402",
+    "speaker": "PST072_trad",
+    "start": "1099.884",
+    "end": "1102.233",
+    "parent_tu_id": "401",
+    "text": "che"
+  },
+  {
+    "tu_id": "409",
+    "speaker": "PST072_trad",
+    "start": "1105.382",
+    "end": "1112.267",
+    "parent_tu_id": "408",
+    "text": "verrà @sil~ @silvia che è una persona che fa questo di lavoro no, quindi ci aiuterà"
+  },
+  {
+    "tu_id": "411",
+    "speaker": "PST072_trad",
+    "start": "1112.841",
+    "end": "1116.633",
+    "parent_tu_id": "410",
+    "text": "e ci darà sicuramente un suggerimento sul:"
+  },
+  {
+    "tu_id": "413",
+    "speaker": "PST072_trad",
+    "start": "1116.789",
+    "end": "1122.595",
+    "parent_tu_id": "412",
+    "text": "può essere no che stiamo facendo bene o se qualcosa manca ci darò consigli no,"
+  },
+  {
+    "tu_id": "415",
+    "speaker": "PST072_trad",
+    "start": "1123.067",
+    "end": "1124.967",
+    "parent_tu_id": "414",
+    "text": "quindi niente"
+  },
+  {
+    "tu_id": "417",
+    "speaker": "PST072_trad",
+    "start": "1125.800",
+    "end": "1127.567",
+    "parent_tu_id": "416",
+    "text": "ora le doma~ vi chiediamo"
+  },
+  {
+    "tu_id": "419",
+    "speaker": "PST072_trad",
+    "start": "1128.045",
+    "end": "1136.122",
+    "parent_tu_id": "418",
+    "text": "vi chiediamo se (.) appunto fare un po' di brainstorming tutti insieme no, cosa ci piacerebbe che c~ cosa ci piacerebbe raccontare di questo posto"
+  },
+  {
+    "tu_id": "438",
+    "speaker": "PST072_trad",
+    "start": "1227.311",
+    "end": "1231.533",
+    "parent_tu_id": "437",
+    "text": "cosa le chiederesti, cosa cosa ti piacerebbe"
+  },
+  {
+    "tu_id": "440",
+    "speaker": "PST072_trad",
+    "start": "1232.200",
+    "end": "1234.445",
+    "parent_tu_id": "439",
+    "text": "condividere con questo gruppo che non conosce"
+  },
+  {
+    "tu_id": "442",
+    "speaker": "PST072_trad",
+    "start": "1235.533",
+    "end": "1238.900",
+    "parent_tu_id": "441",
+    "text": "il @nomeristorante che nonconosce la cucina latinoamericana"
+  },
+  {
+    "tu_id": "444",
+    "speaker": "PST099_trad",
+    "start": "1245.756",
+    "end": "1247.400",
+    "parent_tu_id": "443",
+    "text": "no sto pensando a ancora"
+  },
+  {
+    "tu_id": "467",
+    "speaker": "PST072_trad",
+    "start": "1287.378",
+    "end": "1291.456",
+    "parent_tu_id": "466",
+    "text": "tu @fernando? tu che non sai niente:, tu che sei colombiano"
+  },
+  {
+    "tu_id": "469",
+    "speaker": "PST089_trad",
+    "start": "1291.496",
+    "end": "1295.300",
+    "parent_tu_id": "468",
+    "text": "tipo:: che prodotto utilizzano"
+  },
+  {
+    "tu_id": "480",
+    "speaker": "PST090_trad",
+    "start": "1325.533",
+    "end": "1329.933",
+    "parent_tu_id": "479",
+    "text": "mh che piatto consumano di più? o"
+  },
+  {
+    "tu_id": "482",
+    "speaker": "PST072_trad",
+    "start": "1331.022",
+    "end": "1332.143",
+    "parent_tu_id": "481",
+    "text": "consumano cosa mangiano"
+  },
+  {
+    "tu_id": "484",
+    "speaker": "PST090_trad",
+    "start": "1332.756",
+    "end": "1334.278",
+    "parent_tu_id": "483",
+    "text": "eh cosa mangiano di più"
+  },
+  {
+    "tu_id": "486",
+    "speaker": "PST072_trad",
+    "start": "1334.318",
+    "end": "1335.756",
+    "parent_tu_id": "485",
+    "text": "i~ in in perù?"
+  },
+  {
+    "tu_id": "488",
+    "speaker": "PST090_trad",
+    "start": "1336.022",
+    "end": "1337.333",
+    "parent_tu_id": "487",
+    "text": "no nel ristorante"
+  },
+  {
+    "tu_id": "518",
+    "speaker": "PST072_trad",
+    "start": "1442.460",
+    "end": "1444.452",
+    "parent_tu_id": "517",
+    "text": "no va bene questo"
+  },
+  {
+    "tu_id": "525",
+    "speaker": "PST072_trad",
+    "start": "1474.575",
+    "end": "1479.500",
+    "parent_tu_id": "524",
+    "text": "dicci @fernando ce l'ho ho visto questo so che ce l'hai vuoi dire [qualcos'altro? ((ride)) xxx]"
+  },
+  {
+    "tu_id": "528",
+    "speaker": "PST203_trad",
+    "start": "1478.336",
+    "end": "1481.188",
+    "parent_tu_id": "527",
+    "text": "vai vai senza vergogna"
+  },
+  {
+    "tu_id": "530",
+    "speaker": "PST072_trad",
+    "start": "1481.200",
+    "end": "1484.175",
+    "parent_tu_id": "529",
+    "text": "senza vergogna dillo in spagnolo se ti senti più a tuo agio"
+  },
+  {
+    "tu_id": "533",
+    "speaker": "PST072_trad",
+    "start": "1511.588",
+    "end": "1513.513",
+    "parent_tu_id": "532",
+    "text": "tu @jose ti viene in mente qualcosa?"
+  },
+  {
+    "tu_id": "535",
+    "speaker": "PST072_trad",
+    "start": "1517.813",
+    "end": "1522.775",
+    "parent_tu_id": "534",
+    "text": "tu per esempio quando vai a mangiare in un ristorante peruviano o latino"
+  },
+  {
+    "tu_id": "537",
+    "speaker": "PST072_trad",
+    "start": "1524.375",
+    "end": "1531.825",
+    "parent_tu_id": "536",
+    "text": "hai una preferenza, qualche cibo, vai lì per un qualche motivo, perché cucinano meglio una cosa piuttosto che un'altra"
+  },
+  {
+    "tu_id": "539",
+    "speaker": "PST099_trad",
+    "start": "1534.863",
+    "end": "1538.663",
+    "parent_tu_id": "538",
+    "text": "poi sempre scelgo lo stesso la stessa pietanza"
+  },
+  {
+    "tu_id": "541",
+    "speaker": "PST072_trad",
+    "start": "1539.638",
+    "end": "1540.638",
+    "parent_tu_id": "540",
+    "text": "okay cos'è?"
+  },
+  {
+    "tu_id": "544",
+    "speaker": "PST099_trad",
+    "start": "1541.038",
+    "end": "1541.625",
+    "parent_tu_id": "543",
+    "text": "è"
+  },
+  {
+    "tu_id": "546",
+    "speaker": "PST099_trad",
+    "start": "1542.788",
+    "end": "1544.688",
+    "parent_tu_id": "545",
+    "text": "si conosce di più come il mostrito"
+  },
+  {
+    "tu_id": "550",
+    "speaker": "PST099_trad",
+    "start": "1545.825",
+    "end": "1550.925",
+    "parent_tu_id": "549",
+    "text": "perché a casa mia si mangia tutti i giorni come (.) come in un ristorante no cucina peruviana"
+  },
+  {
+    "tu_id": "552",
+    "speaker": "PST099_trad",
+    "start": "1551.388",
+    "end": "1553.500",
+    "parent_tu_id": "551",
+    "text": "e l'unico che non cucina xx in casa"
+  },
+  {
+    "tu_id": "554",
+    "speaker": "PST099_trad",
+    "start": "1554.225",
+    "end": "1556.975",
+    "parent_tu_id": "553",
+    "text": "e per questo motivo vado al ristorante"
+  },
+  {
+    "tu_id": "558",
+    "speaker": "PST099_trad",
+    "start": "1564.329",
+    "end": "1566.329",
+    "parent_tu_id": "557",
+    "text": "credo che al @nomeristorante"
+  },
+  {
+    "tu_id": "567",
+    "speaker": "PST099_trad",
+    "start": "1574.957",
+    "end": "1577.680",
+    "parent_tu_id": "566",
+    "text": "xxx come si chiama la ((ride))"
+  },
+  {
+    "tu_id": "570",
+    "speaker": "PST203_trad",
+    "start": "1578.129",
+    "end": "1579.557",
+    "parent_tu_id": "569",
+    "text": "qui però qui circa?"
+  },
+  {
+    "tu_id": "573",
+    "speaker": "PST099_trad",
+    "start": "1585.115",
+    "end": "1590.715",
+    "parent_tu_id": "572",
+    "text": "m::h (.) qualcosa (.) sta come credo che a piedi sono quindici minuti"
+  },
+  {
+    "tu_id": "576",
+    "speaker": "PST099_trad",
+    "start": "1591.557",
+    "end": "1593.972",
+    "parent_tu_id": "575",
+    "text": "no anche non so però questa circa"
+  },
+  {
+    "tu_id": "579",
+    "speaker": "PST072_trad",
+    "start": "1595.672",
+    "end": "1596.157",
+    "parent_tu_id": "578",
+    "text": "dimmi"
+  },
+  {
+    "tu_id": "581",
+    "speaker": "PST099_trad",
+    "start": "1596.415",
+    "end": "1598.843",
+    "parent_tu_id": "580",
+    "text": "come si chiama la xxx?"
+  },
+  {
+    "tu_id": "588",
+    "speaker": "PST099_trad",
+    "start": "1607.115",
+    "end": "1608.757",
+    "parent_tu_id": "587",
+    "text": "è che non mi ricordo la strada"
+  },
+  {
+    "tu_id": "592",
+    "speaker": "PST203_trad",
+    "start": "1610.157",
+    "end": "1611.800",
+    "parent_tu_id": "591",
+    "text": "però in questo quartiere"
+  },
+  {
+    "tu_id": "594",
+    "speaker": "PST099_trad",
+    "start": "1613.386",
+    "end": "1614.172",
+    "parent_tu_id": "593",
+    "text": "sì credo"
+  },
+  {
+    "tu_id": "602",
+    "speaker": "PST099_trad",
+    "start": "1623.315",
+    "end": "1626.100",
+    "parent_tu_id": "601",
+    "text": "nei dintorni della stazione non so però è per qui per"
+  },
+  {
+    "tu_id": "607",
+    "speaker": "PST099_trad",
+    "start": "1628.957",
+    "end": "1632.029",
+    "parent_tu_id": "606",
+    "text": "con il trentatre credo o il quarantadue"
+  },
+  {
+    "tu_id": "609",
+    "speaker": "PST203_trad",
+    "start": "1632.286",
+    "end": "1634.200",
+    "parent_tu_id": "608",
+    "text": "piazza sabotino può essere?"
+  },
+  {
+    "tu_id": "614",
+    "speaker": "PST099_trad",
+    "start": "1640.055",
+    "end": "1641.072",
+    "parent_tu_id": "613",
+    "text": "a io (cominc~)"
+  },
+  {
+    "tu_id": "618",
+    "speaker": "PST099_trad",
+    "start": "1647.529",
+    "end": "1651.335",
+    "parent_tu_id": "617",
+    "text": "a quindi mi xxx vengo a questa"
+  },
+  {
+    "tu_id": "621",
+    "speaker": "PST099_trad",
+    "start": "1652.443",
+    "end": "1653.936",
+    "parent_tu_id": "620",
+    "text": "sì già xxx"
+  },
+  {
+    "tu_id": "624",
+    "speaker": "PST099_trad",
+    "start": "1656.515",
+    "end": "1659.043",
+    "parent_tu_id": "623",
+    "text": "è che non so il suo nome e già mi porta mia nonna"
+  },
+  {
+    "tu_id": "642",
+    "speaker": "PST072_trad",
+    "start": "1690.575",
+    "end": "1691.459",
+    "parent_tu_id": "641",
+    "text": "pollo alla brace"
+  },
+  {
+    "tu_id": "650",
+    "speaker": "PST072_trad",
+    "start": "1695.915",
+    "end": "1697.957",
+    "parent_tu_id": "649",
+    "text": "@nomeristorante si chiama il ristorante qui"
+  },
+  {
+    "tu_id": "696",
+    "speaker": "PST072_trad",
+    "start": "1770.374",
+    "end": "1778.357",
+    "parent_tu_id": "695",
+    "text": "c'è una fusione di diverse anche e::hm cucine no? ad esempio chaufa, il mostrito"
+  },
+  {
+    "tu_id": "698",
+    "speaker": "PST072_trad",
+    "start": "1778.906",
+    "end": "1782.857",
+    "parent_tu_id": "697",
+    "text": "è una fusione tra cibo peruviano e cinese no,"
+  },
+  {
+    "tu_id": "721",
+    "speaker": "PST099_trad",
+    "start": "1825.778",
+    "end": "1827.315",
+    "parent_tu_id": "720",
+    "text": "eh di cosa?"
+  },
+  {
+    "tu_id": "724",
+    "speaker": "PST099_trad",
+    "start": "1829.629",
+    "end": "1830.529",
+    "parent_tu_id": "723",
+    "text": "mh non so"
+  },
+  {
+    "tu_id": "731",
+    "speaker": "PST072_trad",
+    "start": "1845.429",
+    "end": "1852.028",
+    "parent_tu_id": "730",
+    "text": "ad esempio magari se parliamo del mostrito puoi raccontare (.) che cos'è il pollo alla brace per i peruviani no, ad esempio"
+  },
+  {
+    "tu_id": "733",
+    "speaker": "PST099_trad",
+    "start": "1852.315",
+    "end": "1852.943",
+    "parent_tu_id": "732",
+    "text": "per cosa?"
+  },
+  {
+    "tu_id": "735",
+    "speaker": "PST072_trad",
+    "start": "1853.215",
+    "end": "1859.515",
+    "parent_tu_id": "734",
+    "text": "cos'è per esempio no che ti piacerebbe raccontare alle persone che vanno alla"
+  },
+  {
+    "tu_id": "737",
+    "speaker": "PST072_trad",
+    "start": "1860.113",
+    "end": "1862.964",
+    "parent_tu_id": "736",
+    "text": "cos'è il pollo alla brace per i peruviani no?"
+  },
+  {
+    "tu_id": "739",
+    "speaker": "PST072_trad",
+    "start": "1864.020",
+    "end": "1868.193",
+    "parent_tu_id": "738",
+    "text": "perché non credi che questa sia una domanda pe~ per tutti"
+  },
+  {
+    "tu_id": "744",
+    "speaker": "PST072_trad",
+    "start": "1875.186",
+    "end": "1880.649",
+    "parent_tu_id": "743",
+    "text": "e che no è qualcosa di identitario il pollo alla brace per i peruviani"
+  },
+  {
+    "tu_id": "746",
+    "speaker": "PST098_trad",
+    "start": "1883.186",
+    "end": "1884.618",
+    "parent_tu_id": "745",
+    "text": "io penso di sì"
+  },
+  {
+    "tu_id": "753",
+    "speaker": "PST072_trad",
+    "start": "1902.587",
+    "end": "1905.590",
+    "parent_tu_id": "752",
+    "text": "per i peruviani ad esempio può essere il pollo alla brace"
+  },
+  {
+    "tu_id": "762",
+    "speaker": "PST089_trad",
+    "start": "1917.400",
+    "end": "1918.081",
+    "parent_tu_id": "761",
+    "text": "arepas"
+  },
+  {
+    "tu_id": "768",
+    "speaker": "PST089_trad",
+    "start": "1930.457",
+    "end": "1933.686",
+    "parent_tu_id": "767",
+    "text": "un~ un (impasto) di mais"
+  },
+  {
+    "tu_id": "775",
+    "speaker": "PST098_trad",
+    "start": "1940.526",
+    "end": "1941.443",
+    "parent_tu_id": "774",
+    "text": "buono salato"
+  },
+  {
+    "tu_id": "778",
+    "speaker": "PST072_trad",
+    "start": "1943.200",
+    "end": "1944.543",
+    "parent_tu_id": "777",
+    "text": "è come se fosse un pane no?"
+  },
+  {
+    "tu_id": "782",
+    "speaker": "PST072_trad",
+    "start": "1947.186",
+    "end": "1953.800",
+    "parent_tu_id": "781",
+    "text": "farina di mais fatta a forma di panino, che poi dentro va condito (.) ci si mettono le cose no?"
+  },
+  {
+    "tu_id": "787",
+    "speaker": "PST089_trad",
+    "start": "1958.499",
+    "end": "1961.000",
+    "parent_tu_id": "786",
+    "text": "m::::h alla brace"
+  },
+  {
+    "tu_id": "839",
+    "speaker": "PST099_trad",
+    "start": "2085.345",
+    "end": "2086.415",
+    "parent_tu_id": "838",
+    "text": "ci piace"
+  },
+  {
+    "tu_id": "865",
+    "speaker": "PST072_trad",
+    "start": "2135.543",
+    "end": "2139.315",
+    "parent_tu_id": "864",
+    "text": "per esempio la salsa piccante come la fanno?"
+  },
+  {
+    "tu_id": "876",
+    "speaker": "PST099_trad",
+    "start": "2167.600",
+    "end": "2168.630",
+    "parent_tu_id": "875",
+    "text": "il peperone giallo"
+  },
+  {
+    "tu_id": "878",
+    "speaker": "PST072_trad",
+    "start": "2169.040",
+    "end": "2170.579",
+    "parent_tu_id": "877",
+    "text": "bravo peperone giallo"
+  },
+  {
+    "tu_id": "880",
+    "speaker": "PST203_trad",
+    "start": "2169.834",
+    "end": "2170.579",
+    "parent_tu_id": "879",
+    "text": "giallo"
+  },
+  {
+    "tu_id": "949",
+    "speaker": "PST099_trad",
+    "start": "2377.862",
+    "end": "2379.299",
+    "parent_tu_id": "948",
+    "text": "la lattuga e il xx"
+  },
+  {
+    "tu_id": "1024",
+    "speaker": "PST072_trad",
+    "start": "2521.861",
+    "end": "2524.711",
+    "parent_tu_id": "1023",
+    "text": "sì credo che sia, può essere buon~ buono no?"
+  },
+  {
+    "tu_id": "1026",
+    "speaker": "PST072_trad",
+    "start": "2524.711",
+    "end": "2529.561",
+    "parent_tu_id": "1025",
+    "text": "giocare su queste differenze tra cibo peruviano latino americano"
+  },
+  {
+    "tu_id": "1028",
+    "speaker": "PST072_trad",
+    "start": "2529.586",
+    "end": "2531.711",
+    "parent_tu_id": "1027",
+    "text": "e la cucina italiana"
+  },
+  {
+    "tu_id": "1030",
+    "speaker": "PST072_trad",
+    "start": "2533.529",
+    "end": "2538.411",
+    "parent_tu_id": "1029",
+    "text": "okay sì @florencia è certo no, per esempio che in perù e in latino america non so in colombia"
+  },
+  {
+    "tu_id": "1032",
+    "speaker": "PST072_trad",
+    "start": "2538.794",
+    "end": "2540.349",
+    "parent_tu_id": "1031",
+    "text": "confermaci ora @fernando"
+  },
+  {
+    "tu_id": "1034",
+    "speaker": "PST072_trad",
+    "start": "2540.624",
+    "end": "2543.874",
+    "parent_tu_id": "1033",
+    "text": "la colazione è più salata che dolce"
+  },
+  {
+    "tu_id": "1037",
+    "speaker": "PST072_trad",
+    "start": "2544.924",
+    "end": "2547.124",
+    "parent_tu_id": "1036",
+    "text": "in italia, xx il contrario"
+  },
+  {
+    "tu_id": "1040",
+    "speaker": "PST072_trad",
+    "start": "2548.049",
+    "end": "2549.586",
+    "parent_tu_id": "1039",
+    "text": "quasi sempre dolce no?"
+  },
+  {
+    "tu_id": "1042",
+    "speaker": "PST072_trad",
+    "start": "2550.136",
+    "end": "2552.400",
+    "parent_tu_id": "1041",
+    "text": "quindi è qualcosa che no?"
+  },
+  {
+    "tu_id": "1044",
+    "speaker": "PST072_trad",
+    "start": "2553.260",
+    "end": "2557.190",
+    "parent_tu_id": "1043",
+    "text": "il il questo giorno, si può impiegare no con queste differenze no?"
+  },
+  {
+    "tu_id": "1046",
+    "speaker": "PST072_trad",
+    "start": "2557.480",
+    "end": "2559.640",
+    "parent_tu_id": "1045",
+    "text": "o @pasquale anche diceva no?"
+  },
+  {
+    "tu_id": "1048",
+    "speaker": "PST072_trad",
+    "start": "2560.310",
+    "end": "2563.180",
+    "parent_tu_id": "1047",
+    "text": "per (.) la cucina latinoamericana"
+  },
+  {
+    "tu_id": "1050",
+    "speaker": "PST072_trad",
+    "start": "2563.220",
+    "end": "2569.875",
+    "parent_tu_id": "1049",
+    "text": "non esiste molta differenza tra l'antipasto, il primo il secon~ è un piatto unico no?"
+  },
+  {
+    "tu_id": "1052",
+    "speaker": "PST072_trad",
+    "start": "2570.336",
+    "end": "2573.324",
+    "parent_tu_id": "1051",
+    "text": "il suo riso la sua carne la sua insala:~ tutto insieme"
+  },
+  {
+    "tu_id": "1055",
+    "speaker": "PST072_trad",
+    "start": "2574.774",
+    "end": "2579.749",
+    "parent_tu_id": "1054",
+    "text": "bene no sono altre differenze che possiamo usare che possiamo far notare a questo gruppo di"
+  },
+  {
+    "tu_id": "1057",
+    "speaker": "PST072_trad",
+    "start": "2580.024",
+    "end": "2581.349",
+    "parent_tu_id": "1056",
+    "text": "persone che verranno"
+  },
+  {
+    "tu_id": "1082",
+    "speaker": "PST089_trad",
+    "start": "2626.499",
+    "end": "2631.736",
+    "parent_tu_id": "1081",
+    "text": "sì la colazione più salata eh le arepas e uova"
+  },
+  {
+    "tu_id": "1086",
+    "speaker": "PST089_trad",
+    "start": "2635.511",
+    "end": "2636.986",
+    "parent_tu_id": "1085",
+    "text": "e o formaggio"
+  },
+  {
+    "tu_id": "1088",
+    "speaker": "PST072_trad",
+    "start": "2637.699",
+    "end": "2638.361",
+    "parent_tu_id": "1087",
+    "text": "formaggio"
+  },
+  {
+    "tu_id": "1100",
+    "speaker": "PST203_trad",
+    "start": "2657.549",
+    "end": "2660.636",
+    "parent_tu_id": "1099",
+    "text": "ci sono vegetariani in america latina?"
+  },
+  {
+    "tu_id": "1119",
+    "speaker": "PST203_trad",
+    "start": "2705.499",
+    "end": "2707.049",
+    "parent_tu_id": "1118",
+    "text": "non sarai vegetariano?"
+  },
+  {
+    "tu_id": "1150",
+    "speaker": "PST072_trad",
+    "start": "2778.386",
+    "end": "2783.349",
+    "parent_tu_id": "1149",
+    "text": "tu @ariana xx xx in mente altre idee, domande?"
+  },
+  {
+    "tu_id": "1152",
+    "speaker": "PST072_trad",
+    "start": "2784.289",
+    "end": "2785.489",
+    "parent_tu_id": "1151",
+    "text": "tu sei di lima vero?"
+  },
+  {
+    "tu_id": "1209",
+    "speaker": "PST203_trad",
+    "start": "2883.974",
+    "end": "2885.286",
+    "parent_tu_id": "1208",
+    "text": "era in un bicchierino"
+  },
+  {
+    "tu_id": "1222",
+    "speaker": "PST098_trad",
+    "start": "2898.186",
+    "end": "2899.361",
+    "parent_tu_id": "1221",
+    "text": "io sono stata in un ristorante  che"
+  },
+  {
+    "tu_id": "1225",
+    "speaker": "PST098_trad",
+    "start": "2899.599",
+    "end": "2900.411",
+    "parent_tu_id": "1224",
+    "text": "lo davano in tazza"
+  },
+  {
+    "tu_id": "1238",
+    "speaker": "PST098_trad",
+    "start": "2922.774",
+    "end": "2925.274",
+    "parent_tu_id": "1237",
+    "text": "eh cioè quasi lo stesso del ceviche"
+  },
+  {
+    "tu_id": "1323",
+    "speaker": "PST072_trad",
+    "start": "3109.734",
+    "end": "3111.489",
+    "parent_tu_id": "1322",
+    "text": "come si chiama? eh"
+  },
+  {
+    "tu_id": "1327",
+    "speaker": "PST072_trad",
+    "start": "3117.256",
+    "end": "3119.045",
+    "parent_tu_id": "1326",
+    "text": "ragazzi aiutatemi quello verde"
+  },
+  {
+    "tu_id": "1329",
+    "speaker": "PST099_trad",
+    "start": "3119.834",
+    "end": "3120.356",
+    "parent_tu_id": "1328",
+    "text": "quale?"
+  },
+  {
+    "tu_id": "1331",
+    "speaker": "PST072_trad",
+    "start": "3120.411",
+    "end": "3124.422",
+    "parent_tu_id": "1330",
+    "text": "il no non pane, che sta dentro le foglie di banana"
+  },
+  {
+    "tu_id": "1399",
+    "speaker": "PST090_trad",
+    "start": "3262.234",
+    "end": "3262.889",
+    "parent_tu_id": "1398",
+    "text": "credo"
+  }
+]

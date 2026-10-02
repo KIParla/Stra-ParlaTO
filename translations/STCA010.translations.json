@@ -32,563 +32,859 @@
     "text": "crociera"
   },
   {
-    "tu_id": "213",
+    "tu_id": "198",
+    "speaker": "PST149_trad",
+    "start": "297.300",
+    "end": "297.940",
+    "parent_tu_id": "197",
+    "text": "Tangeri"
+  },
+  {
+    "tu_id": "200",
+    "speaker": "PST222_trad",
+    "start": "301.451",
+    "end": "303.886",
+    "parent_tu_id": "199",
+    "text": "come si p~ Tangeri (.) [come si chiama?]"
+  },
+  {
+    "tu_id": "203",
+    "speaker": "PST147_trad",
+    "start": "302.983",
+    "end": "303.613",
+    "parent_tu_id": "202",
+    "text": "Tangeri"
+  },
+  {
+    "tu_id": "204",
+    "speaker": "PST149_trad",
+    "start": "302.983",
+    "end": "303.613",
+    "parent_tu_id": "201",
+    "text": "Tangeri"
+  },
+  {
+    "tu_id": "217",
     "speaker": "PST148_trad",
     "start": "315.300",
     "end": "316.150",
-    "parent_tu_id": "212",
+    "parent_tu_id": "216",
     "text": "mannula (nome proprio di persone femminile veggezzativo)"
   },
   {
-    "tu_id": "236",
+    "tu_id": "240",
     "speaker": "PST149_trad",
     "start": "348.960",
     "end": "350.690",
-    "parent_tu_id": "235",
+    "parent_tu_id": "239",
     "text": "niente, sì sì niente"
   },
   {
-    "tu_id": "255",
+    "tu_id": "259",
     "speaker": "PST149_trad",
     "start": "382.890",
     "end": "384.580",
-    "parent_tu_id": "254",
-    "text": ""
+    "parent_tu_id": "258",
+    "text": "sì passiamo/trascorriamo le vacanze qui"
   },
   {
-    "tu_id": "282",
+    "tu_id": "286",
     "speaker": "PST149_trad",
     "start": "437.018",
     "end": "441.498",
-    "parent_tu_id": "281",
+    "parent_tu_id": "285",
     "text": "però anche in marocco facciamo la stessa cosa, anche in marocco facciamo molto"
   },
   {
-    "tu_id": "291",
+    "tu_id": "295",
     "speaker": "PST222_trad",
     "start": "458.500",
     "end": "461.040",
-    "parent_tu_id": "290",
+    "parent_tu_id": "294",
     "text": "come per esempio sahel el shamali (un paradiso sulla costa d'egitto)"
   },
   {
-    "tu_id": "325",
+    "tu_id": "329",
     "speaker": "PST149_trad",
     "start": "488.670",
     "end": "490.360",
-    "parent_tu_id": "323",
+    "parent_tu_id": "327",
     "text": "che dio vi benedica"
   },
   {
-    "tu_id": "328",
+    "tu_id": "333",
     "speaker": "PST149_trad",
     "start": "491.980",
     "end": "496.280",
-    "parent_tu_id": "327",
+    "parent_tu_id": "331",
     "text": "noi no, noi solamente due settimane e basta perché i miei lavorano"
   },
   {
-    "tu_id": "381",
+    "tu_id": "386",
     "speaker": "PST149_trad",
     "start": "565.530",
     "end": "567.936",
-    "parent_tu_id": "380",
+    "parent_tu_id": "385",
     "text": "sì, sì, si muore di caldo, fa troppo caldo"
   },
   {
-    "tu_id": "400",
+    "tu_id": "405",
     "speaker": "PST148_trad",
     "start": "586.520",
     "end": "587.484",
-    "parent_tu_id": "399",
-    "text": "se dio vuole"
-  },
-  {
-    "tu_id": "403",
-    "speaker": "PST222_trad",
-    "start": "588.980",
-    "end": "590.350",
-    "parent_tu_id": "402",
-    "text": "ah sì, ho la libertà"
-  },
-  {
-    "tu_id": "405",
-    "speaker": "PST222_trad",
-    "start": "590.450",
-    "end": "591.940",
     "parent_tu_id": "404",
-    "text": "hai capito, come si dice?"
+    "text": "se dio vuole"
   },
   {
     "tu_id": "408",
+    "speaker": "PST222_trad",
+    "start": "588.980",
+    "end": "590.350",
+    "parent_tu_id": "407",
+    "text": "ah sì, ho la libertà"
+  },
+  {
+    "tu_id": "410",
+    "speaker": "PST222_trad",
+    "start": "590.450",
+    "end": "591.940",
+    "parent_tu_id": "409",
+    "text": "hai capito, come si dice?"
+  },
+  {
+    "tu_id": "413",
     "speaker": "PST148_trad",
     "start": "590.460",
     "end": "591.350",
-    "parent_tu_id": "406",
+    "parent_tu_id": "411",
     "text": "se dio vuole"
   },
   {
-    "tu_id": "447",
+    "tu_id": "452",
     "speaker": "PST149_trad",
     "start": "657.160",
     "end": "658.610",
-    "parent_tu_id": "446",
-    "text": "e poi in giornata"
+    "parent_tu_id": "451",
+    "text": "e poi in giornata così"
   },
   {
-    "tu_id": "493",
+    "tu_id": "498",
     "speaker": "PST148_trad",
     "start": "716.560",
     "end": "718.040",
-    "parent_tu_id": "492",
+    "parent_tu_id": "497",
     "text": "sì, non ne abbiamo viste di simili"
   },
   {
-    "tu_id": "497",
+    "tu_id": "502",
     "speaker": "PST222_trad",
     "start": "719.270",
     "end": "724.472",
-    "parent_tu_id": "496",
-    "text": "il deserto, però, shaiyb, non è shaiyb"
+    "parent_tu_id": "501",
+    "text": "il deserto, però, Shayib, non è Shayib"
   },
   {
-    "tu_id": "499",
+    "tu_id": "504",
     "speaker": "PST148_trad",
     "start": "720.830",
     "end": "721.916",
-    "parent_tu_id": "498",
-    "text": "shaiyb al-banat (montagna in egitto)"
+    "parent_tu_id": "503",
+    "text": "shāyib al-banāt (montagna in egitto)"
   },
   {
-    "tu_id": "510",
+    "tu_id": "515",
     "speaker": "PST222_trad",
     "start": "740.840",
     "end": "742.530",
-    "parent_tu_id": "509",
-    "text": "se parli di sharm el-sheikh e dahab"
+    "parent_tu_id": "514",
+    "text": "se parli di Sharm el-Sheikh e Dahab"
   },
   {
-    "tu_id": "514",
+    "tu_id": "519",
     "speaker": "PST222_trad",
     "start": "743.550",
     "end": "745.656",
-    "parent_tu_id": "513",
-    "text": "se parli delle parti di sharm el-sheikh e dahab"
+    "parent_tu_id": "518",
+    "text": "se parli delle parti di Sharm el-Sheikh e Dahab"
   },
   {
-    "tu_id": "516",
+    "tu_id": "521",
     "speaker": "PST148_trad",
     "start": "745.743",
     "end": "748.087",
-    "parent_tu_id": "515",
+    "parent_tu_id": "520",
     "text": "no, no, non sharm el-sheikh è proprio shaiyb"
   },
   {
-    "tu_id": "520",
+    "tu_id": "525",
     "speaker": "PST148_trad",
     "start": "751.370",
     "end": "753.446",
-    "parent_tu_id": "519",
+    "parent_tu_id": "524",
     "text": "tutta quella parte, non mi fa sentire a mio agio"
   },
   {
-    "tu_id": "527",
+    "tu_id": "532",
     "speaker": "PST149_trad",
     "start": "759.195",
     "end": "762.445",
-    "parent_tu_id": "526",
+    "parent_tu_id": "531",
     "text": "noi in marocco sì, noi in marocco abbiamo tanta montagna"
   },
   {
-    "tu_id": "535",
+    "tu_id": "540",
     "speaker": "PST149_trad",
     "start": "771.990",
     "end": "774.680",
-    "parent_tu_id": "534",
+    "parent_tu_id": "539",
     "text": "che quando c'è stato il terremoto, quando c'è stato il terremoto"
   },
   {
-    "tu_id": "544",
+    "tu_id": "549",
     "speaker": "PST149_trad",
     "start": "782.045",
     "end": "783.525",
-    "parent_tu_id": "542",
+    "parent_tu_id": "547",
     "text": "il terremoto, l'anno scorso"
   },
   {
-    "tu_id": "560",
+    "tu_id": "565",
     "speaker": "PST149_trad",
     "start": "805.010",
     "end": "809.680",
-    "parent_tu_id": "559",
+    "parent_tu_id": "564",
     "text": "recitavano, sì, sì era una classe, di cos'era, recitavano il corano"
   },
   {
-    "tu_id": "673",
+    "tu_id": "678",
     "speaker": "PST222_trad",
     "start": "984.585",
     "end": "986.165",
-    "parent_tu_id": "672",
+    "parent_tu_id": "677",
     "text": "si chiama la retorica"
   },
   {
-    "tu_id": "677",
+    "tu_id": "682",
     "speaker": "PST222_trad",
     "start": "989.310",
     "end": "990.711",
-    "parent_tu_id": "676",
+    "parent_tu_id": "681",
     "text": "la retorica"
   },
   {
-    "tu_id": "680",
+    "tu_id": "685",
     "speaker": "PST149_trad",
     "start": "991.060",
     "end": "991.690",
-    "parent_tu_id": "678",
-    "text": ""
+    "parent_tu_id": "683",
+    "text": "la retorica"
   },
   {
-    "tu_id": "696",
+    "tu_id": "701",
     "speaker": "PST222_trad",
     "start": "1017.810",
     "end": "1019.890",
-    "parent_tu_id": "695",
+    "parent_tu_id": "700",
     "text": "sì, come la parola ''rimanere saldi sulla retta via''"
   },
   {
-    "tu_id": "743",
+    "tu_id": "748",
     "speaker": "PST149_trad",
     "start": "1067.585",
     "end": "1070.235",
-    "parent_tu_id": "742",
+    "parent_tu_id": "747",
     "text": "no, non l'ho mai sentito. l'arabo classico..."
   },
   {
-    "tu_id": "745",
+    "tu_id": "750",
     "speaker": "PST149_trad",
     "start": "1070.535",
     "end": "1071.875",
-    "parent_tu_id": "744",
+    "parent_tu_id": "749",
     "text": "io parlo solo il dialetto marocchino"
   },
   {
-    "tu_id": "764",
+    "tu_id": "770",
+    "speaker": "PST222_trad",
+    "start": "1104.272",
+    "end": "1109.920",
+    "parent_tu_id": "769",
+    "text": ""
+  },
+  {
+    "tu_id": "771",
     "speaker": "PST149_trad",
     "start": "1104.272",
     "end": "1109.920",
-    "parent_tu_id": "763",
+    "parent_tu_id": "768",
     "text": "almeno per torino sono nuovi gli egiziani, non è, invece i marocchini è da tanto tempo che sono venuti qui"
   },
   {
-    "tu_id": "826",
+    "tu_id": "833",
     "speaker": "PST222_trad",
     "start": "1195.630",
     "end": "1197.290",
-    "parent_tu_id": "825",
+    "parent_tu_id": "832",
     "text": "si chiama ''cucina'' online"
   },
   {
-    "tu_id": "830",
+    "tu_id": "837",
     "speaker": "PST149_trad",
     "start": "1198.235",
     "end": "1198.940",
-    "parent_tu_id": "829",
+    "parent_tu_id": "836",
     "text": "è normale, è normale"
   },
   {
-    "tu_id": "834",
+    "tu_id": "841",
     "speaker": "PST222_trad",
     "start": "1199.450",
     "end": "1202.205",
-    "parent_tu_id": "833",
+    "parent_tu_id": "840",
     "text": "sì è normale, non c'è problema, siamo tranquilli"
   },
   {
-    "tu_id": "869",
+    "tu_id": "876",
     "speaker": "PST147_trad",
     "start": "1252.549",
     "end": "1255.653",
-    "parent_tu_id": "868",
+    "parent_tu_id": "875",
     "text": "perché il venerdì c'è la preghiera del venerdì"
   },
   {
-    "tu_id": "871",
+    "tu_id": "878",
     "speaker": "PST149_trad",
     "start": "1254.410",
     "end": "1255.660",
-    "parent_tu_id": "870",
+    "parent_tu_id": "877",
     "text": "preghiera del venerdì"
   },
   {
-    "tu_id": "875",
+    "tu_id": "880",
+    "speaker": "PST147_trad",
+    "start": "1255.860",
+    "end": "1258.930",
+    "parent_tu_id": "879",
+    "text": ""
+  },
+  {
+    "tu_id": "883",
     "speaker": "PST147_trad",
     "start": "1263.140",
     "end": "1265.370",
-    "parent_tu_id": "874",
+    "parent_tu_id": "882",
     "text": "per esempio in marocco il giorno del venerdì"
   },
   {
-    "tu_id": "877",
+    "tu_id": "885",
     "speaker": "PST147_trad",
     "start": "1265.490",
     "end": "1267.359",
-    "parent_tu_id": "876",
+    "parent_tu_id": "884",
     "text": "quindi il giorno del venerdì"
   },
   {
-    "tu_id": "1041",
+    "tu_id": "893",
+    "speaker": "PST147_trad",
+    "start": "1282.215",
+    "end": "1286.610",
+    "parent_tu_id": "891",
+    "text": ""
+  },
+  {
+    "tu_id": "895",
+    "speaker": "PST149_trad",
+    "start": "1286.150",
+    "end": "1289.252",
+    "parent_tu_id": "894",
+    "text": "[anche no:]i [la domenica] xx couscous (.) sì]"
+  },
+  {
+    "tu_id": "898",
+    "speaker": "PST147_trad",
+    "start": "1288.226",
+    "end": "1291.040",
+    "parent_tu_id": "897",
+    "text": "[esatto infatti noi] tutte le domeniche mangiamo il couscous"
+  },
+  {
+    "tu_id": "900",
+    "speaker": "PST149_trad",
+    "start": "1292.218",
+    "end": "1294.450",
+    "parent_tu_id": "899",
+    "text": "però piatti preferiti a me piace il tajine"
+  },
+  {
+    "tu_id": "902",
+    "speaker": "PST149_trad",
+    "start": "1295.200",
+    "end": "1298.270",
+    "parent_tu_id": "901",
+    "text": "il tagine [con:] sì tajine con la verdura"
+  },
+  {
+    "tu_id": "904",
+    "speaker": "PST222_trad",
+    "start": "1296.150",
+    "end": "1296.816",
+    "parent_tu_id": "903",
+    "text": "tajine"
+  },
+  {
+    "tu_id": "906",
+    "speaker": "PST222_trad",
+    "start": "1297.570",
+    "end": "1298.280",
+    "parent_tu_id": "905",
+    "text": "tajine"
+  },
+  {
+    "tu_id": "910",
+    "speaker": "PST149_trad",
+    "start": "1300.590",
+    "end": "1305.100",
+    "parent_tu_id": "909",
+    "text": "tajine con la verdura a me piace di più le verdure non mangio:: tanta carne"
+  },
+  {
+    "tu_id": "913",
+    "speaker": "PST149_trad",
+    "start": "1305.540",
+    "end": "1308.590",
+    "parent_tu_id": "912",
+    "text": "mi piace di più alle verdure mi piace tajine cioè propri[o::]"
+  },
+  {
+    "tu_id": "915",
+    "speaker": "PST148_trad",
+    "start": "1308.270",
+    "end": "1311.231",
+    "parent_tu_id": "914",
+    "text": ""
+  },
+  {
+    "tu_id": "951",
+    "speaker": "PST147_trad",
+    "start": "1354.150",
+    "end": "1354.660",
+    "parent_tu_id": "950",
+    "text": "cou[scus]"
+  },
+  {
+    "tu_id": "955",
+    "speaker": "PST147_trad",
+    "start": "1354.985",
+    "end": "1355.685",
+    "parent_tu_id": "954",
+    "text": "couscous"
+  },
+  {
+    "tu_id": "1062",
     "speaker": "PST222_trad",
     "start": "1530.555",
     "end": "1533.870",
-    "parent_tu_id": "1040",
+    "parent_tu_id": "1061",
     "text": "gli piace il eh come si chiama, il cibo asciutto non condito"
   },
   {
-    "tu_id": "1064",
+    "tu_id": "1085",
     "speaker": "PST149_trad",
     "start": "1578.550",
     "end": "1579.830",
-    "parent_tu_id": "1063",
+    "parent_tu_id": "1084",
     "text": "con le mani, sì"
   },
   {
-    "tu_id": "1066",
+    "tu_id": "1087",
     "speaker": "PST147_trad",
     "start": "1578.900",
     "end": "1579.850",
-    "parent_tu_id": "1065",
+    "parent_tu_id": "1086",
     "text": "con le mani"
   },
   {
-    "tu_id": "1077",
+    "tu_id": "1098",
     "speaker": "PST149_trad",
     "start": "1597.960",
     "end": "1603.819",
-    "parent_tu_id": "1076",
+    "parent_tu_id": "1097",
     "text": "noi sì, noi più roba italiana che marocchina, solamente quando ci manca, cioè proprio quando vogliamo mangiare marocchino"
   },
   {
-    "tu_id": "1121",
+    "tu_id": "1142",
     "speaker": "PST148_trad",
     "start": "1672.270",
     "end": "1674.310",
-    "parent_tu_id": "1120",
+    "parent_tu_id": "1141",
     "text": "carne xxx"
   },
   {
-    "tu_id": "1134",
+    "tu_id": "1149",
+    "speaker": "PST222_trad",
+    "start": "1681.420",
+    "end": "1682.860",
+    "parent_tu_id": "1148",
+    "text": "queste si chiamano tajine"
+  },
+  {
+    "tu_id": "1152",
+    "speaker": "PST222_trad",
+    "start": "1684.120",
+    "end": "1684.950",
+    "parent_tu_id": "1151",
+    "text": "tajine"
+  },
+  {
+    "tu_id": "1154",
+    "speaker": "PST149_trad",
+    "start": "1685.040",
+    "end": "1685.820",
+    "parent_tu_id": "1153",
+    "text": "tajine"
+  },
+  {
+    "tu_id": "1158",
     "speaker": "PST222_trad",
     "start": "1687.526",
     "end": "1693.130",
-    "parent_tu_id": "1133",
+    "parent_tu_id": "1157",
     "text": "qui si chiama, si chiamano anche (tajine con carne), si chiama carne macellata, giusto?"
   },
   {
-    "tu_id": "1155",
+    "tu_id": "1169",
+    "speaker": "PST222_trad",
+    "start": "1703.660",
+    "end": "1704.940",
+    "parent_tu_id": "1168",
+    "text": "la mettiamo col ripieno"
+  },
+  {
+    "tu_id": "1173",
+    "speaker": "PST222_trad",
+    "start": "1705.870",
+    "end": "1706.745",
+    "parent_tu_id": "1172",
+    "text": "[xx] ripieno"
+  },
+  {
+    "tu_id": "1175",
+    "speaker": "PST148_trad",
+    "start": "1706.800",
+    "end": "1708.010",
+    "parent_tu_id": "1174",
+    "text": "[xxx] ripieno"
+  },
+  {
+    "tu_id": "1179",
+    "speaker": "PST149_trad",
+    "start": "1708.220",
+    "end": "1709.400",
+    "parent_tu_id": "1178",
+    "text": "buo:no il ripieno"
+  },
+  {
+    "tu_id": "1183",
     "speaker": "PST222_trad",
     "start": "1714.160",
     "end": "1715.010",
-    "parent_tu_id": "1154",
+    "parent_tu_id": "1182",
     "text": "il zucchine"
   },
   {
-    "tu_id": "1522",
+    "tu_id": "1428",
+    "speaker": "PST148_trad",
+    "start": "2096.980",
+    "end": "2099.281",
+    "parent_tu_id": "1427",
+    "text": ""
+  },
+  {
+    "tu_id": "1430",
+    "speaker": "PST149_trad",
+    "start": "2098.390",
+    "end": "2099.250",
+    "parent_tu_id": "1429",
+    "text": "l'arabo classico"
+  },
+  {
+    "tu_id": "1530",
+    "speaker": "PST222_trad",
+    "start": "2264.100",
+    "end": "2265.800",
+    "parent_tu_id": "1529",
+    "text": "[la preghiera del: venerdì] [il venerdì]"
+  },
+  {
+    "tu_id": "1553",
     "speaker": "PST222_trad",
     "start": "2297.300",
     "end": "2299.710",
-    "parent_tu_id": "1521",
+    "parent_tu_id": "1552",
     "text": "eh quella moschea moschea omar"
   },
   {
-    "tu_id": "1702",
+    "tu_id": "1555",
+    "speaker": "PST148_trad",
+    "start": "2299.715",
+    "end": "2301.702",
+    "parent_tu_id": "1554",
+    "text": ""
+  },
+  {
+    "tu_id": "1558",
+    "speaker": "PST222_trad",
+    "start": "2301.795",
+    "end": "2303.175",
+    "parent_tu_id": "1557",
+    "text": ""
+  },
+  {
+    "tu_id": "1580",
+    "speaker": "PST222_trad",
+    "start": "2331.490",
+    "end": "2332.363",
+    "parent_tu_id": "1579",
+    "text": "Yalla Aurora (nome del gruppo)"
+  },
+  {
+    "tu_id": "1736",
     "speaker": "PST149_trad",
     "start": "2528.934",
     "end": "2533.920",
-    "parent_tu_id": "1701",
+    "parent_tu_id": "1735",
     "text": "sì sì ho vissuto più qui che in marocco non ho la mentalità dei marocchini"
   },
   {
-    "tu_id": "1721",
+    "tu_id": "1740",
+    "speaker": "PST149_trad",
+    "start": "2534.020",
+    "end": "2534.490",
+    "parent_tu_id": "1739",
+    "text": ""
+  },
+  {
+    "tu_id": "1756",
     "speaker": "PST149_trad",
     "start": "2554.620",
     "end": "2558.020",
-    "parent_tu_id": "1720",
+    "parent_tu_id": "1755",
     "text": "sono diversi dai marocchini che invece abitano in marocco"
   },
   {
-    "tu_id": "1723",
+    "tu_id": "1758",
     "speaker": "PST147_trad",
     "start": "2557.350",
     "end": "2557.820",
-    "parent_tu_id": "1722",
+    "parent_tu_id": "1757",
     "text": ""
   },
   {
-    "tu_id": "1991",
+    "tu_id": "1920",
+    "speaker": "PST148_trad",
+    "start": "2769.585",
+    "end": "2770.295",
+    "parent_tu_id": "1919",
+    "text": ""
+  },
+  {
+    "tu_id": "2028",
     "speaker": "PST222_trad",
     "start": "2912.430",
     "end": "2914.240",
-    "parent_tu_id": "1990",
+    "parent_tu_id": "2027",
     "text": "eh rimani s~ come si chiama l'identità"
   },
   {
-    "tu_id": "1993",
+    "tu_id": "2030",
     "speaker": "PST222_trad",
     "start": "2915.400",
     "end": "2916.440",
-    "parent_tu_id": "1992",
+    "parent_tu_id": "2029",
     "text": "come si chiama l'identità"
   },
   {
-    "tu_id": "2024",
+    "tu_id": "2061",
     "speaker": "PST222_trad",
     "start": "2948.180",
     "end": "2949.700",
-    "parent_tu_id": "2023",
+    "parent_tu_id": "2060",
     "text": "ah qui nel eh, nel garage?"
   },
   {
-    "tu_id": "2030",
+    "tu_id": "2067",
     "speaker": "PST148_trad",
     "start": "2958.620",
     "end": "2959.900",
-    "parent_tu_id": "2029",
+    "parent_tu_id": "2066",
     "text": "questa è mal ridotta vedi che si"
   },
   {
-    "tu_id": "2058",
+    "tu_id": "2095",
     "speaker": "PST149_trad",
     "start": "2995.140",
     "end": "2997.600",
-    "parent_tu_id": "2057",
+    "parent_tu_id": "2094",
     "text": "un paese arabo però non il marocco"
   },
   {
-    "tu_id": "2060",
+    "tu_id": "2097",
     "speaker": "PST222_trad",
     "start": "2998.070",
     "end": "2998.800",
-    "parent_tu_id": "2059",
+    "parent_tu_id": "2096",
     "text": "non il marocco"
   },
   {
-    "tu_id": "2062",
+    "tu_id": "2099",
     "speaker": "PST149_trad",
     "start": "2998.790",
     "end": "3002.470",
-    "parent_tu_id": "2061",
+    "parent_tu_id": "2098",
     "text": "no, in marocco ci vivrei solamente quando"
   },
   {
-    "tu_id": "2065",
+    "tu_id": "2102",
     "speaker": "PST149_trad",
     "start": "3002.780",
     "end": "3004.360",
-    "parent_tu_id": "2064",
+    "parent_tu_id": "2101",
     "text": "divento vecchia, quando invecchierò"
   },
   {
-    "tu_id": "2071",
+    "tu_id": "2108",
     "speaker": "PST149_trad",
     "start": "3020.460",
     "end": "3023.586",
-    "parent_tu_id": "2070",
+    "parent_tu_id": "2107",
     "text": "invece però vorrei andare in un paese arabo, cioè un’altra"
   },
   {
-    "tu_id": "2162",
+    "tu_id": "2199",
     "speaker": "PST149_trad",
     "start": "3130.660",
     "end": "3131.230",
-    "parent_tu_id": "2161",
+    "parent_tu_id": "2198",
     "text": "il paese"
   },
   {
-    "tu_id": "2280",
-    "speaker": "PST148_trad",
-    "start": "3302.480",
-    "end": "3304.540",
-    "parent_tu_id": "2279",
+    "tu_id": "2201",
+    "speaker": "PST147_trad",
+    "start": "3131.525",
+    "end": "3132.615",
+    "parent_tu_id": "2200",
     "text": ""
   },
   {
-    "tu_id": "2296",
+    "tu_id": "2318",
+    "speaker": "PST148_trad",
+    "start": "3302.480",
+    "end": "3304.540",
+    "parent_tu_id": "2317",
+    "text": ""
+  },
+  {
+    "tu_id": "2334",
     "speaker": "PST147_trad",
     "start": "3326.230",
     "end": "3328.690",
-    "parent_tu_id": "2295",
+    "parent_tu_id": "2333",
     "text": "è molto costoso"
   },
   {
-    "tu_id": "2349",
+    "tu_id": "2387",
     "speaker": "PST222_trad",
     "start": "3382.942",
     "end": "3385.082",
-    "parent_tu_id": "2348",
+    "parent_tu_id": "2386",
     "text": "xx mio fratello, mio fratello"
   },
   {
-    "tu_id": "2462",
+    "tu_id": "2393",
+    "speaker": "PST147_trad",
+    "start": "3385.180",
+    "end": "3387.720",
+    "parent_tu_id": "2392",
+    "text": ""
+  },
+  {
+    "tu_id": "2396",
+    "speaker": "PST148_trad",
+    "start": "3386.230",
+    "end": "3386.960",
+    "parent_tu_id": "2395",
+    "text": "[(umano)]?]"
+  },
+  {
+    "tu_id": "2499",
+    "speaker": "PST222_trad",
+    "start": "3547.440",
+    "end": "3549.310",
+    "parent_tu_id": "2498",
+    "text": ""
+  },
+  {
+    "tu_id": "2503",
     "speaker": "PST222_trad",
     "start": "3549.310",
     "end": "3550.702",
-    "parent_tu_id": "2461",
-    "text": "che è la medicina la medicina"
+    "parent_tu_id": "2502",
+    "text": "che è la medicina i medicinali"
   },
   {
-    "tu_id": "2688",
+    "tu_id": "2729",
     "speaker": "PST222_trad",
     "start": "3892.980",
     "end": "3894.500",
-    "parent_tu_id": "2687",
+    "parent_tu_id": "2728",
     "text": "la tua lingua di riferimento"
   },
   {
-    "tu_id": "2695",
+    "tu_id": "2736",
     "speaker": "PST222_trad",
     "start": "3900.898",
     "end": "3903.038",
-    "parent_tu_id": "2694",
+    "parent_tu_id": "2735",
     "text": "per me la mia lingua di riferimento"
   },
   {
-    "tu_id": "2728",
+    "tu_id": "2769",
     "speaker": "PST148_trad",
     "start": "3951.695",
     "end": "3953.725",
-    "parent_tu_id": "2727",
+    "parent_tu_id": "2768",
     "text": "c'è anche un'altra che si chiama studio sperimentale"
   },
   {
-    "tu_id": "2730",
+    "tu_id": "2771",
     "speaker": "PST222_trad",
     "start": "3954.055",
     "end": "3954.885",
-    "parent_tu_id": "2729",
+    "parent_tu_id": "2770",
     "text": "studio sperimentale"
   },
   {
-    "tu_id": "2732",
+    "tu_id": "2773",
     "speaker": "PST148_trad",
     "start": "3954.640",
     "end": "3955.410",
-    "parent_tu_id": "2731",
+    "parent_tu_id": "2772",
     "text": "studio sperimentale"
   },
   {
-    "tu_id": "2758",
+    "tu_id": "2799",
     "speaker": "PST222_trad",
     "start": "3991.040",
     "end": "3993.990",
-    "parent_tu_id": "2757",
+    "parent_tu_id": "2798",
     "text": "eh io stavo"
   },
   {
-    "tu_id": "2771",
+    "tu_id": "2812",
     "speaker": "PST148_trad",
     "start": "4001.490",
     "end": "4002.070",
-    "parent_tu_id": "2770",
+    "parent_tu_id": "2811",
     "text": "grazie"
   }
 ]

@@ -312,12 +312,28 @@
     "text": "ti sei ubriacata?"
   },
   {
+    "tu_id": "1072",
+    "speaker": "environment_trad",
+    "start": "1806.020",
+    "end": "1819.210",
+    "parent_tu_id": "1071",
+    "text": "l'unica persona della casa che ti ha difesa quando eri (xxx) l'unica persona della casa che ti ha difesa quando eri stata messa da parte e non sei riuscita ad integrare qui nella casa dell'amore ero l'unica a darti validazione"
+  },
+  {
     "tu_id": "1075",
     "speaker": "PST092_trad",
     "start": "1816.200",
     "end": "1817.544",
     "parent_tu_id": "1074",
     "text": "la signora ecaterina mi uccide"
+  },
+  {
+    "tu_id": "1080",
+    "speaker": "environment_trad",
+    "start": "1825.710",
+    "end": "1826.910",
+    "parent_tu_id": "1079",
+    "text": "qual'è il problema se"
   },
   {
     "tu_id": "1100",

@@ -6,7 +6,7 @@ PST085	ma cos'è ma eh
 PST092	perché ci sono le foto del
 PST092	ci sono le foto
 PST087	ma si può metterla alla tastiera tipo in questo senso
-PST094	tabără
+PST094	#_ pentru tabără
 PST092	eh ma perché
 PST092	all~ allora
 PST092	l'idea che mi hai fatto venire lei là e una persona qua
@@ -140,14 +140,14 @@ PST092	hhh
 PST092	ti ho visto
 PST087	l'inquadratura è quella
 PST092	io dico più che altro perché tanto la metti qua poi la luce viene e semmai fa un pochino d'ombra
-PST085	me
+PST085	#_ trust me
 PST085	#_ trust me
 PST085	così dev'essere
 PST087	però tu usi le penne
 PST087	quindi iniziamo a spostare
 PST092	hai
 PST092	applaudi
-PST085	#_ yes
+PST085	#yes
 PST092	ci sta
 PST085	vai #guys
 PST092	piano con i cavi
@@ -203,7 +203,7 @@ PST092	cioè xx xx
 PST087	noi abbiamo parlato fino ad adesso di sta roba
 PST092	non lo so ragazze io stavo spostando il computer non vi stavo ascoltando
 PST087	voi ve la immagi~ voi ve la immaginate in piedi
-PST085	#_ wait
+PST085	#wait
 PST087	chiariamo ve la immaginate in piedi o seduta
 PST085	mi state
 PST092	seduta
@@ -324,9 +324,9 @@ PST203	o anche una monetina se ce l'hai
 PST092	ah questo è da togliere ~spettate
 PST087	tanto qui dietro non si vede si spera
 PST092	eh
-PST092	#_ valeleu
+PST092	#valeleu
 PST087	lasciamo i libri lì
-PST092	#_ valeleu
+PST092	#valeleu
 PST092	~spetta che io questi li metto
 PST211	questi dici
 PST087	sì
@@ -355,7 +355,7 @@ PST203	eh sì
 PST085	ma lascia stare sta chitarra
 PST085	ce le hai con le chita~
 PST203	ma guarda che è carina eh se si vede
-PST092	eh dacă se dă cu scaunul
+PST092	eh #_ dar dacă se dă cu scaunul
 PST087	e spostala qui così si vede meglio la chitarra
 PST092	ah più che altro perché se dà in dietro con la sedia la spacca
 PST092	cioè fa un casino
@@ -577,13 +577,13 @@ PST092	iniziamo
 PST086	di hit ball
 PST085	anc~ sta facendo
 PST203	ah
-PST085	lucreaza încă lucreaza cu
+PST085	#_ încă lucreaza încă lucreaza cu
 PST092	chie~ chiedo a #doamna xxx
 PST085	vene~ d~ sabato
 PST203	cosa vuoi fare oggi
-PST085	trebuie să vin de la nouă până la șase să stau aici
+PST085	#_ trebuie să vin de la nouă până la șase să stau aici
 PST087	oggi c'è xx no
-PST092	ce
+PST092	#_ de ce
 PST086	cosa c'entra
 PST087	non lo so magari arriva prima
 PST085	perché alle nove volevo fare matematica con #doamna
@@ -592,7 +592,7 @@ PST085	#_ pentru că i-am spus de la cinci azi
 PST086	non lo so
 PST092	sfigata
 PST203	sai cosa stiamo facendo
-PST085	ce
+PST085	#_ de ce
 PST086	eh sapevo che dovrebbe essere intervistata #doamna
 PST092	ti svegli presto
 PST203	okay perfetto
@@ -903,7 +903,7 @@ PST092	fatto sta che a un certo punto x fa
 PST085	ah
 PST092	x
 PST092	bellissimo
-PST085	#_ mamă
+PST085	#mamă
 PST086	cosa fai
 PST092	è bellissimo
 PST087	tutto bene
@@ -919,7 +919,7 @@ PST086	comunque oggi mi sono fatta le sopracciglia benissimo
 PST092	ieri stavo parlando con e non so perché ma sono scoppiata a ridere no perché mi ha fatto una domanda e le ho detto ma tu sai se questa persona è arrabiata e mi è partito da ridere
 PST092	e non ho più smesso quindi l'ho riempita di vocali di risate e rideva sia lei che io
 PST086	sembro un maschio però
-PST085	#_ da
+PST085	#da
 PST092	fatto sta che poi ieri sera era~ erano le dieci passate arriva xxx si sveglia e mi dice xxx
 PST086	xxx xxx
 PST092	eh

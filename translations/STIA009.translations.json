@@ -72,387 +72,427 @@
     "text": "papà, mamma e mio fratello"
   },
   {
-    "tu_id": "43",
+    "tu_id": "37",
+    "speaker": "PST017_trad",
+    "start": "69.160",
+    "end": "72.260",
+    "parent_tu_id": "36",
+    "text": ""
+  },
+  {
+    "tu_id": "44",
     "speaker": "PST017_trad",
     "start": "81.608",
     "end": "82.798",
-    "parent_tu_id": "42",
+    "parent_tu_id": "43",
     "text": "perché"
   },
   {
-    "tu_id": "46",
+    "tu_id": "47",
     "speaker": "PST017_trad",
     "start": "83.992",
     "end": "86.455",
-    "parent_tu_id": "45",
+    "parent_tu_id": "46",
     "text": "eh lo posso usare nel lavoro"
   },
   {
-    "tu_id": "50",
+    "tu_id": "51",
     "speaker": "PST017_trad",
     "start": "93.010",
     "end": "97.031",
-    "parent_tu_id": "49",
+    "parent_tu_id": "50",
     "text": "eh l'arabo mi può aiutare nel lavoro"
   },
   {
-    "tu_id": "52",
+    "tu_id": "53",
     "speaker": "PST017_trad",
     "start": "97.172",
     "end": "98.530",
-    "parent_tu_id": "51",
+    "parent_tu_id": "52",
     "text": "anche l'italiano"
   },
   {
-    "tu_id": "54",
+    "tu_id": "55",
     "speaker": "PST017_trad",
     "start": "99.498",
     "end": "100.877",
-    "parent_tu_id": "53",
+    "parent_tu_id": "54",
     "text": "ma"
   },
   {
-    "tu_id": "56",
+    "tu_id": "57",
     "speaker": "PST017_trad",
     "start": "101.726",
     "end": "106.747",
-    "parent_tu_id": "55",
+    "parent_tu_id": "56",
     "text": "mi ritengo cioè fortunata, che l'arabo non è una lingua che si impara"
   },
   {
-    "tu_id": "58",
+    "tu_id": "59",
     "speaker": "PST017_trad",
     "start": "106.788",
     "end": "108.251",
-    "parent_tu_id": "57",
+    "parent_tu_id": "58",
     "text": "cioè molto facilmente"
   },
   {
-    "tu_id": "60",
+    "tu_id": "61",
     "speaker": "PST017_trad",
     "start": "108.303",
     "end": "111.219",
-    "parent_tu_id": "59",
+    "parent_tu_id": "60",
     "text": "meglio per me cioè come lingua madre"
   },
   {
-    "tu_id": "67",
+    "tu_id": "68",
     "speaker": "PST017_trad",
     "start": "128.835",
     "end": "130.941",
-    "parent_tu_id": "66",
+    "parent_tu_id": "67",
     "text": "non lo so cioè"
   },
   {
-    "tu_id": "70",
+    "tu_id": "71",
     "speaker": "PST017_trad",
     "start": "132.977",
     "end": "134.007",
-    "parent_tu_id": "69",
+    "parent_tu_id": "70",
     "text": "o sette"
   },
   {
-    "tu_id": "73",
+    "tu_id": "74",
     "speaker": "PST017_trad",
     "start": "139.881",
     "end": "142.131",
-    "parent_tu_id": "72",
+    "parent_tu_id": "73",
     "text": "ehm cioè sei"
   },
   {
-    "tu_id": "95",
+    "tu_id": "96",
     "speaker": "PST017_trad",
     "start": "187.682",
     "end": "191.300",
-    "parent_tu_id": "94",
+    "parent_tu_id": "95",
     "text": "quindi ehm e non ero per nulla capace di parlare"
   },
   {
-    "tu_id": "97",
+    "tu_id": "98",
     "speaker": "PST017_trad",
     "start": "191.646",
     "end": "195.499",
-    "parent_tu_id": "96",
+    "parent_tu_id": "97",
     "text": "non ero per nulla capace di parlare italiano neanche le lezioni potevo seguirle"
   },
   {
-    "tu_id": "99",
+    "tu_id": "100",
     "speaker": "PST017_trad",
     "start": "195.808",
     "end": "199.484",
-    "parent_tu_id": "98",
+    "parent_tu_id": "99",
     "text": "bene non capivo per nulla cosa stava dicendo la prof"
   },
   {
-    "tu_id": "101",
+    "tu_id": "102",
     "speaker": "PST017_trad",
     "start": "199.675",
     "end": "203.558",
-    "parent_tu_id": "100",
+    "parent_tu_id": "101",
     "text": "poi anche in prima, seconda"
   },
   {
-    "tu_id": "104",
+    "tu_id": "105",
     "speaker": "PST017_trad",
     "start": "204.888",
     "end": "208.021",
-    "parent_tu_id": "103",
+    "parent_tu_id": "104",
     "text": "anche anche se la professoressa non mi ricordo di che"
   },
   {
-    "tu_id": "107",
+    "tu_id": "108",
     "speaker": "PST017_trad",
     "start": "209.720",
     "end": "212.801",
-    "parent_tu_id": "106",
+    "parent_tu_id": "107",
     "text": "ricordo che la professoressa iniziò il programma dall'inizio"
   },
   {
-    "tu_id": "110",
+    "tu_id": "111",
     "speaker": "PST017_trad",
     "start": "215.068",
     "end": "216.840",
-    "parent_tu_id": "109",
+    "parent_tu_id": "110",
     "text": "anche lì, non stavo capendo niente"
   },
   {
-    "tu_id": "112",
+    "tu_id": "113",
     "speaker": "PST017_trad",
     "start": "216.980",
     "end": "221.150",
-    "parent_tu_id": "111",
+    "parent_tu_id": "112",
     "text": "quindi anche se rispiegavano non stavo capendo nulla e così cioè"
   },
   {
     "tu_id": "115",
-    "speaker": "PST017_trad",
-    "start": "221.680",
-    "end": "224.850",
+    "speaker": "PST206_trad",
+    "start": "221.190",
+    "end": "222.040",
     "parent_tu_id": "114",
-    "text": "è andata così addirittura non ho neanche avuto"
+    "text": ""
   },
   {
     "tu_id": "117",
     "speaker": "PST017_trad",
-    "start": "224.930",
-    "end": "229.690",
+    "start": "221.680",
+    "end": "224.850",
     "parent_tu_id": "116",
-    "text": "non mi è arrivata l'occasione eh cioè non ho trovato"
+    "text": "è andata così addirittura non ho neanche avuto"
   },
   {
     "tu_id": "119",
     "speaker": "PST017_trad",
-    "start": "230.900",
-    "end": "232.640",
+    "start": "224.930",
+    "end": "229.690",
     "parent_tu_id": "118",
-    "text": "ho trovato una lezione"
+    "text": "non mi è arrivata l'occasione eh cioè non ho trovato"
   },
   {
-    "tu_id": "123",
+    "tu_id": "121",
     "speaker": "PST017_trad",
-    "start": "236.280",
-    "end": "237.050",
-    "parent_tu_id": "122",
-    "text": "nella scuola"
+    "start": "230.900",
+    "end": "232.640",
+    "parent_tu_id": "120",
+    "text": "ho trovato una lezione"
   },
   {
     "tu_id": "125",
     "speaker": "PST017_trad",
-    "start": "237.190",
-    "end": "242.490",
+    "start": "236.280",
+    "end": "237.050",
     "parent_tu_id": "124",
-    "text": "sono capitata in un anno in cui se non avessi studiato italiano fino al punto di capire cosa stava dicendo la prof"
+    "text": "nella scuola"
   },
   {
     "tu_id": "127",
     "speaker": "PST017_trad",
+    "start": "237.190",
+    "end": "242.490",
+    "parent_tu_id": "126",
+    "text": "sono capitata in un anno in cui se non avessi studiato italiano fino al punto di capire cosa stava dicendo la prof"
+  },
+  {
+    "tu_id": "129",
+    "speaker": "PST017_trad",
     "start": "243.120",
     "end": "245.910",
-    "parent_tu_id": "126",
+    "parent_tu_id": "128",
     "text": "era ormai troppo tardi perché il programma era"
   },
   {
-    "tu_id": "133",
+    "tu_id": "134",
+    "speaker": "PST017_trad",
+    "start": "256.160",
+    "end": "260.350",
+    "parent_tu_id": "133",
+    "text": ""
+  },
+  {
+    "tu_id": "136",
     "speaker": "PST017_trad",
     "start": "260.560",
     "end": "263.680",
-    "parent_tu_id": "132",
+    "parent_tu_id": "135",
     "text": "dico niente di che sì"
   },
   {
-    "tu_id": "142",
+    "tu_id": "145",
     "speaker": "PST017_trad",
     "start": "279.140",
     "end": "285.460",
-    "parent_tu_id": "141",
+    "parent_tu_id": "144",
     "text": "perché in arabo anche se ho fatto sono andata a scuola in in in marocco fino alla quarta elementare"
   },
   {
-    "tu_id": "144",
+    "tu_id": "147",
     "speaker": "PST017_trad",
     "start": "285.640",
     "end": "292.950",
-    "parent_tu_id": "143",
+    "parent_tu_id": "146",
     "text": "ma scrivere mi è troppo difficile cioè prendere appunti in arabo mi è troppo difficile, preferisco prendere appunti in italiano"
   },
   {
-    "tu_id": "146",
+    "tu_id": "149",
     "speaker": "PST017_trad",
     "start": "293.220",
     "end": "300.650",
-    "parent_tu_id": "145",
+    "parent_tu_id": "148",
     "text": "è più facile cioè scrivo eh cioè scrivo subito, scrivo a mano subito, è difficile scriverlo in arabo"
   },
   {
-    "tu_id": "148",
+    "tu_id": "151",
     "speaker": "PST017_trad",
     "start": "300.730",
     "end": "304.830",
-    "parent_tu_id": "147",
+    "parent_tu_id": "150",
     "text": "al punto che se cioè c'è uno che legge un testo scritto in arabo"
   },
   {
-    "tu_id": "150",
+    "tu_id": "153",
     "speaker": "PST017_trad",
     "start": "304.950",
     "end": "308.770",
-    "parent_tu_id": "149",
+    "parent_tu_id": "152",
     "text": "probabilmente scrivo in italiano cioè non scrivo in arabo"
   },
   {
-    "tu_id": "155",
+    "tu_id": "158",
     "speaker": "PST017_trad",
     "start": "317.650",
     "end": "321.450",
-    "parent_tu_id": "154",
+    "parent_tu_id": "157",
     "text": "cioè mi trovo pure quando parlo mi trovo a m~"
-  },
-  {
-    "tu_id": "286",
-    "speaker": "PST017_trad",
-    "start": "678.795",
-    "end": "681.885",
-    "parent_tu_id": "285",
-    "text": "cioè eh i miei compagni là in marocco"
   },
   {
     "tu_id": "289",
     "speaker": "PST017_trad",
+    "start": "678.795",
+    "end": "681.885",
+    "parent_tu_id": "288",
+    "text": "cioè eh i miei compagni là in marocco"
+  },
+  {
+    "tu_id": "292",
+    "speaker": "PST017_trad",
     "start": "684.020",
     "end": "685.390",
-    "parent_tu_id": "288",
+    "parent_tu_id": "291",
     "text": "cioè parlano con te"
   },
   {
-    "tu_id": "291",
+    "tu_id": "294",
     "speaker": "PST017_trad",
     "start": "685.700",
     "end": "687.410",
-    "parent_tu_id": "290",
+    "parent_tu_id": "293",
     "text": "anche se tu stavi zitta"
   },
   {
-    "tu_id": "293",
+    "tu_id": "296",
     "speaker": "PST017_trad",
     "start": "687.630",
     "end": "689.150",
-    "parent_tu_id": "292",
+    "parent_tu_id": "295",
     "text": "non parlavano con te"
   },
   {
-    "tu_id": "295",
+    "tu_id": "298",
     "speaker": "PST017_trad",
     "start": "689.395",
     "end": "689.885",
-    "parent_tu_id": "294",
+    "parent_tu_id": "297",
     "text": "non"
   },
   {
-    "tu_id": "342",
+    "tu_id": "345",
     "speaker": "PST017_trad",
     "start": "853.810",
     "end": "857.490",
-    "parent_tu_id": "341",
+    "parent_tu_id": "344",
     "text": "ultimamente cioè cioè possono accettare quelli che hanno la laurea"
   },
   {
-    "tu_id": "344",
+    "tu_id": "347",
     "speaker": "PST017_trad",
     "start": "857.800",
     "end": "861.770",
-    "parent_tu_id": "343",
+    "parent_tu_id": "346",
     "text": "e in un paese estero posso anche cioè posso essere anche pagata bene"
   },
   {
-    "tu_id": "460",
+    "tu_id": "463",
     "speaker": "PST017_trad",
     "start": "1174.400",
     "end": "1177.630",
-    "parent_tu_id": "459",
+    "parent_tu_id": "462",
     "text": "non ci sono parole difficili e avanzate"
-  },
-  {
-    "tu_id": "590",
-    "speaker": "PST017_trad",
-    "start": "1503.835",
-    "end": "1506.955",
-    "parent_tu_id": "589",
-    "text": "cioè che uno viva"
   },
   {
     "tu_id": "593",
     "speaker": "PST017_trad",
+    "start": "1503.835",
+    "end": "1506.955",
+    "parent_tu_id": "592",
+    "text": "cioè che uno viva"
+  },
+  {
+    "tu_id": "596",
+    "speaker": "PST017_trad",
     "start": "1512.700",
     "end": "1513.960",
-    "parent_tu_id": "592",
+    "parent_tu_id": "595",
     "text": "cioè un dio"
   },
   {
-    "tu_id": "623",
+    "tu_id": "626",
     "speaker": "PST017_trad",
     "start": "1599.740",
     "end": "1604.430",
-    "parent_tu_id": "622",
+    "parent_tu_id": "625",
     "text": "sì però dico che meno cioè meno male che so l'arabo"
   },
   {
-    "tu_id": "693",
+    "tu_id": "696",
     "speaker": "PST017_trad",
     "start": "1817.470",
     "end": "1819.000",
-    "parent_tu_id": "692",
+    "parent_tu_id": "695",
     "text": "non si impiccia nella tua vita"
   },
   {
-    "tu_id": "697",
+    "tu_id": "698",
+    "speaker": "PST017_trad",
+    "start": "1819.185",
+    "end": "1820.405",
+    "parent_tu_id": "697",
+    "text": ""
+  },
+  {
+    "tu_id": "701",
     "speaker": "PST017_trad",
     "start": "1820.740",
     "end": "1823.420",
-    "parent_tu_id": "696",
+    "parent_tu_id": "700",
     "text": "la gente si impiccia ti dice cosa devi fare"
   },
   {
-    "tu_id": "702",
+    "tu_id": "703",
     "speaker": "PST017_trad",
-    "start": "1832.920",
-    "end": "1836.510",
-    "parent_tu_id": "701",
-    "text": "che le persone cioè non sono unite"
-  },
-  {
-    "tu_id": "705",
-    "speaker": "PST017_trad",
-    "start": "1839.570",
-    "end": "1840.650",
-    "parent_tu_id": "704",
-    "text": "nel suo cortile"
+    "start": "1823.495",
+    "end": "1825.635",
+    "parent_tu_id": "702",
+    "text": ""
   },
   {
     "tu_id": "707",
     "speaker": "PST017_trad",
+    "start": "1832.920",
+    "end": "1836.510",
+    "parent_tu_id": "706",
+    "text": "che le persone cioè non sono unite"
+  },
+  {
+    "tu_id": "710",
+    "speaker": "PST017_trad",
+    "start": "1839.570",
+    "end": "1840.650",
+    "parent_tu_id": "709",
+    "text": "nel suo quartiere"
+  },
+  {
+    "tu_id": "712",
+    "speaker": "PST017_trad",
     "start": "1841.165",
     "end": "1845.755",
-    "parent_tu_id": "706",
+    "parent_tu_id": "711",
     "text": "non sono socievoli e poi ultimamente sento che c'è più razzismo"
   }
 ]

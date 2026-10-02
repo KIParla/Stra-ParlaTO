@@ -27,7 +27,7 @@ PST203	[grazie]
 PST211	[sì]
 PST088	okay
 PST211	perfetto grazie
-PST203	allora. noi ti abbiamo già un po'raccontato
+PST203	allora. noi ti abbiamo già un po' raccontato
 PST211	[sì]
 PST088	[sì]
 PST203	ti abbiamo già un po' raccontato il:::
@@ -131,7 +131,7 @@ PST088	tu sarai,
 PST088	nostro imam di futuro.
 PST088	e duemillasei,
 PST088	hanno::: come si dice hanno: affittato questa moschea
-PST088	e:h da qui sono sono #dayman
+PST088	e:h da qui sono sono #dāʔiman
 PST203	dopo il lavoro è tanto tempo come fai
 PST203	cioè tu studi e però anche lavori
 PST088	no perché::
@@ -188,7 +188,7 @@ PST211	okay
 PST088	più o meno uguale terza media
 PST088	perché io nel marocco:
 PST088	ho fatto l'università un anno di biologia
-PST088	e un anno dell'economia,
+PST088	e un anno dell' economia,
 PST088	e poi sono uscito a fare
 PST203	ehm
 PST088	e:::h il commercio
@@ -229,12 +229,12 @@ PST088	del sud del marocco.
 PST088	[xxx] sì
 PST211	[mh]
 PST203	[a::h]
-PST088	risolto?
+PST088	#ṣāfī risolto?
 PST088	scusi
 PST203	sì sì no no
 PST088	eh?
 PST088	risolto
-PST088	#_ #alḥamdulillāh.
+PST088	#alḥamdulillāh.
 PST088	grazie.
 PST203	e::h
 PST211	e sapere il francese l'hai usata quando è venuto qui hai dovuto parlare imparare [l'italiano]
@@ -265,7 +265,7 @@ PST088	s~ #shilḥa
 PST203	ah ah
 PST088	sì sì c'è si chiama #shilḥa o #amazigh
 PST088	ci sono chi dicono [#amazigh]
-PST203	#_ [#amazigh]
+PST203	[#amazigh]
 PST203	mh
 PST203	berbero
 PST088	berbero [sì berbero]
@@ -335,7 +335,7 @@ PST088	la erre lo dicono er
 PST211	mh
 PST203	mh
 PST088	e:::h
-PST088	#_ #qa
+PST088	#qa
 PST203	mh
 PST088	#qa non c'è nelle altre lingue
 PST211	mh
@@ -671,16 +671,16 @@ PST088	perché noi non c'è
 PST088	scusa dev~ devo [chiamare qualcuno perché mi] aspetta li dico di andare
 PST203	[sì no=no]
 PST211	vai vai
-PST203	no no tra un po'andia[mo]
+PST203	no no tra un po' andia[mo]
 PST088	[no] no non c'è problema
 PST088	allora. (.) aspetta
 PST088	e:::h come si chiama
-PST088	#_ salam 3alay~ 3a sir l-hajj ana masal m3attal 3a sir ((verso una persona della moschea))
-PST088	#_ sīr allāḥ y-rḥam wālid-sīr, allāḥ y-rḥam wālid-īk, ā yā sīrk, ā yā sīr
-PST088	#_ ā sedu sedu antaya ā sedu
-PST088	#_ sǝdd ma3-k al-bāb
-PST088	#_ allāḥ y-rḥam wālid-īk al hāj
-PST088	#_ bārka āllāḥ u-fī-k, shukrān, āllāḥ y-zid-ik b-xayr
+PST088	#_ salām ʕalay~ ʕa sīr l-hajj āna māzāl mʕaṭṭal ʕa sīr ((verso_una_persona_della_moschea))
+PST088	#_ sīr allāḥ yrḥam wālid- sīr, aḷḷāh yrḥam wālīdī-k, āh ya-sīr, āh ya-sīr
+PST088	#_ a-sədd-u sədd-u antāya a-sədd-u
+PST088	#_ sǝdd mʕa-k al-bāb
+PST088	#_ aḷḷāhh yrḥam wālīdī-k əl-hajj
+PST088	#_ bāraka llāḥu fī-k, shukran, allāḥ yzīdi-k b-xayr
 PST088	allora per noi
 PST088	e::h
 PST088	la religione
@@ -792,7 +792,7 @@ PST088	non va [a~ a~ a~] #avaler
 PST211	[ingerire]
 PST203	ingoiare
 PST088	sì non lo so come:: dire in francese
-PST088	#_ #ava~
+PST088	#ava~
 PST203	[mandare giù]
 PST088	[#ava~] mandare giù [sì ma]ndare giù
 PST211	[mh mh]
@@ -802,7 +802,7 @@ PST088	e così sono delle regole la donna qua nel nel
 PST088	e:::h
 PST088	religione della della:::
 PST088	le regole
-PST088	#_ #*le #regle
+PST088	#*le #regle
 PST088	delle mestrua[zioni]
 PST203	[mh]
 PST088	non devi fare il digiuno
@@ -863,7 +863,7 @@ PST203	posso chiederti un'ultima [do]manda
 PST088	[sì]
 PST211	sì anch'io ho una domanda ma vai pure
 PST203	ah volevo chiedere una cosa s~ s-sulla lingua araba e sulla lingua italiana
-PST203	secondo te l'taliano:: che:: parlano qui a torino le persone::: arabe arabofone
+PST203	secondo te l'italiano:: che:: parlano qui a torino le persone::: arabe arabofone
 PST203	e:::hm
 PST203	è un po' diverso sta cambiando:::
 PST203	come la vedi
@@ -940,15 +940,15 @@ PST088	[allora] guarda
 PST203	mh mh
 PST088	allora leggete questa
 PST211	$metanessimo?
-PST088	$mzianissimo
+PST088	$mzyānissimo
 PST088	ha visto
 PST203	mh mh
-PST088	[e in a]rabo #mzian vuol dire bene
+PST088	[e in a]rabo #mzyān vuol dire bene
 PST211	[ah ah]
 PST211	[okay]
 PST203	[a:::h]
 PST088	allo~ usato,
-PST088	#_ [#mzianissimo]
+PST088	[#mzianissimo]
 PST203	[ah ah]
 PST211	[certo]
 PST211	[certo] ((ride))
@@ -967,14 +967,12 @@ PST211	[mh]
 PST088	allo~ guarda mi ha mi ha fatto aspetta
 ??	non ho capito cosa vuol dire allora mandaci
 ??	qualche prendere
-??	a:::h #bghiti #dquli mandaci qualche preghiera #wa #ṣaḥbi fai attenzione #l-hadak #shi #li #qtbi #qtbti prendere. #mashi preghiera
-PST203	[ah ah]
-PST211	[ah]
+??	a:::h #bghīti #dqūli mandaci qualche preghiera #wa-ṣaḥbi fai attenzione #l-hādāk #sh-shi #lli #kətbi #ktəbti prendere. #māshi preghier
 PST088	[aspetta]
 PST203	mh mh
 PST211	mh
-??	#_ kān qulu preghiera al singolare min kzta' sta3amal kalmāt ml kalma qualche
-??	#l-kalma #li #xassa #tkun al singolare (.) dammi qualche
+??	#_ ka-nqūlu preghiera al singolare min ka-staʕmal kalmāt mən-l-kalma qualche
+??	#l-kalma #lli #təbʕa-ha #xaṣṣa #tkūn al singolare (.) dammi qualche
 PST088	ha detto quanto
 PST088	[ha detto] quando usiamo qualche
 PST203	[mh mh]
@@ -1011,17 +1009,17 @@ PST203	[lei ti spiega]
 PST211	a::h
 PST088	mi spiega
 PST203	mh
-??	#_ nshallāh n-shrahl-ak kam-t3aud
-??	#_ wallīli zwīna hādīk blāṣa
-??	#_ wallāhīla dikurat wla t-taḥt wla l-fūq
-??	#_ hāk ṭla3 shwiya drājāt kaynīn xx
+??	#_ nshāḷḷāh nshraḥ l-ak kām tʕawd
+??	#_ a-wīlī zwīna hādīk blāṣa
+??	#_ wāḷḷāh īla dīkūrāt wlla t-taḥt wlla l-fūq
+??	#_ hāk ṭlaʕ shwiyya d-dərrājāt kāynīn xx
 PST088	mi parla, mi parla della [sua:::]
 PST203	[mh]
 PST088	ha:: affitato una una casetta
 PST211	mh
 PST088	una casetta una soffitta [e:::] inizia
 PST203	[mh]
-PST088	a dirmi ho:: una bella:: un::: [c'è un'angolo in c]ui faccio la preghiera, ha detto allora in questo
+PST088	a dirmi ho:: una bella:: un::: [c'è un' angolo in c]ui faccio la preghiera, ha detto allora in questo
 PST203	[m:::h]
 PST088	angolo fa~ mi fai qualche preghiere::
 PST211	[m:::h
@@ -1030,7 +1028,7 @@ PST088	ha detto no::: devi [dire qualche] preghiera [per questo]
 PST211	((ride))
 PST211	[okay ah]
 PST203	[ah ah]
-??	#_ dwīra msh~ mshīt bghāw z3ma kayna y-sālliw mxbyāt mxbyāt. mshīt, bāqī-lī-ya
+??	#_ dwīra msh~ mshīt bghāw zʕma kāyna ysālliw mxbyāt mxbyāt. mshīt, bāqi lī-ya
 PST088	[allora]
 PST088	mi parla allora [c'è qua guarda] bello bello allora,
 PST203	[mh mh]
@@ -1080,7 +1078,7 @@ PST203	con la tastiera araba
 PST088	con la tastiera araba
 PST203	perché io ho visto alcuni [ragazzi che usano::: le lettere latine]
 PST088	[sì sì sì sì]
-PST088	#_ #ana:
+PST088	#ana:
 PST088	per esempio la #ḥ::
 PST088	us~ usano la sette
 PST203	[la sette]
@@ -1089,8 +1087,8 @@ PST088	alla lettera #ḥa
 PST203	sì [il dise~ sì=sì]=sì=sì
 PST211	[m:::h]
 PST088	eih
-PST088	e la
-PST088	la [è così]
+PST088	e la #ʕayn
+PST088	la #ʕayn [è così]
 PST203	[come il tre]
 PST088	fanno il tre
 PST203	mh mh
@@ -1158,7 +1156,7 @@ PST203	[ho capito]
 PST203	mh
 PST088	eh perché loro
 PST088	[loro sono]
-PST211	[e quindi però ai vostri] figli avete inseganto sia c'è parlato dialetto marocchino e quindi hanno imparato il dialetto marocchino e poi hanno imparato l fuṣḥā giusto
+PST211	[e quindi però ai vostri] figli avete inseganto sia c'è parlato dialetto marocchino e quindi hanno imparato il dialetto marocchino e poi hanno imparato #l-fuṣḥā giusto
 PST088	hanno imparato #l-fuṣḥā
 PST088	perché hanno studiato [a un livello]
 PST211	[okay mh]
@@ -1264,9 +1262,9 @@ PST088	[sia sia. sempre. sempre da] tre anni quattro che,
 PST203	[mh]
 PST088	mi sono:: come si dice:: inizio a fare tutto questo senza perché
 PST088	adesso mh
-PST088	#ḥamdulillāh grazie a Dio mi sento che ho ho ho
+PST088	#ḥamduliḷḷāh grazie a dio mi sento che ho ho ho
 PST088	un po' sviluppato nella nella nella mia lingua i-italiano.
-PST088	#ḥamdulillāh grazie a Dio
+PST088	#ḥamduliḷḷāh grazie a dio
 PST088	la la traduzione
 PST088	prima me lo faceva mia s~ mia figlia::
 PST088	traduzione del del sermone
@@ -1340,14 +1338,14 @@ PST203	bilingue così imparo un po' di arabo ((ride))
 PST088	[okay allora]
 PST203	e li ce l'hai ah
 PST088	mh
-PST088	ogni lode [appartiene] a Dio cari fratelli e sorelle il mondo si prepara a celebrare l'arrivo del nuovo anno,
+PST088	ogni lode [appartiene] a dio cari fratelli e sorelle il mondo si prepara a celebrare l'arrivo del nuovo anno,
 PST203	[mh mh]
 PST088	gregoriano,
 PST088	~mila:: x
 PST203	mh
-PST088	perché Dio la renda una lode >pace benedizione< per tutta l'umanità.
+PST088	perché dio la renda una lode >pace benedizione< per tutta l'umanità.
 PST088	molti si scambiano auguri di felicità,
-PST088	ma la vera felicità non si trova nella disobbedienza a Dio
+PST088	ma la vera felicità non si trova nella disobbedienza a dio
 PST088	visto
 PST203	mh [mh]
 PST211	[mh]
@@ -1355,14 +1353,14 @@ PST088	[cerchiamo se]mpre di
 PST088	come dice il corano
 PST088	chi si rifiuta di seguire la mia rivelazione avrà una vita miserabile.
 PST088	al contrario
-PST088	chi segue la guida di Dio e del suo messaggero, non
+PST088	chi segue la guida di dio e del suo messaggero, non
 PST088	conoscerà,
 PST088	tristezza.
 PST088	e cos[ì a]llora questo in arabo,
 PST211	[mh]
 PST211	mh
-PST088	è questo. Dio permette eh
-PST088	Dio promette di corano daremo una vita eccellente a chiunque uomo e donna sia credente, e compie il bene.
+PST088	è questo. dio permette eh
+PST088	dio promette di corano daremo una vita eccellente a chiunque uomo e donna sia credente, e compie il bene.
 PST088	questo una un versetto del corano.
 PST211	mh mh
 PST088	la felicità quindi è nelle nostre mani. sta a noi scegliere il bene.
@@ -1370,7 +1368,7 @@ PST088	xxx
 PST088	circondarci di persone che ci aiutino.
 PST088	a migliorare e agire con ci~ concretamente per la nostra felecità in questa vita e nell'altra.
 PST211	mh
-PST088	l'altra (.) e così è qua un'altra parte in arabo e la traduzione se volete vi vi faccio
+PST088	l' altra (.) e così è qua un'altra parte in arabo e la traduzione se volete vi vi faccio
 PST211	[mh mh]
 PST088	e così faccio per tutte le::
 PST088	gli argomenti
@@ -1466,7 +1464,7 @@ PST088	e la p~ punto forte della fede
 PST088	è la pratica.
 PST088	se non c'è la pratica
 PST088	diventa come:
-PST088	lo dico sempre c'è un professore che s-s~
+PST088	lo dico sempre c'è un professore che s~ s~
 PST088	che e:h e::h nelle università
 PST088	che spiega il corano. ma non è musulmano.
 PST211	mh
@@ -1501,4 +1499,4 @@ PST211	[grazie grazie mille]
 PST203	[va bene grazie
 PST088	[no] figurati [no]
 PST211	[mh]
-PST088	grazie a voi che dio vi aiuti #inshallah
+PST088	grazie a voi che dio vi aiuti #inshāḷḷāh

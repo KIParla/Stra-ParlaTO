@@ -5,20 +5,20 @@ PST210	sono io
 PST203	si deve accendere
 PST064	#_ xxxxx ah
 PST210	#_ no porque yo no tengo que salir en la cámara
-PST065	que se vea el nombre del restaurante
-PST064	no tienes salir
+PST065	#_ x que se vea el nombre del restaurante
+PST064	#_ ah no tienes salir
 PST210	#_ solamente xxx
-PST203	#_ un momentito más porfa (.) xx ese y poner otro (.) si no no va
-PST065	#_ porque el objetivo es que se vea (.) el nombre del restaurante
+PST203	#_ un momentito más porfa xx ese y poner otro si no no va
+PST065	#_ porque el objetivo es que se vea el nombre del restaurante
 PST064	ah ah
-PST203	#_ eh se no no sale el nombre del restaurante (.) porque estamos haciendo todo eso si no ((ride))
+PST203	#_ eh se no no sale el nombre del restaurante porque estamos haciendo todo eso si no
 PST064	#_ en la entrevista
 PST210	xxxx
 PST210	#_ es una entrevista
 PST065	#_ claro porqué porque lo pones tu seguida nosotros estamos xx
-PST203	video a xxxx
+PST203	#_ el video a xxxx
 PST064	claro
-PST065	#_ he~ hemos sido entrevistado por un proyecto de (.) del cu~ del de la región del piemonte que va a salir en xx momento
+PST065	#_ he~ hemos sido entrevistado por un proyecto de del cu~ del de la región del piemonte que va a salir en xx momento
 PST065	#_ qué es
 PST210	#_ xxx
 PST065	#_ había xxx ya
@@ -30,9 +30,9 @@ PST210	#xx #yo tutta tua
 PST065	no
 PST210	no
 PST065	#_ no solamente me molestó acá como se ve este peñiscado pero después
-PST203	#_ xx (.) eso al suelo (.) eso es siempre al suelo
+PST203	#_ xx eso al suelo eso es siempre al suelo
 PST210	#_ es un dragón
-PST065	es un dragón asiático
+PST065	#_ sí es un dragón asiático
 PST203	xx xxx
 PST210	ah xx
 PST065	cioè #oriental
@@ -41,10 +41,10 @@ PST065	#_ porqué lo llaman a usted x
 PST064	#_ ah xx yo le mandé el mensaje que no iba pedir xxx
 PST065	ah
 PST203	#_ x de rotura
-PST203	#_ @mary un poquito más a la derecha y yo un poquito más a x (.) asì
+PST203	#_ un poquito más a la derecha y yo un poquito más a x asì
 PST064	mh
 PST203	scusate ci mettiamo
-PST064	#_ sí sí (.) ya que apaga xx teléfono
+PST064	#_ sí sí ya que apaga xx teléfono
 PST203	ci mettiamo un po'
 PST064	#_ quítala
 PST203	ci mettiamo un po' di più perché
@@ -54,16 +54,16 @@ PST203	qual è il problema dimmi
 PST210	non si vede proprio
 PST203	xxx
 PST203	facciamo un'altra xx #*con #el #nombre #también #asì #hacemos #otra #toma
-PST064	ha llamado
+PST064	#_ me ha llamado
 PST210	ah okay
-PST210	#_ #*zero
+PST210	#*zero
 PST210	a posto
-PST203	#_ @mary (.) mira xxx
+PST203	#_ mira xxx
 PST203	xxxxx
 PST210	#_ bórrala
 PST203	xx xxxx
 PST210	okay
-PST210	#_ me llaman (.) siempre xxx
+PST210	#_ me llaman siempre xxx
 PST065	#_ de qué parte x
 PST210	xxx
 PST064	#_ xxx yo de cañete
@@ -82,7 +82,7 @@ PST203	xxx
 PST203	funziona sei tu il capo decidi tu
 PST210	xx io perché
 PST203	stiamo già facendo
-PST203	#_ listo
+PST203	#listo
 PST203	ciao
 PST064	okay
 PST203	allora eh io sono vi abbiamo già raccontato un po' del nostro progetto
@@ -158,8 +158,8 @@ PST064	a volte sembra che fosse una serata di italiani perché $rempimo tutto di
 PST203	xx
 PST203	e conoscono un po' la cucina peruviana
 PST064	ma conoscono sì conoscono di più lo conoscono la #papa #a #la #huancaína
-PST064	#_ el ceviche
-PST203	#_ ceviche
+PST064	#el #ceviche
+PST203	#ceviche
 PST064	è quello che loro vengono prima a mangiare quello
 PST064	adesso poi che noi abbiamo un menù abbastanza
 PST064	abbondante per dire #ya
@@ -329,7 +329,7 @@ PST203	di lima
 PST210	sì
 PST203	e tu qual è il tuo piatto preferito
 PST065	ah a me il #ceviche ah ovunque io vado mh devo per forza mangiare quello
-PST203	#_ ceviche
+PST203	#ceviche
 PST203	sì
 PST203	ma ma lo mangi anche a casa tua
 PST065	eh sì

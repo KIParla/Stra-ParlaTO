@@ -158,7 +158,7 @@ PST125	se no questi son capaci di venire anche qua
 PST127	eh beh
 PST127	no eh
 PST125	no
-PST125	#_ que pasa @migui
+PST125	#_ que pasa
 ???	ma vedi xx xx cosa c'è
 PST125	sh
 PST122	cosa ti devo dire
@@ -240,7 +240,7 @@ PST127	mh
 PST123	a settimana
 PST127	ah ma lui che faceva
 ???	mamma xxx
-PST122	favor
+PST122	#_ por favor
 PST123	l'allenatore
 PST127	ah l'allenatore
 PST124	posso fare io
@@ -250,7 +250,7 @@ PST127	ah al baci
 ???	mami mami voglio voglio la torta
 PST123	ma due volte a settimana
 PST123	più un giorno di pratica
-PST125	mi amor
+PST125	#_ ya mi amor
 PST127	ah
 PST127	eh anch'io facevo
 PST125	#_ dame un platito dame un platito
@@ -270,7 +270,7 @@ PST125	non pago affitto
 PST127	sì
 PST123	ma lui ma lui è è allenatore
 PST127	sì
-PST123	lui ha fatto l'allenatore lui è il presidente dell'associazione
+PST123	lui ha fatto l'allenatore lui è il presidente dell' associazione
 PST123	allenatori della mia città
 PST127	ah beh
 ???	cosa c'è
@@ -439,9 +439,9 @@ PST125	scottex
 PST123	sì
 ???	tanto
 PST123	nel tuo bicchiere o nel biberon
-PST125	#_ poquito
+PST125	#poquito
 ???	sì di spiderman
-PST125	#_ poquito
+PST125	#poquito
 PST127	di spiderman
 PST123	un pochino
 PST123	un goccio
@@ -988,7 +988,7 @@ PST125	ah beh ah fai tutto là
 PST127	sì sì sì sono comodo
 PST125	mh
 PST123	adesso ti aiuta
-PST125	#_ @a~ (.) @do~ @vi~ @dora no la molestes
+PST125	#_ no la molestes
 PST123	xx
 PST122	xxxxxx
 PST123	xxx
@@ -1236,7 +1236,7 @@ PST125	tu cosa vuoi fare da grande
 PST127	spidey
 ???	aspetta vediamo un po'
 PST125	oh
-PST122	qué aburre
+PST122	#_ oh qué aburre
 ???	da grande eh ah xxx xxx xxx
 PST122	ma tu che lavoro vuoi fare da grande
 ???	mh
@@ -1513,9 +1513,9 @@ PST125	ah ma che bello
 PST122	di' qualcosa in greco
 PST127	eh
 PST125	ah ma tu studi greco
-PST127	kalespera
+PST127	#_ ka~ kalespera
 PST124	oh eh sì latino e greco
-PST127	#_
+PST127	#_ kalemera
 PST125	greco e latino
 PST122	greco e latino fa
 PST125	eh sì
@@ -1644,7 +1644,7 @@ PST122	ho otto però io in matematica
 PST122	quindi x
 PST122	vediamo domani guarda domani ho la verifica di
 PST122	dov'è matematica
-PST125	#_ que estás haciendo @migui
+PST125	#_ que estás haciendo
 PST122	di sistemi di equazioni di due incognite con tutti e quattro i metodi
 ???	sto prendendo il mio bicchiere
 PST125	non si prende da lì
@@ -1669,7 +1669,7 @@ PST127	mh
 PST124	xx xxxx
 ???	tanto
 PST125	ma tu hai o~ lezioni obbligatorie
-PST122	amor
+PST122	#_ basta amor
 PST096	mh no
 ???	di piu'
 PST125	son tutte facoltative
@@ -1688,7 +1688,7 @@ PST096	sì
 PST122	eh #chill
 PST122	e poi cosa fai
 PST096	eh poi penso di
-PST125	#_ @miguel deja
+PST125	#_ deja
 PST124	vicino
 PST096	di cominciare a lavorare
 PST096	eh e poi
@@ -1874,7 +1874,7 @@ PST125	ma sì
 PST122	sì dai
 PST127	mh
 PST125	è così
-PST125	anche quando sei arrivata all'esame di terza media eri un po' agitata logicamente per quell'età
+PST125	anche quando sei arrivata all' esame di terza media eri un po' agitata logicamente per quell'età
 PST122	e se vado male negli scritti e negli orali
 PST122	vado da dio
 PST124	io non ho capito solo come funzionano
@@ -2304,7 +2304,7 @@ PST127	xx
 PST125	ah
 PST122	oh
 PST124	dai dai
-PST122	#_ aburre
+PST122	#aburre
 ???	una due
 PST125	eh sì sì
 ???	eh e l'ultima
@@ -2429,7 +2429,7 @@ PST125	l'avrà già finito tato
 ???	no
 PST127	no
 PST124	chi è tato
-PST125	#_ deja ahi (.) deja ahí deja ahí deja ahí deja ahí
+PST125	#_ deja ahi deja ahí deja ahí deja ahí deja ahí
 PST125	#_ no se toca
 ???	cos'è la mia $lampa
 PST125	la tua $lampa
@@ -2490,7 +2490,7 @@ PST096	mattina
 PST125	oh
 PST096	mh
 PST125	domani che giorno è
-PST124	#_ jueves
+PST124	#jueves
 PST122	giovedì
 PST127	giovedì domani
 PST125	giovedì
@@ -2555,7 +2555,7 @@ PST122	tenga pure me lo corregga grazie
 PST124	no sei ore è troppo xxx
 PST122	no che poi vogliono che scrivi a~
 PST122	alle medie mi hanno detto scrivi almeno due pagine io mezza pagina dall'inizio era xx ho già finito la storia io
-PST125	#_ @miguel lo rompes
+PST125	#_ lo rompes
 PST122	poi mi dici se si può copiare
 PST127	sì sì sì no vai
 PST122	io mi porto i bigliettini x no scherzo mamma eh
@@ -2730,7 +2730,7 @@ PST122	hm
 PST125	sì
 PST122	sì che si va a scuola
 PST127	no non si va domani
-PST122	#_ ya mañana viene @xx a recogerte
+PST122	#_ ya mañana viene a recogerte
 PST127	sì
 ???	domani non si va a scuola
 PST125	sì che si va a scuola
@@ -2977,7 +2977,7 @@ PST122	perché sono fuori milano
 PST122	e han~ e vanno tutta tipo questo nostro retro ma tipo nel bosco quindi molto più grande
 PST122	e fanno una grigliata con tutta la sua famiglia e mi hanno invitato
 PST124	#_ ñaña te vas a volver
-PST122	#_ si (.) ñaña voy a volver
+PST122	#_ si ñaña voy a volver
 PST122	che schifo il #cevice con
 PST122	madonna quando l'ho detto davanti a sua madre mi ha iniziato a dire
 PST122	#xx #xx #comer #paloma io gli ho detto #no #señor #disculpe
@@ -3111,7 +3111,7 @@ PST122	corri corri che te la fai addosso
 ???	eccolo
 ???	dov'è la non la s~ non lo xx
 PST127	poverino
-PST125	#_ ((ride)) ay pobrecito xx
+PST125	#_ ay pobrecito xx
 PST127	sì
 PST122	l'altra volta c'era la #tapa #del #*water #arriba #y #si #estaba #que #se #cahía #adentro
 PST122	e fa oh

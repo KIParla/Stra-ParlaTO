@@ -69,7 +69,7 @@ PST092	no facciamo dei pezzi che riguardino di più il #centru
 PST203	okay capiamo
 PST203	okay
 PST203	mettiamoci anche questo
-PST203	#_ dom
+PST203	#dom
 PST203	no~ non so dove è giusta l'acca
 PST083	è giusta è giusta
 PST203	è giusta
@@ -145,7 +145,7 @@ PST203	sì
 PST092	con la mia calligrafia
 PST092	ti xxx
 PST203	no ma una cioè il la co~ come è messa qui
-PST085	că scriu eu
+PST085	#_ na că scriu eu
 PST203	qua
 PST085	x dettami
 PST092	eh
@@ -935,7 +935,7 @@ PST203	eh
 PST092	titolo
 PST087	il t~ eh
 PST083	la cosa più difficile
-PST087	#_ centru
+PST087	#centru
 PST092	no un titolo deve
 PST211	centro di gravità permanente
 PST086	romania la romania
@@ -1020,7 +1020,7 @@ PST083	che tradotto sarebbe
 PST087	la nostalgia
 PST083	la nostalgia di casa tipo ma
 PST093	la mancanza di casa
-PST092	#_ casă românească
+PST092	#casă #românească
 PST083	non è proprio nostalgia però
 PST203	beh
 PST083	cioè non si può tradurre in realtà però
@@ -1034,8 +1034,8 @@ PST083	eh cos'è che ho detto
 PST086	#_ dorul de casă
 PST092	#dorul #de #acasă io mi sto sentendo troppo a casa mia in sto momento perciò potrei sdraiarmi e rimanere sdraiata per dire
 PST083	#de #acasă si scrive staccato
-PST083	#_ de a
-PST086	#_ acasă
+PST083	#de #a
+PST086	#acasă
 PST086	#acasă raga #acasă
 PST083	così
 PST092	dammi la xxx dammi la cosa mia voglio la mia foto quella con
@@ -1057,14 +1057,14 @@ PST083	no ma si scrive attaccato
 PST083	hai x vabbè
 PST087	ah io voglio anche questa
 PST086	cosa si scrive attaccato
-PST092	#_ acasă
+PST092	#acasă
 PST086	#acasă è attaccato
 PST083	eh lì ho scritto staccato infatti
 PST085	ho fatto la #liaison con la a
 PST092	anche lì
 PST083	ehm
 PST087	guarda questa
-PST092	#_ oleu
+PST092	#oleu
 PST083	qualche altra idea
 PST092	ehm no
 PST087	il be~ il eh l~ l~ l~ l~
@@ -1122,8 +1122,8 @@ PST203	io sarò degli anni novanta ma me le ricordo meglio di te le cose
 PST092	montoya #por #favor montoya
 PST203	i vecchi che ti raccontano le sto~ chiamalo i vecchi che ti raccontano le storie degli anni novanta
 PST086	eccolo
-PST087	#_ bună
-PST085	#_ aoleo
+PST087	#bună
+PST085	#aoleo
 PST086	eh #dom è vecchio
 PST092	ma
 PST083	c'ha cinquant'anni
@@ -1195,7 +1195,7 @@ PST086	no aspetta
 PST203	se posso darvi proprio una cosa
 PST203	il documentario parla di voi non parla della romania
 PST083	appunto
-PST086	#_ străbuni (.) străbuni
+PST086	#_ străbuni străbuni
 PST203	cioè
 PST092	#străbu~ cosa c'entra
 PST085	dai #străbu~ da~
@@ -1219,7 +1219,7 @@ PST092	eh
 PST083	sì
 PST086	ecco
 PST203	eh
-PST092	#_ rumeno
+PST092	#rumeno
 PST087	eh io di fatti non capivo
 PST087	di fatti io non capivo perché stavamo cercando un altro titolo io avevo capito che era quello
 PST086	infatti
@@ -1228,8 +1228,8 @@ PST085	grande
 PST203	okay
 PST083	quindi #acasă o #dorul #de #acasă
 PST085	mi sento come te nella vita
-PST087	#_ dorul de acasă
-PST092	#_ dorul de acasă
+PST087	#dorul #de #acasă
+PST092	#dorul #de #acasă
 PST083	okay
 PST086	ma sai che hai preso il verso di l'angelica flutur
 PST083	ah okay

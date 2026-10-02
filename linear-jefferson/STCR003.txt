@@ -152,7 +152,7 @@ PST087	si può fare intervista doppia?
 PST086	ma guarda che qua c'è scritto
 PST086	titolo della scena poi tema generale di che cosa ah va bene
 PST087	eh di che cosa [parla la scena]
-PST086	#_ [#folclor]
+PST086	[#folclor]
 PST086	di folclore,
 PST087	e così magari se no (.) e però i costumi
 PST087	un conto è se la facciamo così:: con la maglia un conto è se la facciamo col costume così facciamo due in uno
@@ -199,7 +199,7 @@ PST092	e::h c'ho un messaggio
 PST092	me l'ha inviato mia mamma
 PST092	abbiamo uno spettacolo,
 PST092	il primo #martie
-PST092	ehm martie și douăzeci și doi februarie
+PST092	ehm #_ nouă martie și douăzeci și doi februarie
 PST087	eh però sta cosa sarebbe
 PST092	[possiamo usare il ventidu~]
 PST086	[il primo #martie] andiamo in montagna
@@ -509,7 +509,7 @@ PST087	secondo me anche va bene per canto:
 PST092	ma prendiamo
 PST087	però non è che [dobbiam~]
 PST092	[perché] negli ultimo periodo è anche con cioè vedi: che anche la:: mh roba di popoli
-PST092	#_ @anita a câștigat e:=mh premiul e bine @anita
+PST092	a câștigat e:=mh premiul e bine
 PST087	si però (.) nel senso non è che mettiamo solo secondo me bisognerebbe fare anche almeno una canzone
 PST087	non proprio con tutto il gruppo però magari con le ragazze che partecipano qua?
 PST086	eh quello xx xx
@@ -528,7 +528,7 @@ PST087	ma andremmo bene anche tipo noi tre,
 PST087	poi chi c'è (.) di là
 PST092	xx xx xx
 PST087	sì
-PST092	#_ @romina dacă vrea
+PST092	dacă vrea
 PST087	perché no?
 PST092	raga c'ha una voce madonna,
 PST087	è meglio xx
@@ -542,7 +542,7 @@ PST092	no due uno è in un cass[etta]
 PST087	[ah vero]
 PST087	ah: sì:: quello vecchio,
 PST092	ve~ vedi vedi (.) quindi: ehm titolo della scena #taraful più,
-PST092	#_ #cântec?
+PST092	#cântec?
 PST087	più canto
 PST092	più can[to]
 PST086	[sì]
@@ -644,7 +644,7 @@ PST092	non mi ricordo gli altri due ((ride))
 PST087	no ma hanno fatto quello xx?
 PST092	quello xx forse xxx hanno fatto
 PST087	no #topire
-PST092	#_ #topire
+PST092	#topire
 PST092	vabbè tre balli (sono sempre)
 PST092	eh quindi magari po~ potevamo approfittare di quella scena là
 PST092	e::[:h]

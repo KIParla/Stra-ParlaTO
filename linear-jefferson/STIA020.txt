@@ -197,7 +197,7 @@ PST121	[non è l'a]rabo
 PST220	[okay]
 PST220	>dialetto marocchino<
 PST220	e poi?
-PST220	hai imparato anche arabo: il
+PST220	hai imparato anche arabo: il #fuṣḥā?
 PST121	sì a: arabo e:: (.) francesce in:
 PST121	nella scuola?
 PST121	e po[i:::]?
@@ -209,10 +209,10 @@ PST219	un bel po' di lingue sai.
 PST220	[e] (.) che:::
 PST121	[°sì°]
 PST220	>dialetto marocchino<?
-PST220	darija
-PST121	sì darija ((ride))
+PST220	dārija
+PST121	sì dārija ((ride))
 PST121	brava ((ride))
-PST220	#_ #fusha?
+PST220	#fuṣḥā?
 PST220	francese inglese e italiano.
 PST121	sì
 PST220	okay
@@ -238,7 +238,7 @@ PST121	sì anche da piccola::
 PST219	(ah okay)
 PST220	e dove vivevi in marocco?
 PST121	e::h
-PST121	témara
+PST121	temara
 PST121	e::::h (.) vicino a rabat
 PST220	ah
 PST121	°rabat vuol dire°
@@ -433,7 +433,7 @@ PST121	[sì]
 PST220	quindi questo mi ripeti il nome scusa?
 PST220	come si chiama?
 PST121	si chiama #rfissa
-PST220	#_ (#rfissa).
+PST220	(#rfissa).
 PST121	sì sì
 PST220	e prima ho detto a che
 PST220	dovevo chiederti come tu fai il cous cous
@@ -458,7 +458,7 @@ PST121	e:: l~ la cipolla
 PST121	pomodoro
 PST121	sono tagliati
 PST121	e::::hm
-PST121	#_ #*e:::l::
+PST121	#*e:::l::
 PST121	prezzemolo
 PST121	però non taglialo (.) tu lasci::: e::h
 PST121	tu lasci così un una di (.) $prinzemolo
@@ -484,7 +484,7 @@ PST121	((ride))
 PST220	((ride))
 PST220	che (.) che che sbaglio ((ride))
 PST220	il cous cous da s[olo]
-PST121	[#*el kuskus] (.) anche io non sono brava [a farlo eh]
+PST121	[#*əl-kuskus] (.) anche io non sono brava [a farlo eh]
 PST220	[ecco] ((ride))
 PST121	allora (.) stai tranquilla ((ride))
 PST121	[se non (.) se non] riesci
@@ -531,14 +531,14 @@ PST220	°adesso che c'è silenzio°
 PST220	(poi) tornando alla lingua
 PST220	ma (.) quando:::
 PST220	tu ti capita di:: mischiare italiano:: e arabo o arabo:
-PST220	#dārija e
+PST220	#dārija e #fuṣḥā:
 PST220	non lo so
 PST220	ti capita di mischiare::
 PST220	le varie lin~ o francese::
 PST219	di fare miscugli strani
 PST121	sì eh
-PST121	il francese e l'arabo sì perché l~ il darija è:
-PST121	c'è un misto: ci sono tante parole francese nel darija
+PST121	il francese e l'arabo sì perché l~ il dārija è:
+PST121	c'è un misto: ci sono tante parole francese nel dārija
 PST121	allora:
 PST121	con l'italiano e l'arabo,
 PST121	mh:
@@ -549,7 +549,7 @@ PST219	è un po' difficile mischiarle
 PST121	sì:
 PST220	eh
 PST121	ma ci sono persone che fanno mischiare:
-PST121	il darija con: l'italiano
+PST121	il dārija con: l'italiano
 PST121	però a me:
 PST121	fino adesso non ancora ((ride))
 PST121	lascio l'arabo da solo e italiano da solo
@@ -602,8 +602,8 @@ PST121	è solo una parola
 PST220	perché in marocco com'è,
 PST121	sì è diverso
 PST220	e com'è com~ cosa fate in marocco per festeggiare:
-PST220	l-fṭr
-PST121	sì:: l-fṭr<
+PST220	#ʕīd l-fiṭr
+PST121	sì:: >#ʕīd al-fiṭr<
 PST121	bravo
 PST121	e::h
 PST121	>e cosa facciamo< facciamo i dolce: facciamo:::
@@ -619,7 +619,7 @@ PST121	e:h
 PST121	sì
 PST121	io ho fatto un:
 PST121	un #cake ho fatto:
-PST121	#_ #msemen
+PST121	#msemen
 PST121	°ho fatto°
 PST121	°cosa ho fatto anche°
 PST121	ho fatto il #baghrīr
@@ -720,14 +720,14 @@ PST220	scientifica
 PST121	m:[h],
 PST220	[cio]è sono tutti in arabo standard,
 PST220	°in f~°
-PST220	in
+PST220	in #fuṣḥā?
 PST121	no in francese
 PST220	ah sono in [°france~°]
 PST121	[sì:]
 PST220	quindi tu hai studiato fran~ (.) IN francese.
 PST121	sì sì in francese
-PST220	e quando hai studiato
-PST121	l'abbiamo studiato al::
+PST220	e quando hai studiato #fuṣḥā.
+PST121	#əl-fuṣḥā l'abbiamo studiato al::
 PST121	eh da piccola:
 PST220	°okay°
 PST121	l'abbiamo studiata
@@ -1033,8 +1033,8 @@ PST220	un podcast marocchino
 PST219	com'è che si chiama[va]?
 PST220	[eh infatti] io l'avevo cercato adesso ti trovo il nome aspetta eh,
 PST219	°com'è che si chia~° che in pratica c'era: sto ra[gazzo]
-PST220	magi ma~ ma~ magi #rojola ma~ ma~ [eh: #machi #machi #rojola]
-PST219	[ma~ eh:: rojola]
+PST220	magi ma~ ma~ magi #rujūla ma~ ma~ [eh: #māshi #māshi #rujūla]
+PST219	[ma~ eh:: #māshi #rujūla]
 PST220	°forse°
 PST219	in pratica un ragazzo che
 PST219	eh::m intervistava persone (.) ed era in pratica il suo obiettivo era quello di:: [parlare di]
@@ -1042,7 +1042,7 @@ PST220	[#yes questo qua]
 PST121	eh fammi vedere la [foto] forse
 PST220	[eh sì sì]
 PST219	di: un altro modo di essere uomo cioè non non eh (.) non il solito:::
-PST121	eh machi rojola
+PST121	#_ āh māshi rujūla
 PST220	mh mh
 PST219	forte
 PST220	lo conosci?
@@ -1212,10 +1212,10 @@ PST220	okay ((ride))
 PST219	meno male
 PST220	e a settimo (.) qua c'è tutto quello di cui hai bisogno o spesso vieni a torino.
 PST121	mh::,
-PST121	eh:: la cosa che manca è la macell~ è la <macelleria>
+PST121	eh:: la cosa che manca è la macell~ è la <macelleria> #ḥalāl
 PST220	mh:::
 PST121	c'è in a to~ a torino
-PST220	dov'è (.) la macelleria a torino.
+PST220	dov'è (.) la macelleria #ḥalāl a torino.
 PST121	a torino ci sono tanti
 PST219	se prendi il quattro vedi <solo> macellerie
 PST220	[eh:: verso::: verso barriera]
@@ -1254,7 +1254,7 @@ PST121	sì
 PST220	capito capito
 PST220	non sei mai andata in nessuna sala di preghiera qua:: anche solo per vedere.
 PST121	non sono mai andata
-PST220	io e eravamo andate:[::] in una:: ta~
+PST220	io e eravamo andate:[::] in una:: ta~ #ṭayyiba °#ṭayyiba #ṭayyiba°
 PST219	[sì]
 PST219	sì
 PST121	come hai trovato.
@@ -1310,11 +1310,11 @@ PST220	prego
 PST121	si scrive così
 PST220	ah:: vabbè dai senza:::
 PST219	no xx
-PST220	senza la #waw [giusto]?
-PST121	[eh sì] senza la #waw
+PST220	senza la #wāw [giusto]?
+PST121	[eh sì] senza la #wāw
 PST220	vabbè dai non faceva così pietà allora
 PST220	ecco per noi (.) è difficilissimo capire (.) quando ci sono le vocali lunghe::,
-PST220	o se cioè se è [solo una #dam]ma o se solo o se invece è una #waw
+PST220	o se cioè se è [solo una #ḍam]ma o se solo o se invece è una #wāw
 PST121	[sì:]
 PST220	bo::h (.) [bo::h]
 PST121	[sì sì] è difficile
@@ -1327,18 +1327,18 @@ PST220	non lo so ((ride))
 PST220	cosa dobbiamo fare?
 PST121	ma cosa vuoi imparare vuoi imparare il dialetto (.) o l'arabo l'arabo.
 PST220	mah xxx
-PST219	arabo:::#fusha
-PST220	>vabbè< noi stia~ all'università studiamo:: arabo
+PST219	arabo:::#fuṣḥā
+PST220	>vabbè< noi stia~ all'università studiamo:: arabo #fuṣḥā
 PST220	anche se adesso
 PST220	attenzione
-PST220	abbiamo ((ride)) abbiamo un corso di:: eh::
+PST220	abbiamo ((ride)) abbiamo un corso di:: #ʕāmmi~ eh:: #ʕāmmiyya #miṣriyya
 PST219	mh
 PST220	abbiamo un corso di dialetto egiziano
 PST121	ah:::
 PST219	doveva essere marocchino però quest'anno hanno cambiato
 PST121	ah e cosa avete imparato.
-PST219	eh:: el-xir
-PST219	#_ 3āmil eh?
+PST219	eh:: #_ ṣabaḥ əl-xīr
+PST219	#_ ʕāmil āh?
 PST121	brava
 PST219	ma tu capisci se: ti dico: queste cose
 PST121	eh:: sì qualche parola sì (.) adesso ti ho capita
@@ -1370,19 +1370,19 @@ PST220	dove dobbiamo andare in marocco se::
 PST121	c'è::
 PST220	°(cosa) ci consigli°
 PST121	c'è #tanger
-PST121	#_ #tanja
+PST121	#ṭanja
 PST220	ah [ah]
 PST220	mh mh
 PST121	c'è::::
 PST220	°tangeri°
 PST121	c'è #marrakesh
 PST220	mh=mh,
-PST121	c'è:
+PST121	c'è: #əṣ-ṣwīra
 PST220	mhmh,
-PST121	se se ci piace il mare
-PST121	non è che se ci piace il mare (.) se ci piace fare surf o quelle cose
+PST121	se se ci piace il mare #əṣ-ṣwīra
+PST121	non è che se ci piace il mare (.) se ci piace fare surf o quelle cose [#əṣ-ṣwīra]
 PST220	[ah::],
-PST121	e c'è::
+PST121	#əṣ-ṣwīra e c'è::
 PST121	°cosa c'è anche°
 PST121	e ci sono belle città
 PST121	ci sono tanti
@@ -1470,7 +1470,7 @@ PST219	[sì sì]
 PST219	[è aperto solo la sera]
 PST220	[ah:::::]
 PST121	[perché la pizzeria] lavora solo:: la sera
-PST220	eh ne savais pas (.) okay okay
+PST220	eh #_ je ne savais pas (.) okay okay
 PST121	sì sì sì
 PST219	ma curiosità que~
 PST219	non se (.) quali pizze hai assaggiato lì ma qual è la tua prefeirta,

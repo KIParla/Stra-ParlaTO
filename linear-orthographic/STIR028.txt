@@ -254,7 +254,7 @@ PST091	mh vabbè
 PST091	io ho un legame molto
 PST091	sentito con i monasteri anche se
 PST082	sei andata a quello mh $monasterul #vesel o qualcosa del genere
-PST091	#_ mănăstirea veselă
+PST091	#mănăstirea #veselă
 PST091	sì
 PST082	sì
 PST082	sei andata
@@ -262,12 +262,12 @@ PST091	sì no aspetta #mănăsti~ ehm
 PST082	eh non era #mănăstirea #vese~ era
 PST091	non #mănăstirea
 PST091	ehm mor~ mi~ eh #cimitirul #vesel
-PST091	fost bucovina nu n-am fost n-am fost dar vreau să merg
-PST082	#_ cimitirul vesel
+PST091	#_ n-am fost bucovina nu n-am fost n-am fost dar vreau să merg
+PST082	#cimitirul #vesel
 PST082	eh ho sentito che era bello #și #eu #și #eu #vreau
 PST091	sì molto bello
-PST082	eu vreau
-PST091	și eu vreau
+PST082	#_ și eu vreau
+PST091	#_ și eu vreau
 PST091	sì no quello sì i monasteri sono molto belli
 PST091	io poi ho passato due tre estati quando ero piccina perché nonna aveva una zia che era monaca
 PST091	e quindi sì
@@ -321,7 +321,7 @@ PST091	allora questo è il monastero sto cercando di c~ di farti vedere prima di
 PST091	ci sono delle casette
 PST091	eh come faccio a fartele vedere
 PST091	questo è il monastero e la casetta era questa qua
-PST082	agapìa
+PST082	#_ mănăstirea agapìa
 PST091	agàpia
 PST082	agàpia
 PST091	eh non si vede una mh niente proprio
@@ -500,7 +500,7 @@ PST091	che ne so in campagna
 PST091	eh dicono #îmi #plașe
 PST082	#plași sì
 PST091	al posto di #îmi #place
-PST082	îmi place
+PST082	#_ pla~ îmi place
 PST082	#îmi plașe
 PST091	quindi #ș #ș tanto #ș sì c'è un sacco di #ș
 PST082	quella #ș
@@ -511,7 +511,7 @@ PST082	ah okay sì sì sì
 PST091	più vai fuori ovviamente più senti di più marcato
 PST091	chi arriva da fuori
 PST091	#țăranii
-PST091	auzi când vorbesc săracii
+PST091	#_ îi auzi ridecând vorbesc săracii
 PST082	#țăranii
 PST082	ehm
 PST082	mh
@@ -714,10 +714,10 @@ PST082	sì
 PST091	se facevi caso anche ne~ #cofetărie che ne so dove siamo andati non avevano
 PST082	eh sì
 PST091	cose che ne so a cluj dicono tanto
-PST082	da
-PST082	#_ no
+PST082	#_ da da
+PST082	#no
 PST091	eh #no eh lì eh se vai al bar o i~ #ex esat~ #exact
-PST082	#_ ioi
+PST082	#ioi
 PST091	invece a timișoara non ci sono queste cadenze
 PST082	sì è vero
 PST082	è più pulito
@@ -794,7 +794,7 @@ PST091	sull'ironia
 PST082	sì ma avevo visto
 PST091	l'ironia che c'è in rume~
 PST091	davvero non ce n'è c~ #caterincă ecco #caterincă
-PST082	#_ caterincă
+PST082	#caterincă
 PST091	ecco traduci #caterincă
 PST082	non esiste non si può
 PST082	#caterincă è a sé dai
@@ -855,7 +855,7 @@ PST091	#_ au rămas cu
 PST091	mh
 PST091	non mi ricordo più
 PST091	poi guardo sulla tesi e te lo dico
-PST091	#_ eh au rămas pantalonii în vine (.) au rămas pantalonii în vine
+PST091	#_ eh au rămas pantalonii în vine au rămas pantalonii în vine
 PST091	che vuol dire
 PST082	che significa
 PST091	son rimasti con le con le cale mh
@@ -895,12 +895,12 @@ PST082	e voleva dire non vedevo l'ora di arrivare
 PST091	mh
 PST091	vediamo ora
 PST082	#_ nu vedeam ceasul
-PST091	#_ ceasul
-PST091	#_ nu vedeam casul ((ride))
+PST091	#ceasul
+PST091	#_ nu vedeam casul
 PST082	allora
 PST082	tipo i miei parenti
 PST082	si sono guardati tutti tipo ma
-PST091	#_ ((ridendo)) n~ n~ nu xx vedeam ceasul
+PST091	#_ n~ n~ nu xx vedeam ceasul
 PST091	#nu #vedeam #ceasul sì sì
 PST082	sì
 PST091	eh a me era capitato

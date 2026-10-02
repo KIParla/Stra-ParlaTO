@@ -1,15 +1,431 @@
 tu_id	speaker	start	end	parent_tu_id	text
-208	PST161_trad	331.730	332.990	207	vuoi il riso col pollo?
-332	PST072_trad	516.780	518.330	331	voi signore come fate il riso?
-334	PST072_trad	520.220	524.060	333	stavamo dicendo che ognuno ha la sua teoria
-342	PST162_trad	529.180	529.990	341	questa pentola
-344	PST162_trad	530.650	532.260	343	xx xx del nord
-347	PST072_trad	533.610	535.000	346	com'è quella pentola?
-351	PST161_trad	536.575	537.215	350	fessura?
-357	PST160_trad	541.890	542.590	356	di acciaio
-359	PST160_trad	543.850	545.130	358	acciaio inossidabile
-700	PST072_trad	1005.020	1008.890	699	e al lavoro quando dovete cucinare per le persone italiane come fate?
-1094	PST162_trad	2113.288	2116.738	1093	è un investimento, è un investimento di tanti soldi
-1359	PST160_trad	2934.538	2939.331	1358	mi piacerebbe che mi dessero la pensione però di quello che ho però di quello che ho versato
-1361	PST160_trad	2939.378	2941.328	1360	non per qualcosa che non ho messo
-1363	PST160_trad	2941.375	2944.170	1362	no? quindi uno (deve) guadagnarsela come si dice
+36	PST072_trad	88.560	90.990	35	avanti signora @elena sei la protagonista
+80	PST160_trad	175.910	177.400	79	stavo guardando questo cucchiaio
+82	PST160_trad	178.430	180.850	81	questi mestoli si piegano non mi piacciono
+89	PST160_trad	182.300	185.280	88	mi compro i miei mestoli no? per cucinare
+96	PST160_trad	192.750	193.940	95	bene ora prendi tu
+110	PST160_trad	201.990	202.740	109	bottiglia
+114	PST162_trad	206.230	207.960	113	sì mi stavo sedendo proprio ora
+180	PST162_trad	291.640	292.450	179	eh come si chiama?
+213	PST162_trad	328.810	329.660	212	riso
+217	PST160_trad	330.050	330.870	216	vuoi riso
+220	PST161_trad	331.730	333.182	219	vuoi il riso col pollo?
+222	PST160_trad	332.230	332.760	221	ancora?
+308	PST160_trad	473.160	475.250	307	però xx deve stare conxxx
+311	PST160_trad	477.100	479.110	310	perché la russia va sempre contro gli stati uniti
+315	PST162_trad	479.388	484.323	314	per questo mondiale  perché starebbe xx con uno di loro ossia come uno di loro
+321	PST160_trad	487.320	492.351	320	ancora xx mondiali, quando già fanno tutti i paesi tutti tutti
+326	PST162_trad	492.780	494.812	325	non lo xx a volte lo mischio tutto
+331	PST162_trad	496.040	499.680	330	così come xxx la prima guerra mondiale anche la prima guerra fu
+341	PST162_trad	503.580	504.350	340	germania
+346	PST162_trad	506.480	507.900	345	sono paesi leader
+352	PST072_trad	516.780	518.330	351	voi signore come fate il riso?
+354	PST072_trad	520.220	524.060	353	stavamo dicendo che ognuno ha la sua teoria
+357	PST160_trad	522.050	522.820	356	in perù
+359	PST160_trad	523.520	525.440	358	ci sono molti tipi di riso
+362	PST162_trad	526.660	528.230	361	io lo faccio in
+365	PST162_trad	528.882	529.990	364	in questa pentola
+367	PST162_trad	530.650	532.260	366	paila del nord
+370	PST072_trad	533.610	534.835	369	com'è la pentola?
+373	PST162_trad	534.790	536.506	372	la pentola è un una un xx xx
+375	PST161_trad	536.575	537.215	374	di argilla?
+377	PST162_trad	537.280	538.800	376	di riso? no no no
+379	PST162_trad	538.920	540.220	378	di xxx o di ferro
+383	PST160_trad	541.890	542.590	382	di acciaio
+385	PST160_trad	543.850	545.130	384	acciaio inossidabile
+387	PST162_trad	545.340	547.312	386	cuoci il riso in una pentola bucherellata
+390	PST162_trad	548.065	549.240	389	e cuoci il riso
+392	PST162_trad	549.366	556.793	391	si fa da solo, da solo perché devi mettere l'acqua di tanto in tanto come il riso
+405	PST162_trad	579.970	582.560	404	fino a che bolle xx
+413	PST162_trad	594.810	596.000	412	da sola
+423	PST160_trad	606.955	611.200	422	xx xx di arabi, qualcosa di indiani, credo abbiano queste pentole
+429	PST160_trad	616.260	618.750	428	ho finito di xxx a cercare valigie
+431	PST160_trad	619.240	620.740	430	e le ho viste queste pentole
+433	PST162_trad	620.700	622.922	432	xx molto bello perché queste pentole xxx
+438	PST162_trad	627.000	629.460	437	xx queste pentole
+442	PST162_trad	640.000	642.820	441	quando (ne) vedi poco lo metti nel cuociriso
+444	PST162_trad	642.910	645.150	443	lì viene buono qualsiasi riso
+447	PST162_trad	646.166	647.876	446	xx cucinare nel cuociris
+450	PST162_trad	647.994	651.720	449	quando era per me per la mia casa facevo sempre in questo cuociriso e
+455	PST162_trad	651.970	653.810	454	là lo lascio no lo metto tutto e lì resta
+461	PST162_trad	657.630	659.603	460	xx (ci mette) il suo tempo
+468	PST162_trad	663.300	664.844	467	seconda tazza di acqua no
+473	PST160_trad	667.380	670.323	472	e metto xx nel riso però del nord
+479	PST160_trad	671.250	673.350	478	è buono da mangiare. sì è buono
+483	PST162_trad	675.000	676.980	482	già ce l'ho pronto
+485	PST160_trad	677.410	682.036	484	però nessuno nessun riso xxx non regge il confronto con il perù del nord
+492	PST160_trad	682.270	685.640	491	perché il sapore del perù del nord è unico
+504	PST160_trad	697.410	698.610	503	io anche pensavo
+507	PST162_trad	699.860	702.433	506	la rompeolla ((marca di riso peruviano)) anche
+524	PST161_trad	710.880	712.490	523	anche casserita
+529	PST163_trad	714.110	715.740	528	non ho sentito molto
+534	PST162_trad	718.780	723.760	533	però non ha il sapore quello del perù norteno, il perù norteno non si gonfia molto ma è molto buono da mangiare
+538	PST160_trad	722.853	724.829	537	io ho sentito perù norteño questa marca
+540	PST162_trad	724.940	727.450	539	io io l'ho preparato
+557	PST160_trad	744.480	745.970	556	ah grazie si
+570	PST162_trad	762.190	763.120	569	no non è riso
+572	PST160_trad	763.090	764.850	571	è un riso, ma non so di che cosa
+575	PST163_trad	765.040	766.000	574	paese
+579	PST160_trad	767.320	770.400	578	è spessa come se fosse la polenta
+582	PST161_trad	769.012	769.848	581	credo arabo
+585	PST161_trad	771.523	772.227	584	non è arabo?
+589	PST162_trad	773.840	775.829	588	io non credo che sia riso
+591	PST160_trad	775.470	777.659	590	è un riso ma che fanno al loro paese
+597	PST161_trad	782.540	786.690	596	xxx un ragazzo a scuola che... ma è dei paesi arabi
+612	PST162_trad	805.070	806.500	611	xxx fritto
+616	PST163_trad	807.480	808.410	615	com'è?
+618	PST162_trad	808.520	809.270	617	buono
+629	PST160_trad	828.703	829.462	628	come lo preparano?
+664	PST162_trad	888.930	890.470	663	come un'insalata fredda
+692	PST160_trad	926.380	928.930	691	io non so molto il cibo italiano come cucinarlo
+697	PST162_trad	930.140	932.850	696	io cucino così come come vedo (man mano)
+700	PST162_trad	932.960	937.017	699	e così vado e preparo perché a casa sua xxx ci invita a mangiare la signora
+707	PST162_trad	937.565	939.395	706	e quindi guardo cosa è fatto
+715	PST162_trad	943.380	948.783	714	ti piace il cous cous? si te lo do e me lo dà e quindi ora ho cinque barattoli e non sapevo che in che
+719	PST160_trad	948.190	949.130	718	come si prepara
+721	PST162_trad	949.540	952.740	720	cioè si prepara in minestrina praticamente però anche così
+725	PST162_trad	952.990	955.950	724	si può si può preparare anche così
+731	PST162_trad	957.670	959.060	730	non sapendo come si prepara, non posso farlo
+735	PST162_trad	961.290	962.940	734	xx però mangiare minestrina
+767	PST072_trad	1005.020	1008.890	766	e al lavoro quando dovete cucinare per le persone italiane come fate?
+812	PST072_trad	1118.160	1119.400	811	mangiate mangiate mangiate
+819	PST160_trad	1128.470	1129.760	818	che matta
+825	PST161_trad	1141.270	1142.550	824	e questo è per @lola
+856	PST072_trad	1195.450	1197.300	855	e pensando un po' al tema di oggi no?
+858	PST072_trad	1197.330	1201.252	857	abbiamo parlato abbiamo invitato @selene @giorgia che comunque
+860	PST072_trad	1202.236	1204.956	859	sono legate a quello che è l'argomento della scuola, no?
+862	PST072_trad	1207.250	1212.440	861	perché @giorgia vi ha raccontato un po' più nel dettaglio dove lavora cosa fa no?
+864	PST072_trad	1214.730	1216.670	863	e bene voi quando siete arrivate qui
+866	PST072_trad	1217.615	1221.480	865	eh com'è stato no questo rapporto con la scuola italiana.
+870	PST072_trad	1223.350	1224.610	869	sè è che so io no?
+872	PST072_trad	1225.080	1229.484	871	se avete avuto difficoltà ad interagire e comunicare
+874	PST072_trad	1230.210	1233.665	873	il sistema scolastico diverso, come lo vedevate
+876	PST072_trad	1234.470	1237.502	875	se c'era o no una continuità con il sistema del perù
+879	PST072_trad	1241.540	1243.170	878	in generale [in generale]
+882	PST072_trad	1244.430	1248.340	881	voi avete figli giovani quindi
+890	PST160_trad	1273.150	1279.235	889	credo che nel mese di marzo mia figlia entra a scuola
+892	PST160_trad	1280.137	1285.049	891	eh era un po' difficile l'iscrizione
+910	PST160_trad	1326.300	1329.190	909	assimilare? come si dice assimilare
+918	PST160_trad	1342.870	1344.260	917	tante lo studio
+921	PST160_trad	1349.090	1354.160	920	dove mi puoi internare come si dice non internare una scuola e poter studiare
+926	PST160_trad	1363.129	1366.040	925	entra al liceo entra all'università mi dice
+935	PST160_trad	1377.020	1379.333	934	per aiutarvi gli dico no?
+937	PST160_trad	1380.880	1383.670	936	adesso che ho parlato con lei,
+939	PST160_trad	1383.690	1387.987	938	no un po' ho sentito di un corso professionale,
+945	PST160_trad	1399.410	1405.433	944	eh sono arrivata qui non pensavo di lavorare così come adesso lavoro no?
+953	PST160_trad	1418.710	1422.170	952	eh pensava che questa di studiare qualcosa per
+955	PST160_trad	1422.695	1424.340	954	quello che era fare la cuoca
+966	PST160_trad	1447.460	1454.640	965	sia giovani o sia adulti io non lo sapeva anche con mia figlia siamo andato due mesi a torino
+969	PST160_trad	1461.671	1463.970	968	ehm che si dice
+974	PST160_trad	1467.650	1469.160	973	alfabetizzazione
+980	PST160_trad	1484.910	1487.800	979	e dato un test d'ingresso
+982	PST160_trad	1487.830	1488.770	981	al ci pi a.
+985	PST160_trad	1495.180	1496.890	984	alla scuola di
+989	PST160_trad	1500.620	1505.019	988	dare questo esame mi dava accesso per studiare al ci pi a,
+992	PST160_trad	1513.860	1519.020	991	senza scrivere tanto in italiano che un po' mi difendevo come si dice no
+995	PST160_trad	1519.490	1523.270	994	sapevo scrivere e capire un po' però non tanto
+997	PST160_trad	1523.370	1529.710	996	eh quando entravo al ci pi a eh il corso il primo corso di storia della scienza ((inspira)) storia
+1008	PST160_trad	1557.270	1560.040	1007	e mi diceva e mi diceva,
+1011	PST160_trad	1561.670	1564.020	1010	adesso io dissi ah ecco questo farò
+1013	PST160_trad	1564.090	1567.780	1012	quindi a lo~ che io capivo poco più quello che
+1015	PST160_trad	1567.920	1571.477	1014	la l~ eh peruviana mi diceva e lì io procedevo
+1019	PST160_trad	1577.577	1578.297	1018	sei
+1021	PST160_trad	1578.380	1581.825	1020	da sei~ da sette otto fino a nove dieci
+1027	PST160_trad	1587.980	1590.920	1026	tanto che io avrei dovuto ripetere no?
+1029	PST160_trad	1591.140	1593.320	1028	eh quindi ehm
+1031	PST160_trad	1595.495	1597.335	1030	eh così
+1041	PST160_trad	1622.340	1628.514	1040	ah ah sì mi ha  successo a me da la scuola per imparare l'italiano
+1058	PST160_trad	1649.100	1655.060	1057	e quando andava a scuola me ricordava perché io studiavo storia universale storia del perù
+1060	PST160_trad	1655.110	1656.320	1059	storia universale e
+1063	PST160_trad	1660.920	1663.514	1062	perché la la della guerra
+1066	PST160_trad	1665.780	1667.570	1065	come si chiama questo della=mh
+1070	PST160_trad	1671.890	1678.010	1069	di storia universale mi ha aiutato tanto a ricordare qua aver ricordato ricordato e
+1078	PST160_trad	1693.818	1695.680	1077	quando scrivo non riesco a scrivere bene
+1083	PST072_trad	1703.620	1706.260	1082	quando questa signora @elena dice
+1088	PST072_trad	1710.925	1713.055	1087	eh  voi  eh
+1090	PST072_trad	1714.020	1717.160	1089	cosa pensate che manchi in perù rispetto all'educazione
+1092	PST072_trad	1717.355	1718.025	1091	per esempio
+1094	PST072_trad	1718.370	1720.828	1093	e cosa  riscontrate per esempio anche in italia
+1096	PST160_trad	1720.964	1722.960	1095	mh bene quando he he
+1108	PST160_trad	1745.480	1747.200	1107	però se non hai soldi,
+1116	PST160_trad	1766.360	1770.130	1115	perché va in un club, mi costava molto
+1119	PST160_trad	1772.890	1778.910	1118	eh per esempio voleva andare a un a nuoto o un=
+1121	PST160_trad	1778.970	1781.730	1120	o per qualunque cosa, oratorio quindi
+1123	PST160_trad	1781.770	1784.050	1122	se tu non c'hai soldi non puoi mandare
+1126	PST160_trad	1784.980	1788.347	1125	quindi è un po' difficile questo risultato per me
+1129	PST160_trad	1791.560	1793.010	1128	mi è mancato tanto
+1139	PST160_trad	1816.500	1820.380	1138	io eh quello che è la mobilità, che era pagare il bus
+1141	PST160_trad	1820.515	1824.319	1140	e da pagare quello che mangia e la xx perché xx xx tutto il giorno
+1143	PST160_trad	1824.390	1825.860	1142	andava nella strada
+1145	PST160_trad	1826.080	1828.130	1144	e questo era per io
+1147	PST160_trad	1828.590	1832.960	1146	lavoravo solo per eh per per i miei due figlio che stavano con me
+1149	PST160_trad	1833.530	1835.314	1148	qui è un po' più
+1151	PST160_trad	1835.470	1840.005	1150	un po' un po' più comodo le cose, poterla far studiare
+1153	PST160_trad	1840.780	1845.780	1152	perché in perù il sol, il sol è un po' basso
+1155	PST160_trad	1845.895	1848.935	1154	perché si valorizzano mh poco.
+1157	PST160_trad	1849.070	1853.150	1156	qui quando lavori se i soldi sono pochi il soldi un po'
+1159	PST160_trad	1853.680	1855.550	1158	comodo che puoi stare tranquillo
+1161	PST160_trad	1856.050	1857.170	1160	ti basta
+1164	PST160_trad	1862.950	1863.870	1163	in perù se
+1166	PST160_trad	1864.020	1865.120	1165	mi stancavo molto
+1168	PST160_trad	1865.540	1866.230	1167	rispetto a qui
+1170	PST160_trad	1867.010	1871.552	1169	ah in perù le mi alzava alle due del mattino e non avevo un orario in cui sarei andata a dormire
+1174	PST160_trad	1875.780	1878.170	1173	tutto il giorno nella sala sveglia
+1176	PST160_trad	1878.390	1881.511	1175	quando mangiamo così il pranzo
+1179	PST160_trad	1884.010	1886.460	1178	ah devo andare a comprare questo devo fare questo devo fare
+1181	PST160_trad	1886.690	1887.570	1180	si io da sola
+1183	PST160_trad	1889.370	1893.820	1182	quindi è un po' difficile qui un po' più tranquillo il lavoro
+1186	PST160_trad	1896.470	1902.020	1185	questo dico no no non ricordo a volte facevo tante cos~ che cucinavo. non ricordo xxx
+1190	PST160_trad	1903.670	1908.910	1189	però io qui non cucino quella che cucina è @daria quella che mi aspetta col cibo è @daria
+1192	PST160_trad	1909.440	1912.924	1191	xxx e qui ha imparato a cucinare
+1194	PST160_trad	1914.740	1918.200	1193	non è eh facile la vita xx xx xx
+1196	PST160_trad	1918.465	1920.745	1195	però un po' più tranquillo il lavoro per me
+1198	PST160_trad	1920.870	1924.408	1197	un po' più tranquillo e posso anche posso pensare a me
+1200	PST160_trad	1924.580	1930.100	1199	per esempio eh la medicina di cui ho bisogno posso prenderla ora,
+1202	PST160_trad	1930.238	1935.590	1201	anche no io non mi preoccupava per me preoccupata per figlio
+1204	PST160_trad	1935.846	1938.360	1203	non mi preoccupava per me anche in casi
+1206	PST160_trad	1938.410	1939.040	1205	per la mia salute
+1209	PST160_trad	1942.120	1945.290	1208	mi è un poco, mah più facile
+1212	PST072_trad	1959.800	1964.150	1211	sì diciamo che non un po' che molte famiglie ci dicono no?
+1214	PST072_trad	1964.444	1968.733	1213	che sicuramente sul dema dell'educazione in perù,
+1216	PST072_trad	1969.288	1976.025	1215	è un po' più difficile ottenere un accesso no? soprattutto xx è una
+1218	PST072_trad	1976.662	1979.725	1217	una preparazione educazione in generale no?
+1220	PST072_trad	1981.325	1986.611	1219	no si  dite voi no? io dico un po' quello che un po' ci raccontano le famiglie no?
+1222	PST072_trad	1987.062	1988.825	1221	è che devi avere
+1224	PST072_trad	1989.137	1995.732	1223	mh una posizione economica che ti consenta no di frequentare la scuola privata
+1226	PST072_trad	1996.091	1998.923	1225	preparati per l'ingresso all'università
+1228	PST072_trad	2000.101	2001.613	1227	cioè è che tipo
+1230	PST072_trad	2002.475	2008.375	1229	che la scuola  statale pubblica non funziona molto no xx una buona preparazione, educazione no?
+1233	PST072_trad	2009.044	2009.669	1232	però
+1235	PST162_trad	2009.669	2012.522	1234	io credo che io neanche
+1237	PST162_trad	2012.725	2017.945	1236	eh certo molti molti collegi eh privati
+1239	PST162_trad	2018.275	2019.838	1238	e perfino no
+1241	PST162_trad	2019.975	2024.275	1240	non  non si presta perché in perù la formazione vada avanti no?
+1243	PST162_trad	2024.475	2026.450	1242	perché molte io ho visto molte persone
+1245	PST162_trad	2026.637	2030.200	1244	che i loro figli li hanno messo in scuole private per esempio
+1247	PST162_trad	2030.275	2031.900	1246	perchè finiscano la secondaria
+1249	PST162_trad	2032.025	2035.155	1248	e finendo la scuola secondaria non hanno accesso come qui
+1251	PST162_trad	2035.413	2038.205	1250	ad una pre professionale no?
+1253	PST162_trad	2038.575	2044.075	1252	devono fare accademie comunque devono certe volte ci sono ragazzi che hanno studiato tutto
+1255	PST162_trad	2044.150	2049.607	1254	il tempo in un collegio particular però tuttavia fanno accademie accademia e mai mai
+1257	PST162_trad	2049.813	2052.535	1256	eh accedono all'università no?
+1259	PST162_trad	2052.762	2055.762	1258	quindi e a volte nemmeno questo è valido
+1261	PST162_trad	2056.150	2058.238	1260	nel collegio statale,
+1263	PST162_trad	2058.513	2061.800	1262	mh i miei figli hanno studiato sempre allo statale
+1265	PST162_trad	2062.225	2064.138	1264	quindi  è come se
+1267	PST162_trad	2064.288	2067.150	1266	xx tanto in molti particular è uguale
+1269	PST162_trad	2067.313	2071.400	1268	se tu studi in un particular o in uno statale devi comunque fare tutto questo processo xxx
+1271	PST162_trad	2071.475	2074.675	1270	e in molti casi dipende penso io da ciascun ragazzo
+1273	PST162_trad	2074.775	2079.484	1272	come lo lo lo lo impara o come lo lo imposta lo studio
+1276	PST162_trad	2080.425	2082.588	1275	arrivano perfino all'università
+1278	PST162_trad	2082.800	2087.838	1277	stando un anno o di colpo così dal niente all'università così dipende dai ragazzi
+1280	PST162_trad	2088.100	2093.050	1279	però nella maggior parte (dei casi) c'è tanta gente in perù è abituata.
+1282	PST162_trad	2093.113	2094.925	1281	ci siamo abituati
+1284	PST162_trad	2095.000	2097.313	1283	a pagare con uno studio  no?
+1286	PST162_trad	2097.400	2099.078	1285	le persone che hanno soldi,
+1288	PST162_trad	2099.141	2100.625	1287	hanno i figli istruiti
+1290	PST162_trad	2100.650	2103.075	1289	le persone che non hanno soldi praticamente  non
+1292	PST162_trad	2103.138	2106.311	1291	se xxx e entrano in un'università statale,
+1294	PST162_trad	2106.425	2112.075	1293	può no solamente è il xx anche il passaggio il cibo tutto questo quindi e: ehm
+1296	PST162_trad	2112.138	2113.213	1295	studiare in perú
+1298	PST162_trad	2113.288	2116.738	1297	è un investimento, è un investimento di tanti soldi
+1300	PST162_trad	2116.850	2118.375	1299	perchè anche
+1302	PST162_trad	2118.525	2122.524	1301	tanti in caso di mamme single o come me con un marito
+1304	PST162_trad	2122.612	2125.175	1303	lavoriamo tanto per pagare questi studi
+1306	PST162_trad	2125.500	2127.538	1305	lavoriamo tanto
+1308	PST162_trad	2127.613	2130.963	1307	anche fino a non mangiare bene in cassa, senza stare
+1310	PST162_trad	2131.225	2137.325	1309	bene. questo o qualsiasi cosa perchè preferiamo che i nostri figli facciano bene, stiano bene e tutto questo no?
+1312	PST162_trad	2137.500	2139.225	1311	invece qui è diverso
+1314	PST162_trad	2139.263	2141.563	1313	è come  perlomeno è il mio caso
+1316	PST162_trad	2141.625	2144.950	1315	io lo sento un po' più  più rilassato si può diro
+1318	PST162_trad	2144.975	2148.350	1317	certo all'inizio anche per me fu molto difficile incontrare una scuola superiore
+1320	PST162_trad	2148.756	2151.150	1319	a @roberto quando me lo accettavano  però
+1322	PST162_trad	2151.300	2156.949	1321	si teneva in conto che ad un certo punto lo avrebbe conseguito se non quest'anno l'anno dopo però lo avrebbe conseguito e se non lo avesse conseguito,
+1324	PST162_trad	2157.012	2158.237	1323	e al
+1326	PST162_trad	2158.656	2160.481	1325	perché grazie a dio
+1328	PST162_trad	2161.062	2163.725	1327	lui l'hanno accolto bene, non solo
+1330	PST162_trad	2163.862	2165.712	1329	nel collegio in cui è ora
+1332	PST162_trad	2165.812	2169.570	1331	in dove stava assistendo nella... con la chiesa
+1334	PST162_trad	2169.618	2172.353	1333	qui è lo stesso xx voi
+1336	PST162_trad	2172.475	2176.350	1335	cioè tutto questo  come se ti desse speranza
+1338	PST162_trad	2176.388	2183.176	1337	la speranza che che non solo (questa parte di) studio xx xx lui potrà accedere a questo studio
+1340	PST162_trad	2183.225	2187.746	1339	potrà accedere ad un a un ad una università o istituto,
+1342	PST162_trad	2187.813	2189.738	1341	quindi tutto ciò,
+1344	PST162_trad	2190.000	2192.600	1343	per per me almeno è la cosa più bella no?
+1346	PST162_trad	2192.688	2196.763	1345	perché ciò che noi non abbiamo avuto loro ce l'hanno qui
+1348	PST162_trad	2196.838	2200.488	1347	cioè lontano dai nostri luoghi, dal nostro paese
+1350	PST162_trad	2200.663	2202.238	1349	però ce l'hanno qui
+1352	PST162_trad	2202.338	2204.488	1351	xx qui e questo che io
+1354	PST162_trad	2204.600	2209.109	1353	devo ringraziare tanto questo paese che ci ha accolti per tutto
+1356	PST162_trad	2209.275	2213.774	1355	no perché xx è diverso da ciò a cui eravamo abituati
+1359	PST162_trad	2214.450	2215.475	1358	e veramente
+1361	PST162_trad	2216.137	2219.975	1360	io sono molto grata per tutto questo e il figlio
+1363	PST162_trad	2220.100	2225.111	1362	ancora xxx perché lui è felice per tutto ciò che sta vivendo qui no?
+1365	PST162_trad	2225.450	2230.800	1364	per loro, finché loro sono felici io sono felici
+1369	PST162_trad	2230.975	2235.377	1368	se e e come dice @elena anche cioè non solo è l'accesso a loro
+1371	PST162_trad	2235.525	2237.413	1370	è anche a noi no?
+1373	PST162_trad	2237.525	2240.375	1372	ci dà molte forme in realtà
+1375	PST162_trad	2240.438	2244.463	1374	all'inizio lei sa quanto abbiamo sofferto però
+1377	PST162_trad	2244.544	2248.869	1376	arrivavo forse e xxx gli italiani
+1379	PST162_trad	2248.950	2252.808	1378	sono freddi mi dicevano sono freddi sì sono freddi
+1381	PST162_trad	2252.913	2257.588	1380	però quando gli chiedi aiuto, non ti lasciano mai a metà strada
+1383	PST162_trad	2257.725	2260.913	1382	non ti dicono mai di no xxx
+1385	PST162_trad	2260.975	2267.458	1384	io ogni volta che chiedevo perché non sapevo andare in pullman non sapevo, solo con treno, lei sì e io no
+1387	PST162_trad	2267.513	2276.337	1386	io mi disperavo di come arrivare ad un posto xx se chiedevo a qualcuno mi dicevano no venga venga ven~ mi portavano fino al posto mi facevano addirittura con la loro auto mi hanno fatto arrivare
+1392	PST162_trad	2277.863	2282.394	1391	no quindi e tutta questa gentilezza di persona è difficile
+1394	PST162_trad	2282.500	2289.427	1393	cosa che al mio pase, se salivo (se) mi dicevano vieni qua sali su quest'auto io già stavo pensando che mi sarebbe successo qualcosa
+1397	PST162_trad	2291.194	2294.506	1396	perciò qui
+1399	PST162_trad	2294.550	2296.113	1398	è una cosa che
+1401	PST162_trad	2296.150	2299.038	1400	uno almeno io apprezzo tanto tanto tanto
+1403	PST162_trad	2299.712	2302.012	1402	grazie a tutti
+1425	PST160_trad	2349.616	2353.350	1424	per questo un po' si è disinteressata dello studio
+1431	PST160_trad	2369.632	2372.037	1430	deve chiedere aiuto
+1433	PST160_trad	2372.950	2377.545	1432	eh per questo  sempre una buona comunicazione,
+1436	PST160_trad	2387.375	2394.261	1435	come dicevo anche un attimo fa a @pedro
+1440	PST160_trad	2399.887	2407.828	1439	che  l'han congratulata si sono congratulati mi han detto che @daria è brava mi dice una buona ragazza,
+1442	PST160_trad	2408.337	2413.979	1441	per quest'anno sì ha ricevuto aiuto
+1456	PST160_trad	2450.125	2453.759	1455	perché lei studia solo studia lei  non lavori.
+1461	PST160_trad	2466.875	2468.663	1460	quindi  eh eh
+1463	PST160_trad	2469.138	2474.755	1462	in di di diceva io cos io così quindi per questo mi sento felice qua,
+1468	PST160_trad	2482.750	2485.352	1467	ovunque io sia andata sempre aiuto
+1470	PST160_trad	2486.563	2492.334	1469	anche con @nomeassociazione trovando @nomeassociazione eh  tanta cosa mi ha sistemato con xx
+1476	PST160_trad	2498.613	2502.703	1475	questa anche conosc~ conoscendo tanta cosa no?
+1484	PST162_trad	2510.688	2514.048	1483	mai almeno a me non mi hanno mai lasciato
+1487	PST162_trad	2514.250	2519.025	1486	sempre come dire mi dicevano non ti preocc~ preoccuparti che vedrai questo è sempre
+1489	PST160_trad	2518.450	2520.337	1488	sì anche
+1491	PST162_trad	2519.063	2523.245	1490	è la cosa migliore il lavoro che fanno davvero sì
+1493	PST160_trad	2521.338	2523.238	1492	è più bello molto grande
+1496	PST162_trad	2525.087	2529.350	1495	tutto quello che  ho visto sono sempre attenti
+1498	PST162_trad	2529.462	2532.800	1497	chiamando vedendo preoccupandosi per i nostri figli
+1502	PST160_trad	2569.700	2572.425	1501	qualcuno che la eh ci incontriamo
+1508	PST162_trad	2584.389	2591.163	1507	lei finché non arriva la signora @gisel la signora @tere abbiamo xx numero xx
+1536	PST160_trad	2667.013	2671.693	1535	per vedere mia famiglia solo per me perché io ho lasciato mio papà i miei fratelli
+1538	PST160_trad	2671.938	2673.350	1537	e mio figlio maggiore
+1540	PST160_trad	2673.863	2674.901	1539	nessun altro
+1543	PST162_trad	2678.950	2680.875	1542	per ora no
+1545	PST162_trad	2681.875	2683.550	1544	non voglio tornare lì
+1551	PST162_trad	2689.150	2690.788	1550	da quando sono arrivata io
+1553	PST162_trad	2690.938	2694.313	1552	a inizio le persone mi dicevano dobbiamo (tenere in conto) il problema del cibo
+1555	PST162_trad	2694.563	2700.154	1554	dicevano no che il cibo mh no a me da quando sono arrivata io (sono) felice del cibo
+1558	PST162_trad	2700.263	2703.013	1557	io felice di tutto questo però
+1560	PST162_trad	2703.050	2709.000	1559	no per ora non vorrei tornare. sì ho un figlio due figli lì
+1562	PST162_trad	2709.650	2711.425	1561	però sono già grandi
+1564	PST162_trad	2711.613	2713.738	1563	se un giorno volessero venire
+1566	PST162_trad	2713.875	2717.088	1565	possono venire  però in in in
+1568	PST162_trad	2717.213	2722.716	1567	rispetto a me e a mio marito sì voleva tornare e addirittura comprammo un biglietto,
+1570	PST162_trad	2723.113	2724.500	1569	perché tornino
+1572	PST162_trad	2724.738	2726.988	1571	per @roberto no però per lui si,
+1574	PST162_trad	2727.200	2732.963	1573	e pensando che avremmo trovato una scuola per @roberto cosa che lo lo sistemasse bene e tutto
+1576	PST162_trad	2733.063	2734.165	1575	e lui tornava
+1578	PST162_trad	2734.203	2741.256	1577	quindi nel mio caso si sa che noi cercavamo cercavamo cercavamo niente addirittura lui andava da tutte le parti niente
+1580	PST162_trad	2741.300	2745.666	1579	finché dopo che era scaduto il biglietto una settimana
+1582	PST162_trad	2745.763	2747.452	1581	(che si trovava) in collegio
+1584	PST162_trad	2747.513	2752.656	1583	e sarà cioè sempre (pregavo dio) e dicevo che sia quella che dici tu no?
+1586	PST162_trad	2752.763	2753.838	1585	quello che desideri
+1588	PST162_trad	2754.044	2759.875	1587	e cioè io so che lui voleva così e quindi ora mio marito è rimasto è qui con noi
+1590	PST162_trad	2759.925	2761.775	1589	nel frattempo xx @roberto anche e ora
+1592	PST162_trad	2761.844	2768.598	1591	vedo anche che lui nemmeno vuole tornare perché io anche xx le cose più tranquilla più
+1594	PST162_trad	2769.255	2775.549	1593	tante cose (sono) diverse come dico è come dirvelo non so dalla notte al giorno
+1596	PST162_trad	2775.608	2777.490	1595	siamo felici qui per ora
+1598	PST162_trad	2777.588	2778.705	1597	un giorno
+1600	PST162_trad	2779.222	2782.472	1599	improvvisamente sì, però non mi manca niente
+1609	PST162_trad	2791.319	2794.183	1608	vogliamo lavorare in regola
+1613	PST162_trad	2794.258	2798.828	1612	vogliamo condurre una vita qua rispettabile no
+1615	PST162_trad	2798.903	2800.625	1614	non siamo persone
+1617	PST162_trad	2800.861	2804.764	1616	ehm cattive nel nel senso di di
+1619	PST162_trad	2804.847	2808.361	1618	di ciò che è mh la delinquenza no?
+1621	PST162_trad	2808.459	2812.663	1620	non siamo persone cattive siamo persone umili e tranquille no?
+1623	PST162_trad	2812.736	2814.556	1622	vogliamo lavorare lavorar
+1626	PST162_trad	2814.694	2817.805	1625	per mandare avanti i figli
+1628	PST160_trad	2816.750	2817.806	1627	considera che
+1630	PST160_trad	2817.917	2823.695	1629	ma anche io cioè mh io xx in perù xx cioè una persona molto responsabile no?
+1632	PST160_trad	2823.792	2829.182	1631	molto responsabile che che porti a termine tutte le mie mie mie cose là come una persona,
+1634	PST160_trad	2829.347	2833.083	1633	che nessuno mi dica quella persona è così quella persona è cosà
+1636	PST160_trad	2833.278	2839.419	1635	o che deve xx no no no no e neanche la volta scorsa vi racconto una una che mi è successa
+1638	PST160_trad	2839.569	2843.500	1637	e salgono i controllori nel pullman in cui sto andando
+1640	PST160_trad	2843.653	2846.931	1639	e a me mancava per scendere solamente una una una
+1644	PST160_trad	2848.819	2852.811	1643	però io avevo pagato il il xx per una settimana
+1647	PST160_trad	2854.806	2857.805	1646	sto per scendere gli dico prendilo controllalo
+1650	PST160_trad	2858.403	2865.944	1649	perché controllava controllalo perché era occupato con un'altra per per favore ora devo scendere control~ e lui lo prende, lo controlla l'ha preso normalmente
+1652	PST160_trad	2866.175	2868.538	1651	e e scende con me e mi dice
+1654	PST160_trad	2868.563	2872.605	1653	il tuo biglietto non è pagato ti dico è pagato guarda la mia ricevuta che è pagato
+1656	PST160_trad	2872.650	2873.863	1655	l'ho pagato ora
+1658	PST160_trad	2873.938	2877.504	1657	mi dice però qui dice settimana it~ ed era sabato
+1660	PST162_trad	2876.875	2878.150	1659	sabato
+1662	PST160_trad	2877.625	2878.640	1661	era sabato
+1664	PST160_trad	2879.300	2882.477	1663	e poi questo era per a partire da lunedì
+1667	PST160_trad	2884.137	2885.375	1666	non era dal sabato
+1669	PST160_trad	2885.438	2890.535	1668	però io gli dico ho pagato, non ho colpa non può essere che ti si attiva ah il lunedì
+1671	PST160_trad	2890.585	2892.177	1670	fino alla domenica
+1673	PST160_trad	2892.250	2893.254	1672	e ora che faccio?
+1675	PST160_trad	2894.050	2899.038	1674	no devo devi pagare una multa perché io cioè in questo del mio
+1677	PST160_trad	2899.125	2903.623	1676	della mia della mia vita qui della mia io non voglio avere nessun questo perché
+1680	PST160_trad	2906.638	2908.175	1679	a pagare trentotto
+1683	PST160_trad	2908.938	2915.536	1682	però era colpa mia che non avevo ricaricato io sempre ricarico tutto perciò non voglio avere problemi
+1685	PST160_trad	2915.575	2919.725	1684	da nessuna parte. perchè mi piace lavorare a a a
+1687	PST160_trad	2919.775	2921.725	1686	lavorare stare xx qui
+1689	PST160_trad	2922.613	2924.562	1688	eh contribuire qualcosa qui
+1691	PST160_trad	2924.675	2927.331	1690	io son la prima che contribuisce
+1693	PST160_trad	2927.450	2929.066	1692	è  giusto
+1695	PST160_trad	2929.088	2932.250	1694	xx che un giorno nel mio caso ho un documento
+1697	PST160_trad	2932.570	2934.470	1696	o che lavori, vada in pensione
+1699	PST160_trad	2934.538	2939.331	1698	mi piacerebbe che mi dessero la pensione però di quello che ho però di quello che ho versato
+1701	PST160_trad	2939.378	2941.328	1700	non per qualcosa che non ho fatto
+1703	PST160_trad	2941.375	2944.170	1702	no? quindi uno bisogna guadagnarsela come si dice
+1705	PST160_trad	2944.716	2946.166	1704	eh per poter proseguire
+1707	PST160_trad	2946.250	2948.288	1706	questo è ciò che dico sempre io
+1710	PST161_trad	2950.488	2952.600	1709	però scusami se t'interrompo
+1712	PST161_trad	2952.700	2958.588	1711	non sarebbe che xxx con il tuo passaporto alla GTT xxx la tua tessera xxx una multa
+1715	PST160_trad	2960.788	2963.038	1714	se io ho eh la tessera
+1717	PST160_trad	2963.075	2966.013	1716	ma non credevo che avessi pagato per una settimana
+1719	PST161_trad	2966.338	2967.163	1718	ah va bene
+1721	PST160_trad	2966.763	2971.337	1720	piuttosto si attivava perché io non esco tutti i giorni solamente il weekend
+1723	PST160_trad	2971.388	2975.890	1722	però per quel giorno per questa settimana se era stato pagato non so che cosa dovevo fare questa settimana
+1725	PST160_trad	2975.938	2978.167	1724	così meglio pagarlo per tutta la settimana
+1727	PST160_trad	2978.538	2981.413	1726	quindi questo no se era stato attivato dal sabato
+1729	PST160_trad	2981.488	2984.300	1728	non si era attivato se xx attivato dal lunedì xx io
+1731	PST160_trad	2984.375	2989.699	1730	e io cioè alf~ perché il signore non me lo voleva chiedere, quindi io sto per scendere, signore per favore controlli
+1840	PST161_trad	3256.853	3260.700	1839	facciamo l'aiuto però a peggiorare per per loro proprio eh
+1849	PST161_trad	3276.275	3279.640	1848	fino a xx non riusciva a fare però un esercizio
+1856	PST161_trad	3291.640	3293.190	1855	e dopo anche l'esame
+1862	PST161_trad	3303.396	3305.180	1861	ti dico mio figlio l'ho visto
+1891	PST161_trad	3380.705	3383.385	1890	non ha non hai tanto confronto
+1902	PST161_trad	3410.120	3417.300	1901	è più contento perché va la teoria con la pratica quello che lui più gli piace la pratica però non si fa niente se non c'è la teoria
+1906	PST161_trad	3420.915	3424.536	1905	ha trovato finalmente la sua risposta a ciò che voleva
+1913	PST161_trad	3436.710	3439.180	1912	per loro, rispetto al tema del suo carattere
+1916	PST161_trad	3439.360	3443.174	1915	nella famiglia che abbiamo tante appunto perché a volta eh
+1927	PST161_trad	3467.860	3471.452	1926	nella casa del rispetto penso che è ciò che noi non dobbiamo perdere
+1929	PST161_trad	3471.870	3475.700	1928	tanto per pe~ per per nostri figli anche da loro per noi.
+1963	PST161_trad	3560.840	3564.380	1962	poi anche questo. si vede che
+1966	PST161_trad	3564.730	3567.605	1965	strada giusta diciamo perché in terza media,
+1972	PST161_trad	3578.508	3579.458	1971	nel mio caso,
+1987	PST161_trad	3617.520	3622.650	1986	che voleva fa~ essere medico forense e per questa scelta sua di fare il liceo,
+2001	PST161_trad	3647.330	3648.340	2000	si lamentano
+2011	PST161_trad	3669.759	3671.019	2010	l'esame totale,
+2015	PST161_trad	3677.260	3682.390	2014	eh mio sbaglio nel mio errore è stato che non ho non ho finito da leggere tutta.
+2029	PST161_trad	3706.265	3710.653	2028	noi paghiamo per tutto e se farlo possibile eh interamente di
+2031	PST161_trad	3710.774	3712.584	2030	che continui questa strada che lui vuole
+2033	PST161_trad	3712.720	3717.709	2032	però finalmente in metà dell'anno lui si rende conto di che non ce la faccia più,
+2039	PST161_trad	3727.190	3729.000	2038	in realtà sono due nella classe
+2069	PST161_trad	3795.170	3797.160	2068	per raccontare la mia storia ma mio
+2073	PST161_trad	3799.990	3801.680	2072	no perché non è stato facile
+2077	PST161_trad	3804.730	3808.040	2076	io sono senza la mia famiglia diretta di di sangue no
+2098	PST161_trad	3858.010	3862.150	2097	e fino alle due che mi hanno chiamato la la sorella di di papà,
+2108	PST161_trad	3877.940	3879.210	2107	ho preferito
+2111	PST161_trad	3883.095	3885.235	2110	a me mi fa molto molto male
+2127	PST161_trad	3913.580	3916.420	2126	lo dice anche a me è un po' come se
+2132	PST162_trad	3923.930	3924.720	2131	c'è una scopa?
+2146	PST160_trad	3978.870	3981.880	2145	anno  del scondo  di di superiori
+2168	PST160_trad	4013.550	4016.827	2167	mio figlio eh  sta imparando prima la
+2185	PST160_trad	4054.090	4055.510	2184	e non lo ha finito
+2188	PST160_trad	4056.250	4057.360	2187	l'università
+2194	PST160_trad	4062.001	4064.852	2193	vediamo dopo il il ci pi a,
+2196	PST160_trad	4064.890	4067.167	2195	(quale sarà la sua) decisione?
+2199	PST160_trad	4067.543	4069.010	2198	sua  non lo so.
+2202	PST160_trad	4069.120	4070.490	2201	cosa mi dice
+2207	PST160_trad	4075.080	4076.690	2206	vuole lavorare.
+2237	PST160_trad	4147.560	4151.100	2236	sì è interessato così che lui deve studiare anche
+2239	PST160_trad	4151.680	4152.890	2238	come se fosse uguale
+2241	PST160_trad	4153.300	4155.520	2240	uguale che studi o lavori.
+2275	PST161_trad	4222.750	4225.110	2274	io ho questo della scuola superiore
+2327	PST160_trad	4335.420	4336.950	2326	che ha compiuto diciotto

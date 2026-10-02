@@ -1,0 +1,1154 @@
+[
+  {
+    "tu_id": "1",
+    "speaker": "PST110_trad",
+    "start": "3.590",
+    "end": "4.770",
+    "parent_tu_id": "0",
+    "text": "e oggi?"
+  },
+  {
+    "tu_id": "4",
+    "speaker": "PST110_trad",
+    "start": "5.470",
+    "end": "6.760",
+    "parent_tu_id": "3",
+    "text": "ceni con noi?"
+  },
+  {
+    "tu_id": "6",
+    "speaker": "PST108_trad",
+    "start": "8.160",
+    "end": "10.700",
+    "parent_tu_id": "5",
+    "text": "davvero, adesso arriveranno, quelli che sono amici..."
+  },
+  {
+    "tu_id": "8",
+    "speaker": "PST110_trad",
+    "start": "11.710",
+    "end": "12.830",
+    "parent_tu_id": "7",
+    "text": "ho presente, ho presente"
+  },
+  {
+    "tu_id": "93",
+    "speaker": "PST109_trad",
+    "start": "194.470",
+    "end": "195.090",
+    "parent_tu_id": "92",
+    "text": "azione"
+  },
+  {
+    "tu_id": "95",
+    "speaker": "PST109_trad",
+    "start": "196.250",
+    "end": "199.420",
+    "parent_tu_id": "94",
+    "text": "ce l'hanno presa, come si dice \"uscita\" in italiano?"
+  },
+  {
+    "tu_id": "97",
+    "speaker": "PST109_trad",
+    "start": "201.170",
+    "end": "202.033",
+    "parent_tu_id": "96",
+    "text": "vero?"
+  },
+  {
+    "tu_id": "99",
+    "speaker": "PST108_trad",
+    "start": "202.170",
+    "end": "202.860",
+    "parent_tu_id": "98",
+    "text": "mannaggia"
+  },
+  {
+    "tu_id": "126",
+    "speaker": "PST108_trad",
+    "start": "248.380",
+    "end": "253.570",
+    "parent_tu_id": "125",
+    "text": "io sono andato, in questi video, sono andato in arabia saudita, dubai, a dubai"
+  },
+  {
+    "tu_id": "174",
+    "speaker": "PST109_trad",
+    "start": "324.490",
+    "end": "325.820",
+    "parent_tu_id": "173",
+    "text": "quindi tutti sono rimasti con xxx"
+  },
+  {
+    "tu_id": "206",
+    "speaker": "PST108_trad",
+    "start": "371.920",
+    "end": "373.358",
+    "parent_tu_id": "205",
+    "text": "questi sono i più forti, guarda, guarda"
+  },
+  {
+    "tu_id": "300",
+    "speaker": "PST109_trad",
+    "start": "513.580",
+    "end": "516.260",
+    "parent_tu_id": "299",
+    "text": "ma loro, quindi, lavorano da sole oppure..."
+  },
+  {
+    "tu_id": "302",
+    "speaker": "PST108_trad",
+    "start": "516.600",
+    "end": "517.989",
+    "parent_tu_id": "301",
+    "text": "lavorano con la scuola, amico mio"
+  },
+  {
+    "tu_id": "304",
+    "speaker": "PST109_trad",
+    "start": "517.989",
+    "end": "518.600",
+    "parent_tu_id": "303",
+    "text": "ah davvero?"
+  },
+  {
+    "tu_id": "306",
+    "speaker": "PST108_trad",
+    "start": "518.600",
+    "end": "518.987",
+    "parent_tu_id": "305",
+    "text": "sì"
+  },
+  {
+    "tu_id": "308",
+    "speaker": "PST109_trad",
+    "start": "523.890",
+    "end": "525.100",
+    "parent_tu_id": "307",
+    "text": "sono gentili"
+  },
+  {
+    "tu_id": "311",
+    "speaker": "PST108_trad",
+    "start": "526.100",
+    "end": "527.640",
+    "parent_tu_id": "310",
+    "text": "è un bel lavoro questo"
+  },
+  {
+    "tu_id": "340",
+    "speaker": "PST110_trad",
+    "start": "578.735",
+    "end": "580.015",
+    "parent_tu_id": "339",
+    "text": "oh c'hai l'astuccio"
+  },
+  {
+    "tu_id": "351",
+    "speaker": "PST108_trad",
+    "start": "588.580",
+    "end": "589.690",
+    "parent_tu_id": "350",
+    "text": "hai eh astuccio"
+  },
+  {
+    "tu_id": "380",
+    "speaker": "PST109_trad",
+    "start": "626.400",
+    "end": "627.575",
+    "parent_tu_id": "379",
+    "text": "Rhamna"
+  },
+  {
+    "tu_id": "390",
+    "speaker": "PST109_trad",
+    "start": "636.540",
+    "end": "637.180",
+    "parent_tu_id": "389",
+    "text": "Rhamna"
+  },
+  {
+    "tu_id": "415",
+    "speaker": "PST110_trad",
+    "start": "673.230",
+    "end": "674.900",
+    "parent_tu_id": "414",
+    "text": "no, no, è quella che è nel xx"
+  },
+  {
+    "tu_id": "478",
+    "speaker": "PST110_trad",
+    "start": "751.491",
+    "end": "752.707",
+    "parent_tu_id": "477",
+    "text": "eh quando sei nato?"
+  },
+  {
+    "tu_id": "481",
+    "speaker": "PST110_trad",
+    "start": "759.230",
+    "end": "760.250",
+    "parent_tu_id": "480",
+    "text": "hai messo @datadinascita"
+  },
+  {
+    "tu_id": "513",
+    "speaker": "PST110_trad",
+    "start": "851.692",
+    "end": "852.310",
+    "parent_tu_id": "512",
+    "text": "zeta"
+  },
+  {
+    "tu_id": "582",
+    "speaker": "PST110_trad",
+    "start": "938.892",
+    "end": "939.663",
+    "parent_tu_id": "581",
+    "text": "tu lasciaci parlare"
+  },
+  {
+    "tu_id": "584",
+    "speaker": "PST110_trad",
+    "start": "939.684",
+    "end": "943.170",
+    "parent_tu_id": "583",
+    "text": ""
+  },
+  {
+    "tu_id": "596",
+    "speaker": "PST110_trad",
+    "start": "953.169",
+    "end": "959.553",
+    "parent_tu_id": "595",
+    "text": "eh guarda qua, del marocco così, \"gi\" \"acca\""
+  },
+  {
+    "tu_id": "598",
+    "speaker": "PST108_trad",
+    "start": "958.261",
+    "end": "958.738",
+    "parent_tu_id": "597",
+    "text": "\"gi\""
+  },
+  {
+    "tu_id": "600",
+    "speaker": "PST110_trad",
+    "start": "959.614",
+    "end": "960.276",
+    "parent_tu_id": "599",
+    "text": "\"gha\""
+  },
+  {
+    "tu_id": "604",
+    "speaker": "PST109_trad",
+    "start": "961.814",
+    "end": "963.053",
+    "parent_tu_id": "603",
+    "text": "tutti e due \"gha\""
+  },
+  {
+    "tu_id": "619",
+    "speaker": "???_trad",
+    "start": "981.669",
+    "end": "984.023",
+    "parent_tu_id": "618",
+    "text": "mi fai il piacere di aggiungere anche solo un euro qui"
+  },
+  {
+    "tu_id": "622",
+    "speaker": "PST110_trad",
+    "start": "984.508",
+    "end": "984.956",
+    "parent_tu_id": "621",
+    "text": "di cosa?"
+  },
+  {
+    "tu_id": "624",
+    "speaker": "???_trad",
+    "start": "984.983",
+    "end": "986.492",
+    "parent_tu_id": "623",
+    "text": "fammelo pagare solo sei, solo sei"
+  },
+  {
+    "tu_id": "626",
+    "speaker": "PST108_trad",
+    "start": "987.584",
+    "end": "990.874",
+    "parent_tu_id": "625",
+    "text": "io ho sentito dire che vengono sette euro, qualcuno ha detto che quella cosa viene sette euro"
+  },
+  {
+    "tu_id": "628",
+    "speaker": "PST108_trad",
+    "start": "991.280",
+    "end": "992.970",
+    "parent_tu_id": "627",
+    "text": "ho sentito quell'altro giorno che vengono sette euro"
+  },
+  {
+    "tu_id": "630",
+    "speaker": "PST109_trad",
+    "start": "993.510",
+    "end": "995.425",
+    "parent_tu_id": "629",
+    "text": "quelli costano, costano solo xx"
+  },
+  {
+    "tu_id": "633",
+    "speaker": "PST108_trad",
+    "start": "997.820",
+    "end": "1002.539",
+    "parent_tu_id": "631",
+    "text": "no, no, quello che non ce l'ha, aspetta..."
+  },
+  {
+    "tu_id": "635",
+    "speaker": "PST109_trad",
+    "start": "1002.884",
+    "end": "1003.652",
+    "parent_tu_id": "634",
+    "text": "chi non ha che cosa?"
+  },
+  {
+    "tu_id": "637",
+    "speaker": "PST108_trad",
+    "start": "1004.696",
+    "end": "1005.381",
+    "parent_tu_id": "636",
+    "text": "aspetta"
+  },
+  {
+    "tu_id": "639",
+    "speaker": "PST109_trad",
+    "start": "1005.514",
+    "end": "1006.663",
+    "parent_tu_id": "638",
+    "text": "vieni qua che ti dico, vieni"
+  },
+  {
+    "tu_id": "641",
+    "speaker": "PST110_trad",
+    "start": "1008.010",
+    "end": "1008.900",
+    "parent_tu_id": "640",
+    "text": "sono @yahya"
+  },
+  {
+    "tu_id": "643",
+    "speaker": "PST109_trad",
+    "start": "1009.365",
+    "end": "1010.009",
+    "parent_tu_id": "642",
+    "text": "no, non tu"
+  },
+  {
+    "tu_id": "647",
+    "speaker": "PST110_trad",
+    "start": "1012.917",
+    "end": "1013.371",
+    "parent_tu_id": "646",
+    "text": "sì?"
+  },
+  {
+    "tu_id": "681",
+    "speaker": "PST110_trad",
+    "start": "1075.659",
+    "end": "1079.669",
+    "parent_tu_id": "680",
+    "text": "dì a loro che,come qua, ci sono forse fino a..."
+  },
+  {
+    "tu_id": "683",
+    "speaker": "PST110_trad",
+    "start": "1079.796",
+    "end": "1081.705",
+    "parent_tu_id": "682",
+    "text": "studiano fino alla terza media"
+  },
+  {
+    "tu_id": "685",
+    "speaker": "PST108_trad",
+    "start": "1080.862",
+    "end": "1084.354",
+    "parent_tu_id": "684",
+    "text": "non studiano fino alla terza media, studiano fino alla maturità e dopo finisco con cinque anni o tre anni..."
+  },
+  {
+    "tu_id": "687",
+    "speaker": "PST110_trad",
+    "start": "1084.359",
+    "end": "1086.780",
+    "parent_tu_id": "686",
+    "text": "no, fanno fino alla terza media e poi xxx"
+  },
+  {
+    "tu_id": "689",
+    "speaker": "PST110_trad",
+    "start": "1088.930",
+    "end": "1090.010",
+    "parent_tu_id": "688",
+    "text": "come ad esempio"
+  },
+  {
+    "tu_id": "692",
+    "speaker": "PST108_trad",
+    "start": "1090.080",
+    "end": "1091.220",
+    "parent_tu_id": "690",
+    "text": "guarda che anche in marocco lo fanno"
+  },
+  {
+    "tu_id": "694",
+    "speaker": "PST110_trad",
+    "start": "1090.680",
+    "end": "1095.298",
+    "parent_tu_id": "693",
+    "text": "se vuoi direttamente andare a fare un'altra cosa, come ad esempio, adare a lavorare come fabbro, una qualuncue cosa, hai capito?"
+  },
+  {
+    "tu_id": "696",
+    "speaker": "PST108_trad",
+    "start": "1095.310",
+    "end": "1096.217",
+    "parent_tu_id": "695",
+    "text": "anche in marocco è così"
+  },
+  {
+    "tu_id": "932",
+    "speaker": "PST108_trad",
+    "start": "1513.320",
+    "end": "1514.180",
+    "parent_tu_id": "931",
+    "text": "e perchè?"
+  },
+  {
+    "tu_id": "934",
+    "speaker": "PST107_trad",
+    "start": "1514.660",
+    "end": "1517.060",
+    "parent_tu_id": "933",
+    "text": "ma non mi ha dato l'apparecchio xxx"
+  },
+  {
+    "tu_id": "944",
+    "speaker": "PST108_trad",
+    "start": "1524.560",
+    "end": "1525.740",
+    "parent_tu_id": "943",
+    "text": "perchè non vuole passare?"
+  },
+  {
+    "tu_id": "948",
+    "speaker": "PST107_trad",
+    "start": "1525.770",
+    "end": "1528.690",
+    "parent_tu_id": "947",
+    "text": "eh ma non gli ha dato l'apparecchio, non c'è, xx per caso @amir è con loro?"
+  },
+  {
+    "tu_id": "953",
+    "speaker": "PST107_trad",
+    "start": "1529.504",
+    "end": "1531.480",
+    "parent_tu_id": "952",
+    "text": "quale apparecchio è quello che lei hai comprato?"
+  },
+  {
+    "tu_id": "956",
+    "speaker": "PST110_trad",
+    "start": "1531.510",
+    "end": "1532.350",
+    "parent_tu_id": "955",
+    "text": "vediamo dei vestiti?"
+  },
+  {
+    "tu_id": "964",
+    "speaker": "PST107_trad",
+    "start": "1538.750",
+    "end": "1539.550",
+    "parent_tu_id": "963",
+    "text": "ma vieni @yahya"
+  },
+  {
+    "tu_id": "978",
+    "speaker": "PST108_trad",
+    "start": "1555.630",
+    "end": "1556.870",
+    "parent_tu_id": "977",
+    "text": "hanno chiesto se tu avessi tagliato i capelli"
+  },
+  {
+    "tu_id": "983",
+    "speaker": "PST107_trad",
+    "start": "1559.830",
+    "end": "1562.550",
+    "parent_tu_id": "982",
+    "text": "ho detto, sai, le ho detto che eri di cattivo umore e lei mi ha detto di venire"
+  },
+  {
+    "tu_id": "1018",
+    "speaker": "PST107_trad",
+    "start": "1598.269",
+    "end": "1599.179",
+    "parent_tu_id": "1017",
+    "text": "ma cosa dobbiamo fare adesso?"
+  },
+  {
+    "tu_id": "1062",
+    "speaker": "PST107_trad",
+    "start": "1662.300",
+    "end": "1663.550",
+    "parent_tu_id": "1061",
+    "text": "questa, quella che ho fatto nuova"
+  },
+  {
+    "tu_id": "1064",
+    "speaker": "PST107_trad",
+    "start": "1663.940",
+    "end": "1665.530",
+    "parent_tu_id": "1063",
+    "text": "si vede, conto corrente"
+  },
+  {
+    "tu_id": "1066",
+    "speaker": "PST107_trad",
+    "start": "1666.610",
+    "end": "1669.070",
+    "parent_tu_id": "1065",
+    "text": "allora, non versare quello, è solo tre, non versare quella è cinque"
+  },
+  {
+    "tu_id": "1068",
+    "speaker": "PST107_trad",
+    "start": "1670.680",
+    "end": "1673.620",
+    "parent_tu_id": "1067",
+    "text": "@nomebanca, l'abbiamo ricaricata e tutto però qui..."
+  },
+  {
+    "tu_id": "1070",
+    "speaker": "PST107_trad",
+    "start": "1675.205",
+    "end": "1675.680",
+    "parent_tu_id": "1069",
+    "text": "sì"
+  },
+  {
+    "tu_id": "1073",
+    "speaker": "PST107_trad",
+    "start": "1677.471",
+    "end": "1677.852",
+    "parent_tu_id": "1072",
+    "text": "sì"
+  },
+  {
+    "tu_id": "1077",
+    "speaker": "PST107_trad",
+    "start": "1683.360",
+    "end": "1684.310",
+    "parent_tu_id": "1076",
+    "text": "vado da loro?"
+  },
+  {
+    "tu_id": "1079",
+    "speaker": "PST107_trad",
+    "start": "1687.500",
+    "end": "1690.210",
+    "parent_tu_id": "1078",
+    "text": "ti diranno che c'è un applicazione, che non ti hanno aggiunto, e te la aggiungeranno"
+  },
+  {
+    "tu_id": "1081",
+    "speaker": "PST107_trad",
+    "start": "1690.690",
+    "end": "1693.470",
+    "parent_tu_id": "1080",
+    "text": "però, se gliela aggiungeranno, funzionerà in un giorno in modo veloce?"
+  },
+  {
+    "tu_id": "1084",
+    "speaker": "PST107_trad",
+    "start": "1697.600",
+    "end": "1699.500",
+    "parent_tu_id": "1083",
+    "text": "domani andremo, è quello che mi ha detto @amir, al mattino andremo da lui"
+  },
+  {
+    "tu_id": "1093",
+    "speaker": "PST107_trad",
+    "start": "1709.150",
+    "end": "1709.940",
+    "parent_tu_id": "1092",
+    "text": "premi sì"
+  },
+  {
+    "tu_id": "1097",
+    "speaker": "PST107_trad",
+    "start": "1710.378",
+    "end": "1713.786",
+    "parent_tu_id": "1096",
+    "text": "quando vado allo sportello automatico non risulta l'opzione del bonifico, chissà perchè, si vede che non è stata ancora aggiunta"
+  },
+  {
+    "tu_id": "1103",
+    "speaker": "PST107_trad",
+    "start": "1718.687",
+    "end": "1720.086",
+    "parent_tu_id": "1102",
+    "text": "andrò da loro la mattina, questa è la soluzione"
+  },
+  {
+    "tu_id": "1105",
+    "speaker": "PST108_trad",
+    "start": "1720.086",
+    "end": "1721.139",
+    "parent_tu_id": "1104",
+    "text": "vai con lui"
+  },
+  {
+    "tu_id": "1107",
+    "speaker": "PST107_trad",
+    "start": "1721.179",
+    "end": "1724.169",
+    "parent_tu_id": "1106",
+    "text": "esatto, non perdiamo tempo che sennò rischiamo di sbagliare"
+  },
+  {
+    "tu_id": "1109",
+    "speaker": "PST109_trad",
+    "start": "1732.545",
+    "end": "1736.323",
+    "parent_tu_id": "1108",
+    "text": "però scusa, a che ora uscirete xxx capito?"
+  },
+  {
+    "tu_id": "1111",
+    "speaker": "PST107_trad",
+    "start": "1736.470",
+    "end": "1741.720",
+    "parent_tu_id": "1110",
+    "text": "no, adesso, per esempio, quello del bonifico, mi faccia un bonifico"
+  },
+  {
+    "tu_id": "1113",
+    "speaker": "PST107_trad",
+    "start": "1742.830",
+    "end": "1745.410",
+    "parent_tu_id": "1112",
+    "text": "sì, sorella mia, da lì, basta"
+  },
+  {
+    "tu_id": "1115",
+    "speaker": "PST107_trad",
+    "start": "1745.940",
+    "end": "1746.610",
+    "parent_tu_id": "1114",
+    "text": "sì"
+  },
+  {
+    "tu_id": "1117",
+    "speaker": "PST107_trad",
+    "start": "1750.200",
+    "end": "1751.470",
+    "parent_tu_id": "1116",
+    "text": "e la ragione ah..."
+  },
+  {
+    "tu_id": "1119",
+    "speaker": "PST107_trad",
+    "start": "1755.510",
+    "end": "1756.770",
+    "parent_tu_id": "1118",
+    "text": "anche io metto i miei"
+  },
+  {
+    "tu_id": "1121",
+    "speaker": "PST107_trad",
+    "start": "1758.920",
+    "end": "1760.689",
+    "parent_tu_id": "1120",
+    "text": "no, sono quelli che ho fatto entrare adesso, di che soldi stai parlando?"
+  },
+  {
+    "tu_id": "1123",
+    "speaker": "PST107_trad",
+    "start": "1760.820",
+    "end": "1761.749",
+    "parent_tu_id": "1122",
+    "text": "quanti soldi ho fatto entrare io?"
+  },
+  {
+    "tu_id": "1125",
+    "speaker": "PST107_trad",
+    "start": "1773.530",
+    "end": "1776.702",
+    "parent_tu_id": "1124",
+    "text": "se mi arrivano i soldi dal bonifico, li metto per il negozio e prestami dei soldi fratello mio"
+  },
+  {
+    "tu_id": "1127",
+    "speaker": "PST107_trad",
+    "start": "1777.390",
+    "end": "1778.400",
+    "parent_tu_id": "1126",
+    "text": "ne metto quaranta"
+  },
+  {
+    "tu_id": "1129",
+    "speaker": "PST107_trad",
+    "start": "1778.778",
+    "end": "1781.327",
+    "parent_tu_id": "1128",
+    "text": "da questi (soldi) del negozio li tengo, e poi chiedo un prestito"
+  },
+  {
+    "tu_id": "1131",
+    "speaker": "PST107_trad",
+    "start": "1781.970",
+    "end": "1784.580",
+    "parent_tu_id": "1130",
+    "text": "fratello mio, prestami dei soldi e poi aggiungi da @amir dieci, solo cinquanta"
+  },
+  {
+    "tu_id": "1133",
+    "speaker": "PST107_trad",
+    "start": "1788.420",
+    "end": "1788.900",
+    "parent_tu_id": "1132",
+    "text": "sì"
+  },
+  {
+    "tu_id": "1135",
+    "speaker": "PST107_trad",
+    "start": "1789.330",
+    "end": "1791.120",
+    "parent_tu_id": "1134",
+    "text": "no, no, fai così, guarda che me li hanno prestati (i soldi), fratello mio"
+  },
+  {
+    "tu_id": "1137",
+    "speaker": "PST107_trad",
+    "start": "1791.370",
+    "end": "1792.550",
+    "parent_tu_id": "1136",
+    "text": "fammelo dal telefono del marocco"
+  },
+  {
+    "tu_id": "1139",
+    "speaker": "PST107_trad",
+    "start": "1792.810",
+    "end": "1795.140",
+    "parent_tu_id": "1138",
+    "text": "vado da amin, anche lui me ne ha messo dieci, anche lui mi li ha prestti (i soldi)"
+  },
+  {
+    "tu_id": "1141",
+    "speaker": "PST107_trad",
+    "start": "1796.130",
+    "end": "1798.550",
+    "parent_tu_id": "1140",
+    "text": "lì ho ciò che è sufficiente e farò il bonifico per xx"
+  },
+  {
+    "tu_id": "1143",
+    "speaker": "PST107_trad",
+    "start": "1800.150",
+    "end": "1803.100",
+    "parent_tu_id": "1142",
+    "text": "lasciala mettere a posto il bancomat, non avvicinarti a lei, non avvicinarti a lei"
+  },
+  {
+    "tu_id": "1145",
+    "speaker": "PST107_trad",
+    "start": "1805.910",
+    "end": "1810.570",
+    "parent_tu_id": "1144",
+    "text": "no, quattro mesi, prenotano per cinque mesi poi per xx non ti (mi) danno i soldi, prenotano per quattro mesi"
+  },
+  {
+    "tu_id": "1147",
+    "speaker": "PST107_trad",
+    "start": "1811.490",
+    "end": "1812.700",
+    "parent_tu_id": "1146",
+    "text": "no, no, non continuare ad avvicinarti"
+  },
+  {
+    "tu_id": "1149",
+    "speaker": "PST107_trad",
+    "start": "1813.310",
+    "end": "1814.650",
+    "parent_tu_id": "1148",
+    "text": "finchè non mette a posto quel xx"
+  },
+  {
+    "tu_id": "1151",
+    "speaker": "PST107_trad",
+    "start": "1815.100",
+    "end": "1818.190",
+    "parent_tu_id": "1150",
+    "text": "è regolare da qui, dì al signore che me ne ha prestati (soldi)"
+  },
+  {
+    "tu_id": "1153",
+    "speaker": "PST107_trad",
+    "start": "1820.100",
+    "end": "1822.680",
+    "parent_tu_id": "1152",
+    "text": "no, no, è regolare da @amir, anche lui lavora in una azienda, un pezzo da dieci"
+  },
+  {
+    "tu_id": "1155",
+    "speaker": "PST107_trad",
+    "start": "1823.500",
+    "end": "1824.558",
+    "parent_tu_id": "1154",
+    "text": "per lavorarci, sì"
+  },
+  {
+    "tu_id": "1157",
+    "speaker": "PST107_trad",
+    "start": "1825.780",
+    "end": "1828.310",
+    "parent_tu_id": "1156",
+    "text": "dobbiamo risolvere (lett. sbloccare) questo problema adesso, è così"
+  },
+  {
+    "tu_id": "1180",
+    "speaker": "PST107_trad",
+    "start": "1862.505",
+    "end": "1863.445",
+    "parent_tu_id": "1179",
+    "text": "no, no, ce l'ho"
+  },
+  {
+    "tu_id": "1185",
+    "speaker": "PST110_trad",
+    "start": "1865.310",
+    "end": "1867.330",
+    "parent_tu_id": "1184",
+    "text": "hai la faccia da pazienza"
+  },
+  {
+    "tu_id": "1190",
+    "speaker": "PST107_trad",
+    "start": "1867.310",
+    "end": "1870.320",
+    "parent_tu_id": "1189",
+    "text": "ma quindi entrerai e nasconderai qualcosa e lui ti ha detto di non nasconderla xxx"
+  },
+  {
+    "tu_id": "1192",
+    "speaker": "PST108_trad",
+    "start": "1868.970",
+    "end": "1869.670",
+    "parent_tu_id": "1191",
+    "text": "cinque e mezza"
+  },
+  {
+    "tu_id": "1194",
+    "speaker": "PST110_trad",
+    "start": "1869.760",
+    "end": "1870.706",
+    "parent_tu_id": "1193",
+    "text": "che dio ti protegga fratello mio"
+  },
+  {
+    "tu_id": "1196",
+    "speaker": "PST107_trad",
+    "start": "1870.670",
+    "end": "1871.490",
+    "parent_tu_id": "1195",
+    "text": "tranquillo fratello mio"
+  },
+  {
+    "tu_id": "1228",
+    "speaker": "PST107_trad",
+    "start": "1906.476",
+    "end": "1907.322",
+    "parent_tu_id": "1227",
+    "text": "il suo nome"
+  },
+  {
+    "tu_id": "1260",
+    "speaker": "PST107_trad",
+    "start": "1938.580",
+    "end": "1940.420",
+    "parent_tu_id": "1259",
+    "text": "a che ora siete arrivati"
+  },
+  {
+    "tu_id": "1264",
+    "speaker": "PST107_trad",
+    "start": "1941.840",
+    "end": "1942.550",
+    "parent_tu_id": "1263",
+    "text": "dille"
+  },
+  {
+    "tu_id": "1298",
+    "speaker": "PST107_trad",
+    "start": "1991.784",
+    "end": "1992.807",
+    "parent_tu_id": "1297",
+    "text": "finchè non ce lo dice lei"
+  },
+  {
+    "tu_id": "1320",
+    "speaker": "PST107_trad",
+    "start": "2024.847",
+    "end": "2025.737",
+    "parent_tu_id": "1319",
+    "text": "che ti ho detto"
+  },
+  {
+    "tu_id": "1325",
+    "speaker": "PST107_trad",
+    "start": "2028.730",
+    "end": "2029.810",
+    "parent_tu_id": "1324",
+    "text": "vai vai"
+  },
+  {
+    "tu_id": "1328",
+    "speaker": "PST108_trad",
+    "start": "2033.310",
+    "end": "2035.693",
+    "parent_tu_id": "1326",
+    "text": "che la pace sia con voi, come stai, tutto bene? io bene grazie a dio, che dio ti protegga"
+  },
+  {
+    "tu_id": "1330",
+    "speaker": "PST108_trad",
+    "start": "2035.700",
+    "end": "2037.100",
+    "parent_tu_id": "1329",
+    "text": "tutto bene?"
+  },
+  {
+    "tu_id": "1337",
+    "speaker": "PST107_trad",
+    "start": "2046.823",
+    "end": "2048.319",
+    "parent_tu_id": "1336",
+    "text": "quanto abbiamo detto? @numero?"
+  },
+  {
+    "tu_id": "1342",
+    "speaker": "PST107_trad",
+    "start": "2054.376",
+    "end": "2057.940",
+    "parent_tu_id": "1341",
+    "text": "no, @numero, @numero"
+  },
+  {
+    "tu_id": "1344",
+    "speaker": "PST107_trad",
+    "start": "2059.022",
+    "end": "2059.593",
+    "parent_tu_id": "1343",
+    "text": ""
+  },
+  {
+    "tu_id": "1353",
+    "speaker": "PST108_trad",
+    "start": "2074.722",
+    "end": "2076.330",
+    "parent_tu_id": "1352",
+    "text": "@numero"
+  },
+  {
+    "tu_id": "1355",
+    "speaker": "PST108_trad",
+    "start": "2077.690",
+    "end": "2079.820",
+    "parent_tu_id": "1354",
+    "text": "@numero"
+  },
+  {
+    "tu_id": "1364",
+    "speaker": "PST107_trad",
+    "start": "2087.653",
+    "end": "2088.630",
+    "parent_tu_id": "1363",
+    "text": "bravo l'ha fatto"
+  },
+  {
+    "tu_id": "1366",
+    "speaker": "PST108_trad",
+    "start": "2090.922",
+    "end": "2092.200",
+    "parent_tu_id": "1365",
+    "text": "@numero"
+  },
+  {
+    "tu_id": "1369",
+    "speaker": "PST108_trad",
+    "start": "2092.840",
+    "end": "2094.370",
+    "parent_tu_id": "1368",
+    "text": "@numero"
+  },
+  {
+    "tu_id": "1371",
+    "speaker": "PST108_trad",
+    "start": "2095.180",
+    "end": "2096.310",
+    "parent_tu_id": "1370",
+    "text": "sì, sì, ora si è fatto"
+  },
+  {
+    "tu_id": "1377",
+    "speaker": "PST107_trad",
+    "start": "2100.291",
+    "end": "2103.507",
+    "parent_tu_id": "1376",
+    "text": "@numero, giusto così, @numero"
+  },
+  {
+    "tu_id": "1385",
+    "speaker": "PST107_trad",
+    "start": "2114.084",
+    "end": "2119.276",
+    "parent_tu_id": "1384",
+    "text": "iban torino #@numero a posto"
+  },
+  {
+    "tu_id": "1404",
+    "speaker": "PST108_trad",
+    "start": "2143.640",
+    "end": "2144.940",
+    "parent_tu_id": "1402",
+    "text": "è lei che l'ha fatto"
+  },
+  {
+    "tu_id": "1406",
+    "speaker": "PST108_trad",
+    "start": "2144.945",
+    "end": "2147.150",
+    "parent_tu_id": "1405",
+    "text": "no, è perchè lui l'ha fatto per primo"
+  },
+  {
+    "tu_id": "1408",
+    "speaker": "PST107_trad",
+    "start": "2146.294",
+    "end": "2148.074",
+    "parent_tu_id": "1407",
+    "text": "finchè l'ha fatto lui, il puntino, finchè l'ha fatto"
+  },
+  {
+    "tu_id": "1410",
+    "speaker": "PST108_trad",
+    "start": "2147.565",
+    "end": "2149.390",
+    "parent_tu_id": "1409",
+    "text": "no, l'ha fatto lui così, questo qua"
+  },
+  {
+    "tu_id": "1412",
+    "speaker": "PST107_trad",
+    "start": "2148.960",
+    "end": "2150.240",
+    "parent_tu_id": "1411",
+    "text": "vediamo quanto è andato xxx"
+  },
+  {
+    "tu_id": "1414",
+    "speaker": "PST108_trad",
+    "start": "2150.780",
+    "end": "2151.230",
+    "parent_tu_id": "1413",
+    "text": "aspetta"
+  },
+  {
+    "tu_id": "1416",
+    "speaker": "PST108_trad",
+    "start": "2152.210",
+    "end": "2153.420",
+    "parent_tu_id": "1415",
+    "text": "è lui che ha fatto adesso x"
+  },
+  {
+    "tu_id": "1418",
+    "speaker": "PST107_trad",
+    "start": "2153.080",
+    "end": "2155.660",
+    "parent_tu_id": "1417",
+    "text": "anche lui fa confusione xxxx"
+  },
+  {
+    "tu_id": "1446",
+    "speaker": "PST107_trad",
+    "start": "2193.080",
+    "end": "2194.816",
+    "parent_tu_id": "1445",
+    "text": "@numero"
+  },
+  {
+    "tu_id": "1448",
+    "speaker": "PST107_trad",
+    "start": "2198.661",
+    "end": "2200.161",
+    "parent_tu_id": "1447",
+    "text": "mi trema questa"
+  },
+  {
+    "tu_id": "1450",
+    "speaker": "PST107_trad",
+    "start": "2202.190",
+    "end": "2204.583",
+    "parent_tu_id": "1449",
+    "text": "eccolo, il ventisette, domani, hai visto?"
+  },
+  {
+    "tu_id": "1453",
+    "speaker": "PST107_trad",
+    "start": "2206.290",
+    "end": "2209.340",
+    "parent_tu_id": "1452",
+    "text": "ecco, oggi è il ventisei, ecco xxxx"
+  },
+  {
+    "tu_id": "1455",
+    "speaker": "PST107_trad",
+    "start": "2213.859",
+    "end": "2217.480",
+    "parent_tu_id": "1454",
+    "text": "ei @yahya, anche questo bambino è stordito, xxxx"
+  },
+  {
+    "tu_id": "1475",
+    "speaker": "PST107_trad",
+    "start": "2242.291",
+    "end": "2243.599",
+    "parent_tu_id": "1474",
+    "text": "ha appena due..."
+  },
+  {
+    "tu_id": "1477",
+    "speaker": "PST107_trad",
+    "start": "2243.599",
+    "end": "2244.879",
+    "parent_tu_id": "1476",
+    "text": ""
+  },
+  {
+    "tu_id": "1480",
+    "speaker": "PST107_trad",
+    "start": "2245.500",
+    "end": "2248.437",
+    "parent_tu_id": "1479",
+    "text": "l'otto di marzo farà due mesi, ad aprile"
+  },
+  {
+    "tu_id": "1484",
+    "speaker": "PST107_trad",
+    "start": "2252.810",
+    "end": "2256.292",
+    "parent_tu_id": "1483",
+    "text": "l'otto di... ci siamo fatti una foto?"
+  }
+]

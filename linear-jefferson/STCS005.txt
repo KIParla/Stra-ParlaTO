@@ -103,7 +103,7 @@ PST105	[#*en peru come diciamo],
 PST104	[$estampare]
 PST103	[stampare]
 PST105	[impre~ impres]sione
-PST104	#_ [#imprimir]
+PST104	[#imprimir]
 PST104	#imprimir diciamo
 PST104	sì
 PST105	[poi stam]pa

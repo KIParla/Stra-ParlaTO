@@ -234,7 +234,7 @@ PST162	eh però tu #ya fatto la
 PST161	l'importante
 PST162	la terza media
 PST160	sì
-PST162	#_ ahora
+PST162	#ahora
 PST160	sì
 PST162	è finito la terza me~ sì la teza media mhmh
 PST166	ha già finito lei
@@ -331,9 +331,9 @@ PST160	parla con lui sì di~ $dicelo
 PST162	sì se no cercare #otro lavoro che #me #dé #tiempo
 PST162	#para #estudiar #porque #yo sono a a imparare
 PST160	veramente lo sì xxx
-PST161	te va a dejar
+PST161	#_ sí te va a dejar
 PST166	certo
-PST160	te xx
+PST160	#_ sí te xx
 PST162	#*sí eh #el #hecho #es #*que #*no #hay #nadie #*con #quién #*se #quede #*la nonna #*durante #el #día #por #eso #*que #él #es #*que #*no hay #como
 PST160	no è la sera
 PST160	#creo #que #es #de sei sette
@@ -610,12 +610,12 @@ PST160	parla con #tu #jefe
 PST162	mh
 PST160	#pa' la sera #porque #estudia sì
 PST162	#pa' #*la sera #*pa' #*la sera #porque lui xx
-PST160	#_ creo que eso no le xx (.) xx (.) xx
+PST160	#_ creo que eso no le xx xx xx
 PST162	sì lavora
-PST161	#_ que no lo va a meter pa' la siete (.) siete ocho x
+PST161	#_ que no lo va a meter pa' la siete siete ocho x
 PST162	#_ xx dónde está
 PST162	#_ ah no por eso x ahora sì
-PST161	no lo metes temprano
+PST161	#_ no no lo metes temprano
 PST161	#_ entonces
 PST161	#_ xx te podia hacer una xx un poquito más temprano
 PST160	#_ sí mas temprano pues también lo puedes meter a letto
@@ -803,7 +803,7 @@ PST160	prima sì
 PST166	eh okay
 PST160	prima #he andato tre mesi più o meno
 PST166	però non andava bene come orario
-PST160	#_ #*y
+PST160	#*y
 PST160	#no #sino #que #había $trovado #ya al cipia #de piossasco
 PST160	#y #*no puoi andare mh
 PST160	per la la ora che devi andare alle una #y mezza
@@ -919,8 +919,8 @@ PST166	ed è diciamo in zona di corso eh di corso giulio cesare
 PST160	ah okay
 PST161	#_ tu marido no xx pa' fuera
 PST166	e questo se vuoi invece è il centro interculturale
-PST161	para allá
-PST161	#_ @lucia ya fueron allá
+PST161	#_ vaya para allá
+PST161	#_ ya fueron allá
 PST166	che è il posto
 PST166	dove si fa anche eh se ti interessa se ti interessa poi in un futuro
 PST166	eh il bi uno per la cittadinanza
@@ -1068,9 +1068,9 @@ PST166	per il corso oss
 PST160	perché ogni cipia x #otros corso perché xx #el italiano
 PST160	però il corso che x italiano no è #*de sera per cipia xx
 PST162	eh a~ ancora #si #es cipia
-PST160	#_ es que (.) eh son diferentes
+PST160	#_ es que eh son diferentes
 PST162	eh
-PST162	#_ porque mi x (.) ha estado en rivoli cipia
+PST162	#_ porque mi x ha estado en rivoli cipia
 PST160	mh #ya però nel corso di italiano
 PST160	o della terza media
 PST162	mh della terza media
@@ -1079,12 +1079,12 @@ PST160	è #segura
 PST160	#_ no creo
 PST160	#_ ese se inscribió el el año pasado para terminar ahora
 PST162	xxx xxx xxx
-PST160	ser
+PST160	#_ debe ser
 PST160	#será il corso #italian
 PST162	#_ cuando empienzan a estudiar
 PST162	xxxx
 PST160	xxx
-PST162	#_ pero
+PST162	#pero
 PST162	#_ xxx
 PST166	se tu vuoi lasciarmi o un numero di telefono o una mail
 PST161	sì sì sì sì

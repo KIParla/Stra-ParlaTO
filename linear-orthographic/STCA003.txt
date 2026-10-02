@@ -44,13 +44,12 @@ PST108	mh
 PST217	eh
 PST217	lì ci son le ferie
 PST217	in germania
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST110	#_ arabo
-PST108	#_ arabo
-PST110	#_ arabo
-PST108	#_ arabo
+PST108	#_ as-salāmu wa-raḥmatu ḷḷāh
+PST108	#_ lābas w-nta ka-ybqāti xxx
+PST110	#_ səwwəlti fi-ya ʕayyī-ti ʕlī-ya səwwəlti fi-ya
+PST108	#_ wḷḷāh xū-ya ma ma fhəmt-sh ṣāfi məglūb anāya ma-ddī-sh ʕlī-ya
+PST110	#_ al-ḥamdu li-ḷḷāh
+PST108	#_ bāqi məglūb zəʕma mən l-maghrib ma-ddi-sh ʕlī-ya
 PST108	ah lui è parrucchiere
 PST217	anche
 PST217	ah ah beh è elegante
@@ -107,31 +106,36 @@ PST107	in germania c'è anche bidoni di dieci litri di birra
 PST217	sì
 PST217	sì
 PST108	sì loro
-PST107	#_ arabo
-PST108	#_ arabo
-PST110	#_ arabo
-PST108	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
+PST107	#_ shḥāl ʕand-i təmma
+PST108	#_ ṣāfi wāh ʕā rəbʕa ʔūrū xū-ya
+PST110	#_ xx shḥāl dyāl xxx
+PST108	#_ əyyāh
+PST107	ecco #l-roppo #dyāl-ək
+PST108	#_ wāḥəd sḥīb-i
+PST107	#_ juj roppo ʕlī-k
+PST108	#_ l-ifṭar dyāl l-fṭar
+PST108	#_ l-fṭūr fi-l-fṭūr w-la f-r-ramḍān
+PST107	#_ fi-r-ramḍān
+PST108	#_ fi-r-ramḍān āna kān l-fṭar ʕan f-l-ḥanūt
+PST108	#_ f-l-ḥanūt
 PST107	ah
-PST108	#_ arabo
-PST108	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST107	#_ arabo
+PST108	#_ ka-nmshi ka-nlqā-h mwəjjəd kull shi
+PST108	#_ xass-ək shi nhar tmshi tfṭar mʕā-ya təmma
+PST107	#_ fīn
+PST108	#_ ʕand a-saḥb-i
+PST107	#_ lā lā
+PST108	ah
+PST107	#_ nrāyḥu f-d-dār mwalləf eh
+PST108	#_ w-d-dar imta ghādi tmshi tṭayyəb
+PST108	#_ w-imta ghā-tmshi ṭtayyəb hna ma-ka-nsalīw tta-l-sətta w-nuṣṣ
+PST107	#_ ka-tsāli mən l-roppo
+PST108	#_ bḥāl-ha bghiti tmshi tṭayyəb nta w-marḥba
+PST107	#_ ḥna bghina nḍarbu t-tajin bi-l-iddīn
+PST108	#_ wa fīn hūwa ramḍān ma-kāyn roppo
+PST108	#_ tal l-fṭūr tta l-fṭor w-nbarrəʕ xxx
+PST107	#_ nshaḷḷāh
+PST107	#_ ʕa nbarrʕu hna nta sīr ʕand mmu-k
+PST107	#_ l-bəgri w-dāk sh-shi
 PST107	hai capito niente
 PST211	no
 PST217	no
@@ -146,19 +150,21 @@ PST110	tutto parlare con
 PST110	con mangiare
 PST110	non parlare
 PST217	eh sì
-PST217	eh lo sapeva
+PST217	eh lo sapevo
 PST211	eh ci credo
 PST108	solo
-PST107	#_ arabo
-PST110	#_ arabo
-PST110	#_ arabo
+?	#_ wāḥəd litri dyāl l-ḥlīb ḷḷāh yḥafḍ-ək
+PST110	#_ hā hūwa hā hūwa xūya wrā t-tīd
+?	#_ fin hūwa
+PST110	#_ hā hūwa shūf
 PST108	mamma mia che freddo c'è oggi
 PST211	sì oggi sì ma anche ieri c'era freddo ma almeno c'era il sole oggi invece
 PST108	no ma ieri meno oggi mamma mia oggi troppo
 PST211	eh
-PST110	#_ arabo
-PST217	ma voi lo conoscete il ristorante al jazira
-PST108	sì al jazira sì
+?	#_ hūwa hāda
+PST110	#_ āh hūwa hādak
+PST217	ma voi lo conoscete il ristorante #al-jazīra
+PST108	sì #al-jazīra sì
 PST217	ci andate
 PST108	vado sempre io lì
 PST217	sì
@@ -174,8 +180,8 @@ PST108	sì
 PST217	sì voleva~
 PST108	ma anche voi mandate andate a mangiare là
 PST217	io non sono mai stata ma volevamo andarci
-PST211	sì io sono stata al dar al hikma
-PST108	dar al hikma sì so
+PST211	sì io sono stata al #_ dār əl-ḥikma
+PST108	#dar #dār əl-ḥikma sì so
 PST108	sì
 PST108	lo forniamo noi gli diamo la carne noi
 PST211	mh
@@ -183,24 +189,24 @@ PST211	che scendi ah okay
 PST211	okay
 PST108	sì
 PST211	sì sì
-PST107	#_ arabo
+PST107	#_ ʕā ddīr lī-ha l-ḥalwa
 PST211	che scendi
 PST108	sì
 PST211	sì
-PST108	anche anche al jazira lo forniamo noi prima adesso no
+PST108	anche anche #al-jazīra lo forniamo noi prima adesso no
 PST211	due volte già sono andata
 PST211	okay
-PST108	dar al hikma sì lo forniamo adesso noi
+PST108	#_ dār al-ḥikma sì lo forniamo adesso noi
 PST211	ah
 PST211	è molto bello sotto
-PST108	sì dar al hikma sì tranquillo
-PST107	cosa ha mangiato
+PST108	sì dār al-ḥikma sì tranquillo
+PST107	cosa ha mangiato xxx
 PST211	ho mangiato
-PST107	#_ bissara
+PST107	#_ bṣṣāra
 PST211	eh
 PST211	non mi mettere in difficoltà
 PST108	ma
-PST211	ho mangiato no il couscous e la #ṭājīn
+PST211	ho mangiato no il #kūskūs e la #ṭajīn
 PST107	brava
 PST211	sì
 PST211	e i dolcettini vari
@@ -213,13 +219,13 @@ PST211	molto buona mh mh
 PST211	sì sì
 PST108	mh
 PST211	ehm
-PST108	anche al jazira è bella tranquilla hanno anche da mangiare buonissimo sì
+PST108	anche #al-jazīra è bella tranquilla hanno anche da mangiare buonissimo sì
 PST211	mh
 PST211	mh mh
 PST108	mh
 PST211	cosa sono le due cose che mi hai detto
-PST108	#_ bissara
-PST107	#_ bissara
+PST108	#_ bṣṣāra
+PST107	#_ bṣṣāra
 PST108	la zuppa
 PST107	la zuppa
 PST108	quella quella che si fa con fave
@@ -231,8 +237,8 @@ PST211	perché sono andata una volta
 PST107	no caldo
 PST211	eh
 PST211	sono andata una volta e abbiamo fatto menù completo dall'antipasto al dolce
-PST211	e un'altra volta invece ho preso solo il couscous
-PST108	com'è il couscous buono
+PST211	e un'altra volta invece ho preso solo il #kūskūs
+PST108	com'è il #kəskūs buono
 PST211	buono
 PST108	sì
 PST211	con le verdure però l'ho preso
@@ -240,9 +246,9 @@ PST108	sì con le verdure le verdure sì
 PST211	mh
 PST211	sì sì
 PST211	molto carino
-PST107	#_ arabo
+PST107	#_ xūya
+PST107	#_ hā hūwa hna
 PST211	poi ha una zona con i tavoli e con i divanetti
-PST211	xxx
 PST217	ah sì
 PST211	siamo andati
 PST211	eh dopo il con~ convegno che abbiamo fatto qua a torino a novembre
@@ -250,22 +256,22 @@ PST211	eravamo in
 PST211	venti persone più o meno
 PST211	e quindi ci hanno fatto il menù completo dall'antipasto alla fine
 PST108	ah sì sì sì sì
-PST211	e ci hanno portato queste pen~ una #ṭājīn
-PST211	un o una #ṭājīn
-PST108	un #ṭājīn
-PST211	un #ṭājīn grande così pienissimo
-PST211	già però avevamo mangiato l'antipasto il couscous così quindi
+PST211	e ci hanno portato queste pen~ una #ṭajīn
+PST211	un o una #ṭajīn
+PST108	un #ṭajīn
+PST211	un #ṭajīn grande così pienissimo
+PST211	già però avevamo mangiato l'antipasto il #kūskūs così quindi
 PST108	sì
 PST211	io cioè vabbè l'ho assaggiata era molto buona c'erano due altri nostri colleghi
 PST211	che se lo sono mangiato tutto loro e io tipo cosa come fate
 PST211	sì
 PST211	e
-PST217	e cosa significa al jazira
+PST217	e cosa significa #al-jazīra
 PST108	come
-PST107	al jazira
-PST217	cosa significa al jazira
+PST107	#_ al-jazīra
+PST217	cosa significa #al-jazīra
 PST107	una
-PST108	al jazira le le
+PST108	#al-jazīra le le
 PST108	come si chiama eh le
 PST108	isola
 PST217	isola
@@ -287,10 +293,10 @@ PST108	siamo andati
 PST217	ah
 PST211	in che moschea andate
 PST108	questa qua
-PST211	afa~ afaq
+PST211	#afa~ #afāq
 PST211	no
-PST108	#el afaq sì
-PST211	afaq
+PST108	#əl-afāq sì
+PST211	#afāq
 PST108	sì
 PST108	sei andata tu
 PST211	eh no però ce ne ha parlato
@@ -315,9 +321,9 @@ PST108	sì sì
 PST211	mh
 PST108	poi sono andati a mangiare
 PST108	da
-PST108	kartaj
+PST108	#_ qarṭāj
 PST211	okay sì ce l'ha nominato anche questo ristorante
-PST108	del mata~ marrakech kartaj
+PST108	del #matʕam #marrākəsh qarṭāj
 PST211	sì
 PST211	sì
 PST108	però quel lì
@@ -326,26 +332,35 @@ PST108	no quello
 PST211	non ha non hanno la vostra carne
 PST108	no no no è che là anche da mangiare non è
 PST211	mh
-PST108	non è come al jazira anche
+PST108	non è come #al-jazīra anche
 PST211	mh
 PST108	che
 PST108	questa qua
 PST211	mh mh
-PST211	quando avrò una casa più grande una cucina più grande voglio comprarmi il #ṭājīn e farmela
-PST108	#ṭājīn sì
+PST211	quando avrò una casa più grande una cucina più grande voglio comprarmi il #ṭajīn e farmela
+PST108	#ṭajīn sì
 PST211	sì
 PST217	com'è che si cioè si mette direttamente sul fuoco
 PST108	sì
 PST217	in forno però no
 PST108	sì in forno sì sì
 PST108	sì sì
-PST110	#_ salam aleiku
-PST108	x aleiku
-PST107	#_ arabo
-???	#_ salam aleikum
+???	#_ s-salāmu ʕalāy-kum kull shi labās
+PST108	#_ s-salāmu ʕalāy-kum
+PST107	#_ xū-ya
+PST108	#_ ki dāyr
+???	#_ ahlan ahlan ahlan
+???	#_ kull shi b-xīr w-ʕla xīr
+PST108	#_ eh b-xīr
+PST107	#_ ki dāyr al-mʕāllə m kull shi b-xīr hāni
+???	#_ s-salāmu ʕalāy-kum
+PST108	#_ ḷḷāh yḥafḍ-ək xamsa
+???	#saxsiyyən eh tutto bene
+???	#_ s-salāmu ʕalāy-kum
 ???	tutto bene ragazzi
 PST217	sì
-???	#_ arabo
+???	#_ l-ḥamdu li-ḷḷāh ramāḍān karīm yāḷḷāh xū-ya sīr aḷḷāh yḥafḍ-ək
+PST108	#_ aḷḷāh yḥafḍ-ək xx
 PST107	marocchi~ marocchino hanno mangiato
 PST107	xxx no~ normali
 PST211	mh penso tutti senza cibo saremmo così quindi
@@ -363,9 +378,9 @@ PST211	ah
 PST217	è un è è un buddha
 PST110	cosa
 PST108	lo trovi
-PST110	#_ arabo
+PST110	#_ āsh gəlti nta
 PST108	niente
-PST110	#_ arabo
+PST110	#_ tədwi mʕā-ya b-l-ʕarbiyya
 PST107	hai sentito cosa ho parlato
 PST107	no non parla italiano lui
 PST110	no
@@ -379,8 +394,8 @@ PST107	vieni e parli no
 PST211	dai vieni
 PST108	devi imparare qua dai
 PST107	imparare adesso
-PST110	#_ arabo
-PST108	#_ arabo
+PST110	#_ wālākīn fhəmti
+PST108	xxx
 PST107	la carica batteria è finita
 PST211	ah eh hai ragione
 PST107	zero zero
@@ -397,7 +412,7 @@ PST211	dobbiamo venire una volta che è finito il ramadan così vediamo la diffe
 PST108	sì
 PST108	brava
 PST108	brava sì
-PST110	vengo #inshā #llāh voi vede
+PST110	vengo #nshāḷḷāh voi vede
 PST211	ah
 PST108	mh
 PST108	lo trovi lui con con un bicchiere di tè qua
@@ -407,12 +422,12 @@ PST217	o no
 PST108	no lui e lui sì
 PST217	voi
 PST217	ah
-PST110	#_ arabo
-PST108	#_ arabo
+PST110	#_ ashna hūwa ashnu
+PST108	#_ gālət-lik wāsh ntūma ʕāʔila
 PST110	ah sì
 PST217	siete cugini no
 PST110	mio cugino sì
-PST110	#_ arabo
+PST110	#_ lli yhdər mʕā-k gūl-līh ntūma xxx
 PST108	però è origini da la stessa città in marocco
 PST217	loro due voi due eh
 PST108	no sì noi t~ insieme
@@ -423,9 +438,9 @@ PST108	la stessa città
 PST217	ah
 PST108	però ognuno dove è nato
 PST217	e come si chiama la città
-PST108	rḥāmna
-PST108	vicino marrakech
-PST217	vicino marrakech
+PST108	#_ rḥāmna
+PST108	vicino #marrākəsh
+PST217	vicino #marrākəsh
 PST217	mh okay quindi ra~ siete amici di infanzia
 PST108	sì
 PST108	sì sì
@@ -438,9 +453,9 @@ PST217	ah lui
 PST108	sì
 PST108	lo stesso cognome
 PST217	mh
-PST110	$bienvenuti a rḥāmna conosci rḥāmna
+PST110	benvenuti a #rḥāmna conosci #rḥāmna
 PST211	eh no
-PST110	#_ arabo
+PST110	#_ īd
 PST108	dobbiamo portarla in marocco
 PST211	eh sì
 PST217	eh sì
@@ -511,19 +526,18 @@ PST108	ah
 PST211	sarà divertente sentirlo parlare perché
 PST108	c'è anche un nostro amico a ams~ amsterdam sì
 PST211	ah ah
-PST108	che fa l'imam lì
+PST108	che fa #l-imām lì
 PST211	mh
-PST108	l'imam della moschea sì
+PST108	#l-imām della moschea sì
 PST217	bello
 PST211	mh mh
 PST108	mi ha mandato un messa~ ah video questa qua aspetta
 PST217	ma voi avete deciso di deciso di venire insieme
 PST108	lui
 PST108	questa non è una moschea aspetta
-PST108	mosche~ islam
+PST108	mosche~ islām
 PST108	xxx
-PST217	mehdi
-PST108	lui si chiama el mehdi
+PST108	lui si chiama al-mahdī
 PST217	ah
 PST108	il suo nome
 PST217	ma è quello che canta
@@ -622,17 +636,18 @@ PST217	ah
 PST217	bravo
 PST108	sì
 PST211	mh
-PST107	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
+PST107	#_ ṣaḥbi xxx
+PST108	#_ lā aluminium ma-kāyn-sh a-@rayan kāynīn ʕā plastique kull-hūm plastique
+PST108	#_ shḥāl ḥsəb-ha ʕlī-k
+PST108	#_ ʕāshrīn dyāl plastique w-lā dyāl djāj
+PST108	#_ lā w-l-kās kās
+PST108	#_ aluminium
+PST108	#_ ṛāh məzyāna hādīk xdīti-ha b-ʕāshrīn wḷḷāh ḥta zwīna ma-ʕand-nā-sh ḥna gaʕ hādi dyāl
+PST108	#_ hādi dyāl kās dyāl aluminium ma-ʕand-nā-sh ḥnāya
+PST110	quanti euro due euro
+PST108	#_ hādāk hūwa tmān-u
+PST108	#_ ḥnāya dāyrīn lī-h tməntāsh shtī-h
+PST108	#_ xəmstāsh məzyān
 PST217	e ti ricordi come hai fatto
 PST217	a imparare l'italiano
 PST108	eh sì così
@@ -686,19 +701,17 @@ PST107	non c'è la famiglia di là di marocco
 PST217	ah okay fa avanti e indietro
 PST107	sì sì
 PST217	mh mh
-PST108	#_ arabo
-PST107	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
-PST110	#_ arabo
-PST107	#_ arabo
+PST108	#_ āsh gālət xx
+PST107	#_ gāl-līk ṣāfi ghədda njīw nḥəkku w-baʕd ghədda njīw nṣəbghu gəlt-līh ṣāfi
+PST107	#_ ghədda tji sāʕa qbəl hhukk w-nʕaṭ-ək s-sullam w-baʕd ghədda tṣəbghu ḷḷāh yrḥam lī-kūm l-wālīdīn
+PST107	#_ ḷḷāh yrḥam lī-kūm l-wālīdīn ḷḷāh yḥafḍ-ək
 PST217	e secondo voi
 PST108	sì
 PST217	tante persone fanno così che imparano l'italiano
 PST108	sì sì sì
 PST217	sì
 PST211	al lavoro
-PST107	#_ arabo
+PST107	#_ shukran tta l-ghədda nshāḷḷāh ḷḷāh yḥafḍ-ək
 PST108	sì
 PST217	ah ah
 PST217	vabbè
@@ -707,7 +720,6 @@ PST108	se non hai famiglia qua se non hai genitori come fai a andare a scuola
 PST211	mh
 PST108	chi ti dà da mangiare se non hai
 PST217	mh mh
-PST108	#_ arabo
 PST108	hai capito
 PST217	sì sì sì sì sì
 PST108	mh
@@ -811,7 +823,7 @@ PST217	e voi non capite
 PST108	trovato anche
 PST108	trovato anche u~ eh
 PST108	gruppo
-PST108	eh a marrakech
+PST108	eh a marrākəsh
 PST108	di grecia
 PST217	ah ah
 PST108	sì
@@ -855,7 +867,7 @@ PST108	sì
 PST211	ah okay
 PST107	figlio di
 PST108	lui vive
-PST108	vive con manuele sì
+PST108	vive con sì
 PST217	figlio
 PST107	no che
 PST107	pari di figlio di mh capito sì
@@ -915,10 +927,10 @@ PST108	no no
 PST108	dico quello la tipo mia stro~ storia tipo
 PST217	ma e e il libro come si intitola e dove sei tu
 PST108	se le trovo domani ma ho il libro qua
-PST108	#_ arabo
-PST107	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
+PST108	#_ l-ktāb kān hnāya ma-ʕart fīn hūwa
+PST107	#_ lāḥna-hum
+PST107	#_ dyāl ḥadīt hādāk lāḥti-h
+PST108	#_ lā māshi hādāk
 PST110	del
 PST108	te le porto te le porto
 PST217	sì
@@ -939,9 +951,8 @@ PST108	no no no te lo porto te lo porto
 PST217	faccio le fotocopie
 PST108	ce l'ho ce l'ho a casa ce l'ho
 PST108	avevo anche uno qua non mi ricordo dov'è
-PST107	#_ arabo
-PST110	#_ arabo
-PST107	#_ arabo
+PST107	#_ ṣāfi naḍḍaf a-@ahmed
+PST107	xxx
 PST108	e così
 PST217	eh stasera anche in realtà però non so se
 PST217	andiam~ eh hanno una una riunione
@@ -952,7 +963,7 @@ PST217	eh volevamo
 PST211	sì sì
 PST217	sì
 PST217	cioè al
-PST211	al dar el hikma
+PST211	al #dār əl-ḥikma
 PST108	ah
 PST211	con la sua associazione sai che ha
 PST108	sì sì sì
@@ -984,8 +995,21 @@ PST108	sì
 PST108	siamo stati tante volte
 PST108	cioè quando andiamo lì è come casa nostra lì
 PST211	mh mh
-sottofondo	conversazione in arabo con clienti
-sottofondo	arabo
+????	#_ w-sālām
+PST107	#nʕam
+PST110	#_ xaṣṣ-ək l-flūs w-lā
+PST107	#_ xaṣṣ-ək tmshi l-būsṭa
+PST107	#_ bāghi tqadda nta
+????	#briusha
+????	#_ ah āsh bghīti xūdi āsh bghīti
+PST108	#_ dāyra ʕāshra ʔūrū
+????	vieni a prendere cosa vuoi
+????	lascia stare
+????	prendi qua prendi prendi
+????	prendi questa
+????	marocco questa roba di marocco
+????	prendi una di questo
+????	#_ ṛāh ma-bghāt taxud wālu hādi
 PST217	se vuoi vi faccio una foto
 PST108	sì certo
 PST108	voglio fare quello senza va bene senza dai
@@ -993,34 +1017,32 @@ PST217	dopo le stampo e ti faccio vedere
 PST108	vieni tutti assieme qua vieni tre
 PST217	mi ese~ mi esercito
 PST108	sì
-PST107	#arabo foto
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST107	#_ arabo
-PST107	#_ arabo ((ride))
+PST107	#ghā-ndīr foto
+PST108	#_ w-tta āji l-hna nta xāyəf ghādi ysəḥru lī-k nta wəjh-ək ṭāyəḥ zīd
+PST108	#_ ṭʕala a-ṣaḥbi
+PST108	#_ āṛa ntṣawwru mʕa n-nās ṛāh bāgha tṣawwer
+PST107	#_ sīr tṣawwer xxx xuribga
+PST107	#_ xxx
 PST108	metti ancora se vuoi insieme
 PST107	anche lui
 PST107	lui è $vendri verdura tutti eh
 PST107	brava grazie eh xxx
 PST217	dai come siete fotogenici
-PST107	ah #arabo
+PST107	#_ hāk a-@farid ṣāfi xx
 PST217	però non vi assicuro che vengano bene
 PST217	perché mi sto esercitando
 PST107	non vi viene
 PST217	però
 PST108	non vediamo qui
 PST107	va bene vai tranquilla
-PST107	#_ arabo
-PST107	#_ arabo
-PST107	#_ arabo
-PST110	#_ arabo
-PST110	#_ arabo
-PST107	#_ arabo
-PST107	#_ arabo
-PST107	#_ arabo
-PST110	#_ arabo
-PST107	#_ arabo
+PST107	#_ ghā-tmshi a-xūya
+PST107	#_ eh fī-h l-jamal
+PST110	#_ fīn hūma
+PST107	#_ hāk a-xūya
+PST107	#_ wāḥəd w-tsʕīn məzyāna
+PST107	#_ ṣāfi sīr aḷḷāh ysaʕd-ək
+PST110	#_ sədd mʕā-k a-@ʕabd l-raḥīm
+PST107	#_ jərr mʕā-k hādāk l-bāb a-xūya aḷḷāh yḥafḍ-ək kāyn l-bərd
 PST217	aspetta che viene buia
 PST107	bella
 PST110	eh beh
@@ -1035,29 +1057,27 @@ PST217	questa è un po' buia
 PST211	sì
 PST217	è un po' buia
 PST217	ocio voi due
-PST107	#arabo
+PST107	#_ hā hīya tṣwārt-ək
 PST107	adesso è a posto
 PST217	eh
 PST110	senti
-PST108	#_ arabo
+PST108	#_ tlāta xāmsīn
 PST217	dimmi
 PST110	eh fare le foto per andare fare la guerre sì
 PST217	in che senso no
 PST108	è scemo questo
-PST107	arabo
+PST107	#_ mā zāl ʕā ʕand-ək mā zāl ʕand-na xx secondi
 PST217	ah allora
-PST108	#_ arabo
-PST110	#_ arabo
-PST108	#_ arabo
-PST110	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
+PST108	#mā zāl camera secondi xxx #_ bāqi jīb wāḥəd l-hāja xra
+PST108	#_ xūd l-zītūn
+PST108	#_ w-s-salāmu ʕalāy-kum
+PST108	#_ ah āshnu hāda
+PST108	#_ yāk nta dāba maghrībī w-lā tunsī ya-saḥbi
 PST110	dammi vedere
-PST107	dammi vedere fammi vedere
-PST108	fammi vedere
+PST108	dammi vedere fammi vedere
+PST110	fammi vedere
 PST217	eh è che
-PST108	#_ arabo
+PST107	#_ ma-ka-ybānu-sh gālt-līk mʕa
 PST217	non so se
 PST217	non so se è troppo buia
 PST217	loro due ne rifaccio un'altra
@@ -1066,10 +1086,10 @@ PST107	perché lui è brutto come fa a venire la foto è bella
 PST217	no se vedi
 PST217	siete
 PST217	state bene
-PST107	#_ arabo
+PST107	#_ mā-tdūr-ək-sh tt āna
 PST217	è che la macchina fotografica
 PST107	ma lui bru~ bruttissimo come fa a venire la foto bella
-PST110	mi datoperò
+PST110	mi dato però
 PST110	mi prendi la canon non nik
 PST107	canon bella sentito cosa ha parlato lui
 PST110	ah sì sì
@@ -1086,19 +1106,18 @@ PST107	hai capito
 PST217	eh
 PST217	sì
 PST110	lui scherza
-PST107	ha fumato #arabo
+PST107	ha fumato #ʕamr-ək quello lì
 PST107	hai capito
 PST217	no dai
-PST107	lui #arabo la fuma
-PST110	#_ arabo
-PST107	eh
+PST107	lui xxx la fuma
+PST107	#_ wāh ah xass-ək tmuṣṣ fī-h
 PST217	beh se sono venute bene
 PST217	questo è il regalo che vi faccio
 PST217	vediamo se sono venute bene
 PST217	le incorniciate
 PST211	le stampiamo
 PST217	anche una
-PST107	#_ arabo
+PST107	#_ ʕālāmī ṣāfi
 PST217	siete i miei modelli
 PST217	per imparare
 PST108	sì
@@ -1114,14 +1133,13 @@ PST108	prendi un cavalletto davvero
 PST217	sì
 PST217	sì domani
 PST217	pomeriggio
-PST108	xxx
-PST110	#_
+PST108	#_ shḥāl drāwəsh
+PST110	#_ gūl lī-ha
 PST217	a a grugliasco
-PST110	#_ arabo
-PST110	xxx
+PST110	#_ gūl lī-ha dāk sh-shi ʕla gūl lī-ha gāl-līk dāk sh-shi ʕlāsh ma-kbərti-sh ka-tbqāy tḍaḥki
 PST217	beh se xxx xxx
 PST211	e come ci vai a gru~
-PST107	hai sentito cosa ha parlato #arabo
+PST107	hai sentito cosa ha parlato #_ bū fumm
 PST107	e ridi troppo è ancora giovane
 PST107	sì
 PST108	lui lui sta dicendo
@@ -1131,31 +1149,31 @@ PST217	forse non lo so
 PST107	eh
 PST217	chissà speriamo
 PST217	beh anche voi allora
-PST107	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST108	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
-PST107	#_ arabo
-PST107	#_ arabo
-PST107	#_ arabo
+PST107	allora #_ fumm-ha ṭāyəḥ ʕlī-h
+PST107	#_ tqaddīti l-ḥūt la dərti mʕā-ya ṣ-ṣwāb
+PST108	xxx
+PST108	#_ xūya dīr li-na l-baṣtīla
+PST108	#_ dīr shi baṣtīla kbīra
+PST107	#_ ṣāfi gūl-līh āji tta naklu
+PST108	#_ w-yfṭar bi-l-ləbən ghədda
+PST107	#_ gūl lī -h yʕləm-ni
+PST107	#_ nʕalmu-hum ydīru l-fṭūr dāba
+PST107	mh
 PST108	forse da da lì arriva
 PST217	mh
 PST108	arriva bene da lì
 PST107	prova da lì
 PST108	com'è
 PST217	in realtà è un po' buio
-PST107	#_ arabo
-PST107	#_ arabo
-PST107	#_ arabo
-PST108	#_ arabo
-PST110	#_ arabo
-PST108	#_ arabo sgrassatore
+PST107	#_ kun kānət shi maghrībī kun ṛ- maghrībīyya kun ṛāh xāyfa
+PST107	#_ ghā-ydīru l-sḥər w-yḥallu fumm-hum
+PST107	#_ nta ʕla zine-k ghay saḥru ʕla fumme-k tayeḥ
+PST110	#_ nta ʕla zine-k ghay saḥru ʕla fumme-k tayeḥ
+PST108	#_ a-wīlī shū kī dāyr a-wīlī
+PST110	#_ mʕāsh gəlt-līk ghādi ysəḥru ʕlī-ya
+PST108	xx xx
 PST217	se tu
-PST108	#_ arabo
-PST108	#_ arabo
-PST110	#_ arabo
+PST108	#_ xx mā-tṣawwər-ni-sh
+PST108	#_ l-carabinieri w-mā-ysəkktu-na-sh bḥāl hākka
+PST110	xxx
 PST108	ah
-PST110	#_ arabo

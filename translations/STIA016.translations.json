@@ -40,155 +40,155 @@
     "text": "sì, però con moderazione"
   },
   {
-    "tu_id": "14",
+    "tu_id": "15",
     "speaker": "PST078_trad",
     "start": "19.460",
     "end": "23.230",
     "parent_tu_id": "13",
-    "text": "il nostro italiano è da mercanti"
+    "text": "siamo italiani, il nostro italiano è da mercanti"
   },
   {
-    "tu_id": "16",
+    "tu_id": "17",
     "speaker": "PST078_trad",
     "start": "24.340",
     "end": "25.460",
-    "parent_tu_id": "15",
+    "parent_tu_id": "16",
     "text": "eh non"
   },
   {
-    "tu_id": "18",
+    "tu_id": "19",
     "speaker": "PST233_trad",
     "start": "26.590",
     "end": "27.400",
-    "parent_tu_id": "17",
+    "parent_tu_id": "18",
     "text": "va bene"
   },
   {
-    "tu_id": "22",
+    "tu_id": "23",
     "speaker": "PST078_trad",
     "start": "34.590",
     "end": "36.000",
-    "parent_tu_id": "21",
+    "parent_tu_id": "22",
     "text": "parlami"
   },
   {
-    "tu_id": "24",
+    "tu_id": "25",
     "speaker": "??_trad",
     "start": "36.140",
     "end": "37.330",
-    "parent_tu_id": "23",
+    "parent_tu_id": "24",
     "text": "nome"
   },
   {
-    "tu_id": "32",
+    "tu_id": "33",
     "speaker": "??_trad",
     "start": "53.080",
     "end": "55.580",
-    "parent_tu_id": "31",
+    "parent_tu_id": "32",
     "text": "parla per stessa"
   },
   {
-    "tu_id": "42",
+    "tu_id": "43",
     "speaker": "PST078_trad",
     "start": "77.980",
     "end": "79.280",
-    "parent_tu_id": "41",
+    "parent_tu_id": "42",
     "text": "vai vai (lit. affidati a dio)"
   },
   {
-    "tu_id": "278",
+    "tu_id": "279",
     "speaker": "PST233_trad",
     "start": "698.880",
     "end": "699.800",
-    "parent_tu_id": "277",
+    "parent_tu_id": "278",
     "text": "vivere in italia è faticoso (lit. l'italia delle fatiche)"
   },
   {
-    "tu_id": "280",
+    "tu_id": "281",
     "speaker": "PST078_trad",
     "start": "700.050",
     "end": "701.950",
-    "parent_tu_id": "279",
-    "text": "scrivi ciò che potrebbe andare bene"
+    "parent_tu_id": "280",
+    "text": "scrivi solo ciò che potrebbe andare bene"
   },
   {
-    "tu_id": "452",
+    "tu_id": "453",
     "speaker": "??_trad",
     "start": "1194.180",
     "end": "1195.440",
-    "parent_tu_id": "451",
+    "parent_tu_id": "452",
     "text": "ma..."
   },
   {
-    "tu_id": "457",
+    "tu_id": "458",
     "speaker": "??_trad",
     "start": "1209.620",
     "end": "1210.810",
-    "parent_tu_id": "456",
+    "parent_tu_id": "457",
     "text": "cioè se"
   },
   {
-    "tu_id": "459",
+    "tu_id": "460",
     "speaker": "??_trad",
     "start": "1211.910",
     "end": "1212.640",
-    "parent_tu_id": "458",
-    "text": "ti sei integrata con"
+    "parent_tu_id": "459",
+    "text": "ti sei integrata con loro in- ti sei integrata con con"
   },
   {
-    "tu_id": "461",
+    "tu_id": "462",
     "speaker": "PST078_trad",
     "start": "1216.430",
     "end": "1219.370",
-    "parent_tu_id": "460",
+    "parent_tu_id": "461",
     "text": "sì mi sono integrata con gli italiani"
   },
   {
-    "tu_id": "465",
+    "tu_id": "466",
     "speaker": "PST078_trad",
     "start": "1225.520",
     "end": "1226.060",
-    "parent_tu_id": "464",
+    "parent_tu_id": "465",
     "text": "bene"
   },
   {
-    "tu_id": "467",
+    "tu_id": "468",
     "speaker": "PST078_trad",
     "start": "1227.300",
     "end": "1229.230",
-    "parent_tu_id": "466",
+    "parent_tu_id": "467",
     "text": "bene, sono loro le persone brave"
   },
   {
-    "tu_id": "469",
+    "tu_id": "470",
     "speaker": "PST233_trad",
     "start": "1229.220",
     "end": "1230.360",
-    "parent_tu_id": "468",
+    "parent_tu_id": "469",
     "text": "in italiano"
   },
   {
-    "tu_id": "527",
+    "tu_id": "528",
     "speaker": "PST233_trad",
     "start": "1384.330",
     "end": "1385.145",
-    "parent_tu_id": "526",
+    "parent_tu_id": "527",
     "text": "basta"
   },
   {
-    "tu_id": "529",
+    "tu_id": "530",
     "speaker": "PST233_trad",
     "start": "1385.710",
     "end": "1386.710",
-    "parent_tu_id": "528",
+    "parent_tu_id": "529",
     "text": "hai raccontato tutto"
   },
   {
-    "tu_id": "531",
+    "tu_id": "532",
     "speaker": "PST078_trad",
     "start": "1386.890",
     "end": "1391.760",
-    "parent_tu_id": "530",
+    "parent_tu_id": "531",
     "text": "abbiamo raccontato tutto quelllo che ci è venuto in mente"
   }
 ]

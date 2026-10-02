@@ -396,7 +396,7 @@ PST092	lunedì alle diciotto
 PST086	no dopo finisco di fare
 PST085	lunedì alle diciotto
 PST203	alle diciotto ci sei
-PST086	#_ yes
+PST086	#yes
 PST211	eh la povera poi deve tornare a druento
 PST203	okay c'è
 PST094	no ma qualcuno che lo fa che fa eh l'intervista
@@ -953,7 +953,7 @@ PST092	sì anche perché la storia del bullismo era tra l~ le migliori e la mia 
 PST203	perché conosci l'argomento
 PST092	perché io me ne intendo
 PST087	a che ora facciamo l'intervista
-PST085	vino încoace aicea
+PST085	#_ vino încoace aicea
 PST203	appena vi decidete
 PST087	perché mi sa che loro tra mezz'ora devono entrare a danza
 PST211	e allora adesso

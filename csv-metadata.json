@@ -208,12 +208,6 @@
             "dc:description": "Transcription unit id, 0-based."
           },
           {
-            "name": "unit",
-            "titles": "unit",
-            "datatype": "integer",
-            "dc:description": "DEPRECATED — pure duplicate of tu_id, superseded by `id`. Still present in files no patch has touched yet; dropped by tools/make_patch.py as each conversation is repatched. See tools/PIPELINE.md."
-          },
-          {
             "name": "id",
             "titles": "id",
             "datatype": "integer",
@@ -273,13 +267,13 @@
             "name": "variation",
             "titles": "variation",
             "null": "_",
-            "dc:description": "Language-variation flag on the TU (tools/dataflags.py:languagevariation). Current code emits none|yes|unspecified|all, but not enforced — files serialized before a since-renamed enum member (`some` → `yes`) still contain the old name, confirmed present in KIPasti/Stra-ParlaBO/Stra-ParlaTO. Not present at all in some KIParla-collection files."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Variety=Other|Unassignable|Unsure`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old single-label `variation` column (none|yes|unspecified|all|some); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
             "titles": "jefferson_feats",
             "null": "_",
-            "dc:description": "Pipe-separated: Intonation=X, Interrupted=Yes, Truncated=Yes, Reduced=Yes, ProsodicLink=Yes, SpaceAfter=No, PauseAfter=Yes, Language=ISO, Orthography=Yes, Volume=X, Variation=X, Syllables=N."
+            "dc:description": "Pipe-separated: Intonation=X, Interrupted=Yes, Truncated=Yes, Reduced=Yes, ProsodicLink=Yes, SpaceAfter=No, PauseAfter=Yes, Anonymized=Yes, Volume=X, Syllables=N. (Variation features — Variety, Language, Nonce — are in the `variation` column.)"
           },
           {
             "name": "align",
@@ -445,6 +439,24 @@
     },
     {
       "url": "tsv/STCR016.vert.tsv",
+      "tableSchema": {
+        "@id": "#vert-schema-1"
+      }
+    },
+    {
+      "url": "tsv/STCS001.vert.tsv",
+      "tableSchema": {
+        "@id": "#vert-schema-1"
+      }
+    },
+    {
+      "url": "tsv/STCS002.vert.tsv",
+      "tableSchema": {
+        "@id": "#vert-schema-1"
+      }
+    },
+    {
+      "url": "tsv/STCS003.vert.tsv",
       "tableSchema": {
         "@id": "#vert-schema-1"
       }

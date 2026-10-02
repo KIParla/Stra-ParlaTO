@@ -764,12 +764,12 @@ PST082	sì
 PST077	~spetta
 PST077	non so se li ho detti bene.
 PST082	industria
-PST077	#_ #industrija
+PST077	#industrija
 PST082	#industrija sarà russo,
 PST077	#industrija non è in italiano?
 PST082	industria
 PST077	allora vedi le ho dette prima in rumeno,
-PST077	#_ #industrie
+PST077	#industrie
 PST082	sì
 PST082	#industrie [è in rumeno]
 PST077	[eh mi capita]:: mi capita spesso con queste parole che sono simili perché.
@@ -826,7 +826,7 @@ PST077	e::h oppure::
 PST077	ho:: una cosa che mi succede sempre ecco anche adesso me ne sono accorta durante il nostro m::h dialogo,
 PST077	confondo e:h tipo in italiano si dice livello,
 PST077	in romeno si dice #nivel
-PST082	#_ #nivel
+PST082	#nivel
 PST082	sì
 PST077	e li confondo sempre mi [mi viene in romeno:]
 PST082	[eh perché sono simili]

@@ -806,7 +806,7 @@ PST203	mh mh
 PST097	e io dicevo non so più di questo perché abitava lì una fa~ mh ragazza che è andata una bambina che è andata con mio figlio alla scuola elementare poi media poi
 PST097	cioè cose che mh
 PST097	ripeto come io vengo di un altro
-PST097	#_ contexto
+PST097	#contexto
 PST097	non
 PST097	non mi capacito ancora di capire o di di accettare sinceramente
 PST211	mh
@@ -847,7 +847,7 @@ PST097	della del partito loro mi ricordo x
 PST203	la lega
 PST097	la lega
 PST097	oh io dicevo x
-PST097	#_ bueno
+PST097	#bueno
 PST097	e fino a che con questa famiglia lavorando per loro
 PST097	ho la~ sono andata a lavorare con la mamma
 PST097	ero ancora da sposare non xx solo solo il ragazzo suo papà no che uscivamo eh
@@ -1308,7 +1308,7 @@ PST097	mi guardo con
 PST097	con mio marito no che è incinta
 PST097	che è incinta la donna e e lei ha sentito che un un i~ no le cugine dicevano una all'altra parlavano di un'altra persona
 PST203	ah
-PST097	#_ oh esa muchacha está en bola (.) esa chic~ esa
+PST097	#_ oh esa muchacha está en bola esa chic~ esa
 PST097	quella ragazza è incinta
 PST211	mhmh
 PST203	ah vuol dire quello
@@ -1462,7 +1462,7 @@ PST203	io vado vado a mangiarlo il ceviche sì sì
 PST097	va
 PST211	mh mh
 PST097	c'è no eh #el #pollo #a #la #brasa
-PST203	#_ pollo a la brasa
+PST203	#pollo #a #la #brasa
 PST097	non lo faccio io perché si fa tipo arrosto
 PST211	mh mh
 PST097	dove quan~ e c'è poi c'è una promozione bellissima
@@ -1485,7 +1485,7 @@ PST211	mh mh
 PST097	però u #arroz #chaufa #*se chiama
 PST203	mh sì sì sì
 PST211	sì sì sì sì sì
-PST097	#_ arroz
+PST097	#arroz
 PST097	no
 PST097	perché noi abbiamo eh questa è un'altra #historia #*de mh
 PST097	tanta influenza africana e asiatica

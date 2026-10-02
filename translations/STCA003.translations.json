@@ -5,30 +5,1166 @@
     "start": "66.161",
     "end": "67.558",
     "parent_tu_id": "50",
-    "text": ""
+    "text": "che la pace e la benedizione di aḷḷāh siano su di voi"
   },
   {
     "tu_id": "53",
     "speaker": "PST108_trad",
-    "start": "68.317",
-    "end": "69.127",
+    "start": "68.263",
+    "end": "68.740",
     "parent_tu_id": "52",
-    "text": ""
+    "text": "@said"
   },
   {
     "tu_id": "55",
     "speaker": "PST108_trad",
-    "start": "69.937",
+    "start": "69.802",
     "end": "71.334",
     "parent_tu_id": "54",
+    "text": "tutto bene? come stai?"
+  },
+  {
+    "tu_id": "57",
+    "speaker": "PST110_trad",
+    "start": "71.937",
+    "end": "73.914",
+    "parent_tu_id": "56",
+    "text": "hai chiesto di me? mi hai chiamato? hai chiesto di me?"
+  },
+  {
+    "tu_id": "59",
+    "speaker": "PST108_trad",
+    "start": "73.895",
+    "end": "77.375",
+    "parent_tu_id": "58",
+    "text": "te lo giuro fratello, sono incasinato mentalmente, non fare caso a me"
+  },
+  {
+    "tu_id": "61",
+    "speaker": "PST110_trad",
+    "start": "77.375",
+    "end": "77.947",
+    "parent_tu_id": "60",
+    "text": "sia lode a dio (sto bene grazie a dio)"
+  },
+  {
+    "tu_id": "63",
+    "speaker": "PST108_trad",
+    "start": "77.947",
+    "end": "79.947",
+    "parent_tu_id": "62",
+    "text": "sono ancora scombussolato dal ritorno dal marocco, non fare caso a me"
+  },
+  {
+    "tu_id": "128",
+    "speaker": "PST107_trad",
+    "start": "183.877",
+    "end": "185.277",
+    "parent_tu_id": "127",
+    "text": "quanti ne ho lì?"
+  },
+  {
+    "tu_id": "130",
+    "speaker": "PST108_trad",
+    "start": "185.277",
+    "end": "187.305",
+    "parent_tu_id": "129",
+    "text": "va bene, quattro euro fratello"
+  },
+  {
+    "tu_id": "132",
+    "speaker": "PST110_trad",
+    "start": "197.947",
+    "end": "200.267",
+    "parent_tu_id": "131",
+    "text": "quanti?"
+  },
+  {
+    "tu_id": "134",
+    "speaker": "PST108_trad",
+    "start": "200.267",
+    "end": "201.451",
+    "parent_tu_id": "133",
+    "text": "certo"
+  },
+  {
+    "tu_id": "136",
+    "speaker": "PST107_trad",
+    "start": "203.267",
+    "end": "204.367",
+    "parent_tu_id": "135",
+    "text": "ecco il tuo riposo (\"roppo\" è un termine usato quando si gioca a carte per indicare che una persona deve saltare il proprio turno)"
+  },
+  {
+    "tu_id": "138",
+    "speaker": "PST108_trad",
+    "start": "204.368",
+    "end": "206.369",
+    "parent_tu_id": "137",
+    "text": "uno amico mio"
+  },
+  {
+    "tu_id": "140",
+    "speaker": "PST107_trad",
+    "start": "206.357",
+    "end": "208.477",
+    "parent_tu_id": "139",
+    "text": "due riposi per te"
+  },
+  {
+    "tu_id": "142",
+    "speaker": "PST108_trad",
+    "start": "208.427",
+    "end": "210.551",
+    "parent_tu_id": "141",
+    "text": "la colazione, della colazione (quando durante il ramadan si rompe il digiuno)"
+  },
+  {
+    "tu_id": "144",
+    "speaker": "PST108_trad",
+    "start": "211.057",
+    "end": "213.007",
+    "parent_tu_id": "143",
+    "text": "la colazione, durante la colazione oppure durante il ramadan?"
+  },
+  {
+    "tu_id": "146",
+    "speaker": "PST107_trad",
+    "start": "213.433",
+    "end": "214.246",
+    "parent_tu_id": "145",
+    "text": "durante il ramadan"
+  },
+  {
+    "tu_id": "148",
+    "speaker": "PST108_trad",
+    "start": "214.571",
+    "end": "216.440",
+    "parent_tu_id": "147",
+    "text": "durante il ramadan io faccio colazione (rompo il digiuno) da @yusef, nel suo negozio"
+  },
+  {
+    "tu_id": "150",
+    "speaker": "PST108_trad",
+    "start": "216.485",
+    "end": "216.964",
+    "parent_tu_id": "149",
+    "text": "nel negozio"
+  },
+  {
+    "tu_id": "153",
+    "speaker": "PST108_trad",
+    "start": "218.153",
+    "end": "219.957",
+    "parent_tu_id": "152",
+    "text": "vado e lo trovo che ha già preparato tutto"
+  },
+  {
+    "tu_id": "156",
+    "speaker": "PST108_trad",
+    "start": "219.998",
+    "end": "221.564",
+    "parent_tu_id": "154",
+    "text": "un giorno devi venire a fare colazione (rompere il digiuno) con me lì"
+  },
+  {
+    "tu_id": "158",
+    "speaker": "PST107_trad",
+    "start": "221.579",
+    "end": "221.954",
+    "parent_tu_id": "157",
+    "text": "dove?"
+  },
+  {
+    "tu_id": "160",
+    "speaker": "PST108_trad",
+    "start": "222.031",
+    "end": "222.769",
+    "parent_tu_id": "159",
+    "text": "da @yusef, fratello"
+  },
+  {
+    "tu_id": "162",
+    "speaker": "PST107_trad",
+    "start": "222.769",
+    "end": "223.345",
+    "parent_tu_id": "161",
+    "text": "no, no"
+  },
+  {
+    "tu_id": "164",
+    "speaker": "PST108_trad",
+    "start": "223.391",
+    "end": "223.908",
+    "parent_tu_id": "163",
+    "text": "ah?"
+  },
+  {
+    "tu_id": "168",
+    "speaker": "PST107_trad",
+    "start": "223.908",
+    "end": "225.601",
+    "parent_tu_id": "165",
+    "text": "stiamo a casa, sono abituato"
+  },
+  {
+    "tu_id": "170",
+    "speaker": "PST108_trad",
+    "start": "225.826",
+    "end": "227.178",
+    "parent_tu_id": "169",
+    "text": "e la casa, quando vuoi andare a cucinare?"
+  },
+  {
+    "tu_id": "172",
+    "speaker": "PST108_trad",
+    "start": "227.916",
+    "end": "230.056",
+    "parent_tu_id": "171",
+    "text": "quando vuoi andare a cucinare, qui non finiamo fino alle sei e mezza"
+  },
+  {
+    "tu_id": "174",
+    "speaker": "PST107_trad",
+    "start": "230.523",
+    "end": "231.900",
+    "parent_tu_id": "173",
+    "text": "finisci con il riposo (salto del turno)"
+  },
+  {
+    "tu_id": "176",
+    "speaker": "PST108_trad",
+    "start": "232.720",
+    "end": "234.744",
+    "parent_tu_id": "175",
+    "text": "come se volessi cucinare tu, sei il benvenuto"
+  },
+  {
+    "tu_id": "178",
+    "speaker": "PST107_trad",
+    "start": "234.760",
+    "end": "236.380",
+    "parent_tu_id": "177",
+    "text": "noi vogliamo mangiare il tajine con le nostre mani"
+  },
+  {
+    "tu_id": "180",
+    "speaker": "PST108_trad",
+    "start": "236.948",
+    "end": "238.763",
+    "parent_tu_id": "179",
+    "text": "e dov'è il ramadan, non c'è riposo"
+  },
+  {
+    "tu_id": "183",
+    "speaker": "PST108_trad",
+    "start": "240.362",
+    "end": "242.294",
+    "parent_tu_id": "181",
+    "text": "alla colazione, alla colazione mi divertirò"
+  },
+  {
+    "tu_id": "185",
+    "speaker": "PST107_trad",
+    "start": "242.634",
+    "end": "243.252",
+    "parent_tu_id": "184",
+    "text": "se dio vuole"
+  },
+  {
+    "tu_id": "187",
+    "speaker": "PST107_trad",
+    "start": "243.252",
+    "end": "245.710",
+    "parent_tu_id": "186",
+    "text": "noi ci divertiremo qui, tu vai da tua madre"
+  },
+  {
+    "tu_id": "190",
+    "speaker": "PST107_trad",
+    "start": "246.137",
+    "end": "247.420",
+    "parent_tu_id": "189",
+    "text": "il manzo e il resto"
+  },
+  {
+    "tu_id": "210",
+    "speaker": "?_trad",
+    "start": "267.682",
+    "end": "268.887",
+    "parent_tu_id": "209",
+    "text": "un litro di latte, che dio ti benedica"
+  },
+  {
+    "tu_id": "212",
+    "speaker": "PST110_trad",
+    "start": "268.887",
+    "end": "270.957",
+    "parent_tu_id": "211",
+    "text": "è qui, è qui, dietro al detersivo in polvere per lavatrici"
+  },
+  {
+    "tu_id": "214",
+    "speaker": "?_trad",
+    "start": "269.527",
+    "end": "270.000",
+    "parent_tu_id": "213",
+    "text": "dov'è?"
+  },
+  {
+    "tu_id": "216",
+    "speaker": "PST110_trad",
+    "start": "271.967",
+    "end": "272.679",
+    "parent_tu_id": "215",
+    "text": "è qui guarda"
+  },
+  {
+    "tu_id": "222",
+    "speaker": "?_trad",
+    "start": "281.198",
+    "end": "282.140",
+    "parent_tu_id": "221",
+    "text": "è questo?"
+  },
+  {
+    "tu_id": "224",
+    "speaker": "PST110_trad",
+    "start": "281.802",
+    "end": "282.837",
+    "parent_tu_id": "223",
+    "text": "sì, è quello"
+  },
+  {
+    "tu_id": "253",
+    "speaker": "PST107_trad",
+    "start": "315.047",
+    "end": "316.087",
+    "parent_tu_id": "251",
+    "text": "le farà dei dolci"
+  },
+  {
+    "tu_id": "307",
+    "speaker": "PST108_trad",
+    "start": "375.557",
+    "end": "376.537",
+    "parent_tu_id": "306",
     "text": ""
   },
   {
-    "tu_id": "433",
+    "tu_id": "316",
+    "speaker": "PST107_trad",
+    "start": "388.697",
+    "end": "389.260",
+    "parent_tu_id": "315",
+    "text": "fratello"
+  },
+  {
+    "tu_id": "318",
+    "speaker": "PST107_trad",
+    "start": "390.130",
+    "end": "390.870",
+    "parent_tu_id": "317",
+    "text": "eccolo qui"
+  },
+  {
+    "tu_id": "397",
+    "speaker": "PST108_trad",
+    "start": "518.694",
+    "end": "520.786",
+    "parent_tu_id": "396",
+    "text": "del ristorante marrākəsh qarṭāj"
+  },
+  {
+    "tu_id": "420",
+    "speaker": "???_trad",
+    "start": "559.957",
+    "end": "560.897",
+    "parent_tu_id": "419",
+    "text": "che la pace sia con voi"
+  },
+  {
+    "tu_id": "422",
+    "speaker": "PST108_trad",
+    "start": "560.900",
+    "end": "561.497",
+    "parent_tu_id": "421",
+    "text": "che la pace sia con voi"
+  },
+  {
+    "tu_id": "424",
+    "speaker": "PST107_trad",
+    "start": "561.548",
+    "end": "562.070",
+    "parent_tu_id": "423",
+    "text": "fratello mio"
+  },
+  {
+    "tu_id": "426",
+    "speaker": "PST108_trad",
+    "start": "562.030",
+    "end": "562.555",
+    "parent_tu_id": "425",
+    "text": "come stai?"
+  },
+  {
+    "tu_id": "428",
+    "speaker": "???_trad",
+    "start": "562.585",
+    "end": "564.240",
+    "parent_tu_id": "427",
+    "text": "salve, salve, salve"
+  },
+  {
+    "tu_id": "430",
+    "speaker": "???_trad",
+    "start": "564.440",
+    "end": "565.347",
+    "parent_tu_id": "429",
+    "text": "tutto bene?"
+  },
+  {
+    "tu_id": "432",
+    "speaker": "PST108_trad",
+    "start": "565.920",
+    "end": "566.680",
+    "parent_tu_id": "431",
+    "text": "eh sì tutto bene"
+  },
+  {
+    "tu_id": "434",
+    "speaker": "PST107_trad",
+    "start": "566.660",
+    "end": "568.840",
+    "parent_tu_id": "433",
+    "text": "come stai amico, tutto bene? sei sereno?"
+  },
+  {
+    "tu_id": "436",
+    "speaker": "???_trad",
+    "start": "569.120",
+    "end": "569.850",
+    "parent_tu_id": "435",
+    "text": "che dio vi benedica"
+  },
+  {
+    "tu_id": "438",
+    "speaker": "PST108_trad",
+    "start": "569.890",
+    "end": "571.130",
+    "parent_tu_id": "437",
+    "text": "@salim che dio ti benedica, sono cinque (euro)"
+  },
+  {
+    "tu_id": "440",
+    "speaker": "???_trad",
+    "start": "570.750",
+    "end": "575.040",
+    "parent_tu_id": "439",
+    "text": "[@salah] @salah in persona, tutto bene?"
+  },
+  {
+    "tu_id": "442",
+    "speaker": "???_trad",
+    "start": "575.117",
+    "end": "576.197",
+    "parent_tu_id": "441",
+    "text": "che la pace sia con voi"
+  },
+  {
+    "tu_id": "446",
+    "speaker": "???_trad",
+    "start": "577.597",
+    "end": "581.727",
+    "parent_tu_id": "445",
+    "text": "grazie a dio sto bene, buon ramadan, dai che dio ti benedica"
+  },
+  {
+    "tu_id": "448",
+    "speaker": "PST108_trad",
+    "start": "580.120",
+    "end": "581.040",
+    "parent_tu_id": "447",
+    "text": "che dio ti benedica xx"
+  },
+  {
+    "tu_id": "472",
+    "speaker": "PST110_trad",
+    "start": "623.852",
+    "end": "625.262",
+    "parent_tu_id": "471",
+    "text": "che hai detto tu?"
+  },
+  {
+    "tu_id": "475",
+    "speaker": "PST110_trad",
+    "start": "626.082",
+    "end": "627.360",
+    "parent_tu_id": "474",
+    "text": "parlami in arabo dai"
+  },
+  {
+    "tu_id": "492",
+    "speaker": "PST110_trad",
+    "start": "647.130",
+    "end": "648.355",
+    "parent_tu_id": "491",
+    "text": "però... hai capito?"
+  },
+  {
+    "tu_id": "513",
     "speaker": "PST110_trad",
     "start": "681.287",
     "end": "683.377",
-    "parent_tu_id": "432",
+    "parent_tu_id": "512",
     "text": "vengo se dio vuole voi vede"
+  },
+  {
+    "tu_id": "527",
+    "speaker": "PST110_trad",
+    "start": "699.547",
+    "end": "700.617",
+    "parent_tu_id": "526",
+    "text": "cos'è, cosa?"
+  },
+  {
+    "tu_id": "529",
+    "speaker": "PST108_trad",
+    "start": "700.617",
+    "end": "702.100",
+    "parent_tu_id": "528",
+    "text": "ti ha chiesto se siete imparentati"
+  },
+  {
+    "tu_id": "535",
+    "speaker": "PST110_trad",
+    "start": "710.717",
+    "end": "713.055",
+    "parent_tu_id": "533",
+    "text": "chi ti parla digli che siete xxx"
+  },
+  {
+    "tu_id": "565",
+    "speaker": "PST110_trad",
+    "start": "762.447",
+    "end": "763.687",
+    "parent_tu_id": "564",
+    "text": "la mano di @salah"
+  },
+  {
+    "tu_id": "757",
+    "speaker": "PST107_trad",
+    "start": "1131.820",
+    "end": "1133.831",
+    "parent_tu_id": "756",
+    "text": "amico mio"
+  },
+  {
+    "tu_id": "759",
+    "speaker": "PST108_trad",
+    "start": "1139.227",
+    "end": "1142.527",
+    "parent_tu_id": "758",
+    "text": "no di alluminio non ce ne sono @rayan, solo plastica, ono tutti di plastica"
+  },
+  {
+    "tu_id": "761",
+    "speaker": "PST108_trad",
+    "start": "1146.342",
+    "end": "1147.334",
+    "parent_tu_id": "760",
+    "text": "quanto ti ha detto che costa?"
+  },
+  {
+    "tu_id": "763",
+    "speaker": "PST108_trad",
+    "start": "1149.338",
+    "end": "1150.641",
+    "parent_tu_id": "762",
+    "text": "venti per quella di plastica oppure quella di vetro"
+  },
+  {
+    "tu_id": "765",
+    "speaker": "PST108_trad",
+    "start": "1153.326",
+    "end": "1155.031",
+    "parent_tu_id": "764",
+    "text": "no, il bicchiere"
+  },
+  {
+    "tu_id": "767",
+    "speaker": "PST108_trad",
+    "start": "1159.006",
+    "end": "1159.850",
+    "parent_tu_id": "766",
+    "text": "alluminio?"
+  },
+  {
+    "tu_id": "769",
+    "speaker": "PST108_trad",
+    "start": "1161.580",
+    "end": "1165.343",
+    "parent_tu_id": "768",
+    "text": "è buono se lo prendi a venti euro, te lo giuro che è buono, noi non ce l'abbiamo nemmeno quella di..."
+  },
+  {
+    "tu_id": "771",
+    "speaker": "PST108_trad",
+    "start": "1165.612",
+    "end": "1167.711",
+    "parent_tu_id": "770",
+    "text": "questa cosa del bicchiere in alluminio neanche ce l'abbiamo"
+  },
+  {
+    "tu_id": "774",
+    "speaker": "PST108_trad",
+    "start": "1175.433",
+    "end": "1176.597",
+    "parent_tu_id": "773",
+    "text": "è quello il suo prezzo"
+  },
+  {
+    "tu_id": "776",
+    "speaker": "PST108_trad",
+    "start": "1176.858",
+    "end": "1178.375",
+    "parent_tu_id": "775",
+    "text": "noi lo abbiamo messo a diciotto euro, hai visto?"
+  },
+  {
+    "tu_id": "778",
+    "speaker": "PST108_trad",
+    "start": "1179.367",
+    "end": "1180.589",
+    "parent_tu_id": "777",
+    "text": "quindici euro è buono"
+  },
+  {
+    "tu_id": "835",
+    "speaker": "PST108_trad",
+    "start": "1260.657",
+    "end": "1261.907",
+    "parent_tu_id": "834",
+    "text": "che ha detto xx"
+  },
+  {
+    "tu_id": "839",
+    "speaker": "PST107_trad",
+    "start": "1261.907",
+    "end": "1264.815",
+    "parent_tu_id": "836",
+    "text": "ha detto va bene che domani vengono a scartavetrare e dopodomani vengono a dipingere e io gli ho detto va bene"
+  },
+  {
+    "tu_id": "842",
+    "speaker": "PST107_trad",
+    "start": "1265.187",
+    "end": "1269.697",
+    "parent_tu_id": "840",
+    "text": "domani vieni un ora prima così ti do lo sgabello così puoi scartavetrare e dopodomani dipingete, che dio vi benedica i genitori"
+  },
+  {
+    "tu_id": "845",
+    "speaker": "PST107_trad",
+    "start": "1270.927",
+    "end": "1273.287",
+    "parent_tu_id": "844",
+    "text": "che dio benedica i tuoi genitori, che dio ti protegga"
+  },
+  {
+    "tu_id": "854",
+    "speaker": "PST107_trad",
+    "start": "1283.697",
+    "end": "1285.501",
+    "parent_tu_id": "852",
+    "text": "grazie, a domani se dio vorrà, che dio ti protegga"
+  },
+  {
+    "tu_id": "1085",
+    "speaker": "PST108_trad",
+    "start": "1630.187",
+    "end": "1631.662",
+    "parent_tu_id": "1084",
+    "text": "il libro era qui, chissà dov'è"
+  },
+  {
+    "tu_id": "1087",
+    "speaker": "PST107_trad",
+    "start": "1633.300",
+    "end": "1634.587",
+    "parent_tu_id": "1086",
+    "text": "gli abbiamo buttati"
+  },
+  {
+    "tu_id": "1089",
+    "speaker": "PST107_trad",
+    "start": "1635.657",
+    "end": "1637.447",
+    "parent_tu_id": "1088",
+    "text": "quello dei hadit (racconti e narrazioni che riportano i detti, le azioni, le approvazioni o i silenzi del profeta maometto), l'hai buttato"
+  },
+  {
+    "tu_id": "1091",
+    "speaker": "PST108_trad",
+    "start": "1637.447",
+    "end": "1639.145",
+    "parent_tu_id": "1090",
+    "text": "no, non quello"
+  },
+  {
+    "tu_id": "1115",
+    "speaker": "PST107_trad",
+    "start": "1672.677",
+    "end": "1673.947",
+    "parent_tu_id": "1113",
+    "text": "dai pulisci @ahmed"
+  },
+  {
+    "tu_id": "1160",
+    "speaker": "????_trad",
+    "start": "1747.140",
+    "end": "1748.000",
+    "parent_tu_id": "1159",
+    "text": "salve"
+  },
+  {
+    "tu_id": "1162",
+    "speaker": "PST107_trad",
+    "start": "1749.750",
+    "end": "1750.430",
+    "parent_tu_id": "1161",
+    "text": "sì?"
+  },
+  {
+    "tu_id": "1164",
+    "speaker": "PST110_trad",
+    "start": "1750.460",
+    "end": "1751.990",
+    "parent_tu_id": "1163",
+    "text": "hai bisogno di soldi oppure..?"
+  },
+  {
+    "tu_id": "1166",
+    "speaker": "PST107_trad",
+    "start": "1751.990",
+    "end": "1753.310",
+    "parent_tu_id": "1165",
+    "text": "devi andare alle poste?"
+  },
+  {
+    "tu_id": "1168",
+    "speaker": "PST107_trad",
+    "start": "1753.770",
+    "end": "1754.880",
+    "parent_tu_id": "1167",
+    "text": "devi fare la spesa tu?"
+  },
+  {
+    "tu_id": "1170",
+    "speaker": "????_trad",
+    "start": "1755.760",
+    "end": "1756.700",
+    "parent_tu_id": "1169",
+    "text": "una brioche?"
+  },
+  {
+    "tu_id": "1172",
+    "speaker": "????_trad",
+    "start": "1758.000",
+    "end": "1759.540",
+    "parent_tu_id": "1171",
+    "text": "eh? cosa vuoi? prendi cosa vuoi"
+  },
+  {
+    "tu_id": "1174",
+    "speaker": "PST108_trad",
+    "start": "1758.290",
+    "end": "1759.280",
+    "parent_tu_id": "1173",
+    "text": "costa dieci euro?"
+  },
+  {
+    "tu_id": "1182",
+    "speaker": "????_trad",
+    "start": "1780.280",
+    "end": "1781.610",
+    "parent_tu_id": "1181",
+    "text": "non vuole prendere nulla questa"
+  },
+  {
+    "tu_id": "1192",
+    "speaker": "PST107_trad",
+    "start": "1908.186",
+    "end": "1909.000",
+    "parent_tu_id": "1191",
+    "text": "faccio una foto"
+  },
+  {
+    "tu_id": "1194",
+    "speaker": "PST108_trad",
+    "start": "1909.000",
+    "end": "1912.619",
+    "parent_tu_id": "1193",
+    "text": "dai vieni qua, hai paura che ti facciano magia nera? la tua faccia è cadente (brutta), vieni"
+  },
+  {
+    "tu_id": "1196",
+    "speaker": "PST108_trad",
+    "start": "1913.571",
+    "end": "1914.358",
+    "parent_tu_id": "1195",
+    "text": "vieni amico mio"
+  },
+  {
+    "tu_id": "1198",
+    "speaker": "PST108_trad",
+    "start": "1914.900",
+    "end": "1916.539",
+    "parent_tu_id": "1197",
+    "text": "vieni a fare la foto con la gente che lei vuole farla"
+  },
+  {
+    "tu_id": "1200",
+    "speaker": "PST107_trad",
+    "start": "1916.777",
+    "end": "1919.088",
+    "parent_tu_id": "1199",
+    "text": "vai a farti la foto xxx khouribga"
+  },
+  {
+    "tu_id": "1203",
+    "speaker": "PST108_trad",
+    "start": "1920.661",
+    "end": "1922.374",
+    "parent_tu_id": "1202",
+    "text": ""
+  },
+  {
+    "tu_id": "1209",
+    "speaker": "PST107_trad",
+    "start": "1929.127",
+    "end": "1931.318",
+    "parent_tu_id": "1208",
+    "text": "tieni @farid dai xx"
+  },
+  {
+    "tu_id": "1217",
+    "speaker": "PST107_trad",
+    "start": "1937.933",
+    "end": "1938.990",
+    "parent_tu_id": "1216",
+    "text": "te ne vai fratello mio?"
+  },
+  {
+    "tu_id": "1219",
+    "speaker": "PST107_trad",
+    "start": "1940.325",
+    "end": "1942.129",
+    "parent_tu_id": "1218",
+    "text": "@ahmed ha la bellezza"
+  },
+  {
+    "tu_id": "1221",
+    "speaker": "PST110_trad",
+    "start": "1943.727",
+    "end": "1944.309",
+    "parent_tu_id": "1220",
+    "text": "dove sono?"
+  },
+  {
+    "tu_id": "1223",
+    "speaker": "PST107_trad",
+    "start": "1946.056",
+    "end": "1946.775",
+    "parent_tu_id": "1222",
+    "text": "tieni fratello mio"
+  },
+  {
+    "tu_id": "1225",
+    "speaker": "PST107_trad",
+    "start": "1946.809",
+    "end": "1947.998",
+    "parent_tu_id": "1224",
+    "text": "novantuno va bene?"
+  },
+  {
+    "tu_id": "1227",
+    "speaker": "PST107_trad",
+    "start": "1948.047",
+    "end": "1949.572",
+    "parent_tu_id": "1226",
+    "text": "va bene, che dio ti aiuti"
+  },
+  {
+    "tu_id": "1229",
+    "speaker": "PST110_trad",
+    "start": "1950.293",
+    "end": "1951.244",
+    "parent_tu_id": "1228",
+    "text": "chiudi con te @rachid"
+  },
+  {
+    "tu_id": "1231",
+    "speaker": "PST107_trad",
+    "start": "1951.416",
+    "end": "1953.736",
+    "parent_tu_id": "1230",
+    "text": "chiudi con te la porta fratello mio, che dio ti protegga, che fa freddo"
+  },
+  {
+    "tu_id": "1253",
+    "speaker": "PST107_trad",
+    "start": "1985.228",
+    "end": "1986.728",
+    "parent_tu_id": "1252",
+    "text": "@sara ecco le tue chiavi"
+  },
+  {
+    "tu_id": "1259",
+    "speaker": "PST108_trad",
+    "start": "1989.585",
+    "end": "1990.459",
+    "parent_tu_id": "1258",
+    "text": "tre euro e cinquanta"
+  },
+  {
+    "tu_id": "1267",
+    "speaker": "PST107_trad",
+    "start": "1997.983",
+    "end": "2000.319",
+    "parent_tu_id": "1266",
+    "text": "hai ancora, abbiamo ancora xx secondi"
+  },
+  {
+    "tu_id": "1270",
+    "speaker": "PST108_trad",
+    "start": "2002.871",
+    "end": "2005.478",
+    "parent_tu_id": "1269",
+    "text": "ancora abbiamo secondi nella camera xxx portami qualcos'altro"
+  },
+  {
+    "tu_id": "1272",
+    "speaker": "PST108_trad",
+    "start": "2009.408",
+    "end": "2010.350",
+    "parent_tu_id": "1271",
+    "text": "prendi le olive"
+  },
+  {
+    "tu_id": "1274",
+    "speaker": "PST108_trad",
+    "start": "2013.883",
+    "end": "2014.760",
+    "parent_tu_id": "1273",
+    "text": "che la pace sia su di voi"
+  },
+  {
+    "tu_id": "1276",
+    "speaker": "PST108_trad",
+    "start": "2015.735",
+    "end": "2017.345",
+    "parent_tu_id": "1275",
+    "text": "eh? cos'è questo?"
+  },
+  {
+    "tu_id": "1278",
+    "speaker": "PST108_trad",
+    "start": "2019.342",
+    "end": "2021.523",
+    "parent_tu_id": "1277",
+    "text": "non è cosi? adesso tu sei marocchino o tunisino, amico mio?"
+  },
+  {
+    "tu_id": "1284",
+    "speaker": "PST107_trad",
+    "start": "2028.220",
+    "end": "2029.638",
+    "parent_tu_id": "1283",
+    "text": "non si vedono, ti ha detto, con..."
+  },
+  {
+    "tu_id": "1294",
+    "speaker": "PST107_trad",
+    "start": "2041.644",
+    "end": "2042.602",
+    "parent_tu_id": "1293",
+    "text": "non te l'ha fatta, neanche a me"
+  },
+  {
+    "tu_id": "1320",
+    "speaker": "PST107_trad",
+    "start": "2072.975",
+    "end": "2074.585",
+    "parent_tu_id": "1319",
+    "text": "ha fumato la tua vita quello lì (=fuma molto)"
+  },
+  {
+    "tu_id": "1325",
+    "speaker": "PST107_trad",
+    "start": "2080.621",
+    "end": "2084.375",
+    "parent_tu_id": "1324",
+    "text": "eh sì, deve sempre fumarsela"
+  },
+  {
+    "tu_id": "1337",
+    "speaker": "PST107_trad",
+    "start": "2100.865",
+    "end": "2101.870",
+    "parent_tu_id": "1336",
+    "text": "mondiale, a posto"
+  },
+  {
+    "tu_id": "1354",
+    "speaker": "PST108_trad",
+    "start": "2125.162",
+    "end": "2126.136",
+    "parent_tu_id": "1353",
+    "text": "quanto sono simpatici"
+  },
+  {
+    "tu_id": "1356",
+    "speaker": "PST110_trad",
+    "start": "2126.130",
+    "end": "2126.860",
+    "parent_tu_id": "1355",
+    "text": "dille"
+  },
+  {
+    "tu_id": "1359",
+    "speaker": "PST110_trad",
+    "start": "2127.267",
+    "end": "2130.739",
+    "parent_tu_id": "1358",
+    "text": "dille che ti ho detto che: \"è questo il motivo per cui non sei cresciuta, ridi sempre\""
+  },
+  {
+    "tu_id": "1364",
+    "speaker": "PST107_trad",
+    "start": "2136.560",
+    "end": "2138.238",
+    "parent_tu_id": "1362",
+    "text": "hai sentito cosa ha detto il figlio della bocca (modo di dire utilizzato per indicare una persona che parla troppo)?"
+  },
+  {
+    "tu_id": "1378",
+    "speaker": "PST107_trad",
+    "start": "2154.186",
+    "end": "2156.263",
+    "parent_tu_id": "1377",
+    "text": "allora parla troppo"
+  },
+  {
+    "tu_id": "1381",
+    "speaker": "PST107_trad",
+    "start": "2167.534",
+    "end": "2170.498",
+    "parent_tu_id": "1380",
+    "text": "hai comprato il pesce? ti sei comportato con me come da etichetta"
+  },
+  {
+    "tu_id": "1384",
+    "speaker": "PST108_trad",
+    "start": "2173.059",
+    "end": "2174.354",
+    "parent_tu_id": "1383",
+    "text": "fratello preparaci la pastilla (piatto tradizionale della cucina marocchina di origini risalenti alla spagna islamica)"
+  },
+  {
+    "tu_id": "1386",
+    "speaker": "PST108_trad",
+    "start": "2175.138",
+    "end": "2176.220",
+    "parent_tu_id": "1385",
+    "text": "prepara una pastilla grande"
+  },
+  {
+    "tu_id": "1388",
+    "speaker": "PST107_trad",
+    "start": "2176.875",
+    "end": "2178.481",
+    "parent_tu_id": "1387",
+    "text": "dai digli di venire a mangiare"
+  },
+  {
+    "tu_id": "1390",
+    "speaker": "PST108_trad",
+    "start": "2178.957",
+    "end": "2180.522",
+    "parent_tu_id": "1389",
+    "text": "e fa colazione (rompe il digiuno) con il latte fermentato, domani"
+  },
+  {
+    "tu_id": "1392",
+    "speaker": "PST107_trad",
+    "start": "2180.531",
+    "end": "2181.376",
+    "parent_tu_id": "1391",
+    "text": "digli di avvisarmi"
+  },
+  {
+    "tu_id": "1394",
+    "speaker": "PST107_trad",
+    "start": "2181.949",
+    "end": "2183.104",
+    "parent_tu_id": "1393",
+    "text": "gli avvisiamo di fare colazione (rompere il digiuno) ora"
+  },
+  {
+    "tu_id": "1404",
+    "speaker": "PST107_trad",
+    "start": "2213.465",
+    "end": "2216.105",
+    "parent_tu_id": "1402",
+    "text": "se ci fosse un marocchino un- una marocchina, sarebbe spaventata"
+  },
+  {
+    "tu_id": "1406",
+    "speaker": "PST107_trad",
+    "start": "2216.752",
+    "end": "2218.580",
+    "parent_tu_id": "1405",
+    "text": "farebbero magia nera e rimarrebbero a bocca aperta"
+  },
+  {
+    "tu_id": "1409",
+    "speaker": "PST110_trad",
+    "start": "2219.400",
+    "end": "2221.802",
+    "parent_tu_id": "1408",
+    "text": "per cosa dovrebbero farti magia nera? che hai la bocca cadente"
+  },
+  {
+    "tu_id": "1411",
+    "speaker": "PST108_trad",
+    "start": "2221.971",
+    "end": "2223.810",
+    "parent_tu_id": "1410",
+    "text": "oddio guarda com'è (brutto) oddio"
+  },
+  {
+    "tu_id": "1413",
+    "speaker": "PST110_trad",
+    "start": "2224.203",
+    "end": "2226.359",
+    "parent_tu_id": "1412",
+    "text": "quand'è che ti ho detto che mi avrebbero fatto la magia nera?"
+  },
+  {
+    "tu_id": "1417",
+    "speaker": "PST108_trad",
+    "start": "2240.267",
+    "end": "2241.752",
+    "parent_tu_id": "1416",
+    "text": "xx non farmi foto"
+  },
+  {
+    "tu_id": "1419",
+    "speaker": "PST108_trad",
+    "start": "2250.577",
+    "end": "2252.538",
+    "parent_tu_id": "1418",
+    "text": "i carabinieri non riuscirebbero a zittirci così"
   }
 ]

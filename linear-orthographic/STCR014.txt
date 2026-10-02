@@ -147,8 +147,8 @@ PST087	si potrebbe fare
 PST203	voi pensate alla scena la tecnica la adattiamo
 PST203	in funzione della scena
 PST087	secondo me si potrebbe fare una nell'angolino in cui ci prendiamo noi così che siamo magari dietro metti che siamo tipo in fila
-PST092	#_ oaș
-PST092	#_ oaș
+PST092	#oaș
+PST092	#oaș
 PST087	non proprio #oaș ma anche tipo mentre ci spiega i passi #dom così è davanti visto che non credo gli si voglia vedere la faccia
 PST092	eh io pensavo magari
 PST087	eh così noi che facciamo dei passi dietro che magazi conosciamo già tipo
@@ -179,7 +179,7 @@ PST203	perché siete tutte dentro
 PST092	c'è no e tutte
 PST087	però ci sarebbero libere e perché loro sono eh #începători cioè sono tipo
 PST203	però
-PST092	#_ ince~
+PST092	#ince~
 PST087	noi siamo #intermediari e loro sono
 PST203	sì sì ho capito
 PST092	#începători quindi non sa~ non fanno danza con noi
@@ -427,7 +427,7 @@ PST092	eh bravo che hai ammesso l'errore ma non ti vergogni nemmeno un pochino
 PST087	così xx
 PST203	no
 PST203	no no no sono abbastanza orgoglioso
-PST092	fie rușine la obraz
+PST092	#_ să-ți fie rușine la obraz
 PST092	dai
 PST203	così abbiamo girato con i vostri cellulari e ho visto cosa facevate
 PST087	male

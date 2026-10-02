@@ -17,12 +17,12 @@ PST006	io quarantaquattro
 PST225	e dove siete nate
 PST006	io peruviana
 PST200	okay
-PST005	#_ argentina
+PST005	#argentina
 PST225	sì okay
 PST200	e quindi entrambe parlate lo spagnolo
 PST005	sì
 PST200	la vostra lingua madre è lo spagnolo
-PST005	#_ español
+PST005	#español
 PST006	sì
 PST225	okay okay
 PST225	da quanto tempo siete qua in italia
@@ -43,7 +43,7 @@ PST200	mh mh
 PST200	ah ah
 PST200	mh
 PST005	#_ esto porqué en arge~ en argentina
-PST005	#_ e (.) está feo ((ride))
+PST005	#_ e está feo
 PST200	mh mh
 PST005	no e #trabajar #trabaja e lavoro lavoro #y #*no
 PST005	#_ no salir para adelante
@@ -77,7 +77,7 @@ PST005	di #seguridad
 PST200	mh
 PST006	eh la #seguridad #esta molto
 PST005	la #seguridad
-PST006	#_ peligroso
+PST006	#peligroso
 PST006	eh #yo è è arrivato qua
 PST006	eh #por un'amica
 PST225	ah ah
@@ -94,7 +94,7 @@ PST225	okay
 PST006	sì #porque #el la prima volta che la prim~ primo giorno che è arrivato qua
 PST006	eh sì molta #*gente #decía all'asilo o altra xx
 PST200	mh mh
-PST006	#_ entonces (.) u~ una gente dice una cosa otra gente entonces como que
+PST006	#_ entonces u~ una gente dice una cosa otra gente entonces como que
 PST225	mh mh
 PST200	difficile capire come avere il documento
 PST006	difficile sì
@@ -103,17 +103,17 @@ PST225	mh
 PST006	#_ entonces yo te por
 PST006	#_ estar tranquila aquí en italia sin problemas
 PST006	#_ hacer mis cosas
-PST006	#_ no (.) y bueno hasta ahora estoy así
+PST006	#_ no y bueno hasta ahora estoy así
 PST200	mh mh
-PST006	#_ que sí me da miedo (.) que sí tengo dos menores también en (.) en perù
+PST006	#_ que sí me da miedo que sí tengo dos menores también en en perù
 PST006	#_ pero
 PST006	#_ también he visto incluso acá en la escuela a fue~ a fuera que
 PST006	ehm
 PST006	#_ me es difícil estar sin mi hijos
-PST006	#_ pero también peor la gente que (.) viene con sus hijos (.) y le es mas difícil
+PST006	#_ pero también peor la gente que viene con sus hijos y le es mas difícil
 PST200	mh mh mh
-PST006	#_ entonces (.) yo sé que allá mis hijos (.) estan sin mí (.) porque solamente están conmigo no y bueno los he dejado con mi xx
-PST006	#_ pero también traerlos acá (.) no quiero que pasen (.) entonces quiero yo asigurarme sé que (.) se me va a hacer un poco más
+PST006	#_ entonces yo sé que allá mis hijos estan sin mí porque solamente están conmigo no y bueno los he dejado con mi xx
+PST006	#_ pero también traerlos acá no quiero que pasen entonces quiero yo asigurarme sé que se me va a hacer un poco más
 PST006	#_ mh un poco más de tiempo
 PST006	#_ estar sin ellos pero quiero traerlos con seguridad
 PST005	#_ con papeles
@@ -137,7 +137,7 @@ PST200	di torino
 PST005	eh
 PST005	antic~ antiche
 PST200	mh mh
-PST005	#_ me encan~ me (.) me gusta mucho
+PST005	#_ me encan~ me me gusta mucho
 PST005	#_ e todo está cerca
 PST200	okay
 PST005	#el #super e #el palazzo eh #todo #está eh #parece #más #cerca
@@ -170,7 +170,7 @@ PST005	#_ y a mí no me gusta
 PST005	#_ muy movida
 PST006	#_ sí igual que yo también soy del del centro de perú
 PST200	mh mh
-PST006	#_ de lima (.) lima la capital
+PST006	#_ de lima lima la capital
 PST005	lima la capital
 PST200	ah
 PST006	#_ allí es mu~ muy movida la ciudad es muy
@@ -179,7 +179,7 @@ PST225	c'è traffico
 PST006	sì
 PST006	traffico la #contaminación la #gente
 PST005	#_ sí la gente
-PST005	sì la muy acelerada
+PST005	sì la #_ gente muy acelerada
 PST200	mh
 PST225	si è sempre di fretta anche
 PST005	sì
@@ -191,18 +191,18 @@ PST006	sì se può mh pue~ #se #puede #caminar #tranquilo
 PST005	#_ sí a cualquier ora
 PST225	ah
 PST005	#_ este
-PST005	#_ sí sí a cualquier ora y esto que y este barrio dicen que no es muy ((ride))
+PST005	#_ sí sí a cualquier ora y esto que y este barrio dicen que no es muy
 PST006	#_ bueno sí lo xx caminado pero sí tranquilo
 PST005	#muy però
 PST005	#_ sí tranquilo
-PST006	#_ creo que como todo lugares (.) no hay hay en todo lugares mientras que (.) tu sepa caminar
+PST006	#_ creo que como todo lugares no hay hay en todo lugares mientras que tu sepa caminar
 PST200	mh mh
-PST006	#_ en un lugar (.) y en una hora de cua~ creo que (.) es tranquilo
+PST006	#_ en un lugar y en una hora de cua~ creo que es tranquilo
 PST200	mh mh mh mh
 PST006	no
-PST006	#_ pero sí (.) sí obviamente que es mucho más tranquilo que en lima
+PST006	#_ pero sí sí obviamente que es mucho más tranquilo que en lima
 PST005	#_ sì mucho más tranquilo que buenos aires argentina también
-PST006	#_ en lima (.) x siempre xx
+PST006	#_ en lima x siempre xx
 PST225	e poi forse lima è anche più grande di torino
 PST006	ah ah sì sì sì sì
 PST225	sì
@@ -214,10 +214,10 @@ PST005	in torino
 PST006	eh #fue #*quando #*me #olvidé #el zaino #en #el #*bus
 PST200	mh mh
 PST225	ah
-PST006	#_ mis documentos (.) todo estaba
+PST006	#_ mis documentos todo estaba
 PST006	#_ y yo estaba pu
 PST006	#_ xxando porque dije no lo encuentro
-PST005	no lo has perdido
+PST005	#_ no no lo has perdido
 PST006	#_ lo perdí
 PST006	#_ y me quedé así
 PST200	a torino
@@ -231,11 +231,11 @@ PST005	no ah persi
 PST005	persi
 PST006	#_ x olvidado
 PST006	#_ o sea los había olvidado
-PST006	#_ y ahí (.) entonces yo me puse a llorar y
+PST006	#_ y ahí entonces yo me puse a llorar y
 PST006	una donna #en #el #en #el #la fermata me di~ perché piangi che cosa dice no
 PST200	mh eh
 PST006	e io #le #digo #*no #porque #*mi
-PST006	#_ ((ride)) yo le digo no por~ ((ride))
+PST006	#_ yo le digo no por~
 PST006	ah mi dice no non c'è problema mi di~ xx xx
 PST200	mh
 PST006	eh sì che che che che pullman ah la diciannove
@@ -245,12 +245,12 @@ PST225	avevi paura qua eh
 PST006	#*sì #porque no #me #dice no andiamo #porque #en #*la #*ultima fermata #*del #*del pullman #ahí #esta #tu zaino
 PST200	mh
 PST006	#*no #*me #*lo #creo #*que #estaba #mi #el soldi #el papel tutto #*no #*sì
-PST005	argentina olvidate
+PST005	#_ xxxx argentina olvidate
 PST200	non si trovano poi
 PST005	#_ desaparece
 PST006	no no no no no
 PST225	e alla fine
-PST006	#_ eh sí me (.) retorné este (.) sí
+PST006	#_ eh sí me retorné este sí
 PST200	ah ah
 PST005	tutto
 PST006	sì tutto y d~
@@ -258,7 +258,7 @@ PST200	ah ah
 PST005	completo
 PST006	sì #el #*la #*macchinis~ #*la #*macchinista #*del #*del pullman #*me #*dice eh guarda tutto #*me #*dice #*no #si tutto #está a posto
 PST006	#_ y sí yo miré todo sí sí está
-PST006	está sí sí todo todo
+PST006	#_ sí está sí sí todo todo
 PST200	ah ah
 PST200	eh
 PST006	#y #ya #*me #dijo #nad~ niente f~ #este manca #*no niente niente #y #*yo segu~ eh #y #*me #*dice manca #algo #*no #*che t~ è felice lei
@@ -270,7 +270,7 @@ PST006	eh sì sì sì sì #*que #*sí #*que #*sí
 PST005	xxxx
 PST225	che è andata bene
 PST005	sì
-PST006	#_ y no y y (.) sí me he dado cuenta que es diferente
+PST006	#_ y no y y sí me he dado cuenta que es diferente
 PST200	mh mh mh mh
 PST005	diferen~
 PST225	ah sì
@@ -286,11 +286,11 @@ PST005	almen~ #en #en #argentina #es eh
 PST005	#_ más ordenado
 PST200	okay
 PST225	mh
-PST005	#_ mea para (.) para mí no
+PST005	#_ mea para para mí no
 PST005	#_ esto e acá es todo muy
 PST200	ah ah
 PST005	#_ todo muy apretado
-PST005	#_ este (.) no pero bueno
+PST005	#_ este no pero bueno
 PST005	no
 PST225	perché la gente è più disordinata a entrare
 PST005	#_ sí no s~ no se corren
@@ -300,27 +300,27 @@ PST225	mh mh
 PST005	#_ pero lo que estan adentro se quedan ahí
 PST006	ah
 PST006	sì
-PST005	#_ en argentina e o en buenos aires (.) es me m~ me parece más ordenado
+PST005	#_ en argentina e o en buenos aires es me m~ me parece más ordenado
 PST200	mh mh mh
-PST005	#_ pero bueno e~ este son pavadas ((ride))
+PST005	#_ pero bueno e~ este son pavadas
 PST200	mh mh mh mh
 PST006	sì
-PST006	#_ aunque non (.) dios y bueno en perú si es el carro
+PST006	#_ aunque non dios y bueno en perú si es el carro
 PST006	#el pullman #es #así
 PST200	mh
 PST225	è così
 PST006	super pieno
 PST200	mh mh mh
-PST005	#_ en ar~ en argentina y (.) much~ eh mucho es eh
+PST005	#_ en ar~ en argentina y much~ eh mucho es eh
 PST005	#_ hay muchos auto~ eh
 PST005	#_ autobuses
 PST200	ah
 PST005	#_ entonces eh
-PST005	#_ es más (.) es más ligero
+PST005	#_ es más es más ligero
 PST200	ah
 PST005	eh
-PST006	#_ aunque la (.) educación del
-PST006	#_ de los maquínistas (.) es sí (.) aquí es eh respetado sabes es educado
+PST006	#_ aunque la educación del
+PST006	#_ de los maquínistas es sí aquí es eh respetado sabes es educado
 PST005	eh
 PST200	mh
 PST200	mh mh
@@ -328,30 +328,30 @@ PST006	#_ porque en perù
 PST006	#hay #escolares anziani o
 PST006	#_ personas con invalidad
 PST225	ah
-PST006	#_ poco levantan (.) o sea muy poco
+PST006	#_ poco levantan o sea muy poco
 PST006	#_ ayudan
 PST200	okay
 PST006	a alzi dal pull~ al pullman
 PST200	sì sì ci sono poco aiuti
-PST006	#_ #*sì #*no muy #*poco
+PST006	#*sì #*no #muy #*poco
 PST225	qui c'è più rispetto
 PST006	#_ sí no sí falta respecto
-PST005	#_ no en argentin~ en argentina sí (.) ayu~ ayudan
+PST005	#_ no en argentin~ en argentina sí ayu~ ayudan
 PST200	okay
 PST005	#_ prior~ tienen prioridad los eh ancianos
 PST200	okay
 PST005	#_ e niños y embaraz~ embarazada
 PST006	#_ ah en perú es muy poco muy poco
 PST200	ah le persone le donne incinta
-PST005	#_ sí (.) se le da el asiento
+PST005	#_ sí se le da el asiento
 PST200	mh mh
 PST005	e #acá #*no
 PST200	okay
-PST005	#_ acá no (.) en argentina sí
-PST005	#_ una embarazada o anciano (.) les tienes que dar el
+PST005	#_ acá no en argentina sí
+PST005	#_ una embarazada o anciano les tienes que dar el
 PST005	#_ el asiento
 PST005	#_ tienes que pararte y xx a ellos
-PST005	#_ a veces no xx ((ride))
+PST005	#_ a veces no xx
 PST200	eh
 PST225	quindi c'è un po' di tutto
 PST005	sì
@@ -385,18 +385,18 @@ PST200	ah okay
 PST005	io ma~ e e io
 PST005	mio marito #tiene macchina
 PST200	okay
-PST005	así sí
+PST005	#_ y así sí
 PST225	ah bene
 PST005	#más #lejos e con la macchina
 PST200	mh certo certo certo
 PST200	e come ti trovi in questa zona ti piace questa zona di torino dove vivi
 PST005	eh
 PST005	sì
-PST005	#_ pero (.) eh hay más lindas
+PST005	#_ pero eh hay más lindas
 PST005	#_ o sea eh
-PST005	#_ estas donde yo yo donde yo vivo (.) eh acá
+PST005	#_ estas donde yo yo donde yo vivo eh acá
 PST005	#acá #en eh
-PST005	#_ #*è sucia a veces
+PST005	#*è #sucia #a #veces
 PST200	mh
 PST005	#*no #es tan #limpio eh pulire
 PST200	okay
@@ -415,13 +415,13 @@ PST005	pulito
 PST225	pulito
 PST005	#más pulito
 PST005	#_ pero
-PST005	#_ xx en mi xxtina hay lugares (.) feo (.) pero
+PST005	#_ xx en mi xxtina hay lugares feo pero
 PST200	sì
 PST005	sì
 PST005	xx
-PST005	#_ lo que pasa ahora a ver si (.) yo te lo digo
+PST005	#_ lo que pasa ahora a ver si yo te lo digo
 PST005	#_ en español
-PST005	#_ después lo traducís ((ride))
+PST005	#_ después lo traducís
 PST225	no provaci
 PST005	eh
 PST005	#_ a ver
@@ -429,16 +429,16 @@ PST225	provaci a parlare in italiano
 PST005	ehm
 PST200	no~ non ti preoccupare se c'è qualche errore anzi
 PST005	io de ehm #en #argentina
-PST005	#_ e es f~ es feo e (.) no cuidan mucho
+PST005	#_ e es f~ es feo e no cuidan mucho
 PST005	#_ a ver en algunos lados
-PST005	#_ #*io acá
+PST005	#*io #acá
 PST005	uno eh vieni con #más e #expectativas
-PST005	#_ entonces se pone más ehm (.) exquisita
+PST005	#_ entonces se pone más ehm exquisita
 PST200	mh mh
 PST005	#_ pero
-PST005	#_ me~ es (.) es mejor acá
+PST005	#_ me~ es es mejor acá
 PST005	#_ que en argentina
-PST005	#_ la la basura la carta (.) el reciclado (.) acá s~ acá funciona
+PST005	#_ la la basura la carta el reciclado acá s~ acá funciona
 PST200	okay
 PST005	#_ e en argentina no
 PST200	mh mh
@@ -452,16 +452,16 @@ PST005	#_ nunca
 PST200	mh mh mh mh
 PST005	#_ muy poco
 PST005	#_ muy poco
-PST006	#_ eso se encargan las (.) el personale
+PST006	#_ eso se encargan las el personale
 PST006	#_ xxxxxx
-PST005	#_ en argentina lo puede poner eh ponen todo (.) todo junto
-PST006	junto
+PST005	#_ en argentina lo puede poner eh ponen todo todo junto
+PST006	#_ todo junto
 PST006	sì
 PST200	ah okay
-PST005	#_ vidrio carta orgánico (.) todo junto
+PST005	#_ vidrio carta orgánico todo junto
 PST005	#_ a la hora no
 PST200	sì
-PST005	#_ acá sí (.) y eso está
+PST005	#_ acá sí y eso está
 PST200	mh mh
 PST005	#está bene
 PST200	mh
@@ -479,7 +479,7 @@ PST006	#_ traductor
 PST225	okay
 PST006	sì e questa sì o o #*a #veces
 PST006	eh tre tre #*con #compañero
-PST005	#_ alguno (.) un compa~ (.) sì
+PST005	#_ alguno un compa~ sì
 PST005	#_ otra persona
 PST006	#_ una ayuda
 PST006	sì
@@ -496,13 +496,13 @@ PST005	no #es difficile #*pero io ma me #*me #niego
 PST200	mh e perché
 PST005	#_ eh idioma ningún inglés en en argentina e
 PST005	#_ también eh
-PST005	#_ estudiaba inglés pero no no me (.) no
+PST005	#_ estudiaba inglés pero no no me no
 PST005	#_ me ne~ me niego
 PST005	mio figlia mi~ io f~ eh #tengo #*una figlia e figlio
 PST005	eh #los duo p~ eh parlare #inglés
 PST005	molto bene
 PST005	#mi marito #también #*pero io no
-PST005	#_ nada
+PST005	#nada
 PST005	#_ solo español
 PST005	#_ y
 PST200	ma perché non non ti piace imparare altre lingue
@@ -541,16 +541,16 @@ PST225	sì
 PST200	ah
 PST005	sì
 PST005	parla #bien #*pero non me
-PST005	#_ no es maestro (.) ((ride))
+PST005	#_ no es maestro
 PST225	no
 PST200	ah
 PST200	quindi a a a casa non parlate per niente italiano non x mh
 PST005	#_ no p~ no tiene paciencia
-PST005	#_ #*io #*no quiero
+PST005	#*io #*no #quiero
 PST005	#ellos #*sí io #no
 PST200	okay
 PST225	ah okay
-PST005	#_ pero bueno (.) ahora voy a tener que
+PST005	#_ pero bueno ahora voy a tener que
 PST225	eh eh
 PST005	#_ aprender sí o s~ hablar sí o sí italiano
 PST006	#*sì #es #que eh #*la $estrada #es $difisile
@@ -584,7 +584,7 @@ PST005	sì
 PST200	ah
 PST006	sì
 PST200	quindi se se qualcuno ti corregge
-PST006	#_ sí (.) e se xx me bloqué digo no no lo estoy haciendo bien
+PST006	#_ sí e se xx me bloqué digo no no lo estoy haciendo bien
 PST200	okay
 PST200	mh mh
 PST200	ti agiti
@@ -652,7 +652,7 @@ PST005	#en mia casa
 PST006	sola
 PST005	sola
 PST200	mh
-PST005	#_ esta eh (.) no es excusa ((ride))
+PST005	#_ esta eh no es excusa
 PST005	e la t~ e la tivi e
 PST005	guardare guardare #es #mirar xx
 PST200	sì sì guardare guardare
@@ -669,7 +669,7 @@ PST006	anche io #donde abito non è non ho la tivu
 PST005	#_ ves
 PST200	ah ah
 PST225	e sveglio è
-PST005	#_ en #*italiano
+PST005	#en #*italiano
 PST200	è in italiano sì
 PST005	#*que a xx #poquito #poquito piano pianoa
 PST200	eh
@@ -807,7 +807,7 @@ PST005	uruguay
 PST005	#_ este pero le gusta
 PST005	idiomas
 PST200	mh mh mh
-PST005	#_ eh mí f~ mi hija sí yo no ((ride))
+PST005	#_ eh mí f~ mi hija sí yo no
 PST005	#menos #mal #*ques #*es #*salida #*mia figlia
 PST200	mh mh mh mh
 PST005	a mio marito #digo
@@ -857,7 +857,7 @@ PST200	ah okay
 PST005	antich~ #antiguos
 PST200	sì sì sì sì sì
 PST225	sì
-PST005	#_ este (.) eso me gusta
+PST005	#_ este eso me gusta
 PST200	mh
 PST005	me piace
 PST200	quindi le feste tradizionali storiche
@@ -878,13 +878,13 @@ PST006	ah sì
 PST005	sì
 PST006	sì sì
 PST005	#_ en argentina es más
-PST006	#_ #*sì más #*pompos~
+PST006	#*sì #más #*pompos~
 PST005	#_ más
-PST006	#_ más #*festivo
+PST006	#más #*festivo
 PST200	ah
 PST225	sì
 PST005	climas
-PST006	#_ sí porque (.) eh justo eh
+PST006	#_ sí porque eh justo eh
 PST006	l'anno scorsa
 PST005	sì
 PST006	io ho lavorato un po' con una nonna
@@ -901,7 +901,7 @@ PST005	parlar forte #fuerte
 PST200	perché sei nel nord d'italia
 PST006	no é
 PST006	sì
-PST005	#_ dicen
+PST005	#dicen
 PST006	sì sì sì
 PST200	sì sì sì io vengo dal sud ed è diverso
 PST005	sì
@@ -916,20 +916,20 @@ PST005	e
 PST005	#aquí multo freddo #también
 PST200	eh sì
 PST006	sì sì sì sì
-PST005	mucho frío
+PST005	#_ hace mucho frío
 PST005	uno no
 PST005	#_ no sale
 PST200	mh mh
 PST005	#_ pero después otra tradiciones no conozco no no sé mucho
 PST200	mh
 PST200	mh mh mh mh
-PST006	#_ #*no #*io tampoco #*no
+PST006	#*no #*io #tampoco #*no
 PST005	por ahora
 PST200	e a casa mangiate magari
 PST200	arge~ cibo più argentino no
 PST005	sì
 PST005	sì me pollo e
-PST005	#_ m~ milanesas (.) que son argentina
+PST005	#_ m~ milanesas que son argentina
 PST200	okay
 PST005	e
 PST005	pasta poca
@@ -937,7 +937,7 @@ PST225	poca
 PST005	#_ bueno pasta pero con manteca e
 PST005	burro #y
 PST200	okay
-PST005	#_ este (.) como llama
+PST005	#_ este como llama
 PST005	#_ queso
 PST200	sì sì formaggio mh mh
 PST005	formaggio
@@ -946,7 +946,7 @@ PST005	carne
 PST005	molto cara
 PST005	#_ acá
 PST200	mh mh
-PST005	#_ entonces #*poca
+PST005	#entonces #*poca
 PST005	#_ pero después no
 PST005	#_ bueno la eh
 PST005	verdura
@@ -962,7 +962,7 @@ PST005	#más #más #más piccolo
 PST225	mh
 PST005	#_ pero está bien es lindo
 PST225	mh mh
-PST005	#_ eso sì (.) me gusta mucho
+PST005	#_ eso sì me gusta mucho
 PST006	xxxxx
 PST225	eh buona la verdura
 PST005	#_ eh barato
@@ -1007,9 +1007,9 @@ PST225	ah
 PST200	sì non siete abituate è proprio è diverso
 PST225	anche
 PST005	sì
-PST006	#_ a~ aunque cuando lo cocinas (.) mh más la pasta se hace (.) otro otro sabor (.) sí y no es como
+PST006	#_ a~ aunque cuando lo cocinas mh más la pasta se hace otro otro sabor sí y no es como
 PST200	mh
-PST005	sabor
+PST005	#_ otro sabor
 PST005	riso #también eh
 PST006	ah sì
 PST005	#_ también m~ duro no
@@ -1023,13 +1023,13 @@ PST005	#_ blando
 PST200	sì sì sì
 PST005	#_ duro nada
 PST200	okay okay
-PST005	#_
+PST005	#_ blando
 PST225	mh mh mh mh
 PST200	e quindi riuscite un po' a mantenere le vostre tradizioni dell'argentina e insomma del perù
 PST005	io #*cocino #mucho
 PST005	e
 PST200	okay
-PST005	#_ pasteles
+PST005	#pasteles
 PST005	#_ el dulce de leche
 PST225	mh
 PST200	ah sì
@@ -1048,12 +1048,12 @@ PST005	sì #en #*la #iglesia è io
 PST200	sì sì
 PST005	ma mio marito #*no #*pero #este #trato #de
 PST005	#_ de la virge~ de los santos de argentina
-PST005	#_ este (.) trato de
+PST005	#_ este trato de
 PST005	#_ de acordarme de ellos
 PST200	mh vabbè
 PST005	#_ ya y acá no está san cayetano
-PST005	e virgen de lourdes no es muy conocida
-PST005	#_ este (.) y después la las fiestas (.) eh ponen un poco
+PST005	e #_ la virgen de lourdes no es muy conocida
+PST005	#_ este y después la las fiestas eh ponen un poco
 PST005	#_ diferentes
 PST200	mh
 PST225	avete degli amici mh argentini o preuviani qui
@@ -1065,26 +1065,26 @@ PST225	ah certo
 PST005	#_ el horario también no
 PST006	sì
 PST006	#*io #fines #de #semana #siempre #este a #veces lavoro
-PST005	#_ claro
+PST005	#claro
 PST200	mh
 PST006	#_ eh acá los peruviano se juntan los fines de semana
 PST200	ah
 PST006	senza #*che #*io
 PST200	non puoi
 PST225	non puoi
-PST006	#_ y la tradiciones no lo (.) no las he seguido desde que he venido
+PST006	#_ y la tradiciones no lo no las he seguido desde que he venido
 PST005	mh
-PST006	#_ aunque una vez (.) me invitaron a comer en una casa
-PST006	#_ eh por cumpleaño de un (.) así como ahora salimos da la escuela (.) comimos
+PST006	#_ aunque una vez me invitaron a comer en una casa
+PST006	#_ eh por cumpleaño de un así como ahora salimos da la escuela comimos
 PST006	#_ y me cayó mal la comida
 PST005	mh
-PST006	#_ sí (.) no sé
+PST006	#_ sí no sé
 PST006	#_ o será porque después de tanto tiempo
 PST005	a xxx
-PST006	he comido
+PST006	#_ no he comido
 PST005	tenías el estómago
 PST006	sì
-PST006	#_ tener el estómago italiano ((ride))
+PST006	#_ tener el estómago italiano
 PST005	ah ah
 PST225	non sei stata bene
 PST005	sì e~ el la
@@ -1092,8 +1092,8 @@ PST006	#_ no me cayó pesado
 PST005	xxx
 PST225	ah ah
 PST005	#_ claro
-PST006	#_ sì (.) y
-PST006	#_ o habrá sido (.) que tan (.) xxx comida ((ride))
+PST006	#_ sì y
+PST006	#_ o habrá sido que tan xxx comida
 PST005	#_ con tan much~ mucha gen~
 PST005	#*io a~ #acá x #los #ventinueve eh #ventinueve #como #*se #*dice eh
 PST006	xxx
@@ -1115,7 +1115,7 @@ PST005	no no no
 PST005	è solo
 PST005	#_ eh bueno en argentina es el asado
 PST200	ah
-PST005	#_ pero (.) es muy caro
+PST005	#_ pero es muy caro
 PST200	mh mh
 PST005	#_ muy caro
 PST005	#_ y donde vivo ahora eh no hay parrilla
@@ -1126,14 +1126,14 @@ PST005	#_ la comi~ la comida y después la
 PST005	#los #familiares e $amichi #en #argentina
 PST005	e
 PST005	#_ por videollamada
-PST005	#_ no es lo mismo (.) pero bueno
+PST005	#_ no es lo mismo pero bueno
 PST225	vi vedete così
 PST005	#_ exactamen~
 PST006	così
 PST225	anche tu fai le videochiamate
 PST006	sì
 PST006	eh sì
-PST006	#_ se extraña (.) xxx
+PST006	#_ se extraña xxx
 PST005	#_ se extraña
 PST005	io #en #*argentina ho #*un #*mio figlio #no #quiso
 PST200	ah
@@ -1148,7 +1148,7 @@ PST200	non vuole
 PST005	no vuole
 PST200	mh
 PST005	#_ vino
-PST005	#_ en (.) el año pasado
+PST005	#_ en el año pasado
 PST005	no
 PST005	no piacere
 PST225	mh
@@ -1160,11 +1160,11 @@ PST005	no i~ #es #adolescente #otra #otra ca~ #otra testa
 PST200	ah
 PST200	mh vabbè
 PST225	e tua figlia è più grande
-PST005	#_ ventiséis
+PST005	#ventiséis
 PST200	mh okay
 PST005	ventiséis
 PST006	ah è grande
-PST005	#_ este (.) pero es otra
+PST005	#_ este pero es otra
 PST225	sì sì le piace alla fine qua
 PST005	sì
 PST005	#_ le encanta le encanta
@@ -1176,7 +1176,7 @@ PST005	#_ solo visitar
 PST200	mh mh mh
 PST225	mh
 PST200	preferisce vivere qua
-PST005	#_ sí (.) sí le encanta la verdad le gusta
+PST005	#_ sí sí le encanta la verdad le gusta
 PST200	mh mh
 PST006	sì come i figli i figli x quando arriviamo quando arriviamo
 PST006	eh mia figlia è
@@ -1191,8 +1191,8 @@ PST005	#_ y él también que
 PST006	sì
 PST006	anche #él #está #estudiando
 PST005	sì
-PST006	#_ sí (.) y y bueno
-PST006	#_ en perù como está difícil el está con una beca así que (.) no puede todavía hasta que xx la beca
+PST006	#_ sí y y bueno
+PST006	#_ en perù como está difícil el está con una beca así que no puede todavía hasta que xx la beca
 PST006	#_ del estudio superior
 PST200	ah ah
 PST006	sì e mia figlia sì #está #en #*la #secundaria
@@ -1215,7 +1215,7 @@ PST005	#_ y es fea
 PST006	sì
 PST005	se te
 PST005	#_ y los miedos y en argentina enseguridad eh la plata el dinero no
-PST005	#_ no alcanza (.) pero bueno
+PST005	#_ no alcanza pero bueno
 PST200	mh
 PST005	#_ es su vida
 PST200	mh mh eh sì
@@ -1225,9 +1225,9 @@ PST200	è una sua scelta
 PST005	mhmh
 PST200	mh
 PST200	certo
-PST005	#_ pero va (.) por ahí
+PST005	#_ pero va por ahí
 PST200	mhmh
-PST005	#_
+PST005	#_ bien
 PST225	mh mh mh
 PST005	io no~ eh #nosotros eh noi e
 PST005	#_ para ya ya no
@@ -1253,7 +1253,7 @@ PST005	sì #*pero
 PST006	sì #entonces
 PST005	#_ y pero se puede y tus hijos van a estar acá
 PST006	mh
-PST005	#_
+PST005	#_ y
 PST005	#_ para mí
 PST005	#_ este
 PST005	#_ si vuelvo no va a ser igual
@@ -1261,7 +1261,7 @@ PST006	sì
 PST005	#_ ya las amistades la forma de vivir acá es diferente
 PST006	sì anche #*mi mh anche #*mi #mamá #igual eh xx #así
 PST006	#*va #*a $retornare #*tu #*a #*perù
-PST006	#_ #*que
+PST006	#*que
 PST006	#otra volta #comenzar #otra volta iniziare tutto
 PST006	lei #está #allá
 PST200	sarebbe diverso avete vissuto qua poi avete visto
@@ -1278,13 +1278,13 @@ PST006	#_ si están bien
 PST200	sì sì s~
 PST006	xx
 PST006	#*pero la eh la
-PST005	#_ lo que pasa el hecho que (.) tenéis que pensar que ellos también se van a ir
+PST005	#_ lo que pasa el hecho que tenéis que pensar que ellos también se van a ir
 PST006	è mia figlio #él
 PST006	il grande #me #dice mamma tu tranquilla
 PST006	#_ como tú dices
 PST006	adesso #estamos #acá con ti con te
 PST006	dopo #*io xx non lo so co~ con #contigo
-PST005	#_ cualquier #*cosa
+PST005	#cualquier #*cosa
 PST006	non lo so
 PST005	#_ estados unidos
 PST006	ah eh no a #él piace #el #idioma
@@ -1294,7 +1294,7 @@ PST225	strano
 PST006	#*sì #*sì #porque #él #ha #estudiado #el #inglés e tutto
 PST006	#y adesso #estaba #estudiando #el #alemán
 PST005	uh
-PST006	è muy muy este esto
+PST006	è #_ muy muy muy este esto
 PST006	è #muy #este abile
 PST225	sì
 PST006	#_ sí entonces se busca y este estudiar este por beca
@@ -1309,7 +1309,7 @@ PST006	sì difficile
 PST005	mio figlia è #francés
 PST006	#desde piccola #el #francés el due mh a figlia ne~ nel $escuola
 PST005	sì
-PST005	#_ #*poco
+PST005	#*poco
 PST225	sì sì
 PST200	no anche qua in italia si studia
 PST006	#*io niente niente niente niente #ni #*la #*carta #nada
@@ -1323,7 +1323,7 @@ PST005	sì
 PST225	più facile l'italiano
 PST006	eh sì
 PST225	per voi
-PST005	#_ sí (.) para mí me x
+PST005	#_ sí para mí me x
 PST225	sì eh
 PST200	pieno di accenti il francese
 PST005	mio figlia
@@ -1356,7 +1356,7 @@ PST225	eh ormai è grande
 PST006	sì
 PST200	sta costruendo la sua strada la sua vita adesso
 PST006	sì anche #este #este #año #*han #aprendido #*a #ser #independientes
-PST005	#_ y #*te
+PST005	#y #*te
 PST006	sì
 PST005	#_ no hay mal que xxx
 PST006	#_ sí porque siempre yo he estado con ellos
@@ -1377,7 +1377,7 @@ PST225	non faceva nulla adesso ha imparato a fare tutto
 PST005	#_ claro
 PST200	quando non si sta più con con la mamma con la famiglia sì
 PST005	eh sì
-PST005	#_ exactamen~
+PST005	#exactamen~
 PST006	sì
 PST006	anche io #también #igual con le detto a mi mamma no
 PST006	#me manca mo~ #me manca figlio #*però qua
@@ -1388,7 +1388,7 @@ PST006	sei della mattina iniziava #tu lavoro
 PST006	d~ otto della notte
 PST006	a la casa #diez #de la notte #es #*lo #mismo
 PST006	#_ solo tú venía a la casa a dormir
-PST006	#_ #*solo #*guardava #*a tus hijos dos horas #*una #*hora es #*lo mismo
+PST006	#*solo #*guardava #*a #tus #hijos #dos #horas #*una #*hora #es #*lo #mismo
 PST225	mh mh
 PST006	es lo mismo pero la calidad ovviamente que hay un poco más
 PST225	certo
@@ -1422,7 +1422,7 @@ PST200	università
 PST200	sì sì xxxxx
 PST200	e invece tu
 PST006	io sì
-PST006	#_ he estudiado eh (.) es (.) comunicación informática
+PST006	#_ he estudiado eh es comunicación informática
 PST006	eh con #mi pri~ #mi primo figli #*sì #*sì #he #*laborado #y #estudiado #*pero #ya #*con #*la #segunda #*no #he #*laborado
 PST006	e dopo #he #estudiado #pastelería pastel~ pastel~ eh sì
 PST200	ah pasticceria
@@ -1441,7 +1441,7 @@ PST006	mio mio figli e~ #en la $escuola #y #*yo #digo #*que #*hago #en #*casa xx
 PST200	mh
 PST006	#_ y en desde casa trabajaba en pastelería
 PST005	mh
-PST006	#_ no todo lo que es temática dulce de mesa y todos (.) y eso he laborado en perú
+PST006	#_ no todo lo que es temática dulce de mesa y todos y eso he laborado en perú
 PST200	mh
 PST006	#_ y en pandemia me ayudó mucho ese
 PST225	sì
@@ -1458,11 +1458,11 @@ PST200	eh
 PST005	no io lavoro sempre in pandemia
 PST005	io #en argentina #tenía un lava~ lavaggio
 PST005	la~ eh
-PST005	#_ tintorería
+PST005	#tintorería
 PST225	sì
 PST200	ah sì sì
 PST006	ah okay okay
-PST005	propio
+PST005	#_ negocio propio
 PST200	tipo lavanderia
 PST005	lavanderia
 PST006	sì
@@ -1476,19 +1476,19 @@ PST005	tutto #el #día
 PST225	mh mh
 PST225	sempre aperti
 PST005	#_ este
-PST005	#_ que tampoco tenía tiempo (.) pero me gusta mucho la eh
+PST005	#_ que tampoco tenía tiempo pero me gusta mucho la eh
 PST005	sempre #estuve #*con mio marito #en #*negocio
 PST200	mh mh
 PST005	#_ y este
-PST005	#_ y (.) se trabajaba mucho
+PST005	#_ y se trabajaba mucho
 PST225	sì
 PST005	lavoro #mucho
 PST200	mh mh mh
-PST005	#_ este pero me gusta mucho las (.) arte artesanías e
+PST005	#_ este pero me gusta mucho las arte artesanías e
 PST006	#_ todo lo que manualidad
-PST005	#_ manualidades (.) con las manos
+PST005	#_ manualidades con las manos
 PST200	ah sì sì
-PST005	#_ pastelería repostería fue estudiar tanto (.) pero bueno eso es
+PST005	#_ pastelería repostería fue estudiar tanto pero bueno eso es
 PST006	hobby
 PST005	hobby un hobby
 PST225	mh mh
@@ -1496,7 +1496,7 @@ PST200	ti piacerebbe però studiare pasticceria
 PST005	#_ me encanta me gusta mucho
 PST200	mh
 PST200	dai
-PST005	#_ pero no sigo ((ride))
+PST005	#_ pero no sigo
 PST005	e
 PST200	beh magari con il tempo comunque
 PST200	a in italia ci sono i corsi quindi magari
@@ -1533,7 +1533,7 @@ PST200	delle passioni
 PST200	degli hobby che avevate magari in argentina in perù che qui
 PST200	non potete non riuscite a
 PST200	portare avanti
-PST005	#_ los hobby (.) y
+PST005	#_ los hobby y
 PST006	a #mí #*me piace lo #*que è #pastelería #extraño #mucho
 PST200	mh
 PST200	sì
@@ -1546,22 +1546,22 @@ PST200	mh
 PST200	sì sì
 PST200	ah
 PST006	anche quando vado al mercato #veo tutto #estrumentos
-PST006	#_ materiales (.) me da mucha nostalgia (.) esta es cosas
+PST006	#_ materiales me da mucha nostalgia esta es cosas
 PST005	voglio
 PST005	sì sì
 PST200	ah
 PST006	sì
-PST005	#_ a mí me gusta xx pastelería (.) pero no tengo ganas (.) e
+PST005	#_ a mí me gusta xx pastelería pero no tengo ganas e
 PST006	lavorar
 PST005	eh sì eh
 PST006	ah ah
 PST005	#_ deprimida como se dice estoy
 PST006	$depressiva
 PST005	#_ bajo~ sì depresiv~ bajoneada entonces no
-PST005	#_ y #*io #*vivo
+PST005	#y #*io #*vivo
 PST005	#_ puedo hacer todo eso y tengo cos~ vivo en un departamento con
 PST006	ah #*pero xxx
-PST005	#_ #*pero
+PST005	#*pero
 PST005	#_ me falta
 PST006	#_ el ánima
 PST005	#_ ánima
@@ -1574,17 +1574,17 @@ PST006	xx
 PST005	a mio
 PST005	#_ hice dulce de leche para los alfajores
 PST006	sì
-PST005	#_ este coco rallado pero todavía no (.) la masa no
+PST005	#_ este coco rallado pero todavía no la masa no
 PST005	#_ no tengo ganas
 PST200	sì sì sì
-PST005	#_ extraño mucho tan (.) extraño
+PST005	#_ extraño mucho tan extraño
 PST006	sì
-PST005	#_ no vo~ no voy a volver a argentina (.) pero extraño mucho
+PST005	#_ no vo~ no voy a volver a argentina pero extraño mucho
 PST225	ti manca
 PST225	mh mh mh mh mh
 PST005	#_ pero bueno
 PST005	#_ no me quejo
-PST005	#_ no no no no estoy arrepentida (.) para nada
+PST005	#_ no no no no estoy arrepentida para nada
 PST200	eh
 PST200	mh mh
 PST005	#_ no estoy arrepentida
@@ -1598,7 +1598,7 @@ PST200	mh
 PST005	#_ y eso porque
 PST006	#otra #otra #*cosa #*que
 PST005	lavoro lavoro #aquí #y $lavoré #en #argentina #siempre
-PST005	#*pero #*la es otra cosa
+PST005	#*pero #*la #_ tranquilidad es otra cosa
 PST200	mh mh mh mh
 PST006	#_ no hay nada como la tranquilidad
 PST005	sì
@@ -1606,10 +1606,10 @@ PST005	#_ aunque ganes menos
 PST005	#_ en argentina eh ganaba más
 PST005	#_ pero no lo disfrutaba
 PST005	e #acá mio #marido #trabaja mio figlia lavoro
-PST005	#_ este
-PST005	#_ y nos damos uno (.) unos gustitos
-PST005	#_ igual ahorramos (.) para una casa propia
-PST005	#_ e (.) un crédito en el banco un negocio
+PST005	#este
+PST005	#_ y nos damos uno unos gustitos
+PST005	#_ igual ahorramos para una casa propia
+PST005	#_ e un crédito en el banco un negocio
 PST005	#_ pero
 PST005	#_ más tranquilo más tranquilo
 PST200	mh mh mh
@@ -1617,7 +1617,7 @@ PST225	sì sì
 PST200	ma scusami non ho capito bene se il il tuo studio di informatica mi pare è s~ sono l~ è liceo o è università
 PST006	ah sì
 PST006	è lice~ no è l~ dopo #de #*la è #es #técnico
-PST006	#_ instituto
+PST006	#instituto
 PST200	okay
 PST225	ah
 PST006	sì
@@ -1669,7 +1669,7 @@ PST006	vecchia
 PST005	vecchia
 PST005	e
 PST005	e tipo
-PST005	#_ #*preciso
+PST005	#*preciso
 PST005	#_ camillo sesto eh dyango pero de españa
 PST200	mh mh
 PST200	mh
@@ -1686,9 +1686,9 @@ PST005	#*me piace #mucho e e mi piace #mucho
 PST005	#_ en argentina
 PST200	e andavi a ballare in argentina
 PST005	e i bal~
-PST005	#_ eh clase de (.) zumba
+PST005	#_ eh clase de zumba
 PST200	ah ah
-PST005	#_ pero para bajar de (.) de peso (.) pero no resultó tampoco
+PST005	#_ pero para bajar de de peso pero no resultó tampoco
 PST006	#_ no pero te relaja
 PST005	#_ sí sí sí la cabeza y lo el cuerpo
 PST006	#_ el cuerpo
@@ -1698,7 +1698,7 @@ PST005	sì sì mi piace #mucho #bailar
 PST006	mh
 PST005	#_ y cantar
 PST005	cantare #*pero #*no
-PST005	#_ no tengo (.) canto mal
+PST005	#_ no tengo canto mal
 PST005	malissimo uh sì yo canto x x x
 PST006	canta
 PST200	no ma v~ va bene cantare anche quando non
@@ -1713,7 +1713,7 @@ PST200	sì
 PST005	#_ eso eso extraño
 PST005	e
 PST005	#el $bailare
-PST006	#_ sí sí (.) yo también extraño
+PST006	#_ sí sí yo también extraño
 PST005	#_ extraño bailar
 PST200	sì
 PST005	#_ porque
@@ -1721,8 +1721,8 @@ PST005	#*io #donde #*vivo #*un #departamento eh
 PST005	#_ hay gente y la música fuerte no
 PST200	eh no
 PST225	mh certo
-PST005	este y ahora
-PST005	#_ tengo unos auricolares inalámbricos (.) así que
+PST005	#_ entoces este y ahora
+PST005	#_ tengo unos auricolares inalámbricos así que
 PST200	così puoi ballare
 PST005	xxx
 PST005	sì
@@ -1765,18 +1765,18 @@ PST005	ta~ pomeriggio
 PST006	pomeriggio
 PST006	eh pomeriggio #*cuando #ya tutta #*la #*gente #*va
 PST006	#_ siempre es así
-PST005	#_ sí (.) en eh sí yo también pero
+PST005	#_ sí en eh sí yo también pero
 PST005	#_ al campo
 PST005	eh a mio fi~ a mio mari~ #bueno #*a #mí #también #el #*campo #*con #*la
 PST005	#_ las vacas
 PST005	il mio
-PST005	#_ tengo tíos (.) tía como se dice
+PST005	#_ tengo tíos tía como se dice
 PST225	eh zio
 PST006	s~ zi
 PST005	#_ sí pariente con campo
 PST006	xxxx
 PST200	mh mh
-PST005	#_ entonces eso sì (.) me gusta la tranquilidad
+PST005	#_ entonces eso sì me gusta la tranquilidad
 PST200	mh mh mh mh
 PST006	sì
 PST005	#_ y vamos ahí
@@ -1794,10 +1794,10 @@ PST225	io non sapevo che cosa fosse
 PST005	#_ es como un tè
 PST200	mh
 PST005	tè eh
-PST005	#_ sí es un (.) parecido a un tè
+PST005	#_ sí es un parecido a un tè
 PST200	mh
 PST005	#_ calie~
-PST005	#_ #*io caliente
+PST005	#*io #caliente
 PST005	e amaro dolce no
 PST200	e è
 PST200	mh mh mh mh
@@ -1805,11 +1805,11 @@ PST005	#_ pero otra gente toma dulce
 PST006	#_ dulce porque que le porta azúcar
 PST005	#_ azúcar
 PST006	ah
-PST005	#_ otro le pone (.) cáscara de
+PST005	#_ otro le pone cáscara de
 PST005	$aranche
 PST006	ah sì
 PST005	o limoni
-PST005	#_ pero (.) yo solo yerba
+PST005	#_ pero yo solo yerba
 PST200	sì sì
 PST005	#*la #consigo #en #el mercato
 PST225	sì
@@ -1820,10 +1820,10 @@ PST005	sì sì sì sì
 PST005	#_ este
 PST200	mh
 PST005	#_ es lo único que no me puede faltar es el mate
-PST005	#_ sí pues (.) el mate lo usé ya te digo
+PST005	#_ sí pues el mate lo usé ya te digo
 PST005	#en #argentina #dulce #*de #leche no co~ no mangiare #mucho
 PST005	#*pero #*quando #vine a qui #desesperada #por #el
-PST005	#_ por el dulce de leche no sé porque ((ride)) triste como que no te lo xx te dicen que no te xx
+PST005	#_ por el dulce de leche no sé porque triste como que no te lo xx te dicen que no te xx
 PST225	perché
 PST200	quando non ce l'hai poi ti manca
 PST005	eh sì
@@ -1841,7 +1841,7 @@ PST005	mh
 PST005	sì
 PST005	#_ y en nutella ve eh en argentina era caro
 PST006	#_ y aquí barato
-PST005	#_ y acá y acá barato (.) pero en argentina me gustaba (.) y acá como que no xx ((ride))
+PST005	#_ y acá y acá barato pero en argentina me gustaba y acá como que no xx
 PST006	sì
 PST200	mh
 PST225	vuoi solo #el #dulce #de #leche
@@ -1857,13 +1857,13 @@ PST006	noi #selva #sierra #y #*costa
 PST225	sì
 PST200	okay
 PST006	#_ io hábito en la costa
-PST006	#_ pero eh (.) mi familia
+PST006	#_ pero eh mi familia
 PST006	#_ de papás
 PST006	#_ son de cuzco que es sierra
-PST006	#_ entonces (.) eh tengo las (.) dos tradiciones
+PST006	#_ entonces eh tengo las dos tradiciones
 PST200	okay
 PST225	ah
-PST006	#_ mi mi~ mis hijos tienen las dos tradiciones (.) tanto costera como de cuzco
+PST006	#_ mi mi~ mis hijos tienen las dos tradiciones tanto costera como de cuzco
 PST200	okay
 PST006	no
 PST006	#_ y en cuczco también se bebe el mate pero es la el mate de
@@ -1907,13 +1907,13 @@ PST225	più forte
 PST006	sì
 PST225	qui
 PST006	anche un americano #es #*una #*taza #asì
-PST005	#_ sí tampoco no chiquito no (.) sí sí una más grande es así
+PST005	#_ sí tampoco no chiquito no sí sí una más grande es así
 PST006	xxx #en perù sì sì
 PST200	eh sì sì
-PST005	#_ sí (.) en argentina también
-PST005	#_ pero en argentina (.) eh mucho para
+PST005	#_ sí en argentina también
+PST005	#_ pero en argentina eh mucho para
 PST005	eh
-PST005	#_ como desayuna (.) e
+PST005	#_ como desayuna e
 PST006	colazione
 PST005	colazione
 PST005	#_ y merienda
@@ -1921,10 +1921,10 @@ PST005	#_ merienda es
 PST200	merenda merenda
 PST005	sì #merienda
 PST006	xxxxx
-PST005	#_ eh (.) y después
+PST005	#_ eh y después
 PST005	#_ con mate
 PST200	mh mh
-PST005	#_ no toma mucho se toma (.) pero caffè (.) pero asì grande
+PST005	#_ no toma mucho se toma pero caffè pero asì grande
 PST005	#_ en los restaurantes mh es grandecito
 PST005	no piccolino
 PST006	ah sì
@@ -1961,10 +1961,10 @@ PST006	sì #en perù è salata
 PST225	salata
 PST225	mh
 PST006	sì
-PST005	#_ eh (.) sí no dulce
-PST006	#_
+PST005	#_ eh sí no dulce
+PST006	#_ desayuno
 PST005	#_ pero poco ehm
-PST006	#_ dulce
+PST006	#dulce
 PST005	#_ es poco
 PST005	#_ no es mucho
 PST200	mh mh
@@ -1972,7 +1972,7 @@ PST006	#en perù è salato #mayormente
 PST005	no no
 PST006	dolce no
 PST006	dolce solo a #merienda
-PST005	#_ claro (.) también
+PST005	#_ claro también
 PST225	beh sì
 PST006	sì
 PST200	mh mh mh mh
@@ -1981,7 +1981,7 @@ PST200	bene
 PST225	ci siamo
 PST200	per me ci siamo
 PST225	grazie mille allora
-PST005	#_
+PST005	#_ listo
 PST006	a te
 PST200	grazie mille
 PST005	#_ bueno

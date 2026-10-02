@@ -103,7 +103,7 @@ PST200	okay
 PST200	e venite quindi dal marocco e dal perù giusto
 PST004	sì
 PST003	ah ah lei eh dal perù mh io dal marocco
-PST004	#_ yest
+PST004	#yes
 PST200	oh s~ okay sì sì sì
 PST200	quindi ah
 PST200	da quanto tempo siete qua in italia
@@ -127,7 +127,7 @@ PST200	dove
 PST003	venezia
 PST200	dov'è
 PST200	io non sono brava in geografia
-PST003	#_ está abierta y está abi~ ((ride))
+PST003	#_ está abierta y está abi~
 PST200	okay allora mi sono persa e quindi
 PST200	ah mh
 PST200	la vostra però la vostra lingua madre è
@@ -578,7 +578,7 @@ PST200	ciao bene
 PST003	sì sì vieni vieni tutto bene
 PST004	va bene va bene a posto a posto sì sì
 PST003	eh eh
-PST004	#_ para
+PST004	#para
 PST003	e e le persone xx le parole xx
 PST003	sì sì sì no no no
 PST003	mh non capisci niente
@@ -618,9 +618,9 @@ PST004	la $escuola è
 PST004	vado con mia amica o con mia famiglia #y
 PST004	siempre parliamo #el #español
 PST200	mh
-PST004	#_ entonces
+PST004	#entonces
 PST200	eh sì tu hai la famiglia qui quindi parlate sempre spagnolo
-PST004	#_ español español siempre ((ride))
+PST004	#_ español español siempre
 PST200	mh mhmh mh
 PST200	e
 PST004	anche mia figlia no parla italiano #es eh
@@ -962,7 +962,7 @@ PST004	sì è diverso
 PST200	sì
 PST200	sì
 PST200	e non so avete avete qualche
-PST004	la pronuncia
+PST004	#_ en la pronuncia
 PST200	eh avete qualche qualcosa che notate di specifico
 PST200	la pronuncia dicevi
 PST003	ah sì
@@ -1134,7 +1134,7 @@ PST200	hai ragio~
 PST200	e tu anche tu ce l'hai in italiano il telefono no
 PST003	$españolo
 PST200	eh eh in spagnolo
-PST004	#_ español
+PST004	#español
 PST200	eh sì sì
 PST200	no però non c'è niente di
 PST200	di cui vergognarsi tu parli più spagnolo
@@ -1176,7 +1176,7 @@ PST200	mh mh mh mh mh
 PST200	mh
 PST200	ehm
 PST200	eh tu però l'inglese non lo sai giusto
-PST004	#_ #*no #*no #*no #*io #*no #*lo sé
+PST004	#*no #*no #*no #*io #*no #*lo #sé
 PST200	solo italiano e spagnolo okay okay
 PST200	ehm
 PST200	ma oltre la tua famiglia conosci altre persone a torino che parlano lo spagnolo
@@ -1205,7 +1205,7 @@ PST004	el eh
 PST004	anche siamo peruviani non parliamo #así #*de #*de #confianza sì #como parliamo #así
 PST200	okay
 PST004	ah parliamo tutto il tempo no
-PST004	#_ somos
+PST004	#somos
 PST004	a distanza
 PST200	mh
 PST200	okay
@@ -1556,7 +1556,7 @@ PST004	mh
 PST004	non
 PST004	mh
 PST200	neanche a me
-PST004	#_ ni lo penso ((ride))
+PST004	#_ ni lo penso
 PST200	okay okay
 PST200	ehm
 PST200	e e c'è ci sono invece delle passioni che
@@ -1742,7 +1742,7 @@ PST200	okay
 PST200	q~ e i tuoi zii anche
 PST004	ah mh dopo #mi zia
 PST200	okay
-PST004	#_ ella
+PST004	#ella
 PST004	#está abitando più o meno quattro $quattri anni
 PST200	okay
 PST004	#mi zio ah è venuto più o meno un anno
@@ -1767,7 +1767,7 @@ PST003	va bene
 PST200	in cerca
 PST200	mentre
 PST200	mh
-PST004	#_ contabilidad (.) commercial
+PST004	#_ contabilidad commercial
 PST200	okay quello però è il tuo studio no gli studi che hai fatto
 PST200	mentre il l~ il lavoro che tu fai adesso qua è
 PST200	mh tipo la badante è una cosa simile sì

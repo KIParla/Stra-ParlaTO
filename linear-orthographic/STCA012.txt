@@ -161,7 +161,7 @@ PST158	esatto
 PST158	esatto tipo durante il periodo degli esami non mi vede più nessuno
 PST214	cioè adesso
 PST158	poi ricompaio ogni tanto ogni qua e là
-PST214	#_ hello
+PST214	#hello
 PST158	tipo sono ancora viva
 PST214	ciao
 PST214	no io invece con~ ho condivido un appartamento
@@ -379,7 +379,7 @@ PST158	perché passa fermi qua po~ poi te la fai a piedi
 PST214	eh esatto
 PST158	e poi va su a piazza castello
 PST214	esatto
-PST214	eh sì no la gtt #crazy
+PST214	eh sì no la gi ti ti #crazy
 PST158	no
 PST214	e poi la sera
 PST214	cioè nel senso se io dovessi uscire di sera e prendere il pullman
@@ -646,8 +646,8 @@ PST214	al mese
 PST214	cioè ne~
 PST158	eh
 PST214	sì o~ oppure una cosa così
-PST158	#_ crazy
-PST158	#_ crazy
+PST158	#crazy
+PST158	#crazy
 PST214	o per sei mesi
 PST214	no mi non so
 PST158	no
@@ -1327,7 +1327,7 @@ PST214	sì
 PST158	ho $quittato di brutto
 PST214	io gli anno l'anno scorso li avevo scritti tutti a mano i vocaboli
 PST214	erano tipo trecento vocaboli
-PST158	#_ crazy
+PST158	#crazy
 PST214	sì
 PST158	sei #crazy
 PST214	eh perché non li imparavo
@@ -1586,7 +1586,7 @@ PST214	è vero che è amaro però a me piace
 PST158	ma cosa ti piace dell'amaro
 PST214	non lo so il sapore del cioccolato fondente amaro è buono
 PST158	no no con questo scusa
-PST158	eh i don't agree
+PST158	eh #_ but i don't agree
 PST214	o~ okay
 PST158	per niente
 PST158	no

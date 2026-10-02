@@ -38,7 +38,7 @@ PST098	#_ estaban encerrados
 PST213	okay
 PST098	#_ yo voy tambien voy a saludar ((ride)) y ver a los perrit[os]
 PST213	[ah] ah
-PST098	#_ pero antes de eso me dijieron (.) e:h @florencia no te acerques a los perros
+PST098	#_ pero antes de eso me dijieron (.) e:h no te acerques a los perros
 PST213	pe:rché?
 PST098	#_ porque:: como yo no los conosco los perritos (.) pu~ puede ser de que tengan otro (.) también caracter y asì
 PST213	okay
@@ -63,9 +63,9 @@ PST098	#_ yo saco mi mano
 PST098	#_ y en ese momento que el perro hace ruido porque cuando un perro muerde, (.) hace ruido,
 PST213	sì
 PST213	[#como e::h]
-PST098	abuela]
+PST098	#_ [mi abuela]
 PST098	ah ah
-PST098	#_ mi abuela viene y me dice (((vibrazione cellulare)) @florencia @florencia que està pasando?
+PST098	#_ mi abuela viene y me dice (((vibrazione_cellulare)) que està pasando?
 PST098	#_ y:: yo tenìa dos opciones
 PST213	e::h
 PST098	#_ si decirle o no decirle (.) porque me habìan dicho no te acerques a los [perros]
@@ -90,7 +90,7 @@ PST098	#_ lo que màs [sentía]
 PST213	[ma non fac]eva malissimo?
 PST098	#_ era dolor (.) por[que] (.) lo he empezado a ver y como ví la herída (.) que estaba todo horrible, me empezó a dar mareos
 PST213	[e:h]
-PST213	#_ #claro
+PST213	#claro
 PST098	#_ y y en ese momento me desmayé
 PST098	#_ yo me despierto
 PST213	ma eri ancora a casa lì?
@@ -278,7 +278,7 @@ PST213	ah ah
 PST098	#_ y en eso yo que voy acariciarla (.) se [acercó] o:tro perro y empezaron a a pelear
 PST213	[sì::]
 PST213	[mh mh]
-PST098	#_ [#perros]
+PST098	[#perros]
 PST098	#en #ese #momento #de xxx, (.) sai #estaba #allì #presente #en #la #pelea #en #la #pelea #de #los #perros,
 PST098	#_ yo creo que un perro se habrá equivocado, habrá confundido mi pierna (.) con la del perro
 PST098	#_ y me mordió a mi (.) en vez del perro.
@@ -319,8 +319,8 @@ PST165	vado un attimo in bagno e poi partiamo
 PST213	m::h °non c'abbiamo fretta°
 PST089	#_ quieres gaseosa,
 PST213	cosa?
-PST089	#_ #gaseosa
-PST089	#_ #esto
+PST089	#gaseosa
+PST089	#esto
 PST213	no (.) grazie
 PST213	avevo capito graziosa
 PST099	((ride))
@@ -332,7 +332,7 @@ PST098	m:h deve venire una signora mi sa
 PST213	a:::h quella che vi deve dare i consigli
 PST098	mh mh
 PST213	mh mh
-PST098	#_ #gracias
+PST098	#gracias
 PST089	xx xx xx
 PST213	di::: m::::h come::: come parlare alle persone no? come:[:::]
 PST098	[sì perché] lei ha espe:rienza con questo oggi

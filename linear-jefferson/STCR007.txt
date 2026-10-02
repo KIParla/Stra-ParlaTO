@@ -51,8 +51,8 @@ PST092	non questo facciamo tra (.) due sabati
 PST087	non so [se ci sono]
 PST083	[ma cosa]
 PST092	te che (.) ci sono tipo ehm noi avevamo detto::
-PST092	#_ #taraful
-PST092	#_ #plus #*orchestra
+PST092	#taraful
+PST092	#plus #*orchestra
 PST092	cioè #plus #*orchestra più canto
 PST092	[facciamo sabato]
 PST083	[ehm (.) mag]ari
@@ -471,7 +471,7 @@ PST092	ma non l'hanno già chiesto per l'estate ragazzi?
 PST092	di pubblicare le foto e robe [varie]
 PST083	[sì] ma è comunque devi comunque chiederlo cioè non è che lo chiedi una volta e poi:
 PST092	e::[:h]
-PST087	seara
+PST087	#_ bună] seara
 PST083	#_ bună sear
 PST092	#_ bună [seara]
 PST083	[non è che vale per] sempre sta cosa eh
@@ -503,8 +503,8 @@ PST083	[no quando] (.) quando giochiamo #*la:: #*la #rațele #și #vânătorii
 PST092	tutti i bambini stanno sempre girati da un [lato]
 PST083	[sì] ma c'è un un da una parte i bambini che guardano di fronte comunque ((ride)) sono due linee
 PST092	e:::h
-PST092	seara]
-PST083	#_ [#seara]
+PST092	#_ [bună seara]
+PST083	[#seara]
 PST092	che ore sono
 PST087	[le sette e quaran~]
 PST083	[sono:: e quarantotto]
@@ -555,7 +555,7 @@ PST092	se fossero stati gli stessi cantanti però:
 PST083	°ma che stai dicendo°
 PST092	ci sono stati degli spettacoli qua a torino con quelli cantanti
 PST083	in che sen[so]
-PST092	rom]âni
+PST092	#_ [de rom]âni
 PST083	sì ma anche la venivano due giorni e se ne andavano,
 PST092	e::h
 PST092	non so
@@ -638,7 +638,7 @@ PST092	((al_telefono)) #da #mam
 PST092	e::h ho da fare
 PST092	mh mh
 PST092	ma quando
-PST092	#_ #acuma?
+PST092	#acuma?
 PST092	#_ da le dau eu mâine ce îi dai tu azi
 PST092	#_ da bani bani de cântec pentru?
 PST092	a:h (.) ma scusa ma a sto punto glieli do domani
@@ -650,7 +650,7 @@ PST092	e poi viene raggiunto con orchestra,
 PST092	piuttosto #ies #eu #afară #și #imi #mie #și #îi #dau #ei #așa #să #nu
 PST092	chiamami quando se fuori che vengo io
 PST092	#dacă e plin nu știu dacă este plin
-PST092	#_ #probabil
+PST092	#probabil
 PST092	((ride))
 PST092	#_ hai ma te las:
 PST092	pa

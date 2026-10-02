@@ -147,7 +147,7 @@ PST095	eccoci
 PST095	cosa
 PST203	((ride))
 PST203	e::h tu parli anche l'arabo?
-PST095	oddio e::h io parlo il marocchino (.) [#darija]
+PST095	oddio e::h io parlo il marocchino (.) [#dārija]
 PST203	[okay]
 PST203	mh mh
 PST095	e::h che è u::na lingua differente da quello che è l'arabo classico che è parlato in nord africa:: e non,
@@ -157,7 +157,7 @@ PST095	allora la questione della lingua p~ allora la lingua io l'ho sempre parla
 PST095	e:::hm
 PST095	per parlare in casa perché a casa:: mia i miei genitori:: non parlavano l'italiano,
 PST203	mh
-PST095	e::::hm e quindi per comunicare mi hanno insegnato giustamente il e:::h la de~ [#darija]
+PST095	e::::hm e quindi per comunicare mi hanno insegnato giustamente il e:::h la de~ [#dārija]
 PST095	e::hm::::
 PST095	poi uscendo d::i casa parlo solo italiano,
 PST095	c(io)è nel senso:: non non la uso come lingua ora lavorando come infermiera (.) in carcere purtroppo::: non mi è data la possibilità di usare la mia lingua madre anche mi fa molto arrabiare [questa cosa].
@@ -385,7 +385,7 @@ PST095	e a leggere,
 PST203	ah ecco al al di là di eh al di là del discorso moschea scuola coranica tu usi mai l'arabo tipo:: social messaggi [eccetera]?
 PST095	[non so scrivere] e leggere,
 PST203	quindi neanche con l'alfabeto latino
-PST095	m:::h ah no con l'alfabeto latino sì però poi parlo #darija
+PST095	m:::h ah no con l'alfabeto latino sì però poi parlo #dārija
 PST203	okay
 PST203	però tipo usi quella roba colle [coi numeri eccetera okay]
 PST095	[coi numeri sì sì sì]
@@ -397,7 +397,7 @@ PST203	nei messaggi su whatsapp::
 PST095	cosa intendi c(io)è
 PST095	inten[di],
 PST203	[c(io)è] nel senso lo usi tanto poco
-PST095	#darija scritta la uso spesso [c(io)è la è una cosa che uso spesso] c(io)è nel senso l'arabo::: sì lo uso
+PST095	#darija scritta la uso spesso [c(io)è la è una cosa che uso spesso] c(io)è nel senso l'arabo::: #fusḥā sì lo uso
 PST203	[ah ec(co) era questa la domanda era questa la domanda]
 PST095	uso nel parlato anche coi numeri,
 PST203	mh mh
@@ -406,7 +406,7 @@ PST203	[mh]
 PST211	[mh mh]
 PST095	o so che non si dicono così quindi vado a ricercarli (.) e::h
 PST095	però
-PST095	#darija scritta sì la uso perché comunque sento parenti cugini:: [amici::]
+PST095	#dārija scritta sì la uso perché comunque sento parenti cugini:: [amici::]
 PST203	[mh=mh mh=mh]
 PST095	>quindi<
 PST203	però non l'alfabeto arabo usi le lettere latine
@@ -430,7 +430,7 @@ PST095	[sì]
 PST095	m:::h
 PST211	e i tuoi genitori quindi poi l'italiano l'hanno studiato in una:: c(io)è sono qua da tanti anni [immag]ino c(io)è dicevi all'inizio non::
 PST095	[sì]
-PST211	non lo parlavano e quindi chiaramente in casa parlavate:: #darija ma poi l'hanno imparato è migliorato il loro italiano oppure e rimasto::
+PST211	non lo parlavano e quindi chiaramente in casa parlavate:: #dārija ma poi l'hanno imparato è migliorato il loro italiano oppure e rimasto::
 PST095	quello di mio padre è migliorato: quello di mia madre: è migliorata la comprensione non il parlato perché si vergona a parlare di sbagliare e quindi non parla
 PST211	okay
 PST211	e quindi c(io)è tu in casa con loro mh ti capita di usare anche:: l'italiano mgari [perché]::: [okay] mh mh

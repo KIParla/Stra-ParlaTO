@@ -107,7 +107,7 @@ PST200	[oka]y:
 PST200	e venite quindi: dal marocco:, (.) e dal perù (.) giu[sto]?
 PST004	[sì]
 PST003	[a:h] a:h lei, eh da:l perù m:h io, dal maro[cco]
-PST004	#_ [#yest]
+PST004	[#yes]
 PST200	[oh s~] (.) okay: sì=sì=sì
 PST200	quindi? (.) a::h
 PST200	da quanto tempo siete qua in italia?
@@ -598,7 +598,7 @@ PST003	sì [sì: vieni vieni tutto bene:]
 PST004	[va bene va bene (.) a posto a posto] sì sì:
 PST200	((ride))
 PST003	°eh=[e:h°]
-PST004	#_ [(#para)],
+PST004	[(#para)],
 PST003	e: e le persone, xx le parole xx
 PST003	sì sì sì: no: no no
 PST004	((ride))
@@ -640,7 +640,7 @@ PST004	la $escuola è::
 PST004	vado con: mia amica: o con mia famiglia #y::
 PST004	siempre parliamo #e:l: #español,
 PST200	m:h
-PST004	#_ #entonce[s]
+PST004	#entonce[s]
 PST200	[e]:h sì tu hai la famiglia qui, quindi parlate sempre spagnolo[:]
 PST004	#_ [e]spañol español siempre, ((ride))
 PST200	m:h mhmh m:h
@@ -993,7 +993,7 @@ PST004	[sì: è dive]rso: ((ride))
 PST200	sì:?
 PST200	sì,
 PST200	e [non so avete:, (.) avete qual]che:
-PST004	la pronuncia:]
+PST004	#_ [en la pronuncia:]
 PST200	e::h, avete qualche:: qualcosa che notate: di:: specifico,
 PST004	((ride))
 PST200	la pronuncia: di[ce[vi:]?
@@ -1170,7 +1170,7 @@ PST200	e tu anche tu ce l'hai in italiano:, il telefono (.) no:[:]?
 PST003	$[esp]a[ñolo]
 PST200	[eh e]:h in spagnolo:
 PST003	((ride))
-PST004	#_ #español,
+PST004	#español,
 PST200	e::h sì sì,
 PST200	no: però non c'è niente di::
 PST200	di cui vergognarsi: tu, (.) parli più spagnolo:,
@@ -1213,7 +1213,7 @@ PST200	m:h mh=mh=mh m:h
 PST200	mh
 PST200	e::hm:
 PST200	eh (.) tu però l'inglese non lo sai:, giusto?
-PST004	#_ [#*no:: #*no #*no #*io #*no #*lo #sé]
+PST004	[#*no:: #*no #*no #*io #*no #*lo #sé]
 PST200	[solo:: italiano:], e:: spagnolo, (.) okay °okay°
 PST200	e::hm::
 PST200	ma, oltre: la tua famiglia conosci altre persone:: a torino:, (.) che: parlano lo spagnolo::
@@ -1243,7 +1243,7 @@ PST004	el: e::h
 PST004	anche siamo: peruviani: non:, parliamo #así (.) #*de: #*de #confianza, sì #como par[liamo #así]
 PST200	[°okay°]
 PST004	a:h parliamo tutto il tempo, no:,
-PST004	#_ #somo:s
+PST004	#somo:s
 PST004	a distanza:
 PST200	mh
 PST200	[okay]
@@ -1794,7 +1794,7 @@ PST200	okay
 PST200	(q~) e i tuoi zii: anche:,
 PST004	ah m:h dopo #mi zia:,
 PST200	oka[y]
-PST004	#_ #[e]:lla::
+PST004	#[e]:lla::
 PST004	#está abitando: più o meno quattro: (.) $quattri anni?
 PST200	okay
 PST004	#mi zio:, ah è venuto:: più o meno:, un anno,

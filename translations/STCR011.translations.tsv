@@ -38,7 +38,9 @@ tu_id	speaker	start	end	parent_tu_id	text
 1030	PST092_trad	1740.021	1742.050	1029	questo a caccia di ragazze
 1034	PST092_trad	1742.466	1743.566	1033	a caccia di ragazze
 1057	PST092_trad	1780.060	1781.600	1056	ti sei ubriacata?
+1072	environment_trad	1806.020	1819.210	1071	l'unica persona della casa che ti ha difesa quando eri (xxx) l'unica persona della casa che ti ha difesa quando eri stata messa da parte e non sei riuscita ad integrare qui nella casa dell'amore ero l'unica a darti validazione
 1075	PST092_trad	1816.200	1817.544	1074	la signora ecaterina mi uccide
+1080	environment_trad	1825.710	1826.910	1079	qual'è il problema se
 1100	PST092_trad	1854.660	1858.040	1099	è nulla in con~
 1112	PST092_trad	1883.148	1886.148	1111	montoya per favore montoya
 1137	PST092_trad	1929.880	1930.833	1136	così comico

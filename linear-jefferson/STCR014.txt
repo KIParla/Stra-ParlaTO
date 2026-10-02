@@ -148,8 +148,8 @@ PST087	si potrebbe fare
 PST203	voi pensate alla scena la tecnica la adattiamo
 PST203	in funzione della scena
 PST087	secondo me si potrebbe fare una nell'angolino in cui ci prendiamo noi così che siamo magari die:tro metti che siamo [tipo in fi:la:]
-PST092	#_ [#oaș]
-PST092	#_ #oaș,
+PST092	[#oaș]
+PST092	#oaș,
 PST087	non proprio #oaș ma anche tipo mentre ci spiega i passi #dom così è davanti visto che non credo gli si voglia [°vedere la faccia°]
 PST092	[eh io] pensavo magari
 PST087	e:h così: noi che facciamo dei passi dietro [che magazi conosciamo già °(tipo)°]
@@ -182,7 +182,7 @@ PST203	[perché siete tutte den]tro
 PST092	[c'è] [no: (.) e tutte]
 PST087	[però ci sa][rebbero libere e perché loro sono] e:h #începători cioè sono tipo:
 PST203	[però:]
-PST092	#_ [#ince~]
+PST092	[#ince~]
 PST087	[noi siamo #intermediari e loro so]no:
 PST203	[sì: sì: ho capito]
 PST092	#înce[pători quindi non sa~ non fanno danza con noi]
@@ -432,7 +432,7 @@ PST092	[eh bravo che hai ammesso l'errore ma non [ti vergogni nemmeno un] pochin
 PST087	[così xx]
 PST203	no:
 PST203	no no [no sono abbastanza orgoglioso]
-PST092	fie rușine la obraz]
+PST092	#_ [să-ți fie rușine la obraz]
 PST092	[dai]
 PST203	[così abbiamo] girato con i vostri cellulari e ho visto cosa facevate
 PST087	male

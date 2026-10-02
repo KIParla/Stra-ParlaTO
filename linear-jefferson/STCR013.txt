@@ -413,7 +413,7 @@ PST092	[lunedì] [alle diciotto]?
 PST086	[no dopo finisco di fare]
 PST085	[lunedì alle diciotto]?
 PST203	[alle diciotto ci sei]?
-PST086	#_ #yes
+PST086	#yes
 PST211	[eh la povera poi deve t]ornare:: a druento
 PST203	[okay (.) c'è]
 PST094	no: ma qualcuno che lo fa che fa e:h l'intervis[ta]

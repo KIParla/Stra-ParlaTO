@@ -111,7 +111,7 @@ PST205	e per quanto riguarda i dialetti invece
 PST016	dialetti ci sono in marocco ci sono tre $dialette
 PST016	tre $dialette tranni l'arabo tranni la lingua araba standard c'è
 PST016	berbero c'è di #amazigh
-PST016	e #tashelhit e #tarifit il #tarifit è del sud
+PST016	e #tachelhit e #tarifit il #tarifit è del sud
 PST016	del del nord del marocco
 PST016	eh f~ vicino la spagna quel c'è quasi quattordici chilometri
 PST016	e e nel sud del marocco ci sono due berber e t~ #tashelhit e #tamazigh
@@ -608,7 +608,7 @@ PST016	non c'è xxx
 PST016	conosco un sacco di ragazzi marocchino hanno un permesso
 PST016	non sono illegali
 PST016	col permesso oppure con la carte illimitata
-PST016	hanno quaranta o cinquanta percento per l'eh per l'invalidità
+PST016	hanno quaranta o cinquanta percento per l' eh per l'invalidità
 PST016	non hanno il diritto di prendere neanche un centisimo
 PST016	cosa prendo il pullman
 PST016	gratis
@@ -1000,16 +1000,16 @@ PST016	dieci
 PST016	della cucina
 PST016	ho preparato
 PST016	perché sono specialista
-PST016	per tu~ tutta la cucina marocchina sia per sia per cuscus
+PST016	per tu~ tutta la cucina marocchina sia per #ṭājīn sia per cuscus
 PST016	in qualsiasi cosa
 PST016	anche per la cucina araba
 PST016	ho f~ ho preparato un cuscus e quello piatto grande
 PST016	due piatti grandi quello di terrat~ cotta
-PST016	e cinque tipi di anche il tè
+PST016	e #ṭājīn cinque tipi di #ṭājīn anche il tè
 PST016	e assaggiato sindaco di di di grugliasco
 PST016	x mi ha detto
 PST016	cos'hai messo dentro cos'hai messo dentro
-PST016	è tutto delizioso sia cuscus sia sia tè e tutto
+PST016	è tutto delizioso sia cuscus sia #ṭājīn sia tè e tutto
 PST016	mi piace la cucina
 PST205	e ti piace la cucina italiana
 PST016	per me sì riesco
@@ -1019,7 +1019,7 @@ PST016	ma come un piatto per me la pasta come insalata mangio poco un piattino
 PST205	e cucini piatti italiani a casa
 PST016	per la pasta ma qualche volta a me piace la cuz~ la la cucina marocchina
 PST016	sì soprattutto il pesce
-PST016	e per gli altri piatti come sì
+PST016	e per gli altri piatti come #ṭājīn sì
 PST016	perché col verdure perché mi piace la verdura è importante per
 PST016	per l' l'intestino per lo stoma~ tutto il corpo è importante
 PST016	poi per me io sempre
@@ -1040,9 +1040,9 @@ PST016	la cucina il più
 PST016	cono~
 PST016	conosciuta e molto conosciuta in in francia
 PST016	è marocchina
-PST016	sì sì cuscus
+PST016	sì #ṭājīn sì cuscus
 PST016	anche per la salute
-PST016	trovi il con la verdura
+PST016	trovi il #ṭājīn con la verdura
 PST016	e
 PST016	se vedi i cinesi mangiano verdura frutta
 PST016	to~ sono sane

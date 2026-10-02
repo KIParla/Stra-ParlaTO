@@ -8,51 +8,56 @@ tu_id	speaker	start	end	parent_tu_id	text
 28	PST017_trad	51.890	55.660	27	da dall'anno dal duemila
 30	PST017_trad	55.720	57.590	29	e noi siamo arrivati qui nel duemilasette
 34	PST017_trad	60.780	63.850	33	papà, mamma e mio fratello
-43	PST017_trad	81.608	82.798	42	perché
-46	PST017_trad	83.992	86.455	45	eh lo posso usare nel lavoro
-50	PST017_trad	93.010	97.031	49	eh l'arabo mi può aiutare nel lavoro
-52	PST017_trad	97.172	98.530	51	anche l'italiano
-54	PST017_trad	99.498	100.877	53	ma
-56	PST017_trad	101.726	106.747	55	mi ritengo cioè fortunata, che l'arabo non è una lingua che si impara
-58	PST017_trad	106.788	108.251	57	cioè molto facilmente
-60	PST017_trad	108.303	111.219	59	meglio per me cioè come lingua madre
-67	PST017_trad	128.835	130.941	66	non lo so cioè
-70	PST017_trad	132.977	134.007	69	o sette
-73	PST017_trad	139.881	142.131	72	ehm cioè sei
-95	PST017_trad	187.682	191.300	94	quindi ehm e non ero per nulla capace di parlare
-97	PST017_trad	191.646	195.499	96	non ero per nulla capace di parlare italiano neanche le lezioni potevo seguirle
-99	PST017_trad	195.808	199.484	98	bene non capivo per nulla cosa stava dicendo la prof
-101	PST017_trad	199.675	203.558	100	poi anche in prima, seconda
-104	PST017_trad	204.888	208.021	103	anche anche se la professoressa non mi ricordo di che
-107	PST017_trad	209.720	212.801	106	ricordo che la professoressa iniziò il programma dall'inizio
-110	PST017_trad	215.068	216.840	109	anche lì, non stavo capendo niente
-112	PST017_trad	216.980	221.150	111	quindi anche se rispiegavano non stavo capendo nulla e così cioè
-115	PST017_trad	221.680	224.850	114	è andata così addirittura non ho neanche avuto
-117	PST017_trad	224.930	229.690	116	non mi è arrivata l'occasione eh cioè non ho trovato
-119	PST017_trad	230.900	232.640	118	ho trovato una lezione
-123	PST017_trad	236.280	237.050	122	nella scuola
-125	PST017_trad	237.190	242.490	124	sono capitata in un anno in cui se non avessi studiato italiano fino al punto di capire cosa stava dicendo la prof
-127	PST017_trad	243.120	245.910	126	era ormai troppo tardi perché il programma era
-133	PST017_trad	260.560	263.680	132	dico niente di che sì
-142	PST017_trad	279.140	285.460	141	perché in arabo anche se ho fatto sono andata a scuola in in in marocco fino alla quarta elementare
-144	PST017_trad	285.640	292.950	143	ma scrivere mi è troppo difficile cioè prendere appunti in arabo mi è troppo difficile, preferisco prendere appunti in italiano
-146	PST017_trad	293.220	300.650	145	è più facile cioè scrivo eh cioè scrivo subito, scrivo a mano subito, è difficile scriverlo in arabo
-148	PST017_trad	300.730	304.830	147	al punto che se cioè c'è uno che legge un testo scritto in arabo
-150	PST017_trad	304.950	308.770	149	probabilmente scrivo in italiano cioè non scrivo in arabo
-155	PST017_trad	317.650	321.450	154	cioè mi trovo pure quando parlo mi trovo a m~
-286	PST017_trad	678.795	681.885	285	cioè eh i miei compagni là in marocco
-289	PST017_trad	684.020	685.390	288	cioè parlano con te
-291	PST017_trad	685.700	687.410	290	anche se tu stavi zitta
-293	PST017_trad	687.630	689.150	292	non parlavano con te
-295	PST017_trad	689.395	689.885	294	non
-342	PST017_trad	853.810	857.490	341	ultimamente cioè cioè possono accettare quelli che hanno la laurea
-344	PST017_trad	857.800	861.770	343	e in un paese estero posso anche cioè posso essere anche pagata bene
-460	PST017_trad	1174.400	1177.630	459	non ci sono parole difficili e avanzate
-590	PST017_trad	1503.835	1506.955	589	cioè che uno viva
-593	PST017_trad	1512.700	1513.960	592	cioè un dio
-623	PST017_trad	1599.740	1604.430	622	sì però dico che meno cioè meno male che so l'arabo
-693	PST017_trad	1817.470	1819.000	692	non si impiccia nella tua vita
-697	PST017_trad	1820.740	1823.420	696	la gente si impiccia ti dice cosa devi fare
-702	PST017_trad	1832.920	1836.510	701	che le persone cioè non sono unite
-705	PST017_trad	1839.570	1840.650	704	nel suo cortile
-707	PST017_trad	1841.165	1845.755	706	non sono socievoli e poi ultimamente sento che c'è più razzismo
+37	PST017_trad	69.160	72.260	36	
+44	PST017_trad	81.608	82.798	43	perché
+47	PST017_trad	83.992	86.455	46	eh lo posso usare nel lavoro
+51	PST017_trad	93.010	97.031	50	eh l'arabo mi può aiutare nel lavoro
+53	PST017_trad	97.172	98.530	52	anche l'italiano
+55	PST017_trad	99.498	100.877	54	ma
+57	PST017_trad	101.726	106.747	56	mi ritengo cioè fortunata, che l'arabo non è una lingua che si impara
+59	PST017_trad	106.788	108.251	58	cioè molto facilmente
+61	PST017_trad	108.303	111.219	60	meglio per me cioè come lingua madre
+68	PST017_trad	128.835	130.941	67	non lo so cioè
+71	PST017_trad	132.977	134.007	70	o sette
+74	PST017_trad	139.881	142.131	73	ehm cioè sei
+96	PST017_trad	187.682	191.300	95	quindi ehm e non ero per nulla capace di parlare
+98	PST017_trad	191.646	195.499	97	non ero per nulla capace di parlare italiano neanche le lezioni potevo seguirle
+100	PST017_trad	195.808	199.484	99	bene non capivo per nulla cosa stava dicendo la prof
+102	PST017_trad	199.675	203.558	101	poi anche in prima, seconda
+105	PST017_trad	204.888	208.021	104	anche anche se la professoressa non mi ricordo di che
+108	PST017_trad	209.720	212.801	107	ricordo che la professoressa iniziò il programma dall'inizio
+111	PST017_trad	215.068	216.840	110	anche lì, non stavo capendo niente
+113	PST017_trad	216.980	221.150	112	quindi anche se rispiegavano non stavo capendo nulla e così cioè
+115	PST206_trad	221.190	222.040	114	
+117	PST017_trad	221.680	224.850	116	è andata così addirittura non ho neanche avuto
+119	PST017_trad	224.930	229.690	118	non mi è arrivata l'occasione eh cioè non ho trovato
+121	PST017_trad	230.900	232.640	120	ho trovato una lezione
+125	PST017_trad	236.280	237.050	124	nella scuola
+127	PST017_trad	237.190	242.490	126	sono capitata in un anno in cui se non avessi studiato italiano fino al punto di capire cosa stava dicendo la prof
+129	PST017_trad	243.120	245.910	128	era ormai troppo tardi perché il programma era
+134	PST017_trad	256.160	260.350	133	
+136	PST017_trad	260.560	263.680	135	dico niente di che sì
+145	PST017_trad	279.140	285.460	144	perché in arabo anche se ho fatto sono andata a scuola in in in marocco fino alla quarta elementare
+147	PST017_trad	285.640	292.950	146	ma scrivere mi è troppo difficile cioè prendere appunti in arabo mi è troppo difficile, preferisco prendere appunti in italiano
+149	PST017_trad	293.220	300.650	148	è più facile cioè scrivo eh cioè scrivo subito, scrivo a mano subito, è difficile scriverlo in arabo
+151	PST017_trad	300.730	304.830	150	al punto che se cioè c'è uno che legge un testo scritto in arabo
+153	PST017_trad	304.950	308.770	152	probabilmente scrivo in italiano cioè non scrivo in arabo
+158	PST017_trad	317.650	321.450	157	cioè mi trovo pure quando parlo mi trovo a m~
+289	PST017_trad	678.795	681.885	288	cioè eh i miei compagni là in marocco
+292	PST017_trad	684.020	685.390	291	cioè parlano con te
+294	PST017_trad	685.700	687.410	293	anche se tu stavi zitta
+296	PST017_trad	687.630	689.150	295	non parlavano con te
+298	PST017_trad	689.395	689.885	297	non
+345	PST017_trad	853.810	857.490	344	ultimamente cioè cioè possono accettare quelli che hanno la laurea
+347	PST017_trad	857.800	861.770	346	e in un paese estero posso anche cioè posso essere anche pagata bene
+463	PST017_trad	1174.400	1177.630	462	non ci sono parole difficili e avanzate
+593	PST017_trad	1503.835	1506.955	592	cioè che uno viva
+596	PST017_trad	1512.700	1513.960	595	cioè un dio
+626	PST017_trad	1599.740	1604.430	625	sì però dico che meno cioè meno male che so l'arabo
+696	PST017_trad	1817.470	1819.000	695	non si impiccia nella tua vita
+698	PST017_trad	1819.185	1820.405	697	
+701	PST017_trad	1820.740	1823.420	700	la gente si impiccia ti dice cosa devi fare
+703	PST017_trad	1823.495	1825.635	702	
+707	PST017_trad	1832.920	1836.510	706	che le persone cioè non sono unite
+710	PST017_trad	1839.570	1840.650	709	nel suo quartiere
+712	PST017_trad	1841.165	1845.755	711	non sono socievoli e poi ultimamente sento che c'è più razzismo

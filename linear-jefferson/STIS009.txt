@@ -209,7 +209,7 @@ PST061	in perù è conosciuto qui in italia #*no #*tanto
 PST061	ha venuto a visita' la famiglia
 PST061	#como canta #de niki ya~ #de daddy yankee
 PST211	mh
-PST061	#_ #imitador
+PST061	#imitador
 PST061	#hemos #*andado a a pu~ a sanremo, new talent.
 PST061	#_ no el sanremo e es~ el [eh eh]
 PST211	[sì sì]
@@ -235,7 +235,7 @@ PST211	togli[: xxiamo continuiamo]
 PST061	[proviamo anche m~ venti minuti ma] chiudevano
 PST211	sì sì
 PST061	allora ((tossisce))
-PST061	#_ (#de)
+PST061	(#de)
 PST061	#me #estaba chiedendo,
 PST211	sì da quanto tempo sei a torino
 PST061	ah torino::
@@ -535,8 +535,8 @@ PST061	interessante
 PST211	eh sì
 PST203	com'è l'oca in spagnolo?
 PST061	#_ (el) pato
-PST203	#_ #pato
-PST062	#_ #pato
+PST203	#pato
+PST062	#pato
 PST061	#_ pato pato
 PST062	anatra
 PST203	pato è: l'anatra
@@ -605,7 +605,7 @@ PST061	#ahí parlava tut~ sempre con la signora:: subito imparato
 PST061	#mi fratello anche #ya: lavorava con un #señor #igual. loro #ya sapevan parlare
 PST211	mhmh
 PST061	(zio) sì
-PST061	#_ #me #ha: #me #ha #costado. #*pero
+PST061	#me #ha: #me #ha #costado. #*pero
 PST061	eh piano piano (ho) imparato
 PST211	mhmh
 PST061	sì
@@ -710,7 +710,7 @@ PST211	mhmh
 PST211	[okay]
 PST061	[se vado di là] (.) eh sì mi~ c'è un fratello e una sorella
 PST061	però: #no c'è tanto #ese #vínculo per rimanere di là #o #sea
-PST061	#_ #de #*visita #*si
+PST061	#de #*visita #*si
 PST061	però: eh rimanere di là è un poco difficile credo
 PST211	mhmh
 PST203	eh cer[to]
@@ -942,7 +942,7 @@ PST061	sì e:h si fa la festa per esempio (.) (piatto) eh per mangiare tutti pia
 PST061	e:h anche il ballo #folklórico #danzas #típicas
 PST211	mhmh
 PST061	della cultura (del) perù antica diciamo #de: #huayno #marinera #*no?
-PST061	#con #vestimenta di com'era prima no?
+PST061	#con #vestimenta di com' era prima no?
 PST061	dello ballo no?
 PST061	sì a=e:::h sì sì sì sì fe~ fe~ festeggiava così
 PST061	con musica (.) mangiare ballo
@@ -982,7 +982,7 @@ PST061	((bussa_sul_tavolo)) #tocan #*la porta) ((ride))
 PST211	((ride))
 PST061	#tocan la porta
 PST061	invece nel parco sì
-PST061	sì quest'anno #ha #estado bello (#ha #estado) tre posto perché:
+PST061	sì quest' anno #ha #estado bello (#ha #estado) tre posto perché:
 PST061	siamo tanti peruviani comunità (qui) a torino
 PST203	mhmh
 PST061	xx che sempre son tanti. tanti che
@@ -1009,7 +1009,7 @@ PST203	ah ah
 PST061	(per) (di là:) (aveva) eh e a parte che costava l'ingresso
 PST061	#y #cuando #*si #*paga la gente più grande loro van con la famiglia. paga l'ingresso.
 PST061	e invece nel parco dora era grati(s)
-PST061	#_ #*no #*se #*pagava
+PST061	#*no #*se #*pagava
 PST061	e io che #he #andado al parco dora domenica era pieno pieno
 PST061	me han det~ eh ragazzino ragaz~ (tutto vien così)
 PST211	e tu sei andata?
@@ -1135,7 +1135,7 @@ PST211	ah okay
 PST061	qualcosa me lo diceva
 PST211	((ride))
 PST061	#ya hai capito che ((ride))
-PST061	#_ #y #y #y
+PST061	#y #y #y
 PST061	#cómo #sab~ #cómo #lo #he $descuberto? #porque mia mamma ogni tanto viene #mi zia no?
 PST061	che parla #en quechua
 PST061	#y loro parlavan #entre loro no?
@@ -1355,7 +1355,7 @@ PST061	#lo primo che #*se parla #*se: si impara è la la parolaccia #cómo #*se 
 PST061	veramente se [impara]
 PST211	((ride)) [sì sì]
 PST211	[ma perché:] la percepisci più forte poi [la parolaccia in italiano]
-PST061	#_ [#y]
+PST061	[#y]
 PST061	[sì:] sì uno lo dice sì io #*me ricordo io la parla~ imparavo subito questa
 PST061	((ride)) la parolaccia
 PST203	[e:h]
@@ -1393,7 +1393,7 @@ PST211	mhmh
 PST061	no #agradecer anche no?
 PST061	#_ agradecer a dios agr~ eg agradecer que estamos acá e b~
 PST061	#_ y que nos ha dado una oportunidad
-PST061	no? ha dado una oportunidad veramente de seguir con la vida
+PST061	no? #_ me ha dado una oportunidad veramente de seguir con la vida
 PST061	#_ seguir (.) eh adelante
 PST061	#_ eh agradecer que tengo una familia acá
 PST211	mh[mh]

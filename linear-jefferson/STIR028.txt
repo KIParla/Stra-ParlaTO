@@ -261,7 +261,7 @@ PST091	m::::h vabbè
 PST091	io ho un legame molto::
 PST091	sentito con i monaste::ri anche se
 PST082	sei andata a quello::: mh $monasterul #vesel o qualcosa del [genere]
-PST091	#_ [#mănăs]tirea #veselă?
+PST091	[#mănăs]tirea #veselă?
 PST091	[sì]
 PST082	[sì]
 PST082	sei andata
@@ -269,12 +269,12 @@ PST091	sì no aspetta #mănăsti~ e::hm
 PST082	[eh non era #mănăs]tirea #vese~ era::
 PST091	[non #mănăstirea]
 PST091	e::hm:: mor~ mi~ eh #cimitirul #vesel,
-PST091	fost bucovi]na (.) nu n-am fost n-am fost (.) dar vreau să merg
-PST082	#_ [#cimitirul #vesel]
+PST091	#_ [n-am fost bucovi]na (.) nu n-am fost n-am fost (.) dar vreau să merg
+PST082	[#cimitirul #vesel]
 PST082	[e::h] ho sentito che era [bello #și #eu] (.) #și #eu #vreau
 PST091	[sì (.) molto bello]
-PST082	((ridendo)) eu [vreau]
-PST091	[((ridendo)) și eu] vreau]
+PST082	((ridendo)) #_ și eu [vreau]
+PST091	[((ridendo)) #_ și eu] vreau]
 PST091	sì (.) no quello:: sì i monasteri sono molto belli
 PST091	io poi ho passato:: due tre:: estati quando ero piccina perché nonna aveva::: una zia che era monaca,
 PST091	[e quindi] sì
@@ -329,7 +329,7 @@ PST091	allora questo è il monastero sto cercando di c~ di farti vedere <prima> 
 PST091	ci sono delle casette::
 PST091	e::h come faccio a fartele vedere::?
 PST091	questo è il monastero e la ca[setta era questa qua].
-PST082	aga]pìa
+PST082	#_ [mănăstirea aga]pìa
 PST091	agàpia
 PST082	agàpia
 PST091	eh non si vede (.) una m::h niente proprio,
@@ -514,7 +514,7 @@ PST091	che ne so::: in campagna,
 PST091	e::h dicono #îmi #plașe
 PST082	#plași [(.) sì]
 PST091	[al posto di::] #îmi #place
-PST082	îmi place
+PST082	#_ [pla~ îmi place
 PST082	[#îmi plașe]
 PST091	[quindi #ș] #ș [tanto] #ș sì c'è un sacco di #ș
 PST082	[quella #ș:]
@@ -525,7 +525,7 @@ PST082	[ah okay sì sì sì]
 PST091	più vai fuori ovviamente più:: senti di più marcato.
 PST091	chi arriva da fuori
 PST091	#țăranii, ((ride))
-PST091	auzi] ((ride)) când vorbesc (.) săracii
+PST091	#_ [îi auzi] ((ride))când vorbesc (.) săracii
 PST082	[#țăranii ((ride))]
 PST082	((ride))
 PST082	e::hm:
@@ -735,11 +735,11 @@ PST082	s:ì
 PST091	se facevi caso anche::: ne~ #cofetărie >che ne so dove siamo andati<, [non avevano]:::
 PST082	[eh sì:]
 PST091	cose che ne so a cluj dicono tanto::
-PST082	da::]
-PST082	#_ #no
+PST082	#_ [da:: da::]
+PST082	#no
 PST091	eh (.) #no (.) e::h lì e::h se [vai al bar] o i~ #ex esat~ #exact.
 PST082	((ride))
-PST082	#_ [#ioi]
+PST082	[#ioi]
 PST091	invece a timișoara non ci sono queste ca[denze::]
 PST082	[sì è ve]ro
 PST082	è più pulito
@@ -819,7 +819,7 @@ PST091	sull'ironia,
 PST082	s::ì ma ave[vo visto:]
 PST091	[l'ironia che c'è in] rume~ ((ride))]
 PST091	davvero non ce n'è c~ #caterincă ecco [#caterincă]
-PST082	#_ [#caterincă]
+PST082	[#caterincă]
 PST091	ecco traduci #caterincă
 PST082	[non esiste (.)] non si può
 PST082	((ride))
@@ -923,7 +923,7 @@ PST082	e voleva dire non vedevo l'[ora di: arrivare]
 PST091	[m::::h],
 PST091	((ride)) vediamo ora
 PST082	#_ nu vedeam ceasul
-PST091	#_ #ceasul
+PST091	#ceasul
 PST091	((ride))
 PST082	((ride))
 PST091	#_ nu vedeam casul ((ride))

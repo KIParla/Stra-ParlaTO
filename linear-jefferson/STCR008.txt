@@ -32,7 +32,7 @@ PST092	[eh]?
 ?	[te la rico]rdi?
 ?	l'abbiamo fatto
 PST092	e::hm
-PST203	poi questa cosa (.) facciamola dire ai professionisti una volta che hai fatto un'inquadratura che avrà la camera (.) la prendete e la tenete per boh,
+PST203	poi questa cosa (.) facciamola dire ai professionisti una volta che hai fatto un' inquadratura che avrà la camera (.) la prendete e la tenete per boh,
 PST203	dieci quindici secondi se hai un taglio così (.) non tre o quattro perché boh è poco (.) [giusto
 ?	[se no non serve]
 ?	dissolvenza incrociata (.) Ottica
@@ -238,7 +238,7 @@ PST100	[va bene] ((ride))
 PST100	se sarò ancora viva ((ridendo)) [ve lo ricorderò]
 PST092	[sì: sì:]
 PST211	alzo da qua aspetta
-gruppo	((guardano_il_video))
+environment	((guardano_il_video))
 PST100	comunque tua mamma è persa [per te (.) (fattelo) dire] si vede proprio
 ?	[quindi c'è (.) totale così],
 ?	le altre più ravvicinate?
@@ -296,7 +296,7 @@ PST092	gliel'ho chiesto ma mi ha detto che mi deve aggiornare
 PST211	adesso aspetta un attimo magari quando:: finiamo [glielo chiedia~ (.) ah okay]
 PST092	[no ma non per questo per::]
 PST092	la cosa di #domnu::l [(.)] #da
-PST211	#_ [#consolat]
+PST211	[#consolat]
 PST100	ma sei anche tu romena?
 PST211	eh, no no
 PST100	ah eh t~ sei così::
@@ -536,7 +536,7 @@ PST203	[sì]
 PST092	qua che arrivo qua verso le due e mezza iniziamo subito a [sistemare mezz'ora],
 PST085	eh [infatti]
 PST092	[prima di inizia]re è già pronto e quindi ci [avanza]
-PST100	telecamere] aveți
+PST100	#_ [ce telecamere] aveți
 PST092	e:::hm solo un non lo so quant~ (.) cosa c'è scritto là?
 PST092	per::=e::h
 PST100	per riprendere quanti:: quanti te ne
@@ -576,11 +576,11 @@ PST085	[lunedì::] ma perché (.) essendo appunto venerdì a me viene scomodo [(
 PST211	[e::h]
 PST203	[ma se] no non c'è nessuna di loro che ti può dare un passaggio.
 PST092	no ma (.) non ci facciamo vedere.
-PST100	ehm împreună (.) și după se face::
+PST100	ehm #_ odată împreună (.) și după se face::
 PST203	no che magari son di zona tua
-PST100	#_ schimbi tu și după @anita (.) okay?
+PST100	#_ schimbi tu și după (.) okay?
 PST092	mh [mh]
-PST100	dac]ă nu face doar xx
+PST100	#_ [ori dac]ă nu face doar xx
 PST085	sì però io devo cambiar pullman (xx veni~ [da di là)]
 PST092	perché
 PST092	se no io pensavo (.) perché comunque è brutto far vedere solo [#doamna quindi almeno me~ una spalla da~ della persona che intervista farla vedere].
@@ -589,16 +589,16 @@ PST085	quindi secondo me giovedì se poi (.) viene io comunque due e mezza tre m
 PST211	okay
 PST092	e quindi magari anche in quel lasso di tempo far capire che c'è un cambio di [persone].
 PST085	io anzi io alle due e mezzo sono qua giovedì xx xx
-PST100	ești]
+PST100	#_ [tu ești]
 PST211	[okay]
 PST100	#_ în dreapta
-PST100	(xxx) cine să să
+PST100	(xxx) #_ atuncea cine să să
 PST085	ah no xxx
-PST100	prima din stânga si după prinde din [dreapta]
+PST100	prima #_ prinde din stânga si după prinde din [dreapta]
 PST092	[scusa]
 PST085	mi hai ucciso
 PST100	okay, (.) perché perché dev'essere ad altezza occhio.
-PST100	#_ așa prinde efectiv (.) [@ecaterina]
+PST100	#_ așa prinde efectiv (.)
 PST092	[che ne so] perché se facciamo anche (.) m::h cambio di persona avvisiamo cioè poi mentre registriamo avvisiamo che [facciamo cambio]
 PST100	[sì o vi se~] presentate tutt'e due quindi si vedono mh voi due,
 PST100	e poi appunto fate:: [xx xx]
@@ -639,7 +639,7 @@ PST100	e poi sbuca un'altra di colpo e prende il posto dell'altra (.) d~ d~ [d~ 
 PST211	[sì no beh] chiaro che a quel punto bisogna:: [pensarci un attimo sì sì]
 PST100	[era quello più che altro]
 PST092	[se no fac]ciamo che intervista >cioè< sta seduta intervista poi nel caso se vengono anche a me o a voi le domande mentre che registriamo le facciamo da fuori.
-PST211	sì esatto cioè potrebbe essere così a meno che tu no~ cioè se vuoi farla tu quest'intervista ha già fatto una cosa se vuoi ti puoi mettere tu [dipende::]
+PST211	sì esatto cioè potrebbe essere così a meno che tu no~ cioè se vuoi farla tu quest' intervista ha già fatto una cosa se vuoi ti puoi mettere tu [dipende::]
 PST092	[devo sempre] vedere con ((ride)) [perché ((ride))]
 PST211	[sì certo sì sì]
 PST203	no beh [ma >cioè<]]
@@ -972,10 +972,10 @@ PST203	[((a_PST086)) volevi veder le riprese]?
 PST092	[tipo (.) qua (.)] ho una ho una capsula,
 PST092	e:: [qua::]
 PST086	[ho paura (.) sono xx]
-PST100	mi-am scos un dinte singură]
+PST100	#_ [eu mi-am scos un dinte singură]
 PST203	[ma non ci sei tu]
 PST092	a me l'hanno tolto loro io sono nata con un dente in più.
-PST100	#_ #aicia,
+PST100	#aicia,
 PST092	qua,
 PST092	c'avevo un buco <grosso> così qua,
 PST092	poi mi hanno messo l'apparecchio hanno detto che in teoria ci mette tre mesi ad occupare lo spazio in due settimane me l'ha occupato.
@@ -1030,7 +1030,7 @@ PST203	((ride))
 PST092	quindi
 PST092	poi erano tre ore di supplenza quindi va bene
 PST100	#_ știi că dacă te prinde
-PST092	notă de casă]
+PST092	#_ [da notă de casă]
 PST100	_nu doar notă de casă dar poate să-ți facă:: denunță
 PST100	((ride))
 PST092	non è successo poi finché lo faccio [una volta ogni tre mesi]
@@ -1068,10 +1068,10 @@ PST211	sì sì
 PST100	ti si vede sul musetto che c'è qualcosa che non va ((ride))
 PST203	però la mia domanda era quelle cose fa(cili) allora buongiorno #bună #ziua (.) però ciao
 PST100	#_ bună ziua da
-PST100	#_ #bună
+PST100	#bună
 PST203	ah cia~
 PST092	#_ bună sau salut
-PST100	#_ #salut
+PST100	#salut
 PST203	ah okay
 PST092	ah boh io fra:: amiche (.) #fă
 PST092	((ride))
@@ -1090,14 +1090,14 @@ PST092	per cui per le femmine è #fă per i ragazzi è [#bă (.) #bă #băi] ((r
 PST100	[#bă ((ride))]
 PST203	ah perché è diverso uomo donna,
 PST100	sì bi ehm: da::: m::h [(.) l'inizi]ale di #băiat
-PST092	#_ [#bă #băi]
+PST092	[#bă #băi]
 PST092	che sare~ maschio
 PST100	maschio
 PST203	ah
 PST100	#fă eh effe #fă #femelă,
 PST203	ah?
-PST100	#_ #fată
-PST092	#_ #femeie
+PST100	#fată
+PST092	#femeie
 PST100	#_ sau femeie
 PST100	e::hm effe è femmina,
 PST092	[#mă è] in generale pe[r]
@@ -1116,10 +1116,10 @@ PST203	del voi si [dà in ru]meno
 PST100	[sì]
 PST092	#salut si usa:: un po' più quando si ha un inizio confidenza
 PST203	e voi è tipo #du::mn:~
-PST100	#_ #dumneavoastră
-PST203	#_ #dumneavoastră
+PST100	#dumneavoastră
+PST203	#dumneavoastră
 PST092	[come quando devo chiedere le canzoni #bună #ziua]
-PST100	#_ [#dumneavoa]
+PST100	[#dumneavoa]
 PST100	((ride))
 PST092	xx xx quello (che devo) dire #dumneavoastră e poi xx xx ((ride))
 PST092	per cercare una per chiedere il negativo di una canzone dovevi farlo che dovevi essere il più gentile possibile (.) [dare del voi (.) il nega]tivo di una canzone la base
@@ -1270,7 +1270,7 @@ PST100	[parli in romeno sì ma noi lo prendiamo un attimo sull'ironia] perché
 PST203	ti rispondono come?
 PST092	[è be~ è bello verso]
 PST100	ti rispondono male proprio
-??	#_ #maghiaro
+??	#maghiaro
 PST092	è bello tipo mh (.) suceava quando arrivi,
 PST092	perché loro hanno un (.) allora o si parla ucraino,
 PST100	mh mh,
@@ -1304,8 +1304,8 @@ PST100	non è colpa mia
 PST092	quando ti viene ti viene d'istinto non ci fai nemmeno caso
 PST100	[ma beata te]
 PST092	[perché poi le ma~] le mastichi talmente bene entrambe o che comunque capisci bene che
-PST100	no am problema că știu să vorbesc (.) înțeleg (.) știu să citesc nu știu să scriu
-PST100	((sospira)) stă aici chestia asta
+PST100	no #_ eu am problema că știu să vorbesc (.) înțeleg (.) știu să citesc nu știu să scriu
+PST100	((sospira)) #_ îmi stă aici chestia asta
 PST092	no ma io: ho imparato da sola perché tipo dopo un po' scrivendo in rumeno
 PST092	anche dalla tastiera poi capisci quando ci vanno [gli accenti e robe varie (.) e quindi man mano riesci]
 PST100	[sì esatto almeno quello] (.) no quello sì però io faccio molta fatica:: ancora oggi: a (.) leggere
@@ -1424,7 +1424,7 @@ PST092	((ride))
 PST100	vediamo se (.) prendiamo un giorno libero perché da quel che vedo non ne avete
 PST092	in estate
 PST092	quando tu pensavi
-PST100	io ho la sessione estiva (.) io già sto pensando che all'inizio di aprile io devo dare un minimo tre (.) °di esami° (.) in una settimana.
+PST100	io ho la sessione estiva (.) io già sto pensando che all' inizio di aprile io devo dare un minimo tre (.) °di esami° (.) in una settimana.
 PST092	infatti per quello xx xx esami
 PST100	io ho ancora questo venerdì qui (.) poi:: devo tirare il più possibile per finire il più <in fretta> possibile
 PST092	nel caso,

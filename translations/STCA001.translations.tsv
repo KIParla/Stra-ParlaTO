@@ -11,332 +11,339 @@ tu_id	speaker	start	end	parent_tu_id	text
 42	PST137_trad	61.288	62.699	41	@neda ti fa sembrare vecchia
 51	PST136_trad	70.355	74.566	50	@nada ti fa sembrare più  giovane, @neda invece, ti immagino già una donna di trent'anni con due figli
 59	PST138_trad	81.599	83.432	58	@neda, ma in verità lo rendono più duro
-64	PST138_trad	87.911	89.289	63	bellezza, bel fisico
+64	PST138_trad	87.911	89.289	63	ehi bellezza, ehi agazza
 71	PST138_trad	94.311	95.466	70	(zan)nuba, sì
 76	PST139_trad	97.878	99.200	75	noi diciamo @nadouda
 80	PST136_trad	100.837	102.193	79	io dico @nadouda
 82	PST136_trad	102.349	103.538	81	ti ci faccio divertire
-105	PST136_trad	124.299	127.855	104	loro è come se lo abbreviassero, noi lo allunghiamo, diciamo omar
+105	PST136_trad	124.299	127.855	104	allora loro è come se lo abbreviassero, noi lo allunghiamo, diciamo omar
 119	PST139_trad	136.754	139.522	118	è per le ragazze e i ragazzi questo (nome)
 122	PST139_trad	140.566	142.634	121	rayan è una ragazza e un ragazzo
 124	PST135_trad	142.668	143.065	123	cosa?
 130	PST136_trad	146.011	146.989	129	solo per ragazzi
 132	PST135_trad	146.988	147.743	131	solo ragazzi
 153	PST136_trad	171.721	174.119	152	in realtà sarebbe fatim zahra
-158	PST137_trad	176.398	178.944	157	in marocco dicono fatima zahra
+158	PST137_trad	176.398	178.944	157	in marocco dicono fatima fatima zahra
 161	PST137_trad	179.144	179.922	160	non fatima
 164	PST136_trad	180.432	184.966	163	no perché in realtà è fatimat al-zahra, figlia del profeta che la pace e le benedizioni siano su di lui, fatimat al-zahra non fatima
-172	PST137_trad	195.166	197.221	171	musaiba, conosci il nome musaiba?
+172	PST137_trad	195.166	197.221	171	nusaiba, conosci il nome nusaiba?
 184	PST136_trad	207.421	208.355	183	è un nome da ragazza?
 186	PST139_trad	208.610	209.466	185	il mio destino
 190	PST137_trad	210.159	210.903	189	è un nome da ragazza?
 195	PST137_trad	214.310	216.555	194	sei musaib?
-206	PST135_trad	228.688	229.588	205	rispondi fra
-212	PST139_trad	232.766	234.170	211	rispondi fra (imita il dialetto marocchino))
-215	PST139_trad	236.077	237.277	214	lo so
-231	PST138_trad	253.409	255.314	230	avete il nome xadija? okay
-233	PST135_trad	255.755	257.432	232	nome arabo
-237	PST137_trad	259.458	260.458	236	noi non diciamo xadija
-244	PST136_trad	267.352	269.686	243	chiamala addirittura l-batul, tamo tamo tamo
-249	PST139_trad	273.893	278.315	248	zuhur e i fiori non sono insieme
-251	PST135_trad	276.687	277.608	250	okay, ma zhur
-254	PST136_trad	278.788	293.366	253	rhimo rhimo, un ragazzo stava parlando con un suo amico che si sentiva con una ragazza, immagina come mi ha detto che si chiama la ragazza, rhimo
-256	PST135_trad	293.389	299.822	255	abbiamo nomi folli per le ragazze come rhimo e ijjo
-258	PST138_trad	299.833	302.077	257	oddio ijjo, ijjo è un nome berbero
-261	PST135_trad	302.244	303.588	260	berbero, berbero
-299	PST135_trad	330.089	330.700	298	che ha?
-301	PST139_trad	330.721	331.721	300	la maria vergine
-305	PST138_trad	335.878	336.533	304	avete il nome ghita?
-316	PST135_trad	343.044	346.087	315	ghita è il nome rita, ma noi diciamo rhita
-318	PST136_trad	344.588	345.344	317	più o meno
-321	PST137_trad	347.410	348.760	320	loro dicono rita
-324	PST138_trad	349.981	350.437	323	lubna (nome proprio di persona femminile)
-331	PST139_trad	354.866	355.511	330	avete il nome jubna?
-333	PST136_trad	355.490	361.479	332	formaggio e formaggi e latte e latti fermentati, no?
-339	PST139_trad	364.735	365.392	338	no, non sappiamo
-341	PST135_trad	365.804	371.671	340	le mie due cugine sono
-348	PST139_trad	375.510	376.866	347	per i ragazzi
-350	PST138_trad	376.833	378.377	349	no, per ragazze
-352	PST135_trad	377.266	378.599	351	@amina per ragazzi?
-354	PST139_trad	378.755	379.066	353	sì
-356	PST135_trad	379.054	380.943	355	@amina è per le ragazze
-359	PST137_trad	382.214	383.066	358	@amina per ragazzi?
-361	PST136_trad	382.988	384.366	360	e islam?
-366	PST135_trad	387.033	388.755	365	islam è  per ragazze?
-369	PST136_trad	389.221	391.221	368	è nome per ragazzi o ragazze?
-371	PST139_trad	391.210	391.599	370	ragazzo
-373	PST136_trad	391.710	392.166	372	tutte e due
-375	PST135_trad	392.155	392.622	374	ragazzo?
-377	PST139_trad	392.644	393.888	376	no no, non tutte e due
-380	PST136_trad	394.688	395.499	378	per noi tutte e due
-381	PST139_trad	394.688	395.658	379	ragazze, islam
-386	PST137_trad	399.766	401.510	385	islam è per ragazze e ragazzi
-390	PST136_trad	403.410	404.055	389	avete il nome bara'?
-393	PST136_trad	405.710	407.255	392	bara' ehm entrambi
-395	PST136_trad	407.582	408.367	394	fantastico
-407	PST135_trad	417.599	418.333	406	innocenza
-410	PST135_trad	418.577	421.611	409	bara' infatti deriva da bara'a
-417	PST136_trad	427.359	432.626	416	il nome ihsan ce lo avete per le ragazze oopure per i ragazzi?
-419	PST135_trad	431.130	432.064	418	e nur?
-423	PST139_trad	433.354	434.811	422	@nomepersona mia sorella
-431	PST136_trad	438.166	439.610	430	loro la chiamano nor
-434	PST139_trad	439.158	440.093	433	è una ragazza
-437	PST139_trad	441.020	442.797	436	nor non è per una ragazza
-457	PST137_trad	461.255	468.233	456	praticamente mia zia si è sposata con un uomo che fa di cognome @cognomepersona, e quindi lei
-459	PST137_trad	468.410	472.690	458	ha portato, cosa vuol dire, ha portato una ragazza
-492	PST138_trad	510.255	510.766	491	ce lo avete?
-494	PST136_trad	510.766	512.677	493	i vosti padri, tuo padre si chiama dris?
-498	PST138_trad	513.499	514.861	497	è iniziata la festa del papà
-507	PST135_trad	523.565	524.110	506	e
-517	PST139_trad	533.894	536.494	516	okay conosco il nome ma non conosco nessuno
-524	PST139_trad	546.020	546.477	523	
-541	PST136_trad	559.577	560.510	539	e ḥafeḍh
-547	PST139_trad	565.477	567.266	546	non conosci hafidu darraji?
-552	PST137_trad	571.833	572.924	551	chi è questo?
-554	PST139_trad	572.944	575.621	553	telecronisti molto famosi in tunisia
-556	PST135_trad	576.599	577.733	555	eh le notizie
-559	PST139_trad	577.700	579.255	558	telecronisti di calcio
-562	PST139_trad	579.788	581.511	561	sicuro hai sentito parlare di loro, sicuro, sicuro
-564	PST138_trad	581.533	581.766	563	no
-566	PST137_trad	581.784	582.422	565	non li conosco
-569	PST139_trad	584.298	585.741	568	asam shawali oppure ufki
-573	PST139_trad	587.255	588.988	572	tutti gli arabi li conoscono
-575	PST136_trad	589.544	592.589	574	shawali, sorella mia, è quello che fa il telecronista delle partite
-577	PST139_trad	592.809	595.655	576	se sentissi la sua voce, sicuramente ti renderesti conto di averla già sentita
-585	PST136_trad	602.722	603.777	584	qual è?
-594	PST138_trad	609.689	610.344	592	spalmare
-596	PST138_trad	610.399	611.688	595	spalma quello
-598	PST139_trad	611.971	615.095	597	noi diciamo dahan, la persona che...
-601	PST138_trad	616.249	617.582	600	ah, pittore
-604	PST135_trad	618.329	619.065	603	il tuo cognome?
-624	PST136_trad	636.743	638.099	623	il suo cognome è lungo quanto una riga
-629	PST139_trad	642.644	643.866	628	dillo, dillo
-679	PST135_trad	695.210	699.544	678	oh il cognome marocchino più strano che abbia mai sentito è bu debbena (il padre della mosca)
-682	PST136_trad	700.348	701.214	681	c'è bu ras (padre della testa)
-687	PST135_trad	704.211	705.678	686	hai capito? mosca sai cos'è mosca
-689	PST139_trad	705.700	706.400	688	mosca, mosca
-708	PST137_trad	732.010	736.965	707	abbiamo questo cognome in tunisia ma avete la pronuncia molto più dolce (voi marocchini)
-710	PST136_trad	733.870	736.970	709	hai visto quella serie tv, seguita anche dai marocchini
-712	PST137_trad	737.200	738.577	711	è molto bello
-714	PST136_trad	738.910	752.388	713	si chiama bu jama, però alcuni ragazzi del quartiere lo chiamavano il padre del venerdì spaventavano dicendomi che il padre del venerdì stava arrivando
-720	PST137_trad	752.388	754.108	719	le è piaciuta questa parola dolce
-723	PST139_trad	754.366	757.855	722	hey voi, lui si chiama ailtu sharmiti
-727	PST135_trad	758.677	759.543	726	cosa?
-729	PST137_trad	759.560	761.882	728	giuro su dio, sharmiti
-732	PST139_trad	762.821	763.666	731	nome di famiglia
-809	PST136_trad	927.181	934.332	808	oddio, la vecchietta morirà, sei tu che dovunque andrai rimarrai con una firma così
-830	PST139_trad	964.743	966.310	829	@hassan @hassan io sono @hassan
-842	PST139_trad	980.837	985.057	841	ma tutti mi chiamano @hassan, nessuno si sforza a dire @hussein
-845	PST137_trad	986.113	989.184	844	e tu cosa preferisci @hassan?
-847	PST139_trad	987.788	988.165	846	guarda
-849	PST139_trad	988.388	989.366	848	è la stessa cosa
-851	PST137_trad	989.338	990.227	850	stessa cosa/ uguale
-853	PST135_trad	990.244	991.055	852	stessa cosa
-855	PST135_trad	992.677	994.544	854	a me se qualcuno mi chiama hejar...
-871	PST135_trad	1024.299	1025.455	870	cosa vuole lei?
-878	PST139_trad	1032.194	1033.283	877	non c'è @hassan?
-881	PST136_trad	1033.465	1034.621	879	abbiamo haithem
-882	PST135_trad	1033.465	1034.621	880	è la prima volta
-888	PST139_trad	1038.410	1041.899	887	xx xx
-890	PST137_trad	1041.368	1044.196	889	@hassan e haitham figli del @hassan
-893	PST139_trad	1044.176	1045.299	892	il tuo amico haitham
-895	PST135_trad	1045.454	1046.576	894	cosa vuol dire sherfie?
-897	PST137_trad	1046.804	1047.888	896	il tuo amico
-899	PST139_trad	1046.900	1047.994	898	il tuo amico
-901	PST137_trad	1047.943	1048.910	900	il tuo amico
-903	PST135_trad	1048.888	1050.688	902	eh saltelliamo sulle montagne
-906	PST137_trad	1051.019	1052.466	905	ti ha detto che saltelliamo
-909	PST139_trad	1052.411	1054.055	908	andare sulle montagne
-911	PST135_trad	1054.221	1057.054	910	no, tipo correre sulle montagne, tipo heidi
-914	PST137_trad	1058.232	1059.188	913	corriamo quindi?
-919	PST137_trad	1066.155	1068.877	918	la preziosa, come la chiameresti se dovessi incontrare la preziosa
-929	PST137_trad	1075.272	1077.110	928	@tassnim grande e @tassnim piccola
-932	PST135_trad	1079.310	1084.232	931	però aspetta, com'è che si diceva in inglese, nessuno è meglio dell'originale
-982	PST135_trad	1143.254	1145.765	981	quella falsa, quella di temu
-984	PST134_trad	1143.455	1144.254	983	quella vera
-993	PST139_trad	1157.733	1158.555	992	questo come si chiama?
-995	PST135_trad	1159.488	1160.110	994	cosa?
-997	PST133_trad	1160.077	1160.655	996	tavolo
-999	PST137_trad	1160.621	1161.076	998	tavolo
-1002	PST139_trad	1161.810	1162.422	1001	tavolo
-1004	PST135_trad	1162.433	1162.823	1003	tavolo
-1008	PST139_trad	1163.676	1164.121	1007	tavolo?
-1010	PST135_trad	1164.310	1164.776	1009	tavolo
-1012	PST139_trad	1164.825	1165.581	1011	tavolo
-1016	PST135_trad	1167.588	1168.655	1015	allora sai
-1021	PST139_trad	1173.006	1173.466	1020	cosa?
-1025	PST135_trad	1174.977	1178.421	1024	le donne, le donne ballano nei matrimoni libanesi?
-1027	PST135_trad	1179.344	1180.466	1026	ballano?
-1029	PST139_trad	1180.599	1181.392	1028	eh ballano
-1041	PST135_trad	1192.321	1201.176	1040	se fanno dabka le donne sono sempre, cioè non ballano davanti agli uomini? è proibito e vergognoso?
-1045	PST137_trad	1203.132	1205.452	1044	gli ultimi ad avere vergogna sono i libanesi
-1049	PST135_trad	1210.144	1211.777	1048	da noi, da noi non è vergognoso
-1052	PST135_trad	1211.955	1215.444	1051	da noi è invidia, è proprio annoda un velo sui tuoi fianchi e balla
-1055	PST137_trad	1215.543	1216.518	1054	dipende
-1057	PST139_trad	1216.688	1218.088	1056	tra tutte le ragazze
-1059	PST139_trad	1218.088	1219.082	1058	cosa ti importa vedere?
-1062	PST139_trad	1219.615	1223.960	1061	chi balla e chi non balla, chi prega e chi non prega?
-1064	PST137_trad	1224.066	1225.144	1063	e i cristiani
-1066	PST139_trad	1226.043	1226.821	1065	tutti
-1081	PST135_trad	1258.844	1259.544	1080	vergognoso
-1083	PST138_trad	1259.543	1261.277	1082	non più che vergognoso cioè
-1104	PST139_trad	1300.110	1300.632	1103	è normale
-1114	PST137_trad	1309.933	1311.522	1113	non è lo stato che hai nella tua testa
-1117	PST136_trad	1311.488	1314.055	1116	e infatti mi sembrava strano che sapesse cos'è la qada
-1119	PST138_trad	1314.288	1316.476	1118	la qa3da dei matrimoni
-1122	PST135_trad	1317.665	1320.910	1121	è possibile, è come una palla
-1128	PST137_trad	1328.120	1329.348	1127	ci ballano sopra
-1130	PST138_trad	1329.312	1330.665	1129	ci salgono così
-1136	PST139_trad	1335.412	1340.532	1135	è normale, è il salotto
-1139	PST136_trad	1340.633	1342.355	1138	sì, voul dire così, per esempio
-1141	PST139_trad	1342.366	1344.944	1140	xxx
-1145	PST136_trad	1348.510	1350.743	1144	con questa ci fai il suono con i tuoi piedi
-1147	PST136_trad	1351.122	1353.133	1146	e balli con una specifica tecnica
-1149	PST139_trad	1353.499	1355.088	1148	intendi dire come i musicisti
-1212	PST138_trad	1467.332	1469.432	1211	impossibile perché io odio le prugne
-1248	PST139_trad	1542.066	1543.721	1247	avete il kusa maḥshi
-1254	PST136_trad	1546.055	1547.260	1253	allora qualcosa di ripieno
-1258	PST139_trad	1548.566	1550.110	1257	kusa zucchine
-1264	PST139_trad	1553.643	1557.510	1263	avete visto le zucchine con riso e carne come contorno?
-1270	PST137_trad	1558.854	1559.876	1269	no, non ce l'abbiamo
-1272	PST139_trad	1559.921	1560.932	1271	nemmeno io
-1274	PST137_trad	1560.921	1561.614	1273	non ce l'abbiamo
-1276	PST136_trad	1561.407	1563.932	1275	nemmeno io, non ce l'abbiamo
-1278	PST136_trad	1563.932	1566.310	1277	nel senso, nella vostra cultura
-1282	PST136_trad	1568.755	1569.788	1281	la prima
-1287	PST139_trad	1570.354	1572.132	1286	oppure con le melanzane ripiene
-1289	PST136_trad	1572.088	1573.380	1288	sì, le melanzane ci sono
-1291	PST139_trad	1573.364	1575.221	1290	con le melanzane, melanzane
-1293	PST135_trad	1575.243	1578.354	1292	oppure noi facciamo i peperoni ripieni
-1295	PST136_trad	1575.343	1576.336	1294	sì, melanzane
-1298	PST135_trad	1578.577	1581.343	1297	con il riso è ha al suo interno x
-1303	PST139_trad	1582.498	1585.082	1302	xx xx
-1308	PST139_trad	1586.654	1587.643	1307	questi peperoni
-1312	PST136_trad	1591.021	1592.418	1311	però non è un piatto tipico marocchino
-1321	PST139_trad	1596.999	1598.355	1320	molokayhia (è una pianta e zuppa tradizionale egiziana e tunisina)
-1323	PST138_trad	1598.321	1599.610	1322	ce l'abbiamo la molokayhia
-1326	PST139_trad	1601.010	1602.943	1325	la molokayhia viene trasformata in zuppa
-1328	PST136_trad	1603.044	1603.504	1327	no
-1331	PST136_trad	1604.538	1609.557	1330	voi credo intendiate la molokayhia come i tunisini, noi la intendiamo come verdura
-1333	PST138_trad	1610.222	1612.977	1332	è tipo marinata
-1336	PST139_trad	1613.888	1616.018	1335	zuppa, nel senso leggera
-1338	PST136_trad	1615.710	1617.643	1337	no, no, no, verdure, verdure
-1340	PST138_trad	1617.062	1617.554	1339	verdura
-1342	PST135_trad	1617.655	1618.188	1341	verdura
-1344	PST136_trad	1618.177	1619.677	1343	verdure, verdura
-1346	PST135_trad	1619.732	1622.599	1345	la tagli in mezzo e la rendi come una salsa
-1349	PST135_trad	1622.610	1625.465	1348	verdura con salsa, da magiare con il pane
-1351	PST139_trad	1625.332	1627.336	1350	quindi solo la molokayhia
-1358	PST139_trad	1633.521	1635.498	1357	pure in egitto la cucinano
-1366	PST135_trad	1639.799	1642.843	1365	con il piccante, con il peperoncino sudaniyya
-1368	PST138_trad	1643.088	1645.266	1367	io non riesco a mangiare il piccante
-1374	PST139_trad	1647.276	1648.232	1373	stiamo facendo casino
-1379	PST139_trad	1651.610	1652.943	1378	ah bamia (classico stufato libanese)
-1383	PST139_trad	1653.855	1655.021	1382	conosco questa
-1385	PST139_trad	1655.177	1656.699	1384	siamo uguali
-1388	PST136_trad	1656.999	1657.924	1387	è lo stesso, sì
-1392	PST139_trad	1658.488	1658.921	1391	molto buona
-1398	PST139_trad	1661.076	1663.487	1397	questa la friggiamo e anche bolliamo
-1400	PST136_trad	1663.899	1664.699	1399	verdura
-1405	PST139_trad	1665.743	1669.266	1404	la cuoci per tanto e poi ci metti del sale, molto buona
-1410	PST136_trad	1670.344	1673.077	1409	wow, no, noi la bolliamo
-1412	PST139_trad	1672.065	1675.610	1411	noi pure, nel senso, ci mettiamo la carne
-1415	PST139_trad	1675.610	1677.832	1414	la friggiamo tanto con carne e questo...
-1422	PST139_trad	1679.999	1685.555	1421	noi la prepariamo in questo modo ma, delle volte, la bolliamo prima di mangiarla
-1426	PST136_trad	1685.599	1689.199	1425	non l'ho mai provata, no ho capito il gusto
-1430	PST136_trad	1690.659	1692.171	1429	come avedete detto che si chiama questa?
-1437	PST138_trad	1693.388	1694.754	1436	la moloxiya è vostra?
-1440	PST139_trad	1694.721	1697.999	1439	non è la molokayhia classica, quella con le foglie verdi
-1449	PST139_trad	1703.843	1704.221	1448	questa
-1453	PST139_trad	1707.865	1709.165	1452	hai un bord / feed arabo?
-1470	PST136_trad	1730.110	1731.865	1469	ah ho capito, la mangiate con il riso?
-1482	PST139_trad	1748.103	1749.826	1481	stufato di spinaci, mangiate lo stufato di spinaci?
-1487	PST135_trad	1752.576	1753.276	1486	per forza
-1489	PST136_trad	1753.488	1755.977	1488	l'ho appena mangiata domenica, a casa
-1492	PST136_trad	1758.199	1762.132	1491	se avessi saputo che ti piaceva, ce se avessiamo parlato prima, te ne avrei portato
-1494	PST139_trad	1761.678	1762.312	1493	piccante?
-1497	PST137_trad	1763.277	1764.088	1496	ti piace il piccante?
-1499	PST139_trad	1763.721	1766.443	1498	il piccante che ha la molokayhia è molto buono
-1504	PST137_trad	1767.254	1768.487	1503	piccante, piccante, piccante
-1507	PST135_trad	1771.644	1773.817	1506	però non mi è piaciuta, non so perché
-1515	PST136_trad	1790.132	1792.743	1514	allora, al pollo è buono però, anche al pesce spacca
-1517	PST135_trad	1792.921	1795.921	1516	quando ti rimane in frigo la bastila col pesce
-1520	PST136_trad	1797.365	1797.865	1519	pesce
-1522	PST135_trad	1798.321	1798.854	1521	pesce
-1529	PST139_trad	1807.421	1808.165	1528	fagioli
-1543	PST135_trad	1822.143	1824.120	1542	io lo faccio, io la faccio io lo faccio
-1551	PST139_trad	1829.046	1830.144	1550	ho la fassolia (classico stufato libanese)
-1555	PST135_trad	1831.388	1832.070	1554	eh fagioli verdi
-1559	PST135_trad	1833.577	1834.962	1558	ah i fagioli verdi, i fagioli verdi
-1563	PST136_trad	1835.449	1836.139	1562	pistacchio
-1566	PST136_trad	1836.599	1836.880	1565	no?
-1568	PST135_trad	1837.355	1839.025	1567	non è pistacchio, è arachidi
-1570	PST139_trad	1839.943	1840.965	1569	pistacchio?
-1573	PST135_trad	1840.910	1841.987	1572	fustoq vuol dire arachidi
-1575	PST135_trad	1842.399	1843.260	1574	noi abbiamo le arachidi
-1580	PST139_trad	1844.788	1845.199	1579	questa
-1586	PST135_trad	1849.610	1850.799	1585	sì, le fave
-1588	PST139_trad	1851.055	1853.743	1587	no, non sono le fave, è diverso
-1590	PST136_trad	1852.371	1853.171	1589	fave
-1592	PST136_trad	1853.787	1855.843	1591	ma che pisellini sorella mia?
-1594	PST135_trad	1854.788	1856.063	1593	noi abbiamo che sono queste le fave
-1597	PST139_trad	1856.510	1859.732	1596	no, le fave sono un qualcosa di grande, queste non lo sono...
-1601	PST135_trad	1859.377	1860.336	1600	questa è tutta classica
-1604	PST134_trad	1860.361	1861.475	1603	è vero hai fatto un miglioramento
-1606	PST136_trad	1861.466	1864.032	1605	raga ci sono i fagioli verdi effettivamente
-1612	PST136_trad	1866.468	1868.481	1611	eh ma i fagioli non sono le fave, le fave sono le fave
-1614	PST135_trad	1868.954	1871.810	1613	ah non è quello tutto impastato, ho capito sì
-1616	PST136_trad	1871.210	1872.772	1615	no, non esce a cubetti
-1618	PST138_trad	1872.176	1874.587	1617	si taglia dalla robina sulla testa
-1620	PST135_trad	1874.751	1875.401	1619	carote
-1624	PST135_trad	1877.821	1879.432	1623	e ci fai la marqa
-1629	PST135_trad	1881.698	1882.176	1628	col pollo
-1631	PST139_trad	1882.343	1882.837	1630	carote
-1633	PST135_trad	1882.932	1883.348	1632	carote
-1635	PST136_trad	1883.332	1884.076	1634	sì, carote
-1638	PST136_trad	1884.076	1885.076	1636	in arabo classico
-1641	PST138_trad	1885.950	1886.577	1640	carote
-1643	PST136_trad	1886.654	1888.021	1642	e non ci sono gli spinaci
-1646	PST136_trad	1889.999	1890.877	1645	spinaci
-1648	PST135_trad	1890.876	1892.614	1647	le uova, voi dite le uova?
-1650	PST136_trad	1892.609	1892.832	1649	uova
-1652	PST136_trad	1893.409	1894.009	1651	osso
-1654	PST135_trad	1894.009	1894.543	1653	osso
-1656	PST139_trad	1894.877	1895.399	1655	osso / nocciolo
-1660	PST136_trad	1895.343	1896.199	1657	osso
-1661	PST135_trad	1895.343	1896.199	1658	osso
-1662	PST138_trad	1895.343	1896.199	1659	osso
-1666	PST135_trad	1897.397	1898.476	1665	osso
-1670	PST137_trad	1901.721	1903.443	1669	per fare colazione in modo fantastico
-1691	PST137_trad	1924.400	1925.587	1690	ti stupisci per l'osso?
-1695	PST138_trad	1928.753	1929.829	1694	eh cosa intendi
-1697	PST137_trad	1929.854	1930.700	1696	le salsicce
-1700	PST135_trad	1931.332	1931.943	1699	salsicce
-1702	PST135_trad	1932.865	1934.317	1701	le salsicce per noi è come
-1704	PST137_trad	1934.728	1935.650	1703	fate la salsiccia
-1706	PST136_trad	1935.888	1937.272	1705	quello è l'utensile da cucina
-1709	PST137_trad	1937.732	1938.554	1708	salsiccia
-1714	PST136_trad	1942.310	1942.976	1713	salsicce
-1716	PST135_trad	1943.376	1944.165	1715	salsicce
-1718	PST136_trad	1944.461	1944.848	1717	salsicce
-1722	PST138_trad	1948.499	1949.117	1721	mi è venuta fame
-1724	PST135_trad	1948.898	1949.873	1723	cosa?
-1727	PST136_trad	1949.874	1950.658	1726	te lo giuro ci servirebbe
-1731	PST136_trad	1950.824	1952.741	1730	ci servirebbe una grigliata
-1736	PST139_trad	1954.199	1955.574	1735	è da poco che l'hai mangiata
-1738	PST135_trad	1955.536	1956.523	1737	salsicce
-1741	PST136_trad	1956.961	1957.549	1740	salsicce
-1743	PST137_trad	1957.336	1957.987	1742	puliti, puliti
-1747	PST135_trad	1960.804	1961.355	1746	io
-1749	PST139_trad	1961.523	1962.211	1748	è importante
-1751	PST135_trad	1962.223	1963.436	1750	importante
-1753	PST137_trad	1964.961	1965.418	1752	non io
-1755	PST139_trad	1965.411	1966.598	1754	siamo di classe, sai?
-1760	PST135_trad	1969.124	1969.836	1759	sì, sono di classe
-1762	PST135_trad	1970.961	1975.074	1761	sì, noi siamo un po' di classe
-1765	PST135_trad	1975.920	1976.367	1764	folle
-1767	PST136_trad	1976.374	1977.024	1766	un po'
-1769	PST135_trad	1977.349	1978.936	1768	un po', un po' maranza
-1774	PST135_trad	1983.987	1985.551	1773	sono una falsa marocchina
-1776	PST136_trad	1984.573	1986.023	1775	fa un po' maranza
-1785	PST135_trad	1998.386	2001.511	1784	che la pace sia con te, come stai, tutto bene?
+205	PST137_trad	226.843	227.888	204	yasmin come tua mamma
+207	PST135_trad	228.688	229.588	206	rispondi fra
+213	PST139_trad	232.766	234.170	212	rispondi fra (imita il dialetto marocchino))
+216	PST139_trad	236.077	237.277	215	lo so
+227	PST139_trad	248.266	249.510	226	immaginazione
+233	PST138_trad	253.409	255.314	232	avete il nome xadija? okay
+235	PST135_trad	255.755	257.432	234	nome arabo
+239	PST137_trad	259.458	260.458	238	noi non diciamo xadija
+248	PST136_trad	267.352	269.686	245	eh addirittura la vergine hai detto tu
+251	PST136_trad	270.338	273.517	250	la vergine ((ride)) (Tamou) (.) (Tamou) (Tamou)
+254	PST139_trad	273.893	278.315	253	zuhūr e i fiori non sono insieme
+256	PST135_trad	276.687	277.608	255	okay, ma zhūr
+259	PST136_trad	278.788	293.366	258	rhimo rhimo, un ragazzo stava parlando con un suo amico che si sentiva con una ragazza, immagina come mi ha detto che si chiama la ragazza, rhimo
+261	PST135_trad	293.389	299.822	260	abbiamo nomi folli per le ragazze come rhimo e ijjo
+263	PST138_trad	299.833	302.077	262	oddio ijjo, ijjo è un nome berbero
+266	PST135_trad	302.244	303.588	265	berbero, berbero
+281	PST137_trad	310.832	311.332	280	credo
+305	PST135_trad	330.089	330.700	304	che ha?
+307	PST139_trad	330.721	331.721	306	la vergine maria
+311	PST138_trad	335.878	336.533	310	avete il nome ghita?
+322	PST135_trad	343.044	346.087	321	ghita è il nome rita, ma noi diciamo rhita
+324	PST136_trad	344.588	345.344	323	più o meno
+327	PST137_trad	347.410	348.760	326	loro dicono rita
+330	PST138_trad	349.981	350.437	329	lubna (nome proprio di persona femminile)
+337	PST139_trad	354.866	355.511	336	avete il nome jubna?
+339	PST136_trad	355.490	361.479	338	formaggio e formaggi e latte e latti fermentati, no?
+345	PST139_trad	364.735	365.392	344	no, non sappiamo
+347	PST135_trad	365.804	371.671	346	le mie due cugine sono
+354	PST139_trad	375.510	376.866	353	per i ragazzi
+356	PST138_trad	376.833	378.377	355	no, per ragazze
+358	PST135_trad	377.266	378.599	357	@amina per ragazzi?
+360	PST139_trad	378.755	379.066	359	sì
+362	PST135_trad	379.054	380.943	361	@amīna è per le ragazze
+365	PST137_trad	382.214	383.066	364	@amīna per ragazzi?
+367	PST136_trad	382.988	384.366	366	e islām?
+372	PST135_trad	387.033	388.755	371	islām è per ragazze?
+375	PST136_trad	389.221	391.221	374	è nome per ragazzi o ragazze?
+377	PST139_trad	391.210	391.599	376	ragazzo
+379	PST136_trad	391.710	392.166	378	tutte e due
+381	PST135_trad	392.155	392.622	380	ragazzo?
+383	PST139_trad	392.644	393.888	382	no no, non tutte e due
+386	PST136_trad	394.688	395.499	384	per noi tutte e due
+387	PST139_trad	394.688	395.658	385	ragazze, islām
+392	PST137_trad	399.766	401.510	391	islam è per ragazze e ragazzi
+396	PST136_trad	403.410	404.055	395	avete il nome barāʔ?
+399	PST136_trad	405.710	407.255	398	barāʔ ehm entrambi
+401	PST136_trad	407.582	408.367	400	fantastico
+413	PST135_trad	417.599	418.333	412	innocenza
+416	PST135_trad	418.577	421.611	415	barāʔ infatti deriva da barāʔa
+424	PST136_trad	427.359	432.626	422	il nome ihsan ce lo avete per le ragazze oppure per i ragazzi?
+426	PST135_trad	431.130	432.064	425	e nūr?
+430	PST139_trad	433.354	434.811	429	@nomepersona mia sorella
+438	PST136_trad	438.166	439.610	437	loro la chiamano nūr
+441	PST139_trad	439.158	440.093	440	è una ragazza
+444	PST139_trad	441.020	442.797	443	nūr non è per una ragazza
+464	PST137_trad	461.255	468.233	463	praticamente mia zia si è sposata con un uomo che fa di cognome @cognomepersona, e quindi lei
+466	PST137_trad	468.410	472.690	465	ha portato, cosa vuol dire, ha portato una ragazza
+499	PST138_trad	510.255	510.766	498	ce lo avete?
+501	PST136_trad	510.766	512.677	500	i vosti padri, tuo padre si chiama ddris?
+505	PST138_trad	513.499	514.861	504	è iniziata la festa del papà
+514	PST135_trad	523.565	524.110	513	e
+524	PST139_trad	533.894	536.494	523	okay conosco il nome ma non conosco nessuno
+531	PST139_trad	546.020	546.477	530	
+548	PST136_trad	559.577	560.510	546	e ḥafeḍh
+554	PST139_trad	565.477	567.266	553	non conosci hafidu darraji?
+559	PST137_trad	571.833	572.924	558	chi è questo?
+561	PST139_trad	572.944	575.621	560	telecronisti molto famosi in tunisia
+563	PST135_trad	576.599	577.733	562	eh le notizie
+566	PST139_trad	577.700	579.255	565	telecronisti di calcio
+569	PST139_trad	579.788	581.511	568	sicuro hai sentito parlare di loro, sicuro, sicuro
+571	PST138_trad	581.533	581.766	570	no
+573	PST137_trad	581.784	582.422	572	non li conosco
+576	PST139_trad	584.298	585.741	575	asam shawali oppure xx
+580	PST139_trad	587.255	588.988	579	tutti gli arabi li conoscono
+582	PST136_trad	589.544	592.589	581	shawali, sorella mia, è quello che fa il telecronista delle partite
+584	PST139_trad	592.809	595.655	583	se sentissi la sua voce, sicuramente ti renderesti conto di averla già sentita
+592	PST136_trad	602.722	603.777	591	qual è?
+601	PST138_trad	609.689	610.344	599	spalmare
+603	PST138_trad	610.399	611.688	602	spalma quello
+605	PST139_trad	611.971	615.095	604	noi diciamo dahan, la persona che...
+608	PST138_trad	616.249	617.582	607	ah, pittore
+611	PST135_trad	618.329	619.065	610	il tuo cognome?
+631	PST136_trad	636.743	638.099	630	il suo cognome è lungo quanto una riga
+636	PST139_trad	642.644	643.866	635	dillo, dillo
+686	PST135_trad	695.210	699.544	685	oh il cognome marocchino più strano che abbia mai sentito è bu debbena (il padre della mosca)
+689	PST136_trad	700.348	701.214	688	c'è bu ras (padre della testa)
+694	PST135_trad	704.211	705.678	693	hai capito? mosca sai cos'è mosca
+696	PST139_trad	705.700	706.400	695	mosca, mosca
+715	PST137_trad	732.010	736.965	714	abbiamo questo cognome in tunisia ma avete la pronuncia molto più dolce (voi marocchini)
+717	PST136_trad	733.870	736.970	716	hai visto quella serie tv, seguita anche dai marocchini
+719	PST137_trad	737.200	738.577	718	è molto bella
+721	PST136_trad	738.910	752.388	720	si chiama bu jama, però alcuni ragazzi lo chiamavano, i ragazzi del quartiere di Derb, mi spaventavano dicendomi che il padre del venerdì stava arrivando
+724	PST137_trad	743.444	744.213	723	
+728	PST137_trad	752.388	754.108	727	le è piaciuta questa parola dolce
+731	PST139_trad	754.366	757.855	730	hey voi, il suo cognomelui è sharmiti
+735	PST135_trad	758.677	759.543	734	cosa?
+737	PST137_trad	759.560	761.882	736	giuro su dio, sharmīṭi
+740	PST139_trad	762.821	763.666	739	nome di famiglia
+817	PST136_trad	927.181	934.332	816	oddio xx  la signora morirà, sei tu che dovunque andrai rimarrai con una firma così
+838	PST139_trad	964.743	966.310	837	@hassan @hassan io sono @hassan
+850	PST139_trad	980.837	985.057	849	ma tutti mi chiamano @hassan, nessuno si sforza a dire @hussein
+853	PST137_trad	986.113	989.184	852	e tu cosa preferisci @hassan?
+855	PST139_trad	987.788	988.165	854	guarda
+857	PST139_trad	988.388	989.366	856	è la stessa cosa
+859	PST137_trad	989.338	990.227	858	stessa cosa/ uguale
+861	PST135_trad	990.244	991.055	860	stessa cosa
+863	PST135_trad	992.677	994.544	862	a me se qualcuno mi chiama hejar...
+879	PST135_trad	1024.299	1025.455	878	cosa vuole lei?
+886	PST139_trad	1032.194	1033.283	885	non c'è @hassan?
+889	PST136_trad	1033.465	1034.621	887	abbiamo haithem
+890	PST135_trad	1033.465	1034.621	888	è la prima volta
+896	PST139_trad	1038.410	1041.899	895	il rango e xx
+898	PST137_trad	1041.368	1044.196	897	@hassan e haitham figli del @hassan
+901	PST139_trad	1044.176	1045.299	900	il tuo amico haitham
+903	PST135_trad	1045.454	1046.576	902	cosa vuol dire sherfie?
+905	PST137_trad	1046.804	1047.888	904	il tuo amico
+907	PST139_trad	1046.900	1047.994	906	il tuo amico
+909	PST137_trad	1047.943	1048.910	908	il tuo amico
+911	PST135_trad	1048.888	1050.688	910	eh saltelliamo sulle montagne
+914	PST137_trad	1051.019	1052.466	913	ti ha detto che saltelliamo
+917	PST139_trad	1052.411	1054.055	916	andare sulle montagne
+919	PST135_trad	1054.221	1057.054	918	no, tipo correre sulle montagne, tipo heidi
+922	PST137_trad	1058.232	1059.188	921	corriamo quindi?
+927	PST137_trad	1066.155	1068.877	926	la preziosa, come la chiameresti se dovessi incontrare la preziosa
+937	PST137_trad	1075.272	1077.110	936	@tassnim grande e @tassnim piccola
+940	PST135_trad	1079.310	1084.232	939	però aspetta, com'è che si diceva in inglese, nessuno è meglio dell'originale
+990	PST135_trad	1143.254	1145.765	989	quella falsa, quella di temu
+992	PST134_trad	1143.455	1144.254	991	quella vera
+1001	PST139_trad	1157.733	1158.555	1000	questo come si chiama?
+1003	PST135_trad	1159.488	1160.110	1002	cosa?
+1005	PST133_trad	1160.077	1160.655	1004	tavolo
+1007	PST137_trad	1160.621	1161.076	1006	tavolo
+1010	PST139_trad	1161.810	1162.422	1009	tavolo
+1012	PST135_trad	1162.433	1162.823	1011	tavolo
+1016	PST139_trad	1163.676	1164.121	1015	tavolo?
+1018	PST135_trad	1164.310	1164.776	1017	tavolo
+1020	PST139_trad	1164.825	1165.581	1019	tavolo
+1024	PST135_trad	1167.588	1168.655	1023	allora sai
+1029	PST139_trad	1173.006	1173.466	1028	cosa?
+1033	PST135_trad	1174.977	1178.421	1032	le donne, le donne ballano nei matrimoni libanesi?
+1035	PST135_trad	1179.344	1180.466	1034	ballano?
+1037	PST139_trad	1180.599	1181.392	1036	eh ballano
+1049	PST135_trad	1192.321	1201.176	1048	se fanno dabka le donne sono sempre, cioè non ballano davanti agli uomini? è proibito e vergognoso?
+1054	PST137_trad	1203.132	1205.452	1053	gli ultimi ad avere vergogna sono i libanesi
+1058	PST135_trad	1210.144	1211.777	1057	da noi, da noi non è vergognoso
+1061	PST135_trad	1211.955	1215.444	1060	da noi è invidia, è proprio annoda (un velo) sui tuoi fianchi e balla
+1064	PST137_trad	1215.543	1216.518	1063	dipende
+1066	PST139_trad	1216.688	1218.088	1065	tra tutte le ragazze
+1068	PST139_trad	1218.088	1219.082	1067	cosa ti importa vedere?
+1071	PST139_trad	1219.615	1223.960	1070	chi balla e chi non balla, chi prega e chi non prega?
+1073	PST137_trad	1224.066	1225.144	1072	e i cristiani
+1075	PST139_trad	1226.043	1226.821	1074	tutti
+1090	PST135_trad	1258.844	1259.544	1089	vergognoso
+1092	PST138_trad	1259.543	1261.277	1091	non più che vergognoso cioè
+1113	PST139_trad	1300.110	1300.632	1112	è normale
+1123	PST137_trad	1309.933	1311.522	1122	non è lo stato che hai nella tua testa
+1126	PST136_trad	1311.488	1314.055	1125	e infatti mi sembrava strano che sapesse cos'è la qada
+1128	PST138_trad	1314.288	1316.476	1127	la qaʕda dei matrimoni
+1131	PST135_trad	1317.665	1320.910	1130	è possibile, è come una palla
+1137	PST137_trad	1328.120	1329.348	1136	ci ballano sopra
+1139	PST138_trad	1329.312	1330.665	1138	ci salgono così
+1145	PST139_trad	1335.412	1340.532	1144	è normale, è il salotto
+1148	PST136_trad	1340.633	1342.355	1147	sì, voul dire così, per esempio
+1150	PST139_trad	1342.366	1344.944	1149	sì la qaʕda [questà è la qaʕda] xxx
+1154	PST136_trad	1348.510	1350.743	1153	con questa ci fai il suono con i tuoi piedi
+1156	PST136_trad	1351.122	1353.133	1155	e balli con una specifica tecnica
+1158	PST139_trad	1353.499	1355.088	1157	intendi dire come i musicisti
+1221	PST138_trad	1467.332	1469.432	1220	impossibile perché io odio le prugne
+1257	PST139_trad	1542.066	1543.721	1256	avete il kusa maḥshi
+1263	PST136_trad	1546.055	1547.260	1262	allora qualcosa di ripieno
+1267	PST139_trad	1548.566	1550.110	1266	kusa zucchine
+1270	PST136_trad	1550.710	1551.776	1269	
+1274	PST139_trad	1553.643	1557.510	1273	avete visto le zucchine con riso e carne come contorno?
+1280	PST137_trad	1558.854	1559.876	1279	no, non ce l'abbiamo
+1282	PST139_trad	1559.921	1560.932	1281	nemmeno io
+1284	PST137_trad	1560.921	1561.614	1283	non ce l'abbiamo
+1286	PST136_trad	1561.407	1563.932	1285	nemmeno io, non xx
+1288	PST136_trad	1563.932	1566.310	1287	nel senso, nella vostra cultura
+1292	PST136_trad	1568.755	1569.788	1291	la prima
+1297	PST139_trad	1570.354	1572.132	1296	oppure le melanzane ripiene
+1299	PST136_trad	1572.088	1573.380	1298	sì, le melanzane ci sono le melanzane
+1301	PST139_trad	1573.364	1575.221	1300	le melanzane, melanzane
+1303	PST135_trad	1575.243	1578.354	1302	oppure noi facciamo i peperoni ripieni
+1305	PST136_trad	1575.343	1576.336	1304	sì, melanzane
+1308	PST135_trad	1578.577	1581.343	1307	con il riso è ha al suo interno x
+1313	PST139_trad	1582.498	1585.082	1312	voi xx xx il lavoro completo
+1318	PST139_trad	1586.654	1587.643	1317	questi peperoni
+1322	PST136_trad	1591.021	1592.418	1321	però non è un piatto tipico marocchino
+1331	PST139_trad	1596.999	1598.355	1330	molokayhia (è una pianta e zuppa tradizionale egiziana e tunisina)
+1333	PST138_trad	1598.321	1599.610	1332	ce l'abbiamo la molokayhia
+1336	PST139_trad	1601.010	1602.943	1335	la molokayhia viene trasformata in zuppa
+1338	PST136_trad	1603.044	1603.504	1337	no
+1340	PST138_trad	1603.510	1604.555	1339	no non è una zuppa
+1342	PST136_trad	1604.538	1609.557	1341	voi credo intendiate la molokayhia come i tunisini, noi la intendiamo come verdura
+1344	PST138_trad	1610.222	1612.977	1343	è tipo marinata
+1347	PST139_trad	1613.888	1616.018	1346	zuppa, nel senso leggera
+1349	PST136_trad	1615.710	1617.643	1348	no, no, no, verdure, verdure
+1351	PST138_trad	1617.062	1617.554	1350	verdura
+1353	PST135_trad	1617.655	1618.188	1352	verdura
+1355	PST136_trad	1618.177	1619.677	1354	verdure, verdura
+1357	PST135_trad	1619.732	1622.599	1356	la tagli in mezzo e la rendi come una salsa
+1360	PST135_trad	1622.610	1625.465	1359	verdura con salsa, da magiare con il pane
+1362	PST139_trad	1625.332	1627.336	1361	quindi solo la molokayhia
+1369	PST139_trad	1633.521	1635.498	1368	pure in egitto la cucinano
+1377	PST135_trad	1639.799	1642.843	1376	con il piccante, con il peperoncino sudanese
+1379	PST138_trad	1643.088	1645.266	1378	io non riesco a mangiare il piccante
+1385	PST139_trad	1647.276	1648.232	1384	stiamo facendo casino
+1390	PST139_trad	1651.610	1652.943	1389	ah bamia (classico stufato libanese)
+1394	PST139_trad	1653.855	1655.021	1393	conosco questa
+1396	PST139_trad	1655.177	1656.699	1395	siamo uguali
+1399	PST136_trad	1656.999	1657.924	1398	è lo stesso, sì
+1403	PST139_trad	1658.488	1658.921	1402	molto buona
+1409	PST139_trad	1661.076	1663.487	1408	questa la friggiamo xx senza cucinare
+1411	PST136_trad	1663.899	1664.699	1410	verdura
+1416	PST139_trad	1665.743	1669.266	1415	la cuoci per bene e poi ci metti del sale e la mangi, è molto buona
+1421	PST136_trad	1670.344	1673.077	1420	wow, no, noi la bolliamo
+1423	PST139_trad	1672.065	1675.610	1422	noi pure, nel senso, ci mettiamo la carne
+1426	PST139_trad	1675.610	1677.832	1425	la friggiamo tanto con carne e questo...
+1433	PST139_trad	1679.999	1685.555	1432	noi la prepariamo in questo modo ma, delle volte, la bolliamo prima di mangiarla
+1437	PST136_trad	1685.599	1689.199	1436	non l'ho mai provata, no ho capito il gusto
+1441	PST136_trad	1690.659	1692.171	1440	come avedete detto che si chiama questa?
+1448	PST138_trad	1693.388	1694.754	1447	la moloxiya è vostra?
+1451	PST139_trad	1694.721	1697.999	1450	non è la molokayhia classica, quella con le foglie verdi
+1460	PST139_trad	1703.843	1704.221	1459	questa
+1464	PST139_trad	1707.865	1709.165	1463	hai la tastiera araba?
+1481	PST136_trad	1730.110	1731.865	1480	ah ho capito, la mangiate con il riso?
+1493	PST139_trad	1748.103	1749.826	1492	stufato di spinaci, mangiate lo stufato di spinaci?
+1498	PST135_trad	1752.576	1753.276	1497	per forza
+1500	PST136_trad	1753.488	1755.977	1499	l'ho appena mangiata domenica, a casa
+1503	PST136_trad	1758.199	1762.132	1502	se avessi saputo che ti piaceva, ce se avessiamo parlato prima, te ne avrei portato
+1505	PST139_trad	1761.678	1762.312	1504	piccante?
+1508	PST137_trad	1763.277	1764.088	1507	ti piace il piccante?
+1510	PST139_trad	1763.721	1766.443	1509	il piccante che ha la molokayhia è molto buono
+1515	PST137_trad	1767.254	1768.487	1514	piccante, piccante, piccante
+1518	PST135_trad	1771.644	1773.817	1517	però non mi è piaciuta, non so perché
+1526	PST136_trad	1790.132	1792.743	1525	allora, al pollo è buono però, anche al pesce spacca
+1528	PST135_trad	1792.921	1795.921	1527	quando ti rimane in frigo la bastila col pesce
+1531	PST136_trad	1797.365	1797.865	1530	pesce
+1533	PST135_trad	1798.321	1798.854	1532	pesce
+1540	PST139_trad	1807.421	1808.165	1539	fagioli
+1554	PST135_trad	1822.143	1824.120	1553	io lo faccio, io la faccio io lo faccio
+1562	PST139_trad	1829.046	1830.144	1561	ho la fassolia (classico stufato libanese)
+1566	PST135_trad	1831.388	1832.070	1565	eh fagioli verdi
+1570	PST135_trad	1833.577	1834.962	1569	ah i fagioli verdi, i fagioli verdi
+1574	PST136_trad	1835.449	1836.139	1573	pistacchio
+1577	PST136_trad	1836.599	1836.880	1576	no?
+1579	PST135_trad	1837.355	1839.025	1578	non è pistacchio, è arachidi
+1581	PST139_trad	1839.943	1840.965	1580	pistacchio?
+1584	PST135_trad	1840.910	1841.987	1583	fustuq vuol dire arachidi
+1586	PST135_trad	1842.399	1843.260	1585	noi abbiamo le arachidi
+1591	PST139_trad	1844.788	1845.199	1590	questa
+1597	PST135_trad	1849.610	1850.799	1596	sì, le fave
+1599	PST139_trad	1851.055	1853.743	1598	no, non sono le fave, è diverso
+1601	PST136_trad	1852.371	1853.171	1600	fave
+1603	PST136_trad	1853.787	1855.843	1602	ma che pisellini sorella mia?
+1605	PST135_trad	1854.788	1856.063	1604	noi abbiamo queste che sono le fave
+1608	PST139_trad	1856.510	1859.732	1607	no, le fave sono un qualcosa di grande, queste non lo sono...
+1612	PST135_trad	1859.377	1860.336	1611	questo è tutto arabo classico
+1615	PST134_trad	1860.361	1861.475	1614	è vero hai fatto un miglioramento
+1617	PST136_trad	1861.466	1864.032	1616	raga ci sono i fagioli verdi effettivamente
+1623	PST136_trad	1866.468	1868.481	1622	eh ma i fagioli non sono le fave, le fave sono le fave
+1625	PST135_trad	1868.954	1871.810	1624	ah non è quello tutto impastato, ho capito sì
+1627	PST136_trad	1871.210	1872.772	1626	no, non esce a cubetti
+1629	PST138_trad	1872.176	1874.587	1628	si taglia dalla robina sulla testa
+1631	PST135_trad	1874.751	1875.401	1630	carote
+1635	PST135_trad	1877.821	1879.432	1634	e ci fai la il brodo
+1640	PST135_trad	1881.698	1882.176	1639	col pollo
+1642	PST139_trad	1882.343	1882.837	1641	carote
+1644	PST135_trad	1882.932	1883.348	1643	carote
+1646	PST136_trad	1883.332	1884.076	1645	sì, carote
+1649	PST136_trad	1884.076	1885.076	1647	in arabo classico
+1652	PST138_trad	1885.950	1886.577	1651	carote
+1654	PST136_trad	1886.654	1888.021	1653	e non ci sono gli spinaci
+1657	PST136_trad	1889.999	1890.877	1656	spinaci
+1659	PST135_trad	1890.876	1892.614	1658	le uova, voi dite le uova?
+1661	PST136_trad	1892.609	1892.832	1660	uova
+1663	PST136_trad	1893.409	1894.009	1662	osso
+1665	PST135_trad	1894.009	1894.543	1664	osso
+1667	PST139_trad	1894.877	1895.399	1666	osso / nocciolo
+1671	PST136_trad	1895.343	1896.199	1668	osso
+1672	PST135_trad	1895.343	1896.199	1669	osso
+1673	PST138_trad	1895.343	1896.199	1670	osso
+1677	PST135_trad	1897.397	1898.476	1676	osso
+1681	PST137_trad	1901.721	1903.443	1680	per fare colazione l'osso
+1702	PST137_trad	1924.400	1925.587	1701	ti stupisci per l'osso?
+1706	PST138_trad	1928.753	1929.829	1705	eh cosa intendi
+1708	PST137_trad	1929.854	1930.700	1707	le salsicce
+1711	PST135_trad	1931.332	1931.943	1710	salsicce
+1713	PST135_trad	1932.865	1934.317	1712	le salsicce per noi è come
+1715	PST137_trad	1934.728	1935.650	1714	fate la salsiccia
+1717	PST136_trad	1935.888	1937.272	1716	quello è l'utensile da cucina
+1720	PST137_trad	1937.732	1938.554	1719	salsiccia
+1725	PST136_trad	1942.310	1942.976	1724	salsicce
+1727	PST135_trad	1943.376	1944.165	1726	salsicce
+1729	PST136_trad	1944.461	1944.848	1728	salsicce
+1733	PST138_trad	1948.499	1949.117	1732	mi è venuta fame
+1735	PST135_trad	1948.898	1949.873	1734	cosa?
+1738	PST136_trad	1949.874	1950.658	1737	te lo giuro ci servirebbe
+1742	PST136_trad	1950.824	1952.741	1741	ci servirebbe una grigliata
+1747	PST139_trad	1954.199	1955.574	1746	è da poco che l'hai mangiata
+1749	PST135_trad	1955.536	1956.523	1748	salsicce
+1752	PST136_trad	1956.961	1957.549	1751	salsicce
+1754	PST137_trad	1957.336	1957.987	1753	puliti, puliti
+1758	PST135_trad	1960.804	1961.355	1757	io
+1760	PST139_trad	1961.523	1962.211	1759	è importante
+1762	PST135_trad	1962.223	1963.436	1761	importante
+1764	PST137_trad	1964.961	1965.418	1763	non io
+1766	PST139_trad	1965.411	1966.598	1765	siamo di classe, sai?
+1771	PST135_trad	1969.124	1969.836	1770	sì, sono di classe
+1773	PST135_trad	1970.961	1975.074	1772	sì, noi siamo un po' di classe
+1776	PST135_trad	1975.920	1976.367	1775	folle
+1778	PST136_trad	1976.374	1977.024	1777	un po'
+1780	PST135_trad	1977.349	1978.936	1779	un po', un po' maranza
+1785	PST135_trad	1983.987	1985.551	1784	sono una falsa marocchina
+1787	PST136_trad	1984.573	1986.023	1786	fa un po' maranza
+1796	PST135_trad	1998.386	2001.511	1795	che la pace sia con te, come stai, tutto bene?

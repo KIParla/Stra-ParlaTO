@@ -6,7 +6,7 @@ PST085	ma cos'è: ma [e:h]
 PST092	[perché ci sono] le foto del
 PST092	[ci sono le foto::]
 PST087	[ma si può metterla alla] [tastiera]? (.) tipo in questo senso,
-PST094	tabără]
+PST094	#_ [pentru tabără]
 PST092	eh ma: perché::
 PST092	all~ (.) allo:ra
 PST092	l'id[ea (.) che mi hai fatto venire lei] là: e una persona qua
@@ -145,14 +145,14 @@ PST092	[ti ho vi:sto:]
 PST087	l'inquadratura è quella
 PST092	((ride))
 PST092	io dico più che altro perché (.) tanto la metti qua poi: la luce vie:ne: e: semmai fa un pochino [d'ombra:]
-PST085	me]
+PST085	#_ [trust me]
 PST085	#_ trust me
 PST085	così dev'essere
 PST087	però (tu usi le penne)]
 PST087	quindi [iniziamo] a spostare,
 PST092	[hai]
 PST092	applaudi
-PST085	#_ #ye:[s:]
+PST085	#ye:[s:]
 PST092	[ci] sta
 PST085	vai #guy:s]
 PST092	[pia:no] con i [ca:vi:]
@@ -208,7 +208,7 @@ PST092	cioè [xx xx]
 PST087	[noi abbiamo parla]to fino ad adesso di sta roba,
 PST092	non lo so ragazze io stavo spo[stando il computer non vi stavo ascoltando]
 PST087	[voi ve la immagi~ voi ve la immaginate] in pie:di?
-PST085	#_ #wa:i:t
+PST085	#wa:i:t
 PST087	chiariamo [ve la immagina]te (.) in pie:di o seduta?
 PST085	[mi state:]
 PST092	sedu:ta
@@ -332,9 +332,9 @@ PST203	[o anche una] [moneti:na se ce l'hai]
 PST092	[ah questo è da togli]ere ~spettate
 PST087	tanto qui dietro non si ve:de si spera
 PST092	eh?
-PST092	#_ #valeleu
+PST092	#valeleu
 PST087	lasciamo i [libri lì:]?
-PST092	#_ [#valele:u],
+PST092	[#valele:u],
 PST092	~spetta che io questi li me(tto)°
 PST211	questi dici?
 PST087	sì
@@ -363,7 +363,7 @@ PST203	[e::h sì]
 PST085	ma lascia stare sta chita:rra
 PST085	ce le hai con [le chita:~]
 PST203	[ma guarda che] è carina eh se [si vede]
-PST092	[e:h dacă se dă cu scaunul
+PST092	[e:h #_ dar] dacă se dă cu scaunul
 PST087	e spostala qui: così si vede meglio la chitarra
 PST092	ah più che altro perché se dà: in dietro con la sedia: la spacca
 PST092	>cioè< fa un casi:no,
@@ -596,13 +596,13 @@ PST092	[iniziamo]
 PST086	di hit ball
 PST085	a:nc~ [sta] face:ndo:
 PST203	[ah]
-PST085	lucreaza (.) încă lucr]eaza cu:
+PST085	#_ [încă lucreaza (.) încă lucr]eaza cu:
 PST092	[°chie~ chiedo a #doamna xxx]
 PST085	vene:~ d~ sabato
 PST203	cosa vuoi [fare oggi]
-PST085	trebuie să] vin de [la nouă până la șase să stau] aici
+PST085	#_ [trebuie să] vin de [la nouă până la șase să stau] aici
 PST087	[oggi (c'è xx no]
-PST092	ce]?
+PST092	#_ [de ce?]
 PST086	[cosa c'entra]
 PST087	[non lo so magari arriva prima],
 PST085	[perché alle nove volevo fare] (.) <matematica con #doamna
@@ -612,7 +612,7 @@ PST085	#_ pentru că i-am spus de la [cinci azi]
 PST086	[non lo so]
 PST092	[sfi]g[a:ta:]
 PST203	[sai cosa stiamo facendo]
-PST085	ce]?
+PST085	#_ [de ce?]
 PST086	e:::h sapevo [che:: dovrebbe essere inter]vistata #doamna
 PST092	[ti svegli presto]
 PST203	okay (.) perfetto ((ride))
@@ -935,7 +935,7 @@ PST085	[ah]
 PST087	((ride))
 PST092	[((ride)) x]
 PST092	[belli:ssimo: ((ride))]
-PST085	#_ #mamă:
+PST085	#mamă:
 PST092	((ride))
 PST086	[cosa fa:i: ((ridendo))]
 PST092	[è bellissimo]
@@ -952,7 +952,7 @@ PST086	[comunque oggi mi sono fatta le sopracci]glia benissimo
 PST092	ieri stavo parlando con e non so perché (ma) sono scoppiata a ridere no perché mi ha fatto una domanda e le ho detto (.) >ma tu sai se questa persona è arrabiata< e mi è partito da ridere
 PST092	e non ho più smesso quindi l'ho riempita di vocali di risate [e rideva sia lei che io]
 PST086	[sembro un maschio però]
-PST085	#_ #da
+PST085	#da
 PST092	fatto sta che poi [ieri sera era~ erano le dieci passate arriva xxx si sveglia e mi dice xxx
 PST086	[xxx xxx]
 PST092	°eh°

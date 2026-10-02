@@ -497,7 +497,7 @@ PST094	tradizionali okay #o #sa #băgam #si balli tradizionali bom
 PST083	ma il nove cosa si fa
 PST094	non vi~ #nouă #martie
 PST083	quello con::
-PST094	să facă] și copii mici o să facă o să facem și taraful și o să facem tot
+PST094	#_ [o să facă] și copii mici o să facă o să facem și taraful și o să facem tot
 PST083	[quello del xxxx]
 PST083	mh
 PST085	mh
@@ -578,7 +578,7 @@ PST085	del lei
 PST083	[sì]
 PST083	vabbè io scrivo::
 PST085	[>scrivi<] di punto
-PST093	#_ #doa[mna]
+PST093	#doa[mna]
 PST093	di emme
 PST082	[sì::]
 PST083	[okay]
