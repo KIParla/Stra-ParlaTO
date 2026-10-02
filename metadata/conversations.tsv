@@ -78,3 +78,6 @@ STCR013	free-conversation	00:28:12	8	PST085;PST086;PST087;PST092;PST094;PST203;P
 STCR014	free-conversation	00:30:50	5	PST087;PST092;PST203;PST211;PST212	italian;other	TO	free	no	symmetric	_	no
 STCR015	free-conversation	00:31:06	3	PST118;PST119;PST120	italian;other	TO	free	no	symmetric	_	yes
 STCR016	free-conversation	00:40:17	8	PST083;PST085;PST086;PST087;PST092;PST093;PST203;PST211	italian;other	TO	free	no	symmetric	_	no
+STCS001	free-conversation	00:47:18	5	PST047;PST048;PST067;PST068;PST069	italian;other	TO	free	no	symmetric	_	yes
+STCS002	free-conversation	00:55:18	11	PST064;PST072;PST089;PST090;PST098;PST099;PST203;PST211;PST213;PST214;PST215	italian;other	TO	free	no	symmetric	_	yes
+STCS003	free-conversation	01:00:16	8	PST072;PST090;PST098;PST203;PST212;PST214;PST219;PST220	italian;other	TO	free	no	symmetric	_	yes

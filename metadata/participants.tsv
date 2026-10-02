@@ -4,7 +4,7 @@ PST002	0-Unemployed	M	STIS001	peru	31-35	foreign-diploma	spagnolo	31-35	0-1
 PST003	0-Unemployed	M	STIA001	marocco	31-35	foreign-diploma	arabo	31-35	0-1
 PST004	5-Service-Workers	F	STIA001	peru	21-25	foreign-diploma	spagnolo	21-25	02-03
 PST005	0-Unemployed	F	STIS003	argentina	51-55	foreign-diploma	spagnolo	51-55	0-1
-PST006	5-Service-Workers	F	STIS003	peru	41-45	foreign-diploma	spagnolo	51-55	0-1
+PST006	5-Service-Workers	F	STIS003	peru	41-45	foreign-diploma	spagnolo	41-45	0-1
 PST007	5-Service-Workers	M	STIS004	peru	21-25	foreign-diploma	spagnolo	21-25	02-03
 PST008	5-Service-Workers	M	STIS004	argentina	21-25	foreign-diploma	spagnolo	21-25	0-1
 PST009	0-Students	M	STIA002	marocco	16-20	technical-vocational-diploma	arabo	06-10	08-09
@@ -26,6 +26,8 @@ PST043	0-Students	M	STIS006	piemonte	16-20	liceo-diploma	italiano	N/A	N/A
 PST044	0-Unemployed	F	STIR016	romania	41-45	foreign-diploma	romeno	21-25	18-19
 PST045	0-Unemployed	F	STIR017	romania	36-40	university-degree	romeno	21-25	12-13
 PST046	0-Unemployed	F	STIR018	romania	41-45	university-degree	romeno	21-25	16-17
+PST047	5-Service-Workers	F	STCS001	peru	61-65	technical-vocational-diploma	spagnolo	31-35	30-31
+PST048	3-Technicians	M	STCS001	peru	41-45	technical-vocational-diploma	spagnolo	16-20	24-25
 PST049	2-Professionals	M	STIS008	peru	36-40	university-degree	spagnolo	26-30	10-11
 PST050	8-Elementary	F	STIR019	romania	36-40	foreign-diploma	romeno	16-20	22-23
 PST051	3-Technicians	F	STIR020	romania	36-40	foreign-diploma	romeno	21-25	16-17
@@ -40,10 +42,13 @@ PST060	0-Students	M	STIR026	piemonte	16-20	technical-vocational-diploma	italiano
 PST061	5-Service-Workers	M	STIS009	peru	51-55	foreign-diploma	spagnolo	31-35	16-17
 PST062	0-Students	F	STIS009	peru	26-30	university-degree	spagnolo	06-10	20-21
 PST063	5-Service-Workers	M	STIS010;STIS011	peru	16-20	middle-school	spagnolo	16-20	02-03
-PST064	5-Service-Workers	F	STIS012	peru	46-50	foreign-diploma	spagnolo	26-30	22-23
+PST064	5-Service-Workers	F	STIS012;STCS002	peru	46-50	foreign-diploma	spagnolo	26-30	22-23
 PST065	5-Service-Workers	F	STIS012	peru	26-30	middle-school	spagnolo	11-15	14-15
 PST066	5-Service-Workers	F	STIS011	peru	51-55	foreign-diploma	spagnolo	21-25	26-27
-PST072	5-Service-Workers	M	STIS013;STCS010	peru	31-35	university-degree	spagnolo; italiano	06-10	24-25
+PST067	5-Service-Workers	M	STCS001	peru	41-45	technical-vocational-diploma	spagnolo	16-20	26-27
+PST068	5-Service-Workers	F	STCS001	piemonte	36-40	university-degree	italiano	N/A	N/A
+PST069	3-Technicians	F	STCS001	calabria	61-65	middle-school	italiano	N/A	N/A
+PST072	5-Service-Workers	M	STIS013;STCS002;STCS003;STCS010	peru	31-35	university-degree	spagnolo; italiano	06-10	24-25
 PST073	3-Technicians	M	STIS014	peru	51-55	university-degree	spagnolo	31-35	20-21
 PST074	0-Students	F	STIS015	peru	16-20	technical-vocational-diploma	spagnolo	11-15	02-03
 PST077	0-Students	F	STIR027	moldavia	26-30	university-degree	romeno	16-20	10-11
@@ -54,7 +59,8 @@ PST085	0-Students	F	STCR002;STCR004;STCR008;STCR009;STCR010;STCR012;STCR013;STCR
 PST086	0-Students	F	STCR003;STCR005;STCR006;STCR008;STCR010;STCR013;STCR016	romania	16-20	technical-vocational-diploma	romeno	11-15	02-03
 PST087	0-Students	F	STCR003;STCR004;STCR005;STCR006;STCR007;STCR009;STCR010;STCR011;STCR012;STCR013;STCR014;STCR016	piemonte	11-15	middle-school	italiano; romeno	N/A	N/A
 PST088	2-Professionals	M	STIA017	marocco	61-65	university-degree	arabo	41-45	20-21
-PST089	0-Students	M	STCS004	colombia	16-20	technical-vocational-diploma	spagnolo	16-20	0-1
+PST089	0-Students	M	STCS002;STCS004	colombia	16-20	technical-vocational-diploma	spagnolo	16-20	0-1
+PST090	0-Students	F	STCS002;STCS003	peru	16-20	technical-vocational-diploma	spagnolo	11-15	02-03
 PST091	0-Students	F	STIR028	romania	26-30	university-degree	romeno	06-10	20-21
 PST092	0-Students	F	STIR030;STCR003;STCR004;STCR005;STCR006;STCR007;STCR008;STCR009;STCR010;STCR011;STCR012;STCR013;STCR014;STCR016	piemonte	16-20	technical-vocational-diploma	italiano; romeno	N/A	N/A
 PST093	0-Students	F	STCR002;STCR004;STCR005;STCR016	piemonte	11-15	technical-vocational-diploma	italiano; romeno	N/A	N/A
@@ -62,8 +68,8 @@ PST094	2-Professionals	F	STIR030;STCR002;STCR003;STCR009;STCR010;STCR013	romania
 PST095	3-Technicians	F	STIA018	marocco	26-30	university-degree	arabo; italiano	0-5	26-27
 PST096	0-Students	F	STIS016;STCS008	piemonte	21-25	university-degree-ongoing	italiano	N/A	N/A
 PST097	5-Service-Workers	F	STIS016	peru	51-55	foreign-diploma	spagnolo	21-25	30-31
-PST098	0-Students	F	STCS004	peru	16-20	technical-vocational-diploma	spagnolo	11-15	02-03
-PST099	0-Students	M	STCS004	peru	16-20	middle-school	spagnolo	11-15	06-07
+PST098	0-Students	F	STCS002;STCS003;STCS004	peru	16-20	technical-vocational-diploma	spagnolo	11-15	02-03
+PST099	0-Students	M	STCS002;STCS004	peru	16-20	middle-school	spagnolo	11-15	06-07
 PST100	0-Students	F	STCR005;STCR008	romania	21-25	university-degree-ongoing	italiano	0-5	20-21
 PST102	8-Elementary	F	STIR029	romania	46-50	foreign-diploma	romeno	26-30	20-21
 PST103	3-Technicians	M	STCS005	sicilia	51-55	liceo-diploma	italiano	N/A	N/A
@@ -81,7 +87,7 @@ PST115	0-Students	F	STCS006	venezuela	21-25	university-degree-ongoing	italiano	0
 PST118	0-Students	F	STCR015	piemonte	16-20	university-degree-ongoing	italiano	N/A	N/A
 PST119	6-Craft-Workers	F	STCR015	romania	46-50	foreign-diploma	romeno; italiano	26-30	22-23
 PST120	6-Craft-Workers	M	STCR015	romania	46-50	foreign-diploma	romeno; italiano	21-25	24-25
-PST121	8-Elementary	F	STIA020	marocco	21-25	university-degree	arabo	26-30	0-1
+PST121	8-Elementary	F	STIA020	marocco	21-25	university-degree	arabo	21-25	0-1
 PST122	0-Students	F	STCS008	piemonte	16-20	technical-vocational-diploma	spagnolo; italiano	N/A	N/A
 PST123	3-Technicians	M	STCS008	peru	46-50	university-degree	spagnolo	21-25	26-27
 PST124	0-Students	F	STCS008	piemonte	16-20	liceo-diploma	italiano	N/A	N/A
@@ -107,7 +113,7 @@ PST149	0-Students	F	STCA010	piemonte	21-25	university-degree-ongoing	italiano	N/
 PST158	0-Students	F	STCA012	piemonte	16-20	university-degree-ongoing	italiano	N/A	N/A
 PST160	5-Service-Workers	F	STCS009;STCS010	peru	51-55	foreign-diploma	spagnolo	46-50	02-03
 PST161	5-Service-Workers	F	STCS009;STCS010	peru	36-40	foreign-diploma	spagnolo	26-30	06-07
-PST162	5-Service-Workers	F	STCS009;STCS010	peru	46-50	foreign-diploma	spagnolo	46-50	10-11
+PST162	5-Service-Workers	F	STCS009;STCS010	peru	46-50	foreign-diploma	spagnolo	46-50	0-1
 PST163	unknown	F	STCS009;STCS010	peru	41-45	foreign-diploma	spagnolo	41-45	02-03
 PST164	3-Technicians	F	STCS009;STCS010	piemonte	31-35	university-degree	italiano	N/A	N/A
 PST165	3-Technicians	F	STCS004;STCS010	lazio	36-40	university-degree	italiano	N/A	N/A
@@ -115,20 +121,20 @@ PST166	2-Professionals	F	STCS009;STCS010	piemonte	51-55	university-degree	italia
 PST200	0-Students	F	STIS001;STIS003;STIA001	puglia	21-25	university-degree	italiano	N/A	N/A
 PST201	0-Students	F	STIS001;STIS004;STIA001	sicilia	21-25	university-degree	italiano	N/A	N/A
 PST202	2-Professionals	F	STIA002	lombardia	31-35	phd	italiano	N/A	N/A
-PST203	2-Professionals	M	STIA002;STIA017;STIA018;STIR029;STIR030;STCR002;STCR003;STCR004;STCR008;STCR009;STIS009;STIS016;STCR010;STCR011;STCR012;STCR013;STCR014;STCR016;STIS012;STIS015;STCS004	piemonte	36-40	phd	italiano	N/A	N/A
+PST203	2-Professionals	M	STIA002;STIA017;STIA018;STIR029;STIR030;STCR002;STCR003;STCR004;STCR008;STCR009;STIS009;STIS016;STCR010;STCR011;STCR012;STCR013;STCR014;STCR016;STIS012;STIS015;STCS002;STCS003;STCS004	piemonte	36-40	phd	italiano	N/A	N/A
 PST205	0-Students	M	STIA004;STIA005;STIA006;STIA007;STIA008	piemonte	21-25	university-degree-ongoing	italiano; arabo	N/A	N/A
 PST206	0-Students	F	STIA009;STIA010	egitto	21-25	university-degree	arabo; italiano	0-5	18-19
 PST209	0-Students	M	STIS011	peru	16-20	technical-vocational-diploma	spagnolo	16-20	0-1
 PST210	0-Students	F	STIS012	peru	16-20	technical-vocational-diploma	spagnolo	11-15	02-03
-PST211	2-Professionals	F	STIA012;STIA017;STIA018;STCA003;STCA004;STIS005;STIS006;STIS008;STIS009;STIS011;STIS013;STIS014;STIS016;STCS004;STCS010;STIR011;STIR012;STIR016;STIR017;STIR018;STIR020;STIR021;STIR022;STIR023;STIR024;STIR025;STIR029;STCR004;STCR005;STCR006;STCR008;STCR009;STCR010;STCR011;STCR012;STCR013;STCR014;STCR016	lombardia	26-30	phd	italiano	N/A	N/A
-PST212	0-Students	F	STIS010;STIS013;STIS014;STIA012;STIR011;STIR013;STIR014;STIR015;STIR019;STIR020;STIR025;STIR026;STCR013;STCR014	friuli-venezia-giulia	26-30	university-degree	italiano	N/A	N/A
-PST213	0-Students	F	STIR013;STIR014;STIR019;STIR020;STIS013;STIS014;STCS004	liguria	26-30	university-degree	italiano	N/A	N/A
-PST214	0-Students	F	STCA012	lombardia	16-20	university-degree-ongoing	italiano	N/A	N/A
-PST215	0-Students	M	STIA021	piemonte	21-25	university-degree	italiano	N/A	N/A
+PST211	2-Professionals	F	STIA012;STIA017;STIA018;STCA003;STCA004;STIS005;STIS006;STIS008;STIS009;STIS011;STIS013;STIS014;STIS016;STCS002;STCS004;STCS010;STIR011;STIR012;STIR016;STIR017;STIR018;STIR020;STIR021;STIR022;STIR023;STIR024;STIR025;STIR029;STCR004;STCR005;STCR006;STCR008;STCR009;STCR010;STCR011;STCR012;STCR013;STCR014;STCR016	lombardia	26-30	phd	italiano	N/A	N/A
+PST212	0-Students	F	STIS010;STIS013;STIS014;STIA012;STIR011;STIR013;STIR014;STIR015;STIR019;STIR020;STIR025;STIR026;STCR013;STCR014;STCS003	friuli-venezia-giulia	26-30	university-degree	italiano	N/A	N/A
+PST213	0-Students	F	STIR013;STIR014;STIR019;STIR020;STIS013;STIS014;STCS002;STCS004	liguria	26-30	university-degree	italiano	N/A	N/A
+PST214	0-Students	F	STCS002;STCS003;STCA012	lombardia	16-20	university-degree-ongoing	italiano	N/A	N/A
+PST215	0-Students	M	STIA021;STCS002	piemonte	21-25	university-degree	italiano	N/A	N/A
 PST216	0-Students	F	STIA019	sardegna	16-20	university-degree-ongoing	italiano	N/A	N/A
 PST217	2-Professionals	F	STCA002;STCA003;STCA004	lombardia	36-40	phd	italiano	N/A	N/A
-PST219	0-Students	F	STIA020	piemonte	21-25	university-degree-ongoing	italiano	N/A	N/A
-PST220	0-Students	F	STIA020	liguria	21-25	university-degree-ongoing	italiano	N/A	N/A
+PST219	0-Students	F	STIA020;STCS003	piemonte	21-25	university-degree-ongoing	italiano	N/A	N/A
+PST220	0-Students	F	STIA020;STCS003	liguria	21-25	university-degree-ongoing	italiano	N/A	N/A
 PST222	0-Students	M	STIA022;STCA009;STCA010	egitto	26-30	university-degree	arabo	26-30	04-05
 PST223	0-Students	F	STIA016	piemonte	21-25	university-degree-ongoing	italiano; arabo	N/A	N/A
 PST225	0-Students	F	STIS003	piemonte	21-25	university-degree-ongoing	italiano	N/A	N/A
