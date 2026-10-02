@@ -1,0 +1,55 @@
+= Transcription conventions — Stra-ParlaTO
+:guidelines-version: 1.0
+
+Stra-ParlaTO follows the xref:portal:transcription-conventions.adoc[KIParla
+transcription conventions], version {guidelines-version}.
+
+The sections below are the *only* points where Stra-ParlaTO differs from or adds
+to the shared conventions. Anything not listed here follows the shared page
+unchanged.
+
+== Extensions
+
+Symbols or uses that the shared conventions do not define, added by Stra-ParlaTO.
+
+=== `#_` later in the unit — rest of the unit in another language
+
+Shared: `#_` at the start of a unit marks the whole unit as non-Italian
+(see xref:portal:transcription-conventions.adoc#language[Language variation and code-switching]).
+In Stra-ParlaTO `#_` may also appear *later* in a unit: everything from the marker to the end of
+the unit is in a code other than Italian, so the unit can start in Italian and switch.
+
+`#_` is written as a separate item followed by a space. When an overlap bracket opens at the same
+point, write `#_ [` — not `[#_`. The pipeline rewrites `#_word`, `word#_` and `[#_` accordingly.
+
+In the derived data every token after the marker gets `Variety=Other` and
+`Language=NO_ISO_CODE`. Pauses, non-verbal behaviour, anonymized names and `xxx` after the marker
+are not marked as non-Italian.
+
+=== `#*word` — doubtful non-Italian token
+
+Placed before a single token that is *possibly* non-Italian or dialectal, when the transcriber is
+unsure. Derived as `Variety=Unassignable`.
+
+=== `$word` — emerging or non-standard form
+
+Placed before a single token to mark a non-standard or emerging form. It is not code-switching.
+Derived as `Nonce=Yes` (a feature of the token, not a variety).
+
+=== `# ` at the start of a unit — unattributed code-switching
+
+A `#` followed by a space at the very start of a unit marks that the unit contains code-switching
+which cannot be attributed to specific words.
+Derived as `Variety=Unsure` on every token of the unit that has no marker of its own.
+
+=== `<speaker>_trad` — translation tiers
+
+A child tier named `<speaker>_trad` (for example `PST003_trad`) carries an Italian translation of that
+speaker's foreign-language speech. These tiers are not tokenized: they are collected in the
+`translations/` folder of the repository.
+
+== Overrides
+
+Cases where Stra-ParlaTO applies a different or stricter rule than the shared conventions.
+
+_None._

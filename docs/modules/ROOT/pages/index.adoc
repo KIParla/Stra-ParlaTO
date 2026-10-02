@@ -1,0 +1,16 @@
+= Stra-ParlaTO
+
+Stra-ParlaTO is part of the xref:portal::index.adoc[KIParla collection]. It consists of
+conversations and semi-structured interviews collected in Turin and its province,
+involving speakers of Italian as a foreign or second language. Some conversations include
+an Italian translation of tokens originally produced in the speaker's other language(s).
+
+The module is made up of 82 conversations and 139 speakers. Transcriptions are anonymized.
+
+The corpus was compiled within the "DiverSIta – Diversity in spoken Italian" project (PI: Caterina Mauri),
+funded by the European Union – NextGenerationEU under the National Recovery and Resilience Plan (PNRR) –
+Mission 4 Education and research (MUR project code P2022RFR8T, CUP J53D23017320001).
+
+For the repository layout, the metadata, the verticalized format and the translations, see the
+https://github.com/KIParla/Stra-ParlaTO#readme[README]. The module's differences from the
+shared conventions are listed in xref:transcription-conventions.adoc[Transcription conventions].

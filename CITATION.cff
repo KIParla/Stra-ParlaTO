@@ -1,0 +1,20 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "KIParla-Stra-ParlaTO"
+authors:
+- family-names: "Bernasconi"
+  given-names: "Beatrice"
+  orcid: "https://orcid.org/0000-0002-4167-2415"
+- family-names: "Goria"
+  given-names: "Eugenio"
+  orcid: "https://orcid.org/0000-0003-0713-8961"
+version: 1.0.0
+identifiers:
+  - description: "The concept DOI of the work"
+    type: doi
+    value: 10.60760/unibo/stra-parlato
+# TODO: set to the actual release date (the DOI is dated 2026).
+date-released: YYYY-MM-DD
+repository-code: "https://github.com/KIParla/Stra-ParlaTO"
+license: CC-BY-NC-SA-4.0
