@@ -14,8 +14,14 @@
 The Stra-ParlaTO corpus is part of the larger [KIParla collection](https://www.kiparla.it),
 which can be freely queried through the [NoSketch Engine interface](https://kiparla.it/search/).
 
-<!-- TODO: add funding project / collection methodology paragraph, matching the
-     description used by the sibling ParlaBO module. -->
+The Stra-ParlaTO corpus was compiled within the framework of the “DiverSIta – Diversity in spoken Italian”
+project (PI: Caterina Mauri), funded by the European Union – NextGenerationEU under the National Recovery
+and Resilience Plan (PNRR) – Mission 4 Education and research (MUR project code P2022RFR8T, CUP J53D23017320001).
+
+> Progetto finanziato dall’Unione Europea – NextGenerationEU a valere sul Piano Nazionale di Ripresa e
+> Resilienza (PNRR) – Missione 4 Istruzione e ricerca.
+> Progetto “DiverSIta – Diversity in spoken Italian”, PI: Caterina Mauri. Codice progetto MUR [P2022RFR8T] –
+> CUP [J53D23017320001]
 
 It consists of conversations and semi-structured interviews collected in Turin and
 its province, involving speakers of Italian as a foreign or second language. Some
@@ -24,7 +30,9 @@ originally produced in the speaker's other language(s) — see [Translations](#t
 
 The transcriptions have been anonymized.
 
-Overall, the module is made up of 79 conversations and includes 133 speakers.
+All files are encoded in UTF-8 (without BOM), use LF line endings, and are in Unicode Normalization Form C (NFC), following the conventions of Universal Dependencies.
+
+Overall, the module is made up of 82 conversations and includes 139 speakers.
 
 ## Repository organization
 
@@ -35,7 +43,8 @@ This repository contains:
 
 For each conversation you will find:
 
-* `.eaf` file in [`eaf/`](./eaf/) folder: time-aligned Jefferson-style transcriptions (open with [ELAN]()).
+* `.eaf` file in [`eaf/`](./eaf/) folder: time-aligned Jefferson-style transcriptions (open with [ELAN](https://archive.mpi.nl/tla/elan)). These files are regenerated from the verticalized `tsv/` files, so they contain the normalized transcription (see [Verticalized content](#verticalized-content)); the audio is linked by relative path (`<code>.mp3`).
+* `.eaf` file in [`original/`](./original/) folder: the transcriptions as edited by the transcribers, before normalization and regeneration.
 * `.txt` file in [`linear-jefferson/`](./linear-jefferson/) folder: linearized Jefferson-style transcription.
 * `.txt` file in [`linear-orthographic/`](./linear-orthographic/) folder: linearized transcription retaining only orthographic words.
 * `.tsv` file in [`tsv/`](./tsv/) folder: verticalized version of the transcription, with Jefferson-style information decoupled from the text as features. See [Verticalized content](#verticalized-content) for more information.
@@ -83,57 +92,62 @@ Metadata is to be interpreted as follows:
 Conversations are also available in a vertical, pseudo-tokenized version in [`tsv/`](./tsv/).
 Tokenization is obtained by validating the Jefferson transcription using custom [tools](https://github.com/LaboratorioSperimentale/kiparla-tools) and splitting on token boundaries: whitespaces, prosodic links (`=`), and apostrophes used for elision in Italian orthography. Each transcription-derived token is then documented on one row.
 
-Each token is represented as 21 columns, as follows:
+Each token is represented as 20 columns, as follows:
 
 1. `token_id`: unique token identifier within the conversation (`<tu_id>-<token_index>`)
 2. `speaker`: speaker `code` as it can be found in [`metadata/participants.tsv`](metadata/participants.tsv)
 3. `tu_id`: progressive identifier assigned to transcription units
-4. `unit`: same value as `tu_id`
-5. `id`: token index within the transcription unit (0-based)
-6. `span`: portion of the original jefferson transcription containing the token
-7. `form`: orthographic form of the token. This differs from the `span` as special symbols are stripped out and represented as `jefferson_feats`. Moreover, shortpauses (`(.)` in the transcription) are represented as `[PAUSE]` and unintelligible tokens (sequences of `x` in the transcription) are represented as `x`
-8. `lemma`: reserved for a future lemmatization step; `_` for now
-9. `upos`: reserved for a future POS-tagging step; `_` for now
-10. `xpos`: reserved; `_` for now
-11. `feats`: reserved; `_` for now
-12. `deprel`: reserved for a future dependency-parsing step; `_` for now
-13. `type`: one of
+4. `id`: token index within the transcription unit (0-based)
+5. `span`: portion of the original jefferson transcription containing the token, including any variation marker that precedes it (`#`, `#*`, `$`, a unit-initial `# ` or `#_ `, or a `#_ ` later in the unit), so the original text can be rebuilt from this column
+6. `form`: orthographic form of the token. This differs from the `span` as special symbols are stripped out and represented as `jefferson_feats`. Moreover, shortpauses (`(.)` in the transcription) are represented as `[PAUSE]` and unintelligible tokens (sequences of `x` in the transcription) are represented as `x`
+7. `lemma`: reserved for a future lemmatization step; `_` for now
+8. `upos`: reserved for a future POS-tagging step; `_` for now
+9. `xpos`: reserved; `_` for now
+10. `feats`: reserved; `_` for now
+11. `deprel`: reserved for a future dependency-parsing step; `_` for now
+12. `type`: one of
     - `linguistic`: everything that is considered to be a content linguistic token
     - `nonverbalbehavior`: used for transcribed non verbal behaviors, such as laughing or sighing
     - `shortpause`: identifies pauses
     - `unknown`: identifies unintelligible spans in transcription
     - `error`: residual class to mark cases where the transcription is not well formed according to Jefferson format. Therefore, the token is not analyzed and transcription will be corrected in future releases.
-14. `meta_label`: reserved; `_` for now
-15. `variation`: whether the transcription unit includes non-Italian speech. Values: `none` (fully Italian), `some` (some tokens are non-Italian), `all` (the whole unit is non-Italian)
-16. `jefferson_feats`: pipe-separated list of word-level features derived from the transcription in Jefferson format. More specifically:
+13. `meta_label`: reserved; `_` for now
+14. `variation`: all variation features of the token, as pipe-separated `Key=Value` pairs (never empty, as the first one is always present):
+    - `ContainsVariation`: unit-level flag, repeated on every token of the unit. `Yes` if any token of the unit has a `Variety`, `No` otherwise
+    - `Variety`: token-level variety other than standard Italian. Values:
+      - `Other`: the token is in another language or variety — a `#word`, or any token after a `#_` marker (which covers the rest of the transcription unit, or the whole unit when it is unit-initial)
+      - `Unassignable`: the variety of the token cannot be assigned (`#*word`, probably Italian)
+      - `Unsure`: the token is in a unit that starts with `# `, where the transcriber marked that another variety is present without saying on which words
+    - `Language=<ISO code>`: present on tokens marked as another variety (or `NO_ISO_CODE` when the specific variety wasn't identified)
+    - `Nonce=Yes`: nonce or non-standard form of the token, marked with `$` in the transcription (not a variety)
+
+    Example: `ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE`
+15. `jefferson_feats`: pipe-separated list of word-level features derived from the transcription in Jefferson format. More specifically:
     - `SpaceAfter=No`: no whitespace between this token and the next (e.g., `l'` in `l'anno`)
     - `ProsodicLink=Yes`: a prosodic link (`=`) to the following token
     - `Intonation` can assume values `Falling`, `Rising` or `WeaklyRising` and translates word final punctuation sign in Jefferson transcriptions (i.e., `.`, `?` and `,` respectively)
     - `Interrupted=Yes`: words interrupted in speech, transcribed with final `~` or `-`
     - `Truncated=Yes`: truncated forms (e.g., `anda'` for `andare`, common in some Italian varieties)
     - `Volume` can assume values `High` or `Low` and translates Jefferson's uppercase and `°` respectively
-    - `Language=<ISO code>`: present on tokens marked as non-Italian (or `NO_ISO_CODE` when the specific variety wasn't identified)
-    - `Orthography=Yes`: token transcribed with a non-standard (`$`-marked) orthography
-    - `Variation`: token-level variation marker — `Token` (specific token is a foreign variety, `#word`), `Emerging` (non-standard but plausibly emerging form, `$word`), or `Doubtful` (probably Italian, `#*word`)
     - `Syllables=N`: number of syllables for `unknown` tokens (sequences of `x`)
-17. `align`: alignment features for the first and last token of each TU, through `Begin=` and `End=` features expressed as seconds
-18. `prolongations`: positions of sound prolongations (colons `:`) within the word, encoded as a comma-separated list of `<char_id>x<count>` pairs
+16. `align`: alignment features for the first and last token of each TU, through `Begin=` and `End=` features expressed as seconds
+17. `prolongations`: positions of sound prolongations (colons `:`) within the word, encoded as a comma-separated list of `<char_id>x<count>` pairs
 	- `char_id` is the zero-based index of the character in the token's orthographic form
 	- `count` is the number of consecutive colons immediately following that character in the original span
 	- example: for span = `ese::mpio:`, its orthographic form is `esempio` and the prolongations field would assume value `2x2,6x1` (the 3rd letter `e` has 2 colons; the 7th letter `o` has 1 colon)
-19. `pace`: marks whether the token participates in a fast or slow paced span within the word
+18. `pace`: marks whether the token participates in a fast or slow paced span within the word
 	- Format: `Fast=<char_id_start>-<char_id_end>` or `Slow=<char_id_start>-<char_id_end>`
 	- Indices are zero-based, inclusive, and refer to character positions in `form`
-20. `guesses`: character span(s) transcribed as uncertain (i.e., in round brackets in the Jefferson transcription)
+19. `guesses`: character span(s) transcribed as uncertain (i.e., in round brackets in the Jefferson transcription)
 	- Format: `<char_id_start>-<char_id_end>(<guess_id>)` (zero-based, inclusive, over `form`)
-21. `overlaps`: comma-separated list of character spans participating in simultaneous speech, with an overlap group identifier
+20. `overlaps`: comma-separated list of character spans participating in simultaneous speech, with an overlap group identifier
 	- Format: `<char_id_start>-<char_id_end>(<overlap_id>)`, where indices are zero-based, inclusive indices over `form` and `overlap_id` is the progressive number of the overlapping group within the TU
 	- Examples: the span `e[se]mp[i` would be encoded as `1-3(2),5-6(3)` meaning that characters from position one (inclusive) to three (exclusive) participate to span number 2 while the last character (with id 5) participates to the third overlapping span of the transcription unit. When the overlapping id was not decidable, a `?` is used
 
 ## Translations
 
 Some conversations include one or more child tiers (named `<speaker>_trad`) carrying an Italian
-translation of that speaker's foreign-language speech. These tiers are excluded from the
+translation of that speaker's foreign-language speech. The `environment` tier (non-speech material and speech from external sources such as a video) can have its own child tier, `environment_trad`, handled the same way. These tiers are excluded from the
 verticalized `tsv/` output — they are not tokenized or normalized like regular transcription
 units — and are instead collected separately in [`translations/`](./translations/):
 
@@ -151,9 +165,11 @@ Due to GDPR restrictions, pseudo-anonymized audio files (MP3) are available unde
 
 ## How to cite
 
-<!-- TODO: add citation (authors, DOI, BibTeX entry), once available. -->
+If you use the Stra-ParlaTO module in your research, please cite the corpus:
 
-If you use the Stra-ParlaTO module in your research, please reference this repository (commit/tag) in your data statement or appendix.
+Bernasconi, Beatrice & Goria, Eugenio. 2026. Stra-ParlaTO. DOI: [https://doi.org/10.60760/unibo/stra-parlato](https://doi.org/10.60760/unibo/stra-parlato)
+
+Please also reference the version (commit/tag) of this repository you used in your data statement or appendix.
 
 ## Changelog
 
