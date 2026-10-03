@@ -40,6 +40,7 @@ This repository contains:
 
 * metadata for both speakers and conversations, in the [`metadata`](./metadata/) subfolder (see [metadata](#metadata) section below)
 * descriptions of the set of transcription conventions used for this module ([Transcription conventions](./jefferson-notation.md))
+* statistical summaries of each conversation (token counts, speaking time per speaker, token/time rates, overlaps) are not in this repository: they are in the folder of this module in [KIParla-summaries](https://github.com/KIParla/KIParla-summaries)
 
 For each conversation you will find:
 
