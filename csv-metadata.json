@@ -261,7 +261,7 @@
             "name": "type",
             "titles": "type",
             "required": true,
-            "dc:description": "Token type flag (tools/dataflags.py:tokentype). Current code emits linguistic|shortpause|nonverbalbehavior|error|warning|unknown|anonymized, but this is not enforced as a hard constraint — the code enum has drifted before (see `variation` below) and existing files may lag it."
+            "dc:description": "Token type flag (tools/dataflags.py:tokentype). Current code emits linguistic|shortpause|nonverbalbehavior|error|warning|unknown|anonymized, but this is not enforced as a hard constraint — the code enum has drifted before (see `code-variation` below) and existing files may lag it."
           },
           {
             "name": "meta_label",
@@ -269,16 +269,16 @@
             "null": "_"
           },
           {
-            "name": "variation",
-            "titles": "variation",
+            "name": "code-variation",
+            "titles": "code-variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Variety=Other|Unassignable|Unsure`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old single-label `variation` column (none|yes|unspecified|all|some); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
             "titles": "jefferson_feats",
             "null": "_",
-            "dc:description": "Pipe-separated: Intonation=X, Interrupted=Yes, Truncated=Yes, Reduced=Yes, ProsodicLink=Yes, SpaceAfter=No, PauseAfter=Yes, Anonymized=Yes, Volume=X, Syllables=N. (Variation features — Variety, Language, Nonce — are in the `variation` column.)"
+            "dc:description": "Pipe-separated: Intonation=X, Interrupted=Yes, Truncated=Yes, Reduced=Yes, ProsodicLink=Yes, SpaceAfter=No, PauseAfter=Yes, Anonymized=Yes, Volume=X, Syllables=N. (Variation features — Code, Language, Nonce — are in the `code-variation` column.)"
           },
           {
             "name": "align",
