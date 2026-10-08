@@ -84,6 +84,7 @@ Metadata is to be interpreted as follows:
    - `participants-relationship`: relation between participants, `asymmetric` for `semistructured-interview`, `symmetric` for `free-conversation`
    - `year`: year of collection (not available for this module; `_` where unknown)
    - `unknown-participant`: `yes` if the conversation's transcription contains one or more unidentified-speaker placeholder tiers (`?`, `??`, `???`, ...), `no` otherwise
+   - `community`: migrant community the speakers belong to: `moroccan`, `romanian` or `peruvian` (corresponds to the fourth letter of the conversation code: `A`, `R`, `S`)
 
 [^1]: `foreign-diploma`, `liceo-diploma`, `middle-school`, `none`, `phd`, `primary-school`, `technical-vocational-diploma`, `university-degree`, `university-degree-ongoing`
 
