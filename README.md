@@ -39,18 +39,18 @@ Overall, the module is made up of 82 conversations and includes 139 speakers.
 This repository contains:
 
 * metadata for both speakers and conversations, in the [`metadata`](./metadata/) subfolder (see [metadata](#metadata) section below)
-* descriptions of the set of transcription conventions used for this module ([Transcription conventions](./jefferson-notation.md))
+* descriptions of the set of transcription conventions used for this module ([Transcription conventions](./enriched-notation.md))
 * statistical summaries of each conversation (token counts, speaking time per speaker, token/time rates, overlaps) are not in this repository: they are in the folder of this module in [KIParla-summaries](https://github.com/KIParla/KIParla-summaries)
 
 For each conversation you will find:
 
-* `.eaf` file in [`eaf/`](./eaf/) folder: time-aligned Jefferson-style transcriptions (open with [ELAN](https://archive.mpi.nl/tla/elan)). These files are regenerated from the verticalized `tsv/` files, so they contain the normalized transcription (see [Verticalized content](#verticalized-content)); the audio is linked by relative path (`<code>.mp3`).
-* `.txt` file in [`linear-jefferson/`](./linear-jefferson/) folder: linearized Jefferson-style transcription.
+* `.eaf` file in [`eaf/`](./eaf/) folder: time-aligned enriched transcriptions (open with [ELAN](https://archive.mpi.nl/tla/elan)). These files are regenerated from the verticalized `tsv/` files, so they contain the normalized transcription (see [Verticalized content](#verticalized-content)); the audio is linked by relative path (`<code>.mp3`).
+* `.txt` file in [`linear-enriched/`](./linear-enriched/) folder: linearized enriched transcription.
 * `.txt` file in [`linear-orthographic/`](./linear-orthographic/) folder: linearized transcription retaining only orthographic words.
-* `.tsv` file in [`tsv/`](./tsv/) folder: verticalized version of the transcription, with Jefferson-style information decoupled from the text as features. See [Verticalized content](#verticalized-content) for more information.
+* `.tsv` file in [`tsv/`](./tsv/) folder: verticalized version of the transcription, with enriched information decoupled from the text as features. See [Verticalized content](#verticalized-content) for more information.
 * `.translations.tsv`/`.translations.json` files in [`translations/`](./translations/) folder, for conversations that include translated tiers. See [Translations](#translations) for more information.
 
-Linear files in [`linear-jefferson/`](./linear-jefferson/) and [`linear-orthographic/`](./linear-orthographic/) contain one Transcription Unit (TU) per line. Each line has two columns: the first is the speaker code, and the second is the transcription. TUs are sorted by their start time.
+Linear files in [`linear-enriched/`](./linear-enriched/) and [`linear-orthographic/`](./linear-orthographic/) contain one Transcription Unit (TU) per line. Each line has two columns: the first is the speaker code, and the second is the transcription. TUs are sorted by their start time.
 
 ## Metadata
 
@@ -95,7 +95,7 @@ The tabular files of this module are described by a [CSV on the Web (CSVW)](http
 ## Verticalized content
 
 Conversations are also available in a vertical, pseudo-tokenized version in [`tsv/`](./tsv/).
-Tokenization is obtained by validating the Jefferson transcription using custom [tools](https://github.com/LaboratorioSperimentale/kiparla-tools) and splitting on token boundaries: whitespaces, prosodic links (`=`), and apostrophes used for elision in Italian orthography. Each transcription-derived token is then documented on one row.
+Tokenization is obtained by validating the enriched transcription using custom [tools](https://github.com/LaboratorioSperimentale/kiparla-tools) and splitting on token boundaries: whitespaces, prosodic links (`=`), and apostrophes used for elision in Italian orthography. Each transcription-derived token is then documented on one row.
 
 Each token is represented as 20 columns, as follows:
 
@@ -103,7 +103,7 @@ Each token is represented as 20 columns, as follows:
 2. `speaker`: speaker `code` as it can be found in [`metadata/participants.tsv`](metadata/participants.tsv)
 3. `tu_id`: progressive identifier assigned to transcription units
 4. `id`: token index within the transcription unit (0-based)
-5. `span`: portion of the original jefferson transcription containing the token, including any variation marker that precedes it (`#`, `#*`, `$`, a unit-initial `# ` or `#_ `, or a `#_ ` later in the unit), so the original text can be rebuilt from this column
+5. `span`: portion of the original enriched transcription containing the token, including any variation marker that precedes it (`#`, `#*`, `$`, a unit-initial `# ` or `#_ `, or a `#_ ` later in the unit), so the original text can be rebuilt from this column
 6. `form`: orthographic form of the token. This differs from the `span` as special symbols are stripped out and represented as `jefferson_feats`. Moreover, shortpauses (`(.)` in the transcription) are represented as `[PAUSE]` and unintelligible tokens (sequences of `x` in the transcription) are represented as `x`
 7. `lemma`: reserved for a future lemmatization step; `_` for now
 8. `upos`: reserved for a future POS-tagging step; `_` for now
@@ -115,7 +115,7 @@ Each token is represented as 20 columns, as follows:
     - `nonverbalbehavior`: used for transcribed non verbal behaviors, such as laughing or sighing
     - `shortpause`: identifies pauses
     - `unknown`: identifies unintelligible spans in transcription
-    - `error`: residual class to mark cases where the transcription is not well formed according to Jefferson format. Therefore, the token is not analyzed and transcription will be corrected in future releases.
+    - `error`: residual class to mark cases where the transcription is not well formed according to enriched format. Therefore, the token is not analyzed and transcription will be corrected in future releases.
 13. `meta_label`: reserved; `_` for now
 14. `code-variation`: all variation features of the token (having to do with code switching and nonce formations), as pipe-separated `Key=Value` pairs (never empty, as the first one is always present):
     - `ContainsVariation`: unit-level flag, repeated on every token of the unit. `Yes` if any token of the unit has a `Code`, `No` otherwise
@@ -126,13 +126,13 @@ Each token is represented as 20 columns, as follows:
     - `Language=<ISO code>`: present on tokens marked as belonging to a different language (or `NO_ISO_CODE` when the specific variety wasn't identified)
     - `Nonce=Yes`: nonce form that is not assignable to a given language, marked with `$` in the transcription
     Example: `ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE`
-15. `jefferson_feats`: pipe-separated list of word-level features derived from the transcription in Jefferson format. More specifically:
+15. `jefferson_feats`: pipe-separated list of word-level features derived from the transcription in enriched format. More specifically:
     - `SpaceAfter=No`: no whitespace between this token and the next (e.g., `l'` in `l'anno`)
     - `ProsodicLink=Yes`: a prosodic link (`=`) to the following token
-    - `Intonation` can assume values `Falling`, `Rising` or `WeaklyRising` and translates word final punctuation sign in Jefferson transcriptions (i.e., `.`, `?` and `,` respectively)
+    - `Intonation` can assume values `Falling`, `Rising` or `WeaklyRising` and translates word final punctuation sign in enriched transcriptions (i.e., `.`, `?` and `,` respectively)
     - `Interrupted=Yes`: words interrupted in speech, transcribed with final `~` or `-`
     - `Truncated=Yes`: truncated forms (e.g., `anda'` for `andare`, common in some Italian varieties)
-    - `Volume` can assume values `High` or `Low` and translates Jefferson's uppercase and `°` respectively
+    - `Volume` can assume values `High` or `Low` and translates uppercase and `°` of the enriched transcription respectively
     - `Syllables=N`: number of syllables for `unknown` tokens (sequences of `x`)
 16. `align`: alignment features for the first and last token of each TU, through `Begin=` and `End=` features expressed as seconds
 17. `prolongations`: positions of sound prolongations (colons `:`) within the word, encoded as a comma-separated list of `<char_id>x<count>` pairs
@@ -142,7 +142,7 @@ Each token is represented as 20 columns, as follows:
 18. `pace`: marks whether the token participates in a fast or slow paced span within the word
 	- Format: `Fast=<char_id_start>-<char_id_end>` or `Slow=<char_id_start>-<char_id_end>`
 	- Indices are zero-based, inclusive, and refer to character positions in `form`
-19. `guesses`: character span(s) transcribed as uncertain (i.e., in round brackets in the Jefferson transcription)
+19. `guesses`: character span(s) transcribed as uncertain (i.e., in round brackets in the enriched transcription)
 	- Format: `<char_id_start>-<char_id_end>(<guess_id>)` (zero-based, inclusive, over `form`)
 20. `overlaps`: comma-separated list of character spans participating in simultaneous speech, with an overlap group identifier
 	- Format: `<char_id_start>-<char_id_end>(<overlap_id>)`, where indices are zero-based, inclusive indices over `form` and `overlap_id` is the progressive number of the overlapping group within the TU
