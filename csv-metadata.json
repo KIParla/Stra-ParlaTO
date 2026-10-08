@@ -52,23 +52,6 @@
             "dc:description": "Module-specific set of site codes (e.g. BO, TO)."
           },
           {
-            "name": "topic",
-            "titles": "topic"
-          },
-          {
-            "name": "moderator",
-            "titles": "moderator",
-            "datatype": {
-              "base": "boolean",
-              "format": "yes|no"
-            }
-          },
-          {
-            "name": "participants-relationship",
-            "titles": "participants-relationship",
-            "dc:description": "Commonly asymmetric|symmetric, not enforced as a hard constraint."
-          },
-          {
             "name": "year",
             "titles": "year",
             "datatype": "gYear"
@@ -222,7 +205,7 @@
             "name": "span",
             "titles": "span",
             "required": true,
-            "dc:description": "Raw Jefferson span (character slice of the original annotation)."
+            "dc:description": "Raw enriched span (character slice of the original annotation)."
           },
           {
             "name": "form",
