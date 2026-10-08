@@ -1,8 +1,8 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
-0-0	PST210	0	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=0.337	_	_	_	_
-0-1	PST210	0	1	ver	ver	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-0-2	PST210	0	2	preguntale	preguntale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-0-3	PST210	0	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+0-0	PST210	0	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=0.337	_	_	_	_
+0-1	PST210	0	1	ver	ver	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+0-2	PST210	0	2	preguntale	preguntale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+0-3	PST210	0	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 0-4	PST210	0	4	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1.623	_	_	_	_
 2-0	PST203	2	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.633|End=2.316	_	_	_	_
 3-0	PST203	3	0	xxxx,	xxxx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2.985|End=3.555	_	_	_	_
@@ -14,246 +14,246 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 6-0	PST064	6	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=5.437|End=6.507	_	_	_	_
 7-0	PST065	7	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=5.437|End=6.507	_	_	_	_
 8-0	PST064	8	0	#_ xxxxx	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=5	Begin=7.426	_	_	_	_
-8-1	PST064	8	1	[a:h]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=10.531	0x1	_	_	0-2(0)
-9-0	PST210	9	0	#_ [no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=10.26	_	_	_	0-2(0)
-9-1	PST210	9	1	porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-9-2	PST210	9	2	yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-9-3	PST210	9	3	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-9-4	PST210	9	4	tengo	tengo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-9-5	PST210	9	5	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-9-6	PST210	9	6	salir	salir	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-9-7	PST210	9	7	en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-9-8	PST210	9	8	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-9-9	PST210	9	9	cámara	cámara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=11.635	_	_	_	_
+8-1	PST064	8	1	[a:h]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=10.531	0x1	_	_	0-2(0)
+9-0	PST210	9	0	#_ [no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=10.26	_	_	_	0-2(0)
+9-1	PST210	9	1	porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+9-2	PST210	9	2	yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+9-3	PST210	9	3	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+9-4	PST210	9	4	tengo	tengo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+9-5	PST210	9	5	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+9-6	PST210	9	6	salir	salir	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+9-7	PST210	9	7	en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+9-8	PST210	9	8	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+9-9	PST210	9	9	cámara	cámara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=11.635	_	_	_	_
 11-0	PST065	11	0	#_ [x	x	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=1	Begin=11.635	_	_	_	0-1(1)
-11-1	PST065	11	1	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(1)
-11-2	PST065	11	2	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(1)
-11-3	PST065	11	3	vea	vea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(1)
-11-4	PST065	11	4	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(1)
-11-5	PST065	11	5	nom]bre	nombre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(1)
-11-6	PST065	11	6	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-11-7	PST065	11	7	restaur[ante]	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=13.864	_	_	_	7-11(216)
-12-0	PST064	12	0	#_ [ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=11.658	_	_	_	0-2(1)
-12-1	PST064	12	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(1)
-12-2	PST064	12	2	tienes	tienes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(1)
-12-3	PST064	12	3	salir]	salir	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=12.665	_	_	_	0-5(1)
-14-0	PST210	14	0	#_ [solamente	solamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=13.486	_	_	_	0-9(216)
+11-1	PST065	11	1	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(1)
+11-2	PST065	11	2	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(1)
+11-3	PST065	11	3	vea	vea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(1)
+11-4	PST065	11	4	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(1)
+11-5	PST065	11	5	nom]bre	nombre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(1)
+11-6	PST065	11	6	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+11-7	PST065	11	7	restaur[ante]	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=13.864	_	_	_	7-11(216)
+12-0	PST064	12	0	#_ [ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=11.658	_	_	_	0-2(1)
+12-1	PST064	12	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(1)
+12-2	PST064	12	2	tienes	tienes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(1)
+12-3	PST064	12	3	salir]	salir	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=12.665	_	_	_	0-5(1)
+14-0	PST210	14	0	#_ [solamente	solamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=13.486	_	_	_	0-9(216)
 14-1	PST210	14	1	xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=15.076	_	_	_	0-3(216)
-15-0	PST203	15	0	#_ [un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=13.621	_	_	_	0-2(216)
-15-1	PST203	15	1	momentito	momentito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(216)
-15-2	PST203	15	2	más	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(216)
-15-3	PST203	15	3	porfa]	porfa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	0-5(216)
+15-0	PST203	15	0	#_ [un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=13.621	_	_	_	0-2(216)
+15-1	PST203	15	1	momentito	momentito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(216)
+15-2	PST203	15	2	más	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(216)
+15-3	PST203	15	3	porfa]	porfa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	0-5(216)
 15-4	PST203	15	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 15-5	PST203	15	5	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
-15-6	PST203	15	6	ese	ese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-15-7	PST203	15	7	y	y	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-15-8	PST203	15	8	poner	poner	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-15-9	PST203	15	9	otro	otro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+15-6	PST203	15	6	ese	ese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+15-7	PST203	15	7	y	y	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+15-8	PST203	15	8	poner	poner	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+15-9	PST203	15	9	otro	otro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 15-10	PST203	15	10	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-15-11	PST203	15	11	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-15-12	PST203	15	12	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-15-13	PST203	15	13	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-15-14	PST203	15	14	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=19.26	_	_	_	_
-17-0	PST065	17	0	#_ porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=19.306	_	_	_	_
-17-1	PST065	17	1	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-17-2	PST065	17	2	objetivo	objetivo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-17-3	PST065	17	3	es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-17-4	PST065	17	4	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-17-5	PST065	17	5	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-17-6	PST065	17	6	vea	vea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+15-11	PST203	15	11	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+15-12	PST203	15	12	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+15-13	PST203	15	13	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+15-14	PST203	15	14	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=19.26	_	_	_	_
+17-0	PST065	17	0	#_ porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=19.306	_	_	_	_
+17-1	PST065	17	1	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+17-2	PST065	17	2	objetivo	objetivo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+17-3	PST065	17	3	es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+17-4	PST065	17	4	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+17-5	PST065	17	5	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+17-6	PST065	17	6	vea	vea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 17-7	PST065	17	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-17-8	PST065	17	8	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-17-9	PST065	17	9	nombre	nombre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-17-10	PST065	17	10	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-17-11	PST065	17	11	[restaurante]	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=22.736	_	_	_	0-11(2)
+17-8	PST065	17	8	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+17-9	PST065	17	9	nombre	nombre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+17-10	PST065	17	10	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+17-11	PST065	17	11	[restaurante]	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=22.736	_	_	_	0-11(2)
 19-0	PST064	19	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=22.11	_	_	_	0-2(2)
 19-1	PST064	19	1	ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=22.78	_	_	_	0-2(2)
-20-0	PST203	20	0	#_ eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=22.847	_	_	_	_
-20-1	PST203	20	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-2	PST203	20	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-3	PST203	20	3	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-4	PST203	20	4	sale	sale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-5	PST203	20	5	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-6	PST203	20	6	nombre	nombre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-7	PST203	20	7	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-8	PST203	20	8	restaurante	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+20-0	PST203	20	0	#_ eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=22.847	_	_	_	_
+20-1	PST203	20	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-2	PST203	20	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-3	PST203	20	3	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-4	PST203	20	4	sale	sale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-5	PST203	20	5	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-6	PST203	20	6	nombre	nombre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-7	PST203	20	7	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-8	PST203	20	8	restaurante	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 20-9	PST203	20	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-20-10	PST203	20	10	porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-11	PST203	20	11	estamos	estamos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-12	PST203	20	12	haciendo	haciendo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-13	PST203	20	13	todo	todo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-14	PST203	20	14	eso	eso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-15	PST203	20	15	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-20-16	PST203	20	16	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-10	PST203	20	10	porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-11	PST203	20	11	estamos	estamos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-12	PST203	20	12	haciendo	haciendo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-13	PST203	20	13	todo	todo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-14	PST203	20	14	eso	eso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-15	PST203	20	15	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+20-16	PST203	20	16	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 20-17	PST203	20	17	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=28.126	_	_	_	_
-22-0	PST064	22	0	#_ en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=29.27	_	_	_	_
-22-1	PST064	22	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-22-2	PST064	22	2	entrevista?	entrevista	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=30.482	_	_	_	_
+22-0	PST064	22	0	#_ en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=29.27	_	_	_	_
+22-1	PST064	22	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+22-2	PST064	22	2	entrevista?	entrevista	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=30.482	_	_	_	_
 24-0	PST210	24	0	°xxxx°	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=4	Begin=30.655|End=32.02	_	_	_	_
 25-0	PST064	25	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=32.115|End=32.89	_	_	_	_
 26-0	PST065	26	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=32.115|End=32.89	_	_	_	_
-27-0	PST210	27	0	#_ es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=33.63	_	_	_	_
-27-1	PST210	27	1	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-27-2	PST210	27	2	entrevista?	entrevista	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=34.405	_	_	_	_
-29-0	PST065	29	0	#_ claro	claro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=34.445	_	_	_	_
-29-1	PST065	29	1	porqué?	porqué	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	_	_	_	_	_
-29-2	PST065	29	2	porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-29-3	PST065	29	3	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-29-4	PST065	29	4	pones	pones	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-29-5	PST065	29	5	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-29-6	PST065	29	6	[(seguida)	seguida	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(217)
-29-7	PST065	29	7	nosotros	nosotros	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(217)
-29-8	PST065	29	8	estamos	estamos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(217)
-29-9	PST065	29	9	xx]?	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=38.727	_	_	_	0-2(217)
-31-0	PST203	31	0	#_ [el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=36.287	_	_	_	0-2(217)
-31-1	PST203	31	1	video	video	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(217)
-31-2	PST203	31	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(217)
+27-0	PST210	27	0	#_ es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=33.63	_	_	_	_
+27-1	PST210	27	1	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+27-2	PST210	27	2	entrevista?	entrevista	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=34.405	_	_	_	_
+29-0	PST065	29	0	#_ claro	claro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=34.445	_	_	_	_
+29-1	PST065	29	1	porqué?	porqué	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	_	_	_	_	_
+29-2	PST065	29	2	porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+29-3	PST065	29	3	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+29-4	PST065	29	4	pones	pones	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+29-5	PST065	29	5	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+29-6	PST065	29	6	[(seguida)	seguida	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(217)
+29-7	PST065	29	7	nosotros	nosotros	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(217)
+29-8	PST065	29	8	estamos	estamos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(217)
+29-9	PST065	29	9	xx]?	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=38.727	_	_	_	0-2(217)
+31-0	PST203	31	0	#_ [el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=36.287	_	_	_	0-2(217)
+31-1	PST203	31	1	video	video	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(217)
+31-2	PST203	31	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(217)
 31-3	PST203	31	3	xxxx]	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=4	End=38.012	_	_	_	0-4(217)
 32-0	PST064	32	0	[claro]	claro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=37.232|End=37.83	_	_	_	0-5(217)
-33-0	PST065	33	0	#_ he~	he~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	Begin=38.98	_	_	_	_
-33-1	PST065	33	1	hemos	hemos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-2	PST065	33	2	sido	sido	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-3	PST065	33	3	entrevistado	entrevistado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-4	PST065	33	4	por	por	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-5	PST065	33	5	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-6	PST065	33	6	proyecto	proyecto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-7	PST065	33	7	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+33-0	PST065	33	0	#_ he~	he~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	Begin=38.98	_	_	_	_
+33-1	PST065	33	1	hemos	hemos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-2	PST065	33	2	sido	sido	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-3	PST065	33	3	entrevistado	entrevistado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-4	PST065	33	4	por	por	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-5	PST065	33	5	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-6	PST065	33	6	proyecto	proyecto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-7	PST065	33	7	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 33-8	PST065	33	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-33-9	PST065	33	9	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-10	PST065	33	10	cu~	cu~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
-33-11	PST065	33	11	del::	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	2x2	_	_	_
-33-12	PST065	33	12	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-13	PST065	33	13	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-14	PST065	33	14	región	región	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-15	PST065	33	15	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-16	PST065	33	16	piemonte	piemonte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-17	PST065	33	17	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-18	PST065	33	18	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-19	PST065	33	19	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-20	PST065	33	20	salir	salir	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-33-21	PST065	33	21	en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-9	PST065	33	9	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-10	PST065	33	10	cu~	cu~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+33-11	PST065	33	11	del::	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	2x2	_	_	_
+33-12	PST065	33	12	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-13	PST065	33	13	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-14	PST065	33	14	región	región	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-15	PST065	33	15	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-16	PST065	33	16	piemonte	piemonte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-17	PST065	33	17	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-18	PST065	33	18	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-19	PST065	33	19	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-20	PST065	33	20	salir	salir	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+33-21	PST065	33	21	en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 33-22	PST065	33	22	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
-33-23	PST065	33	23	momento	momento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=47.1	_	_	_	_
-35-0	PST065	35	0	#_ qué	qué	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=48.11	_	_	_	_
-35-1	PST065	35	1	es?	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=48.739	_	_	_	_
+33-23	PST065	33	23	momento	momento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=47.1	_	_	_	_
+35-0	PST065	35	0	#_ qué	qué	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=48.11	_	_	_	_
+35-1	PST065	35	1	es?	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=48.739	_	_	_	_
 36-0	PST064	36	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=48.859|End=49.558	_	_	_	_
 37-0	PST210	37	0	#_ °xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=50.753|End=52.013	_	_	_	_
 38-0	PST064	38	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=52.2|End=53.286	_	_	_	_
 39-0	PST065	39	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=52.2|End=53.286	_	_	_	_
-40-0	PST065	40	0	#_ había	había	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=53.687	_	_	_	_
+40-0	PST065	40	0	#_ había	había	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=53.687	_	_	_	_
 40-1	PST065	40	1	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	_	_	_	_	_
-40-2	PST065	40	2	ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=54.909	_	_	_	_
-41-0	PST064	41	0	#_ se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=54.92	_	_	_	_
-41-1	PST064	41	1	aprovecha	aprovecha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-41-2	PST064	41	2	todo	todo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-41-3	PST064	41	3	todo	todo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-41-4	PST064	41	4	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-41-5	PST064	41	5	aprovecha	aprovecha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=56.903	_	_	_	_
+40-2	PST065	40	2	ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=54.909	_	_	_	_
+41-0	PST064	41	0	#_ se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=54.92	_	_	_	_
+41-1	PST064	41	1	aprovecha	aprovecha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+41-2	PST064	41	2	todo	todo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+41-3	PST064	41	3	todo	todo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+41-4	PST064	41	4	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+41-5	PST064	41	5	aprovecha	aprovecha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=56.903	_	_	_	_
 43-0	PST210	43	0	#_ xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=4	Begin=61.573	_	_	_	_
-43-1	PST210	43	1	aquí	aquí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=63.159	_	_	_	_
-44-0	PST064	44	0	#_ escríbelo	escríbelo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=64.957|End=65.6	_	_	_	_
+43-1	PST210	43	1	aquí	aquí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=63.159	_	_	_	_
+44-0	PST064	44	0	#_ escríbelo	escríbelo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=64.957|End=65.6	_	_	_	_
 45-0	PST203	45	0	#_ xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	Begin=69.073	_	_	_	_
-45-1	PST203	45	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-45-2	PST203	45	2	poco	poco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=70.313	_	_	_	_
-46-0	PST210	46	0	#xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=71.026	_	_	_	_
-46-1	PST210	46	1	#yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+45-1	PST203	45	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+45-2	PST203	45	2	poco	poco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=70.313	_	_	_	_
+46-0	PST210	46	0	#xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=71.026	_	_	_	_
+46-1	PST210	46	1	#yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 46-2	PST210	46	2	tutta	tutta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 46-3	PST210	46	3	tua	tua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=72.046	_	_	_	_
 47-0	PST065	47	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=72.384|End=72.875	_	_	_	_
 48-0	PST210	48	0	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=73.206|End=73.713	_	_	_	_
-49-0	PST065	49	0	#_ no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=74.013	_	_	_	_
-49-1	PST065	49	1	solamente	solamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-49-2	PST065	49	2	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-49-3	PST065	49	3	molestó	molestó	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-49-4	PST065	49	4	acá	acá	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-49-5	PST065	49	5	como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-49-6	PST065	49	6	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-49-7	PST065	49	7	ve	ve	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-49-8	PST065	49	8	[este	este	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(5)
-49-9	PST065	49	9	(peñiscado)	peñiscado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(5)
-49-10	PST065	49	10	pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(5)
-49-11	PST065	49	11	después]	después	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=77.614	_	_	_	0-7(5)
+49-0	PST065	49	0	#_ no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=74.013	_	_	_	_
+49-1	PST065	49	1	solamente	solamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+49-2	PST065	49	2	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+49-3	PST065	49	3	molestó	molestó	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+49-4	PST065	49	4	acá	acá	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+49-5	PST065	49	5	como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+49-6	PST065	49	6	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+49-7	PST065	49	7	ve	ve	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+49-8	PST065	49	8	[este	este	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(5)
+49-9	PST065	49	9	(peñiscado)	peñiscado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(5)
+49-10	PST065	49	10	pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(5)
+49-11	PST065	49	11	después]	después	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=77.614	_	_	_	0-7(5)
 51-0	PST203	51	0	#_ [xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	PauseAfter=Yes|Syllables=2	Begin=75.916	_	_	_	0-2(5)
 51-1	PST203	51	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(5)
-51-2	PST203	51	2	eso	eso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(5)
-51-3	PST203	51	3	al]	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(5)
-51-4	PST203	51	4	suelo	suelo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+51-2	PST203	51	2	eso	eso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(5)
+51-3	PST203	51	3	al]	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(5)
+51-4	PST203	51	4	suelo	suelo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 51-5	PST203	51	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-51-6	PST203	51	6	eso	eso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-51-7	PST203	51	7	es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-51-8	PST203	51	8	siempre	siempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-51-9	PST203	51	9	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-51-10	PST203	51	10	[suelo]	suelo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=79.481	_	_	_	0-5(6)
-53-0	PST210	53	0	#_ [es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=79.007	_	_	_	0-2(6)
-53-1	PST210	53	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(6)
-53-2	PST210	53	2	dra]gón?	dragón	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=79.673	_	_	_	0-3(6)
-54-0	PST065	54	0	#_ [sí	sí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=79.905	_	_	_	0-2(7)
-54-1	PST065	54	1	es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(7)
-54-2	PST065	54	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(7)
-54-3	PST065	54	3	dragón	dragón	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(7)
-54-4	PST065	54	4	asiático]	asiático	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=81.4	_	_	_	0-8(7)
+51-6	PST203	51	6	eso	eso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+51-7	PST203	51	7	es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+51-8	PST203	51	8	siempre	siempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+51-9	PST203	51	9	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+51-10	PST203	51	10	[suelo]	suelo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=79.481	_	_	_	0-5(6)
+53-0	PST210	53	0	#_ [es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=79.007	_	_	_	0-2(6)
+53-1	PST210	53	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(6)
+53-2	PST210	53	2	dra]gón?	dragón	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=79.673	_	_	_	0-3(6)
+54-0	PST065	54	0	#_ [sí	sí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=79.905	_	_	_	0-2(7)
+54-1	PST065	54	1	es	es	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(7)
+54-2	PST065	54	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(7)
+54-3	PST065	54	3	dragón	dragón	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(7)
+54-4	PST065	54	4	asiático]	asiático	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=81.4	_	_	_	0-8(7)
 55-0	PST203	55	0	[xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=79.905	_	_	_	0-2(7)
 55-1	PST203	55	1	xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	End=81.4	_	_	_	0-3(7)
 56-0	PST210	56	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=81.701	_	_	_	_
 56-1	PST210	56	1	[xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=82.542	_	_	_	0-2(8)
 57-0	PST065	57	0	[cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=81.942	_	_	_	0-4(8)
-57-1	PST065	57	1	#oriental]	oriental	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=82.541	_	_	_	0-9(8)
+57-1	PST065	57	1	#oriental]	oriental	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=82.541	_	_	_	0-9(8)
 58-0	PST203	58	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=86.624|End=87.017	_	_	_	_
-59-0	PST065	59	0	#_ porqué	porqué	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=87.019	_	_	_	_
-59-1	PST065	59	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-59-2	PST065	59	2	llaman	llaman	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-59-3	PST065	59	3	[a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(9)
-59-4	PST065	59	4	usted	usted	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(9)
-59-5	PST065	59	5	x?]	x	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=88.034	_	_	_	0-1(9)
-61-0	PST064	61	0	#_ [ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=87.305	_	_	_	0-2(9)
+59-0	PST065	59	0	#_ porqué	porqué	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=87.019	_	_	_	_
+59-1	PST065	59	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+59-2	PST065	59	2	llaman	llaman	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+59-3	PST065	59	3	[a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(9)
+59-4	PST065	59	4	usted	usted	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(9)
+59-5	PST065	59	5	x?]	x	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=88.034	_	_	_	0-1(9)
+61-0	PST064	61	0	#_ [ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=87.305	_	_	_	0-2(9)
 61-1	PST064	61	1	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	0-2(9)
-61-2	PST064	61	2	yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-61-3	PST064	61	3	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-61-4	PST064	61	4	mandé	mandé	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-61-5	PST064	61	5	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-61-6	PST064	61	6	mensaje	mensaje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-61-7	PST064	61	7	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-61-8	PST064	61	8	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-61-9	PST064	61	9	iba	iba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-61-10	PST064	61	10	pedir	pedir	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+61-2	PST064	61	2	yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+61-3	PST064	61	3	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+61-4	PST064	61	4	mandé	mandé	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+61-5	PST064	61	5	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+61-6	PST064	61	6	mensaje	mensaje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+61-7	PST064	61	7	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+61-8	PST064	61	8	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+61-9	PST064	61	9	iba	iba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+61-10	PST064	61	10	pedir	pedir	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 61-11	PST064	61	11	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=90.747	_	_	_	_
 63-0	PST065	63	0	a::h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=90.948|End=91.439	0x2	_	_	_
 64-0	PST203	64	0	#_ x	x	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=1	Begin=91.924	_	_	_	_
-64-1	PST203	64	1	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-64-2	PST203	64	2	rotura	rotura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=93.02	_	_	_	_
+64-1	PST203	64	1	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+64-2	PST203	64	2	rotura	rotura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=93.02	_	_	_	_
 65-0	PST203	65	0	#_ @mary	@mary	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	Begin=94.441	_	_	_	_
-65-1	PST203	65	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-2	PST203	65	2	poquito	poquito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-3	PST203	65	3	más	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-4	PST203	65	4	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-5	PST203	65	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-6	PST203	65	6	derecha	derecha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-7	PST203	65	7	y	y	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-8	PST203	65	8	yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-9	PST203	65	9	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-10	PST203	65	10	poquito	poquito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-11	PST203	65	11	más	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-65-12	PST203	65	12	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-1	PST203	65	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-2	PST203	65	2	poquito	poquito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-3	PST203	65	3	más	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-4	PST203	65	4	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-5	PST203	65	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-6	PST203	65	6	derecha	derecha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-7	PST203	65	7	y	y	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-8	PST203	65	8	yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-9	PST203	65	9	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-10	PST203	65	10	poquito	poquito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-11	PST203	65	11	más	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+65-12	PST203	65	12	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 65-13	PST203	65	13	x	x	_	_	_	_	_	unknown	_	ContainsVariation=Yes	PauseAfter=Yes|Syllables=1	_	_	_	_	_
 65-14	PST203	65	14	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-65-15	PST203	65	15	[asì]	asì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=98.537	_	_	_	0-3(10)
+65-15	PST203	65	15	[asì]	asì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=98.537	_	_	_	0-3(10)
 67-0	PST064	67	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=98.03|End=98.266	_	_	_	0-2(10)
 68-0	PST203	68	0	scusate	scusate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=102.932	_	_	_	_
 68-1	PST203	68	1	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 68-2	PST203	68	2	[mettiamo]	mettiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=104.398	_	_	_	0-8(11)
-69-0	PST064	69	0	#_ [sí	sí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=103.845	_	_	_	0-2(11)
-69-1	PST064	69	1	sí]	sí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	0-2(11)
+69-0	PST064	69	0	#_ [sí	sí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=103.845	_	_	_	0-2(11)
+69-1	PST064	69	1	sí]	sí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	0-2(11)
 69-2	PST064	69	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-69-3	PST064	69	3	ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-69-4	PST064	69	4	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-69-5	PST064	69	5	apaga	apaga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+69-3	PST064	69	3	ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+69-4	PST064	69	4	que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+69-5	PST064	69	5	apaga	apaga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 69-6	PST064	69	6	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
-69-7	PST064	69	7	teléfono)	teléfono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=106.01	_	_	_	_
+69-7	PST064	69	7	teléfono)	teléfono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=106.01	_	_	_	_
 71-0	PST203	71	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=106.713	_	_	_	_
 71-1	PST203	71	1	mettiamo	mettiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 71-2	PST203	71	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 71-3	PST203	71	3	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=107.656	_	_	_	_
-72-0	PST064	72	0	#_ quítala	quítala	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=107.78|End=108.46	_	_	_	_
+72-0	PST064	72	0	#_ quítala	quítala	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=107.78|End=108.46	_	_	_	_
 74-0	PST203	74	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=110.469	_	_	_	_
 74-1	PST203	74	1	mettiamo	mettiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 74-2	PST203	74	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -273,8 +273,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 76-2	PST203	76	2	tutta	tutta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 76-3	PST203	76	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 76-4	PST203	76	4	strumentazione	strumentazione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-76-5	PST203	76	5	#tal	tal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-76-6	PST203	76	6	#equipo:	equipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=122.127	5x1	_	_	_
+76-5	PST203	76	5	#tal	tal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+76-6	PST203	76	6	#equipo:	equipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=122.127	5x1	_	_	_
 77-0	PST203	77	0	qual	qual	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=125.595	_	_	_	_
 77-1	PST203	77	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 77-2	PST203	77	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -289,57 +289,57 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 80-1	PST203	80	1	un'	un'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	0-3(?)
 80-2	PST203	80	2	altra]	altra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(?)
 80-3	PST203	80	3	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
-80-4	PST203	80	4	#*con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
-80-5	PST203	80	5	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-80-6	PST203	80	6	#nombre	nombre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-80-7	PST203	80	7	#también	también	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-80-8	PST203	80	8	#asì	asì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-80-9	PST203	80	9	#hacemos	hacemos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-80-10	PST203	80	10	#otra	otra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-80-11	PST203	80	11	#toma	toma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=134.169	_	_	_	_
-82-0	PST064	82	0	#_ [me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=129.543	_	_	_	0-2(12)
-82-1	PST064	82	1	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(12)
-82-2	PST064	82	2	llamado]	llamado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=130.176	_	_	_	0-7(12)
+80-4	PST203	80	4	#*con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
+80-5	PST203	80	5	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+80-6	PST203	80	6	#nombre	nombre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+80-7	PST203	80	7	#también	también	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+80-8	PST203	80	8	#asì	asì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+80-9	PST203	80	9	#hacemos	hacemos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+80-10	PST203	80	10	#otra	otra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+80-11	PST203	80	11	#toma	toma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=134.169	_	_	_	_
+82-0	PST064	82	0	#_ [me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=129.543	_	_	_	0-2(12)
+82-1	PST064	82	1	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(12)
+82-2	PST064	82	2	llamado]	llamado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=130.176	_	_	_	0-7(12)
 83-0	PST210	83	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=132.246	_	_	_	0-2(13)
 83-1	PST210	83	1	okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=132.793	_	_	_	0-4(13)
-84-0	PST210	84	0	#*(zero)	zero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	Begin=134.354|End=134.927	_	_	2-6(0)	_
+84-0	PST210	84	0	#*(zero)	zero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	Begin=134.354|End=134.927	_	_	2-6(0)	_
 85-0	PST210	85	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=136.506	_	_	_	_
 85-1	PST210	85	1	posto	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=137.34	_	_	_	_
 86-0	PST203	86	0	#_ @mary	@mary	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	PauseAfter=Yes|Anonymized=Yes	Begin=155.666	_	_	_	_
 86-1	PST203	86	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-86-2	PST203	86	2	(mira)	mira	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+86-2	PST203	86	2	(mira)	mira	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 86-3	PST203	86	3	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=157.833	_	_	_	_
 87-0	PST203	87	0	xxxxx	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=5	Begin=160.54|End=161.826	_	_	_	_
-88-0	PST210	88	0	#_ bórrala	bórrala	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=170.5|End=171.24	_	_	_	_
+88-0	PST210	88	0	#_ bórrala	bórrala	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=170.5|End=171.24	_	_	_	_
 90-0	PST203	90	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=171.407	_	_	_	_
 90-1	PST203	90	1	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	End=172.627	_	_	_	_
 91-0	PST210	91	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=172.633|End=172.993	_	_	_	_
-92-0	PST210	92	0	#_ me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=181.353	_	_	_	_
-92-1	PST210	92	1	llaman	llaman	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+92-0	PST210	92	0	#_ me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=181.353	_	_	_	_
+92-1	PST210	92	1	llaman	llaman	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 92-2	PST210	92	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-92-3	PST210	92	3	siempre	siempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+92-3	PST210	92	3	siempre	siempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 92-4	PST210	92	4	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=183.18	_	_	_	_
-93-0	PST065	93	0	#_ de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=189.16	_	_	_	_
-93-1	PST065	93	1	qué	qué	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-93-2	PST065	93	2	parte	parte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-93-3	PST065	93	3	x?	x	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=190.387	_	_	_	_
+93-0	PST065	93	0	#_ de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=189.16	_	_	_	_
+93-1	PST065	93	1	qué	qué	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+93-2	PST065	93	2	parte	parte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+93-3	PST065	93	3	x?	x	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=190.387	_	_	_	_
 94-0	PST210	94	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=190.473|End=191.219	_	_	_	_
 95-0	PST064	95	0	#_ xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	Begin=191.347	_	_	_	_
-95-1	PST064	95	1	yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-95-2	PST064	95	2	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-95-3	PST064	95	3	cañete	cañete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=192.76	_	_	_	_
-96-0	PST065	96	0	#_ ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=194.544	_	_	_	_
+95-1	PST064	95	1	yo	yo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+95-2	PST064	95	2	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+95-3	PST064	95	3	cañete	cañete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=192.76	_	_	_	_
+96-0	PST065	96	0	#_ ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=194.544	_	_	_	_
 96-1	PST065	96	1	x	x	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=1	_	_	_	_	_
-96-2	PST065	96	2	(de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-96-3	PST065	96	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-96-4	PST065	96	4	resa)	resa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=195.453	_	_	_	_
+96-2	PST065	96	2	(de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+96-3	PST065	96	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+96-4	PST065	96	4	resa)	resa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=195.453	_	_	_	_
 97-0	PST203	97	0	#_ xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	Begin=195.135	_	_	_	_
-97-1	PST203	97	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-97-2	PST203	97	2	poco	poco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-97-3	PST203	97	3	más	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-97-4	PST203	97	4	[que]	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=196.485	_	_	_	0-3(?)
-98-0	PST210	98	0	#_ de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=195.726	_	_	_	_
-98-1	PST210	98	1	[la]?	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=196.313	_	_	_	0-2(218)
+97-1	PST203	97	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+97-2	PST203	97	2	poco	poco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+97-3	PST203	97	3	más	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+97-4	PST203	97	4	[que]	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=196.485	_	_	_	0-3(?)
+98-0	PST210	98	0	#_ de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=195.726	_	_	_	_
+98-1	PST210	98	1	[la]?	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=196.313	_	_	_	0-2(218)
 99-0	PST064	99	0	[tru]jill[o]	trujillo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=196.165|End=196.73	_	_	_	0-3(218),7-8(15)
 100-0	PST065	100	0	[de]	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=196.587	_	_	_	0-2(15)
 100-1	PST065	100	1	trujillo	trujillo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=197.244	_	_	_	_
@@ -367,7 +367,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 112-1	PST203	112	1	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 112-2	PST203	112	2	facendo	facendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=214.182	_	_	_	_
 113-0	PST203	113	0	((batte_le_mani))	((batte_le_mani))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=217.246|End=217.586	_	_	_	_
-114-0	PST203	114	0	#listo	listo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=217.728|End=218.124	_	_	_	_
+114-0	PST203	114	0	#listo	listo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=217.728|End=218.124	_	_	_	_
 116-0	PST203	116	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=218.701|End=219.067	_	_	_	_
 117-0	PST064	117	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=219.544|End=220.107	_	_	_	_
 118-0	PST203	118	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=220.447	_	_	_	_
@@ -431,7 +431,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 129-0	PST065	129	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=250.003	_	_	_	0-2(20)
 129-1	PST065	129	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(20)
 129-2	PST065	129	2	tre]	tre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(20)
-129-3	PST065	129	3	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+129-3	PST065	129	3	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 129-4	PST065	129	4	settembre	settembre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=251.419	_	_	_	_
 130-0	PST064	130	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=251.777	_	_	_	_
 130-1	PST064	130	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -449,7 +449,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 130-13	PST064	130	13	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 130-14	PST064	130	14	avuto	avuto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 130-15	PST064	130	15	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=257.087	_	_	_	_
-131-0	PST064	131	0	#en::	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=258.106	1x2	_	_	_
+131-0	PST064	131	0	#en::	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=258.106	1x2	_	_	_
 131-1	PST064	131	1	@nomeluogo	@nomeluogo	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	End=260.228	_	_	_	_
 132-0	PST064	132	0	e:::::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=261.628	0x5	_	_	_
 132-1	PST064	132	1	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -509,10 +509,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 136-5	PST210	136	5	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(21)
 136-6	PST210	136	6	@nomeluogo?	@nomeluogo	_	_	_	_	_	anonymized	_	ContainsVariation=No	Intonation=Rising|Anonymized=Yes	_	_	_	_	0-10(21)
 136-7	PST210	136	7	mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=277.347	_	_	_	0-4(21)
-137-0	PST064	137	0	#pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=278.935	_	_	_	_
+137-0	PST064	137	0	#pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=278.935	_	_	_	_
 137-1	PST064	137	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-137-2	PST064	137	2	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-137-3	PST064	137	3	#actividad	actividad	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+137-2	PST064	137	2	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+137-3	PST064	137	3	#actividad	actividad	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 137-4	PST064	137	4	attività	attività	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 137-5	PST064	137	5	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 137-6	PST064	137	6	cominciato	cominciato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -553,7 +553,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 140-21	PST064	140	21	faccio	faccio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 140-22	PST064	140	22	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 140-23	PST064	140	23	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-140-24	PST064	140	24	#restaurante:	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=293.438	10x1	_	_	_
+140-24	PST064	140	24	#restaurante:	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=293.438	10x1	_	_	_
 141-0	PST064	141	0	poi:	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=294.391	2x1	_	_	_
 141-1	PST064	141	1	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 141-2	PST064	141	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -615,7 +615,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 151-2	PST064	151	2	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 151-3	PST064	151	3	tre	tre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 151-4	PST064	151	4	mese	mese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-151-5	PST064	151	5	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+151-5	PST064	151	5	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 151-6	PST064	151	6	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 151-7	PST064	151	7	diventiamo	diventiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 151-8	PST064	151	8	illegale	illegale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=321.92	_	_	_	_
@@ -641,7 +641,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 152-19	PST064	152	19	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 152-20	PST064	152	20	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 152-21	PST064	152	21	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-152-22	PST064	152	22	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+152-22	PST064	152	22	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 152-23	PST064	152	23	problemi	problemi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 152-24	PST064	152	24	con:	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x1	_	_	_
 152-25	PST064	152	25	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -652,7 +652,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 153-2	PST064	153	2	quel	quel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 153-3	PST064	153	3	periodo	periodo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 153-4	PST064	153	4	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-153-5	PST064	153	5	#eramo	eramo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+153-5	PST064	153	5	#eramo	eramo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 153-6	PST064	153	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 153-7	PST064	153	7	pochi	pochi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 153-8	PST064	153	8	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=336.321	_	_	_	_
@@ -662,9 +662,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 154-3	PST064	154	3	erano::	erano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x2	_	_	_
 154-4	PST064	154	4	tanti::::	tanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x4	_	_	_
 154-5	PST064	154	5	centro	centro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-154-6	PST064	154	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+154-6	PST064	154	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 154-7	PST064	154	7	ascolti	ascolti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-154-8	PST064	154	8	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+154-8	PST064	154	8	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 154-9	PST064	154	9	[suo]re	suore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(23)
 154-10	PST064	154	10	queste	queste	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 154-11	PST064	154	11	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -736,7 +736,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 161-7	PST064	161	7	imparato	imparato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 161-8	PST064	161	8	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 161-9	PST064	161	9	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-161-10	PST064	161	10	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+161-10	PST064	161	10	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 161-11	PST064	161	11	lavorando	lavorando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 161-12	PST064	161	12	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	_	_	_	_	_
 161-13	PST064	161	13	[lavora~]	lavora~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	End=370.989	_	_	_	0-7(27)
@@ -768,7 +768,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 166-5	PST064	166	5	piano	piano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 166-6	PST064	166	6	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 166-7	PST064	166	7	portato	portato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-166-8	PST064	166	8	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+166-8	PST064	166	8	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 166-9	PST064	166	9	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 166-10	PST064	166	10	miei	miei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 166-11	PST064	166	11	figli	figli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -887,8 +887,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 188-3	PST064	188	3	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=424.43	_	_	_	_
 189-0	PST210	189	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=423.677|End=424.077	_	_	_	_
 190-0	PST064	190	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=424.865	_	_	_	_
-190-1	PST064	190	1	#*de::::	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	1x4	_	_	_
-190-2	PST064	190	2	#ya:::	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=426.655	1x3	_	_	_
+190-1	PST064	190	1	#*de::::	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	1x4	_	_	_
+190-2	PST064	190	2	#ya:::	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=426.655	1x3	_	_	_
 191-0	PST064	191	0	forse:::	forse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=427.36	4x3	_	_	_
 191-1	PST064	191	1	otto	otto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 191-2	PST064	191	2	nove	nove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -925,7 +925,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 192-17	PST064	192	17	se]	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(39)
 192-18	PST064	192	18	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 192-19	PST064	192	19	mettono	mettono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-192-20	PST064	192	20	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+192-20	PST064	192	20	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 192-21	PST064	192	21	accordo	accordo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 192-22	PST064	192	22	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 192-23	PST064	192	23	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -950,13 +950,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 197-6	PST064	197	6	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 197-7	PST064	197	7	conoscono	conoscono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 197-8	PST064	197	8	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-197-9	PST064	197	9	#papa	papa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-197-10	PST064	197	10	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-197-11	PST064	197	11	#la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-197-12	PST064	197	12	#huancaína	huancaína	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=451.21	_	_	_	_
-198-0	PST064	198	0	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=452.186	_	_	_	_
-198-1	PST064	198	1	#ceviche	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=453.018	_	_	_	_
-199-0	PST203	199	0	[°#ceviche°]	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	Begin=453.616|End=454.253	_	_	_	0-8(40)
+197-9	PST064	197	9	#papa	papa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+197-10	PST064	197	10	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+197-11	PST064	197	11	#la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+197-12	PST064	197	12	#huancaína	huancaína	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=451.21	_	_	_	_
+198-0	PST064	198	0	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=452.186	_	_	_	_
+198-1	PST064	198	1	#ceviche	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=453.018	_	_	_	_
+199-0	PST203	199	0	[°#ceviche°]	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	Begin=453.616|End=454.253	_	_	_	0-8(40)
 200-0	PST064	200	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=453.681	_	_	_	0-1(40)
 200-1	PST064	200	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(40)
 200-2	PST064	200	2	che]:::	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x3	_	_	0-3(40)
@@ -978,13 +978,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 202-0	PST064	202	0	abbondante	abbondante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=463.107	_	_	_	_
 202-1	PST064	202	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 202-2	PST064	202	2	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-202-3	PST064	202	3	#ya:::	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=465.278	1x3	_	_	_
+202-3	PST064	202	3	#ya:::	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=465.278	1x3	_	_	_
 203-0	PST064	203	0	conoscono	conoscono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=466.136	_	_	_	_
 203-1	PST064	203	1	altri	altri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 203-2	PST064	203	2	piatti	piatti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 203-3	PST064	203	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 203-4	PST064	203	4	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-203-5	PST064	203	5	>(#dicen)<	dicen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-6(0)	0-6(0)	_
+203-5	PST064	203	5	>(#dicen)<	dicen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-6(0)	0-6(0)	_
 203-6	PST064	203	6	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 203-7	PST064	203	7	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 203-8	PST064	203	8	com'	com'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
@@ -1717,7 +1717,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 286-5	PST203	286	5	cambiata]	cambiata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=687.813	_	_	_	0-8(70)
 287-0	PST203	287	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=691.71|End=692.103	_	_	_	0-2(71)
 288-0	PST065	288	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=692.127	_	_	_	_
-288-1	PST065	288	1	#españa	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+288-1	PST065	288	1	#españa	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 288-2	PST065	288	2	infatti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 288-3	PST065	288	3	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 288-4	PST065	288	4	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1744,10 +1744,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 289-2	PST064	289	2	ca~	ca~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	0-3(222)
 289-3	PST064	289	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(222)
 289-4	PST064	289	4	sarebbe]	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(222)
-289-5	PST064	289	5	#castellano	castellano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=700.414	_	_	_	_
+289-5	PST064	289	5	#castellano	castellano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=700.414	_	_	_	_
 290-0	PST210	290	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=698.567|End=699.367	_	_	_	0-3(222)
 291-0	PST065	291	0	in:	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=700.595	1x1	_	_	_
-291-1	PST065	291	1	#es[paña	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	3-7(72)
+291-1	PST065	291	1	#es[paña	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	3-7(72)
 291-2	PST065	291	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(72)
 291-3	PST065	291	3	parlano]	parlano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(72)
 291-4	PST065	291	4	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1763,12 +1763,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 293-3	PST064	293	3	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 293-4	PST064	293	4	(les)	les	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	0-3(0)	_
 293-5	PST064	293	5	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-293-6	PST064	293	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
-293-7	PST064	293	7	#españa	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-293-8	PST064	293	8	#españo~	españo~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+293-6	PST064	293	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
+293-7	PST064	293	7	#españa	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+293-8	PST064	293	8	#españo~	españo~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
 293-9	PST064	293	9	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-293-10	PST064	293	10	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-293-11	PST064	293	11	#castellano	castellano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+293-10	PST064	293	10	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+293-11	PST064	293	11	#castellano	castellano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 293-12	PST064	293	12	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=707.094	_	_	_	_
 294-0	PST064	294	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=707.514	_	_	_	_
 294-1	PST064	294	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -1779,11 +1779,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 294-6	PST064	294	6	diversa	diversa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=709.378	_	_	_	_
 295-0	PST064	295	0	[anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=709.441	_	_	_	0-5(74)
 295-1	PST064	295	1	dipe]nde	dipende	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(74)
-295-2	PST064	295	2	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+295-2	PST064	295	2	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 295-3	PST064	295	3	de~	de~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 295-4	PST064	295	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 295-5	PST064	295	5	~pende	~pende	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
-295-6	PST064	295	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+295-6	PST064	295	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 295-7	PST064	295	7	ogni::	ogni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x2	_	_	_
 295-8	PST064	295	8	città	città	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 295-9	PST064	295	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1951,10 +1951,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 317-5	PST203	317	5	perù?	perù	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=757.632	_	_	_	_
 318-0	PST064	318	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=757.978	_	_	_	_
 318-1	PST064	318	1	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-318-2	PST064	318	2	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+318-2	PST064	318	2	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 318-3	PST064	318	3	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 318-4	PST064	318	4	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-318-5	PST064	318	5	#norte	norte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=759.511	_	_	_	_
+318-5	PST064	318	5	#norte	norte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=759.511	_	_	_	_
 319-0	PST203	319	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=759.33	_	_	_	_
 319-1	PST203	319	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=760.28	_	_	_	_
 320-0	PST064	320	0	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=760.102	_	_	_	_
@@ -1966,7 +1966,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 320-6	PST064	320	6	ore	ore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 320-7	PST064	320	7	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 320-8	PST064	320	8	mezza	mezza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-320-9	PST064	320	9	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+320-9	PST064	320	9	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 320-10	PST064	320	10	lima	lima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=763.568	_	_	_	_
 321-0	PST065	321	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=762.127|End=762.416	_	_	_	0-2(90)
 322-0	PST203	322	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=763.838|End=764.155	_	_	_	_
@@ -1995,7 +1995,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 325-10	PST210	325	10	entrambi,	entrambi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=776.698	_	_	_	_
 326-0	PST064	326	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	Begin=777.251	_	_	_	_
 326-1	PST064	326	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-326-2	PST064	326	2	#como:	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	3x1	_	_	_
+326-2	PST064	326	2	#como:	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	3x1	_	_	_
 326-3	PST064	326	3	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 326-4	PST064	326	4	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 326-5	PST064	326	5	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2003,7 +2003,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 326-7	PST064	326	7	prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 326-8	PST064	326	8	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=779.866	_	_	_	_
 327-0	PST064	327	0	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=779.92	_	_	_	_
-327-1	PST064	327	1	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+327-1	PST064	327	1	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 327-2	PST064	327	2	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 327-3	PST064	327	3	abbiamo:::	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	6x3	_	_	_
 327-4	PST064	327	4	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2013,7 +2013,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 327-8	PST064	327	8	città	città	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 327-9	PST064	327	9	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 327-10	PST064	327	10	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-327-11	PST064	327	11	#*su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+327-11	PST064	327	11	#*su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 327-12	PST064	327	12	piatti	piatti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 327-13	PST064	327	13	tipici	tipici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 327-14	PST064	327	14	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=786.526	_	_	_	_
@@ -2027,14 +2027,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 329-1	PST064	329	1	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 329-2	PST064	329	2	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 329-3	PST064	329	3	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-329-4	PST064	329	4	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+329-4	PST064	329	4	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 329-5	PST064	329	5	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-329-6	PST064	329	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+329-6	PST064	329	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 329-7	PST064	329	7	lima::	lima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x2	_	_	_
 329-8	PST064	329	8	viene:	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x1	_	_	_
 329-9	PST064	329	9	prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 329-10	PST064	329	10	cañete	cañete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-329-11	PST064	329	11	#ante	ante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+329-11	PST064	329	11	#ante	ante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 329-12	PST064	329	12	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 329-13	PST064	329	13	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 329-14	PST064	329	14	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2055,13 +2055,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 330-4	PST064	330	4	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 330-5	PST064	330	5	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 330-6	PST064	330	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-330-7	PST064	330	7	#carapulchra	carapulchra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+330-7	PST064	330	7	#carapulchra	carapulchra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 330-8	PST064	330	8	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 330-9	PST064	330	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-330-10	PST064	330	10	#sopa	sopa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-330-11	PST064	330	11	#seca	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=802.704	_	_	_	_
+330-10	PST064	330	10	#sopa	sopa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+330-11	PST064	330	11	#seca	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=802.704	_	_	_	_
 331-0	PST064	331	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=803.163	_	_	_	_
-331-1	PST064	331	1	#cara~	cara~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
+331-1	PST064	331	1	#cara~	cara~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 331-2	PST064	331	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 331-3	PST064	331	3	~pulchra	~pulchra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 331-4	PST064	331	4	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2085,7 +2085,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 332-16	PST064	332	16	a:nde	ande	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 332-17	PST064	332	17	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=813.268	_	_	_	_
 333-0	PST064	333	0	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=813.366	_	_	_	_
-333-1	PST064	333	1	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+333-1	PST064	333	1	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 333-2	PST064	333	2	freddo	freddo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 333-3	PST064	333	3	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 333-4	PST064	333	4	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2093,7 +2093,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 333-6	PST064	333	6	proprio::	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	6x2	_	_	_
 333-7	PST064	333	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 333-8	PST064	333	8	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-333-9	PST064	333	9	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+333-9	PST064	333	9	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 333-10	PST064	333	10	ghiaccio	ghiaccio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 333-11	PST064	333	11	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 333-12	PST064	333	12	freddo	freddo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2124,7 +2124,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 338-2	PST064	338	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 338-3	PST064	338	3	altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-4	PST064	338	4	giorno	giorno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-338-5	PST064	338	5	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+338-5	PST064	338	5	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 338-6	PST064	338	6	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-7	PST064	338	7	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-8	PST064	338	8	morbida	morbida	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2135,20 +2135,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 338-13	PST064	338	13	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-14	PST064	338	14	chiamiamo	chiamiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-15	PST064	338	15	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-338-16	PST064	338	16	#papa	papa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-338-17	PST064	338	17	#seca	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+338-16	PST064	338	16	#papa	papa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+338-17	PST064	338	17	#seca	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 338-18	PST064	338	18	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-19	PST064	338	19	[il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(92)
 338-20	PST064	338	20	nome	nome	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(92)
-338-21	PST064	338	21	#co]mo	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(92)
-338-22	PST064	338	22	#papa	papa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-338-23	PST064	338	23	#seca	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+338-21	PST064	338	21	#co]mo	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(92)
+338-22	PST064	338	22	#papa	papa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+338-23	PST064	338	23	#seca	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 338-24	PST064	338	24	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-25	PST064	338	25	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-26	PST064	338	26	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-27	PST064	338	27	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-28	PST064	338	28	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-338-29	PST064	338	29	#carapulchra	carapulchra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=835.145	_	_	_	_
+338-29	PST064	338	29	#carapulchra	carapulchra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=835.145	_	_	_	_
 339-0	PST203	339	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=832.349	_	_	_	0-2(92)
 339-1	PST203	339	1	mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=832.936	_	_	_	0-4(92)
 340-0	PST064	340	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=835.834	_	_	_	_
@@ -2179,7 +2179,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 340-25	PST064	340	25	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 340-26	PST064	340	26	gallina	gallina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=845.911	_	_	_	_
 341-0	PST064	341	0	dipende	dipende	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=846.208	_	_	_	_
-341-1	PST064	341	1	#porque::	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	5x2	_	_	_
+341-1	PST064	341	1	#porque::	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	5x2	_	_	_
 341-2	PST064	341	2	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 341-3	PST064	341	3	stando	stando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 341-4	PST064	341	4	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2235,7 +2235,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 345-11	PST064	345	11	tacchino	tacchino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 345-12	PST064	345	12	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 345-13	PST064	345	13	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-345-14	PST064	345	14	#o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+345-14	PST064	345	14	#o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 345-15	PST064	345	15	sea	sea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 345-16	PST064	345	16	non:	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x1	_	_	_
 345-17	PST064	345	17	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2255,13 +2255,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 347-2	PST064	347	2	possiamo	possiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 347-3	PST064	347	3	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 347-4	PST064	347	4	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-347-5	PST064	347	5	#en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+347-5	PST064	347	5	#en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 347-6	PST064	347	6	tutta	tutta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 347-7	PST064	347	7	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 347-8	PST064	347	8	zona	zona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 347-9	PST064	347	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 347-10	PST064	347	10	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-347-11	PST064	347	11	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+347-11	PST064	347	11	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 347-12	PST064	347	12	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 347-13	PST064	347	13	facciamo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 347-14	PST064	347	14	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2269,16 +2269,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 347-16	PST064	347	16	piatti	piatti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 347-17	PST064	347	17	tipici	tipici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=875.313	_	_	_	_
 348-0	PST064	348	0	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=875.421	_	_	_	_
-348-1	PST064	348	1	#*de~	de~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+348-1	PST064	348	1	#*de~	de~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
 348-2	PST064	348	2	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 348-3	PST064	348	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 348-4	PST064	348	4	pochettino	pochettino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 348-5	PST064	348	5	diverso	diverso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-348-6	PST064	348	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+348-6	PST064	348	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 348-7	PST064	348	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 348-8	PST064	348	8	altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 348-9	PST064	348	9	qual[cuno	qualcuno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	3-8(94)
-348-10	PST064	348	10	#*tie]ne	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	0-5(94)
+348-10	PST064	348	10	#*tie]ne	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	0-5(94)
 348-11	PST064	348	11	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 348-12	PST064	348	12	altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 348-13	PST064	348	13	patate	patate	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2287,11 +2287,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 348-16	PST064	348	16	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=881.499	_	_	_	_
 349-0	PST203	349	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=879.741|End=880.042	_	_	_	0-4(94)
 350-0	PST064	350	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=882.091	_	_	_	_
-350-1	PST064	350	1	#sea	sea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+350-1	PST064	350	1	#sea	sea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 350-2	PST064	350	2	($entroso)	entroso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	_	_	_	0-8(0)	_
 350-3	PST064	350	3	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 350-4	PST064	350	4	più::::	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x4	_	_	_
-350-5	PST064	350	5	[#cómo	cómo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(95)
+350-5	PST064	350	5	[#cómo	cómo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(95)
 350-6	PST064	350	6	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(95)
 350-7	PST064	350	7	di]ce:::,	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=885.533	3x3	_	_	0-2(95)
 351-0	PST065	351	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=884.108|End=884.699	_	_	_	0-3(95)
@@ -2318,16 +2318,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 356-0	PST064	356	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=893.671	_	_	_	_
 356-1	PST064	356	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 356-2	PST064	356	2	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-356-3	PST064	356	3	#carapulchra	carapulchra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+356-3	PST064	356	3	#carapulchra	carapulchra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 356-4	PST064	356	4	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 356-5	PST064	356	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-356-6	PST064	356	6	#sopa	sopa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-356-7	PST064	356	7	#seca	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=896.025	_	_	_	_
-357-0	PST203	357	0	#carapulchra	carapulchra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=896.025	_	_	_	_
+356-6	PST064	356	6	#sopa	sopa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+356-7	PST064	356	7	#seca	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=896.025	_	_	_	_
+357-0	PST203	357	0	#carapulchra	carapulchra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=896.025	_	_	_	_
 357-1	PST203	357	1	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 357-2	PST203	357	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-357-3	PST203	357	3	#sopa	sopa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-357-4	PST203	357	4	[°#seca°]	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	End=897.697	_	_	_	0-5(97)
+357-3	PST203	357	3	#sopa	sopa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+357-4	PST203	357	4	[°#seca°]	seca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	End=897.697	_	_	_	0-5(97)
 358-0	PST064	358	0	[sopa	sopa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=897.222	_	_	_	0-4(97)
 358-1	PST064	358	1	se]ca	seca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(97)
 358-2	PST064	358	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2338,19 +2338,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 358-7	PST064	358	7	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 358-8	PST064	358	8	spaghetti	spaghetti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=899.813	_	_	_	_
 359-0	PST203	359	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=899.982|End=900.299	_	_	_	_
-360-0	PST064	360	0	#pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=900.55	_	_	_	_
-360-1	PST064	360	1	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+360-0	PST064	360	0	#pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=900.55	_	_	_	_
+360-1	PST064	360	1	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 360-2	PST064	360	2	messo	messo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 360-3	PST064	360	3	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 360-4	PST064	360	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-360-5	PST064	360	5	#suco	suco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+360-5	PST064	360	5	#suco	suco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 360-6	PST064	360	6	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 360-7	PST064	360	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-360-8	PST064	360	8	#*se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+360-8	PST064	360	8	#*se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 360-9	PST064	360	9	[cuci]na	cucina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(98)
 360-10	PST064	360	10	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-360-11	PST064	360	11	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-360-12	PST064	360	12	#suco	suco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+360-11	PST064	360	11	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+360-12	PST064	360	12	#suco	suco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 360-13	PST064	360	13	dentro	dentro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=904.185	_	_	_	_
 361-0	PST203	361	0	[ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=902.382|End=902.663	_	_	_	0-2(98)
 362-0	PST064	362	0	[no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=904.22	_	_	_	0-2(99)
@@ -2383,19 +2383,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 369-1	PST203	369	1	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 369-2	PST203	369	2	cucinare,	cucinare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=910.848	_	_	_	_
 370-0	PST064	370	0	dipen[de	dipende	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=912.08	_	_	_	5-7(102)
-370-1	PST064	370	1	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	0-4(102)
+370-1	PST064	370	1	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	0-4(102)
 370-2	PST064	370	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(102)
-370-3	PST064	370	3	#donde	donde	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(102)
+370-3	PST064	370	3	#donde	donde	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(102)
 370-4	PST064	370	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(102)
-370-5	PST064	370	5	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(102)
+370-5	PST064	370	5	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(102)
 370-6	PST064	370	6	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(102)
-370-7	PST064	370	7	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(102)
+370-7	PST064	370	7	#sur	sur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(102)
 370-8	PST064	370	8	guarda	guarda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(102)
 370-9	PST064	370	9	che]	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(102)
 370-10	PST064	370	10	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 370-11	PST064	370	11	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 370-12	PST064	370	12	che::	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x2	_	_	_
-370-13	PST064	370	13	#sea	sea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+370-13	PST064	370	13	#sea	sea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 370-14	PST064	370	14	tan~	tan~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 370-15	PST064	370	15	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 370-16	PST064	370	16	sembra	sembra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2435,7 +2435,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 380-1	PST065	380	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 380-2	PST065	380	2	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 380-3	PST065	380	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-380-4	PST065	380	4	#ceviche	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+380-4	PST065	380	4	#ceviche	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 380-5	PST065	380	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 380-6	PST065	380	6	[a::h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x2	_	_	0-2(105)
 380-7	PST065	380	7	ovu]nque	ovunque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(105)
@@ -2449,7 +2449,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 380-15	PST065	380	15	[forza	forza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(106)
 380-16	PST065	380	16	mangiare	mangiare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-8(106)
 380-17	PST065	380	17	quello]	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=931.349	_	_	_	0-6(106)
-381-0	PST203	381	0	[#ceviche]	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=926.791|End=927.403	_	_	_	0-8(104)
+381-0	PST203	381	0	[#ceviche]	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=926.791|End=927.403	_	_	_	0-8(104)
 382-0	PST203	382	0	[s:ì]?	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=928.77	0x1	_	_	0-2(105)
 382-1	PST203	382	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=929.492	_	_	_	_
 383-0	PST203	383	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=930.058	_	_	_	_
@@ -2490,13 +2490,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 387-11	PST065	387	11	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=940.281	_	_	_	_
 388-0	PST203	388	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=940.708|End=941.058	_	_	_	_
 389-0	PST065	389	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=941.487	_	_	_	_
-389-1	PST065	389	1	#ce~	ce~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+389-1	PST065	389	1	#ce~	ce~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
 389-2	PST065	389	2	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 389-3	PST065	389	3	a~	a~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 389-4	PST065	389	4	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 389-5	PST065	389	5	adoro	adoro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 389-6	PST065	389	6	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-389-7	PST065	389	7	#ceviche	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+389-7	PST065	389	7	#ceviche	ceviche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 389-8	PST065	389	8	infatti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 389-9	PST065	389	9	normalmente	normalmente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 389-10	PST065	389	10	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2560,7 +2560,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 396-0	PST064	396	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=961.627	_	_	_	_
 396-1	PST064	396	1	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 396-2	PST064	396	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=962.669	_	_	_	_
-397-0	PST064	397	0	#*de:::::	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	Begin=963.823	1x5	_	_	_
+397-0	PST064	397	0	#*de:::::	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	Begin=963.823	1x5	_	_	_
 397-1	PST064	397	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 397-2	PST064	397	2	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 397-3	PST064	397	3	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2579,7 +2579,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 398-5	PST064	398	5	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 398-6	PST064	398	6	meno	meno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 398-7	PST064	398	7	difficile	difficile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-398-8	PST064	398	8	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+398-8	PST064	398	8	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 398-9	PST064	398	9	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 398-10	PST064	398	10	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 398-11	PST064	398	11	arrivano	arrivano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2592,10 +2592,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 400-0	PST064	400	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=975.714	_	_	_	_
 400-1	PST064	400	1	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 400-2	PST064	400	2	perù	perù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-400-3	PST064	400	3	#directamente	directamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+400-3	PST064	400	3	#directamente	directamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 400-4	PST064	400	4	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-400-5	PST064	400	5	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
-400-6	PST064	400	6	#españa	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+400-5	PST064	400	5	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
+400-6	PST064	400	6	#españa	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 400-7	PST064	400	7	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 400-8	PST064	400	8	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 400-9	PST064	400	9	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2616,7 +2616,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 400-24	PST064	400	24	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 400-25	PST064	400	25	entriamo	entriamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 400-26	PST064	400	26	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-400-27	PST064	400	27	#españa	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+400-27	PST064	400	27	#españa	españa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 400-28	PST064	400	28	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 400-29	PST064	400	29	più::	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x2	_	_	_
 400-30	PST064	400	30	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2657,9 +2657,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 407-3	PST064	407	3	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 407-4	PST064	407	4	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 407-5	PST064	407	5	congelato	congelato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-407-6	PST064	407	6	#pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+407-6	PST064	407	6	#pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 407-7	PST064	407	7	fresco	fresco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-407-8	PST064	407	8	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+407-8	PST064	407	8	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 407-9	PST064	407	9	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 407-10	PST064	407	10	c~	c~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 407-11	PST064	407	11	trova	trova	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2738,7 +2738,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 414-14	PST064	414	14	varietà	varietà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 414-15	PST064	414	15	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 414-16	PST064	414	16	pa~	pa~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
-414-17	PST064	414	17	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+414-17	PST064	414	17	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 414-18	PST064	414	18	patate	patate	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1024.693	_	_	_	_
 415-0	PST064	415	0	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1024.983	_	_	_	_
 415-1	PST064	415	1	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2746,7 +2746,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 415-3	PST064	415	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 415-4	PST064	415	4	mais	mais	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 415-5	PST064	415	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-415-6	PST064	415	6	(#*de)	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	0-4(0)	_
+415-6	PST064	415	6	(#*de)	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	0-4(0)	_
 415-7	PST064	415	7	[grano	grano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(114)
 415-8	PST064	415	8	turco	turco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(114)
 415-9	PST064	415	9	abbia]mo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	0-5(114)
@@ -2761,7 +2761,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 417-3	PST064	417	3	patate	patate	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 417-4	PST064	417	4	nostra	nostra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 417-5	PST064	417	5	costa	costa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-417-6	PST064	417	6	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+417-6	PST064	417	6	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 417-7	PST064	417	7	dodici	dodici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 417-8	PST064	417	8	euro	euro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 417-9	PST064	417	9	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2770,7 +2770,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 419-0	PST064	419	0	[quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1033.725	_	_	_	0-6(115)
 419-1	PST064	419	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(115)
 419-2	PST064	419	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(115)
-419-3	PST064	419	3	#pa]pa	papa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(115)
+419-3	PST064	419	3	#pa]pa	papa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(115)
 419-4	PST064	419	4	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1035.194	_	_	_	_
 420-0	PST210	420	0	°sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1036.057	_	_	_	_
 420-1	PST210	420	1	x[xxx°]	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=4	End=1037.065	_	_	_	1-4(226)
@@ -2803,7 +2803,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 425-5	PST064	425	5	chilo	chilo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1043.313	_	_	_	_
 426-0	PST064	426	0	pure	pure	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1043.429	_	_	_	_
 426-1	PST064	426	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-426-2	PST064	426	2	#olluco	olluco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+426-2	PST064	426	2	#olluco	olluco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 426-3	PST064	426	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 426-4	PST064	426	4	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 426-5	PST064	426	5	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2822,7 +2822,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 429-2	PST064	429	2	fa:	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x1	_	_	_
 429-3	PST064	429	3	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 429-4	PST064	429	4	l:::'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	0x3	_	_	_
-429-5	PST064	429	5	#olluquito	olluquito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+429-5	PST064	429	5	#olluquito	olluquito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 429-6	PST064	429	6	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 429-7	PST064	429	7	carne	carne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 429-8	PST064	429	8	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2842,7 +2842,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 430-10	PST064	430	10	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 430-11	PST064	430	11	mangiare	mangiare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 430-12	PST064	430	12	un::	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x2	_	_	_
-430-13	PST064	430	13	#manjar	manjar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+430-13	PST064	430	13	#manjar	manjar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 430-14	PST064	430	14	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 430-15	PST064	430	15	[un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(118)
 430-16	PST064	430	16	mangiare	mangiare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-8(118)
@@ -2871,7 +2871,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 434-3	PST064	434	3	preparare	preparare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 434-4	PST064	434	4	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 434-5	PST064	434	5	brodo	brodo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-434-6	PST064	434	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+434-6	PST064	434	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 434-7	PST064	434	7	gallina	gallina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 434-8	PST064	434	8	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 434-9	PST064	434	9	quel	quel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2890,7 +2890,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 436-5	PST064	436	5	speciale	speciale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 436-6	PST064	436	6	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 436-7	PST064	436	7	$espessore	espessore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	_	_	_	_	_
-436-8	PST064	436	8	#y	y	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+436-8	PST064	436	8	#y	y	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 436-9	PST064	436	9	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 436-10	PST064	436	10	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 436-11	PST064	436	11	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2901,8 +2901,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 436-16	PST064	436	16	brodo	brodo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1079.962	_	_	_	_
 437-0	PST064	437	0	(sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1080.585	_	_	0-2(0)	_
 437-1	PST064	437	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	0-2(0)	_
-437-2	PST064	437	2	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	0-4(0)	_
-437-3	PST064	437	3	#bastant~)	bastant~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	End=1081.585	_	_	0-9(0)	_
+437-2	PST064	437	2	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	0-4(0)	_
+437-3	PST064	437	3	#bastant~)	bastant~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	End=1081.585	_	_	0-9(0)	_
 438-0	PST064	438	0	particulare	particulare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1082.187	_	_	_	_
 438-1	PST064	438	1	perché:	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	5x1	_	_	_
 438-2	PST064	438	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2961,7 +2961,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 446-7	PST064	446	7	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-3(0)	0-3(0)	_
 446-8	PST064	446	8	da)	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-2(0)	0-2(0)	_
 446-9	PST064	446	9	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-3(0)	_	_
-446-10	PST064	446	10	#amiga<	amiga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-6(0)	_	_
+446-10	PST064	446	10	#amiga<	amiga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-6(0)	_	_
 446-11	PST064	446	11	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 446-12	PST064	446	12	detto	detto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 446-13	PST064	446	13	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2971,7 +2971,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 446-17	PST064	446	17	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 446-18	PST064	446	18	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 446-19	PST064	446	19	torino	torino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1108.503	_	_	_	_
-447-0	PST064	447	0	#pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1109.575	_	_	_	_
+447-0	PST064	447	0	#pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1109.575	_	_	_	_
 447-1	PST064	447	1	sono:::	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x3	_	_	_
 447-2	PST064	447	2	$estata	estata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	_	_	_	_	_
 447-3	PST064	447	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2981,7 +2981,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 447-7	PST064	447	7	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 447-8	PST064	447	8	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 447-9	PST064	447	9	lavoro	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-447-10	PST064	447	10	#en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+447-10	PST064	447	10	#en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 447-11	PST064	447	11	milano	milano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1113.654	_	_	_	_
 448-0	PST203	448	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1113.986|End=1114.303	_	_	_	_
 449-0	PST064	449	0	e:::::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1115.134	0x5	_	_	_
@@ -2992,7 +2992,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 449-5	PST064	449	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 449-6	PST064	449	6	piaciuto	piaciuto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 449-7	PST064	449	7	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-449-8	PST064	449	8	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+449-8	PST064	449	8	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 449-9	PST064	449	9	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 449-10	PST064	449	10	sembra	sembra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 449-11	PST064	449	11	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3034,7 +3034,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 453-6	PST203	453	6	anche]	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1131.407	_	_	_	0-5(121)
 454-0	PST064	454	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1130.407	_	_	_	0-2(121)
 454-1	PST064	454	1	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(121)
-454-2	PST064	454	2	#co]mo	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(121)
+454-2	PST064	454	2	#co]mo	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(121)
 454-3	PST064	454	3	tran~	tran~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	End=1131.941	_	_	_	_
 455-0	PST064	455	0	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1132.313	_	_	_	_
 455-1	PST064	455	1	tranquillo	tranquillo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3219,7 +3219,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 477-1	PST064	477	1	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x3	_	_	_
 477-2	PST064	477	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 477-3	PST064	477	3	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-477-4	PST064	477	4	#he	he	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+477-4	PST064	477	4	#he	he	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 477-5	PST064	477	5	avuto	avuto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 477-6	PST064	477	6	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 477-7	PST064	477	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3232,7 +3232,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 477-14	PST064	477	14	tredici	tredici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1188.048	_	_	_	_
 478-0	PST064	478	0	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1188.371	_	_	_	_
 478-1	PST064	478	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-478-2	PST064	478	2	#he	he	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+478-2	PST064	478	2	#he	he	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 478-3	PST064	478	3	avuto	avuto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 478-4	PST064	478	4	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 478-5	PST064	478	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3258,7 +3258,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 480-5	PST064	480	5	credo	credo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 480-6	PST064	480	6	con~	con~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 480-7	PST064	480	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-480-8	PST064	480	8	#convenio	convenio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+480-8	PST064	480	8	#convenio	convenio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 480-9	PST064	480	9	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 480-10	PST064	480	10	tutta	tutta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 480-11	PST064	480	11	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3369,15 +3369,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 490-15	PST064	490	15	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 490-16	PST064	490	16	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 490-17	PST064	490	17	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-490-18	PST064	490	18	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+490-18	PST064	490	18	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 490-19	PST064	490	19	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 490-20	PST064	490	20	mio	mio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 490-21	PST064	490	21	paese	paese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1241.918	_	_	_	_
 491-0	PST064	491	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1242.814	_	_	_	_
 491-1	PST064	491	1	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 491-2	PST064	491	2	$esto	esto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	_	_	_	_	_
-491-3	PST064	491	3	#[pendien]te	pendiente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	1-8(?)
-491-4	PST064	491	4	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+491-3	PST064	491	3	#[pendien]te	pendiente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	1-8(?)
+491-4	PST064	491	4	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 491-5	PST064	491	5	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 491-6	PST064	491	6	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 491-7	PST064	491	7	là	là	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3403,7 +3403,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 496-4	PST064	496	4	>un<	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-2(0)	_	_
 496-5	PST064	496	5	momento	momento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 496-6	PST064	496	6	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x1	_	_	_
-496-7	PST064	496	7	#ya:	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	1x1	_	_	_
+496-7	PST064	496	7	#ya:	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	1x1	_	_	_
 496-8	PST064	496	8	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 496-9	PST064	496	9	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 496-10	PST064	496	10	arrivano	arrivano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3439,12 +3439,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 501-2	PST203	501	2	musica	musica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 501-3	PST203	501	3	metti?	metti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1262.16	_	_	_	_
 502-0	PST064	502	0	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1262.52	_	_	_	_
-502-1	PST064	502	1	#cumbia::::	cumbia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	5x4	_	_	_
-502-2	PST064	502	2	#salsa:::	salsa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	4x3	_	_	_
-502-3	PST064	502	3	#chicha::	chicha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	5x2	_	_	_
+502-1	PST064	502	1	#cumbia::::	cumbia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	5x4	_	_	_
+502-2	PST064	502	2	#salsa:::	salsa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	4x3	_	_	_
+502-3	PST064	502	3	#chicha::	chicha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	5x2	_	_	_
 502-4	PST064	502	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 502-5	PST064	502	5	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-502-6	PST064	502	6	#chicha	chicha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+502-6	PST064	502	6	#chicha	chicha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 502-7	PST064	502	7	xxxxxx	xxxxxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=6	_	_	_	_	_
 502-8	PST064	502	8	(capuya)	capuya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1269.328	_	_	0-6(0)	_
 503-0	PST065	503	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1266.662|End=1268.41	_	_	_	_
@@ -3500,7 +3500,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 515-2	PST064	515	2	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(142)
 515-3	PST064	515	3	musica	musica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(142)
 515-4	PST064	515	4	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(142)
-515-5	PST064	515	5	#como::[:]	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1287.27	3x3	_	_	_
+515-5	PST064	515	5	#como::[:]	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1287.27	3x3	_	_	_
 516-0	PST203	516	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1284.846	_	_	_	0-2(142)
 516-1	PST203	516	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(142)
 516-2	PST203	516	2	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(142)
@@ -3533,8 +3533,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 520-16	PST065	520	16	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(147)
 520-17	PST065	520	17	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(147)
 520-18	PST065	520	18	persona	persona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(147)
-520-19	PST065	520	19	#cumbia	cumbia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(147)
-520-20	PST065	520	20	#salsa	salsa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(147)
+520-19	PST065	520	19	#cumbia	cumbia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(147)
+520-20	PST065	520	20	#salsa	salsa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(147)
 520-21	PST065	520	21	però]	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1296.015	_	_	_	0-4(147)
 521-0	PST064	521	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1293.126	_	_	_	0-2(147)
 521-1	PST064	521	1	meglio	meglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(147)
@@ -3656,7 +3656,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 539-1	PST064	539	1	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 539-2	PST064	539	2	deve	deve	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 539-3	PST064	539	3	lavorare	lavorare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-539-4	PST064	539	4	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+539-4	PST064	539	4	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 539-5	PST064	539	5	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 539-6	PST064	539	6	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 539-7	PST064	539	7	giorni	giorni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3689,7 +3689,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 543-1	PST064	543	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 543-2	PST064	543	2	i:o	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	0x1	_	_	_
 543-3	PST064	543	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-543-4	PST064	543	4	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+543-4	PST064	543	4	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 543-5	PST064	543	5	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 543-6	PST064	543	6	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 543-7	PST064	543	7	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3717,7 +3717,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 545-4	PST203	545	4	eri	eri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 545-5	PST203	545	5	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1345.456	_	_	_	_
 546-0	PST064	546	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1346.322	_	_	_	_
-546-1	PST064	546	1	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-1	PST064	546	1	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 546-2	PST064	546	2	lavoro	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 546-3	PST064	546	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 546-4	PST064	546	4	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3762,7 +3762,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 551-1	PST064	551	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 551-2	PST064	551	2	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 551-3	PST064	551	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-551-4	PST064	551	4	#serà	serà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+551-4	PST064	551	4	#serà	serà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 551-5	PST064	551	5	perché::	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	5x2	_	_	_
 551-6	PST064	551	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 551-7	PST064	551	7	oceano	oceano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3822,7 +3822,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 560-5	PST065	560	5	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 560-6	PST065	560	6	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 560-7	PST065	560	7	parte	parte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-560-8	PST065	560	8	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+560-8	PST065	560	8	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 560-9	PST065	560	9	trujillo	trujillo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 560-10	PST065	560	10	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 560-11	PST065	560	11	[quaranta]	quaranta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	0-8(163)
@@ -3974,7 +3974,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 585-5	PST064	585	5	assaggiare:	assaggiare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	9x1	_	_	_
 585-6	PST064	585	6	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 585-7	PST064	585	7	e::::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x4	_	_	_
-585-8	PST064	585	8	(#el:)	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	1x1	_	0-3(0)	_
+585-8	PST064	585	8	(#el:)	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	1x1	_	0-3(0)	_
 585-9	PST064	585	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 585-10	PST064	585	10	nostra	nostra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 585-11	PST064	585	11	gastronomia	gastronomia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1424.457	_	_	_	_
@@ -4006,11 +4006,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 589-5	PST065	589	5	migliori	migliori	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 589-6	PST065	589	6	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1437.627	_	_	_	_
 590-0	PST064	590	0	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1437.627	_	_	_	_
-590-1	PST064	590	1	(#en)	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	0-3(0)	_
+590-1	PST064	590	1	(#en)	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	0-3(0)	_
 590-2	PST064	590	2	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 590-3	PST064	590	3	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-590-4	PST064	590	4	#en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-590-5	PST064	590	5	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+590-4	PST064	590	4	#en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+590-5	PST064	590	5	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 590-6	PST064	590	6	primo:[:	primo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x2	_	_	_
 590-7	PST064	590	7	cinque]	cinque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1440.466	_	_	_	0-6(172)
 591-0	PST065	591	0	[posto]	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1439.82|End=1440.431	_	_	_	0-5(172)
@@ -4022,7 +4022,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 595-1	PST064	595	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 595-2	PST064	595	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 595-3	PST064	595	3	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-595-4	PST064	595	4	#siempre	siempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+595-4	PST064	595	4	#siempre	siempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 595-5	PST064	595	5	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1444.516	_	_	_	_
 596-0	PST064	596	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1445.112	_	_	_	_
 596-1	PST064	596	1	abbiamo:::	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	6x3	_	_	_
@@ -4041,7 +4041,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 596-14	PST064	596	14	proclamazione	proclamazione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 596-15	PST064	596	15	[della	della	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(176)
 596-16	PST064	596	16	nostra	nostra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(176)
-596-17	PST064	596	17	#indepen]dencia	independencia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1452.799	_	_	_	0-8(176)
+596-17	PST064	596	17	#indepen]dencia	independencia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1452.799	_	_	_	0-8(176)
 597-0	PST065	597	0	[la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1448.944	_	_	_	0-2(175)
 597-1	PST065	597	1	festa]	festa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1449.54	_	_	_	0-5(175)
 598-0	PST203	598	0	[dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1451.322	_	_	_	0-4(176)
@@ -4056,9 +4056,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 600-0	PST064	600	0	io:	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1455.053	1x1	_	_	_
 600-1	PST064	600	1	starò	starò	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 600-2	PST064	600	2	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-600-3	PST064	600	3	#*te	te	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+600-3	PST064	600	3	#*te	te	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 600-4	PST064	600	4	do	do	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-600-5	PST064	600	5	#e::n	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	0x2	_	_	_
+600-5	PST064	600	5	#e::n	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	0x2	_	_	_
 600-6	PST064	600	6	via	via	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 600-7	PST064	600	7	petrella	petrella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1458.211	_	_	_	_
 601-0	PST203	601	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1458.324	_	_	_	_
@@ -4068,7 +4068,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 602-2	PST064	602	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 602-3	PST064	602	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 602-4	PST064	602	4	partire	partire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-602-5	PST064	602	5	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+602-5	PST064	602	5	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 602-6	PST064	602	6	mezzogiorno	mezzogiorno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 602-7	PST064	602	7	sabato	sabato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 602-8	PST064	602	8	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4085,7 +4085,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 604-1	PST064	604	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 604-2	PST064	604	2	e::::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	0x4	_	_	_
 604-3	PST064	604	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-604-4	PST064	604	4	#habrá	habrá	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+604-4	PST064	604	4	#habrá	habrá	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 604-5	PST064	604	5	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 604-6	PST064	604	6	gastronomia	gastronomia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 604-7	PST064	604	7	diversa	diversa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4103,17 +4103,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 606-1	PST064	606	1	faremo	faremo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 606-2	PST064	606	2	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 606-3	PST064	606	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-606-4	PST064	606	4	#cajachina	cajachina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+606-4	PST064	606	4	#cajachina	cajachina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 606-5	PST064	606	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 606-6	PST064	606	6	[la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(178)
 606-7	PST064	606	7	famosa]	famosa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(178)
-606-8	PST064	606	8	#cajachina	cajachina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+606-8	PST064	606	8	#cajachina	cajachina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 606-9	PST064	606	9	dobbiamo	dobbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 606-10	PST064	606	10	portare:	portare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	6x1	_	_	_
 606-11	PST064	606	11	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 606-12	PST064	606	12	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-606-13	PST064	606	13	#caja	caja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-606-14	PST064	606	14	[#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(177)
+606-13	PST064	606	13	#caja	caja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+606-14	PST064	606	14	[#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(177)
 606-15	PST064	606	15	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(177)
 606-16	PST064	606	16	può]	può	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1480.052	_	_	_	0-3(177)
 607-0	PST065	607	0	[u:::h]	uh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1475.942|End=1476.531	0x3	_	_	0-2(178)
@@ -4121,7 +4121,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 608-1	PST065	608	1	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(177)
 608-2	PST065	608	2	maia]le?	maiale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1480.299	_	_	_	0-4(177)
 609-0	PST064	609	0	maia[le]	maiale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1480.691|End=1481.127	_	_	_	4-6(179)
-610-0	PST065	610	0	[#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1480.922	_	_	_	0-3(179)
+610-0	PST065	610	0	[#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1480.922	_	_	_	0-3(179)
 610-1	PST065	610	1	ma]iale	maiale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(179)
 610-2	PST065	610	2	[maiale	maiale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(180)
 610-3	PST065	610	3	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(180)
@@ -4148,7 +4148,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 614-1	PST065	614	1	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=1487.969	_	_	_	0-2(181)
 615-0	PST064	615	0	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1488.425	0x3	_	_	_
 615-1	PST064	615	1	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-615-2	PST064	615	2	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+615-2	PST064	615	2	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 615-3	PST064	615	3	carbone	carbone	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 615-4	PST064	615	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 615-5	PST064	615	5	cuoceva	cuoceva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4301,7 +4301,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 641-8	PST064	641	8	posticino	posticino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 641-9	PST064	641	9	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 641-10	PST064	641	10	piccolo	piccolo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-641-11	PST064	641	11	#acogedor	acogedor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+641-11	PST064	641	11	#acogedor	acogedor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 641-12	PST064	641	12	[no]?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=1536.878	_	_	_	0-2(192)
 642-0	PST065	642	0	[a::h]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1536.569	0x2	_	_	0-2(192)
 642-1	PST065	642	1	accogliente	accogliente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4310,10 +4310,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 642-4	PST065	642	4	a]	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(193)
 642-5	PST065	642	5	casa	casa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1538.717	_	_	_	_
 643-0	PST064	643	0	[accogliente]	accogliente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1537.593|End=1538.426	_	_	_	0-11(193)
-644-0	PST064	644	0	[#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1538.941	_	_	_	0-5(194)
+644-0	PST064	644	0	[#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1538.941	_	_	_	0-5(194)
 644-1	PST064	644	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	0-3(194)
 644-2	PST064	644	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(194)
-644-3	PST064	644	3	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(194)
+644-3	PST064	644	3	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(194)
 644-4	PST064	644	4	mangiare]	mangiare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1540.452	_	_	_	0-8(194)
 645-0	PST210	645	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1538.941	_	_	_	0-1(194)
 645-1	PST210	645	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(194)
@@ -4326,12 +4326,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 646-0	PST064	646	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1541.68	_	_	_	_
 646-1	PST064	646	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 646-2	PST064	646	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-646-3	PST064	646	3	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+646-3	PST064	646	3	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 646-4	PST064	646	4	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 646-5	PST064	646	5	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 646-6	PST064	646	6	mangiare	mangiare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 646-7	PST064	646	7	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-646-8	PST064	646	8	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+646-8	PST064	646	8	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 646-9	PST064	646	9	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 646-10	PST064	646	10	casa	casa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1544.593	_	_	_	_
 647-0	PST065	647	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1545.023|End=1545.332	_	_	_	_
@@ -4344,9 +4344,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 648-6	PST064	648	6	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising|PauseAfter=Yes	_	_	_	_	_
 648-7	PST064	648	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 648-8	PST064	648	8	mangiare	mangiare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-648-9	PST064	648	9	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-648-10	PST064	648	10	#si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-648-11	PST064	648	11	#estuviese	estuviese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+648-9	PST064	648	9	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+648-10	PST064	648	10	#si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+648-11	PST064	648	11	#estuviese	estuviese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 648-12	PST064	648	12	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 648-13	PST064	648	13	casa	casa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1548.638	_	_	_	_
 650-0	PST203	650	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1545.804|End=1546.19	_	_	_	0-4(195)
@@ -4355,7 +4355,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 651-2	PST064	651	2	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 651-3	PST064	651	3	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 651-4	PST064	651	4	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-651-5	PST064	651	5	#restaurante	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+651-5	PST064	651	5	#restaurante	restaurante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 651-6	PST064	651	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 651-7	PST064	651	7	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 651-8	PST064	651	8	paga	paga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
@@ -4370,10 +4370,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 653-0	PST064	653	0	[(proprio)	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1554.272	_	_	0-7(0)	0-7(198)
 653-1	PST064	653	1	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(198)
 653-2	PST064	653	2	senti	senti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(198)
-653-3	PST064	653	3	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	0-5(198)
+653-3	PST064	653	3	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	0-5(198)
 653-4	PST064	653	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(198)
-653-5	PST064	653	5	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(198)
-653-6	PST064	653	6	#si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(198)
+653-5	PST064	653	5	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(198)
+653-6	PST064	653	6	#si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(198)
 653-7	PST064	653	7	fossi	fossi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(198)
 653-8	PST064	653	8	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(198)
 653-9	PST064	653	9	casa]	casa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1557.478	_	_	_	0-4(198)
@@ -4474,10 +4474,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 672-3	PST064	672	3	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 672-4	PST064	672	4	sarebbe::	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	6x2	_	_	_
 672-5	PST064	672	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-672-6	PST064	672	6	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-672-7	PST064	672	7	#en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+672-6	PST064	672	6	#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+672-7	PST064	672	7	#en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 672-8	PST064	672	8	quechua	quechua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1584.441	_	_	_	_
-673-0	PST064	673	0	[#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1584.605	_	_	_	0-7(206)
+673-0	PST064	673	0	[#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1584.605	_	_	_	0-7(206)
 673-1	PST064	673	1	ades]so	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(206)
 673-2	PST064	673	2	@nomeluogo	@nomeluogo	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	_
 673-3	PST064	673	3	s~	s~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
@@ -4486,7 +4486,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 673-6	PST064	673	6	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 673-7	PST064	673	7	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 673-8	PST064	673	8	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-673-9	PST064	673	9	#segunda:::	segunda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	6x3	_	_	_
+673-9	PST064	673	9	#segunda:::	segunda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	6x3	_	_	_
 673-10	PST064	673	10	lingua	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 673-11	PST064	673	11	madre	madre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 673-12	PST064	673	12	nostra	nostra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4496,7 +4496,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 675-1	PST065	675	1	quechua]	quechua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1591.475	_	_	_	0-7(207)
 676-0	PST064	676	0	[invece:	invece	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1590.722	5x1	_	_	0-6(207)
 676-1	PST064	676	1	@nomeluogo]	@nomeluogo	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	0-10(207)
-676-2	PST064	676	2	#hay	hay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+676-2	PST064	676	2	#hay	hay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 676-3	PST064	676	3	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 676-4	PST064	676	4	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 676-5	PST064	676	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4504,10 +4504,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 677-0	PST203	677	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1593.233	_	_	_	_
 677-1	PST203	677	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1593.552	_	_	_	_
 678-0	PST064	678	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1593.848	_	_	_	_
-678-1	PST064	678	1	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+678-1	PST064	678	1	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 678-2	PST064	678	2	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 678-3	PST064	678	3	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-678-4	PST064	678	4	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+678-4	PST064	678	4	#ya	ya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 678-5	PST064	678	5	es~	es~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 678-6	PST064	678	6	(e[clissa]to)	eclissato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	0-9(0)	1-7(209)
 678-7	PST064	678	7	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4525,8 +4525,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 680-2	PST065	680	2	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=1599.891	_	_	_	0-2(208)
 681-0	PST203	681	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1600.982	_	_	_	_
 681-1	PST203	681	1	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1601.635	_	_	_	_
-682-0	PST064	682	0	°#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	Begin=1601.703	_	_	_	_
-682-1	PST064	682	1	#si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	_	_	_	_	_
+682-0	PST064	682	0	°#como	como	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	Begin=1601.703	_	_	_	_
+682-1	PST064	682	1	#si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	_	_	_	_	_
 682-2	PST064	682	2	fosse°	fosse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	End=1602.393	_	_	_	_
 683-0	PST203	683	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1602.945	_	_	_	_
 683-1	PST203	683	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4544,14 +4544,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 686-3	PST203	686	3	quechua?	quechua	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1605.893	_	_	_	_
 687-0	PST065	687	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1605.935|End=1606.242	_	_	_	_
 688-0	PST064	688	0	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1606.476|End=1606.967	_	_	_	_
-689-0	PST064	689	0	#_ [mana	mana	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1607.117	_	_	_	0-4(212)
-689-1	PST064	689	1	ma]na	mana	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(212)
-689-2	PST064	689	2	mana	mana	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1608.163	_	_	_	_
+689-0	PST064	689	0	#_ [mana	mana	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1607.117	_	_	_	0-4(212)
+689-1	PST064	689	1	ma]na	mana	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(212)
+689-2	PST064	689	2	mana	mana	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1608.163	_	_	_	_
 690-0	PST203	690	0	[niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1607.117	_	_	_	0-6(212)
 690-1	PST203	690	1	x]	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	End=1607.678	_	_	_	0-1(212)
 691-0	PST065	691	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1608.37|End=1609.465	_	_	_	_
 692-0	PST203	692	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1608.37|End=1609.465	_	_	_	_
-693-0	PST064	693	0	#mana	mana	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1611.135	_	_	_	_
+693-0	PST064	693	0	#mana	mana	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1611.135	_	_	_	_
 693-1	PST064	693	1	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 693-2	PST064	693	2	quindi:	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1612.503	5x1	_	_	_
 694-0	PST203	694	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1612.826	_	_	_	_

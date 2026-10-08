@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST220	0	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.4	0x2	_	_	_
 0-1	PST220	0	1	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST220	0	2	beniss:imo::	benissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3.916	5x1,8x2	_	_	_
@@ -716,7 +716,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 199-2	PST220	199	2	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 199-3	PST220	199	3	arabo:	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x1	_	_	_
 199-4	PST220	199	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-199-5	PST220	199	5	#fuṣḥā?	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=334.347	_	_	_	_
+199-5	PST220	199	5	#fuṣḥā?	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=334.347	_	_	_	_
 200-0	PST121	200	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=334.67	_	_	_	_
 200-1	PST121	200	1	a:	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 200-2	PST121	200	2	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -752,7 +752,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 212-2	PST121	212	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=350.485	_	_	_	_
 213-0	PST121	213	0	brava	brava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=350.561	_	_	_	_
 213-1	PST121	213	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=351.489	_	_	_	_
-214-0	PST220	214	0	#fuṣḥā?	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=351.522|End=352.178	_	_	_	_
+214-0	PST220	214	0	#fuṣḥā?	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=351.522|End=352.178	_	_	_	_
 215-0	PST220	215	0	francese	francese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=352.34	_	_	_	_
 215-1	PST220	215	1	inglese	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 215-2	PST220	215	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1387,7 +1387,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 390-1	PST121	390	1	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x1	_	_	_
 390-2	PST121	390	2	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 390-3	PST121	390	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-390-4	PST121	390	4	#rfissa	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=676.392	_	_	_	_
+390-4	PST121	390	4	#rfissa	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=676.392	_	_	_	_
 391-0	PST121	391	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=676.58	_	_	_	_
 391-1	PST121	391	1	marocco	marocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 391-2	PST121	391	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1479,7 +1479,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 418-2	PST121	418	2	fino	fino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=747.245	_	_	_	_
 419-0	PST121	419	0	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=748.94	_	_	_	_
 419-1	PST121	419	1	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-419-2	PST121	419	2	#msamen	msamen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=750.096	_	_	_	_
+419-2	PST121	419	2	#msamen	msamen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=750.096	_	_	_	_
 420-0	PST121	420	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=751.87	0x2	_	_	_
 420-1	PST121	420	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 420-2	PST121	420	2	taglia	taglia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1551,8 +1551,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 434-2	PST220	434	2	chiama?	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=779.865	_	_	_	_
 435-0	PST121	435	0	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=780.12	_	_	_	_
 435-1	PST121	435	1	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-435-2	PST121	435	2	#rfissa	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=781.127	_	_	_	_
-436-0	PST220	436	0	(#rfissa).	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	Begin=781.16|End=781.649	_	_	0-7(0)	_
+435-2	PST121	435	2	#rfissa	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=781.127	_	_	_	_
+436-0	PST220	436	0	(#rfissa).	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	Begin=781.16|End=781.649	_	_	0-7(0)	_
 437-0	PST121	437	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=781.65	_	_	_	_
 437-1	PST121	437	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=782.238	_	_	_	_
 438-0	PST220	438	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=784.63	_	_	_	_
@@ -1663,7 +1663,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 459-0	PST121	459	0	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=820.91	_	_	_	_
 459-1	PST121	459	1	tagliati	tagliati	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=821.913	_	_	_	_
 460-0	PST121	460	0	e::::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=822.41|End=823.723	0x4	_	_	_
-461-0	PST121	461	0	#*e:::l::	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	Begin=824.12|End=825.016	0x3,1x2	_	_	_
+461-0	PST121	461	0	#*e:::l::	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	Begin=824.12|End=825.016	0x3,1x2	_	_	_
 462-0	PST121	462	0	prezzemolo	prezzemolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=825.62|End=826.321	_	_	_	_
 463-0	PST121	463	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=826.55	_	_	_	_
 463-1	PST121	463	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1711,7 +1711,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 471-0	PST121	471	0	prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=845.37	_	_	_	_
 471-1	PST121	471	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 471-2	PST121	471	2	mette	mette	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-471-3	PST121	471	3	#*el:::	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	End=847.094	1x3	_	_	_
+471-3	PST121	471	3	#*el:::	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	End=847.094	1x3	_	_	_
 472-0	PST121	472	0	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=848.565	_	_	_	_
 472-1	PST121	472	1	carote	carote	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=849.365	_	_	_	_
 473-0	PST121	473	0	poi::	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=850.12	2x2	_	_	_
@@ -1774,7 +1774,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 486-2	PST220	486	2	cous	cous	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 486-3	PST220	486	3	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 486-4	PST220	486	4	s[olo]	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=871.709	_	_	_	1-4(124)
-487-0	PST121	487	0	[#*əl-kuskus]	əl-kuskus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=871.417	_	_	_	0-11(124)
+487-0	PST121	487	0	[#*əl-kuskus]	əl-kuskus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=871.417	_	_	_	0-11(124)
 487-1	PST121	487	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 487-2	PST121	487	2	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 487-3	PST121	487	3	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1981,9 +1981,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 533-7	PST220	533	7	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 533-8	PST220	533	8	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 533-9	PST220	533	9	arabo:	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=978.639	4x1	_	_	_
-534-0	PST220	534	0	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=981.28	_	_	_	_
+534-0	PST220	534	0	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=981.28	_	_	_	_
 534-1	PST220	534	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-534-2	PST220	534	2	#fuṣḥā:	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=982.588	4x1	_	_	_
+534-2	PST220	534	2	#fuṣḥā:	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=982.588	4x1	_	_	_
 535-0	PST220	535	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=982.75	_	_	_	_
 535-1	PST220	535	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 535-2	PST220	535	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=983.344	_	_	_	_
@@ -2300,10 +2300,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 604-7	PST220	604	7	marocco	marocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 604-8	PST220	604	8	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 604-9	PST220	604	9	festeggiare:	festeggiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1127.166	10x1	_	_	_
-605-0	PST220	605	0	#ʕīd	ʕīd	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1127.96	_	_	_	_
+605-0	PST220	605	0	#ʕīd	ʕīd	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1127.96	_	_	_	_
 605-1	PST220	605	1	l-fiṭr	l-fiṭr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1128.75	_	_	_	_
 607-0	PST121	607	0	sì::	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1129.25	1x2	_	_	_
-607-1	PST121	607	1	>#ʕīd	ʕīd	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-4(0)	_	_
+607-1	PST121	607	1	>#ʕīd	ʕīd	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-4(0)	_	_
 607-2	PST121	607	2	al-fiṭr<	al-fiṭr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1130.457	_	Fast=0-7(0)	_	_
 608-0	PST121	608	0	bravo	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1131.242|End=1132.101	_	_	_	_
 609-0	PST121	609	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1132.61|End=1133.109	0x2	_	_	_
@@ -2345,10 +2345,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 621-2	PST121	621	2	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 621-3	PST121	621	3	un:	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1153.917	1x1	_	_	_
 622-0	PST121	622	0	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1154.23	_	_	_	_
-622-1	PST121	622	1	#cake	cake	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+622-1	PST121	622	1	#cake	cake	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 622-2	PST121	622	2	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 622-3	PST121	622	3	fatto:	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1155.48	4x1	_	_	_
-623-0	PST121	623	0	#msemen	msemen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1155.48|End=1156.332	_	_	_	_
+623-0	PST121	623	0	#msemen	msemen	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1155.48|End=1156.332	_	_	_	_
 624-0	PST121	624	0	°ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1156.53	_	_	_	_
 624-1	PST121	624	1	fatto°	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1157.116	_	_	_	_
 625-0	PST121	625	0	°cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1157.2	_	_	_	_
@@ -2358,7 +2358,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 626-0	PST121	626	0	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1158.84	_	_	_	_
 626-1	PST121	626	1	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 626-2	PST121	626	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-626-3	PST121	626	3	#baghrīr	baghrīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1159.854	_	_	_	_
+626-3	PST121	626	3	#baghrīr	baghrīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1159.854	_	_	_	_
 627-0	PST121	627	0	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1160.92	_	_	_	_
 627-1	PST121	627	1	cosa::	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x2	_	_	_
 627-2	PST121	627	2	marocchina	marocchina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1162.553	_	_	_	_
@@ -2758,7 +2758,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 723-0	PST220	723	0	°in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1357.21	_	_	_	_
 723-1	PST220	723	1	f~°	f~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=low	End=1357.804	_	_	_	_
 724-0	PST220	724	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1359.048	_	_	_	_
-724-1	PST220	724	1	#fuṣḥā?	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1359.798	_	_	_	_
+724-1	PST220	724	1	#fuṣḥā?	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1359.798	_	_	_	_
 725-0	PST121	725	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1360.07	_	_	_	_
 725-1	PST121	725	1	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 725-2	PST121	725	2	francese	francese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1361.186	_	_	_	_
@@ -2783,8 +2783,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 730-1	PST220	730	1	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 730-2	PST220	730	2	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 730-3	PST220	730	3	studiato	studiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-730-4	PST220	730	4	#fuṣḥā.	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1370.658	_	_	_	_
-731-0	PST121	731	0	#əl-fuṣḥā	əl-fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1372.09	_	_	_	_
+730-4	PST220	730	4	#fuṣḥā.	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1370.658	_	_	_	_
+731-0	PST121	731	0	#əl-fuṣḥā	əl-fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1372.09	_	_	_	_
 731-1	PST121	731	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 731-2	PST121	731	2	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 731-3	PST121	731	3	studiato	studiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4172,9 +4172,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1018-2	PST121	1018	2	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1018-3	PST121	1018	3	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1018-4	PST121	1018	4	scrivo?	scrivo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1972.004	_	_	_	_
-1019-0	PST220	1019	0	#_ yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1972.004	_	_	_	_
-1019-1	PST220	1019	1	thank	thank	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1019-2	PST220	1019	2	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1972.831	_	_	_	_
+1019-0	PST220	1019	0	#_ yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1972.004	_	_	_	_
+1019-1	PST220	1019	1	thank	thank	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1019-2	PST220	1019	2	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1972.831	_	_	_	_
 1021-0	PST220	1021	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1975.83	_	_	_	_
 1021-1	PST220	1021	1	funziona	funziona	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1021-2	PST220	1021	2	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
@@ -4254,17 +4254,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1038-1	PST220	1038	1	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 1038-2	PST220	1038	2	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 1038-3	PST220	1038	3	magi	magi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1038-4	PST220	1038	4	#rujūla	rujūla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1038-4	PST220	1038	4	#rujūla	rujūla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1038-5	PST220	1038	5	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 1038-6	PST220	1038	6	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 1038-7	PST220	1038	7	[eh:	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x1	_	_	0-2(?)
-1038-8	PST220	1038	8	#māshi	māshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(?)
-1038-9	PST220	1038	9	#māshi	māshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(?)
-1038-10	PST220	1038	10	#rujūla]	rujūla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2045.362	_	_	_	0-7(?)
+1038-8	PST220	1038	8	#māshi	māshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(?)
+1038-9	PST220	1038	9	#māshi	māshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(?)
+1038-10	PST220	1038	10	#rujūla]	rujūla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2045.362	_	_	_	0-7(?)
 1040-0	PST219	1040	0	[ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	Begin=2043.178	_	_	_	0-3(3)
 1040-1	PST219	1040	1	eh::	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x2	_	_	0-2(3)
-1040-2	PST219	1040	2	#māshi	māshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(3)
-1040-3	PST219	1040	3	#rujūla]	rujūla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2045.341	_	_	_	0-7(3)
+1040-2	PST219	1040	2	#māshi	māshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(3)
+1040-3	PST219	1040	3	#rujūla]	rujūla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2045.341	_	_	_	0-7(3)
 1042-0	PST220	1042	0	°forse°	forse	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2045.759|End=2046.43	_	_	_	_
 1043-0	PST219	1043	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2047.331	_	_	_	_
 1043-1	PST219	1043	1	pratica	pratica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4287,7 +4287,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1044-13	PST219	1044	13	di::	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x2	_	_	_
 1044-14	PST219	1044	14	[parlare	parlare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(4)
 1044-15	PST219	1044	15	di]	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2056.944	_	_	_	0-2(4)
-1045-0	PST220	1045	0	[#yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2056.245	_	_	_	0-4(4)
+1045-0	PST220	1045	0	[#yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2056.245	_	_	_	0-4(4)
 1045-1	PST220	1045	1	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(4)
 1045-2	PST220	1045	2	qua]	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2057.01	_	_	_	0-3(4)
 1047-0	PST121	1047	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2057.12	_	_	_	_
@@ -4314,9 +4314,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1049-12	PST219	1049	12	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1049-13	PST219	1049	13	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1049-14	PST219	1049	14	solito:::	solito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2063.809	5x3	_	_	_
-1051-0	PST121	1051	0	#_ āh	āh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2063.809	_	_	_	_
-1051-1	PST121	1051	1	māshi	māshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1051-2	PST121	1051	2	rujūla	rujūla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2065.042	_	_	_	_
+1051-0	PST121	1051	0	#_ āh	āh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2063.809	_	_	_	_
+1051-1	PST121	1051	1	māshi	māshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1051-2	PST121	1051	2	rujūla	rujūla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2065.042	_	_	_	_
 1053-0	PST220	1053	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2065.042	_	_	_	_
 1053-1	PST220	1053	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2065.644	_	_	_	_
 1054-0	PST219	1054	0	forte	forte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2065.782|End=2066.337	_	_	_	_
@@ -4498,7 +4498,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1084-2	PST121	1084	2	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1084-3	PST121	1084	3	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 1084-4	PST121	1084	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1084-5	PST121	1084	5	#*el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+1084-5	PST121	1084	5	#*el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 1084-6	PST121	1084	6	eh::m	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2144.085	1x2	_	_	_
 1085-0	PST121	1085	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2144.645	_	_	_	_
 1085-1	PST121	1085	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4521,7 +4521,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1089-3	PST121	1089	3	anzi	anzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1089-4	PST121	1089	4	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1089-5	PST121	1089	5	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1089-6	PST121	1089	6	#amazigh	amazigh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2152.65	_	_	_	_
+1089-6	PST121	1089	6	#amazigh	amazigh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2152.65	_	_	_	_
 1090-0	PST121	1090	0	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2153.555	_	_	_	_
 1090-1	PST121	1090	1	[altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(20)
 1090-2	PST121	1090	2	dialetto]	dialetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-8(20)
@@ -4530,7 +4530,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1092-0	PST220	1092	0	dei:::	dei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2154.846	2x3	_	_	_
 1092-1	PST220	1092	1	beduini	beduini	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2156.203	_	_	_	_
 1093-0	PST121	1093	0	mh?	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=2156.465|End=2156.794	_	_	_	_
-1094-0	PST220	1094	0	#amazigh	amazigh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2156.794	_	_	_	_
+1094-0	PST220	1094	0	#amazigh	amazigh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2156.794	_	_	_	_
 1094-1	PST220	1094	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1094-2	PST220	1094	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1094-3	PST220	1094	3	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5351,7 +5351,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1222-8	PST121	1222	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1222-9	PST121	1222	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1222-10	PST121	1222	10	<macelleria>	macelleria	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Slow=0-10(0)	_	_
-1222-11	PST121	1222	11	#ḥalāl	ḥalāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2502.109	_	_	_	_
+1222-11	PST121	1222	11	#ḥalāl	ḥalāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2502.109	_	_	_	_
 1223-0	PST220	1223	0	mh:::	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2502.109|End=2502.815	1x3	_	_	_
 1224-0	PST121	1224	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=2502.815	_	_	_	_
 1224-1	PST121	1224	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5365,7 +5365,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1225-2	PST220	1225	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 1225-3	PST220	1225	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1225-4	PST220	1225	4	macelleria	macelleria	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1225-5	PST220	1225	5	#ḥalāl	ḥalāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1225-5	PST220	1225	5	#ḥalāl	ḥalāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1225-6	PST220	1225	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1225-7	PST220	1225	7	torino.	torino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=2506.4055	_	_	_	_
 1226-0	PST121	1226	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2506.4055	_	_	_	_
@@ -5388,24 +5388,24 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1229-1	PST219	1229	1	macellerie]	macellerie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2512.066	_	_	_	0-10(59)
 1230-0	PST121	1230	0	sì::	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2513.207|End=2513.631	1x2	_	_	_
 1231-0	PST219	1231	0	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	Begin=2513.631	_	_	_	_
-1231-1	PST219	1231	1	#majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2514.451	_	_	_	_
+1231-1	PST219	1231	1	#majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2514.451	_	_	_	_
 1233-0	PST121	1233	0	un::	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2514.451	1x2	_	_	_
 1233-1	PST121	1233	1	casino	casino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1233-2	PST121	1233	2	di::	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x2	_	_	_
 1233-3	PST121	1233	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=2516.368	_	_	_	_
 1234-0	PST220	1234	0	eh?	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=2516.368|End=2516.645	_	_	_	_
-1235-0	PST219	1235	0	#_ maj~	maj~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	Begin=2516.645	_	_	_	_
-1235-1	PST219	1235	1	maj[zara]	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2518.091	_	_	_	3-7(61)
-1237-0	PST121	1237	0	#_ [majzara]	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2517.637	_	_	_	0-7(61)
-1237-1	PST121	1237	1	majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2518.885	_	_	_	_
+1235-0	PST219	1235	0	#_ maj~	maj~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	Begin=2516.645	_	_	_	_
+1235-1	PST219	1235	1	maj[zara]	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2518.091	_	_	_	3-7(61)
+1237-0	PST121	1237	0	#_ [majzara]	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2517.637	_	_	_	0-7(61)
+1237-1	PST121	1237	1	majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2518.885	_	_	_	_
 1239-0	PST219	1239	0	le~	le~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	Begin=2518.885	_	_	_	_
 1239-1	PST219	1239	1	leggi	leggi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1239-2	PST219	1239	2	#majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+1239-2	PST219	1239	2	#majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 1239-3	PST219	1239	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 1239-4	PST219	1239	4	<dappertutto>	dappertutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Slow=0-11(0)	_	_
 1239-5	PST219	1239	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=2522.273	_	_	_	_
-1241-0	PST121	1241	0	#_ majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2522.273	_	_	_	_
-1241-1	PST121	1241	1	majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2523.354	_	_	_	_
+1241-0	PST121	1241	0	#_ majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2522.273	_	_	_	_
+1241-1	PST121	1241	1	majzara	majzara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2523.354	_	_	_	_
 1243-0	PST219	1243	0	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2523.77	_	_	_	_
 1243-1	PST219	1243	1	parola	parola	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1243-2	PST219	1243	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -5573,9 +5573,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1269-5	PST220	1269	5	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1269-6	PST220	1269	6	una::	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x2	_	_	_
 1269-7	PST220	1269	7	ta~	ta~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
-1269-8	PST220	1269	8	#ṭayyiba	ṭayyiba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1269-9	PST220	1269	9	°#ṭayyiba	ṭayyiba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	_	_	_	_	_
-1269-10	PST220	1269	10	#ṭayyiba°	ṭayyiba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	End=2605.257	_	_	_	_
+1269-8	PST220	1269	8	#ṭayyiba	ṭayyiba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1269-9	PST220	1269	9	°#ṭayyiba	ṭayyiba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	_	_	_	_	_
+1269-10	PST220	1269	10	#ṭayyiba°	ṭayyiba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	End=2605.257	_	_	_	_
 1271-0	PST219	1271	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2601.653|End=2602.066	_	_	_	0-2(66)
 1272-0	PST219	1272	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2605.956|End=2606.334	_	_	_	_
 1273-0	PST121	1273	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2606.641	_	_	_	_
@@ -5590,7 +5590,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1279-0	PST220	1279	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	Begin=2610.537	_	_	_	_
 1279-1	PST220	1279	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1279-2	PST220	1279	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-1279-3	PST220	1279	3	#imām	imām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1279-3	PST220	1279	3	#imām	imām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1279-4	PST220	1279	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1279-5	PST220	1279	5	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1279-6	PST220	1279	6	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5668,9 +5668,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1296-0	PST219	1296	0	a~	a~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=2651.757	_	_	_	_
 1296-1	PST219	1296	1	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1296-2	PST219	1296	2	aurora:	aurora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2653.086	5x1	_	_	_
-1297-0	PST220	1297	0	#yalla	yalla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2655.0	_	_	_	_
+1297-0	PST220	1297	0	#yalla	yalla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2655.0	_	_	_	_
 1297-1	PST220	1297	1	aurora	aurora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2655.678	_	_	_	_
-1298-0	PST219	1298	0	#yalla	yalla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2655.678	_	_	_	_
+1298-0	PST219	1298	0	#yalla	yalla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2655.678	_	_	_	_
 1298-1	PST219	1298	1	aurora	aurora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2656.446	_	_	_	_
 1299-0	PST219	1299	0	cos'	cos'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=2657.058	_	_	_	_
 1299-1	PST219	1299	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5681,7 +5681,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1300-0	PST220	1300	0	[l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=2657.29	_	_	_	0-2(75)
 1300-1	PST220	1300	1	assiociazione::	assiociazione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	12x2	_	_	0-13(75)
 1300-2	PST220	1300	2	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2658.885	_	_	_	0-2(75)
-1301-0	PST219	1301	0	#yalla	yalla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2659.715	_	_	_	_
+1301-0	PST219	1301	0	#yalla	yalla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2659.715	_	_	_	_
 1301-1	PST219	1301	1	aurora	aurora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2660.6	_	_	_	_
 1302-0	PST121	1302	0	ah.	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=2661.233|End=2661.605	_	_	_	_
 1303-0	PST219	1303	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2665.101	_	_	_	_
@@ -5790,7 +5790,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1321-2	PST220	1321	2	scrive	scrive	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1321-3	PST220	1321	3	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1321-4	PST220	1321	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1321-5	PST220	1321	5	#qaf	qaf	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1321-5	PST220	1321	5	#qaf	qaf	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1321-6	PST220	1321	6	q	q	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1321-7	PST220	1321	7	q?	q	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	_	_	_	_	_
 1321-8	PST220	1321	8	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=2731.3	_	_	_	_
@@ -5806,13 +5806,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1325-1	PST219	1325	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=2739.865	_	_	_	_
 1326-0	PST220	1326	0	senza	senza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2739.865	_	_	_	_
 1326-1	PST220	1326	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1326-2	PST220	1326	2	#wāw	wāw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1326-2	PST220	1326	2	#wāw	wāw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1326-3	PST220	1326	3	[giusto]?	giusto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=2741.29	_	_	_	0-6(84)
 1327-0	PST121	1327	0	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2740.759	_	_	_	0-2(84)
 1327-1	PST121	1327	1	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(84)
 1327-2	PST121	1327	2	senza	senza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1327-3	PST121	1327	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1327-4	PST121	1327	4	#wāw	wāw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2742.168	_	_	_	_
+1327-4	PST121	1327	4	#wāw	wāw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2742.168	_	_	_	_
 1328-0	PST220	1328	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2742.62	_	_	_	_
 1328-1	PST220	1328	1	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1328-2	PST220	1328	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5841,7 +5841,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1330-4	PST220	1330	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1330-5	PST220	1330	5	[solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(85)
 1330-6	PST220	1330	6	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(85)
-1330-7	PST220	1330	7	#ḍam]ma	ḍamma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(85)
+1330-7	PST220	1330	7	#ḍam]ma	ḍamma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(85)
 1330-8	PST220	1330	8	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1330-9	PST220	1330	9	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1330-10	PST220	1330	10	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5850,7 +5850,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1330-13	PST220	1330	13	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1330-14	PST220	1330	14	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1330-15	PST220	1330	15	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1330-16	PST220	1330	16	#wāw	wāw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2759.984	_	_	_	_
+1330-16	PST220	1330	16	#wāw	wāw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2759.984	_	_	_	_
 1331-0	PST121	1331	0	[sì:]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2757.414|End=2757.967	1x1	_	_	0-2(85)
 1332-0	PST220	1332	0	bo::h	boh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=2760.745	1x2	_	_	_
 1332-1	PST220	1332	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5909,7 +5909,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1344-4	PST220	1344	4	università	università	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1344-5	PST220	1344	5	studiamo::	studiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	7x2	_	_	_
 1344-6	PST220	1344	6	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1344-7	PST220	1344	7	#fuṣḥā	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2786.197	_	_	_	_
+1344-7	PST220	1344	7	#fuṣḥā	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2786.197	_	_	_	_
 1345-0	PST220	1345	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2786.672	_	_	_	_
 1345-1	PST220	1345	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1345-2	PST220	1345	2	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2787.78	_	_	_	_
@@ -5920,10 +5920,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1347-3	PST220	1347	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1347-4	PST220	1347	4	corso	corso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1347-5	PST220	1347	5	di::	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x2	_	_	_
-1347-6	PST220	1347	6	#ʕāmmi~	ʕāmmi~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+1347-6	PST220	1347	6	#ʕāmmi~	ʕāmmi~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
 1347-7	PST220	1347	7	eh::	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x2	_	_	_
-1347-8	PST220	1347	8	#ʕāmmiyya	ʕāmmiyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1347-9	PST220	1347	9	#miṣriyya	miṣriyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2794.149	_	_	_	_
+1347-8	PST220	1347	8	#ʕāmmiyya	ʕāmmiyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1347-9	PST220	1347	9	#miṣriyya	miṣriyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2794.149	_	_	_	_
 1349-0	PST219	1349	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2794.595|End=2795.033	_	_	_	_
 1350-0	PST220	1350	0	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2795.033	_	_	_	_
 1350-1	PST220	1350	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5946,10 +5946,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1353-3	PST121	1353	3	avete	avete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1353-4	PST121	1353	4	imparato.	imparato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=2803.235	_	_	_	_
 1354-0	PST219	1354	0	eh::	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2805.351	1x2	_	_	_
-1354-1	PST219	1354	1	#_ ṣabaḥ	ṣabaḥ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1354-2	PST219	1354	2	əl-xīr	əl-xīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2806.805	_	_	_	_
-1356-0	PST219	1356	0	#_ ʕāmil	ʕāmil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2808.984	_	_	_	_
-1356-1	PST219	1356	1	āh?	āh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=2810.093	_	_	_	_
+1354-1	PST219	1354	1	#_ ṣabaḥ	ṣabaḥ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1354-2	PST219	1354	2	əl-xīr	əl-xīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2806.805	_	_	_	_
+1356-0	PST219	1356	0	#_ ʕāmil	ʕāmil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2808.984	_	_	_	_
+1356-1	PST219	1356	1	āh?	āh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=2810.093	_	_	_	_
 1358-0	PST121	1358	0	brava	brava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2810.62|End=2811.728	_	_	_	_
 1359-0	PST219	1359	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2812.843	_	_	_	_
 1359-1	PST219	1359	1	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6084,8 +6084,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1387-2	PST220	1387	2	consigli°	consigli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2874.386	_	_	_	_
 1388-0	PST121	1388	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	Begin=2874.386	_	_	_	_
 1388-1	PST121	1388	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1388-2	PST121	1388	2	#tanger	tanger	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2875.169	_	_	_	_
-1389-0	PST121	1389	0	#ṭanja	ṭanja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2875.794|End=2876.548	_	_	_	_
+1388-2	PST121	1388	2	#tanger	tanger	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2875.169	_	_	_	_
+1389-0	PST121	1389	0	#ṭanja	ṭanja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2875.794|End=2876.548	_	_	_	_
 1390-0	PST220	1390	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2875.794	_	_	_	_
 1390-1	PST220	1390	1	[ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2876.331	_	_	_	0-2(98)
 1391-0	PST220	1391	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2876.548	_	_	_	_
@@ -6095,12 +6095,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1393-0	PST220	1393	0	°tangeri°	tangeri	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2877.769|End=2878.638	_	_	_	_
 1394-0	PST121	1394	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	Begin=2878.992	_	_	_	_
 1394-1	PST121	1394	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1394-2	PST121	1394	2	#marrakesh	marrakesh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2879.85	_	_	_	_
+1394-2	PST121	1394	2	#marrakesh	marrakesh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2879.85	_	_	_	_
 1395-0	PST220	1395	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=2880.0	_	_	_	_
 1395-1	PST220	1395	1	mh,	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2880.529	_	_	_	_
 1396-0	PST121	1396	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	Begin=2881.666	_	_	_	_
 1396-1	PST121	1396	1	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x1	_	_	_
-1396-2	PST121	1396	2	#əṣ-ṣwīra	əṣ-ṣwīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2882.954	_	_	_	_
+1396-2	PST121	1396	2	#əṣ-ṣwīra	əṣ-ṣwīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2882.954	_	_	_	_
 1398-0	PST220	1398	0	mhmh,	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2883.529|End=2883.895	_	_	_	_
 1399-0	PST121	1399	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2884.978	_	_	_	_
 1399-1	PST121	1399	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -6108,7 +6108,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1399-3	PST121	1399	3	piace	piace	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1399-4	PST121	1399	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1399-5	PST121	1399	5	mare	mare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1399-6	PST121	1399	6	#əṣ-ṣwīra	əṣ-ṣwīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2886.864	_	_	_	_
+1399-6	PST121	1399	6	#əṣ-ṣwīra	əṣ-ṣwīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2886.864	_	_	_	_
 1400-0	PST121	1400	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2887.66	_	_	_	_
 1400-1	PST121	1400	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1400-2	PST121	1400	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -6126,9 +6126,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1400-14	PST121	1400	14	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1400-15	PST121	1400	15	quelle	quelle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1400-16	PST121	1400	16	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1400-17	PST121	1400	17	[#əṣ-ṣwīra]	əṣ-ṣwīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2891.777	_	_	_	0-9(99)
+1400-17	PST121	1400	17	[#əṣ-ṣwīra]	əṣ-ṣwīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2891.777	_	_	_	0-9(99)
 1401-0	PST220	1401	0	[ah::],	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2891.058|End=2891.777	1x2	_	_	0-2(99)
-1402-0	PST121	1402	0	#əṣ-ṣwīra	əṣ-ṣwīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2891.99	_	_	_	_
+1402-0	PST121	1402	0	#əṣ-ṣwīra	əṣ-ṣwīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2891.99	_	_	_	_
 1402-1	PST121	1402	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1402-2	PST121	1402	2	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 1402-3	PST121	1402	3	è::	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2893.504	0x2	_	_	_
@@ -6596,13 +6596,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1489-5	PST121	1489	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1489-6	PST121	1489	6	sera	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3071.681	_	_	_	_
 1490-0	PST220	1490	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3071.686	_	_	_	_
-1490-1	PST220	1490	1	#_ je	je	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1490-2	PST220	1490	2	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1490-3	PST220	1490	3	savais	savais	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1490-4	PST220	1490	4	pas	pas	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+1490-1	PST220	1490	1	#_ je	je	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1490-2	PST220	1490	2	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1490-3	PST220	1490	3	savais	savais	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1490-4	PST220	1490	4	pas	pas	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 1490-5	PST220	1490	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-1490-6	PST220	1490	6	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1490-7	PST220	1490	7	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3074.992	_	_	_	_
+1490-6	PST220	1490	6	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1490-7	PST220	1490	7	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3074.992	_	_	_	_
 1492-0	PST121	1492	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3077.29	_	_	_	_
 1492-1	PST121	1492	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1492-2	PST121	1492	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3078.0	_	_	_	_
@@ -6976,5 +6976,5 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1576-4	PST220	1576	4	veramente	veramente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3268.198	_	_	_	_
 1577-0	PST220	1577	0	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3268.632	_	_	_	_
 1577-1	PST220	1577	1	scoprire	scoprire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3269.387	_	_	_	_
-1578-0	PST220	1578	0	#_ va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3275.472	_	_	_	_
-1578-1	PST220	1578	1	bin	bin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3276.353	_	_	_	_
+1578-0	PST220	1578	0	#_ va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3275.472	_	_	_	_
+1578-1	PST220	1578	1	bin	bin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3276.353	_	_	_	_

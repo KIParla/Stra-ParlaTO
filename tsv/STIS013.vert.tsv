@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	okay.	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=0.78|End=1.36	_	_	_	_
 1-0	PST211	1	0	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.1	0x3	_	_	_
 1-1	PST211	1	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4537,7 +4537,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 606-13	PST072	606	13	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 606-14	PST072	606	14	sono::	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x2	_	_	_
 606-15	PST072	606	15	quechua	quechua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-606-16	PST072	606	16	#hab[lanti.	hablanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1525.5	_	_	_	_
+606-16	PST072	606	16	#hab[lanti.	hablanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1525.5	_	_	_	_
 607-0	PST211	607	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1525.13|End=1526.09	_	_	_	0-2(422)
 608-0	PST212	608	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1525.5	_	_	_	0-2(422)
 608-1	PST212	608	1	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1526.35	_	_	_	0-2(422)
@@ -4547,7 +4547,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 610-1	PST072	610	1	anzi]	anzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 610-2	PST072	610	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 610-3	PST072	610	3	quechua	quechua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-610-4	PST072	610	4	#hablanti	hablanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+610-4	PST072	610	4	#hablanti	hablanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 610-5	PST072	610	5	come::	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x2	_	_	_
 610-6	PST072	610	6	prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 610-7	PST072	610	7	lingu[a:	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	5x1	_	_	_
@@ -4604,7 +4604,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 621-8	PST072	621	8	bilingue	bilingue	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 621-9	PST072	621	9	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 621-10	PST072	621	10	quechua	quechua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-621-11	PST072	621	11	[#hablante].	hablante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1544.36	_	_	_	0-9(375)
+621-11	PST072	621	11	[#hablante].	hablante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1544.36	_	_	_	0-9(375)
 622-0	PST212	622	0	[ah].	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1542.44|End=1543.0	_	_	_	0-2(376)
 623-0	PST213	623	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1542.44|End=1543.01	_	_	_	0-4(376)
 624-0	PST211	624	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1543.97|End=1545.1	_	_	_	0-3(375)
@@ -5537,7 +5537,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 764-11	PST211	764	11	di:	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
 764-12	PST211	764	12	@nomeassociazione	@nomeassociazione	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=1868.587	_	_	_	_
 765-0	PST072	765	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1868.587	_	_	_	_
-765-1	PST072	765	1	#mission.	mission	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1869.74	_	_	_	_
+765-1	PST072	765	1	#mission.	mission	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1869.74	_	_	_	_
 766-0	PST211	766	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1869.29|End=1870.78	_	_	_	_
 767-0	PST212	767	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1869.29|End=1870.78	_	_	_	_
 768-0	PST213	768	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1869.29|End=1870.78	_	_	_	_
@@ -5550,7 +5550,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 770-5	PST072	770	5	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 770-6	PST072	770	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 770-7	PST072	770	7	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-770-8	PST072	770	8	#mission	mission	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+770-8	PST072	770	8	#mission	mission	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 770-9	PST072	770	9	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 770-10	PST072	770	10	progetto.	progetto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=1875.38	_	_	_	_
 771-0	PST211	771	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1875.38	_	_	_	_
@@ -5598,7 +5598,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 775-12	PST072	775	12	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 775-13	PST072	775	13	erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 775-14	PST072	775	14	le:	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x1	_	_	_
-775-15	PST072	775	15	#pandillas.	pandillas	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1897.13	_	_	_	_
+775-15	PST072	775	15	#pandillas.	pandillas	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1897.13	_	_	_	_
 776-0	PST072	776	0	[queste	queste	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1897.26	_	_	_	0-6(237)
 776-1	PST072	776	1	ba]nde	bande	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(237)
 776-2	PST072	776	2	sudamerica:ne	sudamericane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	9x1	_	_	_
@@ -5651,7 +5651,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 780-13	PST072	780	13	problematicità	problematicità	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 780-14	PST072	780	14	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 780-15	PST072	780	15	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-780-16	PST072	780	16	#pandillas.	pandillas	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1919.15	_	_	_	_
+780-16	PST072	780	16	#pandillas.	pandillas	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1919.15	_	_	_	_
 781-0	PST072	781	0	però:	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1919.77	3x1	_	_	_
 781-1	PST072	781	1	vedono	vedono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 781-2	PST072	781	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -5818,7 +5818,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 797-11	PST072	797	11	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 797-12	PST072	797	12	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 797-13	PST072	797	13	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-797-14	PST072	797	14	#mission.	mission	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1979.13	_	_	_	_
+797-14	PST072	797	14	#mission.	mission	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=1979.13	_	_	_	_
 798-0	PST072	798	0	provare	provare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1979.13	_	_	_	_
 798-1	PST072	798	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 798-2	PST072	798	2	rispondere	rispondere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	eccoci	eccoci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.918|End=2.544	_	_	_	_
 1-0	PST211	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.849	_	_	_	_
 1-1	PST211	1	1	mi:	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
@@ -2006,8 +2006,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 268-4	PST049	268	4	guarda<	guarda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-6(0)	_	_
 268-5	PST049	268	5	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 268-6	PST049	268	6	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-268-7	PST049	268	7	#frente	frente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-268-8	PST049	268	8	#amplio:	amplio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	5x1	_	_	_
+268-7	PST049	268	7	#frente	frente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+268-8	PST049	268	8	#amplio:	amplio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	5x1	_	_	_
 268-9	PST049	268	9	facciamo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 268-10	PST049	268	10	politica	politica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 268-11	PST049	268	11	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4155,7 +4155,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 519-2	PST049	519	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 519-3	PST049	519	3	accento	accento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 519-4	PST049	519	4	di:	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x1	_	_	_
-519-5	PST049	519	5	#*limeño	limeño	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+519-5	PST049	519	5	#*limeño	limeño	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 519-6	PST049	519	6	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 519-7	PST049	519	7	classe	classe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 519-8	PST049	519	8	media:	media	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x1	_	_	_
@@ -4396,14 +4396,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 553-0	PST211	553	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1628.979	_	_	_	_
 553-1	PST211	553	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 553-2	PST211	553	2	no::	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1629.851	1x2	_	_	_
-554-0	PST049	554	0	#_ tiene	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1635.785	_	_	_	_
-554-1	PST049	554	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-554-2	PST049	554	2	suyo	suyo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1636.64	_	_	_	_
+554-0	PST049	554	0	#_ tiene	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1635.785	_	_	_	_
+554-1	PST049	554	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+554-2	PST049	554	2	suyo	suyo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1636.64	_	_	_	_
 556-0	PST211	556	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=1637.238	_	_	_	_
 556-1	PST211	556	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1637.559	_	_	_	_
-557-0	PST049	557	0	#tiene	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1637.559	_	_	_	_
-557-1	PST049	557	1	#lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-557-2	PST049	557	2	#suyo	suyo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+557-0	PST049	557	0	#tiene	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1637.559	_	_	_	_
+557-1	PST049	557	1	#lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+557-2	PST049	557	2	#suyo	suyo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 557-3	PST049	557	3	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 557-4	PST049	557	4	s~	s~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	End=1638.596	_	_	_	_
 559-0	PST049	559	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1638.876	_	_	_	_
@@ -4463,12 +4463,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 563-4	PST049	563	4	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 563-5	PST049	563	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 563-6	PST049	563	6	n~	n~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
-563-7	PST049	563	7	#*no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-7	PST049	563	7	#*no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 563-8	PST049	563	8	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-563-9	PST049	563	9	#*pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
-563-10	PST049	563	10	#tiene	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-563-11	PST049	563	11	#lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-563-12	PST049	563	12	#suyo	suyo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-9	PST049	563	9	#*pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-10	PST049	563	10	#tiene	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-11	PST049	563	11	#lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-12	PST049	563	12	#suyo	suyo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 563-13	PST049	563	13	tipo:	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1662.474	3x1	_	_	_
 565-0	PST049	565	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=1663.547	_	_	_	_
 565-1	PST049	565	1	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4528,10 +4528,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 573-3	PST049	573	3	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 573-4	PST049	573	4	>tipo<	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	Fast=0-4(0)	_	_
 573-5	PST049	573	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-573-6	PST049	573	6	#me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-573-7	PST049	573	7	#da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-573-8	PST049	573	8	#flojera	flojera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-573-9	PST049	573	9	#*no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	Intonation=Rising	End=1682.163	_	_	_	_
+573-6	PST049	573	6	#me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+573-7	PST049	573	7	#da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+573-8	PST049	573	8	#flojera	flojera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+573-9	PST049	573	9	#*no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	Intonation=Rising	End=1682.163	_	_	_	_
 575-0	PST211	575	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=1682.281	_	_	_	_
 575-1	PST211	575	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1682.602	_	_	_	_
 576-0	PST049	576	0	e:::::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1682.732|End=1683.746	0x5	_	_	_
@@ -4654,14 +4654,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 592-14	PST049	592	14	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 592-15	PST049	592	15	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 592-16	PST049	592	16	$espagnolo	espagnolo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	_	_	_	_	_
-592-17	PST049	592	17	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+592-17	PST049	592	17	#porque	porque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 592-18	PST049	592	18	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 592-19	PST049	592	19	impegno	impegno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-592-20	PST049	592	20	#empeño	empeño	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+592-20	PST049	592	20	#empeño	empeño	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 592-21	PST049	592	21	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	_	_	_	_	_
 592-22	PST049	592	22	impegnativo	impegnativo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 592-23	PST049	592	23	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-592-24	PST049	592	24	#empeñoso	empeñoso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+592-24	PST049	592	24	#empeñoso	empeñoso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 592-25	PST049	592	25	letteralmente	letteralmente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 592-26	PST049	592	26	esiste	esiste	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 592-27	PST049	592	27	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4968,7 +4968,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 629-6	PST049	629	6	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 629-7	PST049	629	7	uso	uso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 629-8	PST049	629	8	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-629-9	PST049	629	9	#palabra	palabra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+629-9	PST049	629	9	#palabra	palabra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 629-10	PST049	629	10	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 629-11	PST049	629	11	parola	parola	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 629-12	PST049	629	12	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4984,7 +4984,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 631-5	PST049	631	5	scena	scena	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 631-6	PST049	631	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 631-7	PST049	631	7	super	super	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-631-8	PST049	631	8	#cringe	cringe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1839.744	_	_	_	_
+631-8	PST049	631	8	#cringe	cringe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1839.744	_	_	_	_
 632-0	PST049	632	0	capito?	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1839.906	_	_	_	_
 632-1	PST049	632	1	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(148)
 632-2	PST049	632	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(148)
@@ -5236,8 +5236,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 661-5	PST049	661	5	spagnolo	spagnolo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 661-6	PST049	661	6	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 661-7	PST049	661	7	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-661-8	PST049	661	8	#*dirte	dirte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
-661-9	PST049	661	9	#PERO	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=high	_	_	_	_	_
+661-8	PST049	661	8	#*dirte	dirte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
+661-9	PST049	661	9	#PERO	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	_	_	_	_	_
 661-10	PST049	661	10	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 661-11	PST049	661	11	dic~	dic~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 661-12	PST049	661	12	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5625,7 +5625,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 712-1	PST049	712	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
 712-2	PST049	712	2	esce	esce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
 712-3	PST049	712	3	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
-712-4	PST049	712	4	#esp~°	esp~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes|Volume=low	_	_	_	_	_
+712-4	PST049	712	4	#esp~°	esp~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes|Volume=low	_	_	_	_	_
 712-5	PST049	712	5	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 712-6	PST049	712	6	dipende	dipende	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 712-7	PST049	712	7	da::	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	1x2	_	_	_
@@ -5750,7 +5750,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 736-3	PST049	736	3	difficile	difficile	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2092.481	_	_	_	_
 737-0	PST049	737	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2093.308	_	_	_	_
 737-1	PST049	737	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-737-2	PST049	737	2	#*me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+737-2	PST049	737	2	#*me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 737-3	PST049	737	3	scappasse	scappasse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 737-4	PST049	737	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 737-5	PST049	737	5	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -6155,7 +6155,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 790-19	PST049	790	19	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 790-20	PST049	790	20	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 790-21	PST049	790	21	libro	libro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-790-22	PST049	790	22	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+790-22	PST049	790	22	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 790-23	PST049	790	23	autore	autore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 790-24	PST049	790	24	tedesco	tedesco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 790-25	PST049	790	25	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

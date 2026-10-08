@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST205	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.99|End=2.3	_	_	_	_
 1-0	PST205	1	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.1	_	_	_	_
 1-1	PST205	1	1	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2324,9 +2324,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 255-5	PST013	255	5	canali	canali	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 255-6	PST013	255	6	satellitari	satellitari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 255-7	PST013	255	7	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-255-8	PST013	255	8	#al-jazīra,	al-jazīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
+255-8	PST013	255	8	#al-jazīra,	al-jazīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
 255-9	PST013	255	9	tipo:	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x1	_	_	_
-255-10	PST013	255	10	#france	france	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+255-10	PST013	255	10	#france	france	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 255-11	PST013	255	11	ventiquattro	ventiquattro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	ProsodicLink=Yes	_	_	_	_	_
 255-12	PST013	255	12	ore,	ore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=1356.723	_	_	_	_
 256-0	PST013	256	0	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1357.0|End=1357.709	0x1	_	_	_
@@ -2379,7 +2379,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 261-2	PST013	261	2	subito	subito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 261-3	PST013	261	3	sul	sul	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 261-4	PST013	261	4	canale	canale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-261-5	PST013	261	5	#al-jazīra	al-jazīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+261-5	PST013	261	5	#al-jazīra	al-jazīra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 261-6	PST013	261	6	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 261-7	PST013	261	7	inglese	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 261-8	PST013	261	8	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2709,7 +2709,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 296-6	PST013	296	6	fai	fai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 296-7	PST013	296	7	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 296-8	PST013	296	8	bel	bel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-296-9	PST013	296	9	#ṭājin,	ṭājin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=1577.868	_	_	_	_
+296-9	PST013	296	9	#ṭājin,	ṭājin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=1577.868	_	_	_	_
 297-0	PST013	297	0	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1578.51	_	_	_	_
 297-1	PST013	297	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 297-2	PST013	297	2	pollo,	pollo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
@@ -2722,7 +2722,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 299-3	PST013	299	3	oppure	oppure	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 299-4	PST013	299	4	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 299-5	PST013	299	5	bel	bel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-299-6	PST013	299	6	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+299-6	PST013	299	6	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 299-7	PST013	299	7	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 299-8	PST013	299	8	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 299-9	PST013	299	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

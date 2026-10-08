@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	perfetto	perfetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.4	_	_	_	_
 0-1	PST211	0	1	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST211	0	2	@elisabetta	@elisabetta	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=2.988	_	_	_	_
@@ -1210,7 +1210,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 178-2	PST059	178	2	altra	altra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 178-3	PST059	178	3	faceva	faceva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 178-4	PST059	178	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-178-5	PST059	178	5	#translator	translator	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=444.81	_	_	_	_
+178-5	PST059	178	5	#translator	translator	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=444.81	_	_	_	_
 179-0	PST059	179	0	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=444.81	_	_	_	_
 179-1	PST059	179	1	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 179-2	PST059	179	2	spiegava	spiegava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

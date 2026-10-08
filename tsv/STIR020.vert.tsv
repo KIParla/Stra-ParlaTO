@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST213	0	0	o:k	ok	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.377|End=1.008	0x1	_	_	_
 1-0	PST213	1	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.25	0x1	_	_	_
 1-1	PST213	1	1	ciao.	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=4.32	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST009	0	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.39	0x2	_	_	_
 0-1	PST009	0	1	diplomi	diplomi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST009	0	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7336,7 +7336,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 931-14	PST054	931	14	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 931-15	PST054	931	15	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 931-16	PST054	931	16	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2741.488	_	_	_	_
-932-0	PST009	932	0	°#street	street	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	Begin=2742.974	_	_	_	_
+932-0	PST009	932	0	°#street	street	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	Begin=2742.974	_	_	_	_
 932-1	PST009	932	1	football	football	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
 932-2	PST009	932	2	°		_	_	_	_	_	error	_	ContainsVariation=Yes	_	_	_	_	_	_
 932-3	PST009	932	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=2744.409	_	_	_	_

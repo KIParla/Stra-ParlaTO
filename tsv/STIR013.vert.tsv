@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST213	0	0	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.14	_	_	_	_
 0-1	PST213	0	1	vedi.	vedi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=0.56	_	_	_	_
 1-0	PST039	1	0	ben	ben	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.967	_	_	_	_
@@ -3036,7 +3036,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 580-13	PST039	580	13	perciò	perciò	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 580-14	PST039	580	14	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 580-15	PST039	580	15	dovuto	dovuto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-580-16	PST039	580	16	#conștient~	conștient~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+580-16	PST039	580	16	#conștient~	conștient~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
 580-17	PST039	580	17	ehm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 580-18	PST039	580	18	insomma,	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=1097.7	_	_	_	_
 582-0	PST213	582	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1095.105|End=1095.727	_	_	_	_
@@ -3066,7 +3066,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 587-0	PST039	587	0	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1105.816	_	_	_	_
 587-1	PST039	587	1	proprio::	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	6x2	_	_	_
 587-2	PST039	587	2	[(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(178)
-587-3	PST039	587	3	#swi]tch	switch	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1108.113	_	_	_	0-4(178)
+587-3	PST039	587	3	#swi]tch	switch	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1108.113	_	_	_	0-4(178)
 589-0	PST212	589	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	Begin=1107.211	_	_	_	0-2(178)
 589-1	PST212	589	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	0-2(178)
 589-2	PST212	589	2	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1107.827	_	_	_	0-2(178)

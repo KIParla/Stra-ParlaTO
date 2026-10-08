@@ -1,6 +1,6 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST092	0	0	ehm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=0.98	_	_	_	_
-0-1	PST092	0	1	#doamna	doamna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+0-1	PST092	0	1	#doamna	doamna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 0-2	PST092	0	2	elisabeta	elisabeta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 0-3	PST092	0	3	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 0-4	PST092	0	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -210,7 +210,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 32-3	PST094	32	3	volontariato	volontariato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=99.98	_	_	_	_
 33-0	PST092	33	0	pe:r	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=101.047	1x1	_	_	_
 33-1	PST092	33	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-33-2	PST092	33	2	#centru,	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=102.202	_	_	_	_
+33-2	PST092	33	2	#centru,	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=102.202	_	_	_	_
 35-0	PST092	35	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=102.202	_	_	_	_
 35-1	PST092	35	1	com'	com'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 35-2	PST092	35	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -758,12 +758,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 112-9	PST092	112	9	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 112-10	PST092	112	10	spesso	spesso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 112-11	PST092	112	11	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-112-12	PST092	112	12	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+112-12	PST092	112	12	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 112-13	PST092	112	13	quanto	quanto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 112-14	PST092	112	14	tempo	tempo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 112-15	PST092	112	15	dedica	dedica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 112-16	PST092	112	16	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-112-17	PST092	112	17	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+112-17	PST092	112	17	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 112-18	PST092	112	18	sia	sia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 112-19	PST092	112	19	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 112-20	PST092	112	20	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1643,7 +1643,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 250-3	PST094	250	3	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 250-4	PST094	250	4	fatta:	fatta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x1	_	_	_
 250-5	PST094	250	5	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-250-6	PST094	250	6	#piesă	piesă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+250-6	PST094	250	6	#piesă	piesă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 250-7	PST094	250	7	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 250-8	PST094	250	8	teatro	teatro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 250-9	PST094	250	9	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2039,11 +2039,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 314-3	PST094	314	3	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 314-4	PST094	314	4	canzone	canzone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 314-5	PST094	314	5	diceva::	diceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=919.286	5x2	_	_	_
-315-0	PST094	315	0	#_ m-a	m-a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=920.51	_	_	_	_
-315-1	PST094	315	1	lăsat	lăsat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-315-2	PST094	315	2	să	să	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-315-3	PST094	315	3	culeg	culeg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-315-4	PST094	315	4	bureți	bureți	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=922.857	_	_	_	_
+315-0	PST094	315	0	#_ m-a	m-a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=920.51	_	_	_	_
+315-1	PST094	315	1	lăsat	lăsat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+315-2	PST094	315	2	să	să	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+315-3	PST094	315	3	culeg	culeg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+315-4	PST094	315	4	bureți	bureți	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=922.857	_	_	_	_
 317-0	PST094	317	0	>cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=923.008	_	Fast=0-4(0)	_	_
 317-1	PST094	317	1	vuole<	vuole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 317-2	PST094	317	2	<mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-2(0)	_	_
@@ -2143,10 +2143,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 332-7	PST094	332	7	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 332-8	PST094	332	8	parlano:::	parlano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=964.767	6x3	_	_	_
 333-0	PST094	333	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=965.32|End=965.96	0x1	_	_	_
-334-0	PST094	334	0	#amu	amu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=966.22|End=966.885	_	_	_	_
-336-0	PST094	336	0	#_ am~	am~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	Begin=966.974	_	_	_	_
-336-1	PST094	336	1	amu	amu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-336-2	PST094	336	2	acasucă	acasucă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+334-0	PST094	334	0	#amu	amu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=966.22|End=966.885	_	_	_	_
+336-0	PST094	336	0	#_ am~	am~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	Begin=966.974	_	_	_	_
+336-1	PST094	336	1	amu	amu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+336-2	PST094	336	2	acasucă	acasucă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 336-3	PST094	336	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=969.409	_	_	_	_
 338-0	PST094	338	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=970.167|End=971.898	_	_	_	_
 339-0	PST094	339	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=972.13	_	_	_	_
@@ -2400,9 +2400,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 381-1	PST094	381	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 381-2	PST094	381	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 381-3	PST094	381	3	quel::	quel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x2	_	_	_
-381-4	PST094	381	4	#stil	stil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+381-4	PST094	381	4	#stil	stil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 381-5	PST094	381	5	di:	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x1	_	_	_
-381-6	PST094	381	6	#manele	manele	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+381-6	PST094	381	6	#manele	manele	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 381-7	PST094	381	7	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 381-8	PST094	381	8	((sbuffa))	((sbuffa))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1076.001	_	_	_	_
 383-0	PST094	383	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1076.325	_	_	_	_
@@ -2413,7 +2413,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 383-5	PST094	383	5	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 383-6	PST094	383	6	quel	quel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 383-7	PST094	383	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-383-8	PST094	383	8	#stil	stil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1079.48	_	_	_	_
+383-8	PST094	383	8	#stil	stil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1079.48	_	_	_	_
 385-0	PST094	385	0	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1079.909	_	_	_	_
 385-1	PST094	385	1	me::	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1081.517	1x2	_	_	_
 386-0	PST094	386	0	dovrei	dovrei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1081.64	_	_	_	_
@@ -2691,7 +2691,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 436-0	PST092	436	0	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1209.55	_	_	_	_
 436-1	PST092	436	1	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 436-2	PST092	436	2	gruppo	gruppo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-436-3	PST092	436	3	#avansați	avansați	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1211.33	_	_	_	_
+436-3	PST092	436	3	#avansați	avansați	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1211.33	_	_	_	_
 438-0	PST092	438	0	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1211.33	0x1	_	_	_
 438-1	PST092	438	1	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	2x1	_	_	_
 438-2	PST092	438	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2943,7 +2943,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 471-0	PST094	471	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1313.66	_	_	_	_
 471-1	PST094	471	1	gruppo	gruppo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 471-2	PST094	471	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-471-3	PST094	471	3	#ansamblu	ansamblu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1315.39	_	_	_	_
+471-3	PST094	471	3	#ansamblu	ansamblu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1315.39	_	_	_	_
 473-0	PST094	473	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1315.82	_	_	_	_
 473-1	PST094	473	1	me::::	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1317.813	1x4	_	_	_
 474-0	PST094	474	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1317.97	_	_	_	_
@@ -3003,7 +3003,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 481-5	PST092	481	5	intende	intende	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 481-6	PST092	481	6	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 481-7	PST092	481	7	gruppo	gruppo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-481-8	PST092	481	8	#ansamblu	ansamblu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+481-8	PST092	481	8	#ansamblu	ansamblu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 481-9	PST092	481	9	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 481-10	PST092	481	10	sé	sé	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 481-11	PST092	481	11	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3352,13 +3352,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 532-6	PST094	532	6	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 532-7	PST094	532	7	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x2	_	_	_
 532-8	PST094	532	8	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-532-9	PST094	532	9	#coreograf	coreograf	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+532-9	PST094	532	9	#coreograf	coreograf	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 532-10	PST094	532	10	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 532-11	PST094	532	11	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 532-12	PST094	532	12	studi	studi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 532-13	PST094	532	13	in:	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1498.871	1x1	_	_	_
 534-0	PST094	534	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1498.871	0x2	_	_	_
-534-1	PST094	534	1	#domeniul	domeniul	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1500.39	_	_	_	_
+534-1	PST094	534	1	#domeniul	domeniul	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1500.39	_	_	_	_
 536-0	PST094	536	0	ha::	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1500.865	1x2	_	_	_
 536-1	PST094	536	1	cinque	cinque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 536-2	PST094	536	2	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3492,7 +3492,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 554-1	PST094	554	1	m~	m~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 554-2	PST094	554	2	maturarli	maturarli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1560.33	_	_	_	_
 555-0	PST092	555	0	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1561.09	_	_	_	_
-555-1	PST092	555	1	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+555-1	PST092	555	1	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 555-2	PST092	555	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 555-3	PST092	555	3	cos'	cos'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 555-4	PST092	555	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3609,9 +3609,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 570-1	PST094	570	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 570-2	PST094	570	2	gonne	gonne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1610.74	_	_	_	_
 571-0	PST094	571	0	a[l::]	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1610.93|End=1612.22	1x2	_	_	1-2(12)
-572-0	PST092	572	0	[#catrință]	catrință	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1611.25|End=1612.2	_	_	_	0-9(12)
+572-0	PST092	572	0	[#catrință]	catrință	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1611.25|End=1612.2	_	_	_	0-9(12)
 573-0	PST094	573	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1612.47	_	_	_	_
-573-1	PST094	573	1	#catrință	catrință	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1613.58	_	_	_	_
+573-1	PST094	573	1	#catrință	catrință	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1613.58	_	_	_	_
 574-0	PST094	574	0	al:::	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1613.58	1x3	_	_	_
 574-1	PST094	574	1	m::h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1615.2	0x2	_	_	_
 575-0	PST094	575	0	telaio	telaio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1615.28|End=1616.03	_	_	_	_
@@ -3649,8 +3649,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 582-2	PST094	582	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 582-3	PST094	582	3	esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1630.23	_	_	_	_
 583-0	PST092	583	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1631.03	_	_	_	_
-583-1	PST092	583	1	#pentru	pentru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-583-2	PST092	583	2	#costume	costume	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+583-1	PST092	583	1	#pentru	pentru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+583-2	PST092	583	2	#costume	costume	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 583-3	PST092	583	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 583-4	PST092	583	4	come::	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1633.68	3x2	_	_	_
 585-0	PST092	585	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1633.93	_	_	_	_
@@ -3665,8 +3665,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 586-6	PST092	586	6	zone	zone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1638.0	_	_	_	_
 587-0	PST094	587	0	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	Begin=1638.0	_	_	_	_
 587-1	PST094	587	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-587-2	PST094	587	2	#pentru	pentru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-587-3	PST094	587	3	#costume	costume	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1639.554	_	_	_	_
+587-2	PST094	587	2	#pentru	pentru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+587-3	PST094	587	3	#costume	costume	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1639.554	_	_	_	_
 589-0	PST092	589	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1639.554|End=1640.124	_	_	_	_
 590-0	PST094	590	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1639.554|End=1640.124	_	_	_	_
 591-0	PST092	591	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1640.124|End=1643.229	_	_	_	_
@@ -3762,7 +3762,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 613-0	PST094	613	0	okay?	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1694.9|End=1695.65	_	_	_	_
 614-0	PST092	614	0	per::	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1696.48	2x2	_	_	_
 614-1	PST092	614	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-614-2	PST092	614	2	#centru::	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1698.51	5x2	_	_	_
+614-2	PST092	614	2	#centru::	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1698.51	5x2	_	_	_
 616-0	PST092	616	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1699.26	_	_	_	_
 616-1	PST092	616	1	com'	com'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 616-2	PST092	616	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3903,14 +3903,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 639-1	PST094	639	1	la::	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x2	_	_	_
 639-2	PST094	639	2	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 639-3	PST094	639	3	pf::	pf	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1771.16	1x2	_	_	_
-640-0	PST092	640	0	(#vio[ara)]	vioara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1771.16|End=1771.55	_	_	0-7(0)	4-7(0)
+640-0	PST092	640	0	(#vio[ara)]	vioara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1771.16|End=1771.55	_	_	0-7(0)	4-7(0)
 642-0	PST094	642	0	[vi]o~	vio~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=1771.39	_	_	_	0-2(0)
 642-1	PST094	642	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 642-2	PST094	642	2	vio~	vio~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 642-3	PST094	642	3	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 642-4	PST094	642	4	violino:	violino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1774.018	6x1	_	_	_
 643-0	PST094	643	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1774.39	0x2	_	_	_
-643-1	PST094	643	1	#cobza:	cobza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1776.0	4x1	_	_	_
+643-1	PST094	643	1	#cobza:	cobza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1776.0	4x1	_	_	_
 644-0	PST094	644	0	e::hm::	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1776.54|End=1778.32	0x2,2x2	_	_	_
 645-0	PST094	645	0	chitarra:	chitarra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1778.384|End=1779.401	7x1	_	_	_
 646-0	PST094	646	0	m::h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1779.493	0x2	_	_	_
@@ -4148,7 +4148,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 695-2	PST092	695	2	stanza	stanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 695-3	PST092	695	3	preferita	preferita	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1907.328	_	_	_	_
 696-0	PST092	696	0	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1908.26	_	_	_	_
-696-1	PST092	696	1	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1909.386	_	_	_	_
+696-1	PST092	696	1	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1909.386	_	_	_	_
 698-0	PST092	698	0	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1909.52	_	_	_	_
 698-1	PST092	698	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 698-2	PST092	698	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4171,7 +4171,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 699-11	PST092	699	11	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 699-12	PST092	699	12	stanza::	stanza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	5x2	_	_	_
 699-13	PST092	699	13	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-699-14	PST092	699	14	#bunici	bunici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+699-14	PST092	699	14	#bunici	bunici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 699-15	PST092	699	15	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 699-16	PST092	699	16	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 699-17	PST092	699	17	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4631,7 +4631,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 770-1	PST092	770	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 770-2	PST092	770	2	qualcun(o)	qualcuno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	7-8(0)	_
 770-3	PST092	770	3	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-770-4	PST092	770	4	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2112.02	_	_	_	_
+770-4	PST092	770	4	#centru	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2112.02	_	_	_	_
 772-0	PST092	772	0	dovesse	dovesse	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=2112.02	_	_	_	_
 772-1	PST092	772	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 772-2	PST092	772	2	ritornare	ritornare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

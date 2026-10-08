@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST114	0	0	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.34	_	_	_	_
 0-1	PST114	0	1	pensa	pensa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST114	0	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -967,13 +967,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 181-2	PST113	181	2	con]	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(49)
 181-3	PST113	181	3	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 181-4	PST113	181	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-181-5	PST113	181	5	#to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-181-6	PST113	181	6	#dream	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=297.244	_	_	_	_
+181-5	PST113	181	5	#to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+181-6	PST113	181	6	#dream	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=297.244	_	_	_	_
 182-0	PST113	182	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=297.256	_	_	_	_
 182-1	PST113	182	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 182-2	PST113	182	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 182-3	PST113	182	3	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-182-4	PST113	182	4	#dream	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+182-4	PST113	182	4	#dream	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 182-5	PST113	182	5	tra	tra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 182-6	PST113	182	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 182-7	PST113	182	7	altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=298.642	_	_	_	_
@@ -1020,8 +1020,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 188-5	PST112	188	5	((fa_finta_di_parlare_veloce))	((fa_finta_di_parlare_veloce))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=309.307	_	_	_	_
 189-0	PST112	189	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=309.557	_	_	_	_
 189-1	PST112	189	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
-189-2	PST112	189	2	>#to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-3(0)	_	_
-189-3	PST112	189	3	#dream<	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-6(0)	_	_
+189-2	PST112	189	2	>#to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-3(0)	_	_
+189-3	PST112	189	3	#dream<	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-6(0)	_	_
 189-4	PST112	189	4	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 189-5	PST112	189	5	come::	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	3x2	_	_	_
 189-6	PST112	189	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1212,7 +1212,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 226-3	PST113	226	3	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 226-4	PST113	226	4	viene::	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x2	_	_	_
 226-5	PST113	226	5	@andre	@andre	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	_
-226-6	PST113	226	6	#and	and	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+226-6	PST113	226	6	#and	and	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 226-7	PST113	226	7	co	co	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 226-8	PST113	226	8	magari:	magari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	5x1	_	_	_
 226-9	PST113	226	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1226,7 +1226,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 229-0	PST115	229	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=374.022|End=374.704	_	_	_	_
 230-0	PST113	230	0	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=375.375	_	_	_	_
 230-1	PST113	230	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-230-2	PST113	230	2	#uramaki	uramaki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+230-2	PST113	230	2	#uramaki	uramaki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 230-3	PST113	230	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 230-4	PST113	230	4	tieni	tieni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=376.67	_	_	_	_
 231-0	PST113	231	0	@giorgia	@giorgia	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=376.846|End=377.136	_	_	_	_
@@ -1364,7 +1364,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 262-3	PST115	262	3	[io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(67)
 262-4	PST115	262	4	vorrei	vorrei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(67)
 262-5	PST115	262	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(67)
-262-6	PST115	262	6	#sashi~	sashi~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	0-7(67)
+262-6	PST115	262	6	#sashi~	sashi~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	0-7(67)
 262-7	PST115	262	7	questi	questi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(67)
 262-8	PST115	262	8	qua],	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=425.386	_	_	_	0-3(67)
 263-0	PST114	263	0	[sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=424.022	_	_	_	0-3(67)
@@ -1411,7 +1411,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 268-0	PST115	268	0	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=434.005	_	_	_	_
 268-1	PST115	268	1	[ordini	ordini	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(69)
 268-2	PST115	268	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(69)
-268-3	PST115	268	3	#ni]giri	nigiri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(69)
+268-3	PST115	268	3	#ni]giri	nigiri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(69)
 268-4	PST115	268	4	quelli:	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	5x1	_	_	_
 268-5	PST115	268	5	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 268-6	PST115	268	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1420,7 +1420,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 268-9	PST115	268	9	sopra	sopra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 268-10	PST115	268	10	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 268-11	PST115	268	11	salsa	salsa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-268-12	PST115	268	12	#teriyaki	teriyaki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=437.386	_	_	_	_
+268-12	PST115	268	12	#teriyaki	teriyaki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=437.386	_	_	_	_
 269-0	PST112	269	0	[brasati]	brasati	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=434.178|End=434.792	_	_	_	0-7(69)
 270-0	PST112	270	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=441.352	_	_	_	_
 270-1	PST112	270	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2183,9 +2183,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 397-11	PST112	397	11	salmone,	salmone	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=641.864	_	_	_	_
 398-0	PST112	398	0	un::	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	ProsodicLink=Yes	Begin=641.977	1x2	_	_	_
 398-1	PST112	398	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-398-2	PST112	398	2	#roll	roll	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-398-3	PST112	398	3	#ura	ura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-398-4	PST112	398	4	#spicy	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+398-2	PST112	398	2	#roll	roll	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+398-3	PST112	398	3	#ura	ura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+398-4	PST112	398	4	#spicy	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 398-5	PST112	398	5	tonno,	tonno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=644.693	_	_	_	_
 399-0	PST115	399	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=645.272	_	_	_	_
 399-1	PST115	399	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=645.727	_	_	_	_
@@ -2201,10 +2201,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 402-4	PST115	402	4	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 402-5	PST115	402	5	me?	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=647.704	_	_	_	_
 403-0	PST112	403	0	sì.	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=648.125|End=648.426	_	_	_	_
-404-0	PST112	404	0	#ura	ura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=648.863	_	_	_	_
+404-0	PST112	404	0	#ura	ura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=648.863	_	_	_	_
 404-1	PST112	404	1	philadelphia	philadelphia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-404-2	PST112	404	2	#black	black	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-404-3	PST112	404	3	#tie	tie	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+404-2	PST112	404	2	#black	black	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+404-3	PST112	404	3	#tie	tie	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 404-4	PST112	404	4	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=650.715	_	_	_	_
 405-0	PST112	405	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=652.272	_	_	_	_
 405-1	PST112	405	1	volete	volete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4489,7 +4489,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 837-4	PST115	837	4	anche:::	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	4x3	_	_	_
 837-5	PST115	837	5	m::h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1351.22	0x2	_	_	_
 838-0	PST115	838	0	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1351.49	_	_	_	_
-838-1	PST115	838	1	#vanity	vanity	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+838-1	PST115	838	1	#vanity	vanity	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 838-2	PST115	838	2	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 838-3	PST115	838	3	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 838-4	PST115	838	4	truccarmi,	truccarmi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=1353.39	_	_	_	_
@@ -4500,7 +4500,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 840-0	PST112	840	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1355.79	_	_	_	_
 840-1	PST112	840	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 840-2	PST112	840	2	sapevo	sapevo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-840-3	PST112	840	3	#vanity	vanity	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+840-3	PST112	840	3	#vanity	vanity	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 840-4	PST112	840	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 840-5	PST112	840	5	chiamano?	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=1357.0	_	_	_	_
 841-0	PST115	841	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1357.78	_	_	_	_
@@ -4686,7 +4686,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 880-1	PST113	880	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 880-2	PST113	880	2	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 880-3	PST113	880	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-880-4	PST113	880	4	#uramaki	uramaki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+880-4	PST113	880	4	#uramaki	uramaki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 880-5	PST113	880	5	(miss)	miss	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1450.66	_	_	0-4(0)	_
 881-0	PST115	881	0	(vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1450.778	_	_	0-5(0)	_
 881-1	PST115	881	1	mo	mo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
@@ -4708,7 +4708,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 884-7	PST112	884	7	produzione	produzione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 884-8	PST112	884	8	dice,	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1457.148	_	_	_	_
 885-0	PST115	885	0	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1457.99	_	_	_	_
-885-1	PST115	885	1	#spicy	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+885-1	PST115	885	1	#spicy	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 885-2	PST115	885	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 885-3	PST115	885	3	salmone,	salmone	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=1459.017	_	_	_	_
 886-0	PST113	886	0	dici	dici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1460.211	_	_	_	_
@@ -4751,8 +4751,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 893-1	PST115	893	1	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 893-2	PST115	893	2	che::	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x2	_	_	_
 893-3	PST115	893	3	[al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(230)
-893-4	PST115	893	4	>#to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-3(0)	_	0-3(230)
-893-5	PST115	893	5	#dream<]	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1477.361	_	Fast=0-6(0)	_	0-6(230)
+893-4	PST115	893	4	>#to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-3(0)	_	0-3(230)
+893-5	PST115	893	5	#dream<]	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1477.361	_	Fast=0-6(0)	_	0-6(230)
 894-0	PST112	894	0	[che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1476.659	_	_	_	0-3(230)
 894-1	PST112	894	1	@xxx	@xxx	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	_	_	_	_	0-4(230)
 894-2	PST112	894	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(230)
@@ -4768,8 +4768,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 895-3	PST115	895	3	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 895-4	PST115	895	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 895-5	PST115	895	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-895-6	PST115	895	6	#to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-895-7	PST115	895	7	#dream	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+895-6	PST115	895	6	#to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+895-7	PST115	895	7	#dream	dream	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 895-8	PST115	895	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 895-9	PST115	895	9	gratis	gratis	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 895-10	PST115	895	10	(tutto)?	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=1482.36	_	_	0-5(0)	_

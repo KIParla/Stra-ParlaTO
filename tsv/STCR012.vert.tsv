@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST085	0	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.91	_	_	_	_
 0-1	PST085	0	1	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST085	0	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -634,12 +634,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 106-17	PST092	106	17	occhiali	occhiali	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=190.882	_	_	_	_
 107-0	PST092	107	0	~spetta	~spetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=192.97|End=193.58	_	_	_	_
 108-0	PST092	108	0	o:h	oh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=203.77	0x1	_	_	_
-108-1	PST092	108	1	#_ ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-108-2	PST092	108	2	drăgu::ț:	drăguț	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=206.07	4x2,5x1	_	_	_
-110-0	PST085	110	0	#_ nu	nu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=208.415	_	_	_	_
-110-1	PST085	110	1	l-am	l-am	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-110-2	PST085	110	2	uitat	uitat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-110-3	PST085	110	3	aicea	aicea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=210.325	_	_	_	_
+108-1	PST092	108	1	#_ ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+108-2	PST092	108	2	drăgu::ț:	drăguț	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=206.07	4x2,5x1	_	_	_
+110-0	PST085	110	0	#_ nu	nu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=208.415	_	_	_	_
+110-1	PST085	110	1	l-am	l-am	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+110-2	PST085	110	2	uitat	uitat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+110-3	PST085	110	3	aicea	aicea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=210.325	_	_	_	_
 112-0	PST087	112	0	@ila?	@ila	_	_	_	_	_	anonymized	_	ContainsVariation=No	Intonation=Rising|Anonymized=Yes	Begin=214.44	_	_	_	_
 112-1	PST087	112	1	((schiocca_le_dita))	((schiocca_le_dita))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=215.01	_	_	_	_
 113-0	PST087	113	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=215.94	_	_	_	_
@@ -792,12 +792,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 137-0	PST092	137	0	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=263.92	_	_	_	_
 137-1	PST092	137	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 137-2	PST092	137	2	[porta]	porta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=264.94	_	_	_	0-5(32)
-138-0	PST085	138	0	[#prințesă]	prințesă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=264.42|End=265.13	_	_	_	0-9(32)
+138-0	PST085	138	0	[#prințesă]	prințesă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=264.42|End=265.13	_	_	_	0-9(32)
 140-0	PST085	140	0	(sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=266.67	_	_	0-3(0)	_
 140-1	PST085	140	1	io)	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	0-2(0)	_
 140-2	PST085	140	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 140-3	PST085	140	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-140-4	PST085	140	4	#prințesă	prințesă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=268.03	_	_	_	_
+140-4	PST085	140	4	#prințesă	prințesă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=268.03	_	_	_	_
 142-0	PST092	142	0	@pasquale	@pasquale	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=268.32|End=269.18	_	_	_	_
 143-0	PST203	143	0	dimmi	dimmi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=269.46|End=269.815	_	_	_	_
 144-0	PST092	144	0	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=269.815	_	_	_	_
@@ -832,14 +832,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 150-13	??	150	13	chi	chi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 150-14	??	150	14	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=283.85	_	_	_	_
 151-0	PST085	151	0	A::H	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=294.55|End=295.51	0x2	_	_	_
-152-0	PST085	152	0	#dar	dar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=297.24	_	_	_	_
-152-1	PST085	152	1	#ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+152-0	PST085	152	0	#dar	dar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=297.24	_	_	_	_
+152-1	PST085	152	1	#ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 152-2	PST085	152	2	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 152-3	PST085	152	3	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 152-4	PST085	152	4	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 152-5	PST085	152	5	video?	video	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=298.54	_	_	_	_
-154-0	PST085	154	0	#serios?	serios	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=298.65|End=299.37	_	_	_	_
-156-0	???	156	0	[#serios]	serios	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=299.47|End=299.95	_	_	_	0-7(?)
+154-0	PST085	154	0	#serios?	serios	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=298.65|End=299.37	_	_	_	_
+156-0	???	156	0	[#serios]	serios	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=299.47|End=299.95	_	_	_	0-7(?)
 158-0	PST085	158	0	#_ xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=299.95	_	_	_	_
 158-1	PST085	158	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=301.1	_	_	_	_
 159-0	PST085	159	0	ero	ero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=301.29	_	_	_	_
@@ -892,7 +892,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 169-8	PST092	169	8	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 169-9	PST092	169	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 169-10	PST092	169	10	sa:la:?	sala	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=317.405	1x1,3x1	_	_	_
-170-0	PST203	170	0	#yes:	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=317.405	2x1	_	_	_
+170-0	PST203	170	0	#yes:	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=317.405	2x1	_	_	_
 170-1	PST203	170	1	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 170-2	PST203	170	2	ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 170-3	PST203	170	3	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_

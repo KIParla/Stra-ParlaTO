@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST102	0	0	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 0-1	PST102	0	1	sento	sento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST102	0	2	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -572,7 +572,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 108-0	PST083	108	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=415.16	_	_	_	_
 108-1	PST083	108	1	altre:::	altre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=416.353	4x3	_	_	_
 109-0	PST083	109	0	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=416.81	_	_	_	_
-109-1	PST083	109	1	#catrință	catrință	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+109-1	PST083	109	1	#catrință	catrință	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 109-2	PST083	109	2	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 109-3	PST083	109	3	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 109-4	PST083	109	4	tesse	tesse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

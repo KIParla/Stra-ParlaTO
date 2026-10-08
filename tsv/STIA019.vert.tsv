@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST216	0	0	°okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	Begin=0.7	_	_	_	_
 0-1	PST216	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST216	0	2	allora°	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2.03	_	_	_	_
@@ -132,10 +132,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 10-11	PST106	10	11	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 10-12	PST106	10	12	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 10-13	PST106	10	13	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-10-14	PST106	10	14	#vibes	vibes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+10-14	PST106	10	14	#vibes	vibes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 10-15	PST106	10	15	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 10-16	PST106	10	16	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-10-17	PST106	10	17	#vibes	vibes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+10-17	PST106	10	17	#vibes	vibes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 10-18	PST106	10	18	diverse	diverse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 10-19	PST106	10	19	rispetto	rispetto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 10-20	PST106	10	20	a:	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	0x1	_	_	_
@@ -196,7 +196,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 14-15	PST106	14	15	marocchino	marocchino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 14-16	PST106	14	16	dialetto	dialetto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 14-17	PST106	14	17	marocchino	marocchino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-14-18	PST106	14	18	#darija,	darija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=68.53	_	_	_	_
+14-18	PST106	14	18	#darija,	darija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=68.53	_	_	_	_
 15-0	PST106	15	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=68.78	0x2	_	_	_
 15-1	PST106	15	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 15-2	PST106	15	2	parliamo	parliamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -890,7 +890,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 63-10	PST106	63	10	chiamiamo	chiamiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 63-11	PST106	63	11	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 63-12	PST106	63	12	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-63-13	PST106	63	13	#dars	dars	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+63-13	PST106	63	13	#dars	dars	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 63-14	PST106	63	14	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 63-15	PST106	63	15	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 63-16	PST106	63	16	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x1	_	_	_
@@ -1518,7 +1518,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 107-19	PST106	107	19	marocchino	marocchino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 107-20	PST106	107	20	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x1	_	_	_
 107-21	PST106	107	21	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-107-22	PST106	107	22	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=507.65	_	_	_	_
+107-22	PST106	107	22	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=507.65	_	_	_	_
 108-0	PST106	108	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=507.75	_	_	_	_
 108-1	PST106	108	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 108-2	PST106	108	2	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1876,7 +1876,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 132-11	PST106	132	11	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Slow=0-3(0)	_	_
 132-12	PST106	132	12	parlano	parlano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Slow=0-7(0)	_	_
 132-13	PST106	132	13	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Slow=0-2(0)	_	_
-132-14	PST106	132	14	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	Slow=0-7(0)	_	_
+132-14	PST106	132	14	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Slow=0-7(0)	_	_
 132-15	PST106	132	15	marocchina	marocchina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Slow=0-10(0)	_	_
 132-16	PST106	132	16	>cioè<	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-4(1)	_	_
 132-17	PST106	132	17	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2025,7 +2025,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 142-7	PST106	142	7	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 142-8	PST106	142	8	considerato	considerato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 142-9	PST106	142	9	forte	forte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-142-10	PST106	142	10	#strong	strong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+142-10	PST106	142	10	#strong	strong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 142-11	PST106	142	11	aggressivo	aggressivo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 142-12	PST106	142	12	>cioè<	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-4(0)	_	_
 142-13	PST106	142	13	tra	tra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

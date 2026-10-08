@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.44	_	_	_	_
 0-1	PST211	0	1	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 0-2	PST211	0	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1885,13 +1885,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 253-2	PST045	253	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 253-3	PST045	253	3	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 253-4	PST045	253	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-253-5	PST045	253	5	#ș	ș	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+253-5	PST045	253	5	#ș	ș	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 253-6	PST045	253	6	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 253-7	PST045	253	7	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-253-8	PST045	253	8	#ț	ț	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+253-8	PST045	253	8	#ț	ț	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 253-9	PST045	253	9	[con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(115)
 253-10	PST045	253	10	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(115)
-253-11	PST045	253	11	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(115)
+253-11	PST045	253	11	#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(115)
 253-12	PST045	253	12	î	î	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(115)
 253-13	PST045	253	13	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(115)
 253-14	PST045	253	14	tanto:].	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=526.707	4x1	_	_	0-5(115)

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1.457	_	_	_	_
 0-1	PST211	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST211	0	2	@magda	@magda	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	_	_	_	_	_
@@ -1136,7 +1136,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 151-20	PST044	151	20	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 151-21	PST044	151	21	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 151-22	PST044	151	22	di:	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x1	_	_	_
-151-23	PST044	151	23	#translator	translator	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+151-23	PST044	151	23	#translator	translator	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 151-24	PST044	151	24	p[erò:],	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=426.3	3x1	_	_	1-4(44)
 152-0	PST211	152	0	[m:h]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=425.854|End=426.285	0x1	_	_	0-2(44)
 153-0	PST044	153	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=426.746	_	_	_	_
@@ -1417,8 +1417,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 190-0	PST044	190	0	[ei]	ei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=528.031|End=528.392	_	_	_	0-2(52)
 191-0	PST211	191	0	s:ì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=531.246|End=531.51	0x1,1x1	_	_	_
 192-0	PST044	192	0	((tossisce))	((tossisce))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=532.723|End=533.439	_	_	_	_
-193-0	PST044	193	0	#moment	moment	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=534.654	_	_	_	_
-193-1	PST044	193	1	#ăsta	ăsta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+193-0	PST044	193	0	#moment	moment	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=534.654	_	_	_	_
+193-1	PST044	193	1	#ăsta	ăsta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 193-2	PST044	193	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 193-3	PST044	193	3	((al_telefono))	((al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=535.492	_	_	_	_
 195-0	PST044	195	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=537.3	0x2	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST206	0	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.1|End=1.401	_	_	_	_
 1-0	PST018	1	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.6|End=1.92	_	_	_	_
 2-0	PST206	2	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.6	_	_	_	_
@@ -1279,8 +1279,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 320-5	PST018	320	5	sento:	sento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x1	_	_	_
 320-6	PST018	320	6	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 320-7	PST018	320	7	isis	isis	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-320-8	PST018	320	8	#aḷḷāhu	aḷḷāhu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-320-9	PST018	320	9	#akbar	akbar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+320-8	PST018	320	8	#aḷḷāhu	aḷḷāhu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+320-9	PST018	320	9	#akbar	akbar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 320-10	PST018	320	10	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 320-11	PST018	320	11	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=541.53	_	_	_	_
 322-0	PST018	322	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=542.67	_	_	_	_
@@ -2308,7 +2308,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 564-1	PST018	564	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 564-2	PST018	564	2	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 564-3	PST018	564	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-564-4	PST018	564	4	#imām	imām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=981.27	_	_	_	_
+564-4	PST018	564	4	#imām	imām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=981.27	_	_	_	_
 565-0	PST018	565	0	dunque:	dunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=981.543|End=982.135	5x1	_	_	_
 566-0	PST018	566	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=982.734	_	_	_	_
 566-1	PST018	566	1	nulla:	nulla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x1	_	_	_
@@ -2424,7 +2424,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 589-1	PST206	589	1	leg[gi	leggi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	3-5(10)
 589-2	PST206	589	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(10)
 589-3	PST206	589	3	corano]?	corano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1023.64	_	_	_	0-6(10)
-590-0	PST018	590	0	[#ḥamduliḷḷāh]	ḥamduliḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1023.141|End=1023.659	_	_	_	0-12(10)
+590-0	PST018	590	0	[#ḥamduliḷḷāh]	ḥamduliḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1023.141|End=1023.659	_	_	_	0-12(10)
 592-0	PST018	592	0	poco	poco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1024.846	_	_	_	_
 592-1	PST018	592	1	purtroppo	purtroppo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 592-2	PST018	592	2	poco	poco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

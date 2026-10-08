@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	(ad)esso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	0-2(0)	_
 0-1	PST211	0	1	c[e	ce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	1-2(0)
 0-2	PST211	0	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(0)

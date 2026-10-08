@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST212	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.89	_	_	_	_
 0-1	PST212	0	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST212	0	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2101,7 +2101,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 331-14	PST060	331	14	it]aliano	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(67)
 331-15	PST060	331	15	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	ProsodicLink=Yes	_	_	_	_	_
 331-16	PST060	331	16	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-331-17	PST060	331	17	#acordeonul	acordeonul	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=724.09	_	_	_	_
+331-17	PST060	331	17	#acordeonul	acordeonul	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=724.09	_	_	_	_
 333-0	PST212	333	0	[dillo	dillo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=721.74	_	_	_	0-5(67)
 333-1	PST212	333	1	dillo	dillo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(67)
 333-2	PST212	333	2	pure]	pure	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=722.55	_	_	_	0-4(67)
@@ -2247,7 +2247,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 360-0	PST060	360	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=772.77	_	_	_	_
 360-1	PST060	360	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 360-2	PST060	360	2	quelli	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-360-3	PST060	360	3	#avansați	avansați	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+360-3	PST060	360	3	#avansați	avansați	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 360-4	PST060	360	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 360-5	PST060	360	5	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 360-6	PST060	360	6	quelli	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2259,7 +2259,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 361-1	PST060	361	1	bravi	bravi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=778.74	_	_	_	_
 362-0	PST060	362	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=778.9	_	_	_	_
 362-1	PST060	362	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-362-2	PST060	362	2	#intermediar	intermediar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+362-2	PST060	362	2	#intermediar	intermediar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 362-3	PST060	362	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 362-4	PST060	362	4	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 362-5	PST060	362	5	quelli	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2337,7 +2337,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 369-7	PST060	369	7	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 369-8	PST060	369	8	dei:	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x1	_	_	_
 369-9	PST060	369	9	avanzati	avanzati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-369-10	PST060	369	10	[#avansați]	avansați	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=804.52	_	_	_	0-9(77)
+369-10	PST060	369	10	[#avansați]	avansați	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=804.52	_	_	_	0-9(77)
 370-0	PST212	370	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=804.005|End=804.52	_	_	_	0-4(77)
 371-0	PST212	371	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=804.975	_	_	_	_
 371-1	PST212	371	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3148,13 +3148,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 480-6	PST060	480	6	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 480-7	PST060	480	7	fa,	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1107.89	_	_	_	_
 481-0	PST060	481	0	di:	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1108.24	1x1	_	_	_
-481-1	PST060	481	1	#hristos	hristos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-481-2	PST060	481	2	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-481-3	PST060	481	3	#înviat	înviat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+481-1	PST060	481	1	#hristos	hristos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+481-2	PST060	481	2	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+481-3	PST060	481	3	#înviat	înviat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 481-4	PST060	481	4	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-481-5	PST060	481	5	#adevărat	adevărat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-481-6	PST060	481	6	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-481-7	PST060	481	7	#înviat	înviat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1110.52	_	_	_	_
+481-5	PST060	481	5	#adevărat	adevărat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+481-6	PST060	481	6	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+481-7	PST060	481	7	#înviat	înviat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1110.52	_	_	_	_
 483-0	PST060	483	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1110.705	_	_	_	_
 483-1	PST060	483	1	vuol	vuol	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 483-2	PST060	483	2	dire::	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x2	_	_	_
@@ -3173,9 +3173,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 485-0	PST060	485	0	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1115.7|End=1116.21	_	_	_	_
 486-0	PST060	486	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1116.48	_	_	_	_
 486-1	PST060	486	1	dici	dici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-486-2	PST060	486	2	#hristos	hristos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-486-3	PST060	486	3	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-486-4	PST060	486	4	#înviat	înviat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1117.86	_	_	_	_
+486-2	PST060	486	2	#hristos	hristos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+486-3	PST060	486	3	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+486-4	PST060	486	4	#înviat	înviat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1117.86	_	_	_	_
 488-0	PST060	488	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1118.0	_	_	_	_
 488-1	PST060	488	1	seconda	seconda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 488-2	PST060	488	2	persona	persona	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3196,9 +3196,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 490-0	PST060	490	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1122.21	_	_	_	_
 490-1	PST060	490	1	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 490-2	PST060	490	2	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-490-3	PST060	490	3	#adevărat	adevărat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-490-4	PST060	490	4	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-490-5	PST060	490	5	#înviat	înviat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1123.51	_	_	_	_
+490-3	PST060	490	3	#adevărat	adevărat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+490-4	PST060	490	4	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+490-5	PST060	490	5	#înviat	înviat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1123.51	_	_	_	_
 492-0	PST060	492	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1124.29	0x2	_	_	_
 492-1	PST060	492	1	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 492-2	PST060	492	2	pratica:	pratica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	6x1	_	_	_

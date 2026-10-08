@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST205	0	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.35	_	_	_	_
 0-1	PST205	0	1	iniziamo	iniziamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST205	0	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -750,13 +750,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 113-1	PST016	113	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 113-2	PST016	113	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 113-3	PST016	113	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-113-4	PST016	113	4	#amazigh	amazigh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=364.252	_	_	_	_
+113-4	PST016	113	4	#amazigh	amazigh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=364.252	_	_	_	_
 114-0	PST016	114	0	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=364.915	0x1	_	_	_
-114-1	PST016	114	1	#tachelhit	tachelhit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+114-1	PST016	114	1	#tachelhit	tachelhit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 114-2	PST016	114	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-114-3	PST016	114	3	#tarifit	tarifit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+114-3	PST016	114	3	#tarifit	tarifit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 114-4	PST016	114	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-114-5	PST016	114	5	#tarifit	tarifit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+114-5	PST016	114	5	#tarifit	tarifit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 114-6	PST016	114	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 114-7	PST016	114	7	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 114-8	PST016	114	8	sud	sud	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=367.957	_	_	_	_
@@ -788,9 +788,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 117-9	PST016	117	9	berber	berber	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 117-10	PST016	117	10	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 117-11	PST016	117	11	t~	t~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
-117-12	PST016	117	12	#tashelhit	tashelhit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+117-12	PST016	117	12	#tashelhit	tashelhit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 117-13	PST016	117	13	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-117-14	PST016	117	14	#tamazigh	tamazigh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=380.452	_	_	_	_
+117-14	PST016	117	14	#tamazigh	tamazigh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=380.452	_	_	_	_
 118-0	PST016	118	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=381.083	_	_	_	_
 118-1	PST016	118	1	quasi:	quasi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x1	_	_	_
 118-2	PST016	118	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -819,7 +819,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 120-12	PST016	120	12	scrittura	scrittura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 120-13	PST016	120	13	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 120-14	PST016	120	14	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-120-15	PST016	120	15	#tifinagh	tifinagh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=392.094	_	_	_	_
+120-15	PST016	120	15	#tifinagh	tifinagh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=392.094	_	_	_	_
 121-0	PST205	121	0	ehm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=394.199|End=394.641	_	_	_	_
 122-0	PST205	122	0	quante	quante	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=395.141	_	_	_	_
 122-1	PST205	122	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2731,13 +2731,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 393-6	PST016	393	6	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 393-7	PST016	393	7	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 393-8	PST016	393	8	ifrane	ifrane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1206.406	_	_	_	_
-394-0	PST016	394	0	#e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1206.708	_	_	_	_
+394-0	PST016	394	0	#e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1206.708	_	_	_	_
 394-1	PST016	394	1	la~	la~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 394-2	PST016	394	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 394-3	PST016	394	3	gl~	gl~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 394-4	PST016	394	4	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 394-5	PST016	394	5	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-394-6	PST016	394	6	#european	european	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+394-6	PST016	394	6	#european	european	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 394-7	PST016	394	7	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 394-8	PST016	394	8	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 394-9	PST016	394	9	francesi	francesi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4385,7 +4385,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 640-2	PST016	640	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 640-3	PST016	640	3	mezzi	mezzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 640-4	PST016	640	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-640-5	PST016	640	5	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+640-5	PST016	640	5	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 640-6	PST016	640	6	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 640-7	PST016	640	7	qualsiasi	qualsiasi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 640-8	PST016	640	8	posto	posto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4393,7 +4393,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 640-10	PST016	640	10	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 640-11	PST016	640	11	mezzi	mezzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 640-12	PST016	640	12	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-640-13	PST016	640	13	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1905.301	_	_	_	_
+640-13	PST016	640	13	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1905.301	_	_	_	_
 642-0	PST205	642	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1907.083	_	_	_	_
 642-1	PST205	642	1	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 642-2	PST205	642	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
@@ -4741,7 +4741,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 698-7	PST016	698	7	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 698-8	PST016	698	8	mezzi	mezzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 698-9	PST016	698	9	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-698-10	PST016	698	10	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+698-10	PST016	698	10	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 698-11	PST016	698	11	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 698-12	PST016	698	12	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 698-13	PST016	698	13	otto	otto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4769,7 +4769,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 702-1	PST016	702	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 702-2	PST016	702	2	mezzi	mezzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 702-3	PST016	702	3	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-702-4	PST016	702	4	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+702-4	PST016	702	4	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 702-5	PST016	702	5	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 702-6	PST016	702	6	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 702-7	PST016	702	7	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2056.083	_	_	_	_
@@ -4798,7 +4798,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 707-4	PST016	707	4	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 707-5	PST016	707	5	mezzi	mezzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 707-6	PST016	707	6	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-707-7	PST016	707	7	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2064.498	_	_	_	_
+707-7	PST016	707	7	#transport	transport	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2064.498	_	_	_	_
 709-0	PST016	709	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2065.159	_	_	_	_
 709-1	PST016	709	1	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 709-2	PST016	709	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6872,7 +6872,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1008-5	PST016	1008	5	marocchina	marocchina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1008-6	PST016	1008	6	sia	sia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1008-7	PST016	1008	7	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1008-8	PST016	1008	8	#ṭājīn,	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
+1008-8	PST016	1008	8	#ṭājīn,	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
 1008-9	PST016	1008	9	sia	sia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1008-10	PST016	1008	10	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1008-11	PST016	1008	11	cuscus	cuscus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2989.365	_	_	_	_
@@ -6902,11 +6902,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1012-5	PST016	1012	5	terrat~	terrat~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 1012-6	PST016	1012	6	cotta	cotta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3001.957	_	_	_	_
 1013-0	PST016	1013	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3002.655	_	_	_	_
-1013-1	PST016	1013	1	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1013-1	PST016	1013	1	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1013-2	PST016	1013	2	cinque	cinque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1013-3	PST016	1013	3	tipi	tipi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1013-4	PST016	1013	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1013-5	PST016	1013	5	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1013-5	PST016	1013	5	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1013-6	PST016	1013	6	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1013-7	PST016	1013	7	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1013-8	PST016	1013	8	tè	tè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3005.572	_	_	_	_
@@ -6935,7 +6935,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1017-3	PST016	1017	3	sia	sia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1017-4	PST016	1017	4	cuscus	cuscus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1017-5	PST016	1017	5	sia	sia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1017-6	PST016	1017	6	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1017-6	PST016	1017	6	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1017-7	PST016	1017	7	sia	sia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1017-8	PST016	1017	8	tè	tè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1017-9	PST016	1017	9	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -7014,7 +7014,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1027-3	PST016	1027	3	altri	altri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1027-4	PST016	1027	4	piatti	piatti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1027-5	PST016	1027	5	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1027-6	PST016	1027	6	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1027-6	PST016	1027	6	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1027-7	PST016	1027	7	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3052.906	_	_	_	_
 1028-0	PST016	1028	0	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3053.426	_	_	_	_
 1028-1	PST016	1028	1	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7183,7 +7183,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1047-0	PST016	1047	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3120.523	_	_	_	_
 1047-1	PST016	1047	1	marocchina	marocchina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3121.262	_	_	_	_
 1048-0	PST016	1048	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3121.523	_	_	_	_
-1048-1	PST016	1048	1	#ṭājīn,	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
+1048-1	PST016	1048	1	#ṭājīn,	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
 1048-2	PST016	1048	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1048-3	PST016	1048	3	cuscus	cuscus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3123.088	_	_	_	_
 1049-0	PST016	1049	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3123.485	_	_	_	_
@@ -7192,7 +7192,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1049-3	PST016	1049	3	salute	salute	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3124.876	_	_	_	_
 1050-0	PST016	1050	0	trovi	trovi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3125.653	_	_	_	_
 1050-1	PST016	1050	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1050-2	PST016	1050	2	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1050-2	PST016	1050	2	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1050-3	PST016	1050	3	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1050-4	PST016	1050	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1050-5	PST016	1050	5	verdura	verdura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3127.371	_	_	_	_

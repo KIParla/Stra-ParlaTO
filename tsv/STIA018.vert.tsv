@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST203	0	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.45	_	_	_	_
 0-1	PST203	0	1	scopi	scopi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST203	0	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -545,7 +545,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 57-2	PST095	57	2	avuto	avuto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 57-3	PST095	57	3	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 57-4	PST095	57	4	un:::	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x3	_	_	_
-57-5	PST095	57	5	#down	down	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+57-5	PST095	57	5	#down	down	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 57-6	PST095	57	6	emotivo	emotivo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 57-7	PST095	57	7	senza	senza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 57-8	PST095	57	8	fine::	fine	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=248.65	3x2	_	_	_
@@ -1584,7 +1584,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 149-4	PST095	149	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 149-5	PST095	149	5	marocchino	marocchino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 149-6	PST095	149	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-149-7	PST095	149	7	[#dārija]	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=665.14	_	_	_	0-7(41)
+149-7	PST095	149	7	[#dārija]	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=665.14	_	_	_	0-7(41)
 150-0	PST203	150	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=664.21|End=664.85	_	_	_	0-4(41)
 151-0	PST203	151	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=665.36	_	_	_	_
 151-1	PST203	151	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=665.9	_	_	_	_
@@ -1675,7 +1675,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 161-10	PST095	161	10	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x3	_	_	_
 161-11	PST095	161	11	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 161-12	PST095	161	12	de~	de~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
-161-13	PST095	161	13	[#dārija]	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=701.29	_	_	_	0-7(?)
+161-13	PST095	161	13	[#dārija]	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=701.29	_	_	_	0-7(?)
 163-0	PST095	163	0	e::hm::::	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=701.8|End=704.1	0x2,2x4	_	_	_
 164-0	PST095	164	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=704.402	_	_	_	_
 164-1	PST095	164	1	uscendo	uscendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3676,7 +3676,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 355-22	PST095	355	22	arabo.	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1478.26	_	_	_	_
 356-0	PST095	356	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1479.18|End=1479.59	_	_	_	_
 357-0	PST203	357	0	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1479.83	_	_	_	_
-357-1	PST203	357	1	#fusḥā	fusḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1481.07	_	_	_	_
+357-1	PST203	357	1	#fusḥā	fusḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1481.07	_	_	_	_
 358-0	PST095	358	0	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1481.34	_	_	_	_
 358-1	PST095	358	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
 358-2	PST095	358	2	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3827,7 +3827,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 370-17	PST095	370	17	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 370-18	PST095	370	18	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 370-19	PST095	370	19	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-370-20	PST095	370	20	#fusḥā	fusḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1548.88	_	_	_	_
+370-20	PST095	370	20	#fusḥā	fusḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1548.88	_	_	_	_
 371-0	PST095	371	0	[e]:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1549.01|End=1550.46	0x3	_	_	0-1(92)
 372-0	PST203	372	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1549.03|End=1549.65	_	_	_	0-2(92)
 373-0	PST095	373	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1551.36	_	_	_	_
@@ -3949,7 +3949,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 390-8	PST095	390	8	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 390-9	PST095	390	9	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 390-10	PST095	390	10	parlo	parlo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-390-11	PST095	390	11	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1597.17	_	_	_	_
+390-11	PST095	390	11	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1597.17	_	_	_	_
 391-0	PST203	391	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1597.58|End=1598.28	_	_	_	_
 392-0	PST203	392	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1599.3	_	_	_	_
 392-1	PST203	392	1	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3999,7 +3999,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 401-4	PST203	401	4	usi	usi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 401-5	PST203	401	5	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 401-6	PST203	401	6	poco	poco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1620.3	_	_	_	_
-402-0	PST095	402	0	#darija	darija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1621.37	_	_	_	_
+402-0	PST095	402	0	#darija	darija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1621.37	_	_	_	_
 402-1	PST095	402	1	scritta	scritta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 402-2	PST095	402	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 402-3	PST095	402	3	uso	uso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4017,7 +4017,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 402-15	PST095	402	15	senso	senso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 402-16	PST095	402	16	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 402-17	PST095	402	17	arabo:::	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x3	_	_	_
-402-18	PST095	402	18	#fusḥā	fusḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+402-18	PST095	402	18	#fusḥā	fusḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 402-19	PST095	402	19	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 402-20	PST095	402	20	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 402-21	PST095	402	21	uso	uso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1630.66	_	_	_	_
@@ -4080,7 +4080,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 409-11	PST095	409	11	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 409-12	PST095	409	12	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1646.45	0x2	_	_	_
 410-0	PST095	410	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1647.47|End=1647.96	_	_	_	_
-411-0	PST095	411	0	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1648.22	_	_	_	_
+411-0	PST095	411	0	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1648.22	_	_	_	_
 411-1	PST095	411	1	scritta	scritta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 411-2	PST095	411	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 411-3	PST095	411	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4220,7 +4220,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 437-6	PST211	437	6	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 437-7	PST211	437	7	casa	casa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 437-8	PST211	437	8	parlavate::	parlavate	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	8x2	_	_	_
-437-9	PST211	437	9	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+437-9	PST211	437	9	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 437-10	PST211	437	10	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 437-11	PST211	437	11	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 437-12	PST211	437	12	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
@@ -4337,8 +4337,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 448-6	PST095	448	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 448-7	PST095	448	7	uso	uso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 448-8	PST095	448	8	tipo:::	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x3	_	_	_
-448-9	PST095	448	9	#passpor	passpor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-448-10	PST095	448	10	#vīza	vīza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1742.36	_	_	_	_
+448-9	PST095	448	9	#passpor	passpor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+448-10	PST095	448	10	#vīza	vīza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1742.36	_	_	_	_
 450-0	PST095	450	0	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1742.7|End=1743.64	0x3	_	_	_
 451-0	PST095	451	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1743.85	_	_	_	_
 451-1	PST095	451	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4666,8 +4666,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 488-6	PST095	488	6	italiana	italiana	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 488-7	PST095	488	7	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 488-8	PST095	488	8	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-488-9	PST095	488	9	#italian	italian	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-488-10	PST095	488	10	#people	people	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+488-9	PST095	488	9	#italian	italian	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+488-10	PST095	488	10	#people	people	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 488-11	PST095	488	11	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 488-12	PST095	488	12	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 488-13	PST095	488	13	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1886.601	_	_	_	_

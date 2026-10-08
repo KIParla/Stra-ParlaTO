@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST205	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.738|End=2.059	_	_	_	_
 1-0	PST205	1	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.738	_	_	_	_
 1-1	PST205	1	1	prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2327,12 +2327,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 453-1	PST014	453	1	vabbè]	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(49)
 453-2	PST014	453	2	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 453-3	PST014	453	3	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=972.083	_	_	_	_
-454-0	??	454	0	#rfissa	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=972.095|End=972.699	_	_	_	_
+454-0	??	454	0	#rfissa	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=972.095|End=972.699	_	_	_	_
 455-0	PST014	455	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=974.083|End=974.886	0x1	_	_	0-2(50)
 456-0	??	456	0	[come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=974.252	_	_	_	0-4(50)
 456-1	??	456	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(50)
 456-2	??	456	2	spieghi]amo	spieghiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(50)
-456-3	??	456	3	#rfissa	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+456-3	??	456	3	#rfissa	rfissa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 456-4	??	456	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 456-5	??	456	5	italiano	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=976.043	_	_	_	_
 457-0	PST014	457	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=978.444	0x2	_	_	_
@@ -2356,12 +2356,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 460-6	PST014	460	6	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=988.884	_	_	_	_
 461-0	PST014	461	0	eh?	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=990.459|End=990.785	_	_	_	_
 462-0	PST205	462	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=991.175	_	_	_	_
-462-1	PST205	462	1	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=991.907	_	_	_	_
+462-1	PST205	462	1	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=991.907	_	_	_	_
 463-0	PST014	463	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=992.082|End=992.372	_	_	_	_
 464-0	??	464	0	[anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=992.733	_	_	_	0-5(53)
 464-1	??	464	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(53)
-464-2	??	464	2	#ṭāj]īn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=993.965	_	_	_	0-4(53)
-465-0	PST014	465	0	#[ṭājīn]	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=993.495|End=994.169	_	_	_	1-6(53)
+464-2	??	464	2	#ṭāj]īn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=993.965	_	_	_	0-4(53)
+465-0	PST014	465	0	#[ṭājīn]	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=993.495|End=994.169	_	_	_	1-6(53)
 466-0	??	466	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=994.39	_	_	_	_
 466-1	??	466	1	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 466-2	??	466	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

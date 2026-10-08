@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	eccoci	eccoci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.353|End=2.0	_	_	_	_
 1-0	PST036	1	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.03|End=2.65	_	_	_	_
 2-0	PST211	2	0	innanzitutto	innanzitutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.66	_	_	_	_
@@ -1883,7 +1883,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 283-1	PST036	283	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	ProsodicLink=Yes	_	_	_	_	_
 283-2	PST036	283	2	e:::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x3	_	_	_
 283-3	PST036	283	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-283-4	PST036	283	4	#colac	colac	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+283-4	PST036	283	4	#colac	colac	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 283-5	PST036	283	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 283-6	PST036	283	6	pane::::	pane	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	ProsodicLink=Yes	_	3x4	_	_	_
 283-7	PST036	283	7	ehm:::	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=723.068	2x3	_	_	_
