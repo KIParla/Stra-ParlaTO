@@ -80,6 +80,11 @@
               "base": "boolean",
               "format": "yes|no"
             }
+          },
+          {
+            "name": "community",
+            "titles": "community",
+            "dc:description": "Migrant community the speakers belong to (Stra-* modules), e.g. moroccan|bengali|chinese|ukrainian."
           }
         ],
         "foreignKeys": [
