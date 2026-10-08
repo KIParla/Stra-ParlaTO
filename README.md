@@ -79,9 +79,6 @@ Metadata is to be interpreted as follows:
    - `participants`: semicolon-separated list of the codes of the participants to that conversation
    - `languages`: `italian` and/or `other`, depending on whether foreign-language speech is present
    - `collection-point`: two-letter code of the collection area: `TO` for Turin for this module
-   - `topic`: `fixed` for `semistructured-interview`, `free` for `free-conversation`
-   - `moderator`: presence of a moderator (`yes` for `semistructured-interview`, `no` for `free-conversation`)
-   - `participants-relationship`: relation between participants, `asymmetric` for `semistructured-interview`, `symmetric` for `free-conversation`
    - `year`: year of collection (not available for this module; `_` where unknown)
    - `unknown-participant`: `yes` if the conversation's transcription contains one or more unidentified-speaker placeholder tiers (`?`, `??`, `???`, ...), `no` otherwise
    - `community`: migrant community the speakers belong to: `moroccan`, `romanian` or `peruvian` (corresponds to the fourth letter of the conversation code: `A`, `R`, `S`)
