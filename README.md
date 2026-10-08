@@ -117,16 +117,15 @@ Each token is represented as 20 columns, as follows:
     - `unknown`: identifies unintelligible spans in transcription
     - `error`: residual class to mark cases where the transcription is not well formed according to Jefferson format. Therefore, the token is not analyzed and transcription will be corrected in future releases.
 13. `meta_label`: reserved; `_` for now
-14. `variation`: all variation features of the token, as pipe-separated `Key=Value` pairs (never empty, as the first one is always present):
-    - `ContainsVariation`: unit-level flag, repeated on every token of the unit. `Yes` if any token of the unit has a `Variety`, `No` otherwise
-    - `Variety`: token-level variety other than standard Italian. Values:
-      - `Other`: the token is in another language or variety — a `#word`, or any token after a `#_` marker (which covers the rest of the transcription unit, or the whole unit when it is unit-initial)
-      - `Unassignable`: the variety of the token cannot be assigned (`#*word`, probably Italian)
-      - `Unsure`: the token is in a unit that starts with `# `, where the transcriber marked that another variety is present without saying on which words
-    - `Language=<ISO code>`: present on tokens marked as another variety (or `NO_ISO_CODE` when the specific variety wasn't identified)
-    - `Nonce=Yes`: nonce or non-standard form of the token, marked with `$` in the transcription (not a variety)
-
-    Example: `ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE`
+14. `code-variation`: all variation features of the token (having to do with code switching and nonce formations), as pipe-separated `Key=Value` pairs (never empty, as the first one is always present):
+    - `ContainsVariation`: unit-level flag, repeated on every token of the unit. `Yes` if any token of the unit has a `Code`, `No` otherwise
+    - `Code`: token-level code change (other than standard Italian). Values:
+      - `Other`: the token is in another language — a `#word`, or any token after a `#_` marker (which covers the rest of the transcription unit, or the whole unit when it is unit-initial)
+      - `Unsure`: the code of the token can be assigned to more than one language (e.g. `#*word`, compatible with Italian and Spanish)
+      - `Underspecified`: the token is in a unit that starts with `# `, which means that at least one word of that unit is assignable to a different language
+    - `Language=<ISO code>`: present on tokens marked as belonging to a different language (or `NO_ISO_CODE` when the specific variety wasn't identified)
+    - `Nonce=Yes`: nonce form that is not assignable to a given language, marked with `$` in the transcription
+    Example: `ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE`
 15. `jefferson_feats`: pipe-separated list of word-level features derived from the transcription in Jefferson format. More specifically:
     - `SpaceAfter=No`: no whitespace between this token and the next (e.g., `l'` in `l'anno`)
     - `ProsodicLink=Yes`: a prosodic link (`=`) to the following token
