@@ -10,3 +10,7 @@ original/
 .DS_Store
 .vscode/
 *.xlsx
+
+# Safety copies made by the full-reprocess runs
+.full-reprocess-backup-*/
+eaf.bak-*/
