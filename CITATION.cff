@@ -14,7 +14,6 @@ identifiers:
   - description: "The concept DOI of the work"
     type: doi
     value: 10.60760/unibo/stra-parlato
-# TODO: set to the actual release date (the DOI is dated 2026).
-date-released: YYYY-MM-DD
+date-released: 2026-10-11
 repository-code: "https://github.com/KIParla/Stra-ParlaTO"
 license: CC-BY-NC-SA-4.0

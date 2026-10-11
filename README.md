@@ -78,7 +78,7 @@ Metadata is to be interpreted as follows:
    - `participants`: semicolon-separated list of the codes of the participants to that conversation
    - `languages`: `italian` and/or `other`, depending on whether foreign-language speech is present
    - `collection-point`: two-letter code of the collection area: `TO` for Turin for this module
-   - `year`: year of collection (not available for this module; `_` where unknown)
+   - `year`: year of collection
    - `unknown-participant`: `yes` if the conversation's transcription contains one or more unidentified-speaker placeholder tiers (`?`, `??`, `???`, ...), `no` otherwise
    - `community`: migrant community the speakers belong to: `moroccan`, `romanian` or `peruvian` (corresponds to the fourth letter of the conversation code: `A`, `R`, `S`)
 
@@ -173,7 +173,7 @@ Please also reference the version (commit/tag) of this repository you used in yo
 
 ## Changelog
 
-* 2026-07-14 v1.0.0
+* 2026-10-11 v1.0.0
   * First release
 
 -----
