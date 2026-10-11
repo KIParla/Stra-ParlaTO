@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST203	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.752	_	_	_	_
 0-1	PST203	0	1	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST203	0	2	mettitelo	mettitelo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2264,9 +2264,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 283-6	PST074	283	6	faceva	faceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 283-7	PST074	283	7	troppo	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 283-8	PST074	283	8	caldo	caldo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=990.0	_	_	_	_
-284-0	PST203	284	0	°(eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=990.344	_	_	0-2(0)	_
-284-1	PST203	284	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-2(0)	_
-284-2	PST203	284	2	sì)°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=991.011	_	_	0-2(0)	_
+284-0	PST203	284	0	°(eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=990.344	_	_	0-2(0)	_
+284-1	PST203	284	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-2(0)	_
+284-2	PST203	284	2	sì)°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=991.011	_	_	0-2(0)	_
 285-0	PST074	285	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=992.343	_	_	_	_
 285-1	PST074	285	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 285-2	PST074	285	2	ventotto	ventotto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2503,9 +2503,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 320-1	PST074	320	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 320-2	PST074	320	2	difficile	difficile	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 320-3	PST074	320	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-320-4	PST074	320	4	[E'	e'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=high	_	_	_	_	0-2(15)
-320-5	PST074	320	5	TROPPO	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-6(15)
-320-6	PST074	320	6	DIFFICILE	difficile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-9(15)
+320-4	PST074	320	4	[E'	e'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=High	_	_	_	_	0-2(15)
+320-5	PST074	320	5	TROPPO	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-6(15)
+320-6	PST074	320	6	DIFFICILE	difficile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-9(15)
 320-7	PST074	320	7	sembra]	sembra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1087.286	_	_	_	0-6(15)
 321-0	PST203	321	0	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1085.524	_	_	_	0-2(15)
 321-1	PST203	321	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-2(15)

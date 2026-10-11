@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	(ad)esso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	0-2(0)	_
 0-1	PST211	0	1	c[e	ce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	1-2(0)
 0-2	PST211	0	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(0)
@@ -1082,7 +1082,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 183-3	PST034	183	3	l:e	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 183-4	PST034	183	4	cassette?	cassette	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=399.304	_	_	_	_
 184-0	PST034	184	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=400.7	_	_	_	_
-184-1	PST034	184	1	<inglEse>	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=402.046	_	Slow=0-7(0)	_	_
+184-1	PST034	184	1	<inglEse>	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=402.046	_	Slow=0-7(0)	_	_
 185-0	PST034	185	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=403.1	_	_	_	_
 185-1	PST034	185	1	italiano	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 185-2	PST034	185	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1391,9 +1391,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 239-9	PST034	239	9	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 239-10	PST034	239	10	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 239-11	PST034	239	11	rumeno	rumeno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=513.285	_	_	_	_
-240-0	PST034	240	0	°ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=513.9	_	_	_	_
-240-1	PST034	240	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-240-2	PST034	240	2	dimenticato°	dimenticato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=514.659	_	_	_	_
+240-0	PST034	240	0	°ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=513.9	_	_	_	_
+240-1	PST034	240	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+240-2	PST034	240	2	dimenticato°	dimenticato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=514.659	_	_	_	_
 241-0	PST211	241	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=514.87	_	_	_	_
 241-1	PST211	241	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=515.111	_	_	_	_
 242-0	PST034	242	0	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=515.307	_	_	_	_
@@ -1506,7 +1506,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 261-2	PST034	261	2	posto	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 261-3	PST034	261	3	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 261-4	PST034	261	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-261-5	PST034	261	5	°>reside~<°	reside~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=low	End=557.912	_	Fast=0-7(0)	_	_
+261-5	PST034	261	5	°>reside~<°	reside~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	End=557.912	_	Fast=0-7(0)	_	_
 262-0	PST034	262	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=558.824	_	_	_	_
 262-1	PST034	262	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 262-2	PST034	262	2	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2591,7 +2591,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 441-12	PST034	441	12	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 441-13	PST034	441	13	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 441-14	PST034	441	14	parlo	parlo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-441-15	PST034	441	15	IO	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+441-15	PST034	441	15	IO	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 441-16	PST034	441	16	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 441-17	PST034	441	17	m::h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x2	_	_	_
 441-18	PST034	441	18	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

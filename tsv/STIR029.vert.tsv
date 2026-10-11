@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST102	0	0	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 0-1	PST102	0	1	sento	sento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST102	0	2	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -32,9 +32,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 8-0	PST102	8	0	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=15.654	_	_	_	_
 8-1	PST102	8	1	primavera	primavera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 8-2	PST102	8	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=17.354	_	_	_	_
-9-0	PST083	9	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=23.49	_	_	_	_
-9-1	PST083	9	1	abbiam~	abbiam~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=low	_	_	_	_	_
-9-2	PST083	9	2	incominciato?°	incominciato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	End=24.71	_	_	_	_
+9-0	PST083	9	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=23.49	_	_	_	_
+9-1	PST083	9	1	abbiam~	abbiam~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	_	_	_	_	_
+9-2	PST083	9	2	incominciato?°	incominciato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=24.71	_	_	_	_
 10-0	PST102	10	0	lavora	lavora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=24.71	_	_	_	_
 10-1	PST102	10	1	lavora	lavora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 10-2	PST102	10	2	[dai]	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=26.205	_	_	_	0-3(2)
@@ -3376,8 +3376,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 660-3	PST102	660	3	sua	sua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 660-4	PST102	660	4	radio	radio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2244.312	_	_	_	_
 661-0	PST102	661	0	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2256.48|End=2257.27	_	_	_	_
-662-0	PST102	662	0	[°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2257.27	_	_	_	0-2(17)
-662-1	PST102	662	1	così:°]	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2258.232	3x1	_	_	0-4(17)
+662-0	PST102	662	0	[°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2257.27	_	_	_	0-2(17)
+662-1	PST102	662	1	così:°]	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2258.232	3x1	_	_	0-4(17)
 663-0	PST211	663	0	[@anita	@anita	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=2257.35	_	_	_	0-6(17)
 663-1	PST211	663	1	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(17)
 663-2	PST211	663	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(17)
@@ -5161,7 +5161,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 935-1	PST203	935	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 935-2	PST203	935	2	vi	vi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 935-3	PST203	935	3	liberiamo	liberiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2984.308	_	_	_	_
-936-0	PST203	936	0	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=2984.308|End=2984.99	_	_	_	_
+936-0	PST203	936	0	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=2984.308|End=2984.99	_	_	_	_
 937-0	PST203	937	0	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2985.163	_	_	_	_
 937-1	PST203	937	1	voi	voi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 937-2	PST203	937	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

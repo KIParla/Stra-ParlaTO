@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST212	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.16	_	_	_	_
 0-1	PST212	0	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 0-2	PST212	0	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2424,7 +2424,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 418-3	PST050	418	3	sua	sua	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 418-4	PST050	418	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 418-5	PST050	418	5	((ai_figli))	((ai_figli))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
-418-6	PST050	418	6	NO::,	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	End=935.299	1x2	_	_	_
+418-6	PST050	418	6	NO::,	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	End=935.299	1x2	_	_	_
 419-0	PST050	419	0	((ai_figli))	((ai_figli))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=935.864	_	_	_	_
 419-1	PST050	419	1	andate	andate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 419-2	PST050	419	2	giocare	giocare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2996,8 +2996,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 491-5	PST050	491	5	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 491-6	PST050	491	6	problemi	problemi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 491-7	PST050	491	7	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-491-8	PST050	491	8	MO::LTO	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	1x2	_	_	_
-491-9	PST050	491	9	MOLTO	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+491-8	PST050	491	8	MO::LTO	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	1x2	_	_	_
+491-9	PST050	491	9	MOLTO	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 491-10	PST050	491	10	le:nto.	lento	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1134.967	1x1	_	_	_
 492-0	PST050	492	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1136.527	_	_	_	_
 492-1	PST050	492	1	aveva	aveva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3355,7 +3355,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 542-25	PST050	542	25	lento,	lento	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1261.931	_	_	_	_
 543-0	PST050	543	0	dovete	dovete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1262.22	_	_	_	_
 543-1	PST050	543	1	essere	essere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-543-2	PST050	543	2	VOI	voi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+543-2	PST050	543	2	VOI	voi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 543-3	PST050	543	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 543-4	PST050	543	4	vi	vi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 543-5	PST050	543	5	dovetere	dovetere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3886,7 +3886,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 604-8	PST050	604	8	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 604-9	PST050	604	9	aspetta	aspetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 604-10	PST050	604	10	((al_figlio))	((al_figlio))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
-604-11	PST050	604	11	NO,	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	End=1447.02	_	_	_	_
+604-11	PST050	604	11	NO,	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	End=1447.02	_	_	_	_
 605-0	PST050	605	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1447.714	_	_	_	_
 605-1	PST050	605	1	fai:	fai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1448.434	2x1	_	_	_
 606-0	PST050	606	0	@dima	@dima	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=1449.014	_	_	_	_

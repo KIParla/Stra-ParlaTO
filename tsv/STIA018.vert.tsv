@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST203	0	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.45	_	_	_	_
 0-1	PST203	0	1	scopi	scopi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST203	0	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -329,8 +329,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 35-3	PST203	35	3	faccio	faccio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 35-4	PST203	35	4	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 35-5	PST203	35	5	domande,	domande	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=151.96	_	_	_	_
-36-0	PST095	36	0	°va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=151.97	_	_	_	_
-36-1	PST095	36	1	bene°	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+36-0	PST095	36	0	°va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=151.97	_	_	_	_
+36-1	PST095	36	1	bene°	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 36-2	PST095	36	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 36-3	PST095	36	3	mio	mio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 36-4	PST095	36	4	rapporto	rapporto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -927,7 +927,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 85-18	PST095	85	18	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 85-19	PST095	85	19	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 85-20	PST095	85	20	stata	stata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-85-21	PST095	85	21	MOlto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+85-21	PST095	85	21	MOlto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 85-22	PST095	85	22	pesante	pesante	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 85-23	PST095	85	23	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 85-24	PST095	85	24	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=401.75	_	_	_	_
@@ -939,7 +939,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 86-5	PST095	86	5	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 86-6	PST095	86	6	tirato	tirato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 86-7	PST095	86	7	fuori	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-86-8	PST095	86	8	MOlte	molte	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+86-8	PST095	86	8	MOlte	molte	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 86-9	PST095	86	9	ricchezze	ricchezze	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 86-10	PST095	86	10	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 86-11	PST095	86	11	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1211,7 +1211,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 106-3	PST095	106	3	rispetto	rispetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 106-4	PST095	106	4	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 106-5	PST095	106	5	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-106-6	PST095	106	6	NON	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+106-6	PST095	106	6	NON	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 106-7	PST095	106	7	nasco	nasco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 106-8	PST095	106	8	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 106-9	PST095	106	9	italia	italia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2688,12 +2688,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 238-2	PST203	238	2	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 238-3	PST203	238	3	arabo,	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1082.463	_	_	_	_
 239-0	PST095	239	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1082.463|End=1083.0	_	_	_	_
-240-0	PST203	240	0	°un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1082.975	_	_	_	_
-240-1	PST203	240	1	[po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-3(69)
-240-2	PST203	240	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-1(69)
-240-3	PST203	240	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	_	_	_	_	0-2(69)
+240-0	PST203	240	0	°un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1082.975	_	_	_	_
+240-1	PST203	240	1	[po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-3(69)
+240-2	PST203	240	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-1(69)
+240-3	PST203	240	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	_	_	_	_	0-2(69)
 240-4	PST203	240	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(69)
-240-5	PST203	240	5	eh°]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1085.1	_	_	_	0-2(69)
+240-5	PST203	240	5	eh°]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1085.1	_	_	_	0-2(69)
 241-0	PST095	241	0	[no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1083.412	_	_	_	0-2(69)
 241-1	PST095	241	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(69)
 241-2	PST095	241	2	no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1085.075	_	_	_	0-2(69)
@@ -3053,7 +3053,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 288-9	PST203	288	9	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 288-10	PST203	288	10	imparato	imparato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 288-11	PST203	288	11	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-288-12	PST203	288	12	PO'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=high	_	_	_	_	_
+288-12	PST203	288	12	PO'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=High	_	_	_	_	_
 288-13	PST203	288	13	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(78)
 288-14	PST203	288	14	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(78)
 288-15	PST203	288	15	si]	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(78)
@@ -5485,7 +5485,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 563-4	PST095	563	4	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 563-5	PST095	563	5	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 563-6	PST095	563	6	vieni::	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x2	_	_	_
-563-7	PST095	563	7	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+563-7	PST095	563	7	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 563-8	PST095	563	8	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 563-9	PST095	563	9	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 563-10	PST095	563	10	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6401,7 +6401,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 649-6	PST095	649	6	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 649-7	PST095	649	7	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 649-8	PST095	649	8	vengono	vengono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-649-9	PST095	649	9	NEANCHE	neanche	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+649-9	PST095	649	9	NEANCHE	neanche	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 649-10	PST095	649	10	affrontati	affrontati	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	9-10(35)
 649-11	PST095	649	11	[proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(35)
 649-12	PST095	649	12	per]	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(35)

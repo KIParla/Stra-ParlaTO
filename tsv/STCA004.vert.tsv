@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST110	0	0	#_ w-l-yūma	w-l-yūma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3.59	_	_	_	_
 0-1	PST110	0	1	x	x	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=1	End=4.77	_	_	_	_
 2-0	PST108	2	0	mh?	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=4.87|End=5.39	_	_	_	_
@@ -1301,7 +1301,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 361-3	PST217	361	3	e]	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(90)
 361-4	PST217	361	4	cognome	cognome	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=601.39	_	_	_	_
 362-0	PST109	362	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=601.39|End=602.139	_	_	_	_
-363-0	PST211	363	0	°grazie°	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=602.42|End=603.19	_	_	_	_
+363-0	PST211	363	0	°grazie°	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=602.42|End=603.19	_	_	_	_
 364-0	PST109	364	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=604.01	_	_	_	_
 364-1	PST109	364	1	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x2	_	_	_
 364-2	PST109	364	2	nome	nome	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1824,7 +1824,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 507-13	PST217	507	13	email	email	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=846.008	_	_	_	_
 508-0	PST110	508	0	[va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=844.792	_	_	_	0-2(119)
 508-1	PST110	508	1	bene]	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=845.484	_	_	_	0-4(119)
-509-0	PST217	509	0	°grazie°	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=848.007|End=848.676	_	_	_	_
+509-0	PST217	509	0	°grazie°	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=848.007|End=848.676	_	_	_	_
 510-0	PST110	510	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=849.915	_	_	_	_
 510-1	PST110	510	1	giusta	giusta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=850.683	_	_	_	_
 511-0	PST217	511	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=850.723|End=851.154	_	_	_	_
@@ -2144,7 +2144,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 605-1	PST109	605	1	mi:o	mio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
 605-2	PST109	605	2	co[gnomi	cognomi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 605-3	PST109	605	3	@gha]rbaoui]	@gharbaoui	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=965.983	_	_	_	_
-606-0	PST110	606	0	[°così°]	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=964.592|End=965.131	_	_	_	0-4(143)
+606-0	PST110	606	0	[°così°]	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=964.592|End=965.131	_	_	_	0-4(143)
 607-0	PST109	607	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=966.506	_	_	_	_
 607-1	PST109	607	1	marocco	marocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 607-2	PST109	607	2	@gherbaoui	@gherbaoui	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	_	_	_	_	_
@@ -2630,8 +2630,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 730-0	PST108	730	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1162.107|End=1162.561	_	_	_	0-2(165)
 731-0	PST211	731	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1162.724	_	_	_	_
 731-1	PST211	731	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1163.1390000000001	_	_	_	_
-732-0	PST108	732	0	°venuto	venuto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1163.1390000000001	_	_	_	_
-732-1	PST108	732	1	prima°	prima	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1163.938	_	_	_	_
+732-0	PST108	732	0	°venuto	venuto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1163.1390000000001	_	_	_	_
+732-1	PST108	732	1	prima°	prima	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1163.938	_	_	_	_
 733-0	PST110	733	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1166.526	_	_	_	_
 733-1	PST110	733	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 733-2	PST110	733	2	prendere	prendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3566,12 +3566,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 947-7	PST107	947	7	wāsh	wāsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 947-8	PST107	947	8	@amir	@amir	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	_
 947-9	PST107	947	9	mʕā-hum	mʕā-hum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1528.69	_	_	_	_
-949-0	PST217	949	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1527.292	_	_	_	_
-949-1	PST217	949	1	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-949-2	PST217	949	2	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-949-3	PST217	949	3	sia°	sia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1528.145	_	_	_	_
-950-0	PST211	950	0	°neanch'	neanch'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	Begin=1528.145	_	_	_	_
-950-1	PST211	950	1	io°	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1528.7	_	_	_	_
+949-0	PST217	949	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1527.292	_	_	_	_
+949-1	PST217	949	1	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+949-2	PST217	949	2	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+949-3	PST217	949	3	sia°	sia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1528.145	_	_	_	_
+950-0	PST211	950	0	°neanch'	neanch'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	Begin=1528.145	_	_	_	_
+950-1	PST211	950	1	io°	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1528.7	_	_	_	_
 951-0	PST217	951	0	do~	do~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=1529.33	_	_	_	_
 951-1	PST217	951	1	[dov'	dov'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-4(226)
 951-2	PST217	951	2	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	0-1(226)

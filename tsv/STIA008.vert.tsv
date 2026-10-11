@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST205	0	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.35	_	_	_	_
 0-1	PST205	0	1	iniziamo	iniziamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST205	0	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -3325,7 +3325,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 479-3	PST016	479	3	due	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 479-4	PST016	479	4	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 479-5	PST016	479	5	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-479-6	PST016	479	6	MA:i	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	1x1	_	_	_
+479-6	PST016	479	6	MA:i	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	1x1	_	_	_
 479-7	PST016	479	7	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 479-8	PST016	479	8	fermato	fermato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 479-9	PST016	479	9	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3344,7 +3344,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 481-6	PST016	481	6	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 481-7	PST016	481	7	m~	m~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 481-8	PST016	481	8	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-481-9	PST016	481	9	<MAI>	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	Slow=0-3(0)	_	_
+481-9	PST016	481	9	<MAI>	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	Slow=0-3(0)	_	_
 481-10	PST016	481	10	fermato	fermato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 481-11	PST016	481	11	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1463.946	_	_	_	_
 482-0	PST016	482	0	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1464.252	_	_	_	_

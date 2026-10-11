@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST213	0	0	a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.62|End=1.19	0x1	_	_	_
 1-0	PST041	1	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.7	_	_	_	_
 1-1	PST041	1	1	sono::	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	3x2	_	_	_
@@ -726,7 +726,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 182-1	PST041	182	1	per]	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(35)
 182-2	PST041	182	2	corriere:	corriere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	7x1	_	_	_
 182-3	PST041	182	3	adesso::	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=325.972	5x2	_	_	_
-183-0	PST213	183	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=324.326|End=324.609	_	_	_	0-4(35)
+183-0	PST213	183	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=324.326|End=324.609	_	_	_	0-4(35)
 184-0	PST041	184	0	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=326.184	_	_	_	_
 184-1	PST041	184	1	cantiere	cantiere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=327.054	_	_	_	_
 185-0	PST213	185	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=327.12|End=327.4675	_	_	_	_
@@ -770,8 +770,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 197-3	PST041	197	3	come::	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x2	_	_	_
 197-4	PST041	197	4	$comi	comi	_	_	_	_	_	linguistic	_	ContainsVariation=No|Nonce=Yes	_	_	_	_	_	_
 197-5	PST041	197	5	esce	esce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=344.743	_	_	_	_
-198-0	PST212	198	0	[°come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=344.815	_	_	_	0-4(39)
-198-1	PST212	198	1	esce°]	esce	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=345.561	_	_	_	0-4(39)
+198-0	PST212	198	0	[°come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=344.815	_	_	_	0-4(39)
+198-1	PST212	198	1	esce°]	esce	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=345.561	_	_	_	0-4(39)
 199-0	PST213	199	0	[come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=344.815	_	_	_	0-4(39)
 199-1	PST213	199	1	esce]	esce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=345.561	_	_	_	0-4(39)
 200-0	PST041	200	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=347.118	_	_	_	_
@@ -1298,8 +1298,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 322-0	PST041	322	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=599.483	_	_	_	_
 322-1	PST041	322	1	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 322-2	PST041	322	2	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=600.559	_	_	_	_
-323-0	PST041	323	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=601.043	_	_	_	_
-323-1	PST041	323	1	so°	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=601.793	_	_	_	_
+323-0	PST041	323	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=601.043	_	_	_	_
+323-1	PST041	323	1	so°	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=601.793	_	_	_	_
 324-0	PST041	324	0	tre	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=602.261	_	_	_	_
 324-1	PST041	324	1	mesi	mesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=603.109	_	_	_	_
 325-0	PST041	325	0	stato	stato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=603.325	_	_	_	_

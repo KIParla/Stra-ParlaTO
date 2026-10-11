@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST136	0	0	#_ shuf-ti	shuf-ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2.26|End=2.78	_	_	_	_
 2-0	PST135	2	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes	Begin=3.01	_	_	_	_
 2-1	PST135	2	1	immagina	immagina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -110,7 +110,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 18-10	PST136	18	10	produ]zione	produzione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(6)
 18-11	PST136	18	11	scritta	scritta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=33.31	_	_	_	_
 19-0	PST138	19	0	[ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=31.944|End=32.3	_	_	_	0-2(6)
-20-0	PST138	20	0	[#I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	Begin=33.122	_	_	_	0-2(7)
+20-0	PST138	20	0	[#I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=High	Begin=33.122	_	_	_	0-2(7)
 20-1	PST138	20	1	#said]	said	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(7)
 20-2	PST138	20	2	#my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 20-3	PST138	20	3	#name	name	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -178,7 +178,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 36-7	PST136	36	7	@nada	@nada	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	_	_	_	_	_
 36-8	PST136	36	8	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 36-9	PST136	36	9	@neda?	@neda	_	_	_	_	_	anonymized	_	ContainsVariation=No	Intonation=Rising|Anonymized=Yes	End=56.222	_	_	_	_
-38-0	PST138	38	0	In	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=56.855	_	_	_	_
+38-0	PST138	38	0	In	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=56.855	_	_	_	_
 38-1	PST138	38	1	marocco	marocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 38-2	PST138	38	2	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 38-3	PST138	38	3	chiamano	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -346,7 +346,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 101-2	PST135	101	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 101-3	PST135	101	3	dico	dico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 101-4	PST135	101	4	[in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(22)
-101-5	PST135	101	5	Italiano]	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=122.711	_	_	_	0-8(22)
+101-5	PST135	101	5	Italiano]	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=122.711	_	_	_	0-8(22)
 102-0	PST139	102	0	[#ʕumar]	ʕumar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=122.047|End=122.449	_	_	_	0-6(22)
 103-0	PST135	103	0	#ʕumar	ʕumar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=123.311|End=123.844	_	_	_	_
 104-0	PST136	104	0	#_ dāba	dāba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=124.299	_	_	_	_
@@ -428,7 +428,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 144-6	PST135	144	6	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
 144-7	PST135	144	7	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	ProsodicLink=Yes	_	_	_	_	_
 144-8	PST135	144	8	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-144-9	PST135	144	9	Italiano	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+144-9	PST135	144	9	Italiano	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 144-10	PST135	144	10	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 144-11	PST135	144	11	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 144-12	PST135	144	12	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -597,7 +597,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 214-7	PST135	214	7	[da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(440)
 214-8	PST135	214	8	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(440)
 214-9	PST135	214	9	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=237.244	_	_	_	0-2(440)
-215-0	PST139	215	0	#_ [I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	Begin=236.077	_	_	_	0-1(440)
+215-0	PST139	215	0	#_ [I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=High	Begin=236.077	_	_	_	0-1(440)
 215-1	PST139	215	1	know]	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(440)
 215-2	PST139	215	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=237.277	_	_	_	_
 217-0	PST136	217	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=237.222|End=238.377	_	_	_	_
@@ -1331,12 +1331,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 522-4	PST135	522	4	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 522-5	PST135	522	5	avete	avete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=534.455	_	_	_	_
 523-0	PST139	523	0	#_ okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=533.894	_	_	_	_
-523-1	PST139	523	1	I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	_	_	_	_	_
+523-1	PST139	523	1	I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=High	_	_	_	_	_
 523-2	PST139	523	2	know	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 523-3	PST139	523	3	the	the	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 523-4	PST139	523	4	name	name	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 523-5	PST139	523	5	but	but	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-523-6	PST139	523	6	I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	_	_	_	_	_
+523-6	PST139	523	6	I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=High	_	_	_	_	_
 523-7	PST139	523	7	don'	don'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
 523-8	PST139	523	8	t	t	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 523-9	PST139	523	9	know	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -1659,7 +1659,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 671-1	PST136	671	1	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 671-2	PST136	671	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 671-3	PST136	671	3	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-671-4	PST136	671	4	Italia	italia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+671-4	PST136	671	4	Italia	italia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 671-5	PST136	671	5	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 671-6	PST136	671	6	isola	isola	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 671-7	PST136	671	7	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2731,7 +2731,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 897-3	PST137	897	3	əl-@hassan	əl-@hassan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1044.186	_	_	_	_
 899-0	PST135	899	0	eh::	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1042.999|End=1043.488	1x2	_	_	_
 900-0	PST139	900	0	#_ sharfya-k	sharfya-k	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1044.186	_	_	_	_
-900-1	PST139	900	1	Haitham	haitham	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	End=1045.299	_	_	_	_
+900-1	PST139	900	1	Haitham	haitham	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=High	End=1045.299	_	_	_	_
 902-0	PST135	902	0	#_ ashna	ashna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1045.454	_	_	_	_
 902-1	PST135	902	1	hīya	hīya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 902-2	PST135	902	2	sharfya	sharfya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1046.576	_	_	_	_
@@ -4740,7 +4740,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1392-2	PST138	1392	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(496)
 1392-3	PST138	1392	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(496)
 1392-4	PST138	1392	4	chiami]	chiami	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1654.543	_	_	_	0-6(496)
-1393-0	PST139	1393	0	#_ [I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	Begin=1653.855	_	_	_	0-1(496)
+1393-0	PST139	1393	0	#_ [I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=High	Begin=1653.855	_	_	_	0-1(496)
 1393-1	PST139	1393	1	know	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(496)
 1393-2	PST139	1393	2	this	this	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(496)
 1393-3	PST139	1393	3	one]	one	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1655.021	_	_	_	0-3(496)

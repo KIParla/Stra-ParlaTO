@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	eccoci	eccoci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.353|End=2.0	_	_	_	_
 1-0	PST036	1	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.03|End=2.65	_	_	_	_
 2-0	PST211	2	0	innanzitutto	innanzitutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.66	_	_	_	_
@@ -413,7 +413,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 66-9	PST211	66	9	situazione	situazione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 66-10	PST211	66	10	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 66-11	PST211	66	11	barriera	barriera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-66-12	PST211	66	12	SE	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+66-12	PST211	66	12	SE	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 66-13	PST211	66	13	pensi	pensi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 66-14	PST211	66	14	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 66-15	PST211	66	15	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1452,8 +1452,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 212-2	PST211	212	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 212-3	PST211	212	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 212-4	PST211	212	4	stessa	stessa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-212-5	PST211	212	5	COsa:	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	3x1	_	_	_
-212-6	PST211	212	6	NO:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	1x1	_	_	_
+212-5	PST211	212	5	COsa:	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	3x1	_	_	_
+212-6	PST211	212	6	NO:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	1x1	_	_	_
 212-7	PST211	212	7	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=543.25	0x1	_	_	_
 213-0	PST036	213	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=543.36|End=544.04	_	_	_	_
 214-0	PST036	214	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=544.645	0x1	_	_	_
@@ -1636,8 +1636,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 235-12	PST036	235	12	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 235-13	PST036	235	13	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 235-14	PST036	235	14	cambiano	cambiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=615.022	_	_	_	_
-236-0	PST211	236	0	[°ortodossa	ortodossa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=611.298	_	_	_	0-9(44)
-236-1	PST211	236	1	okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=612.238	_	_	_	0-4(44)
+236-0	PST211	236	0	[°ortodossa	ortodossa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=611.298	_	_	_	0-9(44)
+236-1	PST211	236	1	okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=612.238	_	_	_	0-4(44)
 237-0	PST036	237	0	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=615.559	_	_	_	_
 237-1	PST036	237	1	tradizioni	tradizioni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 237-2	PST036	237	2	altrimenti	altrimenti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

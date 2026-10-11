@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST213	0	0	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.14	_	_	_	_
 0-1	PST213	0	1	vedi.	vedi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=0.56	_	_	_	_
 1-0	PST039	1	0	ben	ben	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.967	_	_	_	_
@@ -4041,7 +4041,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 763-9	PST039	763	9	caf	caf	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 763-10	PST039	763	10	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 763-11	PST039	763	11	sarà::	sarà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x2	_	_	_
-763-12	PST039	763	12	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+763-12	PST039	763	12	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 763-13	PST039	763	13	vedre:mo.	vedremo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1445.466	4x1	_	_	_
 764-0	PST213	764	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1439.856|End=1440.068	_	_	_	0-2(242)
 765-0	PST213	765	0	o[k]	ok	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1445.468|End=1446.043	_	_	_	1-2(243)

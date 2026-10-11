@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.92	_	_	_	_
 0-1	PST211	0	1	siete?	siete	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=3.42	_	_	_	_
 1-0	PST203	1	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.58	_	_	_	_
@@ -352,10 +352,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 49-11	PST087	49	11	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 49-12	PST087	49	12	personcina	personcina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 49-13	PST087	49	13	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=134.93	2x1	_	_	_
-50-0	PST092	50	0	°pensavamo	pensavamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=134.95	_	_	_	_
-50-1	PST092	50	1	fosse	fosse	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-50-2	PST092	50	2	@michi	@michi	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes|Volume=low	_	_	_	_	_
-50-3	PST092	50	3	magari°	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=136.58	_	_	_	_
+50-0	PST092	50	0	°pensavamo	pensavamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=134.95	_	_	_	_
+50-1	PST092	50	1	fosse	fosse	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+50-2	PST092	50	2	@michi	@michi	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes|Volume=Low	_	_	_	_	_
+50-3	PST092	50	3	magari°	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=136.58	_	_	_	_
 51-0	PST087	51	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=136.58	_	_	_	_
 51-1	PST087	51	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 51-2	PST087	51	2	ch[e::]	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=138.11	2x2	_	_	2-3(9)
@@ -853,8 +853,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 107-8	PST087	107	8	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 107-9	PST087	107	9	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 107-10	PST087	107	10	itali[a	italia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	4-6(18)
-107-11	PST087	107	11	°quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-6(18)
-107-12	PST087	107	12	con°]	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	_	_	_	_	0-3(18)
+107-11	PST087	107	11	°quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-6(18)
+107-12	PST087	107	12	con°]	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	_	_	_	_	0-3(18)
 107-13	PST087	107	13	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 107-14	PST087	107	14	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 107-15	PST087	107	15	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -976,7 +976,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 128-7	PST203	128	7	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 128-8	PST203	128	8	persone	persone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 128-9	PST203	128	9	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-128-10	PST203	128	10	F:Anno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	0x1	_	_	_
+128-10	PST203	128	10	F:Anno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	0x1	_	_	_
 128-11	PST203	128	11	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 128-12	PST203	128	12	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 128-13	PST203	128	13	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

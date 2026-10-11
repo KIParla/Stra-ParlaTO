@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST217	0	0	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.017	_	_	_	_
 0-1	PST217	0	1	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST217	0	2	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1776,8 +1776,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 546-0	PST108	546	0	#_ rḥāmna	rḥāmna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=732.657|End=733.887	_	_	_	_
 547-0	PST108	547	0	vicino	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=734.432	_	_	_	_
 547-1	PST108	547	1	#marrākəsh	marrākəsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=735.527	_	_	_	_
-548-0	PST217	548	0	°vicino	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	Begin=735.528	_	_	_	_
-548-1	PST217	548	1	#marrākəsh°	marrākəsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	End=736.625	_	_	_	_
+548-0	PST217	548	0	°vicino	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	Begin=735.528	_	_	_	_
+548-1	PST217	548	1	#marrākəsh°	marrākəsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=Low	End=736.625	_	_	_	_
 549-0	PST217	549	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=738.517	_	_	_	_
 549-1	PST217	549	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 549-2	PST217	549	2	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2874,7 +2874,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 861-5	PST108	861	5	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 861-6	PST108	861	6	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 861-7	PST108	861	7	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1295.597	_	_	_	_
-862-0	PST107	862	0	@SALAH	@salah	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes|Volume=high	Begin=1294.965|End=1295.4	_	_	_	_
+862-0	PST107	862	0	@SALAH	@salah	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes|Volume=High	Begin=1294.965|End=1295.4	_	_	_	_
 863-0	PST217	863	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1295.617	_	_	_	_
 863-1	PST217	863	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1296.017	_	_	_	_
 864-0	PST108	864	0	@omar	@omar	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=1296.017|End=1296.897	_	_	_	_
@@ -4019,7 +4019,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1183-3	PST217	1183	3	faccio	faccio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1183-4	PST217	1183	4	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1183-5	PST217	1183	5	foto	foto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1894.373	_	_	_	_
-1184-0	PST108	1184	0	SÌ::	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1894.373	1x2	_	_	_
+1184-0	PST108	1184	0	SÌ::	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1894.373	1x2	_	_	_
 1184-1	PST108	1184	1	ce:rto	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1895.426	1x1	_	_	_
 1185-0	PST211	1185	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1895.426|End=1896.416	_	_	_	_
 1186-0	PST108	1186	0	vo:glio	voglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1896.416	1x1	_	_	_

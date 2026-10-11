@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST212	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.89	_	_	_	_
 0-1	PST212	0	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST212	0	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1496,10 +1496,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 243-2	??	243	2	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(47)
 243-3	??	243	3	spi]derman	spiderman	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=508.854	_	_	_	0-3(47)
 244-0	PST060	244	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=510.147	_	_	_	_
-244-1	PST060	244	1	°ora	ora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-244-2	PST060	244	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-244-3	PST060	244	3	dovuto	dovuto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-244-4	PST060	244	4	venire°	venire	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=512.327	_	_	_	_
+244-1	PST060	244	1	°ora	ora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+244-2	PST060	244	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+244-3	PST060	244	3	dovuto	dovuto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+244-4	PST060	244	4	venire°	venire	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=512.327	_	_	_	_
 245-0	PST060	245	0	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=513.802	1x1	_	_	_
 245-1	PST060	245	1	dicevo	dicevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 245-2	PST060	245	2	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_

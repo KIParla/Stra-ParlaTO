@@ -40,7 +40,6 @@ This repository contains:
 
 * metadata for both speakers and conversations, in the [`metadata`](./metadata/) subfolder (see [metadata](#metadata) section below)
 * descriptions of the set of transcription conventions used for this module ([Transcription conventions](./enriched-notation.md))
-* statistical summaries of each conversation (token counts, speaking time per speaker, token/time rates, overlaps) are not in this repository: they are in the folder of this module in [KIParla-summaries](https://github.com/KIParla/KIParla-summaries)
 
 For each conversation you will find:
 
@@ -114,7 +113,7 @@ Each token is represented as 20 columns, as follows:
     - `unknown`: identifies unintelligible spans in transcription
     - `error`: residual class to mark cases where the transcription is not well formed according to enriched format. Therefore, the token is not analyzed and transcription will be corrected in future releases.
 13. `meta_label`: reserved; `_` for now
-14. `code-variation`: all variation features of the token (having to do with code switching and nonce formations), as pipe-separated `Key=Value` pairs (never empty, as the first one is always present):
+14. `code_variation`: all variation features of the token (having to do with code switching and nonce formations), as pipe-separated `Key=Value` pairs (never empty, as the first one is always present):
     - `ContainsVariation`: unit-level flag, repeated on every token of the unit. `Yes` if any token of the unit has a `Code`, `No` otherwise
     - `Code`: token-level code change (other than standard Italian). Values:
       - `Other`: the token is in another language — a `#word`, or any token after a `#_` marker (which covers the rest of the transcription unit, or the whole unit when it is unit-initial)

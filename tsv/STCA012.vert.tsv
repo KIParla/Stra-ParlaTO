@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST214	0	0	praticame:nte	praticamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.47	8x1	_	_	_
 0-1	PST214	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PST214	0	2	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2888,8 +2888,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 521-4	PST158	521	4	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=875.18	_	_	_	_
 522-0	PST158	522	0	ma:i	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=875.49	1x1	_	_	_
 522-1	PST158	522	1	ma:i	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=876.66	1x1	_	_	_
-523-0	PST214	523	0	°(sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=876.66	_	_	0-2(0)	_
-523-1	PST214	523	1	no:)°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=877.47	1x1	_	0-2(0)	_
+523-0	PST214	523	0	°(sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=876.66	_	_	0-2(0)	_
+523-1	PST214	523	1	no:)°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=877.47	1x1	_	0-2(0)	_
 524-0	PST214	524	0	no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=877.97	1x1	_	_	_
 524-1	PST214	524	1	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 524-2	PST214	524	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5046,8 +5046,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 953-3	PST158	953	3	marmellata	marmellata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1548.961	_	_	_	_
 954-0	PST214	954	0	ai	ai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1549.09	_	_	_	_
 954-1	PST214	954	1	mirtilli	mirtilli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1549.954	_	_	_	_
-955-0	PST158	955	0	BRA:VA	brava	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1550.045|End=1550.81	2x1	_	_	_
-956-0	PST158	956	0	BRA:VA:	brava	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1551.17|End=1551.956	2x1,4x1	_	_	_
+955-0	PST158	955	0	BRA:VA	brava	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1550.045|End=1550.81	2x1	_	_	_
+956-0	PST158	956	0	BRA:VA:	brava	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1551.17|End=1551.956	2x1,4x1	_	_	_
 957-0	PST158	957	0	spa:cca	spacca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1552.49	2x1	_	_	_
 957-1	PST158	957	1	spacca	spacca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 957-2	PST158	957	2	philadelphia	philadelphia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7905,8 +7905,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1587-2	PST214	1587	2	minimo	minimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1587-3	PST214	1587	3	settanta	settanta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2494.656	_	_	_	_
 1588-0	PST158	1588	0	se[tta:]n[ta:]	settanta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2494.908|End=2496.47	4x1,7x1	_	_	2-5(334),6-8(335)
-1589-0	PST214	1589	0	MI[NIMO]	minimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=2494.908|End=2495.765	_	_	_	2-6(334)
-1590-0	PST214	1590	0	[MI]NIMO	minimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=2495.98	_	_	_	0-2(335)
+1589-0	PST214	1589	0	MI[NIMO]	minimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=2494.908|End=2495.765	_	_	_	2-6(334)
+1590-0	PST214	1590	0	[MI]NIMO	minimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=2495.98	_	_	_	0-2(335)
 1590-1	PST214	1590	1	settanta	settanta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2497.46	_	_	_	_
 1591-0	PST214	1591	0	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2497.71	_	_	_	_
 1591-1	PST214	1591	1	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7981,7 +7981,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1599-19	PST158	1599	19	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1599-20	PST158	1599	20	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1599-21	PST158	1599	21	dormire	dormire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2521.464	_	_	_	_
-1600-0	PST214	1600	0	[°aiu:~°]	aiu~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=low	Begin=2519.66|End=2520.46	2x1	_	_	0-4(339)
+1600-0	PST214	1600	0	[°aiu:~°]	aiu~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	Begin=2519.66|End=2520.46	2x1	_	_	0-4(339)
 1601-0	PST158	1601	0	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2522.11	_	_	_	_
 1601-1	PST158	1601	1	rimasta	rimasta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1601-2	PST158	1601	2	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

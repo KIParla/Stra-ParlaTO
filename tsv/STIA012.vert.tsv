@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	okay.	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1.3|End=1.92	_	_	_	_
 1-0	PST211	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.7	_	_	_	_
 1-1	PST211	1	1	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -802,7 +802,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 112-5	PST032	112	5	porto	porto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 112-6	PST032	112	6	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 112-7	PST032	112	7	moschea,	moschea	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=270.42	_	_	_	_
-113-0	PST212	113	0	°ah°	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=270.95|End=271.38	_	_	_	_
+113-0	PST212	113	0	°ah°	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=270.95|End=271.38	_	_	_	_
 114-0	PST032	114	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=271.5	_	_	_	_
 114-1	PST032	114	1	imparare	imparare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 114-2	PST032	114	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

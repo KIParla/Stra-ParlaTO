@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PST211	0	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.44	_	_	_	_
 0-1	PST211	0	1	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 0-2	PST211	0	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1564,10 +1564,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 209-18	PST045	209	18	torniamo	torniamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 209-19	PST045	209	19	indie:tro,	indietro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=420.857	4x1	_	_	_
 210-0	PST211	210	0	[m:h]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=416.337|End=416.675	0x1	_	_	0-2(96)
-211-0	??	211	0	°avventura	avventura	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	Begin=420.862	_	_	_	_
+211-0	??	211	0	°avventura	avventura	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	Begin=420.862	_	_	_	_
 211-1	??	211	1	[(.)]	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(97)
-211-2	??	211	2	parco	parco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-211-3	??	211	3	avventura°	avventura	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=425.269	_	_	_	_
+211-2	??	211	2	parco	parco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+211-3	??	211	3	avventura°	avventura	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=425.269	_	_	_	_
 212-0	PST045	212	0	[a::h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=421.775	0x2	_	_	0-2(97)
 212-1	PST045	212	1	per]?	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=422.687	_	_	_	0-3(97)
 213-0	PST045	213	0	parco	parco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=425.25	_	_	_	_
