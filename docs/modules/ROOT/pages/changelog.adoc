@@ -1,2 +1,15 @@
 = Changelog
 
+== v1.0.0 (2026-10-11)
+
+=== First release of Stra-ParlaTO
+
+Stra-ParlaTO collects conversations and semi-structured interviews recorded in Turin and its province, involving speakers of Italian as a foreign or second language. It was compiled within the "DiverSIta – Diversity in spoken Italian" project (PNRR, NextGenerationEU; PI: Caterina Mauri).
+
+* 82 conversations with 139 speakers, anonymized; collection year 2025
+* Conversation metadata include the `community` of the speakers (moroccan, romanian, peruvian)
+* Some conversations have a `_trad` tier with an Italian translation of the tokens produced in the speakers' other languages
+* Time-aligned ELAN files, verticalized `tsv/` files (20 columns, including the `code_variation` features), linearized `linear-enriched/` and `linear-orthographic/` texts, and CSVW metadata (`csv-metadata.json`)
+
+link:https://github.com/KIParla/Stra-ParlaTO/commits/v1.0.0[Full Changelog]
+
