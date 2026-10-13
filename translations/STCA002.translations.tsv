@@ -93,7 +93,7 @@ tu_id	speaker	start	end	parent_tu_id	text
 870	PTS107_trad	1218.180	1219.390	869	ma no, quanto è che viene a costare?
 873	??_trad	1219.830	1221.980	872	xx ma tu glielo andrai a dire? xx
 875	PTS107_trad	1219.940	1221.280	874	sarà fino a quando andrà giù
-877	?_trad	1221.690	1222.680	876	in questa situazione sai cosa bisogna fare
+877	???_trad	1221.690	1222.680	876	in questa situazione sai cosa bisogna fare
 879	??_trad	1223.390	1224.410	878	è un ordine, svelami il trucco
 882	PST108_trad	1226.680	1227.620	881	davvero non è così
 884	??_trad	1227.380	1228.190	883	guarda che sei tu che ci perdi
@@ -246,7 +246,7 @@ tu_id	speaker	start	end	parent_tu_id	text
 1397	PST108_trad	1785.346	1786.609	1396	xx compra da xx
 1399	??_trad	1792.291	1793.691	1398	è caro cento
 1401	PST108_trad	1795.727	1796.236	1400	pronto
-1403	?_trad	1797.082	1798.709	1402	chi ha messo qui questo aggegio, è caduto
+1403	???_trad	1797.082	1798.709	1402	chi ha messo qui questo aggegio, è caduto
 1405	??_trad	1797.118	1797.673	1404	chi è?
 1407	PTS107_trad	1798.836	1800.273	1406	ha già parlato con noi, che ti ha fatto?
 1409	PST110_trad	1800.245	1801.445	1408	perché sta registrando
@@ -259,13 +259,13 @@ tu_id	speaker	start	end	parent_tu_id	text
 1427	PTS107_trad	1814.460	1817.390	1426	è come se le persone trasportassero trecento chili di fumo
 1429	PST108_trad	1817.490	1818.100	1428	quella
 1431	PST108_trad	1818.430	1822.040	1430	sale (arriva) a milioni di soldi, tre dei xx
-1433	?_trad	1819.110	1822.810	1432	xx oppure è questo
+1433	???_trad	1819.110	1822.810	1432	xx oppure è questo
 1506	PTS107_trad	1966.980	1970.190	1505	e tu perché non hai registrato?
-1508	?_trad	1970.960	1972.690	1507	tu sai che questi sono dei miei figli
+1508	???_trad	1970.960	1972.690	1507	tu sai che questi sono dei miei figli
 1510	PTS107_trad	1972.670	1975.990	1509	e li ho messi io, sono del magazzino, li ho messi uno sotto e uno sopra
-1512	?_trad	1975.460	1976.900	1511	magazzino
+1512	???_trad	1975.460	1976.900	1511	magazzino
 1514	PTS107_trad	1977.250	1978.110	1513	oh dio
-1517	?_trad	1978.470	1980.110	1516	queste cose messe qui perché sono qui?
+1517	???_trad	1978.470	1980.110	1516	queste cose messe qui perché sono qui?
 1519	PTS107_trad	1980.000	1982.380	1518	ti dico io, lascia quel secchiello pieno
 1522	??_trad	1982.430	1983.280	1521	arabo classico
 1524	PTS107_trad	1982.856	1984.222	1523	devo sapere cosa fate

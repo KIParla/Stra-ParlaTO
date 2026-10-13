@@ -3122,7 +3122,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 654-0	PST203	654	0	[>mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1368.088	_	Fast=0-2(0)	_	0-2(121)
 654-1	PST203	654	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-2(0)	_	0-2(121)
 654-2	PST203	654	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(121)
-654-3	PST203	654	3	<		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+654-3	PST203	654	3	<	_	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
 654-4	PST203	654	4	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1368.9	_	_	_	0-2(121)
 655-0	PST098	655	0	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1368.925	_	_	_	_
 655-1	PST098	655	1	prodotti	prodotti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
