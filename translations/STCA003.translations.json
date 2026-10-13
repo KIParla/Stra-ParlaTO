@@ -289,7 +289,7 @@
   },
   {
     "tu_id": "210",
-    "speaker": "?_trad",
+    "speaker": "???_trad",
     "start": "267.682",
     "end": "268.887",
     "parent_tu_id": "209",
@@ -305,7 +305,7 @@
   },
   {
     "tu_id": "214",
-    "speaker": "?_trad",
+    "speaker": "???_trad",
     "start": "269.527",
     "end": "270.000",
     "parent_tu_id": "213",
@@ -321,7 +321,7 @@
   },
   {
     "tu_id": "222",
-    "speaker": "?_trad",
+    "speaker": "???_trad",
     "start": "281.198",
     "end": "282.140",
     "parent_tu_id": "221",
@@ -377,7 +377,7 @@
   },
   {
     "tu_id": "420",
-    "speaker": "???_trad",
+    "speaker": "????_trad",
     "start": "559.957",
     "end": "560.897",
     "parent_tu_id": "419",
@@ -409,7 +409,7 @@
   },
   {
     "tu_id": "428",
-    "speaker": "???_trad",
+    "speaker": "????_trad",
     "start": "562.585",
     "end": "564.240",
     "parent_tu_id": "427",
@@ -417,7 +417,7 @@
   },
   {
     "tu_id": "430",
-    "speaker": "???_trad",
+    "speaker": "????_trad",
     "start": "564.440",
     "end": "565.347",
     "parent_tu_id": "429",
@@ -441,7 +441,7 @@
   },
   {
     "tu_id": "436",
-    "speaker": "???_trad",
+    "speaker": "????_trad",
     "start": "569.120",
     "end": "569.850",
     "parent_tu_id": "435",
@@ -457,7 +457,7 @@
   },
   {
     "tu_id": "440",
-    "speaker": "???_trad",
+    "speaker": "????_trad",
     "start": "570.750",
     "end": "575.040",
     "parent_tu_id": "439",
@@ -465,7 +465,7 @@
   },
   {
     "tu_id": "442",
-    "speaker": "???_trad",
+    "speaker": "????_trad",
     "start": "575.117",
     "end": "576.197",
     "parent_tu_id": "441",
@@ -473,7 +473,7 @@
   },
   {
     "tu_id": "446",
-    "speaker": "???_trad",
+    "speaker": "????_trad",
     "start": "577.597",
     "end": "581.727",
     "parent_tu_id": "445",
@@ -721,7 +721,7 @@
   },
   {
     "tu_id": "1160",
-    "speaker": "????_trad",
+    "speaker": "?????_trad",
     "start": "1747.140",
     "end": "1748.000",
     "parent_tu_id": "1159",
@@ -761,7 +761,7 @@
   },
   {
     "tu_id": "1170",
-    "speaker": "????_trad",
+    "speaker": "?????_trad",
     "start": "1755.760",
     "end": "1756.700",
     "parent_tu_id": "1169",
@@ -769,7 +769,7 @@
   },
   {
     "tu_id": "1172",
-    "speaker": "????_trad",
+    "speaker": "?????_trad",
     "start": "1758.000",
     "end": "1759.540",
     "parent_tu_id": "1171",
@@ -785,7 +785,7 @@
   },
   {
     "tu_id": "1182",
-    "speaker": "????_trad",
+    "speaker": "?????_trad",
     "start": "1780.280",
     "end": "1781.610",
     "parent_tu_id": "1181",

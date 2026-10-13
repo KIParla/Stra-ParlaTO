@@ -12,7 +12,7 @@ tu_id	speaker	start	end	parent_tu_id	text
 22	PST119_trad	29.405	31.215	21	no antonio non lo parla
 28	PST119_trad	37.620	40.320	27	dovevi mettere un po' di prosciutto sopra
 33	PST120_trad	44.770	45.710	32	vogliamo iniziare?
-35	??_trad	45.740	46.240	34	si
+35	???_trad	45.740	46.240	34	si
 37	PST120_trad	47.815	48.750	36	padre nostro
 39	PST119_trad	51.540	52.500	38	finiscila
 41	PST119_trad	55.990	57.680	40	e se lui ti chiede (traduci quello)
@@ -430,7 +430,7 @@ tu_id	speaker	start	end	parent_tu_id	text
 1177	PST119_trad	1797.420	1799.390	1176	xx per xx
 1179	PST119_trad	1799.690	1801.910	1178	eh gonfiore stomaco
 1181	PST119_trad	1802.300	1803.110	1180	
-1183	??_trad	1802.660	1803.120	1182	
+1183	???_trad	1802.660	1803.120	1182	
 1185	PST120_trad	1803.423	1805.820	1184	
 1187	PST118_trad	1805.980	1807.410	1186	ma cos'è la piantaggine?
 1189	PST119_trad	1808.020	1809.830	1188	la piantaggine e una pianta

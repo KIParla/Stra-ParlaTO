@@ -1,0 +1,101 @@
+# Validates the module's tabular files (tsv/ and metadata/) every time they are pushed.
+#
+# The schema is rebuilt from the real files by KIParla/tools (csvw/generate_csvw.py), and
+# every table is checked for column datatypes, required values and foreign keys (`speaker`
+# and `participants` must exist in metadata/participants.tsv). See tools/validate_csvw.py.
+#
+# If validation fails, the job fails and a GitHub issue is opened with the report. While an
+# issue labelled `validation` is already open, new failures are added to it as comments, so
+# repeated pushes do not create a pile of issues. When validation passes again, the open
+# issue gets a comment saying so (closing it stays a manual step).
+#
+# No secrets needed: the default GITHUB_TOKEN can open issues in this repo.
+
+name: Validate TSV
+
+on:
+  push:
+    paths:
+      - 'tsv/**'
+      - 'metadata/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout module
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install csvw
+
+      - name: Clone tools repo
+        run: git clone --depth 1 https://github.com/KIParla/tools.git /tmp/tools
+
+      - name: Validate against CSVW
+        id: validate
+        run: |
+          set +e
+          python /tmp/tools/validate_csvw.py . --report /tmp/validation-report.md
+          echo "status=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Report on the open validation issue, or open one
+        if: always()
+        uses: actions/github-script@v7
+        env:
+          STATUS: ${{ steps.validate.outputs.status }}
+        with:
+          script: |
+            const fs = require('fs');
+            const { owner, repo } = context.repo;
+            const failed = process.env.STATUS !== '0';
+            const sha = context.sha.slice(0, 7);
+            const ref = context.ref.replace('refs/heads/', '');
+            const runUrl = `${context.serverUrl}/${owner}/${repo}/actions/runs/${context.runId}`;
+            const commitUrl = `${context.serverUrl}/${owner}/${repo}/commit/${context.sha}`;
+            const label = 'validation';
+
+            const { data: open } = await github.rest.issues.listForRepo({
+              owner, repo, state: 'open', labels: label, per_page: 1,
+            });
+            const existing = open[0];
+
+            if (!failed) {
+              if (existing) {
+                await github.rest.issues.createComment({
+                  owner, repo, issue_number: existing.number,
+                  body: `Validation passes again on \`${ref}\` at [${sha}](${commitUrl}) ([run](${runUrl})). This issue can be closed if the errors above are fixed.`,
+                });
+              }
+              return;
+            }
+
+            let report = fs.existsSync('/tmp/validation-report.md')
+              ? fs.readFileSync('/tmp/validation-report.md', 'utf8')
+              : 'The validation script failed before producing a report: see the run log.';
+            if (report.length > 60000) report = report.slice(0, 60000) + '\n... (truncated)';
+            const body = `Branch \`${ref}\`, commit [${sha}](${commitUrl}), [workflow run](${runUrl}).\n\n${report}`;
+
+            if (existing) {
+              await github.rest.issues.createComment({ owner, repo, issue_number: existing.number, body });
+            } else {
+              await github.rest.issues.create({
+                owner, repo,
+                title: `TSV validation failed on ${ref} (${sha})`,
+                body, labels: [label],
+              });
+            }
+
+      - name: Fail the job if validation failed
+        if: steps.validate.outputs.status != '0'
+        run: exit 1

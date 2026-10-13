@@ -1820,8 +1820,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 224-16	PST211	224	16	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 224-17	PST211	224	17	an[diamo:]	andiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	6x1	_	_	2-7(81)
 224-18	PST211	224	18	grazie.	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=617.03	_	_	_	_
-225-0	???	225	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=612.752|End=613.066	_	_	_	0-2(80)
-226-0	???	226	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=615.632|End=615.946	_	_	_	0-2(81)
+225-0	??	225	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=612.752|End=613.066	_	_	_	0-2(80)
+226-0	??	226	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=615.632|End=615.946	_	_	_	0-2(81)
 227-0	PST211	227	0	e::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=618.77	0x2	_	_	_
 227-1	PST211	227	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 227-2	PST211	227	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8605,7 +8605,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1053-0	PST213	1053	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2998.24|End=2999.63	_	_	_	_
 1054-0	PST073	1054	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2999.93|End=3000.57	_	_	_	_
 1055-0	PST212	1055	0	sì.	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=3000.32|End=3000.73	_	_	_	_
-1056-0	???	1056	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3001.18|End=3002.467	_	_	_	_
+1056-0	??	1056	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3001.18|End=3002.467	_	_	_	_
 1057-0	PST212	1057	0	tua	tua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3001.2	_	_	_	_
 1057-1	PST212	1057	1	nonna:	nonna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x1	_	_	_
 1057-2	PST212	1057	2	diceva	diceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

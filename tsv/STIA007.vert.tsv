@@ -5841,7 +5841,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 494-3	PST015	494	3	spezzatino	spezzatino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2396.247	_	_	_	_
 495-0	PST015	495	0	°e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2397.24	0x2	_	_	_
 495-1	PST015	495	1	insomma	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-495-2	PST015	495	2	°		_	_	_	_	_	error	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
+495-2	PST015	495	2	°	_	_	_	_	_	_	error	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 495-3	PST015	495	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 495-4	PST015	495	4	(ho)	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
 495-5	PST015	495	5	provato	provato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

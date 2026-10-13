@@ -35,30 +35,30 @@ tu_id	speaker	start	end	parent_tu_id	text
 185	PST107_trad	242.634	243.252	184	se dio vuole
 187	PST107_trad	243.252	245.710	186	noi ci divertiremo qui, tu vai da tua madre
 190	PST107_trad	246.137	247.420	189	il manzo e il resto
-210	?_trad	267.682	268.887	209	un litro di latte, che dio ti benedica
+210	???_trad	267.682	268.887	209	un litro di latte, che dio ti benedica
 212	PST110_trad	268.887	270.957	211	è qui, è qui, dietro al detersivo in polvere per lavatrici
-214	?_trad	269.527	270.000	213	dov'è?
+214	???_trad	269.527	270.000	213	dov'è?
 216	PST110_trad	271.967	272.679	215	è qui guarda
-222	?_trad	281.198	282.140	221	è questo?
+222	???_trad	281.198	282.140	221	è questo?
 224	PST110_trad	281.802	282.837	223	sì, è quello
 253	PST107_trad	315.047	316.087	251	le farà dei dolci
 307	PST108_trad	375.557	376.537	306	
 316	PST107_trad	388.697	389.260	315	fratello
 318	PST107_trad	390.130	390.870	317	eccolo qui
 397	PST108_trad	518.694	520.786	396	del ristorante marrākəsh qarṭāj
-420	???_trad	559.957	560.897	419	che la pace sia con voi
+420	????_trad	559.957	560.897	419	che la pace sia con voi
 422	PST108_trad	560.900	561.497	421	che la pace sia con voi
 424	PST107_trad	561.548	562.070	423	fratello mio
 426	PST108_trad	562.030	562.555	425	come stai?
-428	???_trad	562.585	564.240	427	salve, salve, salve
-430	???_trad	564.440	565.347	429	tutto bene?
+428	????_trad	562.585	564.240	427	salve, salve, salve
+430	????_trad	564.440	565.347	429	tutto bene?
 432	PST108_trad	565.920	566.680	431	eh sì tutto bene
 434	PST107_trad	566.660	568.840	433	come stai amico, tutto bene? sei sereno?
-436	???_trad	569.120	569.850	435	che dio vi benedica
+436	????_trad	569.120	569.850	435	che dio vi benedica
 438	PST108_trad	569.890	571.130	437	@salim che dio ti benedica, sono cinque (euro)
-440	???_trad	570.750	575.040	439	[@salah] @salah in persona, tutto bene?
-442	???_trad	575.117	576.197	441	che la pace sia con voi
-446	???_trad	577.597	581.727	445	grazie a dio sto bene, buon ramadan, dai che dio ti benedica
+440	????_trad	570.750	575.040	439	[@salah] @salah in persona, tutto bene?
+442	????_trad	575.117	576.197	441	che la pace sia con voi
+446	????_trad	577.597	581.727	445	grazie a dio sto bene, buon ramadan, dai che dio ti benedica
 448	PST108_trad	580.120	581.040	447	che dio ti benedica xx
 472	PST110_trad	623.852	625.262	471	che hai detto tu?
 475	PST110_trad	626.082	627.360	474	parlami in arabo dai
@@ -89,15 +89,15 @@ tu_id	speaker	start	end	parent_tu_id	text
 1089	PST107_trad	1635.657	1637.447	1088	quello dei hadit (racconti e narrazioni che riportano i detti, le azioni, le approvazioni o i silenzi del profeta maometto), l'hai buttato
 1091	PST108_trad	1637.447	1639.145	1090	no, non quello
 1115	PST107_trad	1672.677	1673.947	1113	dai pulisci @ahmed
-1160	????_trad	1747.140	1748.000	1159	salve
+1160	?????_trad	1747.140	1748.000	1159	salve
 1162	PST107_trad	1749.750	1750.430	1161	sì?
 1164	PST110_trad	1750.460	1751.990	1163	hai bisogno di soldi oppure..?
 1166	PST107_trad	1751.990	1753.310	1165	devi andare alle poste?
 1168	PST107_trad	1753.770	1754.880	1167	devi fare la spesa tu?
-1170	????_trad	1755.760	1756.700	1169	una brioche?
-1172	????_trad	1758.000	1759.540	1171	eh? cosa vuoi? prendi cosa vuoi
+1170	?????_trad	1755.760	1756.700	1169	una brioche?
+1172	?????_trad	1758.000	1759.540	1171	eh? cosa vuoi? prendi cosa vuoi
 1174	PST108_trad	1758.290	1759.280	1173	costa dieci euro?
-1182	????_trad	1780.280	1781.610	1181	non vuole prendere nulla questa
+1182	?????_trad	1780.280	1781.610	1181	non vuole prendere nulla questa
 1192	PST107_trad	1908.186	1909.000	1191	faccio una foto
 1194	PST108_trad	1909.000	1912.619	1193	dai vieni qua, hai paura che ti facciano magia nera? la tua faccia è cadente (brutta), vieni
 1196	PST108_trad	1913.571	1914.358	1195	vieni amico mio

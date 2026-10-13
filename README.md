@@ -58,8 +58,7 @@ Each participant and each conversation are associated to a series of metadata, t
 Metadata is to be interpreted as follows:
 
 1. Participants metadata:
-	- `code`: unique anonymized identifier for each participant. Unidentified, occasional participants
-	 to conversations are transcribed with a `?`/`??`/`???` placeholder code instead and do not have a row here.
+	- `code`: unique anonymized identifier for each participant. Unidentified or occasional participants are not given an individual code: they are transcribed with a placeholder made only of question marks, which has a row in this table with all other fields set to `_`. Within a conversation, placeholders are assigned in order of first appearance: `??` for the first unidentified speaker (and the only one, in most conversations), then `???`, `????`, and so on. The same placeholder in different conversations does not refer to the same person. The `environment` tier (non-speech material and speech from external sources) is listed in the same way.
 	- `occupation`: occupation of the participant, according to [ISTAT categories](https://professioni.istat.it/). For more information see [occupation label](./occupation-levels.md)
 	- `gender`: either `M` for masculine or `F` for feminine
 	- `conversations`: semicolon-separated list of conversation codes the participant appears in
@@ -79,7 +78,7 @@ Metadata is to be interpreted as follows:
    - `languages`: `italian` and/or `other`, depending on whether foreign-language speech is present
    - `collection-point`: two-letter code of the collection area: `TO` for Turin for this module
    - `year`: year of collection
-   - `unknown-participant`: `yes` if the conversation's transcription contains one or more unidentified-speaker placeholder tiers (`?`, `??`, `???`, ...), `no` otherwise
+   - `unknown-participant`: `yes` if the conversation's transcription contains one or more unidentified-speaker placeholder tiers (`??`, `???`, `????`, ...), `no` otherwise
    - `community`: migrant community the speakers belong to: `moroccan`, `romanian` or `peruvian` (corresponds to the fourth letter of the conversation code: `A`, `R`, `S`)
 
 [^1]: `foreign-diploma`, `liceo-diploma`, `middle-school`, `none`, `phd`, `primary-school`, `technical-vocational-diploma`, `university-degree`, `university-degree-ongoing`
