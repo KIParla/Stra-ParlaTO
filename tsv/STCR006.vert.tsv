@@ -2849,7 +2849,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 431-0	PST092	431	0	allora:	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=992.124	5x1	_	_	_
 431-1	PST092	431	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 431-2	PST092	431	2	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-431-3	PST092	431	3	(n.ove	n.ove	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+431-3	PST092	431	3	(nove	nove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 431-4	PST092	431	4	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 431-5	PST092	431	5	finito?	finito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=994.6585	_	_	_	_
 432-0	PST211	432	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=994.6585	_	_	_	_

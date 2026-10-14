@@ -308,7 +308,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 58-7	PST125	58	7	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 58-8	PST125	58	8	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=97.465	_	_	_	_
 59-0	PST096	59	0	[(mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=93.09	_	_	0-2(0)	0-2(19)
-59-1	PST096	59	1	be:.llo)]	be:.llo	_	_	_	_	_	error	_	ContainsVariation=No	_	End=94.02	_	_	0-5(0)	0-5(19)
+59-1	PST096	59	1	be:llo)]	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=94.02	1x1	_	0-5(0)	0-5(19)
 60-0	PST125	60	0	perché:	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=97.75	5x1	_	_	_
 60-1	PST125	60	1	entri	entri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 60-2	PST125	60	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9973,7 +9973,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2320-14	PST127	2320	14	di]	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(636)
 2320-15	PST127	2320	15	ragazze	ragazze	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3579.198	_	_	_	_
 2321-0	PST122	2321	0	[s:ì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3578.2|End=3578.88	0x1	_	_	0-2(636)
-2322-0	PST122	2322	0	h:::	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3579.198	0x3	_	_	_
+2322-0	PST122	2322	0	mh:::	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3579.198	1x3	_	_	_
 2322-1	PST122	2322	1	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2322-2	PST122	2322	2	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2322-3	PST122	2322	3	devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -13490,7 +13490,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 3123-4	PST122	3123	4	invito:	invito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
 3123-5	PST122	3123	5	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 3123-6	PST122	3123	6	grigl~	grigl~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
-3123-7	PST122	3123	7	h:	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4685.74	0x1	_	_	_
+3123-7	PST122	3123	7	eh:	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4685.74	1x1	_	_	_
 3124-0	PST122	3124	0	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4685.835	_	_	_	_
 3124-1	PST122	3124	1	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 3124-2	PST122	3124	2	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -14633,12 +14633,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 3391-1	PST122	3391	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(959)
 3391-2	PST122	3391	2	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(959)
 3391-3	PST122	3391	3	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(959)
-3391-4	PST122	3391	4	a~	a~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	0-2(959)
-3391-5	PST122	3391	5	h::	h	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x2	_	_	0-1(959)
-3391-6	PST122	3391	6	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(959)
-3391-7	PST122	3391	7	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(959)
-3391-8	PST122	3391	8	mai]	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(959)
-3391-9	PST122	3391	9	anda:to:?	andato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=5062.123	3x1,5x1	_	_	_
+3391-4	PST122	3391	4	ah::	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x2	_	_	0-2(959)
+3391-6	PST122	3391	5	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(959)
+3391-7	PST122	3391	6	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(959)
+3391-8	PST122	3391	7	mai]	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(959)
+3391-9	PST122	3391	8	anda:to:?	andato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=5062.123	3x1,5x1	_	_	_
 3392-0	PST127	3392	0	no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5062.35	1x1	_	_	_
 3392-1	PST127	3392	1	serate	serate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 3392-2	PST127	3392	2	[di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(960)

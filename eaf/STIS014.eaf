@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T11:03:44+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-14T16:05:08+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<MEDIA_DESCRIPTOR MEDIA_URL="STIS014.mp3" RELATIVE_MEDIA_URL="STIS014.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
@@ -3282,7 +3282,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a598" TIME_SLOT_REF1="ts1194" TIME_SLOT_REF2="ts1195">
-				<ANNOTATION_VALUE>immagino fosse più ristretta di adesso per~ appunto dicevi che tu non la frequentavi tantom,a</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>immagino fosse più ristretta di adesso per~ appunto dicevi che tu non la frequentavi tanto ma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4129,7 +4129,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
-				<ANNOTATION_VALUE>questo:, e::h. (.) cuoco italiano, con la professoressa di=.del corso che</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>questo:, e::h. (.) cuoco italiano, con la professoressa di. del corso che</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5284,7 +5284,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a499" TIME_SLOT_REF1="ts996" TIME_SLOT_REF2="ts997">
-				<ANNOTATION_VALUE>per me: alla pari mio. &gt;non,el senso&lt; (.) del mio stesso colore di pelle tutto=,lui.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per me: alla pari mio. &gt;no nel senso&lt; (.) del mio stesso colore di pelle tutto, lui.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5584,7 +5584,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a612" TIME_SLOT_REF1="ts1222" TIME_SLOT_REF2="ts1223">
-				<ANNOTATION_VALUE>e: le famiglie arrivano complete=.intere. nel passato invece erano solo le donne, che poi::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: le famiglie arrivano complete. intere. nel passato invece erano solo le donne, che poi::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6414,7 +6414,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a918" TIME_SLOT_REF1="ts1834" TIME_SLOT_REF2="ts1835">
-				<ANNOTATION_VALUE>[sì lavoro:: (.) di~] (.) e::h in real~ beh beh vi racconto anche questo=.no, che una una::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì lavoro:: (.) di~] (.) e::h in real~ beh beh vi racconto anche questo. no, che una una::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6444,7 +6444,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a928" TIME_SLOT_REF1="ts1854" TIME_SLOT_REF2="ts1855">
-				<ANNOTATION_VALUE>°e::h° io=,almeno sono una persona che. (.) °eh° prova:: o ti adatti, o ti trasformi per migliorare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°e::h° io, almeno sono una persona che. (.) °eh° prova:: o ti adatti, o ti trasformi per migliorare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6564,7 +6564,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a963" TIME_SLOT_REF1="ts1924" TIME_SLOT_REF2="ts1925">
-				<ANNOTATION_VALUE>loro convivono con gli sciama[ni=.mio padre]: non fa niente: ((ride)) senza: gli sciamani praticamente.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>loro convivono con gli sciama[ni. mio padre]: non fa niente: ((ride)) senza: gli sciamani praticamente.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6929,7 +6929,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1083" TIME_SLOT_REF1="ts2164" TIME_SLOT_REF2="ts2165">
-				<ANNOTATION_VALUE>perché poi ogniuno parlava:, piuttosto della. come vede il mo:ndo: #de=.di quello che dal cuore poteva condividere quando voleva da:re,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perché poi ogniuno parlava:, piuttosto della. come vede il mo:ndo: #de. di quello che dal cuore poteva condividere quando voleva da:re,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6954,7 +6954,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1089" TIME_SLOT_REF1="ts2176" TIME_SLOT_REF2="ts2177">
-				<ANNOTATION_VALUE>&gt;cioè&lt; io lo vedo per come l'ho vissuto io no=,perché. (.) diventi un discorso i:ntimo=interiore,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>&gt;cioè&lt; io lo vedo per come l'ho vissuto io no, perché. (.) diventi un discorso i:ntimo=interiore,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6994,7 +6994,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1101" TIME_SLOT_REF1="ts2200" TIME_SLOT_REF2="ts2201">
-				<ANNOTATION_VALUE>[°e:h°] il mio=,la mia anima [no, la mia parte di me per] (.) per contribuire con te.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[°e:h°] il mio, la mia anima [no, la mia parte di me per] (.) per contribuire con te.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7239,7 +7239,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1202" TIME_SLOT_REF1="ts2402" TIME_SLOT_REF2="ts2403">
-				<ANNOTATION_VALUE>e:h che ve:~ vedi: un ragazzo:: °n°~ una ragazzina: nera=,di origine africana e l'altro di origine: asiati:co::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h che ve:~ vedi: un ragazzo:: °n°~ una ragazzina: nera, di origine africana e l'altro di origine: asiati:co::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
