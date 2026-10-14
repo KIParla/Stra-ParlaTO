@@ -49,7 +49,7 @@
   },
   {
     "tu_id": "1386",
-    "speaker": "PST0203_trad",
+    "speaker": "PST203_trad",
     "start": "5040.372",
     "end": "5042.109",
     "parent_tu_id": "1384",
@@ -65,7 +65,7 @@
   },
   {
     "tu_id": "1401",
-    "speaker": "PST0203_trad",
+    "speaker": "PST203_trad",
     "start": "5070.747",
     "end": "5071.335",
     "parent_tu_id": "1400",

@@ -33,7 +33,7 @@
   },
   {
     "tu_id": "50",
-    "speaker": "PSB105_trad",
+    "speaker": "PST105_trad",
     "start": "84.505",
     "end": "85.530",
     "parent_tu_id": "49",
@@ -49,7 +49,7 @@
   },
   {
     "tu_id": "127",
-    "speaker": "PSB105_trad",
+    "speaker": "PST105_trad",
     "start": "200.197",
     "end": "201.104",
     "parent_tu_id": "126",
@@ -65,7 +65,7 @@
   },
   {
     "tu_id": "136",
-    "speaker": "PSB105_trad",
+    "speaker": "PST105_trad",
     "start": "210.520",
     "end": "215.400",
     "parent_tu_id": "135",
