@@ -4961,7 +4961,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1172-0	PST160	1172	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1873.27	_	_	_	_
 1172-1	PST160	1172	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1172-2	PST160	1172	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1172-3	PST160	1172	3	nov.e:	nov.e:	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+1172-3	PST160	1172	3	nove:	nove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	_	_	_
 1172-4	PST160	1172	4	dieci:	dieci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x1	_	_	_
 1172-5	PST160	1172	5	dormiva	dormiva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1875.67	_	_	_	_
 1173-0	PST160	1173	0	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1875.78	_	_	_	_

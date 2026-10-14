@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T11:03:43+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-14T16:19:03+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<MEDIA_DESCRIPTOR MEDIA_URL="STIS001.mp3" RELATIVE_MEDIA_URL="STIS001.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
@@ -5346,7 +5346,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1286" TIME_SLOT_REF1="ts2570" TIME_SLOT_REF2="ts2571">
-				<ANNOTATION_VALUE>°cos'altro vogliamo chiedere=,magari sui social internet°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>°cos'altro vogliamo chiedere, magari sui social internet°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5706,7 +5706,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1499" TIME_SLOT_REF1="ts2996" TIME_SLOT_REF2="ts2997">
-				<ANNOTATION_VALUE>[eh eh [e finisce]?]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh eh [e finisce?]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5816,7 +5816,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1583" TIME_SLOT_REF1="ts3164" TIME_SLOT_REF2="ts3165">
-				<ANNOTATION_VALUE>eh~ voi invece avete=avete lasciato, un [u:hm una situazione (.) be:l]la, [pe]::r [per] vostro figlio=.una cosa [mo:lto coraggios]a.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh~ voi invece avete=avete lasciato, un [u:hm una situazione (.) be:l]la, [pe]::r [per] vostro figlio. una cosa [mo:lto coraggios]a.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6328,7 +6328,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a189" TIME_SLOT_REF1="ts376" TIME_SLOT_REF2="ts377">
-				<ANNOTATION_VALUE>niente na~: [:h: #de ahí]::: (.) o altro #lugares, no. [#no #hemos] #podido:: (.) visitare.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>niente na~: [#de ahí]::: (.) o altro #lugares, no. [#no #hemos] #podido:: (.) visitare.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8423,7 +8423,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1222" TIME_SLOT_REF1="ts2442" TIME_SLOT_REF2="ts2443">
-				<ANNOTATION_VALUE>sì[,sì sì (.) sì]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì, [sì sì (.) sì]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8518,7 +8518,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1301" TIME_SLOT_REF1="ts2600" TIME_SLOT_REF2="ts2601">
-				<ANNOTATION_VALUE>[°e:[:h],]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:[:h,]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8528,7 +8528,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1306" TIME_SLOT_REF1="ts2610" TIME_SLOT_REF2="ts2611">
-				<ANNOTATION_VALUE>[sì: (.) [sì sì].]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì: (.) [sì sì.]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8908,12 +8908,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1547" TIME_SLOT_REF1="ts3092" TIME_SLOT_REF2="ts3093">
-				<ANNOTATION_VALUE>#y #aquí::: inizia #*en settembre, ((ride)) &gt;#en[tonces],&lt; °un po'° ((ride)) (.) #y #ya #él e:h. mio figlio, sei anni, sei anni obbligatorio qui.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#y #aquí::: inizia #*en settembre, ((ride)) &gt;#en[tonces,]&lt; °un po'° ((ride)) (.) #y #ya #él e:h. mio figlio, sei anni, sei anni obbligatorio qui.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1552" TIME_SLOT_REF1="ts3102" TIME_SLOT_REF2="ts3103">
-				<ANNOTATION_VALUE>e::h s[tudiare], il bamb[ino]. #y e::h #buscando, scuola=,scuola.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e::h s[tudiare,] il bamb[ino]. #y e::h #buscando, scuola, scuola.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

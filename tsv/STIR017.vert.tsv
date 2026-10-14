@@ -887,7 +887,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 123-3	PST045	123	3	nessuna	nessuna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(57)
 123-4	PST045	123	4	zero	zero	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-4(57)
 123-5	PST045	123	5	(.)]	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(57)
-123-6	PST045	123	6	zer.o.	zer.o.	_	_	_	_	_	error	_	ContainsVariation=No	_	End=233.329	_	_	_	_
+123-6	PST045	123	6	zero.	zero	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=233.329	_	_	_	_
 124-0	PST211	124	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=233.315	_	_	_	_
 124-1	PST211	124	1	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=233.969	0x1	_	_	_
 125-0	PST211	125	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=234.054	_	_	_	_

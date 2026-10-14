@@ -5443,12 +5443,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 759-0	PST211	759	0	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1763.8	_	_	_	_
 759-1	PST211	759	1	dobbiamo	dobbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 759-2	PST211	759	2	avere	avere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-759-3	PST211	759	3	(n.ove	n.ove	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+759-3	PST211	759	3	(nove	nove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 759-4	PST211	759	4	dobbiamo	dobbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 759-5	PST211	759	5	essere	essere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 759-6	PST211	759	6	meno	meno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 759-7	PST211	759	7	invasivi	invasivi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-759-8	PST211	759	8	poss[ibili],	possibili	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1767.56	_	_	_	4-9(227)
+759-8	PST211	759	8	poss[ibili,]	possibili	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1767.56	_	_	_	4-9(227)
 760-0	PST100	760	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1766.85|End=1767.57	_	_	_	0-4(227)
 761-0	PST211	761	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1767.615	_	_	_	_
 761-1	PST211	761	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

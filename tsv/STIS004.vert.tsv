@@ -343,7 +343,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 87-0	PST201	87	0	[oka(y)]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=166.16|End=166.656	_	_	3-4(0)	0-4(13)
 88-0	PST201	88	0	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=167.813	_	_	_	_
 88-1	PST201	88	1	tu:	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
-88-2	PST201	88	2	in[vece]?]	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=168.681	_	_	_	_
+88-2	PST201	88	2	in[vece?]]	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=168.681	_	_	_	_
 89-0	PST008	89	0	[°a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=167.813	_	_	_	_
 89-1	PST008	89	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 89-2	PST008	89	2	sera:	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	3x1	_	_	_
@@ -3965,7 +3965,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 966-2	PST008	966	2	[cen~	cen~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 966-3	PST008	966	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 966-4	PST008	966	4	<#o[cho]	ocho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Slow=0-5(0)	_	_
-966-5	PST008	966	5	cento>.]	cento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=1573.504	_	Slow=0-5(0)	_	_
+966-5	PST008	966	5	cento.>]	cento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=1573.504	_	Slow=0-5(0)	_	_
 967-0	PST201	967	0	[otto,	otto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1571.732	_	_	_	_
 967-1	PST201	967	1	cent[o:]]	cento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1572.727	4x1	_	_	_
 968-0	PST007	968	0	[[o(t)]to:ce:nto]	ottocento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1572.55	3x1,5x1	_	1-2(0)	_

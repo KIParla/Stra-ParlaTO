@@ -1,17 +1,17 @@
 tu_id	speaker	start	end	parent_tu_id	text
-2	PST233_trad	6.000	7.790	1	inizio a parlare in
-4	PST233_trad	8.140	9.330	3	in italiano
+2	PST223_trad	6.000	7.790	1	inizio a parlare in
+4	PST223_trad	8.140	9.330	3	in italiano
 6	PST078_trad	9.660	10.200	5	ti capirò
-10	PST233_trad	15.540	16.070	9	capisci così?
+10	PST223_trad	15.540	16.070	9	capisci così?
 12	PST078_trad	16.720	18.990	11	sì, però con moderazione
 15	PST078_trad	19.460	23.230	13	siamo italiani, il nostro italiano è da mercanti
 17	PST078_trad	24.340	25.460	16	eh non
-19	PST233_trad	26.590	27.400	18	va bene
+19	PST223_trad	26.590	27.400	18	va bene
 23	PST078_trad	34.590	36.000	22	parlami
 25	??_trad	36.140	37.330	24	nome
 33	??_trad	53.080	55.580	32	parla per stessa
 43	PST078_trad	77.980	79.280	42	vai vai (lit. affidati a dio)
-279	PST233_trad	698.880	699.800	278	vivere in italia è faticoso (lit. l'italia delle fatiche)
+279	PST223_trad	698.880	699.800	278	vivere in italia è faticoso (lit. l'italia delle fatiche)
 281	PST078_trad	700.050	701.950	280	scrivi solo ciò che potrebbe andare bene
 453	??_trad	1194.180	1195.440	452	ma...
 458	??_trad	1209.620	1210.810	457	cioè se
@@ -19,7 +19,7 @@ tu_id	speaker	start	end	parent_tu_id	text
 462	PST078_trad	1216.430	1219.370	461	sì mi sono integrata con gli italiani
 466	PST078_trad	1225.520	1226.060	465	bene
 468	PST078_trad	1227.300	1229.230	467	bene, sono loro le persone brave
-470	PST233_trad	1229.220	1230.360	469	in italiano
-528	PST233_trad	1384.330	1385.145	527	basta
-530	PST233_trad	1385.710	1386.710	529	hai raccontato tutto
+470	PST223_trad	1229.220	1230.360	469	in italiano
+528	PST223_trad	1384.330	1385.145	527	basta
+530	PST223_trad	1385.710	1386.710	529	hai raccontato tutto
 532	PST078_trad	1386.890	1391.760	531	abbiamo raccontato tutto quelllo che ci è venuto in mente
