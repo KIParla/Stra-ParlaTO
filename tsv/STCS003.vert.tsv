@@ -3120,8 +3120,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 653-0	PST203	653	0	[mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1367.213	_	_	_	0-2(120)
 653-1	PST203	653	1	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1367.475	_	_	_	0-2(120)
 654-0	PST203	654	0	[>mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1368.088	_	Fast=0-2(0)	_	0-2(121)
-654-1	PST203	654	1	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-2(0)	_	0-2(121)
-654-5	PST203	654	2	<		_	_	_	_	_	error	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
+654-1	PST203	654	1	mh<	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-2(0)	_	0-2(121)
 654-2	PST203	654	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(121)
 654-4	PST203	654	4	mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1368.9	_	_	_	0-2(121)
 655-0	PST098	655	0	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1368.925	_	_	_	_
