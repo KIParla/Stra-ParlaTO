@@ -1,5 +1,18 @@
 = Changelog
 
+== v1.1.0 (2026-10-15)
+
+=== What's changed in 1.1.0
+
+* EAF: new layered structure. Each speaker has the tiers `ref@<speaker>` (time-aligned transcription units, value = `tu_id`) and `tx@<speaker>` (enriched transcription, the only text read back), and `ft@<speaker>` (free translation). The derived word-level tiers are no longer in the files (they are generated on request). The files are valid against the official EAFv3.0 schema.
+* Stable ids: unit and token ids no longer change when an `.eaf` is edited and synchronized back to the `tsv/` file. Annotations that the `.eaf` cannot carry (lemma, POS, `Language=` labels) are kept.
+* Unidentified speakers: placeholders made only of question marks (`??`, `???`, ...) in order of first appearance in each conversation, each with a row in `metadata/participants.tsv`; empty `form` values are written as `_`.
+* Translations: the translation tier names are corrected; a translation of an untranscribed unit is tracked in an issue.
+* Corrected unit texts: stray symbols attached to the neighbouring word, glued words and punctuation inside words fixed.
+* Automatic validation of the tables against the CSVW schema on every push.
+
+link:https://github.com/KIParla/Stra-ParlaTO/compare/v1.0.0...v1.1.0[Full Changelog]
+
 == v1.0.0 (2026-10-11)
 
 === First release of Stra-ParlaTO
