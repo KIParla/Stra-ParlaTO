@@ -1,5 +1,13 @@
 = Changelog
 
+== v1.1.1 (2026-10-15)
+
+=== What's changed in 1.1.1
+
+* Unintelligible tokens: 1 unintelligible token written `[((xxxx))]` in the original transcription (STIR019) are now `(xxx)`, with form `xxx` and type `unknown` (they were typed `nonverbalbehavior` because of the double parentheses). `.eaf` and linear files regenerated.
+
+link:https://github.com/KIParla/Stra-ParlaTO/compare/v1.1.0...v1.1.1[Full Changelog]
+
 == v1.1.0 (2026-10-15)
 
 === What's changed in 1.1.0
