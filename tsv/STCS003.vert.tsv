@@ -7310,7 +7310,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1738-1	PST098	1738	1	quanti	quanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1738-2	PST098	1738	2	tipi	tipi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1738-3	PST098	1738	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1738-4	PST098	1738	4	##empanadas	#empanadas	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1738-4	PST098	1738	4	#empanadas	empanadas	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1738-5	PST098	1738	5	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1738-6	PST098	1738	6	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1738-7	PST098	1738	7	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
