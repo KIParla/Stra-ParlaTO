@@ -506,7 +506,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 71-10	PST049	71	10	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 71-11	PST049	71	11	questi	questi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 71-12	PST049	71	12	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-71-13	PST049	71	13	fi[gli]	figli	_	_	_	_	_	linguistic	_	_	_	End=175.032	_	_	_	1-5(11)
+71-13	PST049	71	13	fi[gli]	figli	_	_	_	_	_	linguistic	_	_	_	End=175.032	_	_	_	2-5(11)
 72-0	PST211	72	0	[o]k	ok	_	_	_	_	_	linguistic	_	_	_	Begin=174.857|End=175.354	_	_	_	0-1(11)
 73-0	PST049	73	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=175.354	_	_	_	_
 73-1	PST049	73	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -854,7 +854,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 115-13	PST049	115	13	e::h	eh	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
 115-14	PST049	115	14	qua:~	qua~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	2x1	_	_	_
 115-15	PST049	115	15	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-115-16	PST049	115	16	multim[edia]	multimedia	_	_	_	_	_	linguistic	_	_	_	End=285.607	_	_	_	4-9(23)
+115-16	PST049	115	16	multim[edia]	multimedia	_	_	_	_	_	linguistic	_	_	_	End=285.607	_	_	_	6-10(23)
 116-0	PST211	116	0	[che	che	_	_	_	_	_	linguistic	_	_	_	Begin=285.38	_	_	_	0-3(23)
 116-1	PST211	116	1	tra]	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(23)
 116-2	PST211	116	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -1171,7 +1171,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 160-9	PST211	160	9	perù	perù	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 160-10	PST211	160	10	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 160-11	PST211	160	11	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-160-12	PST211	160	12	univer[si]tà	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(37)
+160-12	PST211	160	12	univer[si]tà	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(37)
 160-13	PST211	160	13	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 160-14	PST211	160	14	italia?	italia	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=386.94	_	_	_	_
 161-0	PST049	161	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=386.1|End=386.305	_	_	_	0-2(37)
@@ -1322,7 +1322,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 179-15	PST049	179	15	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 179-16	PST049	179	16	li	li	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 179-17	PST049	179	17	conosci	conosci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-179-18	PST049	179	18	probabil[mente	probabilmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-13(45)
+179-18	PST049	179	18	probabil[mente	probabilmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-13(45)
 179-19	PST049	179	19	ma]	ma	_	_	_	_	_	linguistic	_	_	_	End=445.223	_	_	_	0-2(45)
 180-0	PST211	180	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=444.714|End=445.156	_	_	_	0-2(45)
 181-0	PST049	181	0	e:::hm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=446.152	0x3	_	_	_
@@ -1705,8 +1705,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 230-26	PST049	230	26	cose	cose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 230-27	PST049	230	27	legate	legate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 230-28	PST049	230	28	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-230-29	PST049	230	29	educazione	educazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-10(57)
-230-30	PST049	230	30	[xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=585.986	_	_	_	0-1(57)
+230-29	PST049	230	29	educazione	educazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+230-30	PST049	230	30	[xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=585.986	_	_	_	0-2(57)
 231-0	PST211	231	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=585.623	_	_	_	0-2(57)
 231-1	PST211	231	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=586.02	_	_	_	0-2(57)
 232-0	PST049	232	0	ehm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=586.783|End=587.471	_	_	_	_
@@ -2328,7 +2328,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 297-32	PST211	297	32	partito	partito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 297-33	PST211	297	33	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 297-34	PST211	297	34	interno	interno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-297-35	PST211	297	35	giu[sto]?	giusto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=828.757	_	_	_	1-5(70)
+297-35	PST211	297	35	giu[sto]?	giusto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=828.757	_	_	_	3-6(70)
 298-0	PST049	298	0	((schiarisce_la_voce))	((schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=818.87|End=819.256	_	_	_	_
 299-0	PST049	299	0	((schiarisce_la_voce))	((schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=824.352|End=824.738	_	_	_	_
 300-0	PST049	300	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=828.392	_	_	_	0-2(71)
@@ -3079,10 +3079,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 383-10	PST049	383	10	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 383-11	PST049	383	11	congresso	congresso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 383-12	PST049	383	12	di::	di	_	_	_	_	_	linguistic	_	_	_	_	1x2	_	_	_
-383-13	PST049	383	13	syriza	syriza	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=5-6(0)	_	_
+383-13	PST049	383	13	syriza	syriza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 383-14	PST049	383	14	>non	non	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 383-15	PST049	383	15	so	so	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-383-16	PST049	383	16	se<	se	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
+383-16	PST049	383	16	se<	se	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 383-17	PST049	383	17	conosci,	conosci	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 383-18	PST049	383	18	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 383-19	PST049	383	19	e::hm	ehm	_	_	_	_	_	linguistic	_	_	_	End=1119.466	0x2	_	_	_
@@ -3279,7 +3279,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 405-2	PST211	405	2	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	0-2(98)
 405-3	PST211	405	3	x	x	_	_	_	_	_	unknown	_	_	Syllables=1	_	_	_	_	0-1(98)
 405-4	PST211	405	4	mezz'	mezz'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(98)
-405-5	PST211	405	5	età]	età	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(98)
+405-5	PST211	405	5	età]	età	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(98)
 405-6	PST211	405	6	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 405-7	PST211	405	7	oltre	oltre	_	_	_	_	_	linguistic	_	_	_	End=1190.563	_	_	_	_
 406-0	PST049	406	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1190.72	_	_	_	_
@@ -3319,7 +3319,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 410-19	PST211	410	19	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 410-20	PST211	410	20	inclusio~	inclusio~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 410-21	PST211	410	21	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-410-22	PST211	410	22	includer[e::]	includere	_	_	_	_	_	linguistic	_	_	_	_	8x2	_	_	7-9(100)
+410-22	PST211	410	22	includer[e::]	includere	_	_	_	_	_	linguistic	_	_	_	_	8x2	_	_	8-9(100)
 410-23	PST211	410	23	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 410-24	PST211	410	24	quindi:	quindi	_	_	_	_	_	linguistic	_	_	_	End=1205.292	5x1	_	_	_
 411-0	PST049	411	0	[sì	sì	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1204.219	_	_	_	0-2(100)
@@ -3385,9 +3385,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 416-23	PST049	416	23	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 416-24	PST049	416	24	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 416-25	PST049	416	25	ricordo	ricordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-416-26	PST049	416	26	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(105)
+416-26	PST049	416	26	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 416-27	PST049	416	27	[si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(105)
-416-28	PST049	416	28	pr~]	pr~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-2(105)
+416-28	PST049	416	28	pr~]	pr~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(105)
 416-29	PST049	416	29	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 416-30	PST049	416	30	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 416-31	PST049	416	31	pronuncia,	pronuncia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1222.4	_	_	_	_
@@ -3628,8 +3628,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 440-15	PST211	440	15	i~	i~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 440-16	PST211	440	16	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 440-17	PST211	440	17	idea	idea	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-440-18	PST211	440	18	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=2-3(0)	_	_
-440-19	PST211	440	19	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
+440-18	PST211	440	18	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+440-19	PST211	440	19	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 440-20	PST211	440	20	capire	capire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 440-21	PST211	440	21	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 440-22	PST211	440	22	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3637,7 +3637,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 440-24	PST211	440	24	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 440-25	PST211	440	25	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 440-26	PST211	440	26	mamma	mamma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-440-27	PST211	440	27	andars[ene]	andarsene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-8(?)
+440-27	PST211	440	27	andars[ene]	andarsene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-9(?)
 440-28	PST211	440	28	mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	_
 440-29	PST211	440	29	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=1308.099	_	_	_	_
 441-0	PST049	441	0	((schiarisce_la_voce))	((schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1300.9|End=1301.373	_	_	_	_
@@ -3654,16 +3654,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 444-6	PST049	444	6	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 444-7	PST049	444	7	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 444-8	PST049	444	8	sul	sul	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-444-9	PST049	444	9	socia[le]	sociale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(117)
+444-9	PST049	444	9	socia[le]	sociale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(117)
 444-10	PST049	444	10	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-444-11	PST049	444	11	i[n	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(118)
+444-11	PST049	444	11	i[n	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(118)
 444-12	PST049	444	12	realtà]::::	realtà	_	_	_	_	_	linguistic	_	_	_	_	5x4	_	_	0-6(118)
-444-13	PST049	444	13	no[n:]	non	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	1-3(119)
+444-13	PST049	444	13	no[n:]	non	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	2-3(119)
 444-14	PST049	444	14	m::h	mh	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
 444-15	PST049	444	15	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 444-16	PST049	444	16	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(116)
 444-17	PST049	444	17	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(116)
-444-18	PST049	444	18	tempo]	tempo	_	_	_	_	_	linguistic	_	_	_	End=1315.918	_	_	_	0-4(116)
+444-18	PST049	444	18	tempo]	tempo	_	_	_	_	_	linguistic	_	_	_	End=1315.918	_	_	_	0-5(116)
 445-0	PST211	445	0	[ah	ah	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1311.22	_	_	_	0-2(117)
 445-1	PST211	445	1	ah]	ah	_	_	_	_	_	linguistic	_	_	_	End=1311.696	_	_	_	0-2(117)
 446-0	PST211	446	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=1311.877|End=1312.358	_	_	_	0-4(118)
@@ -3829,7 +3829,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 474-8	PST049	474	8	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	0-6(0)	_
 474-9	PST049	474	9	età)	età	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	_
 474-10	PST049	474	10	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
-474-11	PST049	474	11	per[ò:]	però	_	_	_	_	_	linguistic	_	_	_	End=1386.337	3x1	_	_	2-4(124)
+474-11	PST049	474	11	per[ò:]	però	_	_	_	_	_	linguistic	_	_	_	End=1386.337	3x1	_	_	3-4(124)
 475-0	PST211	475	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1386.017	_	_	_	0-2(124)
 475-1	PST211	475	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1386.345	_	_	_	0-2(124)
 476-0	PST049	476	0	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=1387.204	_	_	_	_
@@ -4299,7 +4299,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 536-14	PST049	536	14	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 536-15	PST049	536	15	equivalente	equivalente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 536-16	PST049	536	16	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-536-17	PST049	536	17	i[talia]no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(132)
+536-17	PST049	536	17	i[talia]no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(132)
 536-18	PST049	536	18	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1584.876	_	_	_	_
 537-0	PST211	537	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1584.281	_	_	_	0-2(132)
 537-1	PST211	537	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1584.599	_	_	_	0-2(132)
@@ -5142,8 +5142,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 648-18	PST049	648	18	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-19	PST049	648	19	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-20	PST049	648	20	parla	parla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-648-21	PST049	648	21	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(156)
-648-22	PST049	648	22	[spagnolo]	spagnolo	_	_	_	_	_	linguistic	_	_	_	End=1890.425	_	_	_	0-6(156)
+648-21	PST049	648	21	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+648-22	PST049	648	22	[spagnolo]	spagnolo	_	_	_	_	_	linguistic	_	_	_	End=1890.425	_	_	_	0-8(156)
 649-0	PST211	649	0	[ah	ah	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1889.99	_	_	_	0-2(156)
 649-1	PST211	649	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(156)
 649-2	PST211	649	2	okay]	okay	_	_	_	_	_	linguistic	_	_	_	End=1890.85	_	_	_	0-4(156)
@@ -5177,7 +5177,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 653-16	PST049	653	16	per:	per	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 653-17	PST049	653	17	sembrare	sembrare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 653-18	PST049	653	18	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-653-19	PST049	653	19	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(159)
+653-19	PST049	653	19	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(159)
 653-20	PST049	653	20	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(159)
 653-21	PST049	653	21	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(159)
 653-22	PST049	653	22	genere]?	genere	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1906.998	_	_	_	0-6(159)
@@ -5612,7 +5612,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 709-12	PST211	709	12	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 709-13	PST211	709	13	imprecazione	imprecazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 709-14	PST211	709	14	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-709-15	PST211	709	15	spagn[olo]?	spagnolo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2046.529	_	_	_	4-8(179)
+709-15	PST211	709	15	spagn[olo]?	spagnolo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2046.529	_	_	_	5-8(179)
 710-0	PST049	710	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2046.164	_	_	_	0-2(?)
 710-1	PST049	710	1	forse	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 710-2	PST049	710	2	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5843,7 +5843,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 748-9	PST049	748	9	perdo	perdo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 748-10	PST049	748	10	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 748-11	PST049	748	11	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-748-12	PST049	748	12	ita[liano]	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-8(190)
+748-12	PST049	748	12	ita[liano]	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(190)
 748-13	PST049	748	13	né	né	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 748-14	PST049	748	14	viceversa	viceversa	_	_	_	_	_	linguistic	_	_	_	End=2129.661	_	_	_	_
 749-0	PST211	749	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=2128.374	_	_	_	0-2(190)
@@ -6340,7 +6340,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 817-16	PST049	817	16	ottimi	ottimi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 817-17	PST049	817	17	traduttori	traduttori	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 817-18	PST049	817	18	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-817-19	PST049	817	19	si[curo]	sicuro	_	_	_	_	_	linguistic	_	_	_	End=2296.033	_	_	_	1-6(211)
+817-19	PST049	817	19	si[curo]	sicuro	_	_	_	_	_	linguistic	_	_	_	End=2296.033	_	_	_	2-6(211)
 818-0	PST211	818	0	[certo]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=2295.664|End=2296.055	_	_	_	0-5(211)
 819-0	PST049	819	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=2297.048	_	_	_	_
 819-1	PST049	819	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

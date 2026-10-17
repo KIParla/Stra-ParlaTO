@@ -582,7 +582,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 166-1	PST217	166	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 166-2	PST217	166	2	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 166-3	PST217	166	3	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-166-4	PST217	166	4	cit[tà]?	città	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=287.133	_	_	_	2-5(41)
+166-4	PST217	166	4	cit[tà]?	città	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=287.133	_	_	_	3-5(41)
 167-0	PST107	167	0	[gua]rda	guarda	_	_	_	_	_	linguistic	_	_	_	Begin=286.813	_	_	_	0-3(41)
 167-1	PST107	167	1	andato	andato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 167-2	PST107	167	2	lì	lì	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
@@ -3487,11 +3487,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1156-3	PST108	1156	3	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(283)
 1156-4	PST108	1156	4	la:]	la	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(283)
 1156-5	PST108	1156	5	[era:	era	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-3(284)
-1156-6	PST108	1156	6	disabile]	disabile	_	_	_	_	_	linguistic	_	_	_	End=1533.107	_	_	_	0-7(284)
+1156-6	PST108	1156	6	disabile]	disabile	_	_	_	_	_	linguistic	_	_	_	End=1533.107	_	_	_	0-8(284)
 1157-0	??	1157	0	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1530.579	_	_	_	0-2(283)
 1157-1	??	1157	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(283)
 1157-2	??	1157	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(283)
-1157-3	??	1157	3	era]	era	_	_	_	_	_	linguistic	_	_	_	End=1531.587	_	_	_	0-2(283)
+1157-3	??	1157	3	era]	era	_	_	_	_	_	linguistic	_	_	_	End=1531.587	_	_	_	0-3(283)
 1158-0	??	1158	0	[(ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1531.907	_	_	0-2(0)	0-2(284)
 1158-1	??	1158	1	è)	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	0-1(284)
 1158-2	??	1158	2	mancata]	mancata	_	_	_	_	_	linguistic	_	_	_	End=1533.089	_	_	_	0-7(284)
@@ -5306,7 +5306,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1784-3	PST217	1784	3	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1784-4	PST217	1784	4	studiato	studiato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1784-5	PST217	1784	5	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1784-6	PST217	1784	6	scu[ola:	scuola	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	2-6(381)
+1784-6	PST217	1784	6	scu[ola:	scuola	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	3-6(381)
 1784-7	PST217	1784	7	o:]	o	_	_	_	_	_	linguistic	_	_	_	End=2399.837	0x1	_	_	0-1(381)
 1785-0	??	1785	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2399.414	_	_	_	0-2(381)
 1785-1	??	1785	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=2400.294	_	_	_	_

@@ -879,7 +879,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 146-24	PST092	146	24	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 146-25	PST092	146	25	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 146-26	PST092	146	26	seconda	seconda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-146-27	PST092	146	27	pers[ona]	persona	_	_	_	_	_	linguistic	_	_	_	End=326.73	_	_	_	1-5(32)
+146-27	PST092	146	27	pers[ona]	persona	_	_	_	_	_	linguistic	_	_	_	End=326.73	_	_	_	4-7(32)
 147-0	PST087	147	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=326.52	_	_	_	0-2(32)
 147-1	PST087	147	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 147-2	PST087	147	2	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1303,7 +1303,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 217-13	PST092	217	13	febbraio	febbraio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(186)
 217-14	PST092	217	14	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(186)
 217-15	PST092	217	15	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(186)
-217-16	PST092	217	16	spettacolo]	spettacolo	_	_	_	_	_	linguistic	_	_	_	End=489.92	_	_	_	0-9(186)
+217-16	PST092	217	16	spettacolo]	spettacolo	_	_	_	_	_	linguistic	_	_	_	End=489.92	_	_	_	0-10(186)
 218-0	PST087	218	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=487.95	_	_	_	0-2(186)
 218-1	PST087	218	1	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(186)
 218-2	PST087	218	2	sai	sai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(186)
@@ -3447,11 +3447,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 608-15	PST203	608	15	volta	volta	_	_	_	_	_	linguistic	_	_	_	End=1234.775	_	_	_	_
 609-0	PST203	609	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1234.816	_	_	_	_
 609-1	PST203	609	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-609-2	PST203	609	2	erav[ate	eravate	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	3-7(?)
+609-2	PST203	609	2	erav[ate	eravate	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	4-7(?)
 609-3	PST203	609	3	(.)]	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(?)
 609-4	PST203	609	4	[tu	tu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(?)
 609-5	PST203	609	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(?)
-609-6	PST203	609	6	eri]?	eri	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1237.182	_	_	_	0-2(?)
+609-6	PST203	609	6	eri]?	eri	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1237.182	_	_	_	0-3(?)
 610-0	PST087	610	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1235.475	_	_	_	0-2(192)
 610-1	PST087	610	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(192)
 610-2	PST087	610	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(192)
@@ -4303,13 +4303,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 752-6	PST092	752	6	cosa,	cosa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1512.477	_	_	_	_
 753-0	PST087	753	0	con	con	_	_	_	_	_	linguistic	_	_	_	Begin=1512.511	_	_	_	_
 753-1	PST087	753	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-753-2	PST087	753	2	orch[estra]	orchestra	_	_	_	_	_	linguistic	_	_	_	End=1513.58	_	_	_	3-9(162)
+753-2	PST087	753	2	orch[estra]	orchestra	_	_	_	_	_	linguistic	_	_	_	End=1513.58	_	_	_	4-9(162)
 754-0	PST203	754	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1513.065	_	_	_	0-1(162)
 754-1	PST203	754	1	qual'	qual'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(162)
 754-2	PST203	754	2	era]?	era	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1513.59	_	_	_	0-3(162)
 755-0	PST087	755	0	con	con	_	_	_	_	_	linguistic	_	_	_	Begin=1513.632	_	_	_	_
 755-1	PST087	755	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-755-2	PST087	755	2	orch[estra	orchestra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-9(163)
+755-2	PST087	755	2	orch[estra	orchestra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-9(163)
 755-3	PST087	755	3	e::	e	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	0-1(163)
 755-4	PST087	755	4	canzoni	canzoni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(163)
 755-5	PST087	755	5	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(163)
@@ -4637,7 +4637,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 809-24	PST087	809	24	gira	gira	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 809-25	PST087	809	25	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 809-26	PST087	809	26	mezzo	mezzo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-809-27	PST087	809	27	comun[que::]	comunque	_	_	_	_	_	linguistic	_	_	_	End=1646.886	7x2	_	_	4-8(175)
+809-27	PST087	809	27	comun[que::]	comunque	_	_	_	_	_	linguistic	_	_	_	End=1646.886	7x2	_	_	5-8(175)
 810-0	PST092	810	0	[adesso]	adesso	_	_	_	_	_	linguistic	_	_	_	Begin=1640.266|End=1640.846	_	_	_	0-6(173)
 811-0	PST203	811	0	[certo]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=1640.994|End=1641.585	_	_	_	0-5(174)
 812-0	PST092	812	0	[a	a	_	_	_	_	_	linguistic	_	_	_	Begin=1646.379	_	_	_	0-1(175)

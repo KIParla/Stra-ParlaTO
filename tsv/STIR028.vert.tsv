@@ -178,7 +178,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 22-3	PST082	22	3	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(11)
 22-4	PST082	22	4	fatto]	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(11)
 22-5	PST082	22	5	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-22-6	PST082	22	6	roma[nia],	romania	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=80.47	_	_	_	3-7(10)
+22-6	PST082	22	6	roma[nia],	romania	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=80.47	_	_	_	4-7(10)
 23-0	PST091	23	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=78.86	_	_	_	0-1(11)
 23-1	PST091	23	1	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(11)
 23-2	PST091	23	2	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(11)
@@ -1147,7 +1147,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 186-2	PST082	186	2	parla	parla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 186-3	PST082	186	3	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 186-4	PST082	186	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-186-5	PST082	186	5	ac[cento]?	accento	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=418.94	_	_	_	1-7(66)
+186-5	PST082	186	5	ac[cento]?	accento	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=418.94	_	_	_	2-7(66)
 187-0	PST091	187	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=418.64	_	_	_	0-2(66)
 187-1	PST091	187	1	mh,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=419.29	_	_	_	_
 188-0	PST082	188	0	sì?	sì	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=419.3	_	_	_	_
@@ -1198,9 +1198,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 195-14	PST091	195	14	estate	estate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 195-15	PST091	195	15	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 195-16	PST091	195	16	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-195-17	PST091	195	17	cinque	cinque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(69)
+195-17	PST091	195	17	cinque	cinque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 195-18	PST091	195	18	[anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(69)
-195-19	PST091	195	19	mamma],	mamma	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=434.091	_	_	_	0-4(69)
+195-19	PST091	195	19	mamma],	mamma	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=434.091	_	_	_	0-5(69)
 196-0	PST082	196	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=433.25	_	_	_	0-2(69)
 196-1	PST082	196	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=433.81	_	_	_	0-2(69)
 197-0	PST091	197	0	siccome	siccome	_	_	_	_	_	linguistic	_	_	_	Begin=434.5	_	_	_	_
@@ -1934,7 +1934,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 325-24	PST091	325	24	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(103)
 325-25	PST091	325	25	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(103)
 325-26	PST091	325	26	mare	mare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(103)
-325-27	PST091	325	27	quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(103)
+325-27	PST091	325	27	quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(103)
 325-28	PST091	325	28	assolutamente	assolutamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 325-29	PST091	325	29	sì,	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=709.497	_	_	_	_
 326-0	PST082	326	0	[vabbè	vabbè	_	_	_	_	_	linguistic	_	_	_	Begin=707.17	_	_	_	0-5(103)
@@ -2793,7 +2793,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 451-10	PST091	451	10	russo	russo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 451-11	PST091	451	11	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 451-12	PST091	451	12	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-451-13	PST091	451	13	ave[vo	avevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(140)
+451-13	PST091	451	13	ave[vo	avevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(140)
 451-14	PST091	451	14	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(140)
 451-15	PST091	451	15	pas]sione,	passione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1004.3	_	_	_	0-3(140)
 452-0	PST082	452	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1003.465|End=1003.805	1x1	_	_	0-2(140)
@@ -3759,7 +3759,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 609-2	PST091	609	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 609-3	PST091	609	3	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 609-4	PST091	609	4	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-609-5	PST091	609	5	us[are::	usare	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x2	_	_	1-5(168)
+609-5	PST091	609	5	us[are::	usare	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x2	_	_	2-5(168)
 609-6	PST091	609	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(168)
 609-7	PST091	609	7	però]	però	_	_	_	_	_	linguistic	_	_	_	End=1381.03	_	_	_	0-4(168)
 610-0	PST082	610	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1380.0	_	_	_	0-2(168)
@@ -4224,7 +4224,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 677-7	PST091	677	7	forza	forza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 677-8	PST091	677	8	darlo	darlo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 677-9	PST091	677	9	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-677-10	PST091	677	10	per[ché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(183)
+677-10	PST091	677	10	per[ché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(183)
 677-11	PST091	677	11	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(183)
 677-12	PST091	677	12	no]	no	_	_	_	_	_	linguistic	_	_	_	End=1539.9	_	_	_	0-2(183)
 678-0	PST082	678	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1539.393	_	_	_	0-2(183)
@@ -5157,7 +5157,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 833-12	PST091	833	12	#up	up	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 833-13	PST091	833	13	[che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(222)
 833-14	PST091	833	14	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	0-2(222)
-833-15	PST091	833	15	er]ano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(222)
+833-15	PST091	833	15	er]ano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(222)
 833-16	PST091	833	16	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 833-17	PST091	833	17	netflix	netflix	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 833-18	PST091	833	18	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5184,7 +5184,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 836-14	PST091	836	14	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 836-15	PST091	836	15	lui:,	lui	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1887.318	2x1	_	_	_
 837-0	PST091	837	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1887.474	_	_	_	_
-837-1	PST091	837	1	equiva[lente]	equivalente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-11(223)
+837-1	PST091	837	1	equiva[lente]	equivalente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-11(223)
 837-2	PST091	837	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 837-3	PST091	837	3	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 837-4	PST091	837	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -5321,7 +5321,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 868-9	PST091	868	9	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 868-10	PST091	868	10	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(231)
 868-11	PST091	868	11	avrà	avrà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(231)
-868-12	PST091	868	12	secon]do	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(231)
+868-12	PST091	868	12	secon]do	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(231)
 868-13	PST091	868	13	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 868-14	PST091	868	14	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 868-15	PST091	868	15	oramai	oramai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

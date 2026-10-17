@@ -2214,7 +2214,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 563-5	PST200	563	5	usate	usate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 563-6	PST200	563	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 563-7	PST200	563	7	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-563-8	PST200	563	8	n[ella	nella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(145)
+563-8	PST200	563	8	n[ella	nella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(145)
 563-9	PST200	563	9	vos]tra::	vostra	_	_	_	_	_	linguistic	_	_	_	_	5x2	_	_	0-3(145)
 563-10	PST200	563	10	giornata	giornata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 563-11	PST200	563	11	nella	nella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4757,7 +4757,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1205-13	PST200	1205	13	imparare::	imparare	_	_	_	_	_	linguistic	_	_	_	End=1825.057	7x2	_	_	_
 1206-0	PST200	1206	0	tanto:	tanto	_	_	_	_	_	linguistic	_	_	_	Begin=1825.45	4x1	_	_	_
 1206-1	PST200	1206	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1206-2	PST200	1206	2	itali[ano:]?	italiano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1826.448	7x1	_	_	4-8(298)
+1206-2	PST200	1206	2	itali[ano:]?	italiano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1826.448	7x1	_	_	5-8(298)
 1207-0	PST004	1207	0	[m:]:h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1826.22|End=1827.001	0x2	_	_	0-1(298)
 1208-0	PST004	1208	0	no:	no	_	_	_	_	_	linguistic	_	_	_	Begin=1827.265	1x1	_	_	_
 1208-1	PST004	1208	1	sempre:	sempre	_	_	_	_	_	linguistic	_	_	_	End=1828.152	5x1	_	_	_

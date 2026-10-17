@@ -273,7 +273,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 34-7	PST052	34	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 34-8	PST052	34	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 34-9	PST052	34	9	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-34-10	PST052	34	10	trov[avo	trovavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(14)
+34-10	PST052	34	10	trov[avo	trovavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(14)
 34-11	PST052	34	11	bene	bene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(14)
 34-12	PST052	34	12	no:	no	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(14)
 34-13	PST052	34	13	(è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	0-1(14)
@@ -364,9 +364,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 42-21	PST052	42	21	fare	fare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-22	PST052	42	22	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-23	PST052	42	23	baby	baby	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-42-24	PST052	42	24	sitter	sitter	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(20)
+42-24	PST052	42	24	sitter	sitter	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-25	PST052	42	25	[la:	la	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(20)
-42-26	PST052	42	26	baby]	baby	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(20)
+42-26	PST052	42	26	baby]	baby	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(20)
 42-27	PST052	42	27	sitter:	sitter	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 42-28	PST052	42	28	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 42-29	PST052	42	29	signora	signora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -390,8 +390,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 44-11	PST052	44	11	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-8(0)	_	_
 44-12	PST052	44	12	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 44-13	PST052	44	13	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
-44-14	PST052	44	14	assumo	assumo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)|Fast=4-6(1)	_	_
-44-15	PST052	44	15	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(1)	_	_
+44-14	PST052	44	14	assumo	assumo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
+44-15	PST052	44	15	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(1)	_	_
 44-16	PST052	44	16	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 44-17	PST052	44	17	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 44-18	PST052	44	18	bambini	bambini	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -689,7 +689,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 79-5	PST052	79	5	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 79-6	PST052	79	6	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 79-7	PST052	79	7	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-79-8	PST052	79	8	no[n:	non	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	1-3(35)
+79-8	PST052	79	8	no[n:	non	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	2-3(35)
 79-9	PST052	79	9	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(35)
 79-10	PST052	79	10	parlo]	parlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(35)
 79-11	PST052	79	11	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -836,8 +836,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 94-11	PST052	94	11	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 94-12	PST052	94	12	lingue	lingue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 94-13	PST052	94	13	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-94-14	PST052	94	14	parl(o:)	parlo	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	3-5(0)	_
-94-15	PST052	94	15	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=3-4(0)|Fast=0-4(0)	_	_
+94-14	PST052	94	14	parl(o:)	parlo	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	4-5(0)	_
+94-15	PST052	94	15	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 94-16	PST052	94	16	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 94-17	PST052	94	17	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 94-18	PST052	94	18	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
@@ -1097,7 +1097,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 121-7	PST052	121	7	parliamo	parliamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 121-8	PST052	121	8	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(51)
 121-9	PST052	121	9	italia:no]	italiano	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	0-8(51)
-121-10	PST052	121	10	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=3-4(0)|Fast=0-4(0)	_	_
+121-10	PST052	121	10	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 121-11	PST052	121	11	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 121-12	PST052	121	12	uh::	uh	_	_	_	_	_	linguistic	_	_	_	_	1x2	Slow=0-2(0)	_	_
 121-13	PST052	121	13	rispetto	rispetto	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-8(0)	_	_
@@ -1106,10 +1106,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 121-16	PST052	121	16	davanti	davanti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 121-17	PST052	121	17	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 121-18	PST052	121	18	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-121-19	PST052	121	19	persona	persona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-7(52)
+121-19	PST052	121	19	persona	persona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 121-20	PST052	121	20	[come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(52)
 121-21	PST052	121	21	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(52)
-121-22	PST052	121	22	dice]	dice	_	_	_	_	_	linguistic	_	_	_	End=329.587	_	_	_	0-3(52)
+121-22	PST052	121	22	dice]	dice	_	_	_	_	_	linguistic	_	_	_	End=329.587	_	_	_	0-4(52)
 122-0	PST211	122	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=325.14|End=325.815	_	_	_	0-4(51)
 123-0	PST211	123	0	[certo	certo	_	_	_	_	_	linguistic	_	_	_	Begin=328.45	_	_	_	0-5(52)
 123-1	PST211	123	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(52)

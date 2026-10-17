@@ -1106,7 +1106,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 224-1	PST077	224	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 224-2	PST077	224	2	più:	più	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 224-3	PST077	224	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-224-4	PST077	224	4	italia[no].	italiano	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=488.59	_	_	_	5-8(46)
+224-4	PST077	224	4	italia[no].	italiano	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=488.59	_	_	_	6-8(46)
 225-0	PST082	225	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=488.37|End=488.61	_	_	_	0-2(46)
 226-0	PST077	226	0	invece	invece	_	_	_	_	_	linguistic	_	_	_	Begin=489.409	_	_	_	_
 226-1	PST077	226	1	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2076,7 +2076,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 404-0	PST077	404	0	studiare	studiare	_	_	_	_	_	linguistic	_	_	_	Begin=900.273	_	_	_	_
 404-1	PST077	404	1	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 404-2	PST077	404	2	(un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	0-3(0)	_
-404-3	PST077	404	3	)univer[sità	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-10(67)
+404-3	PST077	404	3	)univer[sità	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-10(67)
 404-4	PST077	404	4	ita]liana	italiana	_	_	_	_	_	linguistic	_	_	_	End=902.633	_	_	_	0-3(67)
 405-0	PST082	405	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=901.06|End=901.48	_	_	_	0-2(67)
 406-0	PST082	406	0	giusto.	giusto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=903.161|End=903.953	_	_	_	_
@@ -5896,7 +5896,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1152-2	PST077	1152	2	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(28)
 1152-3	PST077	1152	3	deciso	deciso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(28)
 1152-4	PST077	1152	4	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(28)
-1152-5	PST077	1152	5	ul]timo	ultimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(28)
+1152-5	PST077	1152	5	ul]timo	ultimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(28)
 1152-6	PST077	1152	6	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1152-7	PST077	1152	7	quello,	quello	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2512.55	_	_	_	_
 1153-0	PST082	1153	0	[che	che	_	_	_	_	_	linguistic	_	_	_	Begin=2510.38	_	_	_	0-3(28)

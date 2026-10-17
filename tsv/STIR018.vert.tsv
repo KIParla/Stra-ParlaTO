@@ -104,7 +104,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 11-4	PST046	11	4	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 11-5	PST046	11	5	dovuto	dovuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 11-6	PST046	11	6	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-11-7	PST046	11	7	raggiu:n[gere	raggiungere	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	5x1	_	_	6-11(5)
+11-7	PST046	11	7	raggiu:n[gere	raggiungere	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	5x1	_	_	7-11(5)
 11-8	PST046	11	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(5)
 11-9	PST046	11	9	non:	non	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-3(5)
 11-10	PST046	11	10	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(5)
@@ -685,7 +685,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 114-22	PST211	114	22	sapevi	sapevi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 114-23	PST211	114	23	parlar	parlar	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 114-24	PST211	114	24	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-114-25	PST211	114	25	italia[:no	italiano	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	4-8(33)
+114-25	PST211	114	25	italia[:no	italiano	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	6-8(33)
 114-26	PST211	114	26	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(33)
 114-27	PST211	114	27	eri:	eri	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-3(33)
 114-28	PST211	114	28	no:]?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=289.08	1x1	_	_	0-2(33)
@@ -838,9 +838,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 140-11	PST211	140	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 140-12	PST211	140	12	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 140-13	PST211	140	13	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-140-14	PST211	140	14	imparato	imparato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-8(43)
+140-14	PST211	140	14	imparato	imparato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 140-15	PST211	140	15	[prima	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(43)
-140-16	PST211	140	16	di]	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(43)
+140-16	PST211	140	16	di]	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(43)
 140-17	PST211	140	17	te?	te	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=354.381	_	_	_	_
 141-0	PST046	141	0	[x]	x	_	_	_	_	_	unknown	_	_	Syllables=1	Begin=353.673|End=354.013	_	_	_	0-1(43)
 142-0	PST046	142	0	m:::h,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=354.693|End=355.792	0x3	_	_	_
@@ -1572,7 +1572,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 289-1	PST211	289	1	m:h]	mh	_	_	_	_	_	linguistic	_	_	_	End=690.073	0x1	_	_	0-2(82)
 290-0	PST046	290	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=691.74	_	_	_	_
 290-1	PST046	290	1	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-290-2	PST046	290	2	a:n[no	anno	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	1-4(83)
+290-2	PST046	290	2	a:n[no	anno	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	2-4(83)
 290-3	PST046	290	3	è:],	è	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=692.85	0x1	_	_	0-1(83)
 291-0	PST211	291	0	[quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=692.387	_	_	_	0-6(83)
 291-1	PST211	291	1	tua	tua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(83)
@@ -2546,7 +2546,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 460-14	PST211	460	14	arrabbi::	arrabbi	_	_	_	_	_	linguistic	_	_	_	_	6x2	_	_	_
 460-15	PST211	460	15	o:	o	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 460-16	PST211	460	16	devi	devi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-460-17	PST211	460	17	sgridare[::	sgridare	_	_	_	_	_	linguistic	_	_	_	_	7x2	_	_	7-8(141)
+460-17	PST211	460	17	sgridare[::	sgridare	_	_	_	_	_	linguistic	_	_	_	_	7x2	_	_	_
 460-18	PST211	460	18	tua	tua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(141)
 460-19	PST211	460	19	figlia:],	figlia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1105.243	5x1	_	_	0-6(141)
 461-0	PST046	461	0	[vaffanculo	vaffanculo	_	_	_	_	_	linguistic	_	_	_	Begin=1104.193	_	_	_	0-10(142)

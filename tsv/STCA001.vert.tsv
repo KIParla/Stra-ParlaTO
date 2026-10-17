@@ -1005,10 +1005,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 415-2	PST135	415	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(85)
 415-3	PST135	415	3	infatti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(85)
 415-4	PST135	415	4	barāʔ]	barāʔ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(85)
-415-5	PST135	415	5	rāh	rāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(85)
+415-5	PST135	415	5	rāh	rāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 415-6	PST135	415	6	jāyya	jāyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 415-7	PST135	415	7	mən	mən	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-415-8	PST135	415	8	[l-barāʔa]	l-barāʔa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=421.611	_	_	_	2-8(86)
+415-8	PST135	415	8	[l-barāʔa]	l-barāʔa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=421.611	_	_	_	0-8(86)
 417-0	PST136	417	0	[viene-mn]	viene-mn	_	_	_	_	_	linguistic	_	_	_	Begin=420.866|End=421.51	_	_	_	0-8(86)
 418-0	PST136	418	0	ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=421.61	_	_	_	_
 418-1	PST136	418	1	okay	okay	_	_	_	_	_	linguistic	_	_	_	End=422.421	_	_	_	_
@@ -1063,7 +1063,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 445-0	PST134	445	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=442.794	_	_	_	_
 445-1	PST134	445	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 445-2	PST134	445	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-445-3	PST134	445	3	ragazz[o:::]	ragazzo	_	_	_	_	_	linguistic	_	_	_	_	6x3	_	_	5-7(93)
+445-3	PST134	445	3	ragazz[o:::]	ragazzo	_	_	_	_	_	linguistic	_	_	_	_	6x3	_	_	6-7(93)
 445-4	PST134	445	4	egiziano	egiziano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 445-5	PST134	445	5	[che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(447)
 445-6	PST134	445	6	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(447)
@@ -1216,7 +1216,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 473-11	PST136	473	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 473-12	PST136	473	12	nūr	nūr	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 473-13	PST136	473	13	al-dī	al-dī	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-473-14	PST136	473	14	n	n	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-1(109)
+473-14	PST136	473	14	n	n	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 473-15	PST136	473	15	[(.)]	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(109)
 473-16	PST136	473	16	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 473-17	PST136	473	17	è::	è	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
@@ -2915,16 +2915,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 958-0	PST136	958	0	[dov'	dov'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1110.344	_	_	_	0-4(527)
 958-1	PST136	958	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(527)
 958-2	PST136	958	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(527)
-958-3	PST136	958	3	altra]	altra	_	_	_	_	_	linguistic	_	_	_	End=1111.899	_	_	_	0-4(527)
+958-3	PST136	958	3	altra]	altra	_	_	_	_	_	linguistic	_	_	_	End=1111.899	_	_	_	0-5(527)
 959-0	PST135	959	0	[dov'	dov'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1110.344	_	_	_	0-4(527)
 959-1	PST135	959	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(527)
 959-2	PST135	959	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(527)
 959-3	PST135	959	3	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(527)
-959-4	PST135	959	4	@giorgia]	@giorgia	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=1111.899	_	_	_	0-7(527)
+959-4	PST135	959	4	@giorgia]	@giorgia	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=1111.899	_	_	_	0-8(527)
 960-0	PST133	960	0	[dov'	dov'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1110.344	_	_	_	0-4(527)
 960-1	PST133	960	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(527)
 960-2	PST133	960	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(527)
-960-3	PST133	960	3	altra]	altra	_	_	_	_	_	linguistic	_	_	_	End=1111.899	_	_	_	0-4(527)
+960-3	PST133	960	3	altra]	altra	_	_	_	_	_	linguistic	_	_	_	End=1111.899	_	_	_	0-5(527)
 961-0	PST134	961	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1111.859	_	_	_	_
 961-1	PST134	961	1	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 961-2	PST134	961	2	so	so	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3693,7 +3693,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1162-1	PST135	1162	1	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1162-2	PST135	1162	2	non	non	_	_	_	_	_	linguistic	_	_	_	End=1362.71	_	_	_	_
 1163-0	PST134	1163	0	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1362.71	_	_	_	_
-1163-1	PST134	1163	1	of[fesa]	offesa	_	_	_	_	_	linguistic	_	_	_	End=1363.688	_	_	_	1-6(256)
+1163-1	PST134	1163	1	of[fesa]	offesa	_	_	_	_	_	linguistic	_	_	_	End=1363.688	_	_	_	2-6(256)
 1164-0	PST136	1164	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1363.043	_	_	_	0-3(256)
 1164-1	PST136	1164	1	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(256)
 1164-2	PST136	1164	2	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4059,10 +4059,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1219-10	PST134	1219	10	avevi	avevi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1219-11	PST134	1219	11	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1219-12	PST134	1219	12	assaggiare	assaggiare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1219-13	PST134	1219	13	tu	tu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(275)
+1219-13	PST134	1219	13	tu	tu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1219-14	PST134	1219	14	[il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(275)
 1219-15	PST134	1219	15	primo	primo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(275)
-1219-16	PST134	1219	16	anno]	anno	_	_	_	_	_	linguistic	_	_	_	End=1468.266	_	_	_	0-2(275)
+1219-16	PST134	1219	16	anno]	anno	_	_	_	_	_	linguistic	_	_	_	End=1468.266	_	_	_	0-4(275)
 1220-0	PST138	1220	0	[impossibile	impossibile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1467.332	_	_	_	0-11(275)
 1220-1	PST138	1220	1	perché]	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(275)
 1220-2	PST138	1220	2	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4349,11 +4349,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1260-3	PST133	1260	3	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1260-4	PST133	1260	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1260-5	PST133	1260	5	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1260-6	PST133	1260	6	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(291)
+1260-6	PST133	1260	6	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1260-7	PST133	1260	7	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(291)
 1260-8	PST133	1260	8	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(291)
 1260-9	PST133	1260	9	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(291)
-1260-10	PST133	1260	10	visto]	visto	_	_	_	_	_	linguistic	_	_	_	End=1547.232	_	_	_	0-2(291)
+1260-10	PST133	1260	10	visto]	visto	_	_	_	_	_	linguistic	_	_	_	End=1547.232	_	_	_	0-5(291)
 1261-0	PST138	1261	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1544.848|End=1545.548	_	_	_	_
 1262-0	PST136	1262	0	[allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1546.055	_	_	_	0-6(291)
 1262-1	PST136	1262	1	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-8(291)
@@ -4835,7 +4835,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1424-4	PST135	1424	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(335)
 1424-5	PST135	1424	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(335)
 1424-6	PST135	1424	6	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(335)
-1424-7	PST135	1424	7	s~]	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1675.443	_	_	_	0-1(335)
+1424-7	PST135	1424	7	s~]	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1675.443	_	_	_	0-2(335)
 1425-0	PST139	1425	0	#_ [naqul-ha	naqul-ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1675.61	_	_	_	0-8(501)
 1425-1	PST139	1425	1	kthīr	kthīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(501)
 1425-2	PST139	1425	2	fi	fi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(501)
@@ -5652,7 +5652,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1693-1	PST133	1693	1	ah	ah	_	_	_	_	_	linguistic	_	_	_	End=1916.166	_	_	_	_
 1694-0	PST135	1694	0	nell'	nell'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	Begin=1916.221	_	_	_	_
 1694-1	PST135	1694	1	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1694-2	PST135	1694	2	stand[ard	standard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	4-8(413)
+1694-2	PST135	1694	2	stand[ard	standard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	5-8(413)
 1694-3	PST135	1694	3	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(413)
 1694-4	PST135	1694	4	tutti]	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(413)
 1694-5	PST135	1694	5	quanti	quanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

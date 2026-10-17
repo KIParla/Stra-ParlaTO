@@ -1128,7 +1128,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 288-5	PST201	288	5	[(anzi)	anzi	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-4(0)	0-4(55)
 288-6	PST201	288	6	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(55)
 288-7	PST201	288	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(55)
-288-8	PST201	288	8	italia~]	italia~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=484.373	_	_	_	0-6(55)
+288-8	PST201	288	8	italia~]	italia~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=484.373	_	_	_	0-7(55)
 289-0	PST008	289	0	[sì:	sì	_	_	_	_	_	linguistic	_	_	_	Begin=483.5	1x1	_	_	0-2(55)
 289-1	PST008	289	1	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(55)
 289-2	PST008	289	2	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(55)
@@ -1845,7 +1845,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 456-3	PST007	456	3	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 456-4	PST007	456	4	qui::	qui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=769.985	2x2	_	_	_
 457-0	PST008	457	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=770.59	_	_	_	_
-457-1	PST008	457	1	e[state:]	estate	_	_	_	_	_	linguistic	_	_	_	End=771.394	5x1	_	_	0-6(92)
+457-1	PST008	457	1	e[state:]	estate	_	_	_	_	_	linguistic	_	_	_	End=771.394	5x1	_	_	1-6(92)
 458-0	PST007	458	0	#_ [en	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=770.81	_	_	_	0-2(92)
 458-1	PST007	458	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(92)
 458-2	PST007	458	2	playa:]	playa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=771.402	4x1	_	_	0-5(92)
@@ -2191,7 +2191,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 547-8	PST008	547	8	tipici:	tipici	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 547-9	PST008	547	9	di:	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 547-10	PST008	547	10	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-547-11	PST008	547	11	pie[monte::]	piemonte	_	_	_	_	_	linguistic	_	_	_	End=907.879	7x2	_	_	2-8(114)
+547-11	PST008	547	11	pie[monte::]	piemonte	_	_	_	_	_	linguistic	_	_	_	End=907.879	7x2	_	_	3-8(114)
 548-0	PST007	548	0	[di::	di	_	_	_	_	_	linguistic	_	_	_	Begin=907.02	1x2	_	_	0-2(114)
 548-1	PST007	548	1	piemo]ntese	piemontese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(114)
 548-2	PST007	548	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2936,7 +2936,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 718-11	PST008	718	11	piatto::	piatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	5x2	_	_	_
 718-12	PST008	718	12	simile	simile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 718-13	PST008	718	13	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-718-14	PST008	718	14	tira[misù	tiramisù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	3-8(165)
+718-14	PST008	718	14	tira[misù	tiramisù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	4-8(165)
 718-15	PST008	718	15	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(165)
 718-16	PST008	718	16	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(165)
 718-17	PST008	718	17	la:	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x1	_	_	0-2(165)
@@ -3376,7 +3376,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 826-3	PST201	826	3	andare	andare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 826-4	PST201	826	4	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 826-5	PST201	826	5	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-826-6	PST201	826	6	unver[sità]	unversità	_	_	_	_	_	linguistic	_	_	_	End=1346.807	_	_	_	4-9(189)
+826-6	PST201	826	6	unver[sità]	unversità	_	_	_	_	_	linguistic	_	_	_	End=1346.807	_	_	_	5-9(189)
 827-0	PST007	827	0	[sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1346.46	1x1	_	_	0-2(189)
 827-1	PST007	827	1	i]o	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(189)
 827-2	PST007	827	2	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5032,7 +5032,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1260-0	PST008	1260	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=2028.629	_	_	_	_
 1260-1	PST008	1260	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1260-2	PST008	1260	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1260-3	PST008	1260	3	te[mpo:]	tempo	_	_	_	_	_	linguistic	_	_	_	End=2029.434	4x1	_	_	1-5(287)
+1260-3	PST008	1260	3	te[mpo:]	tempo	_	_	_	_	_	linguistic	_	_	_	End=2029.434	4x1	_	_	2-5(287)
 1261-0	PST007	1261	0	$[(andatri,)]	andatri	_	_	_	_	_	linguistic	_	Nonce=Yes	Intonation=WeaklyRising	Begin=2029.095	_	_	1-8(0)	1-8(287)
 1261-1	PST007	1261	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1261-2	PST007	1261	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -5583,7 +5583,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1427-4	PST007	1427	4	dobbiamo	dobbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1427-5	PST007	1427	5	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1427-6	PST007	1427	6	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-1427-7	PST007	1427	7	universit[à::	università	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	9x2	_	_	8-10(323)
+1427-7	PST007	1427	7	universit[à::	università	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	9x2	_	_	9-10(323)
 1427-8	PST007	1427	8	#y]	y	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(323)
 1427-9	PST007	1427	9	#ahí	ahí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1427-10	PST007	1427	10	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	1x1	_	_	_
@@ -5607,7 +5607,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1432-7	PST008	1432	7	parlare	parlare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1432-8	PST008	1432	8	meglio	meglio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1432-9	PST008	1432	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1432-10	PST008	1432	10	ital[iano:],	italiano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	7x1	_	_	3-8(326)
+1432-10	PST008	1432	10	ital[iano:],	italiano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	7x1	_	_	4-8(326)
 1432-11	PST008	1432	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 1432-12	PST008	1432	12	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=2270.65	_	_	_	_
 1433-0	PST007	1433	0	[amici	amici	_	_	_	_	_	linguistic	_	_	_	Begin=2267.06	_	_	_	0-5(325)

@@ -247,7 +247,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 55-1	PST215	55	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-2	PST215	55	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-3	PST215	55	3	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-55-4	PST215	55	4	pronun[cia	pronuncia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-9(11)
+55-4	PST215	55	4	pronun[cia	pronuncia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-9(11)
 55-5	PST215	55	5	esattamente]	esattamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-11(11)
 55-6	PST215	55	6	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-7	PST215	55	7	tuo	tuo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -570,7 +570,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 149-5	PST215	149	5	ara]bo	arabo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(238)
 149-6	PST215	149	6	[è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(288)
 149-7	PST215	149	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(288)
-149-8	PST215	149	8	arabo]	arabo	_	_	_	_	_	linguistic	_	_	_	End=198.11	_	_	_	0-4(288)
+149-8	PST215	149	8	arabo]	arabo	_	_	_	_	_	linguistic	_	_	_	End=198.11	_	_	_	0-5(288)
 150-0	PST141	150	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=195.96	_	_	_	0-2(238)
 150-1	PST141	150	1	arabo]	arabo	_	_	_	_	_	linguistic	_	_	_	End=196.94	_	_	_	0-5(238)
 151-0	PST142	151	0	[è	è	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=196.435	_	_	_	0-1(238)
@@ -630,9 +630,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 165-2	PST142	165	2	al~	al~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(35)
 165-3	PST142	165	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(35)
 165-4	PST142	165	4	altra::]	altra	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	0-5(35)
-165-5	PST142	165	5	fra[se	frase	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(239)
+165-5	PST142	165	5	fra[se	frase	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(239)
 165-6	PST142	165	6	per	per	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	0-3(239)
-165-7	PST142	165	7	eh]	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-1(239)
+165-7	PST142	165	7	eh]	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-2(239)
 165-8	PST142	165	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 165-9	PST142	165	9	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 165-10	PST142	165	10	eh	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
@@ -976,7 +976,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 258-5	PST215	258	5	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(61)
 258-6	PST215	258	6	studia]to	studiato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(61)
 258-7	PST215	258	7	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-258-8	PST215	258	8	universi[tà]?	università	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=308.557	_	_	_	6-9(62)
+258-8	PST215	258	8	universi[tà]?	università	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=308.557	_	_	_	8-10(62)
 259-0	PST141	259	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=306.9|End=307.48	1x1	_	_	0-2(61)
 260-0	PST141	260	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=308.16	_	_	_	0-2(62)
 260-1	PST141	260	1	#économique	économique	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -2845,7 +2845,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 685-2	PST215	685	2	ultima	ultima	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-6(274)
 685-3	PST215	685	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(274)
 685-4	PST215	685	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(274)
-685-5	PST215	685	5	ultima]	ultima	_	_	_	_	_	linguistic	_	_	_	End=920.56	_	_	_	0-5(274)
+685-5	PST215	685	5	ultima]	ultima	_	_	_	_	_	linguistic	_	_	_	End=920.56	_	_	_	0-6(274)
 686-0	PST140	686	0	[(no	no	_	_	_	_	_	linguistic	_	_	_	Begin=919.14	_	_	0-2(0)	0-2(274)
 686-1	PST140	686	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	0-2(274)
 686-2	PST140	686	2	ame:rica)]	america	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	0-7(0)	0-7(274)

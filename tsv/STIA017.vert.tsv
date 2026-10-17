@@ -889,7 +889,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 244-13	PST211	244	13	parlare	parlare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 244-14	PST211	244	14	imparare	imparare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 244-15	PST211	244	15	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(27)
-244-16	PST211	244	16	italiano]	italiano	_	_	_	_	_	linguistic	_	_	_	End=389.86	_	_	_	0-7(27)
+244-16	PST211	244	16	italiano]	italiano	_	_	_	_	_	linguistic	_	_	_	End=389.86	_	_	_	0-8(27)
 245-0	PST088	245	0	[poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=389.25	_	_	_	0-3(27)
 245-1	PST088	245	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(27)
 245-2	PST088	245	2	ital]iano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(27)
@@ -1175,8 +1175,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 326-4	PST088	326	4	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 326-5	PST088	326	5	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 326-6	PST088	326	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-326-7	PST088	326	7	alta	alta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(38)
-326-8	PST088	326	8	[volta]	volta	_	_	_	_	_	linguistic	_	_	_	End=497.2	_	_	_	0-4(38)
+326-7	PST088	326	7	alta	alta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+326-8	PST088	326	8	[volta]	volta	_	_	_	_	_	linguistic	_	_	_	End=497.2	_	_	_	0-5(38)
 327-0	PST203	327	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=496.33	_	_	_	0-2(38)
 327-1	PST203	327	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(38)
 327-2	PST203	327	2	vero]	vero	_	_	_	_	_	linguistic	_	_	_	End=497.2	_	_	_	0-4(38)
@@ -1847,7 +1847,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 488-4	PST203	488	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 488-5	PST203	488	5	uguale	uguale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 488-6	PST203	488	6	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-488-7	PST203	488	7	tut[ti:::	tutti	_	_	_	_	_	linguistic	_	_	_	_	4x3	_	_	2-5(55)
+488-7	PST203	488	7	tut[ti:::	tutti	_	_	_	_	_	linguistic	_	_	_	_	4x3	_	_	3-5(55)
 488-8	PST203	488	8	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=772.22	_	_	_	0-2(55)
 489-0	PST088	489	0	[perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=771.04	_	_	_	0-6(55)
 489-1	PST088	489	1	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(55)
@@ -3829,7 +3829,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 955-2	PST203	955	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 955-3	PST203	955	3	sapevo	sapevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 955-4	PST203	955	4	[com'	com'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(124)
-955-5	PST203	955	5	era]	era	_	_	_	_	_	linguistic	_	_	_	End=1670.54	_	_	_	0-2(124)
+955-5	PST203	955	5	era]	era	_	_	_	_	_	linguistic	_	_	_	End=1670.54	_	_	_	0-3(124)
 956-0	PST088	956	0	[allora]	allora	_	_	_	_	_	linguistic	_	_	_	Begin=1669.7	_	_	_	0-6(124)
 956-1	PST088	956	1	guarda	guarda	_	_	_	_	_	linguistic	_	_	_	End=1671.09	_	_	_	_
 957-0	PST203	957	0	mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1671.15	_	_	_	_
@@ -4169,7 +4169,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1066-5	PST088	1066	5	sua	sua	_	_	_	_	_	linguistic	_	_	_	End=1805.37	_	_	_	_
 1067-0	PST088	1067	0	questa	questa	_	_	_	_	_	linguistic	_	_	_	Begin=1808.17	_	_	_	_
 1067-1	PST088	1067	1	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1067-2	PST088	1067	2	universi[tà	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-10(252)
+1067-2	PST088	1067	2	universi[tà	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-10(252)
 1067-3	PST088	1067	3	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(252)
 1067-4	PST088	1067	4	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(252)
 1067-5	PST088	1067	5	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(252)
@@ -5276,7 +5276,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1344-2	PST088	1344	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1344-3	PST088	1344	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1344-4	PST088	1344	4	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1344-5	PST088	1344	5	facci[o::]	faccio	_	_	_	_	_	linguistic	_	_	_	End=2257.59	5x2	_	_	4-6(209)
+1344-5	PST088	1344	5	facci[o::]	faccio	_	_	_	_	_	linguistic	_	_	_	End=2257.59	5x2	_	_	5-6(209)
 1345-0	PST203	1345	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2257.26|End=2257.8	_	_	_	0-2(209)
 1346-0	PST088	1346	0	lo	lo	_	_	_	_	_	linguistic	_	_	_	Begin=2257.79	_	_	_	_
 1346-1	PST088	1346	1	faccio	faccio	_	_	_	_	_	linguistic	_	_	_	End=2258.46	_	_	_	_

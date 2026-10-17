@@ -169,7 +169,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 35-13	PST203	35	13	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 35-14	PST203	35	14	emigrati	emigrati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 35-15	PST203	35	15	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-35-16	PST203	35	16	argentin[a]	argentina	_	_	_	_	_	linguistic	_	_	_	End=80.03	_	_	_	7-9(6)
+35-16	PST203	35	16	argentin[a]	argentina	_	_	_	_	_	linguistic	_	_	_	End=80.03	_	_	_	8-9(6)
 36-0	PST098	36	0	[m]h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=79.87	_	_	_	0-1(6)
 36-1	PST098	36	1	mh?	mh	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=80.34	_	_	_	_
 37-0	PST203	37	0	allora	allora	_	_	_	_	_	linguistic	_	_	_	Begin=80.35	_	_	_	_
@@ -727,8 +727,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 122-1	PST212	122	1	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 122-2	PST212	122	2	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 122-3	PST212	122	3	analisi	analisi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-122-4	PST212	122	4	linguistic[a::]	linguistica	_	_	_	_	_	linguistic	_	_	_	_	10x2	_	_	9-11(20)
-122-5	PST212	122	5	morfosintatti[ca::]	morfosintattica	_	_	_	_	_	linguistic	_	_	_	End=308.61	14x2	_	_	12-15(21)
+122-4	PST212	122	4	linguistic[a::]	linguistica	_	_	_	_	_	linguistic	_	_	_	_	10x2	_	_	10-11(20)
+122-5	PST212	122	5	morfosintatti[ca::]	morfosintattica	_	_	_	_	_	linguistic	_	_	_	End=308.61	14x2	_	_	13-15(21)
 123-0	PST203	123	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=307.36	_	_	_	0-2(20)
 123-1	PST203	123	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=307.81	_	_	_	0-2(20)
 124-0	PST203	124	0	[a::::h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=308.58	0x4	_	_	0-2(21)
@@ -1722,7 +1722,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 321-4	PST203	321	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 321-5	PST203	321	5	fatta	fatta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 321-6	PST203	321	6	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-321-7	PST203	321	7	peruvi[ana]	peruviana	_	_	_	_	_	linguistic	_	_	_	End=755.85	_	_	_	5-9(60)
+321-7	PST203	321	7	peruvi[ana]	peruviana	_	_	_	_	_	linguistic	_	_	_	End=755.85	_	_	_	6-9(60)
 322-0	PST098	322	0	[e:::hm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=755.7	0x3	_	_	0-3(?)
 322-1	PST098	322	1	>allora<]	allora	_	_	_	_	_	linguistic	_	_	_	End=757.088	_	Fast=0-6(0)	_	0-6(?)
 323-0	??	323	0	[@roberta]	@roberta	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	Begin=756.09|End=756.8	_	_	_	0-8(61)
@@ -1750,7 +1750,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 327-5	PST220	327	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(?)
 327-6	PST220	327	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(?)
 327-7	PST220	327	7	carne	carne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(?)
-327-8	PST220	327	8	dentro]	dentro	_	_	_	_	_	linguistic	_	_	_	End=763.363	_	_	_	0-5(?)
+327-8	PST220	327	8	dentro]	dentro	_	_	_	_	_	linguistic	_	_	_	End=763.363	_	_	_	0-6(?)
 328-0	PST098	328	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=762.088	_	_	_	0-2(296)
 328-1	PST098	328	1	mettono	mettono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(296)
 328-2	PST098	328	2	met]tono	mettono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(296)
@@ -2352,7 +2352,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 458-6	PST203	458	6	piatti	piatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 458-7	PST203	458	7	conosci	conosci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 458-8	PST203	458	8	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-458-9	PST203	458	9	argen[tina]	argentina	_	_	_	_	_	linguistic	_	_	_	End=1007.288	_	_	_	4-9(93)
+458-9	PST203	458	9	argen[tina]	argentina	_	_	_	_	_	linguistic	_	_	_	End=1007.288	_	_	_	5-9(93)
 459-0	PST098	459	0	[mh].	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1006.88|End=1007.3	_	_	_	0-2(93)
 460-0	??	460	0	oppure	oppure	_	_	_	_	_	linguistic	_	_	_	Begin=1007.95	_	_	_	_
 460-1	??	460	1	magari	magari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2516,7 +2516,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 496-7	PST203	496	7	argentina	argentina	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 496-8	PST203	496	8	sicuro	sicuro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 496-9	PST203	496	9	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-496-10	PST203	496	10	dir[anno	diranno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(99)
+496-10	PST203	496	10	dir[anno	diranno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(99)
 496-11	PST203	496	11	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(99)
 496-12	PST203	496	12	ta]ngo,	tango	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1075.825	_	_	_	0-2(99)
 497-0	PST220	497	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1074.43|End=1074.95	_	_	_	0-2(99)
@@ -2677,7 +2677,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 549-2	PST220	549	2	piatto	piatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 549-3	PST220	549	3	tipico	tipico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 549-4	PST220	549	4	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-549-5	PST220	549	5	argentin[a]	argentina	_	_	_	_	_	linguistic	_	_	_	End=1157.525	_	_	_	7-9(?)
+549-5	PST220	549	5	argentin[a]	argentina	_	_	_	_	_	linguistic	_	_	_	End=1157.525	_	_	_	8-9(?)
 550-0	PST098	550	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1157.55	_	_	_	_
 550-1	PST098	550	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 550-2	PST098	550	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2709,7 +2709,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 559-5	PST098	559	5	con-	con-	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 559-6	PST098	559	6	conoscere	conoscere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 559-7	PST098	559	7	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-559-8	PST098	559	8	argenti[na]	argentina	_	_	_	_	_	linguistic	_	_	_	End=1183.188	_	_	_	6-9(110)
+559-8	PST098	559	8	argenti[na]	argentina	_	_	_	_	_	linguistic	_	_	_	End=1183.188	_	_	_	7-9(110)
 560-0	PST203	560	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1182.95|End=1183.17	_	_	_	0-2(110)
 561-0	PST098	561	0	°o:::°	o	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1183.563|End=1184.75	0x3	_	_	_
 562-0	PST203	562	0	vieni	vieni	_	_	_	_	_	linguistic	_	_	_	Begin=1188.625	_	_	_	_
@@ -3878,7 +3878,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 840-3	PST203	840	3	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 840-4	PST203	840	4	comunità::	comunità	_	_	_	_	_	linguistic	_	_	_	_	7x2	_	_	_
 840-5	PST203	840	5	[asiatica]	asiatica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(167)
-840-6	PST203	840	6	gr[ande]	grande	_	_	_	_	_	linguistic	_	_	_	End=1683.163	_	_	_	1-6(168)
+840-6	PST203	840	6	gr[ande]	grande	_	_	_	_	_	linguistic	_	_	_	End=1683.163	_	_	_	2-6(168)
 841-0	PST098	841	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1681.563|End=1682.175	_	_	_	0-2(167)
 842-0	PST098	842	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1682.675|End=1683.188	_	_	_	0-2(168)
 843-0	PST098	843	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=1683.213	_	_	_	_

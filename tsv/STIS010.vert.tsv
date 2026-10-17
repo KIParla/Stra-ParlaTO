@@ -86,7 +86,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 11-15	PST063	11	15	vuole::	vuole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x2	_	_	_
 11-16	PST063	11	16	$estudiare	estudiare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	_	_	_	_	_
 11-17	PST063	11	17	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Truncated=Yes	_	_	_	_	_
-11-18	PST063	11	18	$espagno[lo]	espagnolo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	End=40.715	_	_	_	7-10(4)
+11-18	PST063	11	18	$espagno[lo]	espagnolo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	End=40.715	_	_	_	8-10(4)
 12-0	PST212	12	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=37.031|End=37.302	_	_	_	0-2(3)
 13-0	PST212	13	0	[o]kay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=40.428|End=41.004	_	_	_	0-1(4)
 14-0	PST063	14	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=41.401	_	_	_	_
@@ -558,11 +558,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 75-0	PST212	75	0	forse	forse	_	_	_	_	_	linguistic	_	_	_	Begin=216.781	_	_	_	_
 75-1	PST212	75	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 75-2	PST212	75	2	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-75-3	PST212	75	3	senti[ta	sentita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(23)
+75-3	PST212	75	3	senti[ta	sentita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(23)
 75-4	PST212	75	4	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(23)
 75-5	PST212	75	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(23)
 75-6	PST212	75	6	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(23)
-75-7	PST212	75	7	vi]sta	vista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(23)
+75-7	PST212	75	7	vi]sta	vista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(23)
 75-8	PST212	75	8	però	però	_	_	_	_	_	linguistic	_	_	_	End=219.137	_	_	_	_
 76-0	PST063	76	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=217.652	_	_	_	0-2(23)
 76-1	PST063	76	1	(che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	0-3(23)
@@ -835,7 +835,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 108-3	PST063	108	3	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 108-4	PST063	108	4	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 108-5	PST063	108	5	(quell'	quell'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	0-6(0)	_
-108-6	PST063	108	6	#*i[dioma])	idioma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	End=322.929	_	_	0-8(0)	2-8(32)
+108-6	PST063	108	6	#*i[dioma])	idioma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	End=322.929	_	_	0-8(0)	3-8(32)
 109-0	PST212	109	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=322.409	_	_	_	0-2(32)
 109-1	PST212	109	1	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(32)
 109-2	PST212	109	2	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(32)
@@ -944,12 +944,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 122-3	PST063	122	3	qua]lche	qualche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(37)
 122-4	PST063	122	4	parola	parola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 122-5	PST063	122	5	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-122-6	PST063	122	6	$espa[gnolo	espagnolo	_	_	_	_	_	linguistic	_	Nonce=Yes	_	_	_	_	_	4-10(38)
+122-6	PST063	122	6	$espa[gnolo	espagnolo	_	_	_	_	_	linguistic	_	Nonce=Yes	_	_	_	_	_	5-10(38)
 122-7	PST063	122	7	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(38)
 122-8	PST063	122	8	ita]liano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(38)
 122-9	PST063	122	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 122-10	PST063	122	10	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-122-11	PST063	122	11	si[mili	simili	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(39)
+122-11	PST063	122	11	si[mili	simili	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(39)
 122-12	PST063	122	12	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(39)
 122-13	PST063	122	13	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(39)
 122-14	PST063	122	14	tu]tti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(39)
@@ -1937,7 +1937,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 245-7	PST212	245	7	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 245-8	PST212	245	8	operai	operai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 245-9	PST212	245	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-245-10	PST212	245	10	lavora[no	lavorano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(76)
+245-10	PST212	245	10	lavora[no	lavorano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(76)
 245-11	PST212	245	11	>cioè<]	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	0-4(76)
 245-12	PST212	245	12	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=725.989	_	_	_	_
 246-0	PST063	246	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=723.824	_	_	_	0-2(76)
@@ -2573,7 +2573,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 325-2	PST212	325	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 325-3	PST212	325	3	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 325-4	PST212	325	4	museo	museo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-325-5	PST212	325	5	peruvia[no].	peruviano	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=983.13	_	_	_	6-9(94)
+325-5	PST212	325	5	peruvia[no].	peruviano	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=983.13	_	_	_	7-9(94)
 326-0	PST063	326	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=982.932	_	_	_	0-2(94)
 326-1	PST063	326	1	fino	fino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 326-2	PST063	326	2	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2894,8 +2894,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 364-12	PST063	364	12	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 364-13	PST063	364	13	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 364-14	PST063	364	14	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-364-15	PST063	364	15	lavo:r[o	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x1	_	_	3-6(106)
-364-16	PST063	364	16	oppu]re	oppure	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1090.806	_	_	_	0-2(106)
+364-15	PST063	364	15	lavo:r[o	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x1	_	_	5-6(106)
+364-16	PST063	364	16	oppu]re	oppure	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1090.806	_	_	_	0-4(106)
 366-0	PST212	366	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1089.925|End=1090.391	_	_	_	0-2(106)
 367-0	PST063	367	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=1091.897	_	_	_	_
 367-1	PST063	367	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_

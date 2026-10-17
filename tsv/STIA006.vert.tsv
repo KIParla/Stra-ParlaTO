@@ -701,7 +701,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 138-16	PST014	138	16	dappertutto	dappertutto	_	_	_	_	_	linguistic	_	_	_	End=317.628	_	_	_	_
 139-0	??	139	0	[preferenze]	preferenze	_	_	_	_	_	linguistic	_	_	_	Begin=315.287|End=316.168	_	_	_	0-10(34)
 140-0	PST205	140	0	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=317.882	_	_	_	_
-140-1	PST205	140	1	accor[do]	accordo	_	_	_	_	_	linguistic	_	_	_	End=318.608	_	_	_	4-7(35)
+140-1	PST205	140	1	accor[do]	accordo	_	_	_	_	_	linguistic	_	_	_	End=318.608	_	_	_	5-7(35)
 141-0	PST014	141	0	[però	però	_	_	_	_	_	linguistic	_	_	_	Begin=318.323	_	_	_	0-4(35)
 141-1	PST014	141	1	p]referibilmente	preferibilmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(35)
 141-2	PST014	141	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -724,7 +724,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 145-4	PST014	145	4	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 145-5	PST014	145	5	volte	volte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 145-6	PST014	145	6	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-145-7	PST014	145	7	an[no]	anno	_	_	_	_	_	linguistic	_	_	_	End=326.038	_	_	_	1-4(38)
+145-7	PST014	145	7	an[no]	anno	_	_	_	_	_	linguistic	_	_	_	End=326.038	_	_	_	2-4(38)
 146-0	PST205	146	0	[tut]ti	tutti	_	_	_	_	_	linguistic	_	_	_	Begin=325.848	_	_	_	0-3(38)
 146-1	PST205	146	1	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 146-2	PST205	146	2	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1264,7 +1264,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 237-22	PST014	237	22	bella	bella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 237-23	PST014	237	23	vita	vita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 237-24	PST014	237	24	diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-237-25	PST014	237	25	v[ia]	via	_	_	_	_	_	linguistic	_	_	_	End=538.095	_	_	_	0-3(60)
+237-25	PST014	237	25	v[ia]	via	_	_	_	_	_	linguistic	_	_	_	End=538.095	_	_	_	1-3(60)
 238-0	PST205	238	0	[o]kay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=537.952|End=538.476	_	_	_	0-1(60)
 239-0	PST205	239	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=538.677|End=538.999	_	_	_	_
 240-0	PST205	240	0	e:hmù	ehmù	_	_	_	_	_	linguistic	_	_	_	Begin=539.951|End=540.844	0x1	_	_	_
@@ -1997,7 +1997,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 395-11	PST205	395	11	del~	del~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-4(36)
 395-12	PST205	395	12	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(36)
 395-13	PST205	395	13	italia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(36)
-395-14	PST205	395	14	okay]	okay	_	_	_	_	_	linguistic	_	_	_	End=840.441	_	_	_	0-3(36)
+395-14	PST205	395	14	okay]	okay	_	_	_	_	_	linguistic	_	_	_	End=840.441	_	_	_	0-4(36)
 396-0	PST014	396	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=838.498	_	_	_	0-2(36)
 396-1	PST014	396	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(36)
 396-2	PST014	396	2	guardo	guardo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(36)
@@ -2129,7 +2129,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 417-4	PST205	417	4	italia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 417-5	PST205	417	5	nelle	nelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 417-6	PST205	417	6	competizioni	competizioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-417-7	PST205	417	7	internaziona[li]?	internazionali	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=889.89	_	_	_	11-14(42)
+417-7	PST205	417	7	internaziona[li]?	internazionali	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=889.89	_	_	_	12-14(42)
 418-0	PST014	418	0	[s]ì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=889.768|End=890.093	_	_	_	0-1(42)
 419-0	PST205	419	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=891.32|End=891.75	_	_	_	_
 420-0	PST014	420	0	[a	a	_	_	_	_	_	linguistic	_	_	_	Begin=891.913	_	_	_	0-1(43)

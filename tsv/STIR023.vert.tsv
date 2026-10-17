@@ -458,7 +458,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 47-6	PST211	47	6	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 47-7	PST211	47	7	associazione:	associazione	_	_	_	_	_	linguistic	_	_	_	_	11x1	_	_	_
 47-8	PST211	47	8	normale	normale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-47-9	PST211	47	9	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=3-4(0)|Fast=0-4(0)	_	_
+47-9	PST211	47	9	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 47-10	PST211	47	10	se	se	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	Slow=0-2(0)	_	_
 47-11	PST211	47	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 47-12	PST211	47	12	[balla]te	ballate	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-7(0)	_	0-5(13)
@@ -500,11 +500,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 55-4	PST057	55	4	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 55-5	PST057	55	5	anno:	anno	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 55-6	PST057	55	6	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-55-7	PST057	55	7	inizia[to:	iniziato	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	7x1	_	_	4-8(17)
+55-7	PST057	55	7	inizia[to:	iniziato	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	7x1	_	_	6-8(17)
 55-8	PST057	55	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(17)
 55-9	PST057	55	9	>cioè:<	cioè	_	_	_	_	_	linguistic	_	_	_	_	3x1	Fast=0-4(0)	_	0-4(17)
 55-10	PST057	55	10	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(17)
-55-11	PST057	55	11	avuto]	avuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(17)
+55-11	PST057	55	11	avuto]	avuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(17)
 55-12	PST057	55	12	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-13	PST057	55	13	primi	primi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-14	PST057	55	14	contatti	contatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -630,12 +630,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 67-15	PST056	67	15	u:n	un	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 67-16	PST056	67	16	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-17	PST056	67	17	bella	bella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-67-18	PST056	67	18	sensazi[one:]	sensazione	_	_	_	_	_	linguistic	_	_	_	_	9x1	_	_	5-10(22)
+67-18	PST056	67	18	sensazi[one:]	sensazione	_	_	_	_	_	linguistic	_	_	_	_	9x1	_	_	7-10(22)
 67-19	PST056	67	19	sono:	sono	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 67-20	PST056	67	20	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-21	PST056	67	21	brave	brave	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-22	PST056	67	22	persone:	persone	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	_
-67-23	PST056	67	23	[son]	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(23)
+67-23	PST056	67	23	[son]	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(23)
 67-24	PST056	67	24	contenta	contenta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-25	PST056	67	25	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-26	PST056	67	26	essere	essere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -771,7 +771,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 82-26	PST211	82	26	[vissuta	vissuta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(27)
 82-27	PST211	82	27	co]me	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(27)
 82-28	PST211	82	28	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-82-29	PST211	82	29	forza[tura:]?	forzatura	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=216.298	8x1	_	_	4-9(28)
+82-29	PST211	82	29	forza[tura:]?	forzatura	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=216.298	8x1	_	_	5-9(28)
 83-0	PST056	83	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=213.659|End=214.105	1x1	_	_	0-2(26)
 84-0	PST057	84	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=214.65|End=215.12	1x1	_	_	0-2(27)
 85-0	PST057	85	0	[no:	no	_	_	_	_	_	linguistic	_	_	_	Begin=215.77	1x1	_	_	0-2(28)
@@ -900,7 +900,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 99-16	PST056	99	16	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 99-17	PST056	99	17	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 99-18	PST056	99	18	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-99-19	PST056	99	19	ru[meno	rumeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(33)
+99-19	PST056	99	19	ru[meno	rumeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(33)
 99-20	PST056	99	20	e]	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(33)
 99-21	PST056	99	21	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 99-22	PST056	99	22	quanto,	quanto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=253.047	_	_	_	_
@@ -1436,7 +1436,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 169-13	PST057	169	13	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 169-14	PST057	169	14	dopo:	dopo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	3x1	_	_	_
 169-15	PST057	169	15	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-169-16	PST057	169	16	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=3-4(0)|Fast=0-4(0)	_	_
+169-16	PST057	169	16	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 169-17	PST057	169	17	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 169-18	PST057	169	18	piace	piace	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
 169-19	PST057	169	19	(>perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(1)	0-6(0)	_
@@ -1679,8 +1679,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 191-20	PST056	191	20	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 191-21	PST056	191	21	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 191-22	PST056	191	22	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-191-23	PST056	191	23	studiato	studiato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(53)
-191-24	PST056	191	24	[ma],	ma	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=479.205	_	_	_	_
+191-23	PST056	191	23	studiato	studiato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+191-24	PST056	191	24	[ma],	ma	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=479.205	_	_	_	0-2(53)
 192-0	PST211	192	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=478.947	_	_	_	0-2(53)
 192-1	PST211	192	1	mh:	mh	_	_	_	_	_	linguistic	_	_	_	End=479.403	1x1	_	_	_
 193-0	PST056	193	0	io	io	_	_	_	_	_	linguistic	_	_	_	Begin=479.467	_	_	_	_
@@ -1729,8 +1729,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 197-29	PST211	197	29	ve	ve	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 197-30	PST211	197	30	ne	ne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 197-31	PST211	197	31	rendiate	rendiate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-197-32	PST211	197	32	troppo	troppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(55)
-197-33	PST211	197	33	[conto]?	conto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=497.842	_	_	_	0-4(55)
+197-32	PST211	197	32	troppo	troppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+197-33	PST211	197	33	[conto]?	conto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=497.842	_	_	_	0-5(55)
 198-0	PST057	198	0	[s:ì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=492.501|End=493.099	0x1	_	_	0-2(56)
 199-0	PST056	199	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=493.1|End=493.411	_	_	_	0-2(57)
 200-0	PST057	200	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=497.41	_	_	_	0-2(55)
@@ -2553,7 +2553,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 309-1	PST057	309	1	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 309-2	PST057	309	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 309-3	PST057	309	3	italia:	italia	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
-309-4	PST057	309	4	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=3-4(0)|Fast=0-4(0)	_	_
+309-4	PST057	309	4	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 309-5	PST057	309	5	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 309-6	PST057	309	6	me:	me	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	1x1	Slow=0-2(0)	_	_
 309-7	PST057	309	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -2763,7 +2763,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 346-10	PST211	346	10	ultimo	ultimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 346-11	PST211	346	11	posto	posto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 346-12	PST211	346	12	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-346-13	PST211	346	13	cu[i::	cui	_	_	_	_	_	linguistic	_	_	_	_	2x2	_	_	1-3(93)
+346-13	PST211	346	13	cu[i::	cui	_	_	_	_	_	linguistic	_	_	_	_	2x2	_	_	2-3(93)
 346-14	PST211	346	14	tu	tu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(93)
 346-15	PST211	346	15	v]oglia	voglia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(93)
 346-16	PST211	346	16	[andare:]	andare	_	_	_	_	_	linguistic	_	_	_	End=792.897	5x1	_	_	0-6(94)
@@ -3195,7 +3195,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 411-11	PST056	411	11	opposto	opposto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 411-12	PST056	411	12	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 411-13	PST056	411	13	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-411-14	PST056	411	14	no[n::]	non	_	_	_	_	_	linguistic	_	_	_	End=905.72	2x2	_	_	1-3(120)
+411-14	PST056	411	14	no[n::]	non	_	_	_	_	_	linguistic	_	_	_	End=905.72	2x2	_	_	2-3(120)
 412-0	PST211	412	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=905.24	_	_	_	0-2(120)
 412-1	PST211	412	1	ah]	ah	_	_	_	_	_	linguistic	_	_	_	End=905.721	_	_	_	0-2(120)
 413-0	PST211	413	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=905.895	_	_	_	_
@@ -4210,7 +4210,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 514-30	PST056	514	30	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 514-31	PST056	514	31	mia	mia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 514-32	PST056	514	32	sorella	sorella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-514-33	PST056	514	33	co[sì:]	così	_	_	_	_	_	linguistic	_	_	_	End=1205.68	3x1	_	_	1-4(143)
+514-33	PST056	514	33	co[sì:]	così	_	_	_	_	_	linguistic	_	_	_	End=1205.68	3x1	_	_	2-4(143)
 515-0	PST211	515	0	[m]:h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1205.53|End=1205.912	0x1	_	_	0-1(143)
 516-0	PST056	516	0	e::hm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=1206.426|End=1207.617	0x2	_	_	_
 517-0	PST056	517	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=1207.89	_	_	_	_

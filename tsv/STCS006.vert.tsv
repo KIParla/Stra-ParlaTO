@@ -120,7 +120,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 17-1	PST115	17	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 17-2	PST115	17	2	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 17-3	PST115	17	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-17-4	PST115	17	4	ave[te]	avete	_	_	_	_	_	linguistic	_	_	_	End=38.19	_	_	_	2-5(5)
+17-4	PST115	17	4	ave[te]	avete	_	_	_	_	_	linguistic	_	_	_	End=38.19	_	_	_	3-5(5)
 18-0	PST112	18	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=37.93	_	_	_	0-2(5)
 18-1	PST112	18	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(5)
 18-2	PST112	18	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(5)
@@ -668,7 +668,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-4	PST113	119	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 119-5	PST113	119	5	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 119-6	PST113	119	6	sto	sto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-119-7	PST113	119	7	accen[to(ne)]	accentone	_	_	_	_	_	linguistic	_	_	_	End=194.17	_	_	6-9(0)	4-9(32)
+119-7	PST113	119	7	accen[to(ne)]	accentone	_	_	_	_	_	linguistic	_	_	_	End=194.17	_	_	7-9(0)	5-9(32)
 120-0	PST114	120	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=193.908	_	_	_	0-2(32)
 120-1	PST114	120	1	ma]	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(32)
 120-2	PST114	120	2	infa~	infa~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
@@ -769,7 +769,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 142-3	PST115	142	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(36)
 142-4	PST115	142	4	qua]:::::	qua	_	_	_	_	_	linguistic	_	_	_	_	2x5	_	_	0-3(36)
 142-5	PST115	142	5	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-142-6	PST115	142	6	far[e::],	fare	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=230.409	3x2	_	_	2-4(37)
+142-6	PST115	142	6	far[e::],	fare	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=230.409	3x2	_	_	3-4(37)
 143-0	PST113	143	0	[ci	ci	_	_	_	_	_	linguistic	_	_	_	Begin=229.863	_	_	_	0-2(37)
 143-1	PST113	143	1	stava],	stava	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=230.375	_	_	_	0-5(37)
 144-0	PST115	144	0	nel	nel	_	_	_	_	_	linguistic	_	_	_	Begin=231.409	_	_	_	_
@@ -1144,8 +1144,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 211-4	PST115	211	4	[@gabri]	@gabri	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	_	_	_	_	0-6(55)
 211-5	PST115	211	5	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 211-6	PST115	211	6	prendi	prendi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-211-7	PST115	211	7	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	2-3(56)
-211-8	PST115	211	8	[acqua]	acqua	_	_	_	_	_	linguistic	_	_	_	End=350.693	_	_	_	0-4(56)
+211-7	PST115	211	7	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+211-8	PST115	211	8	[acqua]	acqua	_	_	_	_	_	linguistic	_	_	_	End=350.693	_	_	_	0-5(56)
 212-0	PST112	212	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=349.148	_	_	_	0-2(55)
 212-1	PST112	212	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(55)
 212-2	PST112	212	2	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(55)
@@ -1465,7 +1465,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 278-4	PST115	278	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 278-5	PST115	278	5	è::	è	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	0x2	_	_	_
 278-6	PST115	278	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-278-7	PST115	278	7	car[paccio]	carpaccio	_	_	_	_	_	linguistic	_	_	_	End=454.977	_	_	_	2-9(72)
+278-7	PST115	278	7	car[paccio]	carpaccio	_	_	_	_	_	linguistic	_	_	_	End=454.977	_	_	_	3-9(72)
 279-0	PST114	279	0	[<bra:]:viss:ima>	bravissima	_	_	_	_	_	linguistic	_	_	_	Begin=454.602|End=456.648	2x2,6x1	Slow=0-10(0)	_	0-3(72)
 280-0	PST113	280	0	amo	amo	_	_	_	_	_	linguistic	_	_	_	Begin=457.999	_	_	_	_
 280-1	PST113	280	1	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	_
@@ -2578,7 +2578,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 493-10	PST115	493	10	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 493-11	PST115	493	11	lingua	lingua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 493-12	PST115	493	12	sta	sta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-493-13	PST115	493	13	par[lando]?	parlando	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=794.875	_	_	_	2-8(128)
+493-13	PST115	493	13	par[lando]?	parlando	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=794.875	_	_	_	3-8(128)
 494-0	PST112	494	0	((parla_con_la_bocca_piena))	((parla_con_la_bocca_piena))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=794.294	_	_	_	_
 494-1	PST112	494	1	[eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(128)
 494-2	PST112	494	2	(mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	0-2(128)
@@ -2731,7 +2731,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 529-0	PST112	529	0	[loro	loro	_	_	_	_	_	linguistic	_	_	_	Begin=841.273	_	_	_	0-4(138)
 529-1	PST112	529	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(138)
 529-2	PST112	529	2	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(138)
-529-3	PST112	529	3	mangiat(a)]?	mangiata	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=842.193	_	_	6-8(0)	0-8(138)
+529-3	PST112	529	3	mangiat(a)]?	mangiata	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=842.193	_	_	7-8(0)	0-8(138)
 530-0	PST113	530	0	dove	dove	_	_	_	_	_	linguistic	_	_	_	Begin=842.182	_	_	_	_
 530-1	PST113	530	1	ce	ce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 530-2	PST113	530	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -3832,7 +3832,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 721-8	PST112	721	8	[d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(190)
 721-9	PST112	721	9	inverno	inverno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(190)
 721-10	PST112	721	10	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(190)
-721-11	PST112	721	11	esta]te::	estate	_	_	_	_	_	linguistic	_	_	_	_	5x2	_	_	0-3(190)
+721-11	PST112	721	11	esta]te::	estate	_	_	_	_	_	linguistic	_	_	_	_	5x2	_	_	0-4(190)
 721-12	PST112	721	12	semp~	semp~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1136.722	_	_	_	_
 722-0	PST113	722	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1133.846	_	_	_	0-2(189)
 722-1	PST113	722	1	beh]	beh	_	_	_	_	_	linguistic	_	_	_	End=1134.235	_	_	_	0-3(189)

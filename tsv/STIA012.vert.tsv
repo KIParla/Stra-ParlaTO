@@ -535,7 +535,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 73-15	PST032	73	15	arabo,	arabo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 73-16	PST032	73	16	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 73-17	PST032	73	17	passano	passano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-73-18	PST032	73	18	subi[to	subito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(13)
+73-18	PST032	73	18	subi[to	subito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(13)
 73-19	PST032	73	19	perché]	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(13)
 73-20	PST032	73	20	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 73-21	PST032	73	21	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -703,7 +703,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 96-4	PST032	96	4	marocco	marocco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 96-5	PST032	96	5	dimenticano	dimenticano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 96-6	PST032	96	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-96-7	PST032	96	7	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(19)
+96-7	PST032	96	7	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(19)
 96-8	PST032	96	8	diventano	diventano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(19)
 96-9	PST032	96	9	vera]mente	veramente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(19)
 96-10	PST032	96	10	$uni	uni	_	_	_	_	_	linguistic	_	Nonce=Yes	_	_	_	_	_	_

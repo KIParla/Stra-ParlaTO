@@ -2591,12 +2591,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 721-2	PST108	721	2	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 721-3	PST108	721	3	i~	i~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 721-4	PST108	721	4	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-721-5	PST108	721	5	italia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(162)
+721-5	PST108	721	5	italia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 721-6	PST108	721	6	[no	no	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-2(162)
 721-7	PST108	721	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(162)
 721-8	PST108	721	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(162)
 721-9	PST108	721	9	puoi	puoi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(162)
-721-10	PST108	721	10	lav]orare	lavorare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(162)
+721-10	PST108	721	10	lav]orare	lavorare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(162)
 721-11	PST108	721	11	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 721-12	PST108	721	12	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 721-13	PST108	721	13	diploma	diploma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4642,7 +4642,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1284-0	PST108	1284	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1964.841	_	_	_	_
 1284-1	PST108	1284	1	iban	iban	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 1284-2	PST108	1284	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-1284-3	PST108	1284	3	s[ì]	sì	_	_	_	_	_	linguistic	_	_	_	End=1965.892	_	_	_	0-2(292)
+1284-3	PST108	1284	3	s[ì]	sì	_	_	_	_	_	linguistic	_	_	_	End=1965.892	_	_	_	1-2(292)
 1285-0	PST211	1285	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1965.576	_	_	_	0-2(292)
 1285-1	PST211	1285	1	no]	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(292)
 1285-2	PST211	1285	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

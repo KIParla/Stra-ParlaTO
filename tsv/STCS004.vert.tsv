@@ -1265,7 +1265,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 304-1	PST213	304	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 304-2	PST213	304	2	avrebbe	avrebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 304-3	PST213	304	3	mangiata	mangiata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-304-4	PST213	304	4	tutt[a]	tutta	_	_	_	_	_	linguistic	_	_	_	End=436.92	_	_	_	3-5(67)
+304-4	PST213	304	4	tutt[a]	tutta	_	_	_	_	_	linguistic	_	_	_	End=436.92	_	_	_	4-5(67)
 305-0	PST098	305	0	[s]:ì::	sì	_	_	_	_	_	linguistic	_	_	_	Begin=436.726|End=437.03	0x1,1x2	_	_	0-1(67)
 306-0	PST213	306	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=437.69	_	_	_	_
 306-1	PST213	306	1	secondo	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1322,7 +1322,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 316-1	PST213	316	1	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 316-2	PST213	316	2	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 316-3	PST213	316	3	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-316-4	PST213	316	4	opera[zione:]?	operazione	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=456.796	9x1	_	_	4-10(71)
+316-4	PST213	316	4	opera[zione:]?	operazione	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=456.796	9x1	_	_	5-10(71)
 317-0	PST098	317	0	[faceva]	faceva	_	_	_	_	_	linguistic	_	_	_	Begin=456.372	_	_	_	0-6(71)
 317-1	PST098	317	1	faceva	faceva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 317-2	PST098	317	2	ridere	ridere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

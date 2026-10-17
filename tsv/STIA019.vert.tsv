@@ -511,8 +511,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 37-17	PST106	37	17	suoni	suoni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 37-18	PST106	37	18	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 37-19	PST106	37	19	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-37-20	PST106	37	20	liv[ello	livello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(5)
-37-21	PST106	37	21	di:]	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-1(5)
+37-20	PST106	37	20	liv[ello	livello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(5)
+37-21	PST106	37	21	di:]	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(5)
 37-22	PST106	37	22	ri~	ri~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 37-23	PST106	37	23	m::h	mh	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
 37-24	PST106	37	24	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2281,7 +2281,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 155-36	PST106	155	37	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 155-37	PST106	155	38	africa	africa	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 155-38	PST106	155	39	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-155-39	PST106	155	40	[sì:.]	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=765.79	1x1	_	_	0-1(35)
+155-39	PST106	155	40	[sì:.]	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=765.79	1x1	_	_	0-2(35)
 156-0	PST216	156	0	[oh	oh	_	_	_	_	_	linguistic	_	_	_	Begin=765.11	_	_	_	0-2(35)
 156-1	PST216	156	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(35)
 156-2	PST216	156	2	sì	sì	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	0-2(35)

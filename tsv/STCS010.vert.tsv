@@ -2110,7 +2110,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 547-16	PST166	547	16	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 547-17	PST166	547	17	[poteva	poteva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(163)
 547-18	PST166	547	18	anda]re	andare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(163)
-547-19	PST166	547	19	<pre[stiss::i][mo:>]	prestissimo	_	_	_	_	_	linguistic	_	_	_	End=743.05	7x2,10x1	Slow=0-11(0)	_	2-9(164),9-11(165)
+547-19	PST166	547	19	<pre[stiss::i][mo:>]	prestissimo	_	_	_	_	_	linguistic	_	_	_	End=743.05	7x2,10x1	Slow=0-11(0)	_	3-9(164),9-11(165)
 548-0	PST162	548	0	cous	cous	_	_	_	_	_	linguistic	_	_	_	Begin=737.53	_	_	_	_
 548-1	PST162	548	1	cous?	cous	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=738.21	_	_	_	_
 549-0	PST164	549	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=740.531|End=740.971	_	_	_	0-2(164)
@@ -10458,11 +10458,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2179-10	PST160	2179	10	d'	d'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 2179-11	PST160	2179	11	industria	industria	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2179-12	PST160	2179	12	#creo	creo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2179-13	PST160	2179	13	#que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	3-4(42)
+2179-13	PST160	2179	13	#que	que	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2179-14	PST160	2179	14	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(42)
-2179-15	PST160	2179	15	mi]	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(42)
+2179-15	PST160	2179	15	mi]	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(42)
 2179-16	PST160	2179	16	ricordo	ricordo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2179-17	PST160	2179	17	be[ne]	bene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=4045.88	_	_	_	0-3(43)
+2179-17	PST160	2179	17	be[ne]	bene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=4045.88	_	_	_	2-4(43)
 2180-0	PST211	2180	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=4044.56	_	_	_	0-2(42)
 2180-1	PST211	2180	1	ah]	ah	_	_	_	_	_	linguistic	_	_	_	End=4044.98	_	_	_	0-2(42)
 2181-0	PST211	2181	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=4045.6|End=4045.95	_	_	_	0-2(43)

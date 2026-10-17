@@ -5888,9 +5888,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1113-5	PST222	1113	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1113-6	PST222	1113	6	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1113-7	PST222	1113	7	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1113-8	PST222	1113	8	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(18)
+1113-8	PST222	1113	8	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1113-9	PST222	1113	9	[scuola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(18)
-1113-10	PST222	1113	10	lì],	lì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2206.66	_	_	_	_
+1113-10	PST222	1113	10	lì],	lì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2206.66	_	_	_	0-2(18)
 1114-0	PST144	1114	0	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2205.56	_	_	_	_
 1114-1	PST144	1114	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1114-2	PST144	1114	2	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6075,7 +6075,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1153-11	PST144	1153	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(33)
 1153-12	PST144	1153	12	fredda	fredda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(33)
 1153-13	PST144	1153	13	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(33)
-1153-14	PST144	1153	14	lì]	lì	_	_	_	_	_	linguistic	_	_	_	End=2275.265	_	_	_	0-1(33)
+1153-14	PST144	1153	14	lì]	lì	_	_	_	_	_	linguistic	_	_	_	End=2275.265	_	_	_	0-2(33)
 1154-0	PST222	1154	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2274.179|End=2275.335	_	_	_	_
 1155-0	PST222	1155	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=2275.643	_	_	_	_
 1155-1	PST222	1155	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6164,7 +6164,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1165-6	PST222	1165	6	inverno	inverno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1165-7	PST222	1165	7	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1165-8	PST222	1165	8	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1165-9	PST222	1165	9	giac[ca]	giacca	_	_	_	_	_	linguistic	_	_	_	End=2300.466	_	_	_	3-6(39)
+1165-9	PST222	1165	9	giac[ca]	giacca	_	_	_	_	_	linguistic	_	_	_	End=2300.466	_	_	_	4-6(39)
 1166-0	PST144	1166	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2299.945|End=2300.464	_	_	_	_
 1167-0	PST144	1167	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=2301.517	_	_	_	_
 1167-1	PST144	1167	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -8303,7 +8303,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1568-9	PST144	1568	9	intenzione	intenzione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-10(132)
 1568-10	PST144	1568	10	oka:y	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x1	_	_	0-4(132)
 1568-11	PST144	1568	11	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	0-2(132)
-1568-12	PST144	1568	12	intenzi]one	intenzione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	0-6(132)
+1568-12	PST144	1568	12	intenzi]one	intenzione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	0-7(132)
 1568-13	PST144	1568	13	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 1568-14	PST144	1568	14	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1568-15	PST144	1568	15	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -9267,7 +9267,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1751-22	PST144	1751	22	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 1751-23	PST144	1751	23	ascolti	ascolti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1751-24	PST144	1751	24	nelle	nelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1751-25	PST144	1751	25	can[zo:ni:]	canzoni	_	_	_	_	_	linguistic	_	_	_	End=3498.36	4x1,6x1	_	_	1-7(191)
+1751-25	PST144	1751	25	can[zo:ni:]	canzoni	_	_	_	_	_	linguistic	_	_	_	End=3498.36	4x1,6x1	_	_	3-7(191)
 1752-0	PST222	1752	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=3497.633	_	_	_	0-2(191)
 1752-1	PST222	1752	1	esa]tto	esatto	_	_	_	_	_	linguistic	_	_	_	End=3498.551	_	_	_	0-3(191)
 1753-0	PST144	1753	0	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=3498.652	_	_	_	_
