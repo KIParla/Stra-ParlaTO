@@ -55,9 +55,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 12-6	PST213	12	6	italia:no	italiano	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 12-7	PST213	12	7	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 12-8	PST213	12	8	loro	loro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-12-9	PST213	12	9	lin[gua	lingua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(3)
+12-9	PST213	12	9	lin[gua	lingua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(3)
 12-10	PST213	12	10	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(3)
-12-11	PST213	12	11	ori:g]ine	origine	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-3(3)
+12-11	PST213	12	11	ori:g]ine	origine	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-4(3)
 12-12	PST213	12	12	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 12-13	PST213	12	13	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 12-14	PST213	12	14	trovano	trovano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -133,7 +133,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 25-4	PST213	25	4	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 25-5	PST213	25	5	sapevi	sapevi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 25-6	PST213	25	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-25-7	PST213	25	7	itali[ano],	italiano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=49.712	_	_	_	4-8(6)
+25-7	PST213	25	7	itali[ano],	italiano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=49.712	_	_	_	5-8(6)
 26-0	PST051	26	0	[no]:	no	_	_	_	_	_	linguistic	_	_	_	Begin=49.44	1x1	_	_	0-2(6)
 26-1	PST051	26	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 26-2	PST051	26	2	sapevo.	sapevo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=50.629	_	_	_	_
@@ -322,7 +322,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 63-12	PST051	63	12	ancora:	ancora	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 63-13	PST051	63	13	preferisce	preferisce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 63-14	PST051	63	14	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-63-15	PST051	63	15	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(21)
+63-15	PST051	63	15	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(21)
 63-16	PST051	63	16	((rid))	((rid))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	X(21)
 63-17	PST051	63	17	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(21)
 63-18	PST051	63	18	mo]lto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(21)
@@ -464,7 +464,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 84-3	PST213	84	3	imparato	imparato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 84-4	PST213	84	4	così	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 84-5	PST213	84	5	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-84-6	PST213	84	6	s[ei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(28)
+84-6	PST213	84	6	s[ei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(28)
 84-7	PST213	84	7	andata	andata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(28)
 84-8	PST213	84	8	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(28)
 84-9	PST213	84	9	scuola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(28)
@@ -480,7 +480,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 85-6	PST051	85	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(28)
 85-7	PST051	85	7	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(28)
 85-8	PST051	85	8	imparato	imparato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(28)
-85-9	PST051	85	9	c]osì.	così	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=165.665	_	_	_	_
+85-9	PST051	85	9	c]osì.	così	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=165.665	_	_	_	0-1(28)
 86-0	PST213	86	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=165.8|End=166.338	_	_	_	_
 87-0	PST051	87	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=166.429|End=166.842	_	_	_	_
 88-0	PST212	88	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=167.931	_	_	_	_
@@ -672,7 +672,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 118-15	PST213	118	15	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 118-16	PST213	118	16	tu	tu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 118-17	PST213	118	17	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-118-18	PST213	118	18	bis[ogno].	bisogno	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=237.722	_	_	_	2-7(38)
+118-18	PST213	118	18	bis[ogno].	bisogno	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=237.722	_	_	_	3-7(38)
 119-0	PST051	119	0	[sì:	sì	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=234.35	1x1	_	_	0-2(39)
 119-1	PST051	119	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(39)
 119-2	PST051	119	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(39)
@@ -809,7 +809,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 140-9	PST051	140	9	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 140-10	PST051	140	10	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 140-11	PST051	140	11	andata	andata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-140-12	PST051	140	12	a[::].	a	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=288.19	0x2	_	_	0-1(46)
+140-12	PST051	140	12	a[::].	a	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=288.19	0x2	_	_	_
 141-0	PST212	141	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=287.725|End=288.192	_	_	_	0-4(46)
 142-0	PST213	142	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=289.075	_	_	_	_
 142-1	PST213	142	1	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

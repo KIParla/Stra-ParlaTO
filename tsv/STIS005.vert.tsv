@@ -454,7 +454,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 87-6	PST038	87	6	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 87-7	PST038	87	7	chiede	chiede	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 87-8	PST038	87	8	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-87-9	PST038	87	9	ami[cizia]	amicizia	_	_	_	_	_	linguistic	_	_	_	End=176.9	_	_	_	2-8(32)
+87-9	PST038	87	9	ami[cizia]	amicizia	_	_	_	_	_	linguistic	_	_	_	End=176.9	_	_	_	3-8(32)
 88-0	PST211	88	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=176.57|End=176.905	0x1	_	_	0-2(32)
 89-0	PST038	89	0	perché:	perché	_	_	_	_	_	linguistic	_	_	_	Begin=176.96|End=177.57	5x1	_	_	_
 90-0	PST038	90	0	le	le	_	_	_	_	_	linguistic	_	_	_	Begin=178.23	_	_	_	_
@@ -1144,7 +1144,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 219-9	PST038	219	9	nessuno	nessuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 219-10	PST038	219	10	scopo	scopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 219-11	PST038	219	11	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-219-12	PST038	219	12	lu[cro]	lucro	_	_	_	_	_	linguistic	_	_	_	End=487.165	_	_	_	1-5(67)
+219-12	PST038	219	12	lu[cro]	lucro	_	_	_	_	_	linguistic	_	_	_	End=487.165	_	_	_	2-5(67)
 220-0	PST211	220	0	[certo]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=484.323|End=484.783	_	_	_	0-5(65)
 221-0	PST211	221	0	[certo]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=485.178|End=485.838	_	_	_	0-5(66)
 222-0	PST211	222	0	[cer]to	certo	_	_	_	_	_	linguistic	_	_	_	Begin=486.998|End=487.378	_	_	_	0-3(67)
@@ -1467,11 +1467,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 280-11	PST038	280	11	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 280-12	PST038	280	12	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 280-13	PST038	280	13	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-280-14	PST038	280	14	orario	orario	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	_
+280-14	PST038	280	14	orario	orario	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 280-15	PST038	280	15	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	_
 280-16	PST038	280	16	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	_
 280-17	PST038	280	17	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	_
-280-18	PST038	280	18	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	1-2(77)
+280-18	PST038	280	18	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	_
 280-19	PST038	280	19	[visto:]°	visto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	4x1	_	_	0-5(77)
 280-20	PST038	280	20	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 280-21	PST038	280	21	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
@@ -2109,7 +2109,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 386-7	PST038	386	7	sensi	sensi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 386-8	PST038	386	8	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 386-9	PST038	386	9	sue	sue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-386-10	PST038	386	10	co[se	cose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(106)
+386-10	PST038	386	10	co[se	cose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(106)
 386-11	PST038	386	11	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(106)
 386-12	PST038	386	12	ba]ttute	battute	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(106)
 386-13	PST038	386	13	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -2352,7 +2352,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 421-3	PST038	421	3	subentrato	subentrato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 421-4	PST038	421	4	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 421-5	PST038	421	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-421-6	PST038	421	6	e(t)à:	età	_	_	_	_	_	linguistic	_	_	_	End=945.63	2x1	_	0-2(0)	_
+421-6	PST038	421	6	e(t)à:	età	_	_	_	_	_	linguistic	_	_	_	End=945.63	2x1	_	1-2(0)	_
 422-0	PST038	422	0	pomeri:ggio	pomeriggio	_	_	_	_	_	linguistic	_	_	_	Begin=945.66	5x1	_	_	_
 422-1	PST038	422	1	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 422-2	PST038	422	2	volte	volte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3152,13 +3152,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 559-3	PST038	559	3	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 559-4	PST038	559	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 559-5	PST038	559	5	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-559-6	PST038	559	6	let[to	letto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(133)
-559-7	PST038	559	7	ma:i]	mai	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(133)
+559-6	PST038	559	6	let[to	letto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(133)
+559-7	PST038	559	7	ma:i]	mai	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-3(133)
 559-8	PST038	559	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 559-9	PST038	559	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 559-10	PST038	559	10	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
-559-11	PST038	559	11	($e)studiato	estudiato	_	_	_	_	_	linguistic	_	Nonce=Yes	_	_	_	_	_	8-10(134)
-559-12	PST038	559	12	[ma:i:]	mai	_	_	_	_	_	linguistic	_	_	_	End=1252.684	1x1,2x1	_	_	0-2(134)
+559-11	PST038	559	11	($e)studiato	estudiato	_	_	_	_	_	linguistic	_	Nonce=Yes	_	_	_	_	_	_
+559-12	PST038	559	12	[ma:i:]	mai	_	_	_	_	_	linguistic	_	_	_	End=1252.684	1x1,2x1	_	_	0-3(134)
 560-0	PST211	560	0	[certo]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=1251.12|End=1251.808	_	_	_	0-5(133)
 561-0	PST211	561	0	[ah	ah	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1252.191	_	_	_	0-2(134)
 561-1	PST211	561	1	ah]	ah	_	_	_	_	_	linguistic	_	_	_	End=1252.672	_	_	_	0-2(134)
@@ -5397,7 +5397,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 902-5	PST038	902	5	metà:	metà	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 902-6	PST038	902	6	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 902-7	PST038	902	7	sue	sue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-902-8	PST038	902	8	origi[ne:]	origine	_	_	_	_	_	linguistic	_	_	_	End=2096.427	6x1	_	_	4-7(201)
+902-8	PST038	902	8	origi[ne:]	origine	_	_	_	_	_	linguistic	_	_	_	End=2096.427	6x1	_	_	5-7(201)
 903-0	PST211	903	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=2096.062|End=2096.64	_	_	_	0-2(201)
 904-0	PST038	904	0	allora	allora	_	_	_	_	_	linguistic	_	_	_	Begin=2097.484	_	_	_	_
 904-1	PST038	904	1	siamo	siamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6800,7 +6800,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1103-13	PST038	1103	13	seconda	seconda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1103-14	PST038	1103	14	lingua	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1103-15	PST038	1103	15	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-1103-16	PST038	1103	16	ingle:[se]	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2592.799	4x1	_	_	4-6(29)
+1103-16	PST038	1103	16	ingle:[se]	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2592.799	4x1	_	_	5-7(29)
 1104-0	PST211	1104	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=2592.6	_	_	_	0-2(29)
 1104-1	PST211	1104	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=2593.184	_	_	_	_
 1105-0	PST038	1105	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=2593.921	_	_	_	_
@@ -7184,7 +7184,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1162-2	PST211	1162	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1162-3	PST211	1162	3	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1162-4	PST211	1162	4	a:ltro	altro	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
-1162-5	PST211	1162	5	comu:nque	comunque	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	7-8(46)
+1162-5	PST211	1162	5	comu:nque	comunque	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 1162-6	PST211	1162	6	[c(io)è::]	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	End=2724.94	3x2	_	_	0-4(46)
 1163-0	PST038	1163	0	[ma]	ma	_	_	_	_	_	linguistic	_	_	_	Begin=2724.587	_	_	_	0-2(46)
 1163-1	PST038	1163	1	sì:	sì	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_

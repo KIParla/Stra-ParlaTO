@@ -350,7 +350,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 64-1	PST034	64	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 64-2	PST034	64	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 64-3	PST034	64	3	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-64-4	PST034	64	4	c[asa].	casa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=128.812	_	_	_	0-4(11)
+64-4	PST034	64	4	c[asa].	casa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=128.812	_	_	_	1-4(11)
 65-0	PST212	65	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=128.394|End=128.812	_	_	_	0-4(11)
 66-0	PST212	66	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=130.9	_	_	_	_
 66-1	PST212	66	1	qui	qui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1551,7 +1551,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 267-0	PST034	267	0	m:h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=572.809	0x1	_	_	_
 267-1	PST034	267	1	>c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 267-2	PST034	267	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
-267-3	PST034	267	3	volut~<	volut~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	Slow=5-6(0)|Fast=0-6(0)	_	_
+267-3	PST034	267	3	volut~<	volut~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	Fast=0-6(0)	_	_
 267-4	PST034	267	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 267-5	PST034	267	5	scie::nza	scienza	_	_	_	_	_	linguistic	_	_	_	_	3x2	Slow=0-7(0)	_	_
 267-6	PST034	267	6	>(fino	fino	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(1)	0-4(0)	_
@@ -1636,7 +1636,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 276-18	PST034	276	18	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 276-19	PST034	276	19	farmi	farmi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 276-20	PST034	276	20	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-276-21	PST034	276	21	ide[a]	idea	_	_	_	_	_	linguistic	_	_	_	End=601.061	_	_	_	2-4(40)
+276-21	PST034	276	21	ide[a]	idea	_	_	_	_	_	linguistic	_	_	_	End=601.061	_	_	_	3-4(40)
 277-0	PST212	277	0	s[ì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=600.99|End=601.319	_	_	_	1-2(40)
 278-0	PST211	278	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=603.833	_	_	_	_
 278-1	PST211	278	1	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2038,7 +2038,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 348-15	PST034	348	15	cappellini	cappellini	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 348-16	PST034	348	16	fatti	fatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 348-17	PST034	348	17	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-348-18	PST034	348	18	me[:],	me	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=739.642	1x1	_	_	0-2(116)
+348-18	PST034	348	18	me[:],	me	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=739.642	1x1	_	_	_
 349-0	PST211	349	0	[a:h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=739.447|End=739.818	0x1	_	_	0-2(116)
 350-0	PST212	350	0	[a:h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=739.447|End=739.818	0x1	_	_	0-2(116)
 351-0	PST034	351	0	[e]cco.	ecco	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=739.733|End=740.076	_	_	_	0-1(117)

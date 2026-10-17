@@ -988,10 +988,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 172-16	PST087	172	16	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 172-17	PST087	172	17	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 172-18	PST087	172	18	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-172-19	PST087	172	19	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(48)
+172-19	PST087	172	19	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 172-20	PST087	172	20	[mamma	mamma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(48)
 172-21	PST087	172	21	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(48)
-172-22	PST087	172	22	@anita]	@anita	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=348.447	_	_	_	0-5(48)
+172-22	PST087	172	22	@anita]	@anita	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=348.447	_	_	_	0-6(48)
 173-0	????	173	0	#_ [bună	bună	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=348.018	_	_	_	0-4(48)
 173-1	????	173	1	zi]ua	ziua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(48)
 173-2	????	173	2	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=349.053	_	_	_	_
@@ -1390,7 +1390,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 233-3	PST092	233	3	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(67)
 233-4	PST092	233	4	idea]	idea	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(67)
 233-5	PST092	233	5	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-233-6	PST092	233	6	real[tà	realtà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(68)
+233-6	PST092	233	6	real[tà	realtà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(68)
 233-7	PST092	233	7	no]	no	_	_	_	_	_	linguistic	_	_	_	End=523.0	_	_	_	0-2(68)
 234-0	PST211	234	0	[vabbè	vabbè	_	_	_	_	_	linguistic	_	_	_	Begin=520.425	_	_	_	0-5(67)
 234-1	PST211	234	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(67)
@@ -1609,7 +1609,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 260-14	PST092	260	14	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 260-15	PST092	260	15	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 260-16	PST092	260	16	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-260-17	PST092	260	17	(luce	luce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	0-4(0)	3-4(73)
+260-17	PST092	260	17	(luce	luce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	0-4(0)	_
 260-18	PST092	260	18	[passa)]	passa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=593.885	_	_	0-4(0)	0-5(73)
 262-0	PST087	262	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=593.584	_	_	_	0-2(73)
 262-1	PST087	262	1	sembra]	sembra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(73)

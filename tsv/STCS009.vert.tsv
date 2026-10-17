@@ -551,7 +551,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 66-12	PST161	66	12	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 66-13	PST161	66	13	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 66-14	PST161	66	14	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-66-15	PST161	66	15	quin[di::]	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=175.94	5x2	_	_	3-6(25)
+66-15	PST161	66	15	quin[di::]	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=175.94	5x2	_	_	4-6(25)
 67-0	PST166	67	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=175.66	1x1	_	_	0-2(25)
 67-1	PST166	67	1	certo	certo	_	_	_	_	_	linguistic	_	_	_	End=176.64	_	_	_	_
 68-0	PST161	68	0	ho:	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=176.6	1x1	_	_	_
@@ -930,7 +930,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 127-5	PST166	127	5	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 127-6	PST166	127	6	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 127-7	PST166	127	7	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-127-8	PST166	127	8	ac[cordo]	accordo	_	_	_	_	_	linguistic	_	_	_	End=289.13	_	_	_	0-6(45)
+127-8	PST166	127	8	ac[cordo]	accordo	_	_	_	_	_	linguistic	_	_	_	End=289.13	_	_	_	2-7(45)
 128-0	PST161	128	0	[brava]	brava	_	_	_	_	_	linguistic	_	_	_	Begin=287.39|End=288.2	_	_	_	0-5(44)
 129-0	PST160	129	0	[e::h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	ProsodicLink=Yes	Begin=288.69	0x2	_	_	0-2(45)
 129-1	PST160	129	1	#el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -1028,8 +1028,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 142-8	PST166	142	8	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 142-9	PST166	142	9	test	test	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 142-10	PST166	142	10	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-142-11	PST166	142	11	lin[gua	lingua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(50)
-142-12	PST166	142	12	italiana]	italiana	_	_	_	_	_	linguistic	_	_	_	End=324.57	_	_	_	0-7(50)
+142-11	PST166	142	11	lin[gua	lingua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(50)
+142-12	PST166	142	12	italiana]	italiana	_	_	_	_	_	linguistic	_	_	_	End=324.57	_	_	_	0-8(50)
 143-0	PST164	143	0	[signora	signora	_	_	_	_	_	linguistic	_	_	_	Begin=323.81	_	_	_	0-7(50)
 143-1	PST164	143	1	@analisa]	@analisa	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	_	_	_	_	0-8(50)
 143-2	PST164	143	2	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1435,7 +1435,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 209-7	PST161	209	7	[perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(74)
 209-8	PST161	209	8	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	0-2(74)
 209-9	PST161	209	9	orario	orario	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(74)
-209-10	PST161	209	10	so]no	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(74)
+209-10	PST161	209	10	so]no	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(74)
 209-11	PST161	209	11	#rotativos	rotativos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=472.095	_	_	_	_
 211-0	PST160	211	0	[sì::]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=470.52|End=471.21	1x2	_	_	0-2(74)
 212-0	PST161	212	0	fanno	fanno	_	_	_	_	_	linguistic	_	_	_	Begin=472.33	_	_	_	_
@@ -1599,8 +1599,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 239-3	PST160	239	3	italiano	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-8(88)
 239-4	PST160	239	4	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(88)
 239-5	PST160	239	5	#poner]	poner	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(88)
-239-6	PST160	239	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	1-2(429)
-239-7	PST160	239	7	[attenzione]	attenzione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=520.311	_	_	_	0-9(429)
+239-6	PST160	239	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
+239-7	PST160	239	7	[attenzione]	attenzione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=520.311	_	_	_	0-10(429)
 240-0	PST162	240	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	Begin=519.691	0x1	_	_	0-2(?)
 240-1	PST162	240	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 240-2	PST162	240	2	[però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(?)
@@ -1650,7 +1650,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 251-4	PST160	251	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 251-5	PST160	251	5	più:	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x1	_	_	_
 251-6	PST160	251	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-251-7	PST160	251	7	ital[iano]	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	3-8(?)
+251-7	PST160	251	7	ital[iano]	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	4-8(?)
 251-8	PST160	251	8	#*o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 251-9	PST160	251	9	#sea	sea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 251-10	PST160	251	10	[(tra~)	tra~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	0-4(0)	0-4(?)
@@ -2652,7 +2652,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 424-13	PST161	424	13	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 424-14	PST161	424	14	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 424-15	PST161	424	15	lavoro	lavoro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-424-16	PST161	424	16	per[ché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(164)
+424-16	PST161	424	16	per[ché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(164)
 424-17	PST161	424	17	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(164)
 424-18	PST161	424	18	volta]	volta	_	_	_	_	_	linguistic	_	_	_	End=823.744	_	_	_	0-5(164)
 425-0	PST166	425	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=823.042|End=823.622	0x1	_	_	0-2(164)
@@ -2848,7 +2848,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 460-3	PST166	460	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(176)
 460-4	PST166	460	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(176)
 460-5	PST166	460	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(176)
-460-6	PST166	460	6	proprio]	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(176)
+460-6	PST166	460	6	proprio]	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(176)
 460-7	PST166	460	7	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 460-8	PST166	460	8	sede	sede	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 460-9	PST166	460	9	lì	lì	_	_	_	_	_	linguistic	_	_	_	End=887.33	_	_	_	_
@@ -3495,7 +3495,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 552-13	PST161	552	13	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 552-14	PST161	552	14	(sulle)	sulle	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-5(0)	_
 552-15	PST161	552	15	ce:ntottanta	centottanta	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
-552-16	PST161	552	16	duecentoven[ti]	duecentoventi	_	_	_	_	_	linguistic	_	_	_	End=1102.09	_	_	_	10-13(208)
+552-16	PST161	552	16	duecentoven[ti]	duecentoventi	_	_	_	_	_	linguistic	_	_	_	End=1102.09	_	_	_	11-13(208)
 553-0	PST166	553	0	[ce:rto]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=1096.39|End=1097.073	1x1	_	_	0-5(207)
 554-0	PST160	554	0	[due][centocinqua:nta]	duecentocinquanta	_	_	_	_	_	linguistic	_	_	_	Begin=1101.845|End=1103.655	13x1	_	_	0-3(208),3-17(209)
 555-0	PST161	555	0	[u:n	un	_	_	_	_	_	linguistic	_	_	_	Begin=1102.26	0x1	_	_	0-2(209)
@@ -4089,7 +4089,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 676-3	PST161	676	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(245)
 676-4	PST161	676	4	orario	orario	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(245)
 676-5	PST161	676	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(245)
-676-6	PST161	676	6	ora]rio	orario	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(245)
+676-6	PST161	676	6	ora]rio	orario	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(245)
 676-7	PST161	676	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 676-8	PST161	676	8	diverso	diverso	_	_	_	_	_	linguistic	_	_	_	End=1284.468	_	_	_	_
 677-0	PST166	677	0	[e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1282.19	0x1	_	_	0-2(245)
@@ -4415,7 +4415,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 736-23	PST166	736	23	zona	zona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 736-24	PST166	736	24	barriera	barriera	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 736-25	PST166	736	25	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-736-26	PST166	736	26	mila[no]	milano	_	_	_	_	_	linguistic	_	_	_	End=1382.426	_	_	_	2-5(270)
+736-26	PST166	736	26	mila[no]	milano	_	_	_	_	_	linguistic	_	_	_	End=1382.426	_	_	_	4-6(270)
 737-0	PST160	737	0	[o]	o	_	_	_	_	_	linguistic	_	_	_	Begin=1375.38|End=1375.97	_	_	_	0-1(269)
 738-0	PST160	738	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1382.15|End=1382.63	0x1	_	_	0-2(270)
 739-0	PST166	739	0	ma:	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1382.83	1x1	_	_	_
@@ -4464,7 +4464,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 745-8	PST161	745	8	attesta~	attesta~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 745-9	PST161	745	9	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 745-10	PST161	745	10	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-745-11	PST161	745	11	qualifi[ca:	qualifica	_	_	_	_	_	linguistic	_	_	_	_	8x1	_	_	6-9(274)
+745-11	PST161	745	11	qualifi[ca:	qualifica	_	_	_	_	_	linguistic	_	_	_	_	8x1	_	_	7-9(274)
 745-12	PST161	745	12	assistenza	assistenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(274)
 745-13	PST161	745	13	fa]miliare	familiare	_	_	_	_	_	linguistic	_	_	_	End=1399.33	_	_	_	0-2(274)
 746-0	PST166	746	0	[pe:rfetto]	perfetto	_	_	_	_	_	linguistic	_	_	_	Begin=1397.871|End=1398.831	1x1	_	_	0-8(274)
@@ -5633,7 +5633,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 992-4	PST160	992	4	una::	una	_	_	_	_	_	linguistic	_	_	_	End=1958.53	2x2	_	_	_
 993-0	PST160	993	0	#compañera	compañera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1958.8	_	_	_	_
 993-1	PST160	993	1	dell'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-993-2	PST160	993	2	au[la	aula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	1-4(338)
+993-2	PST160	993	2	au[la	aula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	2-4(338)
 993-3	PST160	993	3	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(338)
 993-4	PST160	993	4	detto	detto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(338)
 993-5	PST160	993	5	co]sì:	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1961.18	3x1	_	_	0-2(338)
@@ -5748,7 +5748,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1012-11	PST166	1012	11	cittadinanza	cittadinanza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1012-12	PST166	1012	12	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1012-13	PST166	1012	13	ultima	ultima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1012-14	PST166	1012	14	fotogra[fia	fotografia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-10(345)
+1012-14	PST166	1012	14	fotogra[fia	fotografia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-10(345)
 1012-15	PST166	1012	15	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(345)
 1012-16	PST166	1012	16	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(345)
 1012-17	PST166	1012	17	fa]tto	fatto	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-2(345)
@@ -5864,11 +5864,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1036-3	PST166	1036	3	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1036-4	PST166	1036	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1036-5	PST166	1036	5	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1036-6	PST166	1036	6	scor[so	scorso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(353)
+1036-6	PST166	1036	6	scor[so	scorso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(353)
 1036-7	PST166	1036	7	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(353)
 1036-8	PST166	1036	8	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(353)
 1036-9	PST166	1036	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(353)
-1036-10	PST166	1036	10	più]	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(353)
+1036-10	PST166	1036	10	più]	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(353)
 1036-11	PST166	1036	11	comodo	comodo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1036-12	PST166	1036	12	via	via	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1036-13	PST166	1036	13	fossata	fossata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6012,7 +6012,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1065-4	PST166	1065	4	cen]tro	centro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(365)
 1065-5	PST166	1065	5	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1065-6	PST166	1065	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1065-7	PST166	1065	7	im[piego	impiego	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(366)
+1065-7	PST166	1065	7	im[piego	impiego	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(366)
 1065-8	PST166	1065	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(366)
 1065-9	PST166	1065	9	lì]	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(366)
 1065-10	PST166	1065	10	sopra	sopra	_	_	_	_	_	linguistic	_	_	_	End=2090.818	_	_	_	_
@@ -6699,8 +6699,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1196-21	PST161	1196	21	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 1196-22	PST161	1196	22	$attestado	attestado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	_	_	_	_	_
 1196-23	PST161	1196	23	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1196-24	PST161	1196	24	terza	terza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	3-5(397)
-1196-25	PST161	1196	25	[media]	media	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2414.426	_	_	_	0-3(397)
+1196-24	PST161	1196	24	terza	terza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
+1196-25	PST161	1196	25	[media]	media	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2414.426	_	_	_	0-5(397)
 1197-0	PST166	1197	0	[sì:]?	sì	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=2414.008|End=2414.478	1x1	_	_	0-2(397)
 1198-0	PST161	1198	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2414.588	_	_	_	_
 1198-1	PST161	1198	1	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -6759,7 +6759,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1202-14	PST166	1202	14	bisogna	bisogna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1202-15	PST166	1202	15	avere	avere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1202-16	PST166	1202	16	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1202-17	PST166	1202	17	licen[za	licenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(400)
+1202-17	PST166	1202	17	licen[za	licenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(400)
 1202-18	PST166	1202	18	media]?	media	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2431.418	_	_	_	0-5(400)
 1203-0	PST161	1203	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2430.933|End=2431.443	1x1	_	_	0-2(400)
 1204-0	PST166	1204	0	okay	okay	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=2431.643	_	_	_	_
@@ -6956,10 +6956,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1225-29	PST166	1225	29	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1225-30	PST166	1225	30	esame	esame	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1225-31	PST166	1225	31	difficile	difficile	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1225-32	PST166	1225	32	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(407)
+1225-32	PST166	1225	32	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1225-33	PST166	1225	33	[patente	patente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(407)
 1225-34	PST166	1225	34	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(407)
-1225-35	PST166	1225	35	gui]da	guida	_	_	_	_	_	linguistic	_	_	_	End=2491.974	_	_	_	0-1(407)
+1225-35	PST166	1225	35	gui]da	guida	_	_	_	_	_	linguistic	_	_	_	End=2491.974	_	_	_	0-3(407)
 1226-0	PST161	1226	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2491.25|End=2491.77	_	_	_	0-2(407)
 1227-0	PST161	1227	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=2491.98	_	_	_	_
 1227-1	PST161	1227	1	difficile	difficile	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7308,7 +7308,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1282-7	PST166	1282	7	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1282-8	PST166	1282	8	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1282-9	PST166	1282	9	po':	po'	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
-1282-10	PST166	1282	10	tes[tone]	testone	_	_	_	_	_	linguistic	_	_	_	End=2659.33	_	_	_	2-7(422)
+1282-10	PST166	1282	10	tes[tone]	testone	_	_	_	_	_	linguistic	_	_	_	End=2659.33	_	_	_	3-7(422)
 1283-0	PST161	1283	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2659.042|End=2659.35	_	_	_	0-2(422)
 1284-0	PST166	1284	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=2659.35	_	_	_	0-2(423)
 1284-1	PST166	1284	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(423)

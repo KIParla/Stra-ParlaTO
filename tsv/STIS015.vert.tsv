@@ -1256,7 +1256,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 149-3	PST203	149	3	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 149-4	PST203	149	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 149-5	PST203	149	5	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-149-6	PST203	149	6	del[la	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(21)
+149-6	PST203	149	6	del[la	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(21)
 149-7	PST203	149	7	fami]glia	famiglia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(21)
 149-8	PST203	149	8	qui:::	qui	_	_	_	_	_	linguistic	_	_	_	_	2x3	_	_	_
 149-9	PST203	149	9	qui	qui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2344,7 +2344,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 295-15	PST074	295	15	fanno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 295-16	PST074	295	16	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 295-17	PST074	295	17	balli	balli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-295-18	PST074	295	18	tipi[ci]	tipici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1020.742	_	_	_	3-6(7)
+295-18	PST074	295	18	tipi[ci]	tipici	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1020.742	_	_	_	4-6(7)
 296-0	PST203	296	0	[parco]	parco	_	_	_	_	_	linguistic	_	_	_	Begin=1020.502	_	_	_	0-5(7)
 296-1	PST203	296	1	dora	dora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 296-2	PST203	296	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -66,9 +66,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 29-0	PST119	29	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=40.62	_	_	_	_
 29-1	PST119	29	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 29-2	PST119	29	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-29-3	PST119	29	3	a:l[tra	altra	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	0x1	_	_	1-5(7)
+29-3	PST119	29	3	a:l[tra	altra	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	0x1	_	_	2-5(7)
 29-4	PST119	29	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(7)
-29-5	PST119	29	5	no]rmale	normale	_	_	_	_	_	linguistic	_	_	_	End=42.52	_	_	_	0-1(7)
+29-5	PST119	29	5	no]rmale	normale	_	_	_	_	_	linguistic	_	_	_	End=42.52	_	_	_	0-2(7)
 30-0	PST120	30	0	[va	va	_	_	_	_	_	linguistic	_	_	_	Begin=41.35	_	_	_	0-2(7)
 30-1	PST120	30	1	bene]	bene	_	_	_	_	_	linguistic	_	_	_	End=42.1	_	_	_	0-4(7)
 31-0	PST119	31	0	pizza:	pizza	_	_	_	_	_	linguistic	_	_	_	Begin=43.2	4x1	_	_	_

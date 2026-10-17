@@ -1517,9 +1517,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 269-18	PST064	269	18	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 269-19	PST064	269	19	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 269-20	PST064	269	20	mischia	mischia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-269-21	PST064	269	21	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(65)
+269-21	PST064	269	21	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 269-22	PST064	269	22	[e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(65)
-269-23	PST064	269	23	po]i	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(65)
+269-23	PST064	269	23	po]i	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(65)
 269-24	PST064	269	24	parla	parla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 269-25	PST064	269	25	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
 269-26	PST064	269	26	(ra~)	ra~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=635.436	_	_	0-2(0)	_
@@ -1557,7 +1557,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 272-29	PST065	272	29	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 272-30	PST065	272	30	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 272-31	PST065	272	31	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-272-32	PST065	272	32	mi[schio]	mischio	_	_	_	_	_	linguistic	_	_	_	End=645.207	_	_	_	0-6(66)
+272-32	PST065	272	32	mi[schio]	mischio	_	_	_	_	_	linguistic	_	_	_	End=645.207	_	_	_	2-7(66)
 273-0	PST064	273	0	([dello	dello	_	_	_	_	_	linguistic	_	_	_	Begin=636.052	_	_	0-5(0)	0-5(221)
 273-1	PST064	273	1	spagnolo])	spagnolo	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-8(0)	0-8(221)
 273-2	PST064	273	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=637.573	_	_	_	_
@@ -1708,7 +1708,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 285-15	PST065	285	15	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 285-16	PST065	285	16	professoressa	professoressa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 285-17	PST065	285	17	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-285-18	PST065	285	18	spagnol[o]	spagnolo	_	_	_	_	_	linguistic	_	_	_	End=691.873	_	_	_	6-8(71)
+285-18	PST065	285	18	spagnol[o]	spagnolo	_	_	_	_	_	linguistic	_	_	_	End=691.873	_	_	_	7-8(71)
 286-0	PST203	286	0	[uguale	uguale	_	_	_	_	_	linguistic	_	_	_	Begin=685.92	_	_	_	0-6(70)
 286-1	PST203	286	1	n::on	non	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	0-3(70)
 286-2	PST203	286	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(70)
@@ -2277,7 +2277,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 348-6	PST064	348	6	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 348-7	PST064	348	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 348-8	PST064	348	8	altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-348-9	PST064	348	9	qual[cuno	qualcuno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	3-8(94)
+348-9	PST064	348	9	qual[cuno	qualcuno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	4-8(94)
 348-10	PST064	348	10	#*tie]ne	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	0-5(94)
 348-11	PST064	348	11	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 348-12	PST064	348	12	altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3663,17 +3663,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 539-8	PST064	539	8	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 539-9	PST064	539	9	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 539-10	PST064	539	10	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-539-11	PST064	539	11	pi[ù]	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1330.433	_	_	_	1-3(155)
+539-11	PST064	539	11	pi[ù]	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1330.433	_	_	_	2-3(155)
 540-0	PST065	540	0	[che]	che	_	_	_	_	_	linguistic	_	_	_	Begin=1330.314	_	_	_	0-3(155)
 540-1	PST065	540	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 540-2	PST065	540	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 540-3	PST065	540	3	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 540-4	PST065	540	4	gente	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 540-5	PST065	540	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-540-6	PST065	540	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(229)
+540-6	PST065	540	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 540-7	PST065	540	7	[più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(229)
 540-8	PST065	540	8	movimento	movimento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(229)
-540-9	PST065	540	9	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=1332.446	_	_	_	0-1(229)
+540-9	PST065	540	9	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=1332.446	_	_	_	0-2(229)
 541-0	PST203	541	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1331.197|End=1331.594	_	_	_	0-4(229)
 542-0	PST064	542	0	[più	più	_	_	_	_	_	linguistic	_	_	_	Begin=1331.374	_	_	_	0-3(229)
 542-1	PST064	542	1	gente	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(229)
@@ -3743,7 +3743,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 547-8	PST203	547	8	dove	dove	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 547-9	PST203	547	9	vieni	vieni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 547-10	PST203	547	10	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-547-11	PST203	547	11	pe[rù]?	perù	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1352.242	_	_	_	1-4(158)
+547-11	PST203	547	11	pe[rù]?	perù	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1352.242	_	_	_	2-4(158)
 548-0	PST064	548	0	[i:o]	io	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1352.122	0x1	_	_	0-2(158)
 548-1	PST064	548	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 548-2	PST064	548	2	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3766,7 +3766,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 551-5	PST064	551	5	perché::	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	5x2	_	_	_
 551-6	PST064	551	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 551-7	PST064	551	7	oceano	oceano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-551-8	PST064	551	8	a[tlanti]co	atlantico	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(160)
+551-8	PST064	551	8	a[tlanti]co	atlantico	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	1-7(160)
 551-9	PST064	551	9	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising|PauseAfter=Yes	_	_	_	_	_
 551-10	PST064	551	10	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 551-11	PST064	551	11	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3808,7 +3808,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 557-11	PST065	557	11	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 557-12	PST065	557	12	fredda	fredda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 557-13	PST065	557	13	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-557-14	PST065	557	14	a[cqua]	acqua	_	_	_	_	_	linguistic	_	_	_	End=1370.233	_	_	_	0-5(?)
+557-14	PST065	557	14	a[cqua]	acqua	_	_	_	_	_	linguistic	_	_	_	End=1370.233	_	_	_	1-5(?)
 558-0	PST210	558	0	[molto	molto	_	_	_	_	_	linguistic	_	_	_	Begin=1367.895	_	_	_	0-5(230)
 558-1	PST210	558	1	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(230)
 558-2	PST210	558	2	divertente]	divertente	_	_	_	_	_	linguistic	_	_	_	End=1369.01	_	_	_	0-10(230)

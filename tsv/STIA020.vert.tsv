@@ -4224,7 +4224,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1035-1	PST219	1035	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1035-2	PST219	1035	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1035-3	PST219	1035	3	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1035-4	PST219	1035	4	chiama[va]?	chiamava	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2028.911	_	_	_	5-8(1)
+1035-4	PST219	1035	4	chiama[va]?	chiamava	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2028.911	_	_	_	6-8(1)
 1036-0	PST220	1036	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2028.431	_	_	_	0-2(1)
 1036-1	PST220	1036	1	infatti]	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(1)
 1036-2	PST220	1036	2	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4249,7 +4249,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1037-8	PST219	1037	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1037-9	PST219	1037	9	era:	era	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 1037-10	PST219	1037	10	sto	sto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1037-11	PST219	1037	11	ra[gazzo]	ragazzo	_	_	_	_	_	linguistic	_	_	_	End=2041.512	_	_	_	0-6(2)
+1037-11	PST219	1037	11	ra[gazzo]	ragazzo	_	_	_	_	_	linguistic	_	_	_	End=2041.512	_	_	_	2-7(2)
 1038-0	PST220	1038	0	magi	magi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2040.832	_	_	_	_
 1038-1	PST220	1038	1	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 1038-2	PST220	1038	2	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
@@ -4613,7 +4613,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1104-16	PST220	1104	16	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1104-17	PST220	1104	17	sempre	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1104-18	PST220	1104	18	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1104-19	PST220	1104	19	fran[cese]	francese	_	_	_	_	_	linguistic	_	_	_	End=2187.136	_	_	_	1-6(27)
+1104-19	PST220	1104	19	fran[cese]	francese	_	_	_	_	_	linguistic	_	_	_	End=2187.136	_	_	_	4-8(27)
 1105-0	PST121	1105	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=2186.726	_	_	_	_
 1105-1	PST121	1105	1	ce	ce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1105-2	PST121	1105	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -4967,7 +4967,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1159-9	PST220	1159	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(?)
 1159-10	PST220	1159	10	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(?)
 1159-11	PST220	1159	11	trovato	trovato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(?)
-1159-12	PST220	1159	12	difficile]	difficile	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-8(?)
+1159-12	PST220	1159	12	difficile]	difficile	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-9(?)
 1159-13	PST220	1159	13	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 1159-14	PST220	1159	14	s::ta	sta	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
 1159-15	PST220	1159	15	lingua	lingua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4987,7 +4987,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1160-12	PST121	1160	12	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(45)
 1160-13	PST121	1160	13	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(45)
 1160-14	PST121	1160	14	bella	bella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(45)
-1160-15	PST121	1160	15	lingua]	lingua	_	_	_	_	_	linguistic	_	_	_	End=2350.89	_	_	_	0-5(45)
+1160-15	PST121	1160	15	lingua]	lingua	_	_	_	_	_	linguistic	_	_	_	End=2350.89	_	_	_	0-6(45)
 1161-0	PST220	1161	0	[ah	ah	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=2349.033	_	_	_	0-2(45)
 1161-1	PST220	1161	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(45)
 1161-2	PST220	1161	2	okay]	okay	_	_	_	_	_	linguistic	_	_	_	End=2350.533	_	_	_	0-4(45)
@@ -5078,7 +5078,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1175-12	PST220	1175	12	giro	giro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1175-13	PST220	1175	13	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1175-14	PST220	1175	14	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1175-15	PST220	1175	15	ita[lia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(51)
+1175-15	PST220	1175	15	ita[lia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(51)
 1175-16	PST220	1175	16	quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	End=2383.098	_	_	_	0-6(51)
 1176-0	PST219	1176	0	[esatto]	esatto	_	_	_	_	_	linguistic	_	_	_	Begin=2382.147|End=2383.074	_	_	_	0-6(51)
 1177-0	PST121	1177	0	mh::	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2383.098	1x2	_	_	_
@@ -5677,7 +5677,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1299-2	PST219	1299	2	[il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(?)
 1299-3	PST219	1299	3	proge~]	proge~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-6(?)
 1299-4	PST219	1299	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1299-5	PST219	1299	5	associazi[one]	associazione	_	_	_	_	_	linguistic	_	_	_	End=2658.885	_	_	_	7-11(?)
+1299-5	PST219	1299	5	associazi[one]	associazione	_	_	_	_	_	linguistic	_	_	_	End=2658.885	_	_	_	9-12(?)
 1300-0	PST220	1300	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2657.29	_	_	_	0-2(75)
 1300-1	PST220	1300	1	assiociazione::	assiociazione	_	_	_	_	_	linguistic	_	_	_	_	12x2	_	_	0-13(75)
 1300-2	PST220	1300	2	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=2658.885	_	_	_	0-2(75)

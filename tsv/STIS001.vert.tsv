@@ -1746,7 +1746,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 508-9	PST201	508	9	tradizioni	tradizioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 508-10	PST201	508	10	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 508-11	PST201	508	11	vostro	vostro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-508-12	PST201	508	12	pae:se[:]	paese	_	_	_	_	_	linguistic	_	_	_	End=793.24	2x1,4x1	_	_	4-5(112)
+508-12	PST201	508	12	pae:se[:]	paese	_	_	_	_	_	linguistic	_	_	_	End=793.24	2x1,4x1	_	_	_
 509-0	PST002	509	0	[a:h],	ah	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=793.12|End=793.68	0x1	_	_	0-2(112)
 510-0	PST200	510	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=794.53	_	_	_	_
 510-1	PST200	510	1	maga[ri]	magari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(114)
@@ -1765,7 +1765,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 510-14	PST200	510	14	ma:nca.	manca	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	1x1	_	_	_
 510-15	PST200	510	15	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 510-16	PST200	510	16	volete	volete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-510-17	PST200	510	17	avere	avere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(113)
+510-17	PST200	510	17	avere	avere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 510-18	PST200	510	18	[qui::]	qui	_	_	_	_	_	linguistic	_	_	_	End=801.03	2x2	_	_	0-3(113)
 511-0	PST002	511	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=794.92|End=795.25	_	_	_	0-2(114)
 512-0	PST001	512	0	[il	il	_	_	_	_	_	linguistic	_	_	_	Begin=800.66	_	_	_	0-2(113)
@@ -1964,7 +1964,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 558-11	PST001	558	11	in~	in~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 558-12	PST001	558	12	insalata	insalata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 558-13	PST001	558	13	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-558-14	PST001	558	14	insi[eme	insieme	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	3-7(128)
+558-14	PST001	558	14	insi[eme	insieme	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	4-7(128)
 558-15	PST001	558	15	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(128)
 558-16	PST001	558	16	°si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	0-2(128)
 558-17	PST001	558	17	mangia°].	mangia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling|Volume=Low	End=880.69	_	_	_	0-6(128)
@@ -2552,7 +2552,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 715-2	PST200	715	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(187)
 715-3	PST200	715	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(187)
 715-4	PST200	715	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(187)
-715-5	PST200	715	5	ananas]	ananas	_	_	_	_	_	linguistic	_	_	_	End=1093.013	_	_	_	0-5(187)
+715-5	PST200	715	5	ananas]	ananas	_	_	_	_	_	linguistic	_	_	_	End=1093.013	_	_	_	0-6(187)
 716-0	PST001	716	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1093.186|End=1094.408	_	_	_	_
 717-0	PST002	717	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1093.592|End=1094.184	_	_	_	_
 718-0	PST001	718	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1094.408	0x1	_	_	_
@@ -3264,7 +3264,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 880-17	PST001	880	17	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 880-18	PST001	880	18	tutta	tutta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 880-19	PST001	880	19	#pero	pero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-880-20	PST001	880	20	#algun[as	algunas	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	5-8(248)
+880-20	PST001	880	20	#algun[as	algunas	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	6-8(248)
 880-21	PST001	880	21	infermie]ra	infermiera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-8(248)
 880-22	PST001	880	22	$parlava:n	parlavan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	_	6x1	_	_	_
 880-23	PST001	880	23	spagnolo.	spagnolo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=1388.405	_	_	_	_
@@ -3540,7 +3540,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 941-12	PST200	941	12	magari	magari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 941-13	PST200	941	13	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 941-14	PST200	941	14	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-941-15	PST200	941	15	pers[ona]:	persona	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	3-7(265)
+941-15	PST200	941	15	pers[ona]:	persona	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	4-7(265)
 941-16	PST200	941	16	[maro]cchi::[:na::]	marocchina	_	_	_	_	_	linguistic	_	_	_	End=1504.382	7x3,9x2	_	_	0-4(266),8-10(264)
 942-0	PST001	942	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1502.24|End=1502.52	_	_	_	0-2(265)
 943-0	PST002	943	0	[xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	Begin=1502.52|End=1502.987	_	_	_	0-3(266)
@@ -5946,12 +5946,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1591-7	PST200	1591	7	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1591-8	PST200	1591	8	campo	campo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1591-9	PST200	1591	9	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1591-10	PST200	1591	10	det[to,	detto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	2-5(426)
+1591-10	PST200	1591	10	det[to,	detto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	3-5(426)
 1591-11	PST200	1591	11	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(426)
 1591-12	PST200	1591	12	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(426)
 1591-13	PST200	1591	13	va	va	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(426)
 1591-14	PST200	1591	14	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(426)
-1591-15	PST200	1591	15	gi]oc[are	giocare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(426),3-7(427)
+1591-15	PST200	1591	15	gi]oc[are	giocare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(426),4-7(427)
 1591-16	PST200	1591	16	ogni	ogni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(427)
 1591-17	PST200	1591	17	giove]dì.	giovedì	_	_	_	_	_	linguistic	_	_	Intonation=Falling|PauseAfter=Yes	_	_	_	_	0-5(427)
 1591-18	PST200	1591	18	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_

@@ -34,7 +34,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2-11	PST104	2	11	(un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	0-3(0)	_
 2-12	PST104	2	12	altra)	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-5(0)	_
 2-13	PST104	2	13	devi::	devi	_	_	_	_	_	linguistic	_	_	_	_	3x2	_	_	_
-2-14	PST104	2	14	de[vi:]	devi	_	_	_	_	_	linguistic	_	_	_	End=10.276	3x1	_	_	1-4(134)
+2-14	PST104	2	14	de[vi:]	devi	_	_	_	_	_	linguistic	_	_	_	End=10.276	3x1	_	_	2-4(134)
 3-0	PST103	3	0	[xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	Begin=9.68|End=10.276	_	_	_	0-2(134)
 4-0	PST105	4	0	[oka~]	oka~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=9.875|End=10.239	_	_	_	0-4(134)
 5-0	PST104	5	0	devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=10.64	_	_	_	_

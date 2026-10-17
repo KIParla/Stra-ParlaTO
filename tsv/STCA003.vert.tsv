@@ -689,10 +689,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 218-10	PST211	218	10	almeno	almeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 218-11	PST211	218	11	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 218-12	PST211	218	12	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-218-13	PST211	218	13	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(41)
+218-13	PST211	218	13	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 218-14	PST211	218	14	[sole:	sole	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	0-4(41)
 218-15	PST211	218	15	oggi	oggi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(41)
-218-16	PST211	218	16	invece]	invece	_	_	_	_	_	linguistic	_	_	_	End=280.074	_	_	_	0-5(41)
+218-16	PST211	218	16	invece]	invece	_	_	_	_	_	linguistic	_	_	_	End=280.074	_	_	_	0-6(41)
 219-0	PST108	219	0	[no:	no	_	_	_	_	_	linguistic	_	_	_	Begin=278.527	1x1	_	_	0-2(41)
 219-1	PST108	219	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(41)
 219-2	PST108	219	2	ieri:	ieri	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	0-4(41)
@@ -1319,7 +1319,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 395-4	PST211	395	4	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 395-5	PST211	395	5	nominato	nominato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 395-6	PST211	395	6	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-395-7	PST211	395	7	que[sto:	questo	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	2-6(89)
+395-7	PST211	395	7	que[sto:	questo	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	3-6(89)
 395-8	PST211	395	8	ristorante]	ristorante	_	_	_	_	_	linguistic	_	_	_	End=519.891	_	_	_	0-10(89)
 396-0	PST108	396	0	[del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=518.694	_	_	_	0-3(89)
 396-1	PST108	396	1	#matʕam	matʕam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(89)
@@ -2381,7 +2381,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 715-12	PST211	715	12	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 715-13	PST211	715	13	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 715-14	PST211	715	14	dodic'	dodic'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-715-15	PST211	715	15	an[ni]	anni	_	_	_	_	_	linguistic	_	_	_	End=1072.897	_	_	_	1-4(138)
+715-15	PST211	715	15	an[ni]	anni	_	_	_	_	_	linguistic	_	_	_	End=1072.897	_	_	_	2-4(138)
 716-0	PST217	716	0	[sì:	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1072.477	1x1	_	_	0-2(138)
 716-1	PST217	716	1	ma]	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(138)
 716-2	PST217	716	2	forse	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2477,8 +2477,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 737-1	PST217	737	1	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 737-2	PST217	737	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 737-3	PST217	737	3	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-737-4	PST217	737	4	imparato	imparato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-8(144)
-737-5	PST217	737	5	[qui]	qui	_	_	_	_	_	linguistic	_	_	_	End=1103.595	_	_	_	0-2(144)
+737-4	PST217	737	4	imparato	imparato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+737-5	PST217	737	5	[qui]	qui	_	_	_	_	_	linguistic	_	_	_	End=1103.595	_	_	_	0-3(144)
 738-0	PST108	738	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1103.157	_	_	_	0-2(144)
 738-1	PST108	738	1	sì]	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(144)
 738-2	PST108	738	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2697,8 +2697,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 806-6	PST217	806	6	fa::	fa	_	_	_	_	_	linguistic	_	_	_	_	1x2	_	_	_
 806-7	PST217	806	7	o:	o	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 806-8	PST217	806	8	vent'	vent'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-806-9	PST217	806	9	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(152)
-806-10	PST217	806	10	[fa]	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(152)
+806-9	PST217	806	9	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+806-10	PST217	806	10	[fa]	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(152)
 806-11	PST217	806	11	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 806-12	PST217	806	12	po'::	po'	_	_	_	_	_	linguistic	_	_	_	End=1233.627	1x2	_	_	_
 807-0	PST108	807	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1230.427|End=1230.637	_	_	_	0-2(153)
@@ -2775,7 +2775,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 830-5	PST107	830	5	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 830-6	PST107	830	6	là	là	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 830-7	PST107	830	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-830-8	PST107	830	8	maroc[co]	marocco	_	_	_	_	_	linguistic	_	_	_	End=1257.257	_	_	_	4-7(161)
+830-8	PST107	830	8	maroc[co]	marocco	_	_	_	_	_	linguistic	_	_	_	End=1257.257	_	_	_	5-7(161)
 831-0	PST217	831	0	[a:h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1256.977	0x1	_	_	0-2(161)
 831-1	PST217	831	1	okay	okay	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 831-2	PST217	831	2	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3789,7 +3789,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1110-5	PST108	1110	5	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(290)
 1110-6	PST108	1110	6	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(290)
 1110-7	PST108	1110	7	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(290)
-1110-8	PST108	1110	8	c]e	ce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+1110-8	PST108	1110	8	c]e	ce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(290)
 1110-9	PST108	1110	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1110-10	PST108	1110	10	ho	ho	_	_	_	_	_	linguistic	_	_	_	End=1664.967	_	_	_	_
 1111-0	PST211	1111	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1663.318|End=1664.162	_	_	_	_

@@ -258,7 +258,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 47-13	PST211	47	13	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 47-14	PST211	47	14	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 47-15	PST211	47	15	stato	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-47-16	PST211	47	16	diffi[cile:]?	difficile	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=80.172	8x1	_	_	4-9(20)
+47-16	PST211	47	16	diffi[cile:]?	difficile	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=80.172	8x1	_	_	5-9(20)
 48-0	PST058	48	0	[e:hm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=79.65	0x1	_	_	0-3(20)
 48-1	PST058	48	1	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(20)
 48-2	PST058	48	2	f]atto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(20)
@@ -541,7 +541,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 85-5	PST211	85	5	rumeno	rumeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 85-6	PST211	85	6	gliel'	gliel'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 85-7	PST211	85	7	avete::	avete	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	_
-85-8	PST211	85	8	[insegna(to)].	insegnato	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=164.778	_	_	6-9(0)	0-9(34)
+85-8	PST211	85	8	[insegna(to)].	insegnato	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=164.778	_	_	7-9(0)	0-9(34)
 86-0	PST058	86	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=163.964	_	_	_	0-2(34)
 86-1	PST058	86	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(34)
 86-2	PST058	86	2	bimba	bimba	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(34)
@@ -582,7 +582,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 90-10	PST058	90	10	imparato	imparato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 90-11	PST058	90	11	tante	tante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 90-12	PST058	90	12	cose	cose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-90-13	PST058	90	13	di[ciamo]::,	diciamo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=176.777	6x2	_	_	1-7(39)
+90-13	PST058	90	13	di[ciamo]::,	diciamo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=176.777	6x2	_	_	2-7(39)
 91-0	PST211	91	0	[e:h],	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=171.159|End=171.445	0x1	_	_	0-2(37)
 92-0	PST211	92	0	[a::h	ah	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=172.536	0x2	_	_	0-2(38)
 92-1	PST211	92	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(38)
@@ -1456,7 +1456,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 234-0	PST211	234	0	[a]:h	ah	_	_	_	_	_	linguistic	_	_	_	Begin=455.082	0x1	_	_	0-1(95)
 234-1	PST211	234	1	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 234-2	PST211	234	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-234-3	PST211	234	3	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(96)
+234-3	PST211	234	3	italia[no	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(96)
 234-4	PST211	234	4	dici	dici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(96)
 234-5	PST211	234	5	ah	ah	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(96)
 234-6	PST211	234	6	ah],	ah	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=456.957	_	_	_	0-2(96)

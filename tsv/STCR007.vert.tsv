@@ -348,10 +348,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 65-1	PST087	65	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 65-2	PST087	65	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 65-3	PST087	65	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-65-4	PST087	65	4	ott~	ott~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	3-4(20)
+65-4	PST087	65	4	ott~	ott~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 65-5	PST087	65	5	[(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(20)
 65-6	PST087	65	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(20)
-65-7	PST087	65	7	o~]	o~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=138.64	_	_	_	_
+65-7	PST087	65	7	o~]	o~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=138.64	_	_	_	0-2(20)
 66-0	PST092	66	0	[tra	tra	_	_	_	_	_	linguistic	_	_	_	Begin=137.95	_	_	_	0-3(20)
 66-1	PST092	66	1	tre	tre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(20)
 66-2	PST092	66	2	sab]ati	sabati	_	_	_	_	_	linguistic	_	_	_	End=138.9	_	_	_	0-3(20)
@@ -720,10 +720,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 130-13	PST083	130	13	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 130-14	PST083	130	14	lavori	lavori	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 130-15	PST083	130	15	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-130-16	PST083	130	16	pomeri~	pomeri~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	6-7(27)
+130-16	PST083	130	16	pomeri~	pomeri~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 130-17	PST083	130	17	[cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(27)
 130-18	PST083	130	18	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(27)
-130-19	PST083	130	19	mattina]	mattina	_	_	_	_	_	linguistic	_	_	_	End=351.84	_	_	_	0-6(27)
+130-19	PST083	130	19	mattina]	mattina	_	_	_	_	_	linguistic	_	_	_	End=351.84	_	_	_	0-7(27)
 131-0	???	131	0	[allora	allora	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=350.86	_	_	_	0-6(27)
 131-1	???	131	1	(.)]	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(27)
 131-2	???	131	2	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2964,7 +2964,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 500-1	PST083	500	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 500-2	PST083	500	2	intervista	intervista	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 500-3	PST083	500	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-500-4	PST083	500	4	#[doamna	doamna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(105)
+500-4	PST083	500	4	#[doamna	doamna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	1-7(105)
 500-5	PST083	500	5	@ecaterina]	@ecaterina	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	End=1175.93	_	_	_	0-10(105)
 501-0	PST092	501	0	[l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	Begin=1174.91	_	_	_	0-2(105)
 501-1	PST092	501	1	intervista]	intervista	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-10(105)
@@ -3627,7 +3627,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 613-3	PST092	613	3	[consolato]	consolato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(134)
 613-4	PST092	613	4	rumeno	rumeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 613-5	PST092	613	5	[e:h]	eh	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	0-2(135)
-613-6	PST092	613	6	chie[dere	chiedere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(133)
+613-6	PST092	613	6	chie[dere	chiedere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-8(133)
 613-7	PST092	613	7	a::]	a	_	_	_	_	_	linguistic	_	_	_	End=1372.63	0x2	_	_	0-1(133)
 614-0	PST082	614	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1370.56|End=1370.96	_	_	_	0-2(134)
 615-0	PST082	615	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1371.48|End=1371.82	_	_	_	0-2(135)

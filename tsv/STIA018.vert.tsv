@@ -1885,9 +1885,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 175-33	PST095	175	33	ai	ai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 175-34	PST095	175	34	venti	venti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 175-35	PST095	175	35	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-175-36	PST095	175	36	ai	ai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(57)
+175-36	PST095	175	36	ai	ai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 175-37	PST095	175	37	[trent'	trent'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-6(57)
-175-38	PST095	175	38	anni]	anni	_	_	_	_	_	linguistic	_	_	_	End=776.72	_	_	_	0-2(57)
+175-38	PST095	175	38	anni]	anni	_	_	_	_	_	linguistic	_	_	_	End=776.72	_	_	_	0-4(57)
 176-0	PST211	176	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=775.8	_	_	_	0-2(57)
 176-1	PST211	176	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(57)
 176-2	PST211	176	2	mh]	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(57)
@@ -3028,7 +3028,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 284-7	PST095	284	7	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 284-8	PST095	284	8	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 284-9	PST095	284	9	età	età	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-284-10	PST095	284	10	adult[a::]	adulta	_	_	_	_	_	linguistic	_	_	_	End=1220.74	5x2	_	_	3-6(77)
+284-10	PST095	284	10	adult[a::]	adulta	_	_	_	_	_	linguistic	_	_	_	End=1220.74	5x2	_	_	5-6(77)
 285-0	PST211	285	0	[ti]po	tipo	_	_	_	_	_	linguistic	_	_	_	Begin=1220.58	_	_	_	0-2(77)
 285-1	PST211	285	1	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 285-2	PST211	285	2	tuoi	tuoi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3086,8 +3086,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 290-23	PST095	290	23	imparata	imparata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 290-24	PST095	290	24	come::	come	_	_	_	_	_	linguistic	_	_	_	_	3x2	_	_	_
 290-25	PST095	290	25	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-290-26	PST095	290	26	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(80)
-290-27	PST095	290	27	[riusciti]	riusciti	_	_	_	_	_	linguistic	_	_	_	End=1241.19	_	_	_	0-7(80)
+290-26	PST095	290	26	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+290-27	PST095	290	27	[riusciti]	riusciti	_	_	_	_	_	linguistic	_	_	_	End=1241.19	_	_	_	0-8(80)
 291-0	PST203	291	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1233.9	_	_	_	0-2(79)
 291-1	PST203	291	1	ah]	ah	_	_	_	_	_	linguistic	_	_	_	End=1234.52	_	_	_	0-2(79)
 292-0	PST211	292	0	[com'	com'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1240.313	_	_	_	0-4(80)
@@ -4203,8 +4203,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 435-15	PST211	435	15	qua	qua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 435-16	PST211	435	16	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 435-17	PST211	435	17	tanti	tanti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-435-18	PST211	435	18	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(108)
-435-19	PST211	435	19	[immag]ino	immagino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(108)
+435-18	PST211	435	18	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+435-19	PST211	435	19	[immag]ino	immagino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(108)
 435-20	PST211	435	20	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	_	_	_	_	_
 435-21	PST211	435	21	dicevi	dicevi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 435-22	PST211	435	22	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -4794,8 +4794,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 500-5	PST211	500	5	bristol?	bristol	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
 500-6	PST211	500	6	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 500-7	PST211	500	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-500-8	PST211	500	8	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(122)
-500-9	PST211	500	9	[xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	0-2(122)
+500-8	PST211	500	8	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+500-9	PST211	500	9	[xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	0-3(122)
 500-10	PST211	500	10	vicino	vicino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 500-11	PST211	500	11	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 500-12	PST211	500	12	erasmus	erasmus	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6277,7 +6277,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 637-6	PST211	637	6	avuto	avuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 637-7	PST211	637	7	problemi	problemi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 637-8	PST211	637	8	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	_	_	_	_	_
-637-9	PST211	637	9	era[no:]	erano	_	_	_	_	_	linguistic	_	_	_	End=2499.11	4x1	_	_	2-5(31)
+637-9	PST211	637	9	era[no:]	erano	_	_	_	_	_	linguistic	_	_	_	End=2499.11	4x1	_	_	3-5(31)
 638-0	PST095	638	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2498.96	0x1	_	_	0-2(31)
 638-1	PST095	638	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 638-2	PST095	638	2	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6402,9 +6402,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 649-7	PST095	649	7	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 649-8	PST095	649	8	vengono	vengono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 649-9	PST095	649	9	NEANCHE	neanche	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	_
-649-10	PST095	649	10	affrontati	affrontati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-10(35)
+649-10	PST095	649	10	affrontati	affrontati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 649-11	PST095	649	11	[proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(35)
-649-12	PST095	649	12	per]	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(35)
+649-12	PST095	649	12	per]	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(35)
 649-13	PST095	649	13	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 649-14	PST095	649	14	barriera	barriera	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 649-15	PST095	649	15	linguistica	linguistica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6414,9 +6414,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 649-19	PST095	649	19	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 649-20	PST095	649	20	noi	noi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 649-21	PST095	649	21	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-649-22	PST095	649	22	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(36)
+649-22	PST095	649	22	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 649-23	PST095	649	23	[siamo	siamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(36)
-649-24	PST095	649	24	fratelli]	fratelli	_	_	_	_	_	linguistic	_	_	_	End=2553.46	_	_	_	0-6(36)
+649-24	PST095	649	24	fratelli]	fratelli	_	_	_	_	_	linguistic	_	_	_	End=2553.46	_	_	_	0-8(36)
 650-0	PST211	650	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=2548.47|End=2548.94	_	_	_	0-4(35)
 651-0	PST211	651	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=2552.22	_	_	_	0-2(36)
 651-1	PST211	651	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(36)

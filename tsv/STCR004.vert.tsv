@@ -852,7 +852,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 107-7	PST087	107	7	confronti	confronti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 107-8	PST087	107	8	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 107-9	PST087	107	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-107-10	PST087	107	10	itali[a	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(18)
+107-10	PST087	107	10	itali[a	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(18)
 107-11	PST087	107	11	°quindi	quindi	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	0-6(18)
 107-12	PST087	107	12	con°]	con	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes|Volume=Low	_	_	_	_	0-3(18)
 107-13	PST087	107	13	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -1155,7 +1155,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 147-1	PST092	147	1	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 147-2	PST092	147	2	sopra	sopra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 147-3	PST092	147	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-147-4	PST092	147	4	altr[a]	altra	_	_	_	_	_	linguistic	_	_	_	End=416.38	_	_	_	3-5(32)
+147-4	PST092	147	4	altr[a]	altra	_	_	_	_	_	linguistic	_	_	_	End=416.38	_	_	_	4-5(32)
 148-0	PST211	148	0	mh[mh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=416.33|End=416.71	_	_	_	2-4(33)
 149-0	PST203	149	0	[lei]	lei	_	_	_	_	_	linguistic	_	_	_	Begin=416.54	_	_	_	0-3(33)
 149-1	PST203	149	1	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

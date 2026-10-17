@@ -1441,7 +1441,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 263-7	PST055	263	7	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 263-8	PST055	263	8	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 263-9	PST055	263	9	accento	accento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-263-10	PST055	263	10	ru[meno],	rumeno	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=535.29	_	_	_	1-6(55)
+263-10	PST055	263	10	ru[meno],	rumeno	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=535.29	_	_	_	2-6(55)
 264-0	PST211	264	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=535.04	_	_	_	0-2(55)
 264-1	PST211	264	1	mh:,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=535.516	1x1	_	_	_
 265-0	PST055	265	0	si	si	_	_	_	_	_	linguistic	_	_	_	Begin=536.64	_	_	_	_
@@ -2390,7 +2390,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 439-1	PST055	439	1	si]	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(92)
 439-2	PST055	439	2	tocca	tocca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 439-3	PST055	439	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-439-4	PST055	439	4	itali[a:no]	italiano	_	_	_	_	_	linguistic	_	_	_	End=880.85	5x1	_	_	4-8(93)
+439-4	PST055	439	4	itali[a:no]	italiano	_	_	_	_	_	linguistic	_	_	_	End=880.85	5x1	_	_	5-8(93)
 440-0	PST211	440	0	[a:h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=879.652|End=880.033	0x1	_	_	0-2(92)
 441-0	PST211	441	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=880.601	_	_	_	0-2(93)
 441-1	PST211	441	1	ah	ah	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3054,7 +3054,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 577-9	PST055	577	9	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(114)
 577-10	PST055	577	10	a]ltra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(114)
 577-11	PST055	577	11	ma~	ma~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
-577-12	PST055	577	12	ma[niera]	maniera	_	_	_	_	_	linguistic	_	_	_	End=1141.102	_	_	_	1-7(115)
+577-12	PST055	577	12	ma[niera]	maniera	_	_	_	_	_	linguistic	_	_	_	End=1141.102	_	_	_	2-7(115)
 578-0	PST211	578	0	[a:h	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1139.58	0x1	_	_	0-2(114)
 578-1	PST211	578	1	okay]	okay	_	_	_	_	_	linguistic	_	_	_	End=1140.267	_	_	_	0-4(114)
 579-0	PST211	579	0	[a:h	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1140.801	0x1	_	_	0-2(115)

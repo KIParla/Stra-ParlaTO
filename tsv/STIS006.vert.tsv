@@ -486,12 +486,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 52-9	PST211	52	9	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 52-10	PST211	52	10	sempre	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 52-11	PST211	52	11	frequentata	frequentata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-52-12	PST211	52	12	to[rino]	torino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(11)
+52-12	PST211	52	12	to[rino]	torino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(11)
 52-13	PST211	52	13	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 52-14	PST211	52	14	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 52-15	PST211	52	15	eri	eri	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 52-16	PST211	52	16	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-52-17	PST211	52	17	piccolo[::]	piccolo	_	_	_	_	_	linguistic	_	_	_	End=154.433	6x2	_	_	6-7(12)
+52-17	PST211	52	17	piccolo[::]	piccolo	_	_	_	_	_	linguistic	_	_	_	End=154.433	6x2	_	_	_
 53-0	PST043	53	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=152.71|End=152.924	_	_	_	0-2(11)
 54-0	PST043	54	0	[allora]	allora	_	_	_	_	_	linguistic	_	_	_	Begin=154.06	_	_	_	0-6(12)
 54-1	PST043	54	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -948,7 +948,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 93-18	PST043	93	18	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 93-19	PST043	93	19	peruviani	peruviani	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 93-20	PST043	93	20	ecco	ecco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-93-21	PST043	93	21	di[ciamo]	diciamo	_	_	_	_	_	linguistic	_	_	_	End=302.506	_	_	_	1-7(20)
+93-21	PST043	93	21	di[ciamo]	diciamo	_	_	_	_	_	linguistic	_	_	_	End=302.506	_	_	_	2-7(20)
 94-0	PST211	94	0	[ah	ah	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=302.04	_	_	_	0-2(20)
 94-1	PST211	94	1	ah]	ah	_	_	_	_	_	linguistic	_	_	_	End=302.49	_	_	_	0-2(20)
 95-0	PST043	95	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=302.506	_	_	_	_
@@ -1256,7 +1256,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 123-17	PST043	123	17	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 123-18	PST043	123	18	cambiato	cambiato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 123-19	PST043	123	19	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-123-20	PST043	123	20	accen[to::	accento	_	_	_	_	_	linguistic	_	_	_	_	6x2	_	_	4-7(30)
+123-20	PST043	123	20	accen[to::	accento	_	_	_	_	_	linguistic	_	_	_	_	6x2	_	_	5-7(30)
 123-21	PST043	123	21	come:]	come	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	0-4(30)
 123-22	PST043	123	22	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 123-23	PST043	123	23	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1501,7 +1501,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 147-1	PST043	147	1	eran	eran	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 147-2	PST043	147	2	diversi::	diversi	_	_	_	_	_	linguistic	_	_	_	_	6x2	_	_	_
 147-3	PST043	147	3	>c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
-147-4	PST043	147	4	erano<	erano	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
+147-4	PST043	147	4	erano<	erano	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 147-5	PST043	147	5	alcuni	alcuni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 147-6	PST043	147	6	problemi	problemi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 147-7	PST043	147	7	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1548,10 +1548,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 149-26	PST043	149	26	bomba	bomba	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 149-27	PST043	149	27	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 149-28	PST043	149	28	so	so	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-149-29	PST043	149	29	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	3-4(40)
+149-29	PST043	149	29	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 149-30	PST043	149	30	[era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(40)
 149-31	PST043	149	31	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(40)
-149-32	PST043	149	32	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+149-32	PST043	149	32	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(40)
 149-33	PST043	149	33	stato:	stato	_	_	_	_	_	linguistic	_	_	_	End=486.76	4x1	_	_	_
 150-0	PST211	150	0	[°caspita°]	caspita	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=485.278|End=486.26	_	_	_	0-7(40)
 151-0	PST043	151	0	>cioè:<	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=487.725	3x1	Fast=0-4(0)	_	_
@@ -1729,9 +1729,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 162-5	PST043	162	5	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 162-6	PST043	162	6	immigrazione	immigrazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 162-7	PST043	162	7	di:::::	di	_	_	_	_	_	linguistic	_	_	_	_	1x5	_	_	_
-162-8	PST043	162	8	venezuelani	venezuelani	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	10-11(44)
+162-8	PST043	162	8	venezuelani	venezuelani	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 162-9	PST043	162	9	[che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(44)
-162-10	PST043	162	10	comun]que	comunque	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-4(44)
+162-10	PST043	162	10	comun]que	comunque	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-5(44)
 162-11	PST043	162	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 162-12	PST043	162	12	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 162-13	PST043	162	13	portato	portato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2041,7 +2041,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 193-17	PST043	193	17	influenza:	influenza	_	_	_	_	_	linguistic	_	_	_	_	8x1	_	_	_
 193-18	PST043	193	18	spagnola	spagnola	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 193-19	PST043	193	19	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-193-20	PST043	193	20	se[condo	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(54)
+193-20	PST043	193	20	se[condo	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(54)
 193-21	PST043	193	21	meֵ]	meֵ	_	_	_	_	_	error	_	_	_	End=642.467	_	_	_	0-3(54)
 194-0	PST211	194	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=642.23|End=642.68	_	_	_	0-2(54)
 195-0	PST043	195	0	si	si	_	_	_	_	_	linguistic	_	_	_	Begin=642.929	_	_	_	_
@@ -2203,7 +2203,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 212-12	PST043	212	12	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 212-13	PST043	212	13	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 212-14	PST043	212	14	farei	farei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-212-15	PST043	212	15	sin[ceramen]te	sinceramente	_	_	_	_	_	linguistic	_	_	_	End=694.548	_	_	_	2-10(60)
+212-15	PST043	212	15	sin[ceramen]te	sinceramente	_	_	_	_	_	linguistic	_	_	_	End=694.548	_	_	_	3-10(60)
 213-0	PST211	213	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=693.97	_	_	_	0-2(60)
 213-1	PST211	213	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=694.441	_	_	_	0-2(60)
 214-0	PST043	214	0	poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=694.735	_	_	_	_
@@ -2275,7 +2275,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 219-29	PST043	219	29	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 219-30	PST043	219	30	moneta	moneta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 219-31	PST043	219	31	[abbastanza	abbastanza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(64)
-219-32	PST043	219	32	po]ten[te]	potente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(64),4-7(65)
+219-32	PST043	219	32	po]ten[te]	potente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(64),5-7(65)
 219-33	PST043	219	33	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 219-34	PST043	219	34	là	là	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 219-35	PST043	219	35	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2527,7 +2527,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 241-19	PST043	241	19	ventina	ventina	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 241-20	PST043	241	20	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 241-21	PST043	241	21	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-241-22	PST043	241	22	or[mai],	ormai	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=792.75	_	_	_	0-4(72)
+241-22	PST043	241	22	or[mai],	ormai	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=792.75	_	_	_	2-5(72)
 242-0	PST211	242	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=792.47	_	_	_	0-2(72)
 242-1	PST211	242	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=792.921	_	_	_	0-2(72)
 243-0	PST043	243	0	anche	anche	_	_	_	_	_	linguistic	_	_	_	Begin=793.638	_	_	_	_
@@ -3614,9 +3614,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 348-21	PST043	348	21	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 348-22	PST043	348	22	peruviana	peruviana	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 348-23	PST043	348	23	stava	stava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-348-24	PST043	348	24	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(110)
+348-24	PST043	348	24	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 348-25	PST043	348	25	[è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(110)
-348-26	PST043	348	26	sta]ta	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(110)
+348-26	PST043	348	26	sta]ta	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(110)
 348-27	PST043	348	27	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 348-28	PST043	348	28	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 348-29	PST043	348	29	tanto	tanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4358,7 +4358,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 420-12	PST043	420	12	appunto	appunto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 420-13	PST043	420	13	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 420-14	PST043	420	14	rivolte	rivolte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-420-15	PST043	420	15	politich[e	politiche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(131)
+420-15	PST043	420	15	politich[e	politiche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-9(131)
 420-16	PST043	420	16	que]ste	queste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(131)
 420-17	PST043	420	17	cose	cose	_	_	_	_	_	linguistic	_	_	_	End=1367.251	_	_	_	_
 421-0	PST211	421	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1366.268	_	_	_	0-2(131)
@@ -5248,7 +5248,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 513-22	PST043	513	22	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 513-23	PST043	513	23	gran	gran	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 513-24	PST043	513	24	storia	storia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-513-25	PST043	513	25	quindi[:]	quindi	_	_	_	_	_	linguistic	_	_	_	End=1682.421	5x1	_	_	5-6(145)
+513-25	PST043	513	25	quindi[:]	quindi	_	_	_	_	_	linguistic	_	_	_	End=1682.421	5x1	_	_	_
 514-0	PST211	514	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1682.241|End=1682.576	_	_	_	0-2(145)
 515-0	PST043	515	0	io:	io	_	_	_	_	_	linguistic	_	_	_	Begin=1683.207	1x1	_	_	_
 515-1	PST043	515	1	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

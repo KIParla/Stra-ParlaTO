@@ -818,7 +818,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 214-1	PST005	214	1	sé]	sé	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=335.533	_	_	_	0-2(83)
 215-0	PST225	215	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=335.946	_	_	_	_
 215-1	PST225	215	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-215-2	PST225	215	2	traffi[co:]:	traffico	_	_	_	_	_	linguistic	_	_	_	End=337.046	7x2	_	_	5-8(86)
+215-2	PST225	215	2	traffi[co:]:	traffico	_	_	_	_	_	linguistic	_	_	_	End=337.046	7x2	_	_	6-8(86)
 216-0	PST006	216	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=336.566|End=336.913	_	_	_	0-2(86)
 217-0	PST006	217	0	traffic[o:	traffico	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=337.044	7x1	_	_	7-8(88)
 217-1	PST006	217	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(88)
@@ -1009,7 +1009,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 255-5	PST006	255	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 255-6	PST006	255	6	#aquí:	aquí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	3x1	_	_	_
 255-7	PST006	255	7	#e:n	en	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	0x1	_	_	_
-255-8	PST006	255	8	tori[no]	torino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=390.658	_	_	_	3-6(113)
+255-8	PST006	255	8	tori[no]	torino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=390.658	_	_	_	4-6(113)
 257-0	PST005	257	0	[in]	in	_	_	_	_	_	linguistic	_	_	_	Begin=390.595	_	_	_	0-2(113)
 257-1	PST005	257	1	torino:	torino	_	_	_	_	_	linguistic	_	_	_	End=391.217	5x1	_	_	_
 258-0	PST006	258	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=391.294	0x1	_	_	_
@@ -1754,7 +1754,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 443-7	PST200	443	7	dov'	dov'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 443-8	PST200	443	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 443-9	PST200	443	9	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-443-10	PST200	443	10	vos[tra:]?	vostra	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=644.332	5x1	_	_	2-6(161)
+443-10	PST200	443	10	vos[tra:]?	vostra	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=644.332	5x1	_	_	3-6(161)
 444-0	PST006	444	0	[sì]:	sì	_	_	_	_	_	linguistic	_	_	_	Begin=644.127	1x1	_	_	0-2(161)
 444-1	PST006	444	1	°vicino	vicino	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 444-2	PST006	444	2	almeno.°	almeno	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	End=645.502	_	_	_	_
@@ -3225,7 +3225,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 876-6	PST200	876	6	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 876-7	PST200	876	7	senti	senti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 876-8	PST200	876	8	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-876-9	PST200	876	9	sicur[a:]	sicura	_	_	_	_	_	linguistic	_	_	_	End=1197.763	5x1	_	_	4-6(246)
+876-9	PST200	876	9	sicur[a:]	sicura	_	_	_	_	_	linguistic	_	_	_	End=1197.763	5x1	_	_	5-6(246)
 877-0	PST005	877	0	#_ [má]s	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1197.598	_	_	_	0-2(246)
 877-1	PST005	877	1	segura	segura	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 877-2	PST005	877	2	[más	más	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(247)
@@ -5926,7 +5926,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1677-3	PST005	1677	3	[unive]r[sidad]	universidad	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2193.21	_	_	_	0-5(448),6-11(548)
 1679-0	PST200	1679	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2192.4|End=2192.7	_	_	_	0-2(448)
 1680-0	PST225	1680	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2192.76	_	_	_	0-2(?)
-1680-1	PST225	1680	1	univer]s[ità]	università	_	_	_	_	_	linguistic	_	_	_	End=2193.396	_	_	_	6-10(?)
+1680-1	PST225	1680	1	univer]s[ità]	università	_	_	_	_	_	linguistic	_	_	_	End=2193.396	_	_	_	7-10(?)
 1681-0	PST200	1681	0	[univ]ersità:	università	_	_	_	_	_	linguistic	_	_	_	Begin=2193.12|End=2193.698	9x1	_	_	0-4(548)
 1682-0	PST200	1682	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2193.774	_	_	_	_
 1682-1	PST200	1682	1	sì:	sì	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	1x1	_	_	_
@@ -7446,9 +7446,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2115-9	PST225	2115	9	ragazzi	ragazzi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2115-10	PST225	2115	10	argentini	argentini	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2115-11	PST225	2115	11	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-2115-12	PST225	2115	12	al[tro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(23)
+2115-12	PST225	2115	12	al[tro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(23)
 2115-13	PST225	2115	13	giorno	giorno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(23)
-2115-14	PST225	2115	14	ch]e:	che	_	_	_	_	_	linguistic	_	_	_	End=2753.437	2x1	_	_	0-1(23)
+2115-14	PST225	2115	14	ch]e:	che	_	_	_	_	_	linguistic	_	_	_	End=2753.437	2x1	_	_	0-2(23)
 2116-0	PST005	2116	0	[sì	sì	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=2752.555	_	_	_	0-2(23)
 2116-1	PST005	2116	1	sì:	sì	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(23)
 2116-2	PST005	2116	2	mol~]	mol~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=2753.327	_	_	_	0-4(23)
@@ -7469,7 +7469,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2118-13	PST225	2118	13	bevono	bevono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2118-14	PST225	2118	14	durante	durante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2118-15	PST225	2118	15	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-2118-16	PST225	2118	16	giorno[:	giorno	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	5x1	_	_	5-6(25)
+2118-16	PST225	2118	16	giorno[:	giorno	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	5x1	_	_	_
 2118-17	PST225	2118	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(25)
 2118-18	PST225	2118	18	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=2761.214	_	_	_	0-2(25)
 2119-0	PST005	2119	0	#_ eso	eso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2754.11	_	_	_	_

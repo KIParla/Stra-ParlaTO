@@ -958,7 +958,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 144-0	PST205	144	0	negli	negli	_	_	_	_	_	linguistic	_	_	_	Begin=457.039	_	_	_	_
 144-1	PST205	144	1	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 144-2	PST205	144	2	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-144-3	PST205	144	3	univers[ità],	università	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=458.418	_	_	_	6-10(3)
+144-3	PST205	144	3	univers[ità],	università	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=458.418	_	_	_	7-10(3)
 145-0	PST016	145	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=457.838	_	_	_	0-2(3)
 145-1	PST016	145	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(3)
 145-2	PST016	145	2	pr]ima	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(3)

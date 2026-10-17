@@ -421,7 +421,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 68-3	PST211	68	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 68-4	PST211	68	4	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 68-5	PST211	68	5	eri	eri	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-68-6	PST211	68	6	s[critta	scritta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(23)
+68-6	PST211	68	6	s[critta	scritta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(23)
 68-7	PST211	68	7	tutto]	tutto	_	_	_	_	_	linguistic	_	_	_	End=117.75	_	_	_	0-5(23)
 69-0	PST085	69	0	[dipende	dipende	_	_	_	_	_	linguistic	_	_	_	Begin=116.68	_	_	_	0-7(23)
 69-1	PST085	69	1	dalle	dalle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(23)
@@ -457,7 +457,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 76-7	PST085	76	7	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 76-8	PST085	76	8	pure	pure	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 76-9	PST085	76	9	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-76-10	PST085	76	10	professo[ressa]	professoressa	_	_	_	_	_	linguistic	_	_	_	End=128.565	_	_	_	7-13(25)
+76-10	PST085	76	10	professo[ressa]	professoressa	_	_	_	_	_	linguistic	_	_	_	End=128.565	_	_	_	8-13(25)
 77-0	PST211	77	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=128.15	_	_	_	0-2(25)
 77-1	PST211	77	1	pu:]re	pure	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(25)
 77-2	PST211	77	2	[oka:y]	okay	_	_	_	_	_	linguistic	_	_	_	End=129.447	2x1	_	_	0-4(26)

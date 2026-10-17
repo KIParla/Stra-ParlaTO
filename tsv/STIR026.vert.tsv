@@ -523,7 +523,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 115-13	PST212	115	13	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 115-14	PST212	115	14	fin	fin	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 115-15	PST212	115	15	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-115-16	PST212	115	16	pic[colo]	piccolo	_	_	_	_	_	linguistic	_	_	_	End=200.237	_	_	_	2-7(19)
+115-16	PST212	115	16	pic[colo]	piccolo	_	_	_	_	_	linguistic	_	_	_	End=200.237	_	_	_	3-7(19)
 116-0	PST060	116	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=199.82|End=200.182	_	_	_	0-2(19)
 117-0	PST212	117	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=200.463|End=200.88150000000002	_	_	_	_
 118-0	PST060	118	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=200.88150000000002	_	_	_	_
@@ -801,7 +801,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 152-19	PST060	152	19	sono:	sono	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 152-20	PST060	152	20	altre	altre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 152-21	PST060	152	21	lettere	lettere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-152-22	PST060	152	22	aggiun[tive],	aggiuntive	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=282.35	_	_	_	5-10(30)
+152-22	PST060	152	22	aggiun[tive],	aggiuntive	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=282.35	_	_	_	6-10(30)
 153-0	PST212	153	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=281.85|End=282.419	_	_	_	0-4(30)
 154-0	PST060	154	0	e::hm::	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=282.9|End=284.582	0x2,2x2	_	_	_
 155-0	PST060	155	0	devi	devi	_	_	_	_	_	linguistic	_	_	_	Begin=285.59	_	_	_	_
@@ -1267,7 +1267,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 210-4	PST212	210	4	[su	su	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(41)
 210-5	PST212	210	5	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(41)
 210-6	PST212	210	6	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(41)
-210-7	PST212	210	7	lin]gua:	lingua	_	_	_	_	_	linguistic	_	_	_	End=434.92	5x1	_	_	0-2(41)
+210-7	PST212	210	7	lin]gua:	lingua	_	_	_	_	_	linguistic	_	_	_	End=434.92	5x1	_	_	0-3(41)
 211-0	PST060	211	0	[sull'	sull'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=433.54	_	_	_	0-5(41)
 211-1	PST060	211	1	italiano]	italiano	_	_	_	_	_	linguistic	_	_	_	End=434.46	_	_	_	0-8(41)
 212-0	PST212	212	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=435.05|End=435.59	_	_	_	_
@@ -1660,7 +1660,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 264-8	PST212	264	8	screditare	screditare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 264-9	PST212	264	9	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 264-10	PST212	264	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-264-11	PST212	264	11	co[sì]	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(53)
+264-11	PST212	264	11	co[sì]	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(53)
 264-12	PST212	264	12	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=560.7	_	_	_	_
 265-0	PST060	265	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=560.36	_	_	_	0-2(53)
 265-1	PST060	265	1	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2119,7 +2119,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 334-11	PST060	334	11	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 334-12	PST060	334	12	altri	altri	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 334-13	PST060	334	13	tasti::	tasti	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	_
-334-14	PST060	334	14	[qua]	qua	_	_	_	_	_	linguistic	_	_	_	End=728.66	_	_	_	0-1(68)
+334-14	PST060	334	14	[qua]	qua	_	_	_	_	_	linguistic	_	_	_	End=728.66	_	_	_	0-3(68)
 335-0	PST212	335	0	[a::h	ah	_	_	_	_	_	linguistic	_	_	_	Begin=728.195	0x2	_	_	0-2(68)
 335-1	PST212	335	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(68)
 335-2	PST212	335	2	la]	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(68)
@@ -2714,10 +2714,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 420-16	PST060	420	16	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 420-17	PST060	420	17	di:	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 420-18	PST060	420	18	materialismo	materialismo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-420-19	PST060	420	19	s~	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	1-2(87)
+420-19	PST060	420	19	s~	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 420-20	PST060	420	20	[ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(87)
 420-21	PST060	420	21	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(87)
-420-22	PST060	420	22	bas]a	basa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(87)
+420-22	PST060	420	22	bas]a	basa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(87)
 420-23	PST060	420	23	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 420-24	PST060	420	24	pochino	pochino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 420-25	PST060	420	25	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2832,7 +2832,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 437-0	PST060	437	0	ma	ma	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=985.419	_	_	_	_
 437-1	PST060	437	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 437-2	PST060	437	2	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-437-3	PST060	437	3	al[tra:]	altra	_	_	_	_	_	linguistic	_	_	_	End=987.15	4x1	_	_	1-5(93)
+437-3	PST060	437	3	al[tra:]	altra	_	_	_	_	_	linguistic	_	_	_	End=987.15	4x1	_	_	2-5(93)
 438-0	PST212	438	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=986.52	_	_	_	0-2(93)
 438-1	PST212	438	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(93)
 438-2	PST212	438	2	e]cco	ecco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(93)
@@ -2959,7 +2959,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 456-9	PST060	456	9	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 456-10	PST060	456	10	fa:	fa	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 456-11	PST060	456	11	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-456-12	PST060	456	12	pranz[o	pranzo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(97)
+456-12	PST060	456	12	pranz[o	pranzo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(97)
 456-13	PST060	456	13	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(97)
 456-14	PST060	456	14	tu]tti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(97)
 456-15	PST060	456	15	insieme	insieme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

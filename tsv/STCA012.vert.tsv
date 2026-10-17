@@ -2451,7 +2451,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 444-5	PST158	444	5	proprio:	proprio	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	_
 444-6	PST158	444	6	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 444-7	PST158	444	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-444-8	PST158	444	8	equili:bri[o:]	equilibrio	_	_	_	_	_	linguistic	_	_	_	End=756.33	5x1,9x1	_	_	8-10(85)
+444-8	PST158	444	8	equili:bri[o:]	equilibrio	_	_	_	_	_	linguistic	_	_	_	End=756.33	5x1,9x1	_	_	9-10(85)
 445-0	PST214	445	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=755.98|End=756.33	_	_	_	0-2(85)
 446-0	PST214	446	0	totale	totale	_	_	_	_	_	linguistic	_	_	_	Begin=756.33|End=757.07	_	_	_	_
 447-0	PST158	447	0	e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=757.07	0x1	_	_	_
@@ -2465,7 +2465,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 448-2	PST158	448	2	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 448-3	PST158	448	3	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 448-4	PST158	448	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-448-5	PST158	448	5	tan[ta	tanta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(?)
+448-5	PST158	448	5	tan[ta	tanta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(?)
 448-6	PST158	448	6	gente	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(?)
 448-7	PST158	448	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(?)
 448-8	PST158	448	8	devi	devi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(?)
@@ -2560,7 +2560,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 462-10	PST158	462	10	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 462-11	PST158	462	11	avuto	avuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 462-12	PST158	462	12	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-462-13	PST158	462	13	stessa	stessa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(89)
+462-13	PST158	462	13	stessa	stessa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 462-14	PST158	462	14	[reazio:]ne	reazione	_	_	_	_	_	linguistic	_	_	_	End=785.182	5x1	_	_	0-6(89)
 463-0	PST214	463	0	[vero:],	vero	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=784.181|End=784.749	3x1	_	_	0-4(89)
 464-0	PST158	464	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=785.182	_	_	_	_
@@ -3649,7 +3649,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 695-9	PST214	695	9	otto	otto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 695-10	PST214	695	10	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 695-11	PST214	695	11	me~	me~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
-695-12	PST214	695	12	ot[to	otto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(132)
+695-12	PST214	695	12	ot[to	otto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(132)
 695-13	PST214	695	13	finiscono]	finiscono	_	_	_	_	_	linguistic	_	_	_	End=1142.89	_	_	_	0-9(132)
 696-0	PST158	696	0	[e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1141.935	0x1	_	_	0-2(132)
 696-1	PST158	696	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(132)
@@ -3783,7 +3783,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 727-4	PST158	727	4	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 727-5	PST158	727	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 727-6	PST158	727	6	mensa::	mensa	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	_
-727-7	PST158	727	7	vici[no	vicino	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	3-6(139)
+727-7	PST158	727	7	vici[no	vicino	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	4-6(139)
 727-8	PST158	727	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(139)
 727-9	PST158	727	9	va]do	vado	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(139)
 727-10	PST158	727	10	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5110,7 +5110,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 968-6	PST214	968	6	succo	succo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 968-7	PST214	968	7	d~	d~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 968-8	PST214	968	8	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-968-9	PST214	968	9	anan[as]	ananas	_	_	_	_	_	linguistic	_	_	_	End=1572.17	_	_	_	3-6(198)
+968-9	PST214	968	9	anan[as]	ananas	_	_	_	_	_	linguistic	_	_	_	End=1572.17	_	_	_	4-6(198)
 969-0	PST158	969	0	[ananas]	ananas	_	_	_	_	_	linguistic	_	_	_	Begin=1570.07|End=1570.83	_	_	_	0-6(197)
 970-0	PST158	970	0	[an]anas	ananas	_	_	_	_	_	linguistic	_	_	_	Begin=1571.99	_	_	_	0-2(198)
 970-1	PST158	970	1	spacca	spacca	_	_	_	_	_	linguistic	_	_	_	End=1572.946	_	_	_	_
@@ -5345,7 +5345,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1025-3	PST158	1025	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1025-4	PST158	1025	4	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1025-5	PST158	1025	5	promo	promo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1025-6	PST158	1025	6	universi[tari:]	universitari	_	_	_	_	_	linguistic	_	_	_	End=1642.34	11x1	_	_	7-12(215)
+1025-6	PST158	1025	6	universi[tari:]	universitari	_	_	_	_	_	linguistic	_	_	_	End=1642.34	11x1	_	_	8-12(215)
 1026-0	PST214	1026	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1641.58|End=1642.038	_	_	_	0-2(215)
 1027-0	PST214	1027	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1642.62	_	_	_	_
 1027-1	PST214	1027	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=1643.11	_	_	_	_
@@ -6545,8 +6545,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1295-2	PST214	1295	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1295-3	PST214	1295	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1295-4	PST214	1295	4	informatica	informatica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1295-5	PST214	1295	5	ch[e::	che	_	_	_	_	_	linguistic	_	_	_	_	2x2	_	_	0-3(271)
-1295-6	PST214	1295	6	e]ntra	entra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+1295-5	PST214	1295	5	ch[e::	che	_	_	_	_	_	linguistic	_	_	_	_	2x2	_	_	2-3(271)
+1295-6	PST214	1295	6	e]ntra	entra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(271)
 1295-7	PST214	1295	7	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=2045.351	_	_	_	_
 1296-0	PST158	1296	0	[oka:y]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=2044.05|End=2044.82	2x1	_	_	0-4(271)
 1297-0	PST158	1297	0	[quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2045.88|End=2046.38	_	_	_	0-6(272)
@@ -6733,7 +6733,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1342-4	PST158	1342	4	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1342-5	PST158	1342	5	vocaboli	vocaboli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1342-6	PST158	1342	6	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1342-7	PST158	1342	7	studi[are]	studiare	_	_	_	_	_	linguistic	_	_	_	End=2116.03	_	_	_	4-8(279)
+1342-7	PST158	1342	7	studi[are]	studiare	_	_	_	_	_	linguistic	_	_	_	End=2116.03	_	_	_	5-8(279)
 1343-0	PST214	1343	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2115.72|End=2116.09	_	_	_	0-2(279)
 1344-0	PST158	1344	0	ho	ho	_	_	_	_	_	linguistic	_	_	_	Begin=2116.13	_	_	_	_
 1344-1	PST158	1344	1	$quittato	quittato	_	_	_	_	_	linguistic	_	Nonce=Yes	_	_	_	_	_	_
@@ -6802,8 +6802,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1354-8	PST158	1354	8	annualità	annualità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1354-9	PST158	1354	9	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1354-10	PST158	1354	10	@cantoni	@cantoni	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	_	_	_	_	_
-1354-11	PST158	1354	11	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(282)
-1354-12	PST158	1354	12	[con]	con	_	_	_	_	_	linguistic	_	_	_	End=2133.66	_	_	_	0-2(282)
+1354-11	PST158	1354	11	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+1354-12	PST158	1354	12	[con]	con	_	_	_	_	_	linguistic	_	_	_	End=2133.66	_	_	_	0-3(282)
 1355-0	PST214	1355	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2133.23	1x1	_	_	0-2(282)
 1355-1	PST214	1355	1	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1355-2	PST214	1355	2	@cant[oni]	@cantoni	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=2134.26	_	_	_	5-8(283)
@@ -7766,7 +7766,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1555-8	PST214	1555	8	prendi	prendi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1555-9	PST214	1555	9	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1555-10	PST214	1555	10	tè	tè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1555-11	PST214	1555	11	fred[do]	freddo	_	_	_	_	_	linguistic	_	_	_	End=2439.073	_	_	_	3-6(327)
+1555-11	PST214	1555	11	fred[do]	freddo	_	_	_	_	_	linguistic	_	_	_	End=2439.073	_	_	_	4-6(327)
 1556-0	PST158	1556	0	[il]	il	_	_	_	_	_	linguistic	_	_	_	Begin=2438.87	_	_	_	0-2(327)
 1556-1	PST158	1556	1	tè	tè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1556-2	PST158	1556	2	fre:ddo	freddo	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_

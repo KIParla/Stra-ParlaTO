@@ -1483,7 +1483,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 203-7	PST044	203	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(55)
 203-8	PST044	203	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(55)
 203-9	PST044	203	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(55)
-203-10	PST044	203	10	è]	è	_	_	_	_	_	linguistic	_	_	_	End=567.4	_	_	_	_
+203-10	PST044	203	10	è]	è	_	_	_	_	_	linguistic	_	_	_	End=567.4	_	_	_	0-1(55)
 204-0	PST211	204	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=567.577|End=568.085	_	_	_	_
 205-0	PST044	205	0	m:h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=568.131	0x1	_	_	_
 205-1	PST044	205	1	m::h	mh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	0x2	_	_	_
@@ -2115,7 +2115,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 276-8	PST211	276	8	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 276-9	PST211	276	9	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 276-10	PST211	276	10	vestiti	vestiti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-276-11	PST211	276	11	tradizion[a:li:]::,	tradizionali	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=773.54	9x1,11x3	_	_	8-12(84)
+276-11	PST211	276	11	tradizion[a:li:]::,	tradizionali	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=773.54	9x1,11x3	_	_	9-12(84)
 277-0	PST044	277	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=772.614	_	_	_	0-2(84)
 277-1	PST044	277	1	sì:]	sì	_	_	_	_	_	linguistic	_	_	_	End=773.15	1x1	_	_	0-2(84)
 278-0	PST211	278	0	ci:bo	cibo	_	_	_	_	_	linguistic	_	_	_	Begin=774.507	1x1	_	_	_

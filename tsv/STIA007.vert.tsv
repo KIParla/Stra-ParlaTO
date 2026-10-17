@@ -1612,7 +1612,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 104-26	PST015	104	26	capisce	capisce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 104-27	PST015	104	27	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 104-28	PST015	104	28	inglese	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-104-29	PST015	104	29	insomm[a]	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=645.629	_	_	_	5-7(19)
+104-29	PST015	104	29	insomm[a]	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=645.629	_	_	_	6-7(19)
 105-0	PST205	105	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=645.345|End=645.629	_	_	_	0-2(19)
 106-0	PST015	106	0	dice:	dice	_	_	_	_	_	linguistic	_	_	_	Begin=645.752	3x1	_	_	_
 106-1	PST015	106	1	qualche	qualche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2523,7 +2523,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 166-28	PST015	166	28	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 166-29	PST015	166	29	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 166-30	PST015	166	30	rallentatore	rallentatore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-166-31	PST015	166	31	capit[o:]	capito	_	_	_	_	_	linguistic	_	_	_	End=1011.086	5x1	_	_	4-6(28)
+166-31	PST015	166	31	capit[o:]	capito	_	_	_	_	_	linguistic	_	_	_	End=1011.086	5x1	_	_	5-6(28)
 167-0	PST205	167	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1010.845|End=1011.144	_	_	_	0-2(28)
 168-0	PST015	168	0	cerca	cerca	_	_	_	_	_	linguistic	_	_	_	Begin=1011.201	_	_	_	_
 168-1	PST015	168	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3782,7 +3782,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 283-22	PST015	283	22	l~	l~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1513.162	_	_	_	_
 284-0	PST205	284	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1513.249	_	_	_	_
 284-1	PST205	284	1	oggetto	oggetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-284-2	PST205	284	2	fini[to]	finito	_	_	_	_	_	linguistic	_	_	_	End=1514.14	_	_	_	3-6(56)
+284-2	PST205	284	2	fini[to]	finito	_	_	_	_	_	linguistic	_	_	_	End=1514.14	_	_	_	4-6(56)
 285-0	PST015	285	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1513.697	_	_	_	0-2(56)
 285-1	PST015	285	1	o]ggetto	oggetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(56)
 285-2	PST015	285	2	finito	finito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5314,7 +5314,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 430-7	PST015	430	7	dovrebbero	dovrebbero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 430-8	PST015	430	8	essere::	essere	_	_	_	_	_	linguistic	_	_	_	End=2178.33	5x2	_	_	_
 431-0	PST205	431	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2178.796	_	_	_	_
-431-1	PST205	431	1	informazi[one	informazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-12(91)
+431-1	PST205	431	1	informazi[one	informazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-12(91)
 431-2	PST205	431	2	accurata]	accurata	_	_	_	_	_	linguistic	_	_	_	End=2180.095	_	_	_	0-8(91)
 432-0	PST015	432	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2179.462	_	_	_	0-2(91)
 432-1	PST015	432	1	l~	l~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-2(91)
@@ -5726,7 +5726,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 472-4	PST205	472	4	ita:lia	italia	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 472-5	PST205	472	5	nelle	nelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 472-6	PST205	472	6	competizioni	competizioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-472-7	PST205	472	7	internazion[ali]?	internazionali	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2353.295	_	_	_	10-14(99)
+472-7	PST205	472	7	internazion[ali]?	internazionali	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2353.295	_	_	_	11-14(99)
 473-0	PST015	473	0	sì::	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2352.965|End=2353.472	1x2	_	_	_
 474-0	PST015	474	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=2354.13	_	_	_	_
 474-1	PST015	474	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5748,7 +5748,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 476-12	PST015	476	12	doveva	doveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 476-13	PST015	476	13	essere	essere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 476-14	PST015	476	14	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-476-15	PST015	476	15	itali[a]	italia	_	_	_	_	_	linguistic	_	_	_	End=2360.734	_	_	_	3-5(?)
+476-15	PST015	476	15	itali[a]	italia	_	_	_	_	_	linguistic	_	_	_	End=2360.734	_	_	_	5-6(?)
 477-0	PST205	477	0	[q]uando	quando	_	_	_	_	_	linguistic	_	_	_	Begin=2360.547	_	_	_	0-1(101)
 477-1	PST205	477	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 477-2	PST205	477	2	ha::	ha	_	_	_	_	_	linguistic	_	_	_	_	1x2	_	_	_
@@ -5854,7 +5854,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 495-12	PST015	495	11	polenta	polenta	_	_	_	_	_	linguistic	_	_	_	End=2401.461	_	_	_	_
 496-0	PST205	496	0	com'	com'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2401.928	_	_	_	_
 496-1	PST205	496	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-496-2	PST205	496	2	venu[ta]?	venuta	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2402.726	_	_	_	3-6(105)
+496-2	PST205	496	2	venu[ta]?	venuta	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2402.726	_	_	_	4-6(105)
 497-0	PST015	497	0	[(ride)]	ride	_	_	_	_	_	linguistic	_	_	_	Begin=2402.409	_	_	0-4(0)	0-4(105)
 497-1	PST015	497	1	mangiabile	mangiabile	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 497-2	PST015	497	2	via	via	_	_	_	_	_	linguistic	_	_	_	End=2405.037	_	_	_	_

@@ -157,7 +157,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 23-30	PST092	23	30	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	0-2(0)	_
 23-31	PST092	23	31	equipe)	equipe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	0-5(0)	_
 23-32	PST092	23	32	[del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(7)
-23-33	PST092	23	33	#centru],	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=40.679	_	_	_	0-6(7)
+23-33	PST092	23	33	#centru],	centru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=40.679	_	_	_	0-7(7)
 25-0	PST203	25	0	[m:h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=39.909	0x1	_	_	0-2(7)
 25-1	PST203	25	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=40.679	_	_	_	0-2(7)
 26-0	PST211	26	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=40.679	_	_	_	_
@@ -292,7 +292,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 49-13	PST092	49	13	[introdurre	introdurre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(467)
 49-14	PST092	49	14	subito	subito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(467)
 49-15	PST092	49	15	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(467)
-49-16	PST092	49	16	orche]:stra:	orchestra	_	_	_	_	_	linguistic	_	_	_	End=83.902	4x1,8x1	_	_	0-4(467)
+49-16	PST092	49	16	orche]:stra:	orchestra	_	_	_	_	_	linguistic	_	_	_	End=83.902	4x1,8x1	_	_	0-5(467)
 50-0	PST203	50	0	[o:kay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=79.702|End=80.532	0x1	_	_	0-4(17)
 51-0	PST083	51	0	[e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=81.962	0x1	_	_	0-2(467)
 51-1	PST083	51	1	esatto]	esatto	_	_	_	_	_	linguistic	_	_	_	End=83.072	_	_	_	0-6(467)
@@ -377,7 +377,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 63-11	PST086	63	11	mio	mio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(?)
 63-12	PST086	63	12	telefono	telefono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(?)
 63-13	PST086	63	13	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(?)
-63-14	PST086	63	14	no]	no	_	_	_	_	_	linguistic	_	_	_	End=108.372	_	_	_	_
+63-14	PST086	63	14	no]	no	_	_	_	_	_	linguistic	_	_	_	End=108.372	_	_	_	0-2(?)
 64-0	PST211	64	0	[e][cco	ecco	_	_	_	_	_	linguistic	_	_	_	Begin=105.18	_	_	_	1-4(?)
 64-1	PST211	64	1	li	li	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(?)
 64-2	PST211	64	2	bisogna	bisogna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(?)
@@ -695,7 +695,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 132-6	PST092	132	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 132-7	PST092	132	7	colleghiamo	colleghiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 132-8	PST092	132	8	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-132-9	PST092	132	9	inter[vista	intervista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-10(39)
+132-9	PST092	132	9	inter[vista	intervista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-10(39)
 132-10	PST092	132	10	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(39)
 132-11	PST092	132	11	mamma	mamma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(39)
 132-12	PST092	132	12	di::]	di	_	_	_	_	_	linguistic	_	_	_	_	1x2	_	_	0-2(39)
@@ -720,7 +720,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 137-10	PST092	137	10	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 137-11	PST092	137	11	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 137-12	PST092	137	12	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-137-13	PST092	137	13	collega[no	collegano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-9(42)
+137-13	PST092	137	13	collega[no	collegano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(42)
 137-14	PST092	137	14	quelle	quelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(42)
 137-15	PST092	137	15	cose]	cose	_	_	_	_	_	linguistic	_	_	_	End=210.08	_	_	_	0-4(42)
 138-0	PST203	138	0	[o:kay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=209.06	0x1	_	_	0-4(42)
@@ -1406,7 +1406,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 262-2	PST087	262	2	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(76)
 262-3	PST087	262	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(76)
 262-4	PST087	262	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(76)
-262-5	PST087	262	5	intervista]	intervista	_	_	_	_	_	linguistic	_	_	_	End=408.83	_	_	_	0-9(76)
+262-5	PST087	262	5	intervista]	intervista	_	_	_	_	_	linguistic	_	_	_	End=408.83	_	_	_	0-10(76)
 263-0	PST086	263	0	[tipo	tipo	_	_	_	_	_	linguistic	_	_	_	Begin=407.725	_	_	_	0-4(76)
 263-1	PST086	263	1	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(76)
 263-2	PST086	263	2	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(76)
@@ -1845,7 +1845,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 349-0	PST087	349	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=539.085	_	_	_	_
 349-1	PST087	349	1	apertura	apertura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 349-2	PST087	349	2	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-349-3	PST087	349	3	po:r[ta:]	porta	_	_	_	_	_	linguistic	_	_	_	End=540.565	1x1,4x1	_	_	2-5(102)
+349-3	PST087	349	3	po:r[ta:]	porta	_	_	_	_	_	linguistic	_	_	_	End=540.565	1x1,4x1	_	_	3-5(102)
 350-0	PST203	350	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=540.27	1x1	_	_	0-2(102)
 350-1	PST203	350	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 350-2	PST203	350	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2077,7 +2077,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 404-0	PST092	404	0	come	come	_	_	_	_	_	linguistic	_	_	_	Begin=614.681	_	_	_	_
 404-1	PST092	404	1	copertura	copertura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 404-2	PST092	404	2	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-404-3	PST092	404	3	inter[vista]	intervista	_	_	_	_	_	linguistic	_	_	_	End=616.481	_	_	_	4-10(119)
+404-3	PST092	404	3	inter[vista]	intervista	_	_	_	_	_	linguistic	_	_	_	End=616.481	_	_	_	5-10(119)
 405-0	PST203	405	0	[so~	so~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=615.9	_	_	_	0-3(119)
 405-1	PST203	405	1	se]	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(119)
 405-2	PST203	405	2	co:pre	copre	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	1x1	_	_	_
@@ -2367,10 +2367,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 481-6	PST211	481	6	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(135)
 481-7	PST211	481	7	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(135)
 481-8	PST211	481	8	abbia	abbia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(135)
-481-9	PST211	481	9	de]tto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(135)
+481-9	PST211	481	9	de]tto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(135)
 481-10	PST211	481	10	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 481-11	PST211	481	11	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-481-12	PST211	481	12	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	4-6(497)
+481-12	PST211	481	12	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 481-13	PST211	481	13	[intervista	intervista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(497)
 481-14	PST211	481	14	((ride))]	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=722.708	_	_	_	X(497)
 482-0	PST092	482	0	[eh	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=719.61	_	_	_	0-2(135)
@@ -3294,7 +3294,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 693-17	PST087	693	17	ballo	ballo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 693-18	PST087	693	18	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 693-19	PST087	693	19	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-693-20	PST087	693	20	sta[vo	stavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(208)
+693-20	PST087	693	20	sta[vo	stavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(208)
 693-21	PST087	693	21	prendendo::]	prendendo	_	_	_	_	_	linguistic	_	_	_	End=1037.596	8x2	_	_	0-9(208)
 694-0	PST092	694	0	[cerchiamo::]	cerchiamo	_	_	_	_	_	linguistic	_	_	_	Begin=1032.05|End=1033.39	8x2	_	_	0-9(207)
 695-0	PST092	695	0	[ma	ma	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1036.875	_	_	_	0-2(208)
@@ -3535,9 +3535,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 736-10	PST083	736	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	1-2(0)	0-2(223)
 736-11	PST083	736	11	(abbiate)	abbiate	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-6(0)	0-7(223)
 736-12	PST083	736	12	intervistato	intervistato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-12(223)
-736-13	PST083	736	13	dopo]	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(223)
-736-14	PST083	736	14	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(224)
-736-15	PST083	736	15	[balli]	balli	_	_	_	_	_	linguistic	_	_	_	End=1104.88	_	_	_	0-4(224)
+736-13	PST083	736	13	dopo]	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(223)
+736-14	PST083	736	14	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+736-15	PST083	736	15	[balli]	balli	_	_	_	_	_	linguistic	_	_	_	End=1104.88	_	_	_	0-5(224)
 737-0	PST087	737	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1102.19	_	_	_	0-2(223)
 737-1	PST087	737	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(223)
 737-2	PST087	737	2	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(223)
@@ -4180,7 +4180,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 843-21	PST087	843	21	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 843-22	PST087	843	22	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 843-23	PST087	843	23	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-843-24	PST087	843	24	cl[ip]	clip	_	_	_	_	_	linguistic	_	_	_	End=1299.913	_	_	_	1-4(264)
+843-24	PST087	843	24	cl[ip]	clip	_	_	_	_	_	linguistic	_	_	_	End=1299.913	_	_	_	2-4(264)
 844-0	PST092	844	0	[ma]	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1299.659	_	_	_	0-2(264)
 844-1	PST092	844	1	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 844-2	PST092	844	2	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4397,7 +4397,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 877-1	PST092	877	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 877-2	PST092	877	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 877-3	PST092	877	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-877-4	PST092	877	4	sta[to	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(276)
+877-4	PST092	877	4	sta[to	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(276)
 877-5	PST092	877	5	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(276)
 877-6	PST092	877	6	qua]ndo	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(276)
 877-7	PST092	877	7	siamo	siamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4544,7 +4544,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 894-2	PST083	894	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 894-3	PST083	894	3	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 894-4	PST083	894	4	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-894-5	PST083	894	5	sfo[ndo:]	sfondo	_	_	_	_	_	linguistic	_	_	_	End=1401.773	5x1	_	_	2-6(283)
+894-5	PST083	894	5	sfo[ndo:]	sfondo	_	_	_	_	_	linguistic	_	_	_	End=1401.773	5x1	_	_	3-6(283)
 895-0	PST203	895	0	[allora	allora	_	_	_	_	_	linguistic	_	_	_	Begin=1401.2	_	_	_	0-6(283)
 895-1	PST203	895	1	con]tate	contate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(283)
 895-2	PST203	895	2	que:sto	questo	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
@@ -4881,7 +4881,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 955-10	PST092	955	10	tutte	tutte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 955-11	PST092	955	11	quelle	quelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 955-12	PST092	955	12	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-955-13	PST092	955	13	succ[e:sse]	successe	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	3-8(297)
+955-13	PST092	955	13	succ[e:sse]	successe	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	4-8(297)
 955-14	PST092	955	14	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1525.952	_	_	_	_
 956-0	PST203	956	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1525.277	_	_	_	0-2(297)
 956-1	PST203	956	1	no:]:::	no	_	_	_	_	_	linguistic	_	_	_	End=1526.537	1x4	_	_	0-2(297)
@@ -5555,7 +5555,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1089-1	PST092	1089	1	[dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(338)
 1089-2	PST092	1089	2	italia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(338)
 1089-3	PST092	1089	3	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(338)
-1089-4	PST092	1089	4	i~]	i~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-1(338)
+1089-4	PST092	1089	4	i~]	i~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-2(338)
 1089-5	PST092	1089	5	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1089-6	PST092	1089	6	italia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1089-7	PST092	1089	7	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5879,7 +5879,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1158-5	PST092	1158	5	#românesc	românesc	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1158-6	PST092	1158	6	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1158-7	PST092	1158	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-1158-8	PST092	1158	8	itali[a:no:]	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1822.34	5x1,7x1	_	_	4-8(532)
+1158-8	PST092	1158	8	itali[a:no:]	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1822.34	5x1,7x1	_	_	5-8(532)
 1160-0	PST083	1160	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1819.02	_	_	_	0-2(356)
 1160-1	PST083	1160	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(356)
 1160-2	PST083	1160	2	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(356)
@@ -6802,11 +6802,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1367-1	PST083	1367	1	artistico	artistico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(405)
 1367-2	PST083	1367	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(405)
 1367-3	PST083	1367	3	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(405)
-1367-4	PST083	1367	4	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+1367-4	PST083	1367	4	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(405)
 1367-5	PST083	1367	5	[in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(406)
 1367-6	PST083	1367	6	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(406)
 1367-7	PST083	1367	7	sta	sta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(406)
-1367-8	PST083	1367	8	piangendo]	piangendo	_	_	_	_	_	linguistic	_	_	_	End=2154.206	_	_	_	0-8(406)
+1367-8	PST083	1367	8	piangendo]	piangendo	_	_	_	_	_	linguistic	_	_	_	End=2154.206	_	_	_	0-9(406)
 1368-0	PST086	1368	0	[e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2152.88	0x1	_	_	0-2(406)
 1368-1	PST086	1368	1	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(406)
 1368-2	PST086	1368	2	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(406)
