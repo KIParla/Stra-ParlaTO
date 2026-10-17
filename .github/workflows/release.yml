@@ -4,7 +4,6 @@ name: Release Module
 # It reads the version from CITATION.cff, creates the tag, and opens a
 # DRAFT release pre-filled with auto-generated notes (commits since last tag).
 # Review and edit the draft on GitHub, then publish it manually.
-# Publishing triggers notify-collection, which rebuilds KIParla-collection.
 
 on:
   workflow_dispatch:
