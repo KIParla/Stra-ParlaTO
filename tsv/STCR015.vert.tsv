@@ -3144,7 +3144,6 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1188-2	PST119	1188	2	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1188-3	PST119	1188	3	plantă	plantă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1809.83	_	_	_	_
 1190-0	PST120	1190	0	#patlagină	patlagină	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1810.0|End=1811.27	_	_	_	_
-1192-0	PST120	1192	0	#_ 	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1811.44|End=1812.856	_	_	_	_
 1193-0	PST120	1193	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1812.93	_	_	_	_
 1193-1	PST120	1193	1	pomodoro	pomodoro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1193-2	PST120	1193	2	verde	verde	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
