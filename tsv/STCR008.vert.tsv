@@ -7974,8 +7974,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1066-34	PST092	1066	34	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1066-35	PST092	1066	35	videochiamata	videochiamata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1066-36	PST092	1066	36	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1066-37	PST092	1066	37	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1066-38	PST092	1066	38	<	_	_	_	_	_	_	error	_	_	_	End=2531.28	_	_	_	_
+1066-37	PST092	1066	37	lei	lei	_	_	_	_	_	linguistic	_	_	_	End=2531.28	_	_	_	_
 1067-0	PST092	1067	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2531.444|End=2532.523	_	_	_	_
 1068-0	PST203	1068	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2531.444|End=2532.5	_	_	_	_
 1069-0	PST092	1069	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2532.628|End=2533.123	_	_	_	_
