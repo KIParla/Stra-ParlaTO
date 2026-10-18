@@ -1,5 +1,21 @@
 = Changelog
 
+== v2.0.0 (2026-10-18)
+
+=== What's changed in 2.0.0
+
+Major release: the `code_variation` column of the `tsv/` files changes format, so files read with the previous schema need updating.
+
+* *`code_variation` column (breaking)*: `ContainsVariation=Yes` is written only for units that contain a code change; ordinary tokens have `_` (the old `ContainsVariation=No` is no longer written). `Code=`, `Language=` and `Nonce=Yes` are unchanged.
+* *Character offsets after elisions*: the position of the token features `guesses`, `pace`, `volume` and `overlaps` was shifted by one character after each elision (*l'esame*); values corrected in the `tsv/` files.
+* *Empty tokens*: tokens with an empty `form` (isolated brackets, markers attached to a space or to `=`) no longer exist; the transcription was corrected where needed. Token ids of the affected units were kept stable where possible.
+* *Stray `#`*: tokens consisting of or containing a stray `#` were corrected in the transcription.
+* Units made only of a marker (`#_`), with no content, were removed from the transcription for now; they are listed in the open issues for a decision.
+
+.eaf, linear files, validation page and `csv-metadata.json` regenerated.
+
+link:https://github.com/KIParla/Stra-ParlaTO/compare/v1.1.1...v2.0.0[Full Changelog]
+
 == v1.1.1 (2026-10-15)
 
 === What's changed in 1.1.1
