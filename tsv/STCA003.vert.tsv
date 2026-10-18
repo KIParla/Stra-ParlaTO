@@ -4458,9 +4458,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1334-1	PST211	1334	1	stampiamo	stampiamo	_	_	_	_	_	linguistic	_	_	_	End=2096.628	_	_	_	_
 1335-0	PST217	1335	0	anche	anche	_	_	_	_	_	linguistic	_	_	_	Begin=2100.5	_	_	_	_
 1335-1	PST217	1335	1	[u:na]	una	_	_	_	_	_	linguistic	_	_	_	End=2101.483	0x1	_	_	0-3(258)
-1336-0	PST107	1336	0	#_ [ʕālāmī	ʕālāmī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2100.865	_	_	_	0-6(258)
-1336-1	PST107	1336	1	]	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1336-2	PST107	1336	2	ṣāfi	ṣāfi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2101.87	_	_	_	_
+1336-0	PST107	1336	0	#_ [ʕālāmī]	ʕālāmī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2100.865	_	_	_	0-6(258)
+1336-2	PST107	1336	1	ṣāfi	ṣāfi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2101.87	_	_	_	_
 1338-0	PST217	1338	0	siete::	siete	_	_	_	_	_	linguistic	_	_	_	Begin=2105.204	4x2	_	_	_
 1338-1	PST217	1338	1	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1338-2	PST217	1338	2	miei	miei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
