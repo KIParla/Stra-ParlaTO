@@ -731,7 +731,6 @@ PST120	#xx
 PST118	#_ dar ce-i patlagină
 PST119	#_ plantagină e o plantă
 PST120	#patlagină
-PST120	#_
 PST120	è pomodoro verde
 PST118	a::h
 PST120	pomodoro quando un pomodori sono verdi,
