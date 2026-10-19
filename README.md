@@ -30,8 +30,6 @@ originally produced in the speaker's other language(s) — see [Translations](#t
 
 The transcriptions have been anonymized.
 
-All files are encoded in UTF-8 (without BOM), use LF line endings, and are in Unicode Normalization Form C (NFC), following the conventions of Universal Dependencies.
-
 Overall, the module is made up of 82 conversations and includes 139 speakers.
 
 ## Repository organization
