@@ -25,7 +25,7 @@ and Resilience Plan (PNRR) – Mission 4 Education and research (MUR project cod
 
 It consists of conversations and semi-structured interviews collected in Turin and
 its province, involving speakers of Italian as a foreign or second language. Some
-conversations include a `_trad` child tier with an Italian translation of tokens
+conversations include an `ft@<speaker>` tier (free translation) with an Italian translation of tokens
 originally produced in the speaker's other language(s) — see [Translations](#translations).
 
 The transcriptions have been anonymized.
@@ -143,15 +143,15 @@ Each token is represented as 20 columns, as follows:
 
 ## Translations
 
-Some conversations include one or more child tiers (named `<speaker>_trad`) carrying an Italian
-translation of that speaker's foreign-language speech. The `environment` tier (non-speech material and speech from external sources such as a video) can have its own child tier, `environment_trad`, handled the same way. These tiers are excluded from the
+Some conversations include one or more free-translation tiers (`ft@<speaker>` in the `.eaf` file) carrying an Italian
+translation of that speaker's foreign-language speech. The `environment` tier (non-speech material and speech from external sources such as a video) can have its own free-translation tier, `ft@environment`, handled the same way. These tiers are excluded from the
 verticalized `tsv/` output — they are not tokenized or normalized like regular transcription
 units — and are instead collected separately in [`translations/`](./translations/):
 
 * `<code>.translations.tsv`/`<code>.translations.json`: one row/object per translated
   transcription unit, with columns/fields:
   - `tu_id`: identifier of the translation unit itself
-  - `speaker`: the `<speaker>_trad` tier name
+  - `speaker`: the translated speaker's code with the `_trad` suffix (`<speaker>_trad`; `environment_trad` for the environment tier)
   - `start`/`end`: timestamps in seconds (inherited from the source unit being translated)
   - `parent_tu_id`: `tu_id` of the original transcription unit (in `tsv/<code>.vert.tsv`) that this row translates
   - `text`: the Italian translation, as transcribed (not tokenized/normalized)
